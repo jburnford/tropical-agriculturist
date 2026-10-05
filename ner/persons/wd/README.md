@@ -43,3 +43,18 @@ The gold set (`../gold/`) measures precision properly.
 `adjudication/`: review profiles plus "none" profiles with ≥50 mentions (690), split into two batches for
 model adjudication. The model may run its own MCP searches and must verify statements before linking.
 Results go to `out_A.tsv` / `out_B.tsv`.
+
+## Tier 2: Colonial Office List KG (`../colist/match_colist.py`)
+
+All named profiles with ≥3 mentions (6,716) are matched against `~/col_matching/data/kg/graph_stage3`
+(persons + career_events). A CO List person is a candidate when:
+- the surname matches and the given names are compatible, with no contradicting full name;
+- the listed career overlaps the profile's core mention years (10th–90th percentile, ±5);
+- there is a Ceylon posting, or a posting in a non-generic place the profile co-occurs with.
+
+`auto` needs exactly one candidate, a shared specific role word (agriculture, botanic, analyst, government
+agent…; generic words such as director/public/service don't count), and a CO record with at least as many
+given names as the profile. Result: auto 314, review 167. A sample of 30 auto links had one error before the
+last rule (J. F. Anderson → John Anderson, Governor). Agreement with tier 1: in all 16 profiles where both
+tiers auto-link and the CO record has a QID, the QIDs are the same. The KG also supplies 48 QIDs where
+tier 1 was review/none (Daniel Morris, Sir William Henry Gregory, E. B. Denham…).
