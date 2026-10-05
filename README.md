@@ -11,6 +11,22 @@ fields, the build pipeline and the measured accuracy. `RERUN_PLAN.md` and the `s
 scripts document the header/footer re-run and the per-page repairs (faint pages, show-through,
 summarised and side-by-side tables) that produced `output_v6` from the first run.
 
+**Browse the articles:** `viewer/index.html` — by year and issue, every article with its text and the
+archive.org page images beside it, plus a random-sample button for spot checks. Online at
+<https://jburnford.github.io/tropical-agriculturist/viewer/> (GitHub Pages), or locally:
+
+```bash
+python3 -m http.server 8000
+```
+
+then open <http://localhost:8000/viewer/>. It reads `articles/by_year/*.jsonl.gz` directly; no build step.
+
+**What is backed up here:** the OCR corpus `output_v6/` (253 documents, 63,680 pages: markdown, HTML,
+page metadata, extracted images), the article file split per year in `articles/by_year/`, the heading
+skeletons and labels the split was built from, and `output_v5_diff/` to rebuild the previous corpus
+version. Not here: the September v1 corpus (`output/`, made without headers/footers; superseded) and the
+raw IA PDFs (on Trillium and Nibi; re-downloadable from archive.org).
+
 The rest of this file is the original inventory/download/submit README from September 2026.
 
 ---
