@@ -1,0 +1,222 @@
+The Tropical Agriculturist - Internet Archive coverage
+==============================================================
+IA items examined        : 689
+  index-only (skipped)   : 54
+  no usable PDF          : 46
+  volume inferred by date: 19
+
+Download set             : 311 files, 8.2 GB
+  already held on E:     : 42
+  to fetch               : 269
+Pages (IA imagecount)    : 60,799
+By digitisation family   : {'cornell': 36, 'lbg': 15, 'per-issue': 229, 'dli': 25, 'unse': 5, 'tdl': 1}
+
+Volumes covered          : 110  (vol 1 - vol 117)
+Gaps in that range       : 7  -> [24, 25, 29, 36, 102, 109, 111]
+
+Per-volume detail
+--------------------------------------------------------------
+  vol   1 (1881)   1 file(s)   1120 pp  [cornell]  (held)
+  vol   2 (1882)   1 file(s)   1036 pp  [cornell]
+  vol   3 (1882)   1 file(s)    962 pp  [cornell]  (held)
+  vol   4 (1882)   1 file(s)    978 pp  [cornell]  (held)
+  vol   5 (1882)   1 file(s)    908 pp  [cornell]  (held)
+  vol   6 (1882)   1 file(s)    882 pp  [cornell]  (held)
+  vol   7 (1887)   1 file(s)   1008 pp  [cornell]  (held)
+  vol   8 (1888)   1 file(s)   1164 pp  [cornell]  (held)
+  vol   9 (1889)   1 file(s)   1022 pp  [cornell]  (held)
+  vol  10 (1890)   1 file(s)   1072 pp  [cornell]  (held)
+  vol  11 (1891)   2 file(s)   2226 pp  [cornell]  (held)
+  vol  12 (1892)   1 file(s)   1350 pp  [cornell]  (held)
+  vol  13 (1893)   1 file(s)   1086 pp  [cornell]  (held)
+  vol  14 (1894)   1 file(s)   1094 pp  [cornell]
+  vol  15 (1895)   1 file(s)   1118 pp  [cornell]  (held)
+  vol  16 (1896)   1 file(s)   1136 pp  [cornell]  (held)
+  vol  17 (1897)   1 file(s)   1164 pp  [cornell]  (held)
+  vol  18 (1898)   1 file(s)   1210 pp  [cornell]  (held)
+  vol  19 (1899)   1 file(s)   1207 pp  [cornell]  (held)
+  vol  20 (1900)   1 file(s)   1228 pp  [cornell]  (held)
+  vol  21 (1901)   1 file(s)   1224 pp  [cornell]  (held)
+  vol  22 (1902)   1 file(s)   1286 pp  [cornell]  (held)
+  vol  23 (1903)   1 file(s)   1420 pp  [cornell]  (held)
+  vol  26 (1905)   1 file(s)    594 pp  [cornell]  (held)
+  vol  27 (1905)   1 file(s)    580 pp  [cornell]  (held)
+  vol  28 (1905)   1 file(s)    456 pp  [cornell]  (held)
+  vol  30 (1905)   1 file(s)    662 pp  [cornell]  (held)
+  vol  31 (1905)   1 file(s)    670 pp  [cornell]  (held)
+  vol  32 (1905)   1 file(s)    654 pp  [cornell]  (held)
+  vol  33 (1905)   1 file(s)    622 pp  [cornell]  (held)
+  vol  34 (1905)   1 file(s)    614 pp  [cornell]  (held)
+  vol  35 (1905)   1 file(s)    634 pp  [cornell]  (held)
+  vol  37 (1905)   1 file(s)    620 pp  [cornell]  (held)
+  vol  38 (1905)   1 file(s)    620 pp  [cornell]  (held)
+  vol  39 (1905)   1 file(s)    568 pp  [cornell]  (held)
+  vol  40 (1913)   1 file(s)    496 pp  [lbg]  (held)
+  vol  41 (1913)   1 file(s)    568 pp  [lbg]  (held)
+  vol  42 (1914)   1 file(s)    554 pp  [lbg]  (held)
+  vol  43 (1914)   1 file(s)    502 pp  [lbg]  (held)
+  vol  44 (1915)   1 file(s)    462 pp  [lbg]  (held)
+  vol  45 (1915)   1 file(s)    488 pp  [lbg]
+  vol  46 (1921)   2 file(s)    686 pp  [lbg]
+  vol  47 (1921)   1 file(s)    446 pp  [lbg]
+  vol  48 (1917)   6 file(s)    436 pp  [per-issue]
+  vol  49 (1917)   6 file(s)    424 pp  [per-issue]
+  vol  50 (1918)   1 file(s)      0 pp  [dli]
+  vol  51 (1918)   6 file(s)    426 pp  [per-issue]
+  vol  52 (1919)   6 file(s)    384 pp  [per-issue]
+  vol  53 (1919)   6 file(s)    460 pp  [per-issue]
+  vol  54 (1920)   1 file(s)    348 pp  [lbg]  (held)
+  vol  55 (1920)   1 file(s)    456 pp  [lbg]  (held)
+  vol  56 (1921)   6 file(s)    426 pp  [per-issue]
+  vol  57 (1921)   2 file(s)      0 pp  [dli]
+  vol  58 (1922)   2 file(s)      0 pp  [dli]
+  vol  59 (1922)   1 file(s)    432 pp  [unse]
+  vol  60 (1923)   1 file(s)    444 pp  [lbg]
+  vol  61 (1923)   1 file(s)    412 pp  [unse]
+  vol  62 (1924)   1 file(s)    364 pp  [lbg]
+  vol  63 (1924)   1 file(s)    344 pp  [lbg]
+  vol  64 (1925)   1 file(s)    344 pp  [lbg]
+  vol  65 (1925)   6 file(s)    424 pp  [per-issue]
+  vol  66 (1926)   5 file(s)    412 pp  [per-issue]
+  vol  67 (1926)   6 file(s)    418 pp  [per-issue]
+  vol  68 (1927)   6 file(s)    440 pp  [per-issue]
+  vol  69 (1927)   6 file(s)    428 pp  [per-issue]
+  vol  70 (1928)   2 file(s)      0 pp  [dli]
+  vol  71 (1928)   6 file(s)    430 pp  [per-issue]
+  vol  72 (1929)   2 file(s)      0 pp  [dli]
+  vol  73 (1929)   6 file(s)    462 pp  [per-issue]
+  vol  74 (1930)   2 file(s)      0 pp  [dli]
+  vol  75 (1930)   6 file(s)    430 pp  [per-issue]
+  vol  76 (1931)   2 file(s)      0 pp  [dli]
+  vol  77 (?)   1 file(s)      0 pp  [tdl]
+  vol  78 (1932)   6 file(s)    440 pp  [per-issue]
+  vol  79 (1932)   6 file(s)    426 pp  [per-issue]
+  vol  80 (1933)   2 file(s)      0 pp  [dli]
+  vol  81 (1933)   6 file(s)    432 pp  [per-issue]
+  vol  82 (1934)   4 file(s)      0 pp  [dli]
+  vol  83 (1934)   6 file(s)    478 pp  [per-issue]
+  vol  84 (1935)   6 file(s)    404 pp  [per-issue]
+  vol  85 (1935)   6 file(s)    436 pp  [per-issue]
+  vol  86 (1936)   2 file(s)      0 pp  [dli]
+  vol  87 (1936)   6 file(s)    442 pp  [per-issue]
+  vol  88 (1937)   2 file(s)      0 pp  [dli]
+  vol  89 (1937)   6 file(s)    444 pp  [per-issue]
+  vol  90 (1938)   6 file(s)    464 pp  [per-issue]
+  vol  91 (1938)   6 file(s)    490 pp  [per-issue]
+  vol  92 (1939)   6 file(s)    446 pp  [per-issue]
+  vol  93 (1939)   6 file(s)    464 pp  [per-issue]
+  vol  94 (1940)   6 file(s)    498 pp  [per-issue]
+  vol  95 (1940)   6 file(s)    440 pp  [per-issue]
+  vol  96 (1941)   2 file(s)      0 pp  [dli]
+  vol  97 (1941)   6 file(s)    420 pp  [per-issue]
+  vol  98 (1942)   4 file(s)    370 pp  [per-issue]
+  vol  99 (1943)   4 file(s)    316 pp  [per-issue]
+  vol 100 (1944)   4 file(s)    346 pp  [per-issue]
+  vol 101 (1945)   4 file(s)    326 pp  [per-issue]
+  vol 103 (1947)   1 file(s)    320 pp  [unse]
+  vol 104 (1948)   4 file(s)    308 pp  [per-issue]
+  vol 105 (1949)   4 file(s)    296 pp  [per-issue]
+  vol 106 (1950)   4 file(s)    282 pp  [per-issue]
+  vol 107 (1951)   4 file(s)    384 pp  [per-issue]
+  vol 108 (1952)   1 file(s)    736 pp  [unse]
+  vol 110 (1955)   1 file(s)    676 pp  [unse]
+  vol 112 (1956)   4 file(s)    386 pp  [per-issue]
+  vol 113 (1957)   4 file(s)    362 pp  [per-issue]
+  vol 114 (1958)   4 file(s)    294 pp  [per-issue]
+  vol 115 (1959)   4 file(s)    396 pp  [per-issue]
+  vol 116 (1960)   4 file(s)    388 pp  [per-issue]
+  vol 117 (1961)   4 file(s)    348 pp  [per-issue]
+
+Notes
+--------------------------------------------------------------
+  vol 1: took 1 cornell scan(s); 1 other copy available (tdl)
+  vol 2: took 1 cornell scan(s); 1 other copy available (tdl)
+  vol 3: took 1 cornell scan(s); 1 other copy available (tdl)
+  vol 10: took 1 cornell scan(s); 12 other copies available (tdl)
+  vol 11: took 2 cornell scan(s); 6 other copies available (tdl)
+  vol 15: took 1 cornell scan(s); 13 other copies available (tdl)
+  vol 16: took 1 cornell scan(s); 12 other copies available (tdl)
+  vol 17: took 1 cornell scan(s); 13 other copies available (tdl)
+  vol 18: took 1 cornell scan(s); 2 other copies available (tdl)
+  vol 19: took 1 cornell scan(s); 11 other copies available (tdl)
+  vol 20: took 1 cornell scan(s); 13 other copies available (tdl)
+  vol 21: took 1 cornell scan(s); 13 other copies available (tdl)
+  vol 22: took 1 cornell scan(s); 13 other copies available (tdl)
+  vol 26: took 1 cornell scan(s); 6 other copies available (tdl)
+  vol 27: took 1 cornell scan(s); 7 other copies available (tdl)
+  vol 28: took 1 cornell scan(s); 7 other copies available (tdl)
+  vol 30: took 1 cornell scan(s); 7 other copies available (tdl)
+  vol 33: took 1 cornell scan(s); 7 other copies available (tdl)
+  vol 34: took 1 cornell scan(s); 7 other copies available (tdl)
+  vol 37: took 1 cornell scan(s); 8 other copies available (lbg, tdl)
+  vol 39: took 1 cornell scan(s); 8 other copies available (lbg, tdl)
+  vol 40: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 41: took 1 lbg scan(s); 8 other copies available (dli, per-issue)
+  vol 42: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 43: took 1 lbg scan(s); 8 other copies available (dli, per-issue)
+  vol 44: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 45: took 1 lbg scan(s); 8 other copies available (dli, per-issue)
+  vol 46: took 2 lbg scan(s); 6 other copies available (per-issue)
+  vol 47: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 48: assembled from 6 per-issue item(s)
+  vol 49: assembled from 6 per-issue item(s)
+  vol 50: took 1 dli scan(s); 6 other copies available (per-issue)
+  vol 51: assembled from 6 per-issue item(s)
+  vol 52: assembled from 6 per-issue item(s)
+  vol 53: assembled from 6 per-issue item(s)
+  vol 54: took 1 lbg scan(s); 1 other copy available (unse)
+  vol 55: took 1 lbg scan(s); 1 other copy available (unse)
+  vol 56: assembled from 6 per-issue item(s)
+  vol 57: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 58: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 60: took 1 lbg scan(s); 2 other copies available (other, unse)
+  vol 62: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 63: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 64: took 1 lbg scan(s); 6 other copies available (per-issue)
+  vol 65: assembled from 6 per-issue item(s)
+  vol 66: assembled from 5 per-issue item(s)
+  vol 67: assembled from 6 per-issue item(s)
+  vol 68: assembled from 6 per-issue item(s)
+  vol 69: assembled from 6 per-issue item(s)
+  vol 70: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 71: assembled from 6 per-issue item(s)
+  vol 72: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 73: assembled from 6 per-issue item(s)
+  vol 74: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 75: assembled from 6 per-issue item(s)
+  vol 76: took 2 dli scan(s); 7 other copies available (per-issue, tdl)
+  vol 77: assembled from 1 tdl item(s)
+  vol 78: assembled from 6 per-issue item(s)
+  vol 79: assembled from 6 per-issue item(s)
+  vol 80: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 81: assembled from 6 per-issue item(s)
+  vol 82: took 4 dli scan(s); 6 other copies available (per-issue)
+  vol 83: assembled from 6 per-issue item(s)
+  vol 84: assembled from 6 per-issue item(s)
+  vol 85: assembled from 6 per-issue item(s)
+  vol 86: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 87: assembled from 6 per-issue item(s)
+  vol 88: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 89: assembled from 6 per-issue item(s)
+  vol 90: assembled from 6 per-issue item(s)
+  vol 91: assembled from 6 per-issue item(s)
+  vol 92: assembled from 6 per-issue item(s)
+  vol 93: assembled from 6 per-issue item(s)
+  vol 94: assembled from 6 per-issue item(s)
+  vol 95: assembled from 6 per-issue item(s)
+  vol 96: took 2 dli scan(s); 6 other copies available (per-issue)
+  vol 97: assembled from 6 per-issue item(s)
+  vol 98: assembled from 4 per-issue item(s)
+  vol 99: assembled from 4 per-issue item(s)
+  vol 100: assembled from 4 per-issue item(s)
+  vol 101: assembled from 4 per-issue item(s)
+  vol 104: assembled from 4 per-issue item(s)
+  vol 105: assembled from 4 per-issue item(s)
+  vol 106: assembled from 4 per-issue item(s)
+  vol 107: assembled from 4 per-issue item(s)
+  vol 112: assembled from 4 per-issue item(s)
+  vol 113: assembled from 4 per-issue item(s)
+  vol 114: assembled from 4 per-issue item(s)
+  vol 115: assembled from 4 per-issue item(s)
+  vol 116: assembled from 4 per-issue item(s)
+  vol 117: assembled from 4 per-issue item(s)

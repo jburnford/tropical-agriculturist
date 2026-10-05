@@ -1,0 +1,253 @@
+vol001_tropicalagricult1188ceyl            0 
+vol002_tropicalagricult18821883colo        1 p456:v30n1@1882-06
+vol003_tropicalagricult18831884colo        2 p259:v3n61 p486:v2n5@1884-01-01
+vol004_tropicalagricult18841885colo        0 
+vol005_tropicalagricult18851886colo        1 p524:v6n10
+vol006_tropicalagricult18861887colo        0 
+vol007_tropicalagricult7188ceyl            0 
+vol008_tropicalagricult8188ceyl           12 p26:v8n1 p98:v8n2 p170:v3n3 p242:v3n4 p314:v3n5 p386:v3n6 p458:v3n7 p530:v8n8 p602:v8n9 p674:v8n10 p746:v8n11@1837-11 p820:v8n12
+vol009_tropicalagricult9188ceyl           12 p40:v9n1 p112:v9n2 p184:v9n3 p262:v9n4 p344:v9n5 p416:v9n6 p488:v9n7 p560:v9n8 p632:v9n9 p704:v9n10 p768:v9n11 p840:v9n12
+vol010_tropicalagricult1018ceyl           12 p40:v10n1 p112:v10n2 p194:v10n3 p274:v10n4 p354:v10n5 p434:v10n6 p508:v10n7 p584:v10n8 p658:v10n9 p730:v10n10 p794:v10n11 p866:v10n12
+vol011_tropicalagricult1118ceyl           12 p20:v11n1 p108:v11n2 p180:v11n3@1891-08 p244:v11n4 p316:v11n5 p396:v11n6 p468:v11n7 p540:v11n8 p628:v11n9 p716:v11n11 p788:v3n11@1892-05 p796:v11n12
+vol012_tropicalagricult1218ceyl           21 p26:v12n1 p106:v12n2 p178:v12n3 p250:v12n4 p322:v12n5 p394:v12n6 p466:v12n7 p522:v12n8 p578:v12n9 p634:v12n10 p694:v12n11 p758:v12n12 p797:v3n1 p822:v4n2@1892-08
+vol013_tropicalagricult1318ceyl           26 p20:v13n1 p84:v5n1@1893-07 p94:v13n2@1820-02 p96:v13n2@1820-02 p160:v5n2@1893-08 p170:v13n3 p234:v5n3@1893-09 p244:v13n4 p308:v5n4@1893-10 p318:v13n5 p333:v45n5@1893-11-01 p382:v5n5@1893-11 p392:v13n6 p456:v5n6@1893-12
+vol014_tropicalagricult1418ceyl           23 p22:v14n1 p86:v6n1@1894-07 p98:v14n2 p162:v6n2@1894-08 p174:v14n3 p230:v6n3@1894-09 p242:v14n4 p306:v6n4@1894-10 p318:v14n5 p320:v14n5 p384:v6n5@1894-11 p412:v14n6 p488:v14n7 p554:v14n8
+vol015_tropicalagricult1518ceyl           25 p26:v15n1 p90:v7n1@1895-07 p100:v15n2 p164:v7n2@1895-08 p174:v15n3 p238:v7n3@1895-09 p248:v15n4 p312:v7n4@1895-10 p322:v15n5 p353:v6n5@1895-11-01 p386:v7n5@1895-11 p396:v15n6 p460:v15n7 p488:v6n1
+vol016_tropicalagricult1618ceyl           22 p22:v16n1 p82:v8n1@1896-07 p90:v16n2 p154:v8n2@1896-08 p162:v16n3 p226:v8n3@1896-09 p238:v16n4 p302:v8n4@1896-10 p312:v16n5 p376:v8n5@1896-11 p386:v16n6 p460:v16n7 p534:v16n8 p598:v8n8@1897-02
+vol017_tropicalagricult1718ceyl           24 p24:v17n1 p88:v9n1@1897-07 p100:v17n2 p164:v9n2@1897-08 p178:v17n3 p236:v4n2 p242:v9n3@1897-09 p256:v17n4 p322:v9n4@1897-10 p334:v17n5 p389:v8n5@1897-11-01 p398:v9n5@1897-11 p410:v17n6 p486:v17n7
+vol018_tropicalagricult1818ceyl           27 p20:v18n1 p84:v10n1@1898-07 p92:v18n2 p156:v10n2@1898-08 p168:v18n3 p240:v10n3@1898-09 p250:v18n4 p314:v10n4@1898-10 p326:v18n5 p331:v1n5@1898-11-01 p332:v1n5@1898-11-01 p333:v5n5@1893-11-01 p390:v10n5@1898-11 p402:v18n6
+vol019_tropicalagricult1918ceyl           23 p20:v18n1 p84:v11n1@1899-07 p96:v18n2 p160:v11n2@1899-08 p170:v19n3 p234:v11n3@1899-09 p246:v19n4 p310:v11n4@1899-10 p320:v19n5 p384:v11n5@1899-11 p394:v19n6 p458:v11n6@1899-12 p468:v19n7 p534:v19n8
+vol020_tropicalagricult2019ceyl           15 p24:v20n1 p88:v12n1@1900-07 p98:v20n2 p162:v12n2@1900-08 p174:v20n3 p238:v12n3@1900-09 p248:v20n4 p312:v12n4@1900-10 p386:v12n5@1900-11 p460:v12n6@1900-12 p598:v12n8@1901-02 p672:v12n9@1901-03 p752:v12n10@1901-04 p824:v12n11@1901-05
+vol021_tropicalagricult2119ceyl           13 p84:v13n1@1901-07 p92:v20n2 p156:v13n2@1901-08 p230:v13n3@1901-09 p304:v13n4@1901-10 p335:v2n5@1901-11-01 p376:v13n5@1901-11 p450:v13n6@1901-12 p588:v13n8@1902-02 p662:v13n9@1902-03 p726:v13n10@1902-04 p800:v13n10@1902-05 p874:v13n12@1902-06
+vol022_tropicalagricult2219ceyl           11 p84:v14n1@1902-07 p158:v14n2@1902-08 p232:v14n3@1902-09 p306:v14n4@1902-10 p380:v14n5@1902-11 p450:v14n6@1902-12 p660:v14n9@1903-03 p734:v14n10@1903-04 p808:v14n11@1903-05 p884:v14n12@1903-06 p919:v15n49@1902-02
+vol023_tropicalagricult2319ceyl           12 p92:v14n13@1903-07 p172:v15n2@1903-08 p248:v15n3@1903-09 p324:v15n4@1903-10 p398:v15n5@1903-11 p472:v15n6@1903-12 p536:v15n7@1904-01 p608:v15n8@1904-02 p680:v15n9@1904-03 p752:v15n10@1904-04 p826:v15n11@1904-05 p900:v15n12@1904-06
+vol026_tropicalagricul261906ceyl           5 p14:v26n1 p122:v26n2 p226:v26n3 p304:v26n4 p394:v26n5
+vol027_tropicalagricul271906ceyl           6 p14:v27n1 p140:v27n2 p232:v27n3 p312:v27n4 p398:v27n5 p486:v27n6
+vol028_tropicalagricul281907ceyl           8 p14:v28n1 p42:v25n1@1905-07 p68:v28n2 p84:v3n5 p144:v28n3 p216:v28n4 p284:v28n5 p364:v28n6
+vol030_tropicalagricul301908ceyl          18 p14:v30n1@1908-01 p88:v2n1@1908-01 p116:v30n2@1908-02 p139:v8n2@1907-11 p167:v8n3 p173:v2n8@1907-09 p188:v2n2@1908-02 p212:v30n3@1908-03 p288:v2n3@1908-03 p316:v30n4@1908-04 p394:v2n4@1908-04 p434:v1n5@1907-02 p436:v30n5@1908-05 p505:v8n3@1908-05
+vol031_tropicalagricul311908ceyl          17 p14:v31n1@1908-07 p29:v33n3@1908-07 p43:v33n4@1908-04 p58:v32n4@1908-04 p76:v15n2@1908-05 p90:v3n1@1908-07 p124:v31n2@1908-08 p143:v72n1@1908-05 p198:v3n2@1908-08 p232:v32n3 p310:v3n3@1908-09 p344:v32n4 p420:v3n4@1908-10 p446:v32n5
+vol032_tropicalagricul321909ceyl          22 p16:v32n1 p49:v33n9 p98:v4n1@1909-01 p124:v32n2 p204:v4n2@1909-02 p228:v32n3 p237:v4n12@1998-12 p269:v1n9@1908-09 p296:v11n12@1908-12 p304:v4n3@1909-03 p338:v32n4 p416:v4n4@1909-04 p442:v32n5 p457:v1n12@1908-12
+vol033_tropicalagricul331909ceyl          35 p16:v33n1 p20:v4n18 p88:v5n1@1909-07 p112:v33n2 p146:v34n5@1909-08 p147:v9n2 p164:v2n85@1909-05 p188:v5n2@1909-08 p212:v33n3 p225:v39n4@1909-09 p233:v6n4@1909-09 p256:v2n4@1909-04 p284:v32n16@1909-04 p286:v5n3@1909-09
+vol034_tropicalagricul341910ceyl          27 p16:v34n1 p18:v40n5@1909-08-01 p36:v34n11@1909-11-01 p88:v6n1@1910-01 p112:v34n2 p124:v23n60 p140:v34n11@1909-11 p184:v6n2@1910-02 p210:v34n3 p215:v16n9@1910-03 p220:v35n12@1909-12 p221:v34n11@1909-11-01 p229:v3n2@1909-10 p245:v8n31@1909-12
+vol035_tropicalagricul351910ceyl          27 p6:v35n1@1910-07 p22:v35n1 p88:v34n3@1910-07 p96:v6n7@1910-07 p122:v35n2 p163:v35n6@1910-06 p188:v5n2@1909-02 p198:v7n2@1910-08 p224:v35n3 p281:v8n29@1910-09 p282:v3n2 p304:v7n3@1910-09 p330:v35n4 p345:v3n1
+vol037_tropicalagricul371911ceyl          28 p14:v37n1 p53:v46n17@1911-07 p57:v4n3@1911-03 p88:v9n1@1911-07 p112:v37n2 p113:v7n5@1911-05 p119:v8n4 p139:v86n2@1911-08 p186:v9n2@1911-08 p210:v37n3 p211:v8n3@1911-03 p229:v37n7@1911-07 p233:v1n3@1911-03 p253:v47n26@1911-07-01
+vol038_tropicalagricul381912ceyl          31 p14:v38n1 p29:v37n10@1911-10 p88:v10n1@1912-01 p112:v38n2 p114:v42n22 p154:v6n22@1911-10 p161:v50n1@1912-02 p165:v6n2@1911-12 p188:v10n2@1912-02 p212:v38n3 p216:v81n4@1912-01-22 p217:v36n11@1912-03 p244:v50n1@1912-03 p250:v29n23@1911-12-01
+vol039_tropicalagricul391912ceyl          19 p6:v39n1@1912-07 p10:v39n2@1912-08 p24:v39n1 p26:v46n1@1912-04-01 p30:v46n2@1912-05-01 p31:v10n1@1912-04 p55:v5n2@1912-02 p60:v25n5@1912-02-03 p96:v11n1@1912-07 p124:v39n2 p200:v11n2@1912-08 p226:v39n3 p276:v11n3@1912-09 p302:v39n4
+vol040_lbg-630-5-tag-v-40                 11 p14:v40n1 p74:v12n1@1913-01 p100:v40n2 p134:v6n2 p136:v39n3 p160:v12n2@1913-02 p184:v40n3@1913-03 p215:v10n4 p246:v40n4@1913-04 p320:v40n5@1913-05 p402:v40n6@1913-06
+vol041_lbg-vol-xli-tropicalagricult0000d   6 p8:v41n1@1913-07 p98:v41n2@1913-08 p194:v41n3@1913-09 p286:v41n4@1913-10 p382:v41n5@1913-11 p472:v41n6@1913-12
+vol042_lbg-630-5-tag-v-42                  7 p6:v42n1@1914-01 p98:v42n2@1914-02 p186:v42n3@1914-03 p276:v42n4@1914-04 p368:v42n5@1914-05 p408:v1n1 p458:v42n6@1914-06
+vol043_lbg-tropicalagricultvol-xliii0000   6 p6:v43n1@1914-07 p100:v43n2@1914-08 p194:v43n3@1914-09 p286:v43n4@1914-10 p364:v43n5@1914-11 p430:v43n6@1914-12
+vol044_lbg-tropicalagricultvol-xliv0000u   8 p8:v44n1@1915-01 p74:v44n2@1915-02 p89:v3n2@1915-02 p148:v44n3@1915-03 p224:v44n4@1915-04 p299:v12n4 p302:v44n5@1915-05 p378:v44n6@1915-06
+vol045_lbg-630-5-tag-v-45                  7 p16:v45n1@1915-07 p92:v45n2@1915-08 p170:v45n3@1915-09 p220:v6n2@1914-12 p252:v45n4@1915-10 p328:v45n5@1915-11 p404:v45n6@1915-12
+vol046_lbg-630-5-tag-v-46                  6 p20:v56n1@1921-01 p84:v56n2@1921-02 p162:v56n3@1921-03 p228:v56n4@1921-04 p298:v56n5@1921-05 p360:v14n1
+vol047_lbg-630-5-tag-v-47                  7 p12:v57n1@1921-07 p92:v57n2@1921-08 p160:v57n3@1921-09 p234:v57n4@1921-10 p244:v10n2 p306:v57n5@1921-11 p372:v57n6@1921-12
+vol048_iss01_tropical-agriculturist-1917   3 p0:v48n1@1917-01 p61:v46n1@1916-01 p71:v14n1@1916-03
+vol048_iss02_tropical-agriculturist-1917   1 p0:v48n2@1917-02
+vol048_iss03_tropical-agriculturist-1917   1 p0:v48n3@1917-03
+vol048_iss04_tropical-agriculturist-1917   2 p0:v48n4@1917-04 p59:v5n19
+vol048_iss05_tropical-agriculturist-1917   2 p0:v48n5@1917-05 p61:v5n7
+vol048_iss06_tropical-agriculturist-1917   6 p0:v48n6@1917-06 p66:v48n2@1917-03 p68:v48n3 p70:v48n4@1917-05 p72:v48n51@1917-06 p74:v48n6@1917-01
+vol049_iss01_tropical-agriculturist-1917   1 p0:v49n1@1917-07
+vol049_iss02_tropical-agriculturist-1917   2 p0:v49n2@1917-08 p2:v14n4
+vol049_iss03_tropical-agriculturist-1917   1 p0:v49n3@1917-09
+vol049_iss04_tropical-agriculturist-1917   2 p0:v49n4@1917-10 p10:v49n3@1917-09
+vol049_iss05_tropical-agriculturist-1917   2 p0:v49n5@1917-11 p63:v8n4@1917-06
+vol049_iss06_tropical-agriculturist-1917   7 p0:v49n6@1917-12 p62:v4n71@1917-12 p66:v49n1@1917-09 p70:v49n5@1917-11 p72:v49n4 p74:v49n5@1918-01 p76:v49n6
+vol050_dli-ernet-21168                     8 p15:v50n1@1918-01 p83:v50n2@1918-02 p147:v50n3@1918-03 p213:v50n4@1918-04 p283:v50n5@1918-05 p336:v2n3 p349:v50n6@1918-06 p361:v40n6
+vol051_iss01_tropical-agriculturist-1918   1 p0:v51n1@1918-07
+vol051_iss02_tropical-agriculturist-1918   1 p0:v51n2@1918-08
+vol051_iss03_tropical-agriculturist-1918   1 p0:v51n3@1918-09
+vol051_iss04_tropical-agriculturist-1918   2 p0:v51n4@1918-10 p2:v13n2@1918-03
+vol051_iss05_tropical-agriculturist-1918   1 p0:v51n5@1918-11
+vol051_iss06_tropical-agriculturist-1918   7 p0:v51n6@1918-12 p58:v51n1@1918-09 p60:v51n2@1918-10 p62:v51n3 p64:v51n4 p66:v51n5@1919-01 p68:v51n6@1919-02
+vol052_iss01_tropical-agriculturist-1919   1 p0:v52n1@1919-01
+vol052_iss02_tropical-agriculturist-1919   1 p0:v52n2@1919-02
+vol052_iss03_tropical-agriculturist-1919   1 p0:v52n3@1919-03
+vol052_iss04_tropical-agriculturist-1919   1 p0:v52n4@1919-04
+vol052_iss05_tropical-agriculturist-1919   1 p0:v52n5@1919-05
+vol052_iss06_tropical-agriculturist-1919   1 p0:v52n6@1919-06
+vol053_iss01_tropical-agriculturist-1919   1 p0:v53n1@1919-07
+vol053_iss02_tropical-agriculturist-1919   1 p0:v53n2@1919-08
+vol053_iss03_tropical-agriculturist-1919   1 p0:v53n3@1919-09
+vol053_iss04_tropical-agriculturist-1919   2 p0:v53n4@1919-10 p25:v45n3
+vol053_iss05_tropical-agriculturist-1919   1 p0:v53n5@1919-11
+vol053_iss06_tropical-agriculturist-1919   3 p0:v53n6@1919-12 p25:v6n5@1918-02 p31:v6n12@1918-12
+vol054_lbg-630-5-tag-v-54                  6 p12:v54n2@1920-02 p78:v54n3@1920-03 p80:v18n9 p144:v54n4@1920-04 p210:v54n5@1920-05 p276:v54n6@1920-06
+vol055_lbg-630-5-tag-v-55                  7 p24:v55n1@1920-07 p88:v55n2@1920-08 p154:v55n3@1920-09 p202:v9n3 p222:v55n4@1920-10 p294:v55n5@1920-11 p384:v55n6@1920-12
+vol056_iss01_tropical-agriculturist-1921   1 p0:v56n1@1921-01
+vol056_iss02_tropical-agriculturist-1921   1 p0:v56n2@1921-02
+vol056_iss03_tropical-agriculturist-1921   1 p0:v56n3@1921-03
+vol056_iss04_tropical-agriculturist-1921   1 p0:v56n4@1921-04
+vol056_iss05_tropical-agriculturist-1921   2 p0:v56n5@1921-05 p62:v14n1
+vol056_iss06_tropical-agriculturist-1921   2 p0:v56n6@1921-06 p64:v11n4
+vol057_in-ernet-dli-2015-230764            7 p11:v57n1@1921-07 p91:v57n2@1921-08 p159:v57n3@1921-09 p231:v57n4@1921-10 p241:v10n2 p303:v57n5@1921-11 p369:v57n6@1921-12
+vol058_dli-ernet-229219                   21 p9:v58n1@1922-01 p11:v16n46@1921-10 p17:v62n19 p73:v58n2@1922-02 p107:v13n3 p141:v58n3@1922-03 p225:v58n4@1922-04 p297:v58n6@1922-06 p366:v3n4@1922-06 p367:v21n1@1922-02-18 p368:v6n4 p369:v59n1@1922-07 p440:v3n5@1922-05 p443:v59n3@1922-09
+vol059_tropicalagricult0059unse           15 p8:v59n1@1922-07 p79:v3n5@1922-05 p82:v59n2@1922-08 p111:v5n17 p121:v6n3@1913-01 p147:v15n2 p148:v31n2@1922-02 p150:v59n3@1922-09 p219:v5n5 p222:v59n4@1922-10 p284:v14n2 p285:v15n1 p288:v59n5@1922-11 p362:v59n6@1922-12
+vol060_lbg-tropicalagricultvol-lx-1923-0  11 p10:v60n1@1923-01 p70:v47n5@1921-11-15 p74:v60n2@1923-02 p172:v60n3@1923-03 p224:v60n1@1923-03 p231:v33n2 p232:v18n5 p236:v60n4@1923-04 p300:v60n5@1923-05 p368:v60n6@1923-06 p382:v57n3
+vol061_tropicalagricult0061unse           11 p10:v61n1@1923-07 p68:v7n1@1919-02 p74:v18n5@1923-01 p75:v10n3 p78:v61n2@1923-08 p142:v61n3@1923-09 p210:v61n4@1923-10 p269:v60n4 p276:v61n5@1923-11 p342:v61n6@1923-12 p355:v2n13
+vol062_lbg-630-5-tag-v-62                  5 p10:v62n1@1924-01 p78:v62n2@1924-02 p148:v62n4@1924-04 p226:v62n5@1924-05 p292:v62n6@1924-06
+vol063_lbg-630-5-tag-v-63                 12 p10:v63n1@1924-07 p64:v17n2 p76:v63n3@1924-09 p78:v22n1 p81:v4n33 p122:v2n7@1914-02 p140:v63n4@1924-10 p170:v28n4 p204:v63n5@1924-11 p249:v13n8 p268:v63n6@1924-12 p306:v19n41
+vol064_lbg-630-5-tag-v-64                 10 p6:v64n1@1925-01 p18:v17n2 p35:v28n5 p76:v64n2@1925-02 p86:v7n3 p140:v64n4@1925-04 p204:v64n5@1925-05 p206:v13n2 p235:v5n9@1925-05 p270:v64n6@1925-06
+vol065_iss01_tropical-agriculturist-1925   3 p0:v65n1@1925-07 p24:v1n8@1924-09 p40:v32n2
+vol065_iss02_tropical-agriculturist-1925   1 p0:v65n2@1925-08
+vol065_iss03_tropical-agriculturist-1925   1 p0:v65n3@1925-09
+vol065_iss04_tropical-agriculturist-1925   1 p0:v65n4@1925-10
+vol065_iss05_tropical-agriculturist-1925   1 p0:v65n5@1925-11
+vol065_iss06_tropical-agriculturist-1925   4 p0:v65n6@1925-12 p8:v3n3 p16:v2n19 p21:v8n1
+vol066_iss01_tropical-agriculturist-1926   2 p0:v66n1@1926-01 p8:v5n18
+vol066_iss02_tropical-agriculturist-1926   2 p0:v66n2@1926-02 p8:v65n3
+vol066_iss03_tropical-agriculturist-1926   2 p0:v66n3@1926-03 p50:v2n16@1904-08
+vol066_iss06_tropical-agriculturist-1926   1 p0:v66n6@1926-06
+vol066_tropical-agriculturist-april-may-   0 
+vol067_iss01_tropical-agriculturist-1926   1 p0:v67n1@1926-07
+vol067_iss02_tropical-agriculturist-1926   2 p0:v67n2@1926-08 p65:v3n6
+vol067_iss03_tropical-agriculturist-1926   5 p0:v67n3@1926-09 p2:v14n6 p7:v14n5 p34:v30n6 p41:v14n6
+vol067_iss04_tropical-agriculturist-1926   1 p0:v67n4@1926-10
+vol067_iss05_tropical-agriculturist-1926   1 p0:v67n5@1926-11
+vol067_iss06_tropical-agriculturist-1926   2 p0:v67n6@1926-12 p61:v3n7
+vol068_tropical-agriculturist-1927-01-68   0 
+vol068_tropical-agriculturist-1927-02-68   2 p32:v14n11 p47:v19n3
+vol068_tropical-agriculturist-1927-03-68   0 
+vol068_tropical-agriculturist-1927-04-68   0 
+vol068_tropical-agriculturist-1927-05-68   0 
+vol068_tropical-agriculturist-1927-06-68   0 
+vol069_tropical-agriculturist-1927-07-69   0 
+vol069_tropical-agriculturist-1927-08-69   1 p8:v68n2
+vol069_tropical-agriculturist-1927-09-69   0 
+vol069_tropical-agriculturist-1927-10-69   2 p25:v16n16 p36:v24n4
+vol069_tropical-agriculturist-1927-11-69   0 
+vol069_tropical-agriculturist-1927-12-69   3 p38:v8n2 p41:v8n2 p46:v4n8@1927-08
+vol070_dli-ernet-229220                   14 p11:v70n1@1928-01 p79:v70n2@1928-02 p147:v70n3@1928-03 p213:v70n4@1928-04 p283:v70n5@1928-05 p393:v70n6@1928-06 p493:v71n2@1928-08 p559:v71n1@1928-07 p608:v68n27 p618:v15n8 p635:v71n4@1928-10 p644:v6n6 p705:v71n5@1928-11 p774:v71n6@1928-12
+vol071_tropical-agriculturist-1928-07-71   0 
+vol071_tropical-agriculturist-1928-08-71   0 
+vol071_tropical-agriculturist-1928-09-71   2 p47:v17n27 p57:v15n8
+vol071_tropical-agriculturist-1928-10-71   1 p7:v6n6
+vol071_tropical-agriculturist-1928-11-71   0 
+vol071_tropical-agriculturist-1928-12-71   0 
+vol072_dli-ernet-229221                    2 p275:v72n5 p571:v73n3
+vol073_tropical-agriculturist-1929-07-73   0 
+vol073_tropical-agriculturist-1929-08-73   0 
+vol073_tropical-agriculturist-1929-09-73   0 
+vol073_tropical-agriculturist-1929-10-73   0 
+vol073_tropical-agriculturist-1929-11-73   0 
+vol073_tropical-agriculturist-1929-12-73   0 
+vol074_dli-ernet-229223                   13 p13:v74n1@1930-01 p81:v74n2@1930-02 p159:v74n3@1930-03 p227:v74n4@1930-04 p305:v74n5@1930-05 p367:v74n6@1930-06 p406:v74n3 p451:v75n1@1930-07 p519:v75n2@1930-08 p585:v75n3@1930-09 p659:v75n4@1930-10 p727:v75n5 p817:v75n6@1930-12
+vol075_tropical-agriculturist-1930-07-75   0 
+vol075_tropical-agriculturist-1930-08-75   0 
+vol075_tropical-agriculturist-1930-09-75   0 
+vol075_tropical-agriculturist-1930-10-75   0 
+vol075_tropical-agriculturist-1930-11-75   0 
+vol075_tropical-agriculturist-1930-12-75   0 
+vol076_dli-ernet-229225                   15 p11:v76n1@1931-01 p63:v2n2 p81:v76n2@1931-02 p151:v76n3@1931-03 p217:v76n4@1931-04 p283:v76n5@1931-05 p302:v10n12@1928-12 p353:v76n6@1931-06 p431:v77n1@1931-07 p501:v77n2@1931-08 p555:v9n4 p583:v77n3@1931-09 p651:v77n4@1931-10 p719:v77n5@1931-11
+vol077_tdl-34003-the-tropical-agricultur   0 
+vol078_tropical-agriculturist-1932-01-78   0 
+vol078_tropical-agriculturist-1932-02-78   0 
+vol078_tropical-agriculturist-1932-03-78   0 
+vol078_tropical-agriculturist-1932-04-78   0 
+vol078_tropical-agriculturist-1932-05-78   0 
+vol078_tropical-agriculturist-1932-06-78   0 
+vol079_iss01_tropical-agriculturist-1932   1 p2:v79n1@1932-07
+vol079_iss02_tropical-agriculturist-1932   1 p0:v79n2@1932-08
+vol079_iss03_tropical-agriculturist-1932   1 p0:v79n3@1932-09
+vol079_iss04_tropical-agriculturist-1932   1 p0:v79n4@1932-10
+vol079_iss05_tropical-agriculturist-1932   1 p0:v79n5@1932-11
+vol079_iss06_tropical-agriculturist-1932   1 p0:v79n6@1932-12
+vol080_dli-ernet-229226                   13 p9:v80n1@1933-01 p83:v80n2@1933-02 p151:v80n3@1933-03 p213:v80n4@1933-04 p287:v80n5@1933-05 p342:v6n1@1933-02 p367:v80n6@1933-06 p451:v81n1@1933-07 p531:v81n2@1933-08 p597:v81n3@1933-09 p673:v81n4@1933-10 p743:v81n5@1933-11 p815:v81n6@1933-12
+vol081_iss01_tropical-agriculturist-1933   0 
+vol081_iss02_tropical-agriculturist-1933   0 
+vol081_iss03_tropical-agriculturist-1933   0 
+vol081_iss04_tropical-agriculturist-1933   0 
+vol081_iss05_tropical-agriculturist-1933   0 
+vol081_iss06_tropical-agriculturist-1933   0 
+vol082_dli-ernet-229227                   16 p3:v82n1@1934-01 p81:v82n2@1934-02 p151:v82n3@1934-03 p221:v82n4@1934-04 p225:v81n5@1933-11 p289:v82n5@1934-05 p357:v82n6@1934-06 p443:v83n1@1934-07 p515:v83n2@1934-08 p595:v83n3@1934-09 p615:v81n1@1933-07 p659:v83n4@1934-10 p743:v83n5@1934-11 p804:v24n4
+vol083_tropical-agriculturist-1934-07      0 
+vol083_tropical-agriculturist-1934-08      0 
+vol083_tropical-agriculturist-1934-09      1 p18:v81n1@1933-07
+vol083_tropical-agriculturist-1934-10      0 
+vol083_tropical-agriculturist-1934-11      1 p59:v24n4
+vol083_tropical-agriculturist-1934-12      1 p2:v82n4@1934-04
+vol084_tropical-agriculturist-1935-01-84   0 
+vol084_tropical-agriculturist-1935-02-84   0 
+vol084_tropical-agriculturist-1935-03-84   0 
+vol084_tropical-agriculturist-1935-04-84   0 
+vol084_tropical-agriculturist-1935-05-84   0 
+vol084_tropical-agriculturist-1935-06-84   2 p24:v19n25 p35:v80n4@1933-04
+vol085_tropical-agriculturist-1935-07-85   1 p2:v84n6@1935-06
+vol085_tropical-agriculturist-1935-08-85   0 
+vol085_tropical-agriculturist-1935-09-85   1 p53:v12n7
+vol085_tropical-agriculturist-1935-10-85   1 p13:v83n1
+vol085_tropical-agriculturist-1935-11-85   0 
+vol085_tropical-agriculturist-1935-12-85   1 p2:v83n6@1934-12
+vol086_dli-ernet-229228                   16 p3:v86n1@1936-01 p69:v86n2@1936-02 p82:v21n49 p135:v86n3@1936-03 p201:v86n4@1936-04 p269:v86n5@1936-05 p335:v86n6@1936-06 p353:v82n4@1934-05 p405:v87n1@1936-07 p473:v87n2@1936-08 p541:v87n3@1936-09 p569:v83n3@1934-09 p617:v87n4@1936-10 p693:v87n5@1936-11
+vol087_tropical-agriculturist-1936-07-87   0 
+vol087_tropical-agriculturist-1936-08-87   0 
+vol087_tropical-agriculturist-1936-09-87   1 p26:v83n3@1934-09
+vol087_tropical-agriculturist-1936-10-87   0 
+vol087_tropical-agriculturist-1936-11-87   0 
+vol087_tropical-agriculturist-1936-12-87   1 p25:v71n5
+vol088_dli-ernet-229229                   12 p9:v88n1@1937-01 p81:v88n2@1937-02 p159:v88n3@1937-03 p227:v88n4@1937-04 p289:v88n5@1937-05 p359:v88n6@1937-06 p433:v89n1@1937-07 p499:v89n2@1937-08 p563:v89n3@1937-09 p635:v89n4@1937-10 p705:v89n5@1937-11 p777:v89n6@1937-12
+vol089_tropical-agriculturist-1937-07-89   0 
+vol089_tropical-agriculturist-1937-08-89   0 
+vol089_tropical-agriculturist-1937-09-89   0 
+vol089_tropical-agriculturist-1937-10-89   0 
+vol089_tropical-agriculturist-1937-11-89   0 
+vol089_tropical-agriculturist-1937-12-89   0 
+vol090_iss01_tropical-agriculturist-1938   0 
+vol090_iss02_tropical-agriculturist-1938   0 
+vol090_iss03_tropical-agriculturist-1938   0 
+vol090_iss04_tropical-agriculturist-1938   0 
+vol090_iss05_tropical-agriculturist-1938   0 
+vol090_iss06_tropical-agriculturist-1938   0 
+vol091_tropical-agriculturist-1938-07-91   0 
+vol091_tropical-agriculturist-1938-08-91   0 
+vol091_tropical-agriculturist-1938-09-91   0 
+vol091_tropical-agriculturist-1938-10-91   0 
+vol091_tropical-agriculturist-1938-11-91   0 
+vol091_tropical-agriculturist-1938-12-91   0 
+vol092_tropical-agriculturist-1939-01-92   2 p20:v4n12 p39:v23n73
+vol092_tropical-agriculturist-1939-02-92   0 
+vol092_tropical-agriculturist-1939-03-92   0 
+vol092_tropical-agriculturist-1939-04-92   0 
+vol092_tropical-agriculturist-1939-05-92   0 
+vol092_tropical-agriculturist-1939-06-92   0 
+vol093_iss01_tropical-agriculturist-1939   0 
+vol093_iss02_tropical-agriculturist-1939   0 
+vol093_iss03_tropical-agriculturist-1939   0 
+vol093_iss04_tropical-agriculturist-1939   0 
+vol093_iss05_tropical-agriculturist-1939   0 
+vol093_iss06_tropical-agriculturist-1939   0 
+vol094_iss01_tropical-agriculturist-1940   0 
+vol094_iss02_tropical-agriculturist-1940   0 
+vol094_iss03_tropical-agriculturist-1940   0 
+vol094_iss04_tropical-agriculturist-1940   1 p37:v81n75
+vol094_iss05_tropical-agriculturist-1940   0 
+vol094_iss06_tropical-agriculturist-1940   0 
+vol095_iss01_tropical-agriculturist-1940   1 p49:v21n4
+vol095_iss02_tropical-agriculturist-1940   0 
+vol095_iss03_tropical-agriculturist-1940   0 
+vol095_iss04_tropical-agriculturist-1940   1 p12:v83n6
+vol095_iss05_tropical-agriculturist-1940   0 
+vol095_iss06_tropical-agriculturist-1940   1 p25:v3n85
+vol096_dli-ernet-229230                    1 p582:v20n9@1901-03
+vol097_iss01_tropical-agriculturist-1941   0 
+vol097_iss02_tropical-agriculturist-1941   1 p25:v20n9@1901-03
+vol097_iss03_tropical-agriculturist-1941   0 
+vol097_iss04_tropical-agriculturist-1941   0 
+vol097_iss05_tropical-agriculturist-1941   0 
+vol097_iss06_tropical-agriculturist-1941   0 
+vol098_iss01_tropical-agriculturist-janu   0 
+vol098_iss02_tropical-agriculturist-apri   1 p42:v4n22
+vol098_iss03_tropical-agriculturist-july   1 p15:v15n1
+vol098_iss04_tropical-agriculturist-octo   0 
+vol099_iss01_tropical-agriculturist-janu   0 
+vol099_iss02_tropical-agriculturist-apri   0 
+vol099_iss03_tropical-agriculturist-july   0 
+vol099_iss04_tropical-agriculturist-octo   1 p6:v88n2
+vol100_iss01_tropical-agriculturist-janu   0 
+vol100_iss02_tropical-agriculturist-apri   0 
+vol100_iss03_tropical-agriculturist-july   0 
+vol100_iss04_tropical-agriculturist-octo   0 
+vol101_iss01_tropical-agriculturist-janu   0 
+vol101_iss02_tropical-agriculturist-apri   1 p38:v71n60
+vol101_iss03_tropical-agriculturist-july   0 
+vol101_iss04_tropical-agriculturist-octo   1 p35:v2n30

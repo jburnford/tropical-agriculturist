@@ -1,0 +1,12 @@
+vol070_dli-ernet-229220|70|1928-02
+vol080_dli-ernet-229226|80|1933-03
+vol088_dli-ernet-229229|88|1937-05
+vol093_iss02_tropical-agriculturist-1939-08-93-2|93|1939-08
+vol098_iss01_tropical-agriculturist-january-march-1942-98-1|98|1942-01/03
+vol101_iss03_tropical-agriculturist-july-september-1945-101-3|101|1945-07/09
+vol003_tropicalagricult18831884colo|3|1883-11
+vol010_tropicalagricult1018ceyl|10|1890-08
+vol020_tropicalagricult2019ceyl|20|1900-11
+vol032_tropicalagricul321909ceyl|32|1909-01
+vol045_lbg-630-5-tag-v-45|45|1915-08
+vol060_lbg-tropicalagricultvol-lx-1923-0000unse-n0c4|60|1923-03

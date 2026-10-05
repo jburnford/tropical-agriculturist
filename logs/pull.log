@@ -1,0 +1,1317 @@
+[2026-09-12T10:32:24-06:00] 8 completed volume(s) on plato
+Total file size: 0 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 437
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 349
+Total bytes received: 476
+
+sent 349 bytes  received 476 bytes  550.00 bytes/sec
+total size is 0  speedup is 0.00 (DRY RUN)
+[2026-09-12T10:32:25-06:00] local now holds 0 completed volume(s), 4.0K
+[2026-09-12T10:32:37-06:00] 8 completed volume(s) on plato
+Total file size: 76,362,303 bytes
+Total transferred file size: 76,362,303 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 13,528
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 1,036
+Total bytes received: 14,254
+
+sent 1,036 bytes  received 14,254 bytes  10,193.33 bytes/sec
+total size is 76,362,303  speedup is 4,994.26 (DRY RUN)
+[2026-09-12T10:32:38-06:00] local now holds 0 completed volume(s), 4.0K
+[2026-09-12T10:32:45-06:00] 8 completed volume(s) on plato
+Total file size: 76,362,303 bytes
+Total transferred file size: 76,362,303 bytes
+Literal data: 76,362,303 bytes
+Matched data: 0 bytes
+File list size: 13,528
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 4,540
+Total bytes received: 76,403,189
+
+sent 4,540 bytes  received 76,403,189 bytes  8,042,918.84 bytes/sec
+total size is 76,362,303  speedup is 1.00
+[2026-09-12T10:32:54-06:00] local now holds 8 completed volume(s), 74M
+[2026-09-12T10:33:03-06:00] pull loop started (every 900s)
+[2026-09-12T10:33:04-06:00] 8 completed volume(s) on plato
+Total file size: 76,362,303 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 13,528
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 337
+Total bytes received: 13,555
+
+sent 337 bytes  received 13,555 bytes  9,261.33 bytes/sec
+total size is 76,362,303  speedup is 5,496.85
+[2026-09-12T10:33:05-06:00] local now holds 8 completed volume(s), 74M
+[2026-09-12T10:48:05-06:00] 8 completed volume(s) on plato
+Total file size: 76,362,303 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 13,528
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 337
+Total bytes received: 13,555
+
+sent 337 bytes  received 13,555 bytes  9,261.33 bytes/sec
+total size is 76,362,303  speedup is 5,496.85
+[2026-09-12T10:48:06-06:00] local now holds 8 completed volume(s), 74M
+[2026-09-12T11:03:07-06:00] 8 completed volume(s) on plato
+Total file size: 76,362,303 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 13,528
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 337
+Total bytes received: 13,555
+
+sent 337 bytes  received 13,555 bytes  9,261.33 bytes/sec
+total size is 76,362,303  speedup is 5,496.85
+[2026-09-12T11:03:08-06:00] local now holds 8 completed volume(s), 74M
+[2026-09-12T11:18:09-06:00] 8 completed volume(s) on plato
+Total file size: 76,362,303 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 13,528
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 337
+Total bytes received: 13,555
+
+sent 337 bytes  received 13,555 bytes  9,261.33 bytes/sec
+total size is 76,362,303  speedup is 5,496.85
+[2026-09-12T11:18:10-06:00] local now holds 8 completed volume(s), 74M
+[2026-09-12T11:33:11-06:00] 9 completed volume(s) on plato
+Total file size: 83,252,016 bytes
+Total transferred file size: 6,889,713 bytes
+Literal data: 6,889,713 bytes
+Matched data: 0 bytes
+File list size: 16,087
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 1,192
+Total bytes received: 6,909,264
+
+sent 1,192 bytes  received 6,909,264 bytes  2,764,182.40 bytes/sec
+total size is 83,252,016  speedup is 12.05
+[2026-09-12T11:33:13-06:00] local now holds 9 completed volume(s), 80M
+[2026-09-12T11:48:14-06:00] 9 completed volume(s) on plato
+Total file size: 83,252,016 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,087
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 365
+Total bytes received: 16,116
+
+sent 365 bytes  received 16,116 bytes  10,987.33 bytes/sec
+total size is 83,252,016  speedup is 5,051.39
+[2026-09-12T11:48:15-06:00] local now holds 9 completed volume(s), 80M
+[2026-09-12T12:03:16-06:00] 9 completed volume(s) on plato
+Total file size: 83,252,016 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,087
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 365
+Total bytes received: 16,116
+
+sent 365 bytes  received 16,116 bytes  10,987.33 bytes/sec
+total size is 83,252,016  speedup is 5,051.39
+[2026-09-12T12:03:17-06:00] local now holds 9 completed volume(s), 80M
+[2026-09-12T12:18:18-06:00] 9 completed volume(s) on plato
+Total file size: 83,252,016 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,087
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 365
+Total bytes received: 16,116
+
+sent 365 bytes  received 16,116 bytes  10,987.33 bytes/sec
+total size is 83,252,016  speedup is 5,051.39
+[2026-09-12T12:18:19-06:00] local now holds 9 completed volume(s), 80M
+[2026-09-12T12:33:20-06:00] 9 completed volume(s) on plato
+Total file size: 83,252,016 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,087
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 365
+Total bytes received: 16,116
+
+sent 365 bytes  received 16,116 bytes  10,987.33 bytes/sec
+total size is 83,252,016  speedup is 5,051.39
+[2026-09-12T12:33:21-06:00] local now holds 9 completed volume(s), 80M
+[2026-09-12T12:48:22-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 16,989,483 bytes
+Literal data: 16,989,483 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 603
+Total bytes received: 17,010,851
+
+sent 603 bytes  received 17,010,851 bytes  4,860,415.43 bytes/sec
+total size is 100,241,499  speedup is 5.89
+[2026-09-12T12:48:25-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T13:03:26-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 403
+Total bytes received: 16,820
+
+sent 403 bytes  received 16,820 bytes  11,482.00 bytes/sec
+total size is 100,241,499  speedup is 5,820.21
+[2026-09-12T13:03:27-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T13:18:28-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 403
+Total bytes received: 16,820
+
+sent 403 bytes  received 16,820 bytes  11,482.00 bytes/sec
+total size is 100,241,499  speedup is 5,820.21
+[2026-09-12T13:18:29-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T13:33:30-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 403
+Total bytes received: 16,820
+
+sent 403 bytes  received 16,820 bytes  11,482.00 bytes/sec
+total size is 100,241,499  speedup is 5,820.21
+[2026-09-12T13:33:31-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T13:48:32-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 403
+Total bytes received: 16,820
+
+sent 403 bytes  received 16,820 bytes  34,446.00 bytes/sec
+total size is 100,241,499  speedup is 5,820.21
+[2026-09-12T13:48:33-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T14:03:33-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 403
+Total bytes received: 16,820
+
+sent 403 bytes  received 16,820 bytes  11,482.00 bytes/sec
+total size is 100,241,499  speedup is 5,820.21
+[2026-09-12T14:03:34-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T14:18:35-06:00] 10 completed volume(s) on plato
+Total file size: 100,241,499 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 16,789
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 403
+Total bytes received: 16,820
+
+sent 403 bytes  received 16,820 bytes  11,482.00 bytes/sec
+total size is 100,241,499  speedup is 5,820.21
+[2026-09-12T14:18:36-06:00] local now holds 10 completed volume(s), 97M
+[2026-09-12T14:33:37-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 8,148,751 bytes
+Literal data: 8,148,751 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 1,626
+Total bytes received: 8,173,771
+
+sent 1,626 bytes  received 8,173,771 bytes  3,270,158.80 bytes/sec
+total size is 108,390,250  speedup is 13.26
+[2026-09-12T14:33:39-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T14:48:40-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T14:48:41-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T15:03:42-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T15:03:43-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T15:18:43-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T15:18:44-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T15:33:45-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T15:33:46-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T15:48:47-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T15:48:48-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T16:03:49-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T16:03:50-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T16:18:51-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T16:18:52-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T16:33:52-06:00] 11 completed volume(s) on plato
+Total file size: 108,390,250 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 20,523
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 438
+Total bytes received: 20,556
+
+sent 438 bytes  received 20,556 bytes  13,996.00 bytes/sec
+total size is 108,390,250  speedup is 5,162.92
+[2026-09-12T16:33:53-06:00] local now holds 11 completed volume(s), 105M
+[2026-09-12T16:48:54-06:00] 12 completed volume(s) on plato
+Total file size: 124,588,533 bytes
+Total transferred file size: 16,198,283 bytes
+Literal data: 16,198,283 bytes
+Matched data: 0 bytes
+File list size: 23,171
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 1,334
+Total bytes received: 16,227,298
+
+sent 1,334 bytes  received 16,227,298 bytes  4,636,752.00 bytes/sec
+total size is 124,588,533  speedup is 7.68
+[2026-09-12T16:48:57-06:00] local now holds 12 completed volume(s), 120M
+[2026-09-12T17:03:58-06:00] 12 completed volume(s) on plato
+Total file size: 124,588,533 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 23,171
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 469
+Total bytes received: 23,206
+
+sent 469 bytes  received 23,206 bytes  15,783.33 bytes/sec
+total size is 124,588,533  speedup is 5,262.45
+[2026-09-12T17:03:59-06:00] local now holds 12 completed volume(s), 120M
+[2026-09-12T17:19:00-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 6,371,204 bytes
+Literal data: 6,371,204 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 1,482
+Total bytes received: 6,401,020
+
+sent 1,482 bytes  received 6,401,020 bytes  2,561,000.80 bytes/sec
+total size is 130,959,737  speedup is 20.45
+[2026-09-12T17:19:02-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T17:34:03-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T17:34:04-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T17:49:05-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T17:49:06-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T18:04:07-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  53,548.00 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T18:04:07-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T18:19:08-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T18:19:09-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T18:34:10-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T18:34:11-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T18:49:12-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T18:49:13-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T19:04:14-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T19:04:15-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T19:19:16-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T19:19:17-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T19:34:17-06:00] 13 completed volume(s) on plato
+Total file size: 130,959,737 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 26,217
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 520
+Total bytes received: 26,254
+
+sent 520 bytes  received 26,254 bytes  17,849.33 bytes/sec
+total size is 130,959,737  speedup is 4,891.30
+[2026-09-12T19:34:18-06:00] local now holds 13 completed volume(s), 126M
+[2026-09-12T19:49:19-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 9,561,504 bytes
+Literal data: 9,561,504 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 2,693
+Total bytes received: 9,600,854
+
+sent 2,693 bytes  received 9,600,854 bytes  2,743,870.57 bytes/sec
+total size is 140,521,241  speedup is 14.63
+[2026-09-12T19:49:22-06:00] local now holds 14 completed volume(s), 136M
+[2026-09-12T20:04:23-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  65,926.00 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T20:04:23-06:00] local now holds 14 completed volume(s), 136M
+[2026-09-12T20:19:24-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 98,175,288 bytes
+Literal data: 27,795,380 bytes
+Matched data: 70,379,908 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 332,944
+Total bytes received: 28,025,401
+
+sent 332,944 bytes  received 28,025,401 bytes  5,156,062.73 bytes/sec
+total size is 140,521,241  speedup is 4.96
+[2026-09-12T20:19:29-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T20:34:30-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T20:34:31-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T20:49:32-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T20:49:33-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T21:04:34-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T21:04:35-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T21:19:36-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T21:19:37-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T21:34:38-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T21:34:39-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T21:49:40-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T21:49:41-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T22:04:42-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T22:04:43-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T22:19:44-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T22:19:45-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T22:34:46-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T22:34:47-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T22:49:48-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T22:49:49-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T23:04:50-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T23:04:51-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T23:19:52-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T23:19:53-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T23:34:54-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  21,975.33 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T23:34:55-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-12T23:49:56-06:00] 14 completed volume(s) on plato
+Total file size: 140,521,241 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 32,369
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 555
+Total bytes received: 32,408
+
+sent 555 bytes  received 32,408 bytes  65,926.00 bytes/sec
+total size is 140,521,241  speedup is 4,262.00
+[2026-09-12T23:49:57-06:00] local now holds 254 completed volume(s), 928M
+[2026-09-13T00:04:57-06:00] 15 completed volume(s) on plato
+Total file size: 159,285,799 bytes
+Total transferred file size: 18,764,558 bytes
+Literal data: 6,718,798 bytes
+Matched data: 12,045,760 bytes
+File list size: 34,771
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 38,223
+Total bytes received: 6,776,760
+
+sent 38,223 bytes  received 6,776,760 bytes  2,725,993.20 bytes/sec
+total size is 159,285,799  speedup is 23.37
+[2026-09-13T00:04:59-06:00] local now holds 254 completed volume(s), 930M
+[2026-09-13T00:20:00-06:00] 15 completed volume(s) on plato
+Total file size: 159,285,799 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 34,771
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 593
+Total bytes received: 34,816
+
+sent 593 bytes  received 34,816 bytes  23,606.00 bytes/sec
+total size is 159,285,799  speedup is 4,498.46
+[2026-09-13T00:20:01-06:00] local now holds 254 completed volume(s), 930M
+[2026-09-13T00:35:02-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 7,464,199 bytes
+Literal data: 3,055,056 bytes
+Matched data: 4,409,143 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 25,612
+Total bytes received: 3,110,010
+
+sent 25,612 bytes  received 3,110,010 bytes  2,090,414.67 bytes/sec
+total size is 166,749,998  speedup is 53.18
+[2026-09-13T00:35:03-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T00:50:04-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T00:50:05-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T01:05:06-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,328
+
+sent 628 bytes  received 38,328 bytes  25,970.67 bytes/sec
+total size is 166,749,998  speedup is 4,280.47
+[2026-09-13T01:05:07-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T01:20:08-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,328
+
+sent 628 bytes  received 38,328 bytes  25,970.67 bytes/sec
+total size is 166,749,998  speedup is 4,280.47
+[2026-09-13T01:20:09-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T01:35:10-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T01:35:11-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T01:50:12-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T01:50:13-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T02:05:14-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T02:05:15-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T02:20:15-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T02:20:16-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T02:35:17-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,316
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T02:35:18-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T02:50:19-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T02:50:20-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T03:05:21-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T03:05:22-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T03:20:23-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T03:20:24-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T03:35:25-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T03:35:26-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T03:50:27-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,332
+
+sent 628 bytes  received 38,332 bytes  25,973.33 bytes/sec
+total size is 166,749,998  speedup is 4,280.03
+[2026-09-13T03:50:28-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T04:05:29-06:00] 16 completed volume(s) on plato
+Total file size: 166,749,998 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 38,285
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 628
+Total bytes received: 38,328
+
+sent 628 bytes  received 38,328 bytes  25,970.67 bytes/sec
+total size is 166,749,998  speedup is 4,280.47
+[2026-09-13T04:05:30-06:00] local now holds 254 completed volume(s), 932M
+[2026-09-13T04:20:31-06:00] 17 completed volume(s) on plato
+Total file size: 185,487,406 bytes
+Total transferred file size: 18,737,408 bytes
+Literal data: 6,516,635 bytes
+Matched data: 12,220,773 bytes
+File list size: 41,120
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 38,923
+Total bytes received: 6,581,511
+
+sent 38,923 bytes  received 6,581,511 bytes  4,413,622.67 bytes/sec
+total size is 185,487,406  speedup is 28.02
+[2026-09-13T04:20:32-06:00] local now holds 254 completed volume(s), 934M
+[2026-09-13T04:35:33-06:00] 17 completed volume(s) on plato
+Total file size: 185,487,406 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 41,120
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 662
+Total bytes received: 41,169
+
+sent 662 bytes  received 41,169 bytes  27,887.33 bytes/sec
+total size is 185,487,406  speedup is 4,434.21
+[2026-09-13T04:35:34-06:00] local now holds 254 completed volume(s), 934M
+[2026-09-13T04:50:35-06:00] 17 completed volume(s) on plato
+Total file size: 185,487,406 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 41,120
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 662
+Total bytes received: 41,169
+
+sent 662 bytes  received 41,169 bytes  27,887.33 bytes/sec
+total size is 185,487,406  speedup is 4,434.21
+[2026-09-13T04:50:36-06:00] local now holds 254 completed volume(s), 934M
+[2026-09-13T05:05:37-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 9,038,586 bytes
+Literal data: 3,539,020 bytes
+Matched data: 5,499,566 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 24,148
+Total bytes received: 3,597,261
+
+sent 24,148 bytes  received 3,597,261 bytes  2,414,272.67 bytes/sec
+total size is 194,525,992  speedup is 53.72
+[2026-09-13T05:05:38-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T05:20:39-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T05:20:40-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T05:35:41-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T05:35:42-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T05:50:43-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T05:50:44-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T06:05:45-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,714
+
+sent 697 bytes  received 42,714 bytes  28,940.67 bytes/sec
+total size is 194,525,992  speedup is 4,481.03
+[2026-09-13T06:05:46-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T06:20:47-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,714
+
+sent 697 bytes  received 42,714 bytes  28,940.67 bytes/sec
+total size is 194,525,992  speedup is 4,481.03
+[2026-09-13T06:20:48-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T06:35:49-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T06:35:50-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T06:50:51-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T06:50:52-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T07:05:53-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T07:05:54-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T07:20:55-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T07:20:56-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T07:35:57-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T07:35:58-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T07:50:59-06:00] 18 completed volume(s) on plato
+Total file size: 194,525,992 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 42,667
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 697
+Total bytes received: 42,718
+
+sent 697 bytes  received 42,718 bytes  28,943.33 bytes/sec
+total size is 194,525,992  speedup is 4,480.62
+[2026-09-13T07:51:00-06:00] local now holds 254 completed volume(s), 936M
+[2026-09-13T08:06:01-06:00] 19 completed volume(s) on plato
+Total file size: 211,605,789 bytes
+Total transferred file size: 17,079,797 bytes
+Literal data: 4,728,314 bytes
+Matched data: 12,351,483 bytes
+File list size: 43,878
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 37,786
+Total bytes received: 4,794,580
+
+sent 37,786 bytes  received 4,794,580 bytes  1,380,676.00 bytes/sec
+total size is 211,605,789  speedup is 43.79
+[2026-09-13T08:06:04-06:00] local now holds 254 completed volume(s), 937M
+[2026-09-13T08:21:05-06:00] 19 completed volume(s) on plato
+Total file size: 211,605,789 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 43,878
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 735
+Total bytes received: 43,931
+
+sent 735 bytes  received 43,931 bytes  29,777.33 bytes/sec
+total size is 211,605,789  speedup is 4,737.51
+[2026-09-13T08:21:06-06:00] local now holds 254 completed volume(s), 937M
+[2026-09-13T08:36:07-06:00] 19 completed volume(s) on plato
+Total file size: 211,605,789 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 43,878
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 735
+Total bytes received: 43,931
+
+sent 735 bytes  received 43,931 bytes  29,777.33 bytes/sec
+total size is 211,605,789  speedup is 4,737.51
+[2026-09-13T08:36:08-06:00] local now holds 254 completed volume(s), 937M
+[2026-09-13T08:51:09-06:00] 19 completed volume(s) on plato
+Total file size: 211,605,789 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 43,878
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 735
+Total bytes received: 43,931
+
+sent 735 bytes  received 43,931 bytes  29,777.33 bytes/sec
+total size is 211,605,789  speedup is 4,737.51
+[2026-09-13T08:51:10-06:00] local now holds 254 completed volume(s), 937M
+[2026-09-13T09:06:11-06:00] 19 completed volume(s) on plato
+Total file size: 211,605,789 bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 43,911
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 735
+Total bytes received: 43,931
+
+sent 735 bytes  received 43,931 bytes  29,777.33 bytes/sec
+total size is 211,605,789  speedup is 4,737.51
+[2026-09-13T09:06:12-06:00] local now holds 254 completed volume(s), 937M

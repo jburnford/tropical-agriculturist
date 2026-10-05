@@ -1,0 +1,22 @@
+# OCR corpus trees (~900 MB each; on Trillium and local disk, not in git)
+output/
+output_v2/
+output_v3/
+output_v4/
+output_v5/
+output_v6/
+output_hdr/
+# large derived artefacts (rebuildable from output_v6 with the scripts here)
+articles/articles.jsonl
+articles/skeleton*.jsonl
+articles/*_pilot.jsonl
+articles/verify/ocr/
+parse/headings.jsonl
+parse/out/
+# images
+*.jpg
+*.png
+*.webp
+# python / editor
+__pycache__/
+*.pyc

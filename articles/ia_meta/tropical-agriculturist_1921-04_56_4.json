@@ -1,0 +1,498 @@
+{"alternate_locations":{"servers":[{"server":"dn720701.ca.archive.org","dir":"/0/items/tropical-agriculturist_1921-04_56_4"}],"workable":[{"server":"dn720701.ca.archive.org","dir":"/0/items/tropical-agriculturist_1921-04_56_4"}]},"created":1791138754,"d1":"ia601407.us.archive.org","d2":"ia801407.us.archive.org","dir":"/28/items/tropical-agriculturist_1921-04_56_4","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1781481640","size":"16292","md5":"e7bb3fb84187bafb6922f92ee475a920","crc32":"0d75e8e5","sha1":"1657b3f6c0451ed312c577003d948cff4c45f78d","format":"Item Tile"},{"name":"logs\/tropical-agriculturist_1921-04_56_4_iabdash_2025-02-2616:57:54.log","source":"original","mtime":"1740560280","size":"710","md5":"5289dd675499220779b7ce8b62ce417c","crc32":"29780d61","sha1":"2ac6c2eb63a8f3e4e87c1d07f8ea54c027b0f708","format":"Log"},{"name":"logs\/tropical-agriculturist_1921-04_56_4_scanning_2025-02-2616:58:02.log","source":"original","mtime":"1740560285","size":"376918","md5":"19bff529fdc08e0d40f22d34e969a6f1","crc32":"79a6cc31","sha1":"3bb708ecc3d95d5220fc91d063091c8437236faf","format":"Log"},{"name":"logs\/tropical-agriculturist_1921-04_56_4_status_history_2025-02-2616:58:06.log","source":"original","mtime":"1740560289","size":"556","md5":"8bd68e96af0730c4b402e122060213e6","crc32":"0a98ef6d","sha1":"f9eab53d9c643ed73abd1fe07a326cb286088810","format":"Log"},{"name":"stub.log","source":"original","mtime":"1740103158","size":"0","md5":"d41d8cd98f00b204e9800998ecf8427e","crc32":"00000000","sha1":"da39a3ee5e6b4b0d3255bfef95601890afd80709","format":"Log"},{"name":"tropical-agriculturist_1921-04_56_4.pdf","source":"derivative","pdf_module_version":"0.0.26","format":"Text PDF","original":"tropical-agriculturist_1921-04_56_4_page_numbers.json","mtime":"1740654415","size":"6152635","md5":"bf6ab4357419bf8c4d28fef7e2fc87f9","crc32":"3db4dba0","sha1":"0f2bf033f2b28e3cb2f4315fc4da8a947431b526"},{"name":"tropical-agriculturist_1921-04_56_4_archive.torrent","source":"metadata","btih":"341c56e6ecf86a09d0622ff5881c84869d5d0624","mtime":"1781481646","size":"7613","md5":"b919f74cf7699a3fef74d35d363c7745","crc32":"973c5ade","sha1":"4e05634639c073cc27e0c517e90178937be73501","format":"Archive BitTorrent"},{"name":"tropical-agriculturist_1921-04_56_4_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"tropical-agriculturist_1921-04_56_4_jp2.zip","mtime":"1740649347","size":"2865361","md5":"0d6180e0e7b09acce3343ba0ade59830","crc32":"716f106d","sha1":"8e30b364d62e1aec0df69ca7dd12e1fc289d63d0"},{"name":"tropical-agriculturist_1921-04_56_4_cloth_detection.log","source":"derivative","cloth_cover_detection_module_version":"2.1.4","format":"Cloth Cover Detection Log","original":"tropical-agriculturist_1921-04_56_4_scandata.xml","mtime":"1740649611","size":"1567","md5":"68d3722322e9d4e4eeb8962dad6254e1","crc32":"344f6fe7","sha1":"786b4cbf17bc2334f02a53ab1bdcdd6dac469813"},{"name":"tropical-agriculturist_1921-04_56_4_djvu.txt","source":"derivative","format":"DjVuTXT","original":"tropical-agriculturist_1921-04_56_4_djvu.xml","mtime":"1740654487","size":"209249","md5":"c68bdb22ff042d2d28f27c194a6ab414","crc32":"32d891e4","sha1":"4b37f313e282d75fc09a230cd32b18b4754366a9"},{"name":"tropical-agriculturist_1921-04_56_4_djvu.xml","source":"derivative","format":"Djvu XML","original":"tropical-agriculturist_1921-04_56_4_hocr.html","mtime":"1740650648","size":"2800939","md5":"9ef9ce0bbd22ed255ec9578f84a489fc","crc32":"52e9e5e1","sha1":"a5e6862be236011ee92e194b85f5273d70abac80"},{"name":"tropical-agriculturist_1921-04_56_4_docling.json.gz","source":"derivative","docling_module_version":"1.0.0","format":"Docling","original":"tropical-agriculturist_1921-04_56_4.pdf","mtime":"1781481440","size":"304872","md5":"84b38ec89f979b05db78f52daa7da96b","crc32":"83984530","sha1":"05c17c240b1c45a3e1643b5b05c4e7ee7e937363"},{"name":"tropical-agriculturist_1921-04_56_4_files.xml","source":"original","format":"Metadata","summation":"md5","md5":"ec56e27321aebe39c97617af9b4abe94"},{"name":"tropical-agriculturist_1921-04_56_4_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.3.0","hocr_char_to_word_hocr_version":"1.1.56","ocr_parameters":"lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"tropical-agriculturist_1921-04_56_4_chocr.html.gz","mtime":"1740650033","size":"5137683","md5":"8865c2bd86bc58bdcc1b1cdfe5aeaa9b","crc32":"09959487","sha1":"104aa41ccb51f209b2a0354511b0ef69d840d634"},{"name":"tropical-agriculturist_1921-04_56_4_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.1.0","hocr_pageindex_hocr_version":"1.1.56","format":"OCR Page Index","original":"tropical-agriculturist_1921-04_56_4_hocr.html","mtime":"1740650826","size":"865","md5":"0ae2d8649d084c741d36d770ddec517a","crc32":"f366bf4a","sha1":"6ce8d4b442b36b7d549e64b4221759c7cbecdb15"},{"name":"tropical-agriculturist_1921-04_56_4_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.2.0","hocr_fts_text_hocr_version":"1.1.56","word_conf_0_10":"843","word_conf_11_20":"344","word_conf_21_30":"422","word_conf_31_40":"472","word_conf_41_50":"361","word_conf_51_60":"402","word_conf_61_70":"404","word_conf_71_80":"570","word_conf_81_90":"1444","word_conf_91_100":"30719","format":"OCR Search Text","original":"tropical-agriculturist_1921-04_56_4_hocr.html","mtime":"1740651166","size":"80377","md5":"e5192d0cd02844fbb8ce52d4b7bea54b","crc32":"c20382e8","sha1":"1513f11c3441f2bf88c4ad7f45e50218475bd776"},{"name":"tropical-agriculturist_1921-04_56_4_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"tropical-agriculturist_1921-04_56_4_orig_jp2.tar","mtime":"1740648439","size":"41388287","md5":"cd73e80358667da40fdb30a38089257f","crc32":"163486b7","sha1":"7001c6a3b92758f58287ec732be24b3775d0d530","filecount":"72"},{"name":"tropical-agriculturist_1921-04_56_4_meta.sqlite","source":"original","mtime":"1740560298","size":"28672","md5":"80a6f3d929f922b30dda9861da137873","crc32":"0f6e7e82","sha1":"ecb4e450d23c1d881442ace234c83cfc9c6ed089","format":"Metadata"},{"name":"tropical-agriculturist_1921-04_56_4_meta.xml","source":"original","mtime":"1781481441","size":"2432","md5":"1e22e98e2af55aaf9cc74a073a5345f2","crc32":"e7278364","sha1":"0d0532e00415501c13c4d482855915bfb88ac197","format":"Metadata"},{"name":"tropical-agriculturist_1921-04_56_4_orig_jp2.tar","source":"original","format":"Single Page Original JP2 Tar","original":"tropical-agriculturist_1921-04_56_4_preimage.zip","mtime":"1740647017","size":"120156160","md5":"da052422eb026270ba72b131ba3da8dd","crc32":"4535d594","sha1":"c648dfe9e59c67bae5ee7242f56b7c1ae7e835f0","filecount":"72"},{"name":"tropical-agriculturist_1921-04_56_4_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"85","format":"Page Numbers JSON","original":"tropical-agriculturist_1921-04_56_4_hocr.html","mtime":"1740653136","size":"11831","md5":"492beefab6aafce8b66e1fbdf58e3635","crc32":"3ddb2bd3","sha1":"f798fad41b2382e22318c19766c7261fba6b5267"},{"name":"tropical-agriculturist_1921-04_56_4_repub_corrections.log","source":"derivative","republisher_deriver_version":"0.0.18","confidence_accurate":"True","crops_accurate":"True","initial_crop_confidence":"100","format":"RePublisher Corrections Processing Log","original":"tropical-agriculturist_1921-04_56_4_scandata.xml","mtime":"1740647033","size":"19532","md5":"498b9aa44840e628a531930d610c115e","crc32":"b9e40acf","sha1":"3c0c26d7d23030507caa91470ce1b95dedce0c9b"},{"name":"tropical-agriculturist_1921-04_56_4_scandata.xml","source":"original","format":"Scandata","original":"tropical-agriculturist_1921-04_56_4_scandata.xml","mtime":"1740649611","size":"92704","md5":"e998b68a29aaffd3b9a38013b1da58c5","crc32":"35f96fc0","sha1":"74e8250e256f503fd5828d70002870d719cb9eea"}],"files_count":23,"item_last_updated":1781481647,"item_size":179655255,"metadata":{"identifier":"tropical-agriculturist_1921-04_56_4","boxid":"IA-CA-200007528","col_number":"COL-1962","collection":["pub_tropical-agriculturist","periodicals","cabi"],"contributor":"Internet Archive","date":"1921-04","issn":"0041-3224","issue":"4","language":"English","mediatype":"texts","old_pallet":"IA-CA-2000075","repub_state":"19","scanner":"station40.cebu.archive.org","scanningcenter":"cebu","title":"Tropical Agriculturist  1921-04: Vol 56 Iss 4 ","volume":"56","uploader":"periodicalissuegenerator@archive.org","publicdate":"2025-02-21 01:59:33","page-progression":"lr","camera":"USB PTP Class Camera","tts_version":"6.11-initial-30-g08d1a4c1","operator":"associate-mervin-collantes@archive.org","identifier-access":"http://archive.org/details/tropical-agriculturist_1921-04_56_4","identifier-ark":"ark:/13960/s26v6mwf70v","scandate":"20250226092738","imagecount":"72","autocrop_version":"0.0.18_books-serials-20230720-0.3","ppi":"360","republisher_operator":"associate-jessa-lubiano@archive.org","republisher_date":"20250227165212","republisher_time":"87","foldoutcount":"0","image_count":"70","ocr":"tesseract 5.3.0-6-g76ae","ocr_parameters":"-l eng","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","external-identifier":["urn:lcp:tropical-agriculturist_1921-04_56_4:epub:60bea8b9-8990-430e-954a-70deb2381058","urn:lcp:tropical-agriculturist_1921-04_56_4:lcpdf:ea293ba2-4a46-4598-afb3-9a5bbbe4c81b"],"page_number_confidence":"85","page_number_module_version":"1.0.5","pdf_module_version":"0.0.26","addeddate":"2025-02-28 00:16:43"},"page_numbers":{
+    "identifier": "tropical-agriculturist_1921-04_56_4",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 85,
+    "pages": [
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": 77,
+            "pageNumber": "198",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 3,
+            "confidence": 96,
+            "pageNumber": "199",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 4,
+            "confidence": 76,
+            "pageNumber": "200",
+            "pageProb": 66,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 5,
+            "confidence": 100,
+            "pageNumber": "201",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 6,
+            "confidence": 81,
+            "pageNumber": "202",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 7,
+            "confidence": 97,
+            "pageNumber": "203",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 8,
+            "confidence": 78,
+            "pageNumber": "204",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 9,
+            "confidence": 93,
+            "pageNumber": "205",
+            "pageProb": 83,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 10,
+            "confidence": 84,
+            "pageNumber": "206",
+            "pageProb": 74,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": 87,
+            "pageNumber": "207",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 14,
+            "confidence": 74,
+            "pageNumber": "208",
+            "pageProb": 64,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 15,
+            "confidence": 79,
+            "pageNumber": "209",
+            "pageProb": 69,
+            "wordConf": 97
+        },
+        {
+            "leafNum": 16,
+            "confidence": 71,
+            "pageNumber": "210",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 17,
+            "confidence": 88,
+            "pageNumber": "211",
+            "pageProb": 78,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 18,
+            "confidence": 72,
+            "pageNumber": "212",
+            "pageProb": 62,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 19,
+            "confidence": 96,
+            "pageNumber": "213",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 20,
+            "confidence": 79,
+            "pageNumber": "214",
+            "pageProb": 69,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 21,
+            "confidence": 100,
+            "pageNumber": "215",
+            "pageProb": 90,
+            "wordConf": 81
+        },
+        {
+            "leafNum": 22,
+            "confidence": 83,
+            "pageNumber": "216",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 23,
+            "confidence": 96,
+            "pageNumber": "217",
+            "pageProb": 86,
+            "wordConf": 86
+        },
+        {
+            "leafNum": 24,
+            "confidence": 78,
+            "pageNumber": "218",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 25,
+            "confidence": 98,
+            "pageNumber": "219",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 26,
+            "confidence": 80,
+            "pageNumber": "220",
+            "pageProb": 70,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 27,
+            "confidence": 89,
+            "pageNumber": "221",
+            "pageProb": 79,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 28,
+            "confidence": null,
+            "pageNumber": "222",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 29,
+            "confidence": 88,
+            "pageNumber": "223",
+            "pageProb": 78,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 30,
+            "confidence": 76,
+            "pageNumber": "224",
+            "pageProb": 66,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 31,
+            "confidence": 87,
+            "pageNumber": "225",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 32,
+            "confidence": 80,
+            "pageNumber": "226",
+            "pageProb": 70,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 33,
+            "confidence": 93,
+            "pageNumber": "227",
+            "pageProb": 83,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 34,
+            "confidence": 78,
+            "pageNumber": "228",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 35,
+            "confidence": 97,
+            "pageNumber": "229",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 36,
+            "confidence": 97,
+            "pageNumber": "230",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 37,
+            "confidence": 91,
+            "pageNumber": "231",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "232",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": 98,
+            "pageNumber": "233",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 40,
+            "confidence": 82,
+            "pageNumber": "234",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 41,
+            "confidence": 94,
+            "pageNumber": "235",
+            "pageProb": 84,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 42,
+            "confidence": 77,
+            "pageNumber": "236",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 43,
+            "confidence": 96,
+            "pageNumber": "237",
+            "pageProb": 86,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 44,
+            "confidence": 71,
+            "pageNumber": "238",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 45,
+            "confidence": null,
+            "pageNumber": "239",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 46,
+            "confidence": 80,
+            "pageNumber": "240",
+            "pageProb": 70,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 47,
+            "confidence": 89,
+            "pageNumber": "241",
+            "pageProb": 79,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 48,
+            "confidence": null,
+            "pageNumber": "242",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 49,
+            "confidence": 92,
+            "pageNumber": "243",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 50,
+            "confidence": 76,
+            "pageNumber": "244",
+            "pageProb": 66,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 51,
+            "confidence": 84,
+            "pageNumber": "245",
+            "pageProb": 74,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 52,
+            "confidence": 71,
+            "pageNumber": "246",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 53,
+            "confidence": 91,
+            "pageNumber": "247",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "248",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": 96,
+            "pageNumber": "249",
+            "pageProb": 86,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 56,
+            "confidence": 77,
+            "pageNumber": "250",
+            "pageProb": 67,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 57,
+            "confidence": 99,
+            "pageNumber": "251",
+            "pageProb": 89,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "252",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": 90,
+            "pageNumber": "253",
+            "pageProb": 80,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 60,
+            "confidence": 74,
+            "pageNumber": "254",
+            "pageProb": 64,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 61,
+            "confidence": 94,
+            "pageNumber": "255",
+            "pageProb": 84,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 62,
+            "confidence": 78,
+            "pageNumber": "256",
+            "pageProb": 68,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 63,
+            "confidence": 87,
+            "pageNumber": "257",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 64,
+            "confidence": 73,
+            "pageNumber": "258",
+            "pageProb": 63,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 65,
+            "confidence": 87,
+            "pageNumber": "259",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 66,
+            "confidence": 69,
+            "pageNumber": "260",
+            "pageProb": 59,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 67,
+            "confidence": 84,
+            "pageNumber": "261",
+            "pageProb": 74,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 68,
+            "confidence": 78,
+            "pageNumber": "262",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 69,
+            "confidence": 92,
+            "pageNumber": "263",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 70,
+            "confidence": 86,
+            "pageNumber": "264",
+            "pageProb": 76,
+            "wordConf": 96
+        }
+    ]
+},"server":"ia801407.us.archive.org","uniq":1871216263,"workable_servers":["ia801407.us.archive.org","ia601407.us.archive.org"]}

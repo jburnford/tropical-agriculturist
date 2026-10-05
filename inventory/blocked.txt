@@ -1,0 +1,10 @@
+# IA items that cannot be fetched with a plain download.
+# Re-run 02_inventory.py then 03_download.py after adding to this list:
+# selection falls through to the next-best copy of the same volume.
+#
+# 2026-09-11: lending-restricted (collections inlibrary/printdisabled),
+# HTTP 401 Unauthorized. Volumes 58, 65 and 71 have alternatives.
+lbg.630.5.tag.v.58_n4i7
+lbg.630.5.tag.v.58
+lbg.630.5.tag.v.65
+lbg.630.5.tag.v.71

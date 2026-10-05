@@ -1,0 +1,616 @@
+tag	page	pdf_page_1based	status	detail
+vol001_tropicalagricult1188ceyl	7	8	FAINT	old:ok:152w E:ok:81w J:ok:99w K:ok:90w tess:0/1
+vol002_tropicalagricult18821883colo	5	6	FAINT	old:ok:195w E:ok:285w J:ok:217w K:ok:348w H:ok:111w M:LOOP:5371w Q:ok:191w tess:1/0
+vol002_tropicalagricult18821883colo	7	8	FAINT	old:ok:50w E:ok:96w J:ok:226w K:ok:71w H:ok:63w M:ok:144w Q:ok:143w tess:0/0
+vol003_tropicalagricult18831884colo	17	18	SHOWTHROUGH	old:ok:0w E:ok:0w J:ok:133w K:ok:1725w tess:10/47
+vol003_tropicalagricult18831884colo	5	6	FAINT	old:ok:16w E:ok:43w J:ok:34w K:ok:54w tess:2/0
+vol003_tropicalagricult18831884colo	7	8	FAINT	old:ok:163w E:ok:254w J:ok:333w K:ok:291w tess:2/9
+vol004_tropicalagricult18841885colo	5	6	FAINT	old:ok:25w E:ok:43w J:ok:46w K:ok:22w tess:0/0
+vol004_tropicalagricult18841885colo	7	8	FAINT	old:ok:38w E:ok:66w J:ok:93w K:ok:24w H:ok:4w M:LOOP:14010w Q:ok:174w tess:0/0
+vol005_tropicalagricult18851886colo	5	6	FAINT	old:ok:15w E:ok:44w J:ok:42w K:ok:44w tess:0/1
+vol005_tropicalagricult18851886colo	7	8	SHOWTHROUGH	old:ok:308w E:ok:258w J:ok:399w K:ok:402w tess:3/25
+vol006_tropicalagricult18861887colo	3	4	FAINT	old:ok:65w E:ok:571w J:ok:62w K:ok:306w tess:1/14
+vol006_tropicalagricult18861887colo	5	6	SHOWTHROUGH	old:ok:471w E:ok:546w J:ok:475w K:ok:475w tess:6/101
+vol007_tropicalagricult7188ceyl	13	14	FAINT	old:LOOP:29w E:LOOP:29w E:LOOP:29w J:ok:81w K:ok:289w tess:2/0
+vol007_tropicalagricult7188ceyl	15	16	SHOWTHROUGH	old:ok:21w E:LOOP:2436w J:ok:477w K:ok:477w tess:5/81
+vol008_tropicalagricult8188ceyl	11	12	FAINT	old:ok:9w E:ok:9w J:ok:196w K:ok:67w tess:3/0
+vol008_tropicalagricult8188ceyl	1117	1118	FAINT	old:ok:66w E:ok:66w J:ok:66w K:ok:66w tess:9/2
+vol008_tropicalagricult8188ceyl	13	14	FAINT	old:ok:0w E:ok:1w J:ok:479w K:ok:469w tess:0/0
+vol008_tropicalagricult8188ceyl	783	784	FAINT	old:ok:0w E:ok:0w J:LOOP:1769w K:ok:71w tess:0/0
+vol009_tropicalagricult9188ceyl	21	22	FAINT	old:ok:70w E:ok:89w J:ok:1195w K:LOOP:5966w tess:1/9
+vol009_tropicalagricult9188ceyl	23	24	SHOWTHROUGH	old:ok:3w E:ok:248w J:ok:371w K:ok:378w tess:3/41
+vol009_tropicalagricult9188ceyl	261	262	FAINT	old:ok:0w E:ok:0w J:ok:150w K:LOOP:12644w tess:0/6
+vol009_tropicalagricult9188ceyl	39	40	FAINT	old:ok:0w E:ok:0w J:ok:25w K:LOOP:1765w tess:1/0
+vol009_tropicalagricult9188ceyl	703	704	FAINT	old:ok:0w E:ok:0w E:ok:0w J:ok:379w K:ok:386w tess:0/0
+vol010_tropicalagricult1018ceyl	1067	1068	FAINT	old:ok:11w E:ok:0w J:ok:0w K:ok:0w tess:0/0
+vol010_tropicalagricult1018ceyl	193	194	FAINT	old:ok:0w E:ok:0w J:LOOP:181w K:ok:750w tess:0/0
+vol010_tropicalagricult1018ceyl	21	22	FAINT	old:LOOP:14w E:ok:0w E:ok:0w J:ok:1191w K:LOOP:5612w H:ok:993w M:ok:499w Q:ok:371w tess:1/1
+vol010_tropicalagricult1018ceyl	23	24	FAINT	old:ok:17w E:ok:9w J:ok:432w K:ok:465w tess:0/5
+vol010_tropicalagricult1018ceyl	39	40	FAINT	old:ok:0w E:ok:0w J:ok:209w K:ok:1189w tess:0/0
+vol010_tropicalagricult1018ceyl	583	584	SHOWTHROUGH	old:LOOP:57w E:ok:66w E:LOOP:61w J:ok:1023w K:ok:1015w tess:0/28
+vol010_tropicalagricult1018ceyl	657	658	FAINT	old:LOOP:140w E:ok:38w E:ok:40w J:ok:992w K:ok:976w tess:0/0
+vol010_tropicalagricult1018ceyl	729	730	FAINT	old:ok:0w E:ok:0w J:ok:127w K:ok:141w tess:0/0
+vol010_tropicalagricult1018ceyl	937	938	FAINT	old:ok:123w E:ok:24w J:ok:465w K:ok:333w tess:0/4
+vol011_tropicalagricult1118ceyl	1011	1012	FAINT	old:ok:0w E:ok:0w J:ok:21w K:ok:0w tess:0/0
+vol011_tropicalagricult1118ceyl	1043	1044	FAINT	old:ok:0w E:ok:0w J:ok:195w K:ok:0w tess:0/0
+vol011_tropicalagricult1118ceyl	107	108	FAINT	old:ok:7w E:ok:4w J:ok:85w K:ok:84w tess:0/4
+vol011_tropicalagricult1118ceyl	179	180	FAINT	old:ok:0w E:ok:0w J:ok:213w K:ok:214w tess:0/0
+vol011_tropicalagricult1118ceyl	243	244	FAINT	old:ok:39w E:LOOP:30w J:ok:422w K:ok:420w tess:2/7
+vol011_tropicalagricult1118ceyl	315	316	FAINT	old:ok:0w E:ok:0w J:ok:83w K:LOOP:11346w tess:0/0
+vol011_tropicalagricult1118ceyl	5	6	FAINT	old:ok:663w E:LOOP:11566w E:LOOP:5719w J:ok:121w K:ok:243w tess:0/1
+vol011_tropicalagricult1118ceyl	627	628	FAINT	old:ok:82w E:ok:10w J:ok:606w K:ok:564w tess:0/0
+vol011_tropicalagricult1118ceyl	7	8	SHOWTHROUGH	old:ok:430w E:ok:433w J:ok:430w K:ok:433w tess:5/31
+vol011_tropicalagricult1118ceyl	715	716	FAINT	old:ok:4w E:ok:2w J:ok:315w K:ok:324w tess:1/2
+vol011_tropicalagricult1118ceyl	875	876	FAINT	old:ok:0w E:ok:0w J:ok:1095w K:ok:30w tess:2/1
+vol012_tropicalagricult1218ceyl	1049	1050	FAINT	old:ok:0w E:ok:0w J:ok:1475w K:ok:174w tess:0/0
+vol012_tropicalagricult1218ceyl	105	106	FAINT	old:ok:158w E:ok:186w J:ok:223w K:ok:803w tess:0/10
+vol012_tropicalagricult1218ceyl	1079	1080	FAINT	old:ok:0w E:ok:0w J:ok:55w K:ok:61w tess:0/0
+vol012_tropicalagricult1218ceyl	1103	1104	FAINT	old:ok:0w E:ok:0w J:ok:85w K:ok:64w tess:0/0
+vol012_tropicalagricult1218ceyl	1151	1152	FAINT	old:ok:0w E:ok:0w J:ok:5w K:ok:416w tess:0/0
+vol012_tropicalagricult1218ceyl	1159	1160	FAINT	old:ok:0w E:ok:0w J:ok:78w K:ok:0w tess:0/0
+vol012_tropicalagricult1218ceyl	1189	1190	FAINT	old:ok:0w E:ok:0w J:LOOP:2323w K:ok:74w tess:0/0
+vol012_tropicalagricult1218ceyl	1269	1270	FAINT	old:ok:0w E:ok:0w J:ok:220w K:ok:341w tess:0/1
+vol012_tropicalagricult1218ceyl	1277	1278	FAINT	old:ok:0w E:ok:0w J:ok:45w K:ok:1299w tess:0/0
+vol012_tropicalagricult1218ceyl	13	14	FAINT	old:LOOP:8w E:LOOP:43w E:LOOP:28w J:ok:159w K:ok:149w tess:1/3
+vol012_tropicalagricult1218ceyl	15	16	SHOWTHROUGH	old:ok:213w E:LOOP:81w E:LOOP:81w J:ok:467w K:ok:467w tess:13/91
+vol012_tropicalagricult1218ceyl	821	822	UNRESOLVED	audit recall 0.00 (321 tess words); old:LOOP:2060w O:ok:58w tess:334/111 best-recall=0.02
+vol012_tropicalagricult1218ceyl	829	830	FAINT	old:ok:0w E:ok:0w J:ok:217w K:ok:128w tess:0/0
+vol012_tropicalagricult1218ceyl	837	838	FAINT	old:LOOP:67w E:ok:330w E:ok:705w J:ok:545w K:ok:521w tess:1/12
+vol012_tropicalagricult1218ceyl	876	877	FAINT	old:ok:0w E:ok:0w J:ok:74w K:ok:60w tess:0/0
+vol012_tropicalagricult1218ceyl	877	878	FAINT	old:ok:0w E:ok:0w J:ok:856w K:ok:281w tess:0/0
+vol012_tropicalagricult1218ceyl	885	886	FAINT	old:ok:0w E:ok:0w J:ok:331w K:ok:325w tess:0/4
+vol013_tropicalagricult1318ceyl	1	2	FAINT	old:ok:3w E:ok:16w J:ok:3w K:ok:5w tess:0/0
+vol013_tropicalagricult1318ceyl	1067	1068	FAINT	old:ok:33w E:ok:1012w J:ok:72w K:ok:69w tess:2/0
+vol013_tropicalagricult1318ceyl	1072	1073	UNRESOLVED	audit recall 0.00 (496 tess words); old:LOOP:10970w O:LOOP:22857w H:ok:8113w tess:275/104 best-recall=0.66
+vol013_tropicalagricult1318ceyl	1073	1074	UNRESOLVED	audit recall 0.00 (304 tess words); old:LOOP:4266w O:LOOP:5725w O:ok:4652w H:ok:5696w tess:500/60 best-recall=0.67
+vol013_tropicalagricult1318ceyl	317	318	FAINT	old:ok:27w E:ok:26w J:ok:26w K:ok:27w tess:3/0
+vol013_tropicalagricult1318ceyl	469	470	FAINT	old:ok:101w E:ok:101w J:ok:65w K:LOOP:14646w tess:1/4
+vol013_tropicalagricult1318ceyl	5	6	FAINT	old:ok:170w E:ok:175w J:ok:168w K:ok:173w tess:1/8
+vol013_tropicalagricult1318ceyl	613	614	FAINT	old:ok:31w E:ok:0w J:ok:557w K:ok:45w H:ok:1560w M:ok:0w Q:ok:2160w tess:0/0
+vol013_tropicalagricult1318ceyl	685	686	SHOWTHROUGH	old:ok:121w E:ok:18w J:ok:468w K:ok:437w tess:5/30
+vol013_tropicalagricult1318ceyl	689	690	FAINT	old:ok:0w E:ok:0w J:ok:29w K:ok:42w tess:0/0
+vol013_tropicalagricult1318ceyl	7	8	SHOWTHROUGH	old:ok:392w E:ok:635w J:ok:563w K:ok:557w tess:0/19
+vol013_tropicalagricult1318ceyl	761	762	FAINT	old:ok:190w E:ok:190w J:ok:382w K:ok:399w tess:3/7
+vol013_tropicalagricult1318ceyl	908	909	FAINT	old:ok:0w E:ok:0w J:ok:67w K:ok:60w tess:0/0
+vol013_tropicalagricult1318ceyl	909	910	FAINT	old:ok:0w E:ok:0w J:LOOP:9337w K:ok:90w tess:1/0
+vol013_tropicalagricult1318ceyl	91	92	FAINT	old:ok:191w E:ok:303w J:LOOP:7937w K:LOOP:6470w tess:3/8
+vol013_tropicalagricult1318ceyl	923	924	FAINT	old:ok:178w E:ok:442w J:ok:465w K:ok:748w H:ok:706w M:ok:743w Q:ok:707w tess:0/3
+vol014_tropicalagricult1418ceyl	1035	1036	FAINT	old:ok:0w E:ok:0w J:ok:67w K:ok:180w tess:0/0
+vol014_tropicalagricult1418ceyl	1051	1052	FAINT	old:ok:33w E:ok:1478w J:ok:1300w K:ok:755w H:LOOP:3520w M:ok:917w Q:ok:1099w tess:2/8
+vol014_tropicalagricult1418ceyl	1067	1068	FAINT	old:ok:0w E:ok:75w J:ok:124w K:ok:553w H:ok:463w M:LOOP:2085w Q:ok:850w tess:1/5
+vol014_tropicalagricult1418ceyl	1071	1072	FAINT	old:ok:0w E:ok:186w J:ok:527w K:ok:592w H:ok:1196w M:ok:1155w Q:ok:1546w tess:0/4
+vol014_tropicalagricult1418ceyl	5	6	FAINT	old:ok:142w E:ok:1154w J:ok:152w K:ok:164w tess:1/0
+vol014_tropicalagricult1418ceyl	56	57	UNRESOLVED	audit recall 0.00 (16 tess words); old:LOOP:11453w O:LOOP:24308w O:LOOP:27812w H:ok:1344w tess:31/62 best-recall=0.00
+vol014_tropicalagricult1418ceyl	57	58	UNRESOLVED	old:LOOP:13579w O:ok:1096w tess:43/64 best-recall=0.00
+vol014_tropicalagricult1418ceyl	58	59	UNRESOLVED	old:LOOP:10083w O:LOOP:18884w H:ok:1341w tess:39/61 best-recall=0.00
+vol014_tropicalagricult1418ceyl	59	60	UNRESOLVED	audit recall 0.00 (16 tess words); old:LOOP:9614w O:ok:921w tess:39/72 best-recall=0.00
+vol014_tropicalagricult1418ceyl	60	61	UNRESOLVED	audit recall 0.00 (17 tess words); old:LOOP:12169w O:ok:1316w tess:51/51 best-recall=0.00
+vol014_tropicalagricult1418ceyl	7	8	SHOWTHROUGH	old:ok:476w E:ok:465w J:ok:506w K:ok:511w tess:5/33
+vol014_tropicalagricult1418ceyl	701	702	FAINT	old:ok:22w E:ok:9w J:ok:757w K:ok:89w tess:0/0
+vol015_tropicalagricult1518ceyl	1003	1004	FAINT	old:ok:0w E:ok:0w J:ok:800w K:ok:298w tess:0/0
+vol015_tropicalagricult1518ceyl	1007	1008	FAINT	old:ok:0w E:ok:0w J:ok:154w K:LOOP:1747w tess:0/0
+vol015_tropicalagricult1518ceyl	1047	1048	FAINT	old:ok:0w E:ok:0w J:ok:87w K:ok:28w tess:0/0
+vol015_tropicalagricult1518ceyl	1067	1068	FAINT	old:ok:0w E:ok:0w J:LOOP:1877w K:ok:800w tess:0/0
+vol015_tropicalagricult1518ceyl	1077	1078	FAINT	old:ok:0w E:ok:0w J:ok:2320w K:ok:51w tess:0/0
+vol015_tropicalagricult1518ceyl	1109	1110	FAINT	old:ok:0w E:ok:0w J:ok:200w K:ok:71w tess:0/0
+vol015_tropicalagricult1518ceyl	247	248	FAINT	old:ok:0w E:ok:0w J:LOOP:295w K:ok:610w tess:0/0
+vol015_tropicalagricult1518ceyl	25	26	FAINT	old:ok:0w E:ok:0w J:ok:1604w K:ok:404w tess:0/2
+vol015_tropicalagricult1518ceyl	321	322	FAINT	old:ok:0w E:ok:0w J:ok:127w K:ok:312w tess:1/9
+vol015_tropicalagricult1518ceyl	5	6	FAINT	old:ok:0w E:ok:5w J:ok:138w K:ok:157w H:ok:75w M:ok:173w Q:ok:120w tess:2/0
+vol015_tropicalagricult1518ceyl	535	536	FAINT	old:ok:0w E:ok:0w J:ok:123w K:ok:211w tess:0/0
+vol015_tropicalagricult1518ceyl	7	8	FAINT	old:ok:0w E:ok:0w J:ok:331w K:ok:387w tess:0/0
+vol015_tropicalagricult1518ceyl	908	909	ACCEPTED_BUT_AUDIT_MISSING	audit recall 0.40 (388 tess words); old:LOOP:4344w O:LOOP:6780w H:ok:10032w tess:640/29 recall=0.75
+vol015_tropicalagricult1518ceyl	909	910	UNRESOLVED	audit recall 0.00 (773 tess words); old:LOOP:4840w O:ok:4517w H:ok:7124w tess:729/118 best-recall=0.65
+vol015_tropicalagricult1518ceyl	931	932	FAINT	old:ok:0w E:ok:0w J:ok:768w K:ok:1080w tess:0/0
+vol015_tropicalagricult1518ceyl	967	968	FAINT	old:ok:0w E:ok:0w J:ok:149w K:ok:359w tess:0/0
+vol015_tropicalagricult1518ceyl	999	1000	FAINT	old:ok:0w E:ok:0w J:ok:1665w K:LOOP:2729w tess:0/0
+vol016_tropicalagricult1618ceyl	1017	1018	FAINT	old:ok:0w E:ok:52w J:ok:602w K:LOOP:3096w H:ok:1010w M:ok:920w Q:LOOP:5739w tess:2/3
+vol016_tropicalagricult1618ceyl	1033	1034	FAINT	old:ok:0w E:ok:0w J:ok:1017w K:LOOP:1670w tess:1/4
+vol016_tropicalagricult1618ceyl	1067	1068	FAINT	old:ok:0w E:ok:0w J:ok:536w K:ok:434w tess:2/2
+vol016_tropicalagricult1618ceyl	1083	1084	FAINT	old:ok:0w E:ok:0w J:ok:465w K:ok:778w tess:2/2
+vol016_tropicalagricult1618ceyl	237	238	FAINT	old:ok:0w E:ok:186w J:ok:367w K:ok:376w tess:0/0
+vol016_tropicalagricult1618ceyl	5	6	FAINT	old:ok:89w E:ok:12w J:ok:200w K:ok:220w tess:0/7
+vol016_tropicalagricult1618ceyl	531	532	FAINT	old:ok:0w E:ok:0w J:ok:220w K:ok:351w tess:0/1
+vol016_tropicalagricult1618ceyl	7	8	FAINT	old:ok:0w E:ok:0w J:ok:284w K:ok:243w tess:3/8
+vol016_tropicalagricult1618ceyl	841	842	FAINT	old:ok:0w E:ok:0w J:LOOP:7961w K:ok:200w tess:4/7
+vol016_tropicalagricult1618ceyl	919	920	FAINT	old:ok:263w E:ok:168w J:ok:481w K:ok:127w H:ok:691w M:ok:446w Q:ok:1241w tess:0/0
+vol016_tropicalagricult1618ceyl	961	962	FAINT	old:ok:0w E:ok:0w J:ok:450w K:ok:85w tess:0/0
+vol016_tropicalagricult1618ceyl	977	978	FAINT	old:ok:0w E:LOOP:2w J:ok:917w K:ok:994w H:ok:1109w M:ok:1407w Q:ok:752w tess:6/0
+vol016_tropicalagricult1618ceyl	981	982	FAINT	old:ok:0w E:ok:728w J:ok:901w K:ok:1008w H:ok:1461w M:LOOP:2888w Q:LOOP:4292w tess:3/3
+vol016_tropicalagricult1618ceyl	987	988	FAINT	old:ok:0w E:ok:0w J:ok:1446w K:ok:88w tess:1/3
+vol017_tropicalagricult1718ceyl	1003	1004	FAINT	old:ok:0w E:ok:0w J:ok:1386w K:ok:507w tess:0/0
+vol017_tropicalagricult1718ceyl	1007	1008	FAINT	old:ok:0w E:ok:505w J:ok:118w K:ok:1556w H:LOOP:2610w M:ok:1224w Q:ok:1499w tess:4/11
+vol017_tropicalagricult1718ceyl	1017	1018	FAINT	old:ok:0w E:ok:0w J:ok:183w K:ok:955w tess:0/0
+vol017_tropicalagricult1718ceyl	1029	1030	FAINT	old:ok:0w E:ok:261w J:ok:1688w K:ok:825w H:ok:2197w M:ok:1117w Q:ok:1639w tess:0/1
+vol017_tropicalagricult1718ceyl	1035	1036	FAINT	old:ok:0w E:ok:0w J:ok:94w K:ok:85w tess:0/0
+vol017_tropicalagricult1718ceyl	1043	1044	FAINT	old:ok:25w E:ok:26w J:ok:1220w K:ok:1538w H:LOOP:3394w M:ok:1540w Q:ok:1356w tess:1/3
+vol017_tropicalagricult1718ceyl	1049	1050	FAINT	old:ok:0w E:LOOP:54w J:ok:452w K:ok:528w H:ok:688w M:ok:536w Q:ok:927w tess:0/3
+vol017_tropicalagricult1718ceyl	1053	1054	FAINT	old:ok:0w E:ok:0w J:ok:576w K:ok:890w tess:0/0
+vol017_tropicalagricult1718ceyl	1061	1062	FAINT	old:ok:0w E:ok:0w J:ok:203w K:ok:199w tess:0/0
+vol017_tropicalagricult1718ceyl	1073	1074	FAINT	old:ok:0w E:ok:0w J:ok:815w K:ok:1273w tess:0/0
+vol017_tropicalagricult1718ceyl	1085	1086	FAINT	old:ok:0w E:ok:0w J:ok:178w K:ok:117w tess:1/1
+vol017_tropicalagricult1718ceyl	1093	1094	FAINT	old:ok:43w E:ok:28w J:LOOP:2072w K:ok:1227w H:ok:3055w M:ok:1465w Q:ok:1738w tess:0/1
+vol017_tropicalagricult1718ceyl	1105	1106	FAINT	old:ok:0w E:ok:0w J:ok:710w K:LOOP:1952w tess:0/0
+vol017_tropicalagricult1718ceyl	1145	1146	FAINT	old:ok:0w E:ok:0w J:ok:1365w K:LOOP:2260w tess:0/0
+vol017_tropicalagricult1718ceyl	173	174	FAINT	old:ok:0w E:ok:0w J:ok:261w K:ok:508w tess:0/1
+vol017_tropicalagricult1718ceyl	176	177	FAINT	old:ok:0w E:ok:0w J:ok:547w K:LOOP:13666w tess:0/0
+vol017_tropicalagricult1718ceyl	22	23	FAINT	old:ok:41w E:ok:201w J:ok:458w K:ok:452w tess:0/0
+vol017_tropicalagricult1718ceyl	254	255	FAINT	old:ok:0w E:ok:0w J:ok:470w K:ok:414w tess:0/0
+vol017_tropicalagricult1718ceyl	485	486	FAINT	old:ok:0w E:ok:0w J:ok:284w K:ok:302w tess:0/0
+vol017_tropicalagricult1718ceyl	5	6	FAINT	old:ok:67w E:ok:808w J:ok:654w K:ok:240w H:ok:247w M:ok:245w Q:ok:287w tess:0/0
+vol017_tropicalagricult1718ceyl	627	628	FAINT	old:ok:0w E:ok:0w J:LOOP:14096w K:ok:936w tess:0/0
+vol017_tropicalagricult1718ceyl	7	8	FAINT	old:ok:0w E:ok:0w J:ok:615w K:ok:551w tess:0/0
+vol017_tropicalagricult1718ceyl	701	702	FAINT	old:ok:0w E:ok:0w J:ok:997w K:LOOP:13391w tess:0/1
+vol017_tropicalagricult1718ceyl	777	778	FAINT	old:ok:0w E:ok:0w J:LOOP:4041w K:ok:525w tess:1/4
+vol017_tropicalagricult1718ceyl	918	919	UNRESOLVED	audit recall 0.00 (213 tess words); old:LOOP:2696w O:ok:1945w H:LOOP:5603w tess:698/58 best-recall=0.56
+vol017_tropicalagricult1718ceyl	965	966	FAINT	old:ok:0w E:ok:0w J:ok:1332w K:ok:1837w tess:0/0
+vol017_tropicalagricult1718ceyl	995	996	FAINT	old:ok:0w E:ok:0w J:ok:44w K:ok:14w tess:0/0
+vol018_tropicalagricult1818ceyl	1001	1002	FAINT	old:ok:0w E:ok:0w J:ok:165w K:LOOP:2598w tess:0/0
+vol018_tropicalagricult1818ceyl	1021	1022	FAINT	old:ok:32w E:ok:539w J:ok:889w K:ok:150w H:ok:915w M:LOOP:3599w Q:LOOP:3502w tess:1/4
+vol018_tropicalagricult1818ceyl	1039	1040	FAINT	old:ok:0w E:LOOP:6w J:ok:60w K:ok:72w H:ok:1874w M:ok:718w Q:ok:2045w tess:3/2
+vol018_tropicalagricult1818ceyl	1053	1054	FAINT	old:ok:130w E:ok:105w J:ok:111w K:ok:928w H:LOOP:7083w M:ok:136w Q:LOOP:3340w tess:2/7
+vol018_tropicalagricult1818ceyl	1065	1066	FAINT	old:ok:0w E:ok:13w J:ok:1237w K:ok:1470w H:LOOP:13710w M:ok:1000w Q:ok:1889w tess:4/8
+vol018_tropicalagricult1818ceyl	1087	1088	FAINT	old:ok:0w E:ok:0w J:ok:49w K:ok:32w tess:0/0
+vol018_tropicalagricult1818ceyl	1099	1100	FAINT	old:ok:0w E:ok:5w J:ok:62w K:ok:664w H:ok:276w M:ok:709w Q:ok:699w tess:0/1
+vol018_tropicalagricult1818ceyl	1115	1116	SHOWTHROUGH	old:ok:217w E:LOOP:1946w J:ok:1169w K:ok:36w H:ok:1855w M:ok:1212w Q:LOOP:2993w tess:6/18
+vol018_tropicalagricult1818ceyl	1133	1134	SHOWTHROUGH	old:ok:953w E:ok:8w J:ok:126w K:ok:97w H:ok:2342w M:ok:1514w Q:LOOP:8328w tess:8/35
+vol018_tropicalagricult1818ceyl	1171	1172	FAINT	old:ok:0w E:ok:0w J:ok:417w K:ok:1924w tess:0/1
+vol018_tropicalagricult1818ceyl	1181	1182	FAINT	old:ok:0w E:ok:0w J:ok:51w K:ok:67w tess:1/0
+vol018_tropicalagricult1818ceyl	1187	1188	FAINT	old:ok:5w E:ok:39w J:ok:51w K:ok:2107w H:ok:61w M:ok:610w Q:ok:3078w tess:1/2
+vol018_tropicalagricult1818ceyl	1193	1194	FAINT	old:ok:482w E:ok:334w J:ok:2401w K:LOOP:2645w H:ok:2536w M:ok:1632w Q:LOOP:2461w tess:5/4
+vol018_tropicalagricult1818ceyl	1199	1200	FAINT	old:LOOP:431w E:ok:281w E:ok:247w J:ok:741w K:ok:541w H:ok:2853w M:ok:844w Q:LOOP:5296w tess:2/1
+vol018_tropicalagricult1818ceyl	19	20	FAINT	old:ok:18w E:ok:12w J:ok:244w K:ok:107w H:ok:98w M:ok:99w Q:ok:99w tess:0/0
+vol018_tropicalagricult1818ceyl	5	6	FAINT	old:ok:210w E:ok:150w J:ok:250w K:ok:241w tess:0/3
+vol018_tropicalagricult1818ceyl	7	8	SHOWTHROUGH	old:ok:654w E:ok:557w J:ok:630w K:ok:629w tess:9/37
+vol018_tropicalagricult1818ceyl	839	840	SHOWTHROUGH	old:ok:252w E:LOOP:44w J:ok:55w K:ok:224w tess:1/16
+vol018_tropicalagricult1818ceyl	959	960	FAINT	old:ok:255w E:ok:261w J:ok:254w K:ok:340w H:ok:374w M:ok:208w Q:ok:343w tess:1/0
+vol018_tropicalagricult1818ceyl	960	961	UNRESOLVED	audit recall 0.00 (553 tess words); old:LOOP:12484w O:ok:1490w O:ok:337w H:LOOP:8889w tess:397/33 best-recall=0.46
+vol018_tropicalagricult1818ceyl	963	964	FAINT	old:ok:59w E:ok:0w J:ok:298w K:LOOP:13282w H:ok:1557w M:ok:349w Q:ok:721w tess:0/1
+vol018_tropicalagricult1818ceyl	969	970	FAINT	old:ok:14w E:ok:18w J:LOOP:2172w K:ok:2882w H:LOOP:3701w M:ok:405w Q:LOOP:3268w tess:0/0
+vol018_tropicalagricult1818ceyl	995	996	FAINT	old:ok:0w E:ok:0w J:ok:412w K:ok:215w tess:2/1
+vol019_tropicalagricult1918ceyl	1022	1023	FAINT	old:ok:6w E:ok:13w J:ok:25w K:ok:43w H:ok:459w M:ok:575w Q:ok:787w tess:0/0
+vol019_tropicalagricult1918ceyl	1036	1037	SHOWTHROUGH	old:ok:4w E:LOOP:108w J:ok:545w K:ok:921w tess:3/17
+vol019_tropicalagricult1918ceyl	1042	1043	FAINT	old:ok:0w E:ok:0w J:ok:123w K:ok:164w tess:1/3
+vol019_tropicalagricult1918ceyl	1060	1061	FAINT	old:ok:240w E:ok:24w J:ok:1321w K:LOOP:6594w H:LOOP:4417w M:ok:1248w Q:LOOP:2549w tess:0/4
+vol019_tropicalagricult1918ceyl	1070	1071	FAINT	old:ok:0w E:ok:27w J:ok:1368w K:ok:517w H:ok:1532w M:ok:385w Q:LOOP:5895w tess:0/1
+vol019_tropicalagricult1918ceyl	1076	1077	FAINT	old:ok:0w E:ok:0w J:ok:2062w K:ok:2069w tess:0/0
+vol019_tropicalagricult1918ceyl	1084	1085	FAINT	old:ok:36w E:ok:31w J:ok:1012w K:LOOP:7114w H:LOOP:7598w M:ok:1366w Q:LOOP:7359w tess:0/0
+vol019_tropicalagricult1918ceyl	1094	1095	FAINT	old:ok:23w E:ok:258w J:ok:657w K:ok:320w H:LOOP:3620w M:LOOP:5295w Q:ok:1151w tess:0/0
+vol019_tropicalagricult1918ceyl	1102	1103	FAINT	old:LOOP:3492w E:ok:24w O:ok:192w H:ok:1132w J:ok:644w K:ok:515w H:ok:1132w M:ok:361w Q:ok:1802w tess:0/0
+vol019_tropicalagricult1918ceyl	1128	1129	FAINT	old:ok:0w E:ok:0w J:ok:235w K:ok:68w tess:0/0
+vol019_tropicalagricult1918ceyl	1138	1139	FAINT	old:ok:0w E:ok:0w J:ok:847w K:LOOP:6949w tess:0/0
+vol019_tropicalagricult1918ceyl	1156	1157	FAINT	old:ok:231w E:ok:190w J:ok:314w K:ok:510w tess:0/8
+vol019_tropicalagricult1918ceyl	1166	1167	FAINT	old:ok:0w E:ok:0w J:LOOP:2570w K:ok:711w tess:0/1
+vol019_tropicalagricult1918ceyl	319	320	FAINT	old:ok:0w E:ok:0w J:ok:60w K:ok:426w tess:0/0
+vol019_tropicalagricult1918ceyl	5	6	FAINT	old:ok:158w E:ok:761w J:ok:227w K:ok:200w tess:3/5
+vol019_tropicalagricult1918ceyl	7	8	FAINT	old:ok:540w E:ok:368w J:ok:628w K:ok:627w tess:1/4
+vol019_tropicalagricult1918ceyl	783	784	FAINT	old:ok:0w E:ok:0w J:ok:21w K:ok:29w tess:0/0
+vol019_tropicalagricult1918ceyl	923	924	FAINT	old:ok:0w E:ok:0w J:LOOP:107w K:ok:79w tess:0/0
+vol019_tropicalagricult1918ceyl	935	936	FAINT	old:ok:0w E:ok:0w J:ok:296w K:ok:311w tess:0/0
+vol019_tropicalagricult1918ceyl	954	955	FAINT	old:ok:6w E:ok:6w J:ok:478w K:LOOP:3853w tess:0/0
+vol019_tropicalagricult1918ceyl	968	969	FAINT	old:ok:0w E:ok:0w J:ok:191w K:ok:46w tess:0/0
+vol019_tropicalagricult1918ceyl	974	975	FAINT	old:ok:0w E:ok:0w J:ok:611w K:ok:412w tess:1/1
+vol019_tropicalagricult1918ceyl	980	981	FAINT	old:ok:0w E:ok:0w J:ok:393w K:ok:94w tess:0/0
+vol019_tropicalagricult1918ceyl	984	985	FAINT	old:ok:211w E:ok:0w J:ok:1353w K:ok:393w H:LOOP:3018w M:ok:1929w Q:LOOP:12057w tess:0/1
+vol019_tropicalagricult1918ceyl	998	999	FAINT	old:ok:0w E:ok:0w J:ok:1625w K:ok:527w tess:1/0
+vol020_tropicalagricult2019ceyl	1001	1002	UNRESOLVED	old:ok:1447w E:LOOP:1629w J:ok:169w K:ok:164w tess:15/72 best-recall=0.00
+vol020_tropicalagricult2019ceyl	1033	1034	FAINT	old:LOOP:450w E:ok:1121w E:ok:221w J:ok:535w K:ok:816w H:LOOP:7576w M:ok:573w Q:LOOP:10311w tess:2/3
+vol020_tropicalagricult2019ceyl	1045	1046	FAINT	old:ok:0w E:ok:0w J:LOOP:2069w K:ok:107w tess:2/2
+vol020_tropicalagricult2019ceyl	1077	1078	FAINT	old:ok:0w E:ok:0w J:ok:999w K:ok:1178w tess:0/0
+vol020_tropicalagricult2019ceyl	1095	1096	FAINT	old:ok:0w E:ok:0w J:ok:59w K:ok:213w tess:0/0
+vol020_tropicalagricult2019ceyl	1099	1100	FAINT	old:ok:0w E:LOOP:24w J:ok:811w K:ok:743w H:ok:1231w M:ok:1050w Q:ok:1273w tess:1/0
+vol020_tropicalagricult2019ceyl	1107	1108	FAINT	old:ok:49w E:ok:2090w J:ok:232w K:ok:600w H:LOOP:1697w M:ok:447w Q:ok:1220w tess:1/0
+vol020_tropicalagricult2019ceyl	1119	1120	FAINT	old:ok:390w E:LOOP:1999w J:ok:316w K:ok:938w H:LOOP:5432w M:ok:1113w Q:LOOP:2767w tess:2/0
+vol020_tropicalagricult2019ceyl	1125	1126	FAINT	old:ok:0w E:ok:0w J:ok:387w K:ok:49w tess:0/0
+vol020_tropicalagricult2019ceyl	1131	1132	FAINT	old:ok:3w E:ok:0w J:ok:2538w K:ok:1191w H:ok:1540w M:LOOP:4024w Q:ok:2782w tess:1/2
+vol020_tropicalagricult2019ceyl	1143	1144	FAINT	old:ok:0w E:ok:0w J:ok:248w K:ok:2351w tess:0/0
+vol020_tropicalagricult2019ceyl	1149	1150	FAINT	old:ok:0w E:LOOP:5w J:ok:87w K:LOOP:3184w H:ok:1801w M:ok:2061w Q:ok:2319w tess:0/1
+vol020_tropicalagricult2019ceyl	1155	1156	FAINT	old:ok:44w E:ok:114w J:ok:193w K:ok:800w H:ok:1141w M:ok:983w Q:ok:732w tess:0/1
+vol020_tropicalagricult2019ceyl	1169	1170	FAINT	old:ok:0w E:ok:0w J:ok:271w K:ok:151w tess:0/0
+vol020_tropicalagricult2019ceyl	1177	1178	FAINT	old:ok:0w E:ok:0w J:ok:505w K:ok:125w tess:0/0
+vol020_tropicalagricult2019ceyl	1185	1186	FAINT	old:ok:0w E:ok:0w J:ok:1512w K:ok:1422w tess:0/0
+vol020_tropicalagricult2019ceyl	1203	1204	FAINT	old:ok:3w E:ok:3w J:ok:118w K:ok:837w H:ok:61w M:LOOP:3712w Q:ok:1191w tess:1/0
+vol020_tropicalagricult2019ceyl	19	20	FAINT	old:ok:0w E:ok:0w J:ok:33w K:ok:133w tess:0/0
+vol020_tropicalagricult2019ceyl	5	6	FAINT	old:ok:26w E:ok:134w J:ok:56w K:ok:91w H:ok:46w M:ok:199w Q:ok:46w tess:0/0
+vol020_tropicalagricult2019ceyl	7	8	FAINT	old:ok:286w E:ok:201w J:ok:338w K:ok:242w H:ok:273w M:ok:696w Q:ok:514w tess:0/0
+vol020_tropicalagricult2019ceyl	921	922	FAINT	old:ok:0w E:ok:0w J:ok:606w K:ok:270w tess:0/7
+vol020_tropicalagricult2019ceyl	933	934	FAINT	old:ok:0w E:ok:0w J:ok:1495w K:ok:0w tess:0/0
+vol020_tropicalagricult2019ceyl	939	940	FAINT	old:ok:6w E:ok:6w J:ok:552w K:ok:752w H:ok:935w M:ok:400w Q:ok:1106w tess:0/5
+vol020_tropicalagricult2019ceyl	945	946	FAINT	old:ok:380w E:ok:263w J:ok:171w K:ok:372w tess:0/0
+vol020_tropicalagricult2019ceyl	951	952	FAINT	old:ok:0w E:ok:0w J:ok:92w K:LOOP:7318w tess:1/2
+vol020_tropicalagricult2019ceyl	957	958	FAINT	old:ok:0w E:ok:0w J:ok:614w K:ok:817w tess:0/0
+vol020_tropicalagricult2019ceyl	963	964	FAINT	old:ok:0w E:ok:0w J:ok:1039w K:ok:590w tess:0/0
+vol020_tropicalagricult2019ceyl	969	970	FAINT	old:ok:0w E:ok:0w J:ok:80w K:ok:141w tess:1/0
+vol020_tropicalagricult2019ceyl	97	98	FAINT	old:ok:0w E:ok:0w J:ok:882w K:ok:399w tess:1/0
+vol020_tropicalagricult2019ceyl	991	992	SHOWTHROUGH	old:LOOP:2657w E:LOOP:2662w O:ok:274w H:ok:1935w J:ok:389w K:ok:380w tess:3/19
+vol021_tropicalagricult2119ceyl	1007	1008	FAINT	old:ok:0w E:ok:0w J:ok:1124w K:ok:1436w tess:0/0
+vol021_tropicalagricult2119ceyl	1025	1026	FAINT	old:ok:0w E:ok:0w J:ok:103w K:ok:430w tess:0/0
+vol021_tropicalagricult2119ceyl	1039	1040	FAINT	old:ok:0w E:ok:0w J:ok:90w K:ok:250w tess:0/0
+vol021_tropicalagricult2119ceyl	1057	1058	FAINT	old:ok:0w E:ok:0w J:ok:89w K:ok:82w tess:0/0
+vol021_tropicalagricult2119ceyl	1069	1070	FAINT	old:ok:0w E:ok:0w J:ok:81w K:ok:101w tess:0/0
+vol021_tropicalagricult2119ceyl	1075	1076	FAINT	old:ok:35w E:ok:33w J:ok:1806w K:ok:162w H:ok:1895w M:ok:1190w Q:ok:1443w tess:0/0
+vol021_tropicalagricult2119ceyl	1081	1082	FAINT	old:ok:9w E:ok:6w J:LOOP:6196w K:ok:1731w H:LOOP:6669w M:ok:1977w Q:LOOP:8337w tess:0/0
+vol021_tropicalagricult2119ceyl	1103	1104	FAINT	old:ok:0w E:ok:0w J:ok:2027w K:ok:1026w tess:0/0
+vol021_tropicalagricult2119ceyl	1129	1130	FAINT	old:ok:4w E:ok:7w J:ok:224w K:ok:227w H:ok:222w M:ok:226w Q:ok:224w tess:0/0
+vol021_tropicalagricult2119ceyl	1135	1136	FAINT	old:ok:41w E:ok:30w J:LOOP:6249w K:ok:60w H:ok:496w M:ok:437w Q:ok:1211w tess:1/0
+vol021_tropicalagricult2119ceyl	1147	1148	FAINT	old:ok:0w E:ok:0w J:ok:108w K:ok:119w tess:0/0
+vol021_tropicalagricult2119ceyl	1153	1154	FAINT	old:ok:0w E:ok:0w J:ok:369w K:LOOP:3652w tess:0/0
+vol021_tropicalagricult2119ceyl	1167	1168	FAINT	old:ok:0w E:ok:0w J:ok:295w K:ok:295w tess:0/0
+vol021_tropicalagricult2119ceyl	1193	1194	FAINT	old:ok:0w E:ok:0w J:ok:779w K:ok:1472w tess:0/0
+vol021_tropicalagricult2119ceyl	1195	1196	FAINT	old:ok:106w E:ok:22w J:ok:548w K:ok:588w tess:0/0
+vol021_tropicalagricult2119ceyl	1199	1200	FAINT	old:ok:0w E:ok:1w J:LOOP:3779w K:ok:84w H:LOOP:1862w M:LOOP:3839w Q:ok:106w tess:0/0
+vol021_tropicalagricult2119ceyl	1217	1218	FAINT	old:ok:303w E:ok:328w J:ok:519w K:ok:308w H:ok:454w M:ok:382w Q:ok:438w tess:0/1
+vol021_tropicalagricult2119ceyl	165	166	FAINT	old:ok:0w E:ok:0w J:ok:47w K:ok:51w tess:0/1
+vol021_tropicalagricult2119ceyl	17	18	FAINT	old:ok:24w E:ok:19w J:ok:82w K:ok:123w H:ok:1765w M:ok:331w Q:ok:524w tess:0/3
+vol021_tropicalagricult2119ceyl	5	6	FAINT	old:ok:250w E:ok:257w J:ok:262w K:ok:262w tess:1/12
+vol021_tropicalagricult2119ceyl	7	8	FAINT	old:ok:243w E:ok:441w J:ok:904w K:ok:407w H:ok:508w M:ok:694w Q:ok:702w tess:0/0
+vol021_tropicalagricult2119ceyl	735	736	FAINT	old:ok:189w E:ok:303w J:ok:1063w K:ok:1035w tess:0/14
+vol021_tropicalagricult2119ceyl	843	844	FAINT	old:ok:12w E:ok:11w J:ok:27w K:ok:27w H:ok:26w M:ok:24w Q:ok:21w tess:0/0
+vol021_tropicalagricult2119ceyl	903	904	FAINT	old:ok:36w E:ok:241w J:ok:444w K:ok:427w H:ok:415w M:ok:445w Q:ok:416w tess:0/4
+vol021_tropicalagricult2119ceyl	905	906	FAINT	old:ok:6w E:ok:4w J:ok:1448w K:ok:1193w H:ok:525w M:ok:275w Q:ok:128w tess:0/0
+vol021_tropicalagricult2119ceyl	909	910	FAINT	old:ok:2w E:LOOP:40w J:ok:488w K:ok:377w H:ok:316w M:ok:541w Q:LOOP:1609w tess:0/1
+vol021_tropicalagricult2119ceyl	917	918	FAINT	old:ok:0w E:ok:0w J:ok:882w K:ok:70w tess:0/0
+vol021_tropicalagricult2119ceyl	947	948	FAINT	old:ok:0w E:ok:0w J:ok:95w K:LOOP:4110w tess:0/0
+vol021_tropicalagricult2119ceyl	955	956	FAINT	old:ok:0w E:ok:0w J:ok:188w K:ok:131w tess:0/0
+vol021_tropicalagricult2119ceyl	967	968	FAINT	old:ok:0w E:ok:0w J:ok:900w K:ok:1262w tess:0/0
+vol021_tropicalagricult2119ceyl	973	974	FAINT	old:ok:0w E:ok:0w J:ok:2055w K:ok:542w tess:0/0
+vol021_tropicalagricult2119ceyl	989	990	FAINT	old:LOOP:190w E:LOOP:270w E:LOOP:270w J:ok:1065w K:ok:723w H:ok:3156w M:ok:1202w Q:LOOP:2338w tess:2/1
+vol021_tropicalagricult2119ceyl	995	996	FAINT	old:ok:0w E:ok:0w J:ok:140w K:ok:239w tess:0/0
+vol022_tropicalagricult2219ceyl	1013	1014	FAINT	old:ok:22w E:ok:6w J:ok:330w K:ok:74w H:ok:134w M:ok:323w Q:LOOP:637w tess:0/0
+vol022_tropicalagricult2219ceyl	1025	1026	FAINT	old:ok:0w E:ok:0w J:ok:1015w K:ok:661w tess:0/0
+vol022_tropicalagricult2219ceyl	1031	1032	FAINT	old:LOOP:16w E:ok:62w E:ok:72w J:ok:279w K:ok:670w H:LOOP:7904w M:ok:574w Q:ok:802w tess:2/3
+vol022_tropicalagricult2219ceyl	1037	1038	FAINT	old:LOOP:79w E:ok:89w E:ok:8w J:ok:104w K:ok:1076w H:ok:1518w M:ok:899w Q:LOOP:5119w tess:4/7
+vol022_tropicalagricult2219ceyl	1049	1050	FAINT	old:ok:20w E:ok:303w J:ok:2344w K:LOOP:2534w H:ok:1752w M:ok:1241w Q:ok:1271w tess:2/6
+vol022_tropicalagricult2219ceyl	1055	1056	FAINT	old:ok:136w E:ok:132w J:ok:144w K:ok:1510w tess:7/13
+vol022_tropicalagricult2219ceyl	1083	1084	SHOWTHROUGH	old:LOOP:1783w E:LOOP:967w O:ok:117w H:ok:207w J:LOOP:2272w K:LOOP:3005w H:ok:678w M:ok:1281w Q:ok:1039w tess:11/65
+vol022_tropicalagricult2219ceyl	1095	1096	FAINT	old:ok:169w E:ok:660w J:ok:1067w K:ok:697w H:ok:509w M:ok:1138w Q:ok:2425w tess:0/6
+vol022_tropicalagricult2219ceyl	1109	1110	SHOWTHROUGH	old:ok:588w E:ok:120w J:ok:777w K:LOOP:6322w H:ok:1120w M:ok:1154w Q:ok:1483w tess:3/24
+vol022_tropicalagricult2219ceyl	1121	1122	SHOWTHROUGH	old:ok:995w E:LOOP:1478w J:ok:768w K:ok:915w H:ok:902w M:ok:1088w Q:ok:1488w tess:5/33
+vol022_tropicalagricult2219ceyl	1139	1140	SHOWTHROUGH	old:ok:1007w E:ok:911w J:ok:133w K:ok:76w H:ok:1122w M:ok:1185w Q:LOOP:2512w tess:8/34
+vol022_tropicalagricult2219ceyl	1155	1156	FAINT	old:ok:18w E:ok:1396w J:ok:1811w K:ok:35w H:ok:1761w M:ok:510w Q:LOOP:2024w tess:2/1
+vol022_tropicalagricult2219ceyl	1175	1176	FAINT	old:ok:0w E:ok:0w J:ok:83w K:LOOP:6753w tess:0/0
+vol022_tropicalagricult2219ceyl	1181	1182	FAINT	old:LOOP:40w E:ok:72w E:ok:66w J:LOOP:4629w K:ok:1568w H:LOOP:11160w M:ok:708w Q:LOOP:2972w tess:0/1
+vol022_tropicalagricult2219ceyl	1195	1196	FAINT	old:LOOP:10393w O:ok:47w E:ok:565w O:ok:24w H:ok:430w J:ok:528w K:LOOP:4562w H:ok:1043w M:ok:936w Q:ok:751w tess:0/1
+vol022_tropicalagricult2219ceyl	1201	1202	FAINT	old:ok:0w E:ok:0w J:ok:957w K:ok:455w tess:0/0
+vol022_tropicalagricult2219ceyl	1223	1224	FAINT	old:ok:848w E:LOOP:70w J:LOOP:6508w K:LOOP:6792w H:LOOP:6554w M:ok:635w Q:LOOP:3237w tess:2/7
+vol022_tropicalagricult2219ceyl	1235	1236	FAINT	old:ok:28w E:ok:5w E:ok:5w J:ok:95w K:ok:490w H:ok:634w M:ok:375w Q:ok:170w tess:1/0
+vol022_tropicalagricult2219ceyl	1273	1274	FAINT	old:ok:0w E:ok:31w J:LOOP:2661w K:ok:67w H:LOOP:3073w M:LOOP:5865w Q:ok:46w tess:0/0
+vol022_tropicalagricult2219ceyl	5	6	FAINT	old:ok:226w E:LOOP:2670w J:ok:258w K:ok:240w tess:0/1
+vol022_tropicalagricult2219ceyl	911	912	FAINT	old:LOOP:64w E:ok:51w E:LOOP:2302w J:ok:0w K:ok:4w H:ok:31w M:ok:12w Q:ok:32w tess:0/0
+vol022_tropicalagricult2219ceyl	933	934	FAINT	old:ok:1023w E:ok:309w J:LOOP:1091w K:ok:247w H:ok:446w M:ok:507w Q:LOOP:2680w tess:0/0
+vol022_tropicalagricult2219ceyl	947	948	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:14w tess:0/0
+vol022_tropicalagricult2219ceyl	965	966	FAINT	old:ok:46w E:ok:14w J:ok:413w K:ok:389w H:ok:1204w M:LOOP:5822w Q:ok:278w tess:0/0
+vol022_tropicalagricult2219ceyl	979	980	FAINT	old:ok:0w E:ok:63w E:ok:110w J:ok:90w K:ok:433w H:ok:4555w M:ok:1208w Q:LOOP:8406w tess:2/3
+vol022_tropicalagricult2219ceyl	985	986	FAINT	old:LOOP:466w E:LOOP:130w E:LOOP:130w J:ok:931w K:ok:1107w H:ok:2575w M:ok:1607w Q:ok:2915w tess:2/8
+vol022_tropicalagricult2219ceyl	993	994	FAINT	old:ok:247w E:ok:1w J:LOOP:7527w K:LOOP:6820w H:LOOP:7527w M:ok:937w Q:LOOP:5702w tess:0/5
+vol022_tropicalagricult2219ceyl	999	1000	FAINT	old:ok:0w E:ok:0w J:ok:926w K:ok:1174w tess:0/1
+vol023_tropicalagricult2319ceyl	1001	1002	SHOWTHROUGH	old:LOOP:86w E:LOOP:79w E:LOOP:2662w J:LOOP:6947w K:LOOP:1034w tess:8/53
+vol023_tropicalagricult2319ceyl	101	102	FAINT	old:ok:13w E:ok:15w J:ok:303w K:ok:305w tess:1/2
+vol023_tropicalagricult2319ceyl	1015	1016	FAINT	old:LOOP:71w E:ok:102w E:ok:70w J:LOOP:7091w K:LOOP:6163w H:LOOP:6541w M:ok:911w Q:ok:4591w tess:0/7
+vol023_tropicalagricult2319ceyl	1031	1032	FAINT	old:ok:290w E:ok:368w J:LOOP:6705w K:LOOP:6405w H:ok:1099w M:ok:913w Q:LOOP:7979w tess:0/2
+vol023_tropicalagricult2319ceyl	1045	1046	SHOWTHROUGH	old:ok:16w E:LOOP:2886w J:LOOP:6375w K:ok:126w H:LOOP:1344w M:ok:1375w Q:LOOP:14826w tess:5/25
+vol023_tropicalagricult2319ceyl	1061	1062	FAINT	old:ok:0w E:ok:0w J:ok:20w K:LOOP:9959w tess:0/0
+vol023_tropicalagricult2319ceyl	1081	1082	FAINT	old:ok:26w E:ok:808w J:ok:232w K:ok:1791w H:ok:1163w M:ok:1110w Q:ok:1581w tess:0/0
+vol023_tropicalagricult2319ceyl	1099	1100	FAINT	old:ok:0w E:ok:0w J:ok:145w K:ok:53w tess:0/0
+vol023_tropicalagricult2319ceyl	1113	1114	FAINT	old:ok:0w E:ok:0w J:ok:58w K:ok:832w tess:0/0
+vol023_tropicalagricult2319ceyl	1137	1138	FAINT	old:ok:0w E:ok:0w J:LOOP:4060w K:ok:1122w tess:0/0
+vol023_tropicalagricult2319ceyl	1171	1172	FAINT	old:ok:0w E:ok:0w J:ok:295w K:LOOP:5590w tess:0/0
+vol023_tropicalagricult2319ceyl	1179	1180	FAINT	old:ok:0w E:ok:0w J:LOOP:5174w K:ok:1849w tess:0/0
+vol023_tropicalagricult2319ceyl	1193	1194	FAINT	old:ok:30w E:ok:659w J:ok:905w K:ok:1217w H:ok:1445w M:ok:911w Q:ok:835w tess:1/4
+vol023_tropicalagricult2319ceyl	1199	1200	FAINT	old:ok:0w E:ok:0w J:LOOP:5525w K:ok:119w tess:0/0
+vol023_tropicalagricult2319ceyl	1213	1214	FAINT	old:LOOP:54w E:ok:12w E:ok:12w J:ok:194w K:ok:77w H:ok:430w M:ok:1377w Q:ok:717w tess:1/0
+vol023_tropicalagricult2319ceyl	1245	1246	FAINT	old:ok:150w E:ok:74w J:ok:108w K:ok:811w H:LOOP:2809w M:ok:424w Q:ok:626w tess:0/2
+vol023_tropicalagricult2319ceyl	1253	1254	FAINT	old:ok:4w E:ok:2w J:ok:431w K:ok:185w H:LOOP:6828w M:ok:785w Q:ok:94w tess:0/0
+vol023_tropicalagricult2319ceyl	1261	1262	FAINT	old:ok:0w E:ok:0w J:ok:133w K:ok:685w tess:0/0
+vol023_tropicalagricult2319ceyl	1271	1272	FAINT	old:ok:1211w E:ok:107w J:ok:398w K:ok:1033w tess:0/2
+vol023_tropicalagricult2319ceyl	1281	1282	FAINT	old:LOOP:66w E:ok:2254w E:ok:2163w J:ok:124w K:LOOP:1021w tess:0/0
+vol023_tropicalagricult2319ceyl	1289	1290	FAINT	old:ok:407w E:ok:621w J:LOOP:6061w K:LOOP:6216w H:LOOP:6979w M:ok:1256w Q:ok:1184w tess:4/4
+vol023_tropicalagricult2319ceyl	1297	1298	FAINT	old:ok:27w E:ok:14w J:ok:158w K:ok:233w H:LOOP:3055w M:ok:1097w Q:ok:1109w tess:0/1
+vol023_tropicalagricult2319ceyl	1317	1318	FAINT	old:ok:218w E:ok:165w J:ok:1513w K:LOOP:6629w H:ok:1149w M:ok:801w Q:LOOP:10071w tess:0/1
+vol023_tropicalagricult2319ceyl	1327	1328	FAINT	old:LOOP:2w E:ok:37w E:ok:352w J:ok:119w K:ok:158w tess:0/0
+vol023_tropicalagricult2319ceyl	1343	1344	FAINT	old:ok:100w E:LOOP:2658w J:LOOP:6369w K:ok:545w tess:0/0
+vol023_tropicalagricult2319ceyl	1363	1364	FAINT	old:LOOP:126w E:LOOP:163w E:ok:304w J:ok:2488w K:LOOP:2595w H:ok:1003w M:ok:1112w Q:ok:992w tess:0/0
+vol023_tropicalagricult2319ceyl	1383	1384	FAINT	old:ok:214w E:ok:196w J:ok:143w K:ok:142w H:ok:809w M:ok:1185w Q:LOOP:6076w tess:3/10
+vol023_tropicalagricult2319ceyl	1395	1396	FAINT	old:ok:0w E:ok:11w J:ok:470w K:ok:258w H:LOOP:1726w M:ok:703w Q:ok:595w tess:0/2
+vol023_tropicalagricult2319ceyl	22	23	FAINT	old:ok:0w E:ok:0w J:ok:1202w K:ok:231w tess:0/0
+vol023_tropicalagricult2319ceyl	5	6	FAINT	old:ok:289w E:ok:133w J:ok:172w K:ok:306w tess:0/1
+vol023_tropicalagricult2319ceyl	7	8	FAINT	old:ok:418w E:ok:679w J:ok:341w K:ok:533w tess:1/0
+vol023_tropicalagricult2319ceyl	911	912	FAINT	old:ok:136w E:ok:476w J:ok:623w K:ok:533w H:ok:637w M:ok:627w Q:ok:572w tess:1/3
+vol023_tropicalagricult2319ceyl	913	914	FAINT	old:ok:1154w E:ok:74w J:ok:1147w K:ok:337w H:LOOP:1925w M:ok:1076w Q:LOOP:4662w tess:0/0
+vol026_tropicalagricul261906ceyl	12	13	FAINT	old:ok:0w E:ok:0w J:ok:190w K:ok:0w tess:0/0
+vol026_tropicalagricul261906ceyl	393	394	FAINT	old:ok:0w E:ok:0w J:LOOP:13245w K:ok:374w tess:0/2
+vol026_tropicalagricul261906ceyl	509	510	FAINT	old:ok:0w E:ok:0w J:LOOP:184w K:ok:38w tess:0/0
+vol026_tropicalagricul261906ceyl	517	518	FAINT	old:ok:0w E:ok:0w J:ok:36w K:ok:328w tess:0/0
+vol026_tropicalagricul261906ceyl	585	586	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:72w tess:0/0
+vol028_tropicalagricul281907ceyl	445	446	FAINT	old:ok:0w E:ok:191w J:LOOP:6w K:LOOP:105w H:ok:8w M:ok:24w Q:LOOP:31w tess:0/0
+vol028_tropicalagricul281907ceyl	447	448	FAINT	old:ok:2w E:ok:1w J:ok:2w K:ok:22w tess:0/0
+vol032_tropicalagricul321909ceyl	415	416	FAINT	old:ok:0w E:ok:0w J:ok:119w K:ok:76w tess:0/0
+vol033_tropicalagricul331909ceyl	608	609	FAINT	old:ok:1w E:ok:0w J:ok:90w K:ok:76w H:ok:233w M:ok:253w Q:ok:211w tess:0/0
+vol034_tropicalagricul341910ceyl	208	209	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:22w tess:0/0
+vol037_tropicalagricul371911ceyl	514	515	FAINT	old:ok:94w E:ok:27w J:LOOP:14845w K:ok:18w H:ok:548w M:ok:1899w Q:ok:482w tess:0/0
+vol038_tropicalagricul381912ceyl	238	239	FAINT	old:ok:0w E:ok:0w J:ok:5w K:ok:62w tess:0/0
+vol038_tropicalagricul381912ceyl	561	562	FAINT	old:ok:0w E:ok:0w J:ok:289w K:ok:14w tess:0/0
+vol039_tropicalagricul391912ceyl	112	113	FAINT	old:ok:0w E:ok:0w J:ok:54w K:ok:0w tess:0/0
+vol039_tropicalagricul391912ceyl	422	423	UNRESOLVED	old:ok:0w E:ok:0w tess:None/None no-leaf
+vol039_tropicalagricul391912ceyl	500	501	UNRESOLVED	old:ok:0w E:ok:0w tess:None/None no-leaf
+vol040_lbg-630-5-tag-v-40	1	2	FAINT	old:ok:13w E:ok:19w J:ok:8w K:ok:8w H:ok:15w M:ok:11w Q:ok:203w tess:0/0
+vol040_lbg-630-5-tag-v-40	11	12	FAINT	old:ok:0w E:ok:0w J:ok:441w K:ok:607w tess:0/1
+vol040_lbg-630-5-tag-v-40	5	6	FAINT	old:ok:29w E:ok:29w J:ok:29w K:ok:30w tess:0/0
+vol042_lbg-630-5-tag-v-42	1	2	FAINT	old:ok:590w E:ok:0w J:ok:13w K:ok:0w tess:0/0
+vol042_lbg-630-5-tag-v-42	345	346	FAINT	old:ok:0w E:ok:0w J:ok:59w K:ok:2w tess:0/0
+vol042_lbg-630-5-tag-v-42	526	527	FAINT	old:ok:0w E:ok:0w J:ok:26w K:ok:8w tess:0/0
+vol043_lbg-tropicalagricultvol-xliii0000unse-c5y3	353	354	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:18w tess:1/1
+vol045_lbg-630-5-tag-v-45	247	248	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:12w tess:0/0
+vol045_lbg-630-5-tag-v-45	399	400	FAINT	old:ok:0w E:ok:0w J:ok:256w K:LOOP:64w tess:1/2
+vol045_lbg-630-5-tag-v-45	449	450	FAINT	old:ok:0w E:ok:0w J:LOOP:26w K:ok:188w tess:0/0
+vol046_lbg-630-5-tag-v-46	239	240	FAINT	old:ok:0w E:ok:0w J:ok:41w K:LOOP:135w tess:0/0
+vol046_lbg-630-5-tag-v-46	44	45	FAINT	old:ok:130w E:ok:109w J:ok:28w K:ok:107w tess:0/0
+vol047_lbg-630-5-tag-v-47	409	410	FAINT	old:ok:0w E:ok:0w J:ok:109w K:ok:129w tess:0/0
+vol048_iss04_tropical-agriculturist-1917-04-48-4	47	48	FAINT	old:ok:0w E:ok:0w J:ok:265w K:LOOP:2927w tess:2/3
+vol051_iss02_tropical-agriculturist-1918-08-51-2	39	40	FAINT	old:ok:0w E:ok:0w J:ok:880w K:ok:76w tess:0/0
+vol051_iss06_tropical-agriculturist-1918-12-51-6	15	16	FAINT	old:ok:0w E:ok:0w J:LOOP:1w K:ok:13w tess:0/0
+vol051_iss06_tropical-agriculturist-1918-12-51-6	59	60	FAINT	old:ok:46w E:ok:46w J:ok:46w K:ok:46w tess:0/0
+vol053_iss04_tropical-agriculturist-1919-10-53-4	43	44	FAINT	old:ok:0w E:ok:0w J:ok:107w K:ok:39w tess:0/0
+vol054_lbg-630-5-tag-v-54	0	1	FAINT	old:ok:12w E:ok:11w J:ok:12w K:ok:11w tess:3/0
+vol055_lbg-630-5-tag-v-55	449	450	FAINT	old:LOOP:39w E:ok:10w E:ok:10w J:ok:9w K:ok:10w tess:0/0
+vol056_iss03_tropical-agriculturist-1921-03-56-3	37	38	FAINT	old:ok:0w E:ok:0w J:ok:2w K:ok:591w tess:0/0
+vol056_iss04_tropical-agriculturist-1921-04-56-4	11	12	FAINT	old:ok:3w E:ok:89w J:ok:91w K:ok:41w H:ok:35w M:ok:0w Q:ok:86w tess:0/0
+vol057_in-ernet-dli-2015-230764	441	442	FAINT	old:ok:21w E:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:11/2
+vol058_dli-ernet-229219	582	583	FAINT	old:ok:26w E:ok:25w J:ok:26w K:ok:24w tess:6/1
+vol058_dli-ernet-229219	722	723	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:12/1
+vol059_tropicalagricult0059unse	153	154	FAINT	old:ok:0w E:ok:0w J:ok:201w K:ok:901w tess:0/0
+vol059_tropicalagricult0059unse	165	166	FAINT	old:ok:0w E:ok:0w J:ok:6w K:ok:11w tess:0/0
+vol059_tropicalagricult0059unse	277	278	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:91w tess:0/0
+vol061_tropicalagricult0061unse	2	3	FAINT	old:ok:23w E:ok:26w J:ok:25w K:ok:20w H:ok:26w M:ok:43w Q:ok:18w tess:0/0
+vol061_tropicalagricult0061unse	9	10	FAINT	old:ok:64w E:LOOP:2w J:LOOP:184w K:ok:313w H:ok:44w M:ok:395w Q:ok:213w tess:0/0
+vol062_lbg-630-5-tag-v-62	27	28	FAINT	old:ok:0w E:ok:0w J:ok:359w K:ok:47w tess:0/0
+vol063_lbg-630-5-tag-v-63	9	10	FAINT	old:ok:231w E:ok:171w J:ok:777w K:LOOP:154w H:ok:80w M:ok:156w Q:ok:164w tess:1/0
+vol064_lbg-630-5-tag-v-64	336	337	FAINT	old:ok:22w E:ok:0w J:ok:24w K:ok:0w tess:0/0
+vol064_lbg-630-5-tag-v-64	337	338	FAINT	old:ok:21w E:ok:0w J:ok:0w K:ok:0w tess:0/0
+vol066_iss02_tropical-agriculturist-1926-02-66-2	59	60	FAINT	old:ok:0w E:ok:0w J:ok:89w K:ok:12w tess:0/0
+vol067_iss04_tropical-agriculturist-1926-10-67-4	63	64	UNRESOLVED	old:LOOP:747w O:ok:668w O:ok:670w tess:11/38 ROTATED:235
+vol067_iss05_tropical-agriculturist-1926-11-67-5	19	20	FAINT	old:ok:0w E:ok:0w J:ok:68w K:ok:63w tess:0/0
+vol067_iss05_tropical-agriculturist-1926-11-67-5	73	74	UNRESOLVED	old:LOOP:753w O:ok:633w tess:8/40 ROTATED:200
+vol070_dli-ernet-229220	484	485	FAINT	old:ok:56w E:ok:56w J:ok:479w K:ok:979w tess:0/0
+vol070_dli-ernet-229220	852	853	FAINT	old:ok:200w E:ok:200w J:ok:21w K:ok:21w tess:0/0
+vol070_dli-ernet-229220	854	855	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/1
+vol071_tropical-agriculturist-1928-07-71	51	52	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:17w tess:0/0
+vol071_tropical-agriculturist-1928-11-71	9	10	FAINT	old:ok:15w E:LOOP:31w J:ok:12w K:LOOP:54w H:ok:0w M:ok:67w Q:LOOP:80w tess:0/0
+vol071_tropical-agriculturist-1928-12-71	21	22	FAINT	old:ok:0w E:ok:0w J:ok:66w K:ok:0w tess:0/0
+vol072_dli-ernet-229221	737	738	FAINT	old:ok:103w E:ok:98w J:ok:160w K:ok:192w tess:5/2
+vol072_dli-ernet-229221	871	872	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/1
+vol073_tropical-agriculturist-1929-09-73	7	8	FAINT	old:ok:134w E:ok:80w J:ok:231w K:ok:2410w H:ok:57w M:ok:20w Q:ok:794w tess:0/0
+vol073_tropical-agriculturist-1929-10-73	15	16	FAINT	old:ok:0w E:ok:0w J:ok:546w K:ok:84w tess:0/0
+vol073_tropical-agriculturist-1929-10-73	31	32	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:18w tess:0/0
+vol073_tropical-agriculturist-1929-10-73	39	40	FAINT	old:ok:0w E:ok:0w J:ok:1044w K:ok:130w tess:0/0
+vol073_tropical-agriculturist-1929-12-73	30	31	FAINT	old:ok:0w E:ok:0w J:ok:11w K:LOOP:2662w tess:0/0
+vol073_tropical-agriculturist-1929-12-73	35	36	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:20w tess:0/0
+vol073_tropical-agriculturist-1929-12-73	85	86	FAINT	old:ok:662w E:ok:282w J:ok:359w K:LOOP:2003w H:LOOP:5941w M:LOOP:9032w Q:ok:339w tess:0/0
+vol074_dli-ernet-229223	470	471	FAINT	old:ok:27w E:ok:27w J:ok:27w K:ok:27w tess:11/0
+vol074_dli-ernet-229223	885	886	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/1
+vol075_tropical-agriculturist-1930-07-75	53	54	FAINT	old:ok:158w E:ok:121w J:ok:128w K:ok:117w tess:2/5
+vol075_tropical-agriculturist-1930-07-75	55	56	FAINT	old:ok:156w E:ok:139w J:ok:127w K:ok:123w tess:3/6
+vol075_tropical-agriculturist-1930-09-75	6	7	FAINT	old:ok:25w E:ok:59w J:ok:25w K:ok:54w tess:4/1
+vol075_tropical-agriculturist-1930-12-75	65	66	FAINT	old:ok:0w E:ok:27w J:ok:82w K:ok:739w H:ok:308w M:ok:53w Q:ok:42w tess:0/0
+vol076_dli-ernet-229225	859	860	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/3
+vol077_tdl-34003-the-tropical-agriculturist-the-agricultural-journa	58	59	FAINT	old:ok:168w E:ok:157w J:ok:138w K:ok:138w tess:2/0
+vol078_tropical-agriculturist-1932-01-78	13	14	FAINT	old:ok:0w E:ok:0w J:ok:515w K:LOOP:88w tess:0/0
+vol078_tropical-agriculturist-1932-03-78	8	9	FAINT	old:ok:24w E:ok:0w J:ok:24w K:ok:9w tess:0/0
+vol078_tropical-agriculturist-1932-04-78	17	18	FAINT	old:ok:0w E:ok:0w J:ok:34w K:ok:991w tess:0/0
+vol079_iss01_tropical-agriculturist-1932-07-79-1	1	2	FAINT	old:ok:11w E:ok:11w J:ok:11w K:ok:11w tess:2/0
+vol079_iss03_tropical-agriculturist-1932-09-79-3	73	74	FAINT	old:ok:50w E:ok:582w J:ok:149w K:ok:1034w H:ok:278w M:ok:310w Q:LOOP:2518w tess:0/0
+vol079_iss04_tropical-agriculturist-1932-10-79-4	63	64	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:43w tess:0/0
+vol079_iss05_tropical-agriculturist-1932-11-79-5	67	68	FAINT	old:ok:0w E:ok:52w J:ok:212w K:ok:1169w H:ok:0w M:ok:347w Q:LOOP:2416w tess:0/0
+vol079_iss06_tropical-agriculturist-1932-12-79-6	63	64	FAINT	old:ok:9w E:ok:8w J:ok:1015w K:LOOP:2657w H:ok:20w M:LOOP:3486w Q:ok:21w tess:0/0
+vol080_dli-ernet-229226	879	880	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/2
+vol081_iss01_tropical-agriculturist-1933-07-81-1	24	25	FAINT	old:ok:0w E:ok:6w J:ok:64w K:LOOP:195w H:LOOP:34w M:ok:118w Q:ok:121w tess:0/0
+vol081_iss01_tropical-agriculturist-1933-07-81-1	79	80	FAINT	old:LOOP:661w E:LOOP:3219w O:LOOP:5463w H:ok:636w J:ok:553w K:ok:468w H:ok:717w M:ok:471w Q:ok:1428w tess:0/0
+vol081_iss05_tropical-agriculturist-1933-11-81-5	67	68	FAINT	old:ok:262w E:ok:25w J:ok:203w K:ok:0w H:ok:47w M:ok:40w Q:ok:17w tess:0/0
+vol082_dli-ernet-229227	917	918	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:12/1
+vol083_tropical-agriculturist-1934-08	12	13	FAINT	old:ok:0w E:ok:0w J:ok:89w K:ok:261w tess:0/0
+vol083_tropical-agriculturist-1934-09	5	6	FAINT	old:ok:91w E:ok:91w J:ok:91w K:ok:92w tess:0/1
+vol083_tropical-agriculturist-1934-09	63	64	FAINT	old:ok:469w E:ok:523w J:ok:709w K:ok:839w H:ok:553w M:ok:546w Q:ok:791w tess:2/2
+vol084_tropical-agriculturist-1935-02-84	63	64	FAINT	old:ok:833w E:ok:316w J:ok:41w K:ok:2394w H:ok:299w M:ok:631w Q:ok:904w tess:0/0
+vol084_tropical-agriculturist-1935-04-84	65	66	FAINT	old:ok:192w E:ok:331w J:ok:374w K:ok:339w H:ok:1074w M:ok:441w Q:ok:684w tess:0/0
+vol085_tropical-agriculturist-1935-08-85	12	13	FAINT	old:ok:0w E:ok:0w J:ok:7w K:ok:2613w tess:0/0
+vol085_tropical-agriculturist-1935-08-85	73	74	FAINT	old:ok:403w E:LOOP:1073w J:ok:415w K:LOOP:1887w H:LOOP:656w M:ok:620w Q:LOOP:13765w tess:0/0
+vol085_tropical-agriculturist-1935-09-85	43	44	FAINT	old:ok:180w E:ok:180w E:ok:180w J:ok:180w K:ok:180w tess:13/6
+vol085_tropical-agriculturist-1935-09-85	63	64	FAINT	old:ok:0w E:ok:0w J:ok:1191w K:ok:0w tess:0/0
+vol086_dli-ernet-229228	845	846	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/0
+vol087_tropical-agriculturist-1936-07-87	1	2	FAINT	old:ok:11w E:ok:11w J:ok:11w K:ok:11w tess:1/0
+vol087_tropical-agriculturist-1936-07-87	69	70	FAINT	old:ok:478w E:LOOP:1494w J:ok:51w K:ok:53w H:LOOP:5500w M:LOOP:2699w Q:ok:2152w tess:0/0
+vol087_tropical-agriculturist-1936-08-87	65	66	FAINT	old:ok:213w E:ok:470w J:ok:52w K:ok:64w H:ok:365w M:ok:398w Q:ok:222w tess:0/0
+vol087_tropical-agriculturist-1936-10-87	29	30	FAINT	old:ok:217w E:ok:319w J:ok:395w K:ok:38w H:ok:324w M:ok:293w Q:ok:450w tess:4/0
+vol087_tropical-agriculturist-1936-11-87	4	5	FAINT	old:ok:0w E:ok:20w J:ok:0w K:ok:59w tess:0/0
+vol088_dli-ernet-229229	123	124	FAINT	old:ok:137w E:ok:121w J:ok:127w K:ok:83w H:ok:38w M:ok:144w Q:ok:104w tess:2/0
+vol088_dli-ernet-229229	232	233	FAINT	old:ok:9w E:ok:9w J:ok:123w K:ok:124w tess:1/0
+vol088_dli-ernet-229229	358	359	FAINT	old:ok:15w E:ok:1142w J:LOOP:26w K:LOOP:26w H:ok:131w M:LOOP:2662w Q:ok:124w tess:0/0
+vol088_dli-ernet-229229	82	83	FAINT	old:ok:15w E:ok:0w J:ok:0w K:ok:0w tess:0/0
+vol088_dli-ernet-229229	868	869	FAINT	old:ok:13w E:ok:13w J:ok:11w K:ok:11w tess:0/0
+vol088_dli-ernet-229229	869	870	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/0
+vol089_tropical-agriculturist-1937-10-89	67	68	FAINT	old:ok:464w E:ok:96w J:ok:125w K:ok:223w H:ok:703w M:LOOP:1695w Q:ok:118w tess:0/0
+vol089_tropical-agriculturist-1937-11-89	69	70	FAINT	old:ok:479w E:ok:692w J:ok:445w K:LOOP:12867w H:ok:460w M:ok:697w Q:ok:728w tess:0/0
+vol089_tropical-agriculturist-1937-12-89	57	58	FAINT	old:ok:35w E:ok:36w J:ok:35w K:ok:37w tess:13/1
+vol090_iss01_tropical-agriculturist-1938-01-90-1	37	38	FAINT	old:ok:4w E:ok:4w J:ok:191w K:ok:178w tess:3/0
+vol090_iss01_tropical-agriculturist-1938-01-90-1	41	42	FAINT	old:ok:12w E:ok:450w J:ok:255w K:ok:268w tess:6/2
+vol090_iss01_tropical-agriculturist-1938-01-90-1	73	74	FAINT	old:ok:491w E:ok:281w J:ok:471w K:ok:497w H:ok:1503w M:ok:1218w Q:ok:556w tess:1/0
+vol090_iss02_tropical-agriculturist-1938-02-90-2	18	19	FAINT	old:ok:144w E:ok:124w J:ok:317w K:ok:210w H:ok:360w M:ok:135w Q:ok:272w tess:6/0
+vol090_iss02_tropical-agriculturist-1938-02-90-2	19	20	FAINT	old:ok:72w E:ok:95w J:ok:269w K:ok:233w tess:2/0
+vol090_iss03_tropical-agriculturist-1938-03-90-3	1	2	FAINT	old:ok:410w E:ok:221w J:ok:133w K:ok:11w H:ok:127w M:ok:66w Q:ok:28w tess:0/0
+vol090_iss03_tropical-agriculturist-1938-03-90-3	67	68	FAINT	old:ok:90w E:ok:347w J:ok:443w K:ok:119w H:ok:171w M:ok:318w Q:LOOP:2516w tess:0/0
+vol090_iss04_tropical-agriculturist-1938-04-90-4	54	55	FAINT	old:ok:0w E:ok:0w J:ok:11w K:ok:19w tess:0/0
+vol090_iss04_tropical-agriculturist-1938-04-90-4	9	10	FAINT	old:ok:0w E:ok:0w J:ok:18w K:ok:0w tess:0/0
+vol090_iss05_tropical-agriculturist-1938-05-90-5	48	49	FAINT	old:ok:0w E:ok:0w J:ok:16w K:ok:9w tess:0/0
+vol090_iss06_tropical-agriculturist-1938-06-90-6	1	2	FAINT	old:ok:19w E:ok:35w J:ok:12w K:ok:13w H:ok:5w M:ok:90w Q:ok:36w tess:0/0
+vol090_iss06_tropical-agriculturist-1938-06-90-6	48	49	FAINT	old:ok:0w E:ok:31w J:ok:14w K:ok:13w H:ok:0w M:ok:232w Q:ok:8w tess:0/0
+vol090_iss06_tropical-agriculturist-1938-06-90-6	55	56	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:12w tess:0/0
+vol090_iss06_tropical-agriculturist-1938-06-90-6	7	8	FAINT	old:ok:96w E:ok:200w J:ok:0w K:ok:64w H:ok:100w M:ok:113w Q:ok:45w tess:0/0
+vol090_iss06_tropical-agriculturist-1938-06-90-6	87	88	FAINT	old:ok:0w E:ok:0w J:ok:62w K:ok:528w tess:0/1
+vol091_tropical-agriculturist-1938-07-91	83	84	FAINT	old:ok:87w E:ok:108w J:ok:904w K:ok:187w H:LOOP:123w M:ok:234w Q:ok:122w tess:0/0
+vol091_tropical-agriculturist-1938-08-91	13	14	FAINT	old:ok:180w E:ok:178w J:ok:178w K:ok:178w tess:3/10
+vol091_tropical-agriculturist-1938-08-91	33	34	FAINT	old:ok:169w E:ok:171w J:ok:171w K:ok:171w tess:4/7
+vol091_tropical-agriculturist-1938-08-91	34	35	FAINT	old:ok:174w E:ok:186w J:ok:142w K:ok:174w tess:4/6
+vol091_tropical-agriculturist-1938-08-91	35	36	FAINT	old:ok:139w E:ok:139w J:ok:139w K:ok:145w tess:4/1
+vol091_tropical-agriculturist-1938-08-91	36	37	FAINT	old:ok:194w E:ok:190w J:ok:194w K:ok:194w tess:2/7
+vol091_tropical-agriculturist-1938-08-91	73	74	FAINT	old:ok:44w E:ok:292w J:ok:442w K:ok:353w H:LOOP:5413w M:ok:733w Q:ok:1906w tess:0/0
+vol091_tropical-agriculturist-1938-09-91	12	13	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:32w tess:0/0
+vol091_tropical-agriculturist-1938-09-91	73	74	FAINT	old:ok:131w E:ok:264w J:ok:362w K:ok:439w H:ok:454w M:ok:397w Q:LOOP:2489w tess:0/0
+vol091_tropical-agriculturist-1938-10-91	20	21	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:219w tess:0/0
+vol091_tropical-agriculturist-1938-10-91	23	24	FAINT	old:ok:203w E:ok:203w J:ok:203w K:ok:203w tess:2/3
+vol091_tropical-agriculturist-1938-10-91	26	27	FAINT	old:ok:0w E:ok:4w J:ok:44w K:ok:252w H:ok:47w M:ok:36w Q:ok:0w tess:0/0
+vol091_tropical-agriculturist-1938-10-91	29	30	FAINT	old:ok:180w E:ok:180w J:ok:179w K:ok:179w tess:4/5
+vol091_tropical-agriculturist-1938-11-91	12	13	FAINT	old:ok:8w E:ok:24w J:ok:128w K:ok:36w tess:0/1
+vol091_tropical-agriculturist-1938-11-91	29	30	FAINT	old:ok:124w E:ok:0w J:ok:24w K:ok:24w tess:2/0
+vol091_tropical-agriculturist-1938-11-91	33	34	UNRESOLVED	old:ok:15w E:ok:7w J:ok:215w K:ok:111w H:ok:216w M:ok:95w Q:ok:143w tess:41/6 best-recall=0.69
+vol091_tropical-agriculturist-1938-12-91	9	10	FAINT	old:ok:4w E:ok:12w J:ok:11w K:ok:20w H:ok:18w M:ok:12w Q:ok:25w tess:0/0
+vol092_tropical-agriculturist-1939-01-92	81	82	FAINT	old:ok:498w E:ok:31w J:ok:181w K:ok:281w H:ok:101w M:ok:123w Q:ok:208w tess:0/0
+vol092_tropical-agriculturist-1939-02-92	73	74	FAINT	old:ok:573w E:ok:341w J:LOOP:12118w K:ok:567w H:LOOP:2642w M:ok:452w Q:ok:566w tess:0/0
+vol092_tropical-agriculturist-1939-06-92	1	2	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:101w tess:0/0
+vol092_tropical-agriculturist-1939-06-92	20	21	FAINT	old:ok:158w E:ok:158w J:ok:159w K:ok:159w tess:7/6
+vol093_iss01_tropical-agriculturist-1939-07-93-1	1	2	FAINT	old:ok:27w E:ok:27w J:ok:27w K:ok:27w tess:4/1
+vol093_iss01_tropical-agriculturist-1939-07-93-1	3	4	FAINT	old:ok:0w E:ok:70w J:ok:177w K:LOOP:150w H:ok:12w M:ok:60w Q:ok:13w tess:0/0
+vol093_iss01_tropical-agriculturist-1939-07-93-1	69	70	FAINT	old:LOOP:1316w E:LOOP:1316w O:ok:756w H:LOOP:27218w J:ok:373w K:ok:375w H:ok:1415w M:ok:543w Q:ok:1066w tess:0/0
+vol093_iss02_tropical-agriculturist-1939-08-93-2	71	72	FAINT	old:ok:117w E:ok:249w J:ok:511w K:ok:287w H:LOOP:2225w M:ok:573w Q:LOOP:3328w tess:0/0
+vol093_iss03_tropical-agriculturist-1939-09-93-3	1	2	FAINT	old:ok:107w E:ok:77w J:ok:253w K:ok:96w H:ok:29w M:ok:109w Q:ok:26w tess:0/0
+vol093_iss03_tropical-agriculturist-1939-09-93-3	13	14	FAINT	old:ok:0w E:ok:0w J:ok:49w K:ok:0w tess:0/0
+vol093_iss03_tropical-agriculturist-1939-09-93-3	79	80	FAINT	old:ok:501w E:LOOP:5367w J:ok:379w K:ok:470w H:ok:386w M:ok:428w Q:ok:761w tess:0/1
+vol093_iss04_tropical-agriculturist-1939-10-93-4	24	25	FAINT	old:ok:146w E:ok:161w J:ok:293w K:ok:150w H:ok:234w M:ok:181w Q:ok:213w tess:14/1
+vol093_iss04_tropical-agriculturist-1939-10-93-4	67	68	FAINT	old:LOOP:1465w E:ok:342w O:ok:102w H:ok:1075w J:ok:401w K:ok:944w H:LOOP:2742w M:ok:696w Q:LOOP:3784w tess:1/0
+vol093_iss05_tropical-agriculturist-1939-11-93-5	1	2	FAINT	old:ok:48w E:ok:38w J:ok:139w K:ok:113w H:ok:30w M:ok:251w Q:ok:19w tess:0/0
+vol093_iss05_tropical-agriculturist-1939-11-93-5	33	34	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:48w tess:0/0
+vol093_iss05_tropical-agriculturist-1939-11-93-5	51	52	FAINT	old:ok:0w E:ok:0w J:ok:17w K:ok:9w tess:0/0
+vol093_iss05_tropical-agriculturist-1939-11-93-5	91	92	FAINT	old:LOOP:9803w E:ok:281w O:ok:114w H:LOOP:4872w J:ok:362w K:ok:379w H:LOOP:2723w M:ok:585w Q:ok:440w tess:1/0
+vol094_iss01_tropical-agriculturist-1940-01-94-1	1	2	FAINT	old:ok:134w E:ok:154w J:ok:203w K:ok:220w H:ok:284w M:ok:122w Q:ok:128w tess:0/0
+vol094_iss01_tropical-agriculturist-1940-01-94-1	69	70	FAINT	old:LOOP:81w E:LOOP:72w E:LOOP:81w J:ok:46w K:ok:1396w H:ok:758w M:ok:55w Q:LOOP:2505w tess:0/0
+vol094_iss02_tropical-agriculturist-1940-02-94-2	1	2	FAINT	old:ok:63w E:ok:306w J:ok:40w K:ok:128w H:ok:16w M:ok:130w Q:ok:22w tess:0/0
+vol094_iss02_tropical-agriculturist-1940-02-94-2	53	54	FAINT	old:ok:0w E:ok:0w J:ok:16w K:ok:14w tess:0/0
+vol094_iss02_tropical-agriculturist-1940-02-94-2	85	86	FAINT	old:ok:226w E:ok:135w J:ok:24w K:ok:844w H:ok:2100w M:ok:591w Q:LOOP:2442w tess:0/0
+vol094_iss03_tropical-agriculturist-1940-03-94-3	1	2	FAINT	old:ok:144w E:ok:191w J:ok:315w K:ok:222w H:ok:48w M:ok:141w Q:ok:260w tess:0/0
+vol094_iss03_tropical-agriculturist-1940-03-94-3	21	22	UNRESOLVED	audit recall 0.00 (28 tess words); old:ok:49w E:ok:49w J:ok:53w K:ok:340w tess:34/2 best-recall=0.53
+vol094_iss03_tropical-agriculturist-1940-03-94-3	4	5	FAINT	old:ok:27w E:ok:27w J:ok:27w K:ok:27w tess:0/1
+vol094_iss04_tropical-agriculturist-1940-04-94-4	1	2	FAINT	old:ok:49w E:ok:13w J:ok:167w K:ok:8w H:ok:9w M:ok:72w Q:ok:96w tess:0/0
+vol094_iss05_tropical-agriculturist-1940-05-94-5	1	2	FAINT	old:ok:132w E:ok:1216w J:ok:38w K:ok:11w H:ok:4w M:ok:472w Q:LOOP:66w tess:0/0
+vol094_iss05_tropical-agriculturist-1940-05-94-5	22	23	FAINT	old:ok:157w E:ok:159w J:ok:159w K:ok:159w tess:3/4
+vol094_iss05_tropical-agriculturist-1940-05-94-5	26	27	FAINT	old:ok:0w E:ok:0w J:ok:151w K:ok:19w tess:0/0
+vol094_iss06_tropical-agriculturist-1940-06-94-6	67	68	FAINT	old:ok:39w E:ok:39w J:ok:117w K:ok:183w H:ok:226w M:ok:55w Q:ok:187w tess:0/0
+vol094_iss06_tropical-agriculturist-1940-06-94-6	71	72	FAINT	old:ok:7w E:ok:112w J:ok:20w K:ok:119w tess:0/1
+vol095_iss01_tropical-agriculturist-1940-07-95-1	1	2	FAINT	old:ok:65w E:ok:265w J:ok:52w K:ok:154w H:ok:13w M:ok:68w Q:ok:95w tess:0/0
+vol095_iss01_tropical-agriculturist-1940-07-95-1	51	52	FAINT	old:ok:109w E:ok:109w J:ok:109w K:ok:109w tess:14/2
+vol095_iss01_tropical-agriculturist-1940-07-95-1	69	70	FAINT	old:ok:2346w E:ok:620w J:ok:297w K:ok:164w H:ok:27w M:LOOP:393w Q:ok:134w tess:0/0
+vol095_iss02_tropical-agriculturist-1940-08-95-2	1	2	FAINT	old:LOOP:47w E:ok:19w E:ok:19w J:ok:7w K:LOOP:47w H:ok:9w M:ok:13w Q:ok:9w tess:0/0
+vol095_iss03_tropical-agriculturist-1940-09-95-3	1	2	FAINT	old:LOOP:16w E:ok:103w E:ok:124w J:ok:71w K:ok:514w H:ok:36w M:ok:39w Q:ok:278w tess:0/0
+vol095_iss03_tropical-agriculturist-1940-09-95-3	42	43	FAINT	old:ok:0w E:ok:0w J:ok:6w K:ok:15w tess:0/0
+vol095_iss03_tropical-agriculturist-1940-09-95-3	81	82	FAINT	old:ok:22w E:ok:25w J:ok:50w K:ok:47w H:ok:4w M:ok:309w Q:ok:13w tess:0/0
+vol095_iss04_tropical-agriculturist-1940-10-95-4	1	2	FAINT	old:ok:277w E:ok:76w J:LOOP:26w K:ok:24w H:ok:5w M:ok:13w Q:LOOP:46w tess:0/0
+vol095_iss04_tropical-agriculturist-1940-10-95-4	30	31	UNRESOLVED	old:ok:100w E:ok:26w J:ok:57w K:ok:49w tess:71/15 best-recall=0.24
+vol095_iss04_tropical-agriculturist-1940-10-95-4	75	76	FAINT	old:ok:1w E:ok:902w J:ok:1311w K:ok:78w H:LOOP:2361w M:ok:327w Q:LOOP:3871w tess:0/0
+vol095_iss05_tropical-agriculturist-1940-11-95-5	1	2	FAINT	old:ok:12w E:ok:158w J:ok:14w K:ok:17w H:ok:12w M:ok:11w Q:ok:14w tess:0/0
+vol095_iss06_tropical-agriculturist-1940-12-95-6	1	2	FAINT	old:ok:0w E:ok:124w J:ok:131w K:ok:11w H:ok:8w M:ok:79w Q:ok:17w tess:0/0
+vol095_iss06_tropical-agriculturist-1940-12-95-6	44	45	FAINT	old:ok:85w E:ok:85w J:ok:85w K:ok:85w tess:6/0
+vol096_dli-ernet-229230	187	188	FAINT	old:ok:65w E:ok:39w J:ok:22w K:ok:22w tess:0/0
+vol096_dli-ernet-229230	893	894	FAINT	old:ok:21w E:ok:21w J:ok:21w K:ok:21w tess:13/2
+vol097_iss01_tropical-agriculturist-1941-07-97-1	1	2	FAINT	old:ok:0w E:LOOP:17w J:ok:0w K:ok:56w tess:0/0
+vol097_iss01_tropical-agriculturist-1941-07-97-1	61	62	FAINT	old:ok:0w E:ok:0w J:LOOP:2305w K:ok:4137w tess:0/0
+vol097_iss02_tropical-agriculturist-1941-08-97-2	6	7	FAINT	old:ok:27w E:ok:27w J:ok:27w K:ok:27w tess:0/0
+vol098_iss02_tropical-agriculturist-april-june-1942-98-2	1	2	FAINT	old:ok:0w E:LOOP:54w J:ok:0w K:ok:82w tess:0/0
+vol098_iss02_tropical-agriculturist-april-june-1942-98-2	34	35	UNRESOLVED	old:ok:130w E:ok:131w J:ok:130w K:ok:131w tess:4/17 ROTATED:77
+vol098_iss02_tropical-agriculturist-april-june-1942-98-2	44	45	FAINT	old:ok:12w E:ok:11w J:LOOP:10w K:ok:25w H:ok:9w M:ok:13w Q:ok:22w tess:0/0
+vol098_iss02_tropical-agriculturist-april-june-1942-98-2	51	52	FAINT	old:ok:0w E:ok:0w J:ok:190w K:ok:212w tess:0/1
+vol098_iss03_tropical-agriculturist-july-september-1942-98-3	1	2	FAINT	old:ok:144w E:LOOP:69w J:LOOP:26w K:ok:44w H:ok:26w M:ok:128w Q:ok:91w tess:0/0
+vol098_iss03_tropical-agriculturist-july-september-1942-98-3	17	18	FAINT	old:ok:0w E:ok:0w J:ok:25w K:ok:17w tess:0/2
+vol098_iss04_tropical-agriculturist-october-december-1942-98-4	24	25	FAINT	old:ok:0w E:ok:0w J:ok:10w K:ok:22w tess:0/0
+vol098_iss04_tropical-agriculturist-october-december-1942-98-4	3	4	FAINT	old:ok:0w E:ok:27w J:LOOP:56w K:ok:55w H:ok:12w M:ok:131w Q:ok:10w tess:0/0
+vol099_iss01_tropical-agriculturist-january-march-1943-99-1	1	2	FAINT	old:ok:68w E:ok:252w J:ok:250w K:ok:108w H:ok:145w M:ok:2782w Q:ok:15w tess:0/0
+vol099_iss01_tropical-agriculturist-january-march-1943-99-1	13	14	FAINT	old:ok:0w E:ok:0w J:ok:9w K:ok:13w tess:0/1
+vol099_iss02_tropical-agriculturist-april-june-1943-99-2	3	4	FAINT	old:ok:168w E:ok:162w J:ok:212w K:ok:9w H:ok:0w M:ok:183w Q:ok:29w tess:0/0
+vol099_iss03_tropical-agriculturist-july-september-1943-99-3	1	2	FAINT	old:ok:123w E:ok:200w J:ok:346w K:ok:723w H:ok:13w M:ok:45w Q:ok:54w tess:0/0
+vol099_iss03_tropical-agriculturist-july-september-1943-99-3	79	80	FAINT	old:ok:257w E:ok:152w J:LOOP:5389w K:ok:332w H:LOOP:2657w M:ok:254w Q:LOOP:2533w tess:0/0
+vol099_iss04_tropical-agriculturist-october-december-1943-99-4	17	18	FAINT	old:ok:0w E:ok:0w J:ok:16w K:ok:0w tess:0/0
+vol099_iss04_tropical-agriculturist-october-december-1943-99-4	3	4	FAINT	old:ok:13w E:ok:142w J:ok:37w K:ok:334w H:ok:35w M:ok:26w Q:ok:65w tess:0/0
+vol099_iss04_tropical-agriculturist-october-december-1943-99-4	79	80	FAINT	old:ok:0w E:ok:1w J:ok:19w K:ok:4w H:ok:4w M:ok:11w Q:ok:4w tess:0/0
+vol100_iss01_tropical-agriculturist-january-march-1944-100-1	3	4	FAINT	old:ok:0w E:LOOP:29w J:ok:0w K:ok:64w tess:0/0
+vol100_iss01_tropical-agriculturist-january-march-1944-100-1	79	80	FAINT	old:ok:77w E:ok:290w J:ok:663w K:LOOP:2712w H:ok:134w M:ok:14w Q:ok:469w tess:0/0
+vol100_iss01_tropical-agriculturist-january-march-1944-100-1	81	82	FAINT	old:ok:121w E:ok:163w J:ok:143w K:ok:159w H:ok:201w M:ok:191w Q:ok:51w tess:0/0
+vol100_iss02_tropical-agriculturist-april-june-1944-100-2	1	2	FAINT	old:ok:737w E:ok:137w J:ok:312w K:ok:118w H:ok:7w M:ok:96w Q:ok:89w tess:0/0
+vol100_iss03_tropical-agriculturist-july-september-1944-100-3	1	2	FAINT	old:ok:0w E:ok:153w J:ok:75w K:ok:168w H:ok:11w M:ok:54w Q:ok:493w tess:0/0
+vol100_iss04_tropical-agriculturist-october-december-1944-100-4	3	4	FAINT	old:ok:46w E:ok:100w J:ok:371w K:ok:155w H:ok:80w M:ok:90w Q:ok:1106w tess:0/0
+vol100_iss04_tropical-agriculturist-october-december-1944-100-4	43	44	FAINT	old:ok:0w E:ok:0w J:ok:11w K:ok:59w tess:0/0
+vol101_iss01_tropical-agriculturist-january-march-1945-101-1	1	2	FAINT	old:ok:0w E:LOOP:69w J:ok:11w K:ok:17w H:ok:3w M:ok:20w Q:ok:8w tess:0/0
+vol101_iss01_tropical-agriculturist-january-march-1945-101-1	17	18	FAINT	old:ok:0w E:ok:0w J:ok:19w K:ok:13w tess:0/0
+vol101_iss01_tropical-agriculturist-january-march-1945-101-1	21	22	FAINT	old:ok:0w E:ok:0w J:ok:2w K:ok:26w tess:0/0
+vol101_iss01_tropical-agriculturist-january-march-1945-101-1	3	4	FAINT	old:ok:133w E:ok:77w J:ok:48w K:ok:14w H:ok:28w M:ok:34w Q:ok:303w tess:0/0
+vol101_iss01_tropical-agriculturist-january-march-1945-101-1	31	32	FAINT	old:ok:0w E:ok:0w J:ok:12w K:ok:80w tess:0/0
+vol101_iss01_tropical-agriculturist-january-march-1945-101-1	71	72	FAINT	old:LOOP:2788w E:ok:445w O:ok:305w H:LOOP:402w J:ok:372w K:ok:318w H:LOOP:2554w M:LOOP:10030w Q:LOOP:2204w tess:0/0
+vol101_iss02_tropical-agriculturist-april-june-1945-101-2	1	2	FAINT	old:ok:88w E:ok:161w J:ok:205w K:ok:250w H:ok:20w M:ok:35w Q:ok:72w tess:0/0
+vol101_iss03_tropical-agriculturist-july-september-1945-101-3	1	2	FAINT	old:ok:0w E:ok:90w J:ok:25w K:ok:20w H:ok:2w M:ok:44w Q:ok:3w tess:0/0
+vol101_iss03_tropical-agriculturist-july-september-1945-101-3	85	86	FAINT	old:ok:0w E:ok:0w J:ok:0w K:ok:49w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	1	2	FAINT	old:LOOP:98w E:ok:49w E:ok:49w J:ok:108w K:ok:57w H:ok:36w M:ok:13w Q:ok:21w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	13	14	FAINT	old:ok:0w E:ok:0w J:ok:18w K:ok:1065w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	15	16	FAINT	old:ok:0w E:ok:0w J:ok:113w K:ok:43w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	17	18	FAINT	old:ok:0w E:ok:0w J:ok:163w K:ok:56w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	19	20	FAINT	old:ok:0w E:ok:0w J:ok:105w K:ok:87w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	21	22	FAINT	old:ok:0w E:ok:0w J:ok:55w K:ok:51w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	23	24	FAINT	old:ok:0w E:ok:0w J:ok:388w K:ok:77w tess:0/0
+vol101_iss04_tropical-agriculturist-october-december-1945-101-4	25	26	FAINT	old:ok:0w E:ok:0w J:ok:20w K:ok:112w tess:0/0
+vol007_tropicalagricult7188ceyl	318	319	TABLE_INCOMPLETE	audit recall 0.48 (122 tess words); old:0.48 tabH:0.48 tabT:0.48
+vol008_tropicalagricult8188ceyl	990	991	TABLE_INCOMPLETE	audit recall 0.40 (25 tess words); old:0.40 tabH:0.40 tabT:0.48
+vol008_tropicalagricult8188ceyl	998	999	TABLE_INCOMPLETE	audit recall 0.45 (22 tess words); old:0.45 tabH:0.45 tabT:0.45
+vol010_tropicalagricult1018ceyl	813	814	TABLE_INCOMPLETE	audit recall 0.31 (36 tess words); old:0.31 tabH:0.28 tabT:0.31
+vol011_tropicalagricult1118ceyl	1100	1101	TABLE_INCOMPLETE	audit recall 0.41 (22 tess words); old:0.41 tabH:0.41 tabT:0.41
+vol011_tropicalagricult1118ceyl	1102	1103	TABLE_INCOMPLETE	audit recall 0.45 (282 tess words); old:0.45 tabH:0.45 tabT:0.45
+vol011_tropicalagricult1118ceyl	1127	1128	TABLE_INCOMPLETE	audit recall 0.44 (16 tess words); old:0.44 tabH:0.44 tabT:0.44
+vol012_tropicalagricult1218ceyl	1040	1041	TABLE_INCOMPLETE	audit recall 0.28 (18 tess words); old:0.28 tabH:0.22 tabT:0.33
+vol012_tropicalagricult1218ceyl	1042	1043	TABLE_INCOMPLETE	audit recall 0.30 (30 tess words); old:0.30 tabH:0.27 tabT:0.27
+vol012_tropicalagricult1218ceyl	1046	1047	TABLE_INCOMPLETE	audit recall 0.22 (37 tess words); old:0.22 tabH:0.22 tabT:0.22
+vol012_tropicalagricult1218ceyl	1052	1053	TABLE_INCOMPLETE	audit recall 0.33 (40 tess words); old:0.33 tabH:0.33 tabT:0.33
+vol012_tropicalagricult1218ceyl	1062	1063	TABLE_INCOMPLETE	audit recall 0.21 (47 tess words); old:0.21 tabH:0.23 tabT:0.23
+vol012_tropicalagricult1218ceyl	1068	1069	TABLE_INCOMPLETE	audit recall 0.22 (23 tess words); old:0.22 tabH:0.22 tabT:0.22
+vol012_tropicalagricult1218ceyl	1074	1075	TABLE_INCOMPLETE	audit recall 0.24 (29 tess words); old:0.24 tabH:0.24 tabT:0.24
+vol012_tropicalagricult1218ceyl	1086	1087	TABLE_INCOMPLETE	audit recall 0.47 (19 tess words); old:0.47 tabH:0.53 tabT:0.53
+vol012_tropicalagricult1218ceyl	1090	1091	TABLE_INCOMPLETE	audit recall 0.40 (20 tess words); old:0.40 tabH:0.45 tabT:0.45
+vol012_tropicalagricult1218ceyl	1092	1093	TABLE_INCOMPLETE	audit recall 0.32 (31 tess words); old:0.32 tabH:0.35 tabT:0.35
+vol012_tropicalagricult1218ceyl	1098	1099	TABLE_INCOMPLETE	audit recall 0.28 (32 tess words); old:0.28 tabH:0.28 tabT:0.22
+vol012_tropicalagricult1218ceyl	1100	1101	TABLE_INCOMPLETE	audit recall 0.26 (38 tess words); old:0.26 tabH:0.34 tabT:0.34
+vol012_tropicalagricult1218ceyl	1106	1107	TABLE_INCOMPLETE	audit recall 0.38 (29 tess words); old:0.38 tabH:0.38 tabT:0.38
+vol012_tropicalagricult1218ceyl	1108	1109	TABLE_INCOMPLETE	audit recall 0.36 (28 tess words); old:0.36 tabH:0.32 tabT:0.32
+vol012_tropicalagricult1218ceyl	1114	1115	TABLE_INCOMPLETE	audit recall 0.27 (22 tess words); old:0.27 tabH:0.27 tabT:0.27
+vol012_tropicalagricult1218ceyl	1126	1127	TABLE_INCOMPLETE	audit recall 0.24 (38 tess words); old:0.24 tabH:0.24 tabT:0.26
+vol012_tropicalagricult1218ceyl	1128	1129	TABLE_INCOMPLETE	audit recall 0.16 (32 tess words); old:0.16 tabH:0.22 tabT:0.22
+vol012_tropicalagricult1218ceyl	1134	1135	TABLE_INCOMPLETE	audit recall 0.38 (32 tess words); old:0.38 tabH:0.38 tabT:0.41
+vol012_tropicalagricult1218ceyl	1142	1143	TABLE_INCOMPLETE	audit recall 0.48 (23 tess words); old:0.48 tabH:0.48 tabT:0.52
+vol012_tropicalagricult1218ceyl	1144	1145	TABLE_INCOMPLETE	audit recall 0.22 (27 tess words); old:0.22 tabH:0.22 tabT:0.22
+vol012_tropicalagricult1218ceyl	1182	1183	TABLE_INCOMPLETE	audit recall 0.26 (38 tess words); old:0.26 tabH:0.26 tabT:0.26
+vol012_tropicalagricult1218ceyl	1186	1187	TABLE_INCOMPLETE	audit recall 0.35 (26 tess words); old:0.35 tabH:0.35 tabT:0.31
+vol012_tropicalagricult1218ceyl	1208	1209	TABLE_INCOMPLETE	audit recall 0.47 (38 tess words); old:0.47 tabH:0.47 tabT:0.47
+vol012_tropicalagricult1218ceyl	1218	1219	TABLE_INCOMPLETE	audit recall 0.48 (23 tess words); old:0.48 tabH:0.48 tabT:0.48
+vol012_tropicalagricult1218ceyl	1230	1231	TABLE_INCOMPLETE	audit recall 0.44 (27 tess words); old:0.44 tabH:0.44 tabT:0.44
+vol012_tropicalagricult1218ceyl	1231	1232	TABLE_INCOMPLETE	audit recall 0.19 (36 tess words); old:0.19 tabH:0.19 tabT:0.17
+vol012_tropicalagricult1218ceyl	1244	1245	TABLE_INCOMPLETE	audit recall 0.26 (39 tess words); old:0.26 tabH:0.23 tabT:0.23
+vol012_tropicalagricult1218ceyl	1250	1251	TABLE_INCOMPLETE	audit recall 0.22 (23 tess words); old:0.22 tabH:0.22 tabT:0.22
+vol012_tropicalagricult1218ceyl	1262	1263	TABLE_INCOMPLETE	audit recall 0.21 (33 tess words); old:0.21 tabH:0.21 tabT:0.21
+vol012_tropicalagricult1218ceyl	1282	1283	TABLE_INCOMPLETE	audit recall 0.30 (43 tess words); old:0.30 tabH:0.30 tabT:0.30
+vol014_tropicalagricult1418ceyl	1005	1006	TABLE_INCOMPLETE	audit recall 0.45 (105 tess words); old:0.45 tabH:0.53 tabT:0.64
+vol014_tropicalagricult1418ceyl	54	55	TABLE_INCOMPLETE	audit recall 0.00 (17 tess words); old:0.00 tabH:0.00 tabT:0.00
+vol014_tropicalagricult1418ceyl	829	830	TABLE_INCOMPLETE	audit recall 0.28 (222 tess words); old:0.28 tabH:0.40 tabT:0.39L
+vol016_tropicalagricult1618ceyl	916	917	TABLE_INCOMPLETE	audit recall 0.47 (15 tess words); old:0.47 tabH:0.33 tabT:0.40
+vol018_tropicalagricult1818ceyl	1090	1091	TABLE_INCOMPLETE	audit recall 0.38 (95 tess words); old:0.38 tabH:0.53 tabT:0.59
+vol019_tropicalagricult1918ceyl	1158	1159	TABLE_INCOMPLETE	audit recall 0.38 (26 tess words); old:0.38 tabH:0.38 tabT:0.38
+vol019_tropicalagricult1918ceyl	1182	1183	TABLE_INCOMPLETE	audit recall 0.48 (29 tess words); old:0.48 tabH:0.48 tabT:0.48
+vol019_tropicalagricult1918ceyl	1191	1192	TABLE_INCOMPLETE	audit recall 0.46 (76 tess words); old:0.46 tabH:0.66 tabT:0.55
+vol019_tropicalagricult1918ceyl	890	891	TABLE_INCOMPLETE	audit recall 0.44 (41 tess words); old:0.44 tabH:0.44 tabT:0.44
+vol019_tropicalagricult1918ceyl	936	937	TABLE_INCOMPLETE	audit recall 0.18 (215 tess words); old:0.18S tabH:0.39 tabT:0.39
+vol020_tropicalagricult2019ceyl	1090	1091	TABLE_INCOMPLETE	audit recall 0.45 (108 tess words); old:0.45 tabH:0.47 tabT:0.56
+vol020_tropicalagricult2019ceyl	1186	1187	TABLE_INCOMPLETE	audit recall 0.49 (82 tess words); old:0.49 tabH:0.66 tabT:0.66
+vol020_tropicalagricult2019ceyl	86	87	TABLE_INCOMPLETE	audit recall 0.47 (36 tess words); old:0.47 tabH:0.47 tabT:0.47
+vol021_tropicalagricult2119ceyl	1060	1061	TABLE_INCOMPLETE	audit recall 0.49 (106 tess words); old:0.49 tabH:0.65 tabT:0.64
+vol021_tropicalagricult2119ceyl	1105	1106	TABLE_INCOMPLETE	audit recall 0.34 (83 tess words); old:0.34 tabH:0.58 tabT:0.58
+vol022_tropicalagricult2219ceyl	944	945	TABLE_INCOMPLETE	audit recall 0.33 (339 tess words); old:0.33 tabH:0.53 tabT:0.53
+vol022_tropicalagricult2219ceyl	953	954	TABLE_INCOMPLETE	audit recall 0.49 (88 tess words); old:0.49 tabH:0.51 tabT:0.50
+vol022_tropicalagricult2219ceyl	989	990	TABLE_INCOMPLETE	audit recall 0.42 (97 tess words); old:0.42 tabH:0.52 tabT:0.55
+vol061_tropicalagricult0061unse	405	406	TABLE_INCOMPLETE	audit recall 0.07 (15 tess words); old:0.07 tabH:0.07 tabT:0.07
+vol061_tropicalagricult0061unse	83	84	TABLE_INCOMPLETE	audit recall 0.00 (15 tess words); old:0.00 tabH:0.00 tabT:0.00
+vol076_dli-ernet-229225	33	34	TABLE_INCOMPLETE	audit recall 0.00 (17 tess words); old:0.00 tabH:0.00 tabT:0.00
+vol076_dli-ernet-229225	38	39	TABLE_INCOMPLETE	audit recall 0.00 (22 tess words); old:0.00 tabH:0.00 tabT:0.00
+vol098_iss01_tropical-agriculturist-january-march-1942-98-1	34	35	TABLE_INCOMPLETE	audit recall 0.43 (150 tess words); old:0.43 tabH:0.43 tabT:0.43
+vol022_tropicalagricult2219ceyl	893	894	SHOWTHROUGH	corpus 294 words removed (real words: mirrored 184, as scanned 14)
+vol078_tropical-agriculturist-1932-03-78	69	70	FAINT	hallucination confirmed by eye 2026-10-03: corpus text "TABLE OF CONTENTS 1 Introduction 2 Methodology ..." on a faint page (contrast 20); Tesseract 0 words
