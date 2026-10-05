@@ -24,3 +24,4 @@ __pycache__/
 !viewer/index.html
 !articles/*.html
 ner/gazetteer/raw/
+!ner/*.html
