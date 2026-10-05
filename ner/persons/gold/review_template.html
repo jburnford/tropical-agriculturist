@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tropical Agriculturist — person check</title>
+<style>
+  :root { --ink:#1f2328; --muted:#5f6670; --line:#d8dce1; --bg:#f6f7f8; --card:#fff; --accent:#0b5cad; --ok:#1a7f37; --warn:#9a6700; --bad:#c62828; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; color:var(--ink); background:var(--bg); }
+  header { position:sticky; top:0; z-index:5; background:var(--card); border-bottom:1px solid var(--line); padding:.6rem 1rem; display:flex; flex-wrap:wrap; gap:.6rem 1.2rem; align-items:center; }
+  header h1 { font-size:1rem; margin:0; }
+  header label { color:var(--muted); font-size:.85rem; }
+  header input[type=text] { font:inherit; padding:.2rem .4rem; border:1px solid var(--line); border-radius:4px; width:12rem; }
+  .stat { font-size:.85rem; color:var(--muted); }
+  .stat b { color:var(--ink); }
+  button, .btn { font:inherit; font-size:.85rem; padding:.3rem .7rem; border:1px solid var(--line); background:#fff; border-radius:5px; cursor:pointer; color:var(--ink); }
+  button:hover, .btn:hover { border-color:var(--accent); }
+  button.primary { background:var(--accent); color:#fff; border-color:var(--accent); }
+  button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  main { max-width:1000px; margin:1rem auto; padding:0 1rem 4rem; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:8px; padding:1rem 1.2rem; margin-bottom:1rem; }
+  #help h2 { margin-top:0; font-size:1.1rem; }
+  #help li { margin:.25rem 0; }
+  .nav { display:flex; gap:.5rem; align-items:center; flex-wrap:wrap; margin-bottom:.8rem; }
+  .nav select { font:inherit; font-size:.85rem; padding:.25rem; max-width:22rem; }
+  h2.name { margin:.1rem 0 .2rem; font-size:1.35rem; }
+  .meta { color:var(--muted); font-size:.9rem; }
+  dl { display:grid; grid-template-columns:9rem 1fr; gap:.25rem .8rem; margin:.8rem 0; }
+  dt { color:var(--muted); font-size:.85rem; }
+  dd { margin:0; }
+  fieldset { border:1px solid var(--line); border-radius:6px; padding:.6rem .9rem .8rem; margin:.9rem 0; }
+  legend { font-weight:600; padding:0 .3rem; }
+  .opts label { display:block; padding:.2rem 0; cursor:pointer; }
+  .cand { padding:.35rem .5rem; border-radius:4px; }
+  .cand.proposed { background:#eef5ff; }
+  .cand small { color:var(--muted); }
+  .tag { display:inline-block; font-size:.72rem; padding:0 .4rem; border-radius:3px; background:#e8eaed; color:var(--muted); margin-left:.3rem; vertical-align:middle; }
+  .tag.prop { background:var(--accent); color:#fff; }
+  input.qid { font:inherit; width:9rem; padding:.15rem .4rem; border:1px solid var(--line); border-radius:4px; }
+  input.qid.invalid { border-color:var(--bad); }
+  textarea { font:inherit; width:100%; min-height:2.6rem; padding:.3rem .4rem; border:1px solid var(--line); border-radius:4px; }
+  .ment { border-top:1px solid var(--line); padding:.7rem 0 .4rem; }
+  .ment:first-of-type { border-top:none; }
+  .snip { font-family:Georgia, serif; font-size:.95rem; background:#fafafa; border-left:3px solid var(--line); padding:.4rem .7rem; margin:.4rem 0; overflow-wrap:anywhere; }
+  mark { background:#ffe58f; padding:0 .1em; }
+  .inline-opts label { margin-right:1.2rem; cursor:pointer; white-space:nowrap; }
+  .done { color:var(--ok); font-weight:600; }
+  .todo { color:var(--warn); }
+  a { color:var(--accent); }
+  .small { font-size:.85rem; color:var(--muted); }
+  @media (max-width: 600px) { dl { grid-template-columns: 1fr; } dt { margin-top:.4rem; } main { padding:0 .5rem 4rem; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Person check — <i>The Tropical Agriculturist</i></h1>
+  <label>Your name <input type="text" id="student" autocomplete="name"></label>
+  <span class="stat">People <b id="pDone">0</b>/<b id="pTot">0</b></span>
+  <span class="stat">Mentions <b id="mDone">0</b>/<b id="mTot">0</b></span>
+  <span class="stat" title="Time with this page open and in use">Active time <b id="time">0:00</b></span>
+  <button id="helpBtn" aria-expanded="false" aria-controls="help">Instructions</button>
+  <button class="primary" id="exportBtn">Download answers</button>
+  <label class="btn" for="importFile">Load saved answers</label>
+  <input type="file" id="importFile" accept=".tsv,.txt" hidden>
+</header>
+<main>
+  <section id="help" class="card" hidden>
+    <h2>What you are checking</h2>
+    <p><i>The Tropical Agriculturist</i> (Colombo, 1881–1945) was a journal of plantation agriculture in Ceylon.
+    A computer program found every person named in it and grouped the mentions into <b>people</b>.
+    It then tried to match each person to <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>,
+    the open database behind Wikipedia. Your answers tell us how often the program is right.</p>
+    <ol>
+      <li><b>Read the evidence.</b> The names as printed, the roles the journal gives them, the years and places.</li>
+      <li><b>One person or several?</b> Do the roles and years describe one life? Two different careers under one
+      name (e.g. a Ceylon planter <i>and</i> a London chemist) mean <i>mixed</i>.</li>
+      <li><b>Wikidata.</b> Open the proposed item and the other candidates. Accept one only if its description,
+      occupation or positions <i>and</i> its dates fit the evidence; the same name is not enough. If none fits,
+      search Wikidata yourself (the <i>search Wikidata</i> link) using the name plus a role. If you find the
+      person, paste the Q-number (e.g. Q2462643). Many planters and Ceylon officials are not in Wikidata, so
+      "not in Wikidata" is a normal answer.</li>
+      <li><b>Each mention.</b> Is the highlighted name in the snippet this person? Open the scan if the snippet
+      isn't enough. Mentions linked by "surname only" are the ones most likely to be wrong, so look closely.</li>
+      <li>Answer what you can; use <i>can't tell</i> rather than guessing. Notes are welcome.</li>
+    </ol>
+    <p class="small">Your answers are saved in this browser as you go. When you finish (or at the end of a
+    session), click <b>Download answers</b> and send the file to Jim. To continue on another computer, use
+    <b>Load saved answers</b> with your last downloaded file. Expect about 3–5 minutes per person.</p>
+    <button id="helpClose">Got it</button>
+  </section>
+
+  <div class="nav">
+    <button id="prev" aria-label="Previous person">← Prev</button>
+    <button id="next" aria-label="Next person">Next →</button>
+    <button id="nextTodo">Next unfinished</button>
+    <select id="jump" aria-label="Jump to person"></select>
+  </div>
+  <div id="person"></div>
+</main>
+<script>
+const DATA = /*DATA*/;
+const KEY = "tap_gold_v1";
+let S = JSON.parse(localStorage.getItem(KEY) || "{}");
+S.people = S.people || {}; S.ments = S.ments || {}; S.seconds = S.seconds || 0; S.name = S.name || "";
+let cur = Math.min(S.cur || 0, DATA.length - 1);
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const save = () => { S.cur = cur; localStorage.setItem(KEY, JSON.stringify(S)); stats(); };
+const mkey = (gid, i) => gid + "_" + i;
+const wdUrl = q => "https://www.wikidata.org/wiki/" + q;
+const validQ = q => /^Q[1-9]\d*$/.test(q);
+
+function personDone(it) {
+  const a = S.people[it.gid] || {};
+  const wdOk = a.wd && (a.wd !== "other" || validQ(a.qid || ""));
+  return a.one && wdOk && it.ments.every(m => (S.ments[mkey(it.gid, m.idx)] || {}).v);
+}
+function stats() {
+  $("#pTot").textContent = DATA.length;
+  $("#pDone").textContent = DATA.filter(personDone).length;
+  const tot = DATA.reduce((n, it) => n + it.ments.length, 0);
+  $("#mTot").textContent = tot;
+  $("#mDone").textContent = DATA.reduce((n, it) => n + it.ments.filter(m => (S.ments[mkey(it.gid, m.idx)] || {}).v).length, 0);
+  const sel = $("#jump");
+  [...sel.options].forEach((o, i) => o.textContent = (personDone(DATA[i]) ? "✓ " : "• ") + DATA[i].gid + "  " + DATA[i].name);
+}
+function radios(name, opts, val) {
+  return opts.map(([v, label]) =>
+    `<label><input type="radio" name="${name}" value="${v}" ${val === v ? "checked" : ""}> ${label}</label>`).join("");
+}
+function render() {
+  const it = DATA[cur], a = S.people[it.gid] || {};
+  const search = "https://www.wikidata.org/w/index.php?search=" + encodeURIComponent(it.name);
+  const cands = it.candidates.map(c => `
+    <div class="cand ${c.qid === it.proposed ? "proposed" : ""}">
+      <a href="${wdUrl(c.qid)}" target="_blank" rel="noopener">${esc(c.qid)}</a> ${esc(c.label)}
+      ${c.qid === it.proposed ? '<span class="tag prop">proposed</span>' : ""}
+      <br><small>${esc(c.desc)} ${c.life ? "· " + esc(c.life) : ""}</small>
+    </div>`).join("") || '<p class="small">No candidate was found automatically.</p>';
+  const wdOpts = [];
+  if (it.proposed) wdOpts.push(["proposed", `The proposed item (${esc(it.proposed)}) is this person`]);
+  wdOpts.push(["other", `A different item: <input class="qid" id="qid" placeholder="Q…" value="${esc(a.qid || "")}" aria-label="Wikidata Q-number"> (paste the Q-number)`]);
+  wdOpts.push(["none", "Not in Wikidata (I searched)"], ["unsure", "Can't tell"]);
+  const ments = it.ments.map(m => {
+    const v = (S.ments[mkey(it.gid, m.idx)] || {}).v;
+    const snip = esc(m.snippet).replace(/\[\[/g, "<mark>").replace(/\]\]/g, "</mark>");
+    return `<div class="ment">
+      <div class="meta">${esc(m.year)} · printed as <b>${esc(m.surface)}</b>${m.role ? " · role: " + esc(m.role) : ""} · <i>${esc(m.how)}</i>
+      ${m.scan ? ` · <a href="${esc(m.scan)}" target="_blank" rel="noopener">scan</a>` : ""}</div>
+      <div class="snip">${snip}</div>
+      <div class="inline-opts" role="radiogroup" aria-label="Is this mention ${esc(it.name)}?">Is this ${esc(it.name)}?
+        ${radios("m" + m.idx, [["y", "Yes"], ["n", "No"], ["?", "Can't tell"]], v)}</div>
+    </div>`;
+  }).join("");
+  $("#person").innerHTML = `
+  <article class="card">
+    <div class="meta">${esc(it.gid)} · ${cur + 1} of ${DATA.length} · ${personDone(it) ? '<span class="done">complete</span>' : '<span class="todo">unfinished</span>'}</div>
+    <h2 class="name">${esc(it.name)}</h2>
+    <div class="meta">${esc(it.mentions)} mentions, ${esc(it.years)}</div>
+    <dl>
+      <dt>Printed as</dt><dd>${it.forms.map(esc).join(" · ")}</dd>
+      <dt>Roles in the journal</dt><dd>${it.roles.map(esc).join(" · ") || "—"}</dd>
+      <dt>Places nearby</dt><dd>${it.places.map(esc).join(" · ") || "—"}</dd>
+      ${it.colist ? `<dt>Colonial Office List</dt><dd>${esc(it.colist)}</dd>` : ""}
+      ${it.planter ? `<dt>Planters registry</dt><dd><a href="${esc(it.planter)}" target="_blank" rel="noopener">historyofceylontea.com record</a></dd>` : ""}
+    </dl>
+    <fieldset><legend>1. One person?</legend><div class="opts">
+      ${radios("one", [["y", "Yes, one person"], ["mixed", "No, the evidence mixes two or more people"], ["?", "Can't tell"]], a.one)}
+    </div></fieldset>
+    <fieldset><legend>2. Wikidata</legend>
+      ${cands}
+      <p class="small"><a href="${search}" target="_blank" rel="noopener">search Wikidata for “${esc(it.name)}”</a></p>
+      <div class="opts">${radios("wd", wdOpts, a.wd)}</div>
+    </fieldset>
+    <fieldset><legend>3. Mentions</legend>${ments}</fieldset>
+    <label class="small" for="note">Note (optional)</label>
+    <textarea id="note">${esc(a.note || "")}</textarea>
+  </article>`;
+  $("#jump").value = cur;
+  const P = () => (S.people[it.gid] = S.people[it.gid] || {});
+  document.querySelectorAll('input[name="one"]').forEach(r => r.onchange = () => { P().one = r.value; save(); });
+  document.querySelectorAll('input[name="wd"]').forEach(r => r.onchange = () => { P().wd = r.value; save(); if (r.value === "other") $("#qid").focus(); });
+  const q = $("#qid");
+  q.oninput = () => { const v = q.value.trim().toUpperCase(); P().qid = v; q.classList.toggle("invalid", v !== "" && !validQ(v));
+                      if (v) { P().wd = "other"; document.querySelector('input[name="wd"][value="other"]').checked = true; } save(); };
+  it.ments.forEach(m => document.querySelectorAll(`input[name="m${m.idx}"]`).forEach(r =>
+    r.onchange = () => { S.ments[mkey(it.gid, m.idx)] = { v: r.value }; save(); }));
+  $("#note").oninput = e => { P().note = e.target.value; save(); };
+  save();
+}
+function go(i) { cur = (i + DATA.length) % DATA.length; render(); window.scrollTo(0, 0); }
+$("#prev").onclick = () => go(cur - 1);
+$("#next").onclick = () => go(cur + 1);
+$("#nextTodo").onclick = () => { for (let k = 1; k <= DATA.length; k++) { const i = (cur + k) % DATA.length; if (!personDone(DATA[i])) return go(i); } alert("Everything is answered. Please download your answers and send the file to Jim."); };
+$("#jump").innerHTML = DATA.map((it, i) => `<option value="${i}"></option>`).join("");
+$("#jump").onchange = e => go(+e.target.value);
+$("#student").value = S.name;
+$("#student").oninput = e => { S.name = e.target.value; save(); };
+const help = $("#help");
+const setHelp = show => { help.hidden = !show; $("#helpBtn").setAttribute("aria-expanded", show); };
+$("#helpBtn").onclick = () => setHelp(help.hidden);
+$("#helpClose").onclick = () => { setHelp(false); S.sawHelp = true; save(); };
+if (!S.sawHelp) setHelp(true);
+
+// active time: counts while the page is visible and used in the last 2 minutes
+let lastAct = Date.now();
+["click", "keydown", "scroll", "mousemove", "touchstart"].forEach(ev => addEventListener(ev, () => lastAct = Date.now(), { passive: true }));
+setInterval(() => {
+  if (!document.hidden && Date.now() - lastAct < 120000) { S.seconds++; if (S.seconds % 15 === 0) save(); }
+  const m = Math.floor(S.seconds / 60); $("#time").textContent = Math.floor(m / 60) + ":" + String(m % 60).padStart(2, "0");
+}, 1000);
+
+const COLS = ["student", "gid", "pid", "row_type", "mention_idx", "article", "one_person", "wd_choice", "wd_qid", "mention_verdict", "note", "active_minutes", "exported_at"];
+$("#exportBtn").onclick = () => {
+  if (!S.name.trim()) { alert("Please type your name at the top first."); $("#student").focus(); return; }
+  const now = new Date().toISOString(), mins = (S.seconds / 60).toFixed(1), rows = [COLS.join("\t")];
+  const clean = s => String(s ?? "").replace(/[\t\r\n]+/g, " ");
+  DATA.forEach(it => {
+    const a = S.people[it.gid] || {};
+    const q = a.wd === "proposed" ? it.proposed : a.wd === "other" ? (a.qid || "") : a.wd === "none" ? "none" : a.wd === "unsure" ? "?" : "";
+    rows.push([S.name, it.gid, it.pid, "person", "", "", a.one || "", a.wd || "", q, "", a.note || "", mins, now].map(clean).join("\t"));
+    it.ments.forEach(m => rows.push([S.name, it.gid, it.pid, "mention", m.idx, m.article, "", "", "", (S.ments[mkey(it.gid, m.idx)] || {}).v || "", "", mins, now].map(clean).join("\t")));
+  });
+  const blob = new Blob([rows.join("\n") + "\n"], { type: "text/tab-separated-values" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `person_check_${S.name.trim().replace(/\W+/g, "_")}_${now.slice(0, 10)}.tsv`;
+  a.click(); URL.revokeObjectURL(a.href);
+};
+$("#importFile").onchange = e => {
+  const f = e.target.files[0]; if (!f) return;
+  f.text().then(t => {
+    const lines = t.trim().split(/\r?\n/), head = lines.shift().split("\t"), ix = c => head.indexOf(c);
+    if (ix("gid") < 0 || ix("row_type") < 0) { alert("That file doesn't look like a downloaded answers file."); return; }
+    let n = 0;
+    lines.forEach(l => {
+      const f = l.split("\t"), gid = f[ix("gid")];
+      if (f[ix("student")]) S.name = f[ix("student")];
+      if (f[ix("active_minutes")]) S.seconds = Math.max(S.seconds, Math.round(parseFloat(f[ix("active_minutes")]) * 60) || 0);
+      if (f[ix("row_type")] === "person") {
+        const a = {}; if (f[ix("one_person")]) a.one = f[ix("one_person")]; if (f[ix("wd_choice")]) a.wd = f[ix("wd_choice")];
+        if (a.wd === "other") a.qid = f[ix("wd_qid")]; if (f[ix("note")]) a.note = f[ix("note")];
+        if (Object.keys(a).length) { S.people[gid] = a; n++; }
+      } else if (f[ix("mention_verdict")]) { S.ments[mkey(gid, f[ix("mention_idx")])] = { v: f[ix("mention_verdict")] }; n++; }
+    });
+    $("#student").value = S.name; save(); render(); alert(`Loaded ${n} answers.`);
+  });
+  e.target.value = "";
+};
+render();
+</script>
+</body>
+</html>
