@@ -1,0 +1,118 @@
+#!/usr/bin/env python3
+"""Stage 4 merge: one authority row per person profile, every link with its provenance.
+
+Inputs: out/profiles.jsonl.gz (stages 1-3); wd/out/links.tsv (tier 1 auto/review/none);
+wd/adjudication/out_*.tsv (model adjudication of review + high-mention none); colist/links.tsv (tier 2);
+planters/links.tsv (tier 3).
+
+Wikidata QID precedence: adjudicated LINK > tier-1 auto > the CO List KG's own QID for a tier-2 auto match.
+Adjudicated NONE/UNSURE/MIXED leave the QID empty (their candidate is kept in wd_note). Disagreements between
+sources are flagged, never silently resolved.
+
+Persistent ids: every profile gets a minted id TAP-P-nnnnnn from ids/registry.tsv. On a rebuild, a profile
+inherits the id of the registered profile with the same surname key whose article set overlaps it most
+(Jaccard >= 0.5); otherwise a new id is minted. Ids are never reused.
+
+Output: out/persons.tsv (all profiles) and out/persons_head.tsv (>= 10 mentions)."""
+import json, gzip, csv, collections, pathlib, re
+here = pathlib.Path(__file__).resolve().parent
+
+def tsv(path):
+    if not path.exists():
+        return []
+    return list(csv.DictReader(open(path), delimiter="\t", quoting=csv.QUOTE_NONE))
+
+profiles = [json.loads(l) for l in gzip.open(here / "out/profiles.jsonl.gz", "rt")]
+arts = collections.defaultdict(set)
+for l in gzip.open(here / "out/mentions.tsv.gz", "rt"):
+    f = l.rstrip("\n").split("\t")
+    if len(f) > 9 and f[8]:
+        arts[f[8]].add(f[0])
+
+wd = {r["pid"]: r for r in tsv(here / "wd/out/links.tsv")}
+adj = {}
+for f in sorted((here / "wd/adjudication").glob("out_*.tsv")):
+    for l in open(f):
+        r = l.rstrip("\n").split("\t")
+        if len(r) >= 5 and r[0].startswith("P"):
+            adj[r[0]] = {"decision": r[1], "qid": r[2], "confidence": r[3], "evidence": r[4]}
+co = {r["pid"]: r for r in tsv(here / "colist/links.tsv")}
+pl = {r["pid"]: r for r in tsv(here / "planters/links.tsv")}
+
+# ---------------- persistent ids ------------------------------------------------------------------------
+REG = here / "ids/registry.tsv"; REG.parent.mkdir(exist_ok=True)
+reg = []
+if REG.exists():
+    for r in tsv(REG):
+        r["arts"] = set(r["articles"].split(",")) if r["articles"] else set(); reg.append(r)
+by_s = collections.defaultdict(list)
+for r in reg:
+    by_s[r["skey"]].append(r)
+next_n = max([int(r["id"].split("-")[-1]) for r in reg] or [0]) + 1
+taken = set(); new_reg = []
+def assign(p):
+    global next_n
+    a = arts[p["pid"]]
+    best, bj = None, 0.0
+    for r in by_s.get(p["skey"], []):
+        if r["id"] in taken: continue
+        j = len(a & r["arts"]) / max(1, len(a | r["arts"]))
+        if j > bj: best, bj = r, j
+    if best is not None and bj >= 0.5:
+        i = best["id"]
+    else:
+        i = f"TAP-P-{next_n:06d}"; next_n += 1
+    taken.add(i)
+    new_reg.append({"id": i, "skey": p["skey"], "display": p["display"], "first": p["first"], "last": p["last"],
+                    "articles": ",".join(sorted(a))})
+    return i
+
+# ---------------- merge ---------------------------------------------------------------------------------
+rows = []; stats = collections.Counter()
+for p in profiles:
+    pid = p["pid"]; mid = assign(p)
+    w, a, c, t = wd.get(pid), adj.get(pid), co.get(pid), pl.get(pid)
+    qid, src, conf, note, flags = "", "", "", "", []
+    if a:
+        note = f"adjudicated {a['decision']} {a['qid']} ({a['confidence']}): {a['evidence']}"
+        if a["decision"] == "LINK" and a["qid"]:
+            qid, src, conf = a["qid"], "adjudicated", a["confidence"]
+    elif w and w["decision"] == "auto":
+        qid, src, conf = w["qid"], "wd_auto", "high"
+    elif w and w["decision"] == "review":
+        note = f"pending review: best candidate {w['qid']} {w['label']}"
+    co_qid = c["co_wikidata_qid"] if c and c["decision"] == "auto" else ""
+    if co_qid:
+        if not qid:
+            qid, src, conf = co_qid, "colist_kg", "high"
+        elif co_qid != qid:
+            flags.append(f"qid_conflict: colist_kg {co_qid} vs {src} {qid}")
+        else:
+            src += "+colist_kg"
+    if a and a["decision"] in ("NONE", "MIXED") and co_qid:
+        flags.append(f"adjudicated {a['decision']} but colist_kg has {co_qid}")
+    stats["qid:" + (src.split("+")[0] if qid else "none")] += 1
+    if c: stats["colist:" + c["decision"]] += 1
+    if t: stats["planter:" + t["decision"]] += 1
+    rows.append([mid, pid, p["kind"], p["display"], p["mentions"], p["articles"], p["first"], p["last"],
+                 " | ".join(r for r, _ in p["roles"][:4]), qid, src, conf,
+                 c["co_person_id"] if c and c["decision"] == "auto" else "", (c or {}).get("decision", ""),
+                 t["planter_ids"] if t and t["decision"] == "link" else "", (t or {}).get("decision", ""),
+                 t["url"] if t and t["decision"] == "link" else "", "; ".join(flags), note])
+
+with open(REG, "w") as f:
+    f.write("id\tskey\tdisplay\tfirst\tlast\tarticles\n")
+    for r in sorted(new_reg + [r for r in reg if r["id"] not in taken], key=lambda r: r["id"]):
+        f.write(f"{r['id']}\t{r['skey']}\t{r['display']}\t{r['first']}\t{r['last']}\t{r['articles'] if isinstance(r['articles'], str) else ','.join(sorted(r['articles']))}\n")
+HEAD = ("id\tpid\tkind\tdisplay\tmentions\tarticles\tfirst\tlast\troles\twikidata_qid\tqid_source\tqid_confidence\t"
+        "colist_person_id\tcolist_decision\tplanter_id\tplanter_decision\tplanter_url\tflags\tnote\n")
+with open(here / "out/persons.tsv", "w") as f, open(here / "out/persons_head.tsv", "w") as fh:
+    f.write(HEAD); fh.write(HEAD)
+    for r in rows:
+        line = "\t".join(str(x if x is not None else "").replace("\t", " ") for x in r) + "\n"
+        f.write(line)
+        if r[4] >= 10: fh.write(line)
+print(dict(sorted(stats.items())))
+print("adjudicated so far:", len(adj), "| flags:", sum(1 for r in rows if r[17]))
+for r in rows:
+    if r[17]: print("  ", r[3], "|", r[17])

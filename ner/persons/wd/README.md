@@ -58,3 +58,25 @@ given names as the profile. Result: auto 314, review 167. A sample of 30 auto li
 last rule (J. F. Anderson → John Anderson, Governor). Agreement with tier 1: in all 16 profiles where both
 tiers auto-link and the CO record has a QID, the QIDs are the same. The KG also supplies 48 QIDs where
 tier 1 was review/none (Daniel Morris, Sir William Henry Gregory, E. B. Denham…).
+
+## Tier 3: planters registry (`../planters/match_planters.py`)
+
+historyofceylontea.com registry ids only (no content). The slug is the registry's only evidence, so the
+rule is strict:
+- same surname and the exact initials sequence;
+- no contradicting full name ("James" vs slug "john");
+- the profile's own roles say planter/estate/manager-of/visiting agent in ≥2 mentions (co-occurring
+  estates are not evidence);
+- active 1866–1935;
+- exactly one id fits.
+
+Result: link 157, review 142 (several ids fit, often duplicate registry records).
+
+## Merge (`../combine.py`) → `../out/persons.tsv`
+
+One row per profile:
+- minted persistent id `TAP-P-nnnnnn` (registry `../ids/registry.tsv`; on rebuild a profile inherits the id
+  of the registered profile with the most article overlap, Jaccard ≥ 0.5);
+- Wikidata QID with its source and confidence (adjudicated > wd_auto > colist_kg);
+- CO List person id, planter id/URL;
+- flags for any source disagreement.
