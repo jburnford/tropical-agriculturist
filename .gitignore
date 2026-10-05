@@ -25,3 +25,5 @@ __pycache__/
 !articles/*.html
 ner/gazetteer/raw/
 !ner/*.html
+ner/jobs/
+ner/out/

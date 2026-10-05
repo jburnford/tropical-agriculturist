@@ -5,7 +5,7 @@
 #SBATCH --cpus-per-task=24
 #SBATCH --gpus-per-node=h100:1
 #SBATCH --job-name=ta-ner
-#SBATCH --time=1:00:00
+#SBATCH --time=2:00:00
 #SBATCH --output=/scratch/jic823/tropical/logs/%x-%j.out
 set -uo pipefail
 SCR=/scratch/jic823
@@ -16,6 +16,11 @@ MODEL=$SCR/hf_cache/hub/models--Qwen--Qwen3.8-27B-FP8/snapshots/017b9c7af6b5689d
 MAX_MODEL_LEN=32768
 module load apptainer cuda/12.6 2>/dev/null
 
+if [ -n "${SLURM_ARRAY_TASK_ID:-}" ] && [ -z "${IN:-}" ]; then      # array mode: one part per task, resumable
+    IN=$BASE/ner/jobs/part_$(printf %02d "$SLURM_ARRAY_TASK_ID").jsonl
+    OUT=$BASE/ner/out/part_$(printf %02d "$SLURM_ARRAY_TASK_ID").jsonl
+    mkdir -p "$BASE/ner/out"
+fi
 echo "[job] node=$(hostname) job=$SLURM_JOB_ID in=${IN} out=${OUT} $(date -Is)"
 echo "[job] md5 $(md5sum $BASE/ner/extract_entities.py | cut -c1-8) extract_entities.py; $(md5sum $IN | cut -c1-8) $(basename $IN)"
 nvidia-smi --query-gpu=name,memory.total --format=csv,noheader 2>/dev/null
@@ -62,5 +67,5 @@ done
 [ "$READY" -eq 1 ] || { echo "[job] server not ready in 20 min"; tail -40 "$SLOG"; exit 1; }
 
 python3 "$BASE/ner/extract_entities.py" --base-url "http://127.0.0.1:${PORT}/v1" --model qwen38 \
-    --in "$IN" --out "$OUT" --parallel 16
+    --in "$IN" --out "$OUT" --parallel 32
 echo "[job] done $(date -Is) exit=$?"
