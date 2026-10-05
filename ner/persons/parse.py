@@ -232,6 +232,27 @@ def parse(text, norm=""):
         out["skey"] = idt[0] + ":" + out["skey"]
     return out
 
+# ---------------- name compatibility (shared by build_profiles.py and wd/ground_wikidata.py) ----------
+def pos_ok(a, b):
+    return a[0] == b[0] and (a[1] is None or b[1] is None or a[1] == b[1])
+
+def given_compat(g1, g2):
+    """J. Shand ~ J. L. Shand (prefix); Kelway Bamber ~ M. Kelway Bamber (subsequence, only when the shorter
+    form carries a full given name that matches); John ~ J.; John !~ James; W. !~ J."""
+    s, l = (g1, g2) if len(g1) <= len(g2) else (g2, g1)
+    if all(pos_ok(a, b) for a, b in zip(s, l)):
+        return True
+    if not any(n for _, n in s):
+        return False
+    i = 0; fullhit = False
+    for a in s:
+        while i < len(l) and not pos_ok(a, l[i]):
+            i += 1
+        if i == len(l):
+            return False
+        fullhit |= bool(a[1] and l[i][1] == a[1]); i += 1
+    return fullhit
+
 def display(p):
     if p["kind"] != "person":
         return ""

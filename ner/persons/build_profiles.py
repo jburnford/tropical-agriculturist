@@ -27,32 +27,12 @@ Profile ids (pid) are build-local (rank order), not persistent; persistent ids a
 import json, gzip, re, collections, pathlib, sys
 here = pathlib.Path(__file__).resolve().parent
 sys.path.insert(0, str(here))
-from parse import parse, display, IDENTITY
+from parse import parse, display, IDENTITY, pos_ok, given_compat
 
 PAD = 15          # years of slack around a profile's active span for corpus-level attachment
 OUT = here / "out"; OUT.mkdir(exist_ok=True)
 
 # ---------------- compatibility -----------------------------------------------------------------
-def pos_ok(a, b):
-    return a[0] == b[0] and (a[1] is None or b[1] is None or a[1] == b[1])
-
-def given_compat(g1, g2):
-    """J. Shand ~ J. L. Shand (prefix); Kelway Bamber ~ M. Kelway Bamber (subsequence, only when the shorter
-    form carries a full given name that matches); John ~ J.; John !~ James; W. !~ J."""
-    s, l = (g1, g2) if len(g1) <= len(g2) else (g2, g1)
-    if all(pos_ok(a, b) for a, b in zip(s, l)):
-        return True
-    if not any(n for _, n in s):
-        return False
-    i = 0; fullhit = False
-    for a in s:
-        while i < len(l) and not pos_ok(a, l[i]):
-            i += 1
-        if i == len(l):
-            return False
-        fullhit |= bool(a[1] and l[i][1] == a[1]); i += 1
-    return fullhit
-
 def other_compat(u, v):
     if (u["gender"] == "f") != (v["gender"] == "f"):   # "Mrs. J. Smith" is not J. Smith (usually his wife)
         return False
@@ -66,7 +46,7 @@ def merge_given(g1, g2):
     l = list(l)
     if len(s) == len(l) and all(pos_ok(a, b) for a, b in zip(s, l)):   # "Ernest Green" may be a middle name
         for k, a in enumerate(s):
-            if a[1] and not l[k][1]:
+            if a[1] and not l[k][1] and a[1] not in {n for _, n in l}:   # never "Ernest Ernest Green"
                 l[k] = a
     return l
 

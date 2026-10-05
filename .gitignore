@@ -31,3 +31,5 @@ ner/mentions.jsonl
 # person profiles: superseded uncompressed outputs (rebuilt as .gz)
 ner/persons/out/profiles.jsonl
 ner/persons/out/profiles.tsv
+ner/persons/wd/cache/entities.jsonl
+ner/persons/wd/cache/entities_v2.jsonl

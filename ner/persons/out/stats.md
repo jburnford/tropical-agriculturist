@@ -30,7 +30,7 @@ PERSON mentions: 150,754
 
 ## Profiles
 
-- named: 30,542 (111,963 mentions)
+- named: 30,541 (111,963 mentions)
 - surname_pool: 8,049 (12,379 mentions)
 - named with >=10 mentions: 1,780
 - named in 2+ articles: 10,528
