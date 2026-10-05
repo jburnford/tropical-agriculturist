@@ -103,6 +103,16 @@ for p in profiles:
                  t["planter_ids"] if t and t["decision"] == "link" else "", (t or {}).get("decision", ""),
                  t["url"] if t and t["decision"] == "link" else "", "; ".join(flags), note])
 
+# profiles grounded to the same QID are the same person split by the conservative stage-3 rules
+# ("Clements Markham" / "Clements R. Markham"): flag them for merging, keep the ids apart for now
+by_q = collections.defaultdict(list)
+for r in rows:
+    if r[9]: by_q[r[9]].append(r)
+for q, rs in by_q.items():
+    if len(rs) > 1:
+        for r in rs:
+            others = ", ".join(f"{x[0]} {x[3]}" for x in rs if x is not r)
+            r[17] = "; ".join(x for x in [r[17], f"same_qid_as: {others}"] if x)
 with open(REG, "w") as f:
     f.write("id\tskey\tdisplay\tfirst\tlast\tarticles\n")
     for r in sorted(new_reg + [r for r in reg if r["id"] not in taken], key=lambda r: r["id"]):
