@@ -17,7 +17,7 @@ Usage: eval_index.py LABELS.jsonl
 """
 import csv, json, sys, collections, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
-from eval_contents import words, own_text
+from eval_contents import words, own_text, is_start
 
 
 def overlap(a, b):
@@ -38,7 +38,7 @@ def main(path):
         j = json.loads(l); U = units[j["unit"]]
         lab = {int(k): v for k, v in j["labels"].items()}
         cands = U["cands"]
-        is_art = lambda c: lab.get(c["id"]) == "ARTICLE" or (lab.get(c["id"]) == "SECTION" and own_text(cands, lab, c["id"]))
+        is_art = lambda c: is_start(cands, lab, c["id"])
         t = collections.Counter()
         byfolio = collections.defaultdict(list)
         for c in cands:
@@ -50,7 +50,7 @@ def main(path):
                 if m:
                     t["entries"] += 1; t["recalled"] += any(is_art(c) for c in m)
         for c in cands:
-            if c["folio"] and c["part"] == "main" and is_art(c):
+            if c["folio"] and c["part"] == "main" and is_art(c) and lab.get(c["id"]) != "CONT":
                 t["pred"] += 1
                 t["confirmed"] += any(overlap(e, c["text"]) for e in idx.get((U["volume"], c["folio"]), []))
         if t["entries"] or t["pred"]:

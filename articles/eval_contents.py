@@ -33,6 +33,23 @@ def match(gold, text):
     return sum(w in t for w in g) / len(g) >= 0.6
 
 
+def is_start(cands, lab, i):
+    """ARTICLE, SECTION with its own text, or a CONT line continuing an ARTICLE line (two-line title)."""
+    L = lab.get(cands[i]["id"])
+    if L == "ARTICLE":
+        return True
+    if L == "SECTION":
+        return own_text(cands, lab, i)
+    if L != "CONT":
+        return False
+    for d in reversed(cands[max(0, i - 3):i]):   # the ARTICLE line it continues (a BYLINE/OTHER may sit between)
+        if lab.get(d["id"]) in ("ARTICLE", "SECTION"):
+            return lab.get(d["id"]) == "ARTICLE"
+        if lab.get(d["id"]) != "CONT" and d["page"] != cands[i]["page"]:
+            return False
+    return False
+
+
 def own_text(cands, lab, i):
     """A SECTION line that is followed by its own prose (no ARTICLE/SECTION within the next
     3 candidates on the same page) is also an article: "Editorial", "Correspondence"."""
@@ -73,8 +90,12 @@ def main():
         if not g:
             continue
         cands = U["cands"]
-        art = [c for c in cands if lab.get(c["id"]) == "ARTICLE" or
-               (lab.get(c["id"]) == "SECTION" and own_text(cands, lab, c["id"]))]
+        art = [c for c in cands if is_start(cands, lab, c["id"])]
+        sec = {}; cur = ""                       # section in force at each candidate
+        for c in cands:
+            if lab.get(c["id"]) == "SECTION":
+                cur = c["text"]
+            sec[c["id"]] = cur
         nxt = {c["id"]: (cands[c["id"] + 1]["text"] if c["id"] + 1 < len(cands) else "") for c in cands}
         hit = collections.Counter()
         for r in g:
@@ -86,14 +107,17 @@ def main():
             nofolio = [c for c in tm if not c["folio"]]
             hit["gold"] += 1; hit["ceiling"] += ceil; hit["title"] += bool(tm); hit["strict"] += bool(st)
             hit["title_nofolio"] += bool(tm) and not st and bool(nofolio)
-        hit["pred"] = len(art)
+            # contents say "Editorial"; the editorial is found under its own subtitle in that section
+            hit["section"] += not tm and any(match(r["title"], sec[c["id"]]) and (c["folio"] == f or not c["folio"]) for c in art)
+        hit["pred"] = sum(lab.get(c["id"]) != "CONT" for c in art)   # a CONT line is part of a start, not another one
         tot.update(hit)
         per.append((u, hit))
     for u, h in per:
         print(f"{u[:70]:70} gold {h['gold']:3} ceil {h['ceiling']:3} title {h['title']:3} strict {h['strict']:3} pred {h['pred']:4}")
     G = tot["gold"] or 1
     print(f"\nUNITS {len(per)}  GOLD {tot['gold']}  ceiling {tot['ceiling']/G:.1%}  title {tot['title']/G:.1%}"
-          f"  strict {tot['strict']/G:.1%}  (+{tot['title_nofolio']/G:.1%} title on unfoliated page)  pred/gold {tot['pred']/G:.2f}")
+          f"  strict {tot['strict']/G:.1%}  (+{tot['title_nofolio']/G:.1%} title on unfoliated page)  pred/gold {tot['pred']/G:.2f}"
+          f"\n  title or found under a matching section heading on that page: {(tot['title'] + tot['section'])/G:.1%}")
 
 
 if __name__ == "__main__":
