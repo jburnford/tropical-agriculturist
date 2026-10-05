@@ -27,3 +27,4 @@ ner/gazetteer/raw/
 !ner/*.html
 ner/jobs/
 ner/out/
+ner/mentions.jsonl
