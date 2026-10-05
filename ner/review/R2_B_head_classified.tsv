@@ -1,0 +1,1001 @@
+type	rank	key	class	note
+PLACE	1	ceylon	a	
+PLACE	2	india	a	
+PLACE	3	london	a	
+PLACE	4	colombo	a	
+PLACE	5	china	a	
+PLACE	6	java	a	
+PLACE	7	england	a	
+PLACE	8	united states	a	
+PLACE	9	america	b	variant of 'united states' in most uses (role 'market'); some continent uses ('American Continent') - ambiguous
+PLACE	10	australia	a	
+PLACE	11	europe	a	
+PLACE	12	calcutta	a	
+PLACE	13	japan	a	
+PLACE	14	madras	a	
+PLACE	15	peradeniya	a	place; Gardens/Experiment Station should be ORG
+PLACE	16	assam	a	
+PLACE	17	kandy	a	
+PLACE	18	germany	a	
+PLACE	19	bombay	a	
+PLACE	20	france	a	
+PLACE	21	brazil	a	
+PLACE	22	united kingdom	a	soft cluster with 'great britain'/'britain' (trade statistics use them interchangeably); keep separate
+PLACE	23	bengal	a	
+PLACE	24	jamaica	a	
+PLACE	25	west indies	a	
+PLACE	26	russia	a	
+PLACE	27	singapore	a	
+PLACE	28	new york	a	
+PLACE	29	mauritius	a	
+PLACE	30	jaffna	a	
+PLACE	31	nuwara eliya	a	
+PLACE	32	burma	a	
+PLACE	33	sumatra	a	
+PLACE	34	zanzibar	a	
+PLACE	35	south america	a	
+PLACE	36	trinidad	a	
+PLACE	37	queensland	a	
+PLACE	38	canada	a	
+PLACE	39	great britain	a	
+PLACE	40	madagascar	a	
+PLACE	41	mexico	a	
+PLACE	42	mysore	a	
+PLACE	43	africa	a	
+PLACE	44	galle	a	
+PLACE	45	italy	a	
+PLACE	46	cochin	a	
+PLACE	47	uva	a	
+PLACE	48	anuradhapura	a	
+PLACE	49	badulla	a	
+PLACE	50	south africa	a	
+PLACE	51	central province	a	homonym: Ceylon Central Province vs Central Provinces (India)
+PLACE	52	southern india	a	
+PLACE	53	straits settlements	a	
+PLACE	54	malaya	a	
+PLACE	55	holland	a	
+PLACE	56	amsterdam	a	
+PLACE	57	kurunegala	a	
+PLACE	58	california	a	
+PLACE	59	darjeeling	a	
+PLACE	60	matale	a	
+PLACE	61	southern province	a	
+PLACE	62	batticaloa	a	
+PLACE	63	paris	a	
+PLACE	64	penang	a	
+PLACE	65	malabar	a	
+PLACE	66	new zealand	a	
+PLACE	67	western province	a	
+PLACE	68	egypt	a	
+PLACE	69	natal	a	
+PLACE	70	borneo	a	
+PLACE	71	northern province	a	
+PLACE	72	dimbula	a	
+PLACE	73	travancore	a	
+PLACE	74	eastern province	a	
+PLACE	75	ratnapura	a	
+PLACE	76	spain	a	
+PLACE	77	north-western province	a	
+PLACE	78	trincomalee	a	
+PLACE	79	florida	a	
+PLACE	80	philippines	a	
+PLACE	81	mincing lane	a	street; metonym for the London tea/produce market
+PLACE	82	new south wales	a	
+PLACE	83	nilgiris	a	
+PLACE	84	north-central province	a	
+PLACE	85	south india	b	variant of 'southern india'
+PLACE	86	hakgala	a	
+PLACE	87	hambantota	a	
+PLACE	88	fiji	a	
+PLACE	89	rangoon	a	
+PLACE	90	kalutara	a	
+PLACE	91	puttalam	a	
+PLACE	92	melbourne	a	
+PLACE	93	turkey	a	
+PLACE	94	belgium	a	
+PLACE	95	mannar	a	
+PLACE	96	united states of america	b	variant of 'united states'
+PLACE	97	tellicherry	a	
+PLACE	98	liverpool	a	
+PLACE	99	peru	a	
+PLACE	100	maskeliya	a	
+PLACE	101	victoria	a	homonym: Australian colony, Lake Victoria, Victoria (Hong Kong/BC)
+PLACE	102	cachar	a	
+PLACE	103	haputale	a	
+PLACE	104	hamburg	a	
+PLACE	105	british guiana	a	
+PLACE	106	scotland	a	
+PLACE	107	aden	a	
+PLACE	108	coorg	a	
+PLACE	109	british india	a	near-synonym of 'india'
+PLACE	110	uva province	b	variant of 'uva'
+PLACE	111	seychelles	a	
+PLACE	112	sylhet	a	
+PLACE	113	central america	a	
+PLACE	114	federated malay states	a	
+PLACE	115	dikoya	a	
+PLACE	116	sydney	a	
+PLACE	117	siam	a	
+PLACE	118	tinnevelly	a	
+PLACE	119	perak	a	
+PLACE	120	mozambique	a	
+PLACE	121	austria	a	
+PLACE	122	manila	a	
+PLACE	123	punjab	a	
+PLACE	124	formosa	a	
+PLACE	125	cuba	a	
+PLACE	126	madras presidency	a	distinct from city 'madras' but LLM puts 'Presidency of Madras' under 'madras' too
+PLACE	127	sabaragamuwa province	a	
+PLACE	128	kelani valley	a	
+PLACE	129	ireland	a	
+PLACE	130	malay peninsula	a	near-synonym of 'malaya'
+PLACE	131	east indies	a	
+PLACE	132	matara	a	surface forms include 'MATALE'/'Mátalé' - Matale mentions normalised to matara
+PLACE	133	chilaw	a	
+PLACE	134	negombo	a	
+PLACE	135	hawaii	a	
+PLACE	136	sweden	a	
+PLACE	137	bolivia	a	
+PLACE	138	chicago	a	
+PLACE	139	batavia	a	
+PLACE	140	henaratgoda	a	place; 20 OCR-variant keys scattered in tail
+PLACE	141	mangalore	a	
+PLACE	142	britain	b	variant of 'great britain'
+PLACE	143	glasgow	a	
+PLACE	144	calicut	a	
+PLACE	145	selangor	a	
+PLACE	146	west africa	a	
+PLACE	147	rio de janeiro	a	
+PLACE	148	hong kong	a	
+PLACE	149	manchester	a	homonym: Manchester, England vs Manchester parish, Jamaica
+PLACE	150	north america	a	
+PLACE	151	barbados	a	
+PLACE	152	dutch east indies	a	
+PLACE	153	new guinea	a	
+PLACE	154	persia	a	
+PLACE	155	kew	a	place, but mostly metonym for Royal Botanic Gardens (ORG)
+PLACE	156	shanghai	a	
+PLACE	157	venezuela	a	
+PLACE	158	dumbara	a	
+PLACE	159	straits	b	variant of 'straits settlements'
+PLACE	160	dominica	a	
+PLACE	161	berlin	a	
+PLACE	162	washington	a	
+PLACE	163	diyatalawa	a	
+PLACE	164	gampola	a	
+PLACE	165	colombia	a	surface 'Columbia' also used for British Columbia/US? check
+PLACE	166	bangalore	a	
+PLACE	167	north borneo	a	
+PLACE	168	south australia	a	
+PLACE	169	uganda	a	
+PLACE	170	grenada	a	
+PLACE	171	amazon	a	
+PLACE	172	asia	a	
+PLACE	173	sabaragamuwa	b	variant of 'sabaragamuwa province'
+PLACE	174	nyassaland	a	
+PLACE	175	ootacamund	a	
+PLACE	176	para	a	Para/Belem state; risk of confusion with 'para rubber'
+PLACE	177	western australia	a	
+PLACE	178	coimbatore	a	
+PLACE	179	east africa	a	
+PLACE	180	johore	a	
+PLACE	181	british central africa	a	
+PLACE	182	edinburgh	a	
+PLACE	183	guatemala	a	
+PLACE	184	jaffna peninsula	a	
+PLACE	185	pemba	a	
+PLACE	186	bourbon	a	= Reunion
+PLACE	187	san francisco	a	
+PLACE	188	tasmania	a	
+PLACE	189	buitenzorg	a	
+PLACE	190	switzerland	a	
+PLACE	191	canton	a	
+PLACE	192	philadelphia	a	
+PLACE	193	northern india	a	
+PLACE	194	hankow	a	
+PLACE	195	malta	a	
+PLACE	196	balangoda	a	
+PLACE	197	marseilles	a	
+PLACE	198	santos	a	
+PLACE	199	gold coast	a	
+PLACE	200	cape of good hope	a	
+TAXON	1	cinchona	a	genus; 24 binomial siblings >=20 mentions, 542 cinchona-related keys in all
+TAXON	2	liberian coffee	b	variant of 'coffea liberica'
+TAXON	3	coconut	b	variant of 'cocos nucifera'
+TAXON	4	cinchona succirubra	a	
+TAXON	5	hevea brasiliensis	a	
+TAXON	6	cinchona ledgeriana	a	now C. calisaya var. ledgeriana; key 'cinchona calisaya var. ledgeriana' (23) also exists
+TAXON	7	hemileia vastatrix	a	fungus; surfaces include 'leaf-disease' (disease name mapped to the pathogen - acceptable)
+TAXON	8	hevea	b	variant of 'hevea brasiliensis'; genus/common name; in this corpus Hevea = H. brasiliensis
+TAXON	9	cinchona officinalis	a	
+TAXON	10	cacao	b	variant of 'theobroma cacao'
+TAXON	11	orange	a	
+TAXON	12	mango	b	variant of 'mangifera indica'
+TAXON	13	maize	a	
+TAXON	14	cinchona calisaya	a	
+TAXON	15	eucalyptus	a	genus vs 'eucalyptus globulus' etc. - keep separate, link as parent
+TAXON	16	banana	a	
+TAXON	17	wheat	a	
+TAXON	18	para rubber	b	variant of 'hevea brasiliensis'; genus/common name; in this corpus Hevea = H. brasiliensis
+TAXON	19	rinderpest	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	20	castilloa elastica	a	modern Castilla elastica; 'castilla elastica' also a key
+TAXON	21	arabian coffee	b	variant of 'coffea arabica'
+TAXON	22	manihot glaziovii	a	
+TAXON	23	coffee	a	Coffea (genus-level plant); also 9,565 COMMODITY mentions
+TAXON	24	plantain	a	
+TAXON	25	ficus elastica	a	
+TAXON	26	castilloa	b	variant of 'castilloa elastica'
+TAXON	27	dadap	b	variant of 'erythrina lithosperma'; in Ceylon 'Erythrina' = dadap
+TAXON	28	coffea arabica	a	
+TAXON	29	foot-and-mouth disease	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	30	anthrax	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	31	potato	a	
+TAXON	32	rabies	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	33	pineapple	a	
+TAXON	34	coconut palm	b	variant of 'cocos nucifera'
+TAXON	35	sugarcane	a	
+TAXON	36	helopeltis	a	genus vs 'helopeltis antonii' - keep separate
+TAXON	37	ramie	b	variant of 'boehmeria nivea'
+TAXON	38	tomato	a	
+TAXON	39	cassava	b	variant of 'manihot esculenta'
+TAXON	40	sugar-cane	b	variant of 'sugarcane'; pure hyphen/space variant (Saccharum officinarum)
+TAXON	41	citrus	a	
+TAXON	42	apple	a	
+TAXON	43	sorghum	b	variant of 'sorghum vulgare'; modern S. bicolor
+TAXON	44	lucerne	a	Medicago sativa; surfaces 'Alfalfa'
+TAXON	45	bamboo	a	
+TAXON	46	cotton	a	
+TAXON	47	jackfruit	b	variant of 'artocarpus integrifolia'; modern A. heterophyllus
+TAXON	48	eucalyptus globulus	a	
+TAXON	49	lemon	a	
+TAXON	50	cocos nucifera	a	
+TAXON	51	acacia	a	genus; 7 binomial siblings
+TAXON	52	peach	a	
+TAXON	53	vanilla	a	
+TAXON	54	teak	a	
+TAXON	55	ceara rubber	b	variant of 'manihot glaziovii'; 'manihot' role is 'rubber plant genus'
+TAXON	56	grevillea	b	variant of 'grevillea robusta'; in Ceylon Grevillea = G. robusta
+TAXON	57	tephrosia candida	a	
+TAXON	58	tea	b	variant of 'camellia sinensis'
+TAXON	59	tobacco	a	
+TAXON	60	lime	a	
+TAXON	61	sweet potato	a	
+TAXON	62	theobroma cacao	a	
+TAXON	63	barley	a	
+TAXON	64	beans	c	plant group / multi-species common plural, not a species-level entity
+TAXON	65	mulberry	a	
+TAXON	66	rhea	b	variant of 'boehmeria nivea'
+TAXON	67	clover	a	
+TAXON	68	rice	a	
+TAXON	69	cinnamon	a	
+TAXON	70	potatoes	b	variant of 'potato'
+TAXON	71	ficus	a	genus; surfaces include 'fig' (should go to 'fig')
+TAXON	72	acacia decurrens	a	
+TAXON	73	piroplasmosis	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	74	mangosteen	a	
+TAXON	75	phylloxera	a	
+TAXON	76	cabbage	a	
+TAXON	77	peas	a	
+TAXON	78	sugar cane	b	variant of 'sugarcane'; pure hyphen/space variant (Saccharum officinarum)
+TAXON	79	lantana	a	
+TAXON	80	oats	a	
+TAXON	81	sea island cotton	a	cultivar group of Gossypium barbadense
+TAXON	82	oak	a	
+TAXON	83	guava	a	
+TAXON	84	pear	a	
+TAXON	85	crotalaria juncea	a	
+TAXON	86	landolphia	a	
+TAXON	87	guinea grass	a	
+TAXON	88	indigofera endecaphylla	a	
+TAXON	89	albizia	a	genus; 6 binomial siblings
+TAXON	90	camellia sinensis	a	
+TAXON	91	paddy	b	variant of 'rice'
+TAXON	92	red spider	a	
+TAXON	93	egyptian cotton	a	cultivar group
+TAXON	94	cocoa	b	variant of 'theobroma cacao'
+TAXON	95	grevillea robusta	a	
+TAXON	96	manioc	b	variant of 'manihot esculenta'
+TAXON	97	green bug	a	
+TAXON	98	crotalaria	a	genus vs 'crotalaria juncea' - keep separate
+TAXON	99	haemorrhagic septicaemia	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	100	erythrina	b	variant of 'erythrina lithosperma'; in Ceylon 'Erythrina' = dadap
+TAXON	101	leucaena glauca	a	modern L. leucocephala
+TAXON	102	mahogany	a	
+TAXON	103	gliricidia	b	variant of 'gliricidia maculata'; modern G. sepium
+TAXON	104	pepper	a	
+TAXON	105	aloe	a	
+TAXON	106	plum	a	
+TAXON	107	casuarina	a	
+TAXON	108	coca	b	variant of 'erythroxylum coca'
+TAXON	109	erythrina lithosperma	a	modern E. subumbrans
+TAXON	110	plantains	b	variant of 'plantain'
+TAXON	111	ginger	a	
+TAXON	112	carica papaya	a	
+TAXON	113	orchids	c	plant group / multi-species common plural, not a species-level entity
+TAXON	114	forastero	a	cacao cultivar group
+TAXON	115	mustard	a	
+TAXON	116	buffalo	a	
+TAXON	117	nutmeg	a	
+TAXON	118	rubber	b	variant of 'hevea brasiliensis'; genus/common name; in this corpus Hevea = H. brasiliensis
+TAXON	119	onion	a	
+TAXON	120	corn	b	variant of 'maize'; 'corn' partly = grain generally
+TAXON	121	palmyra	a	
+TAXON	122	mangifera indica	a	
+TAXON	123	rose	a	
+TAXON	124	breadfruit	a	
+TAXON	125	chillies	a	
+TAXON	126	white ants	a	termites, order-level common name
+TAXON	127	cucumber	a	
+TAXON	128	leguminosae	a	family-level taxon
+TAXON	129	pine	a	
+TAXON	130	papaw	b	variant of 'carica papaya'
+TAXON	131	cinchona pubescens	a	
+TAXON	132	grape	a	
+TAXON	133	roses	b	variant of 'rose'
+TAXON	134	shot-hole borer	a	
+TAXON	135	flax	a	
+TAXON	136	acacia melanoxylon	a	
+TAXON	137	coffea liberica	a	
+TAXON	138	yams	a	
+TAXON	139	croton	a	
+TAXON	140	sisal hemp	b	variant of 'agave sisalana'
+TAXON	141	agave	a	
+TAXON	142	arachis hypogaea	a	
+TAXON	143	cinchona robusta	a	hybrid; bare 'robusta' resolved by context (checked: post-1900 'Robusta' mostly cinchona in cinchona articles)
+TAXON	144	manihot	b	variant of 'manihot glaziovii'; 'manihot' role is 'rubber plant genus'
+TAXON	145	tamarind	a	
+TAXON	146	avocado	a	
+TAXON	147	black quarter	e	animal disease, not a taxon (needs DISEASE type)
+TAXON	148	centrosema pubescens	a	
+TAXON	149	gliricidia maculata	a	
+TAXON	150	grapefruit	a	
+TAXON	151	ricinus communis	a	
+TAXON	152	sorghum vulgare	a	
+TAXON	153	erythroxylum coca	a	
+TAXON	154	pithecolobium saman	a	old name; modern Samanea saman; 'inga saman' also a key
+TAXON	155	cajanus cajan	a	
+TAXON	156	caryota urens	a	
+TAXON	157	cedrela toona	a	modern Toona ciliata
+TAXON	158	agave sisalana	a	
+TAXON	159	areca catechu	a	
+TAXON	160	china tea	a	variety (Camellia sinensis var. sinensis); surfaces include bare 'China'
+TAXON	161	olive	a	
+TAXON	162	papaya	b	variant of 'carica papaya'
+TAXON	163	sisal	b	variant of 'agave sisalana'
+TAXON	164	arabica coffee	b	variant of 'coffea arabica'
+TAXON	165	calotropis gigantea	a	
+TAXON	166	elephant	a	
+TAXON	167	manihot esculenta	a	
+TAXON	168	tephrosia purpurea	a	
+TAXON	169	albizia moluccana	a	modern Falcataria falcata
+TAXON	170	apis indica	a	modern Apis cerana indica
+TAXON	171	musa textilis	a	
+TAXON	172	phytophthora	a	
+TAXON	173	turnips	a	
+TAXON	174	boehmeria nivea	a	
+TAXON	175	brinjal	a	
+TAXON	176	oidium	a	
+TAXON	177	palms	c	plant group / multi-species common plural, not a species-level entity
+TAXON	178	oranges	b	variant of 'orange'
+TAXON	179	robusta coffee	a	
+TAXON	180	cattle	a	livestock; generic but Bos taurus
+TAXON	181	sunflower	a	
+TAXON	182	cowpea	a	
+TAXON	183	vine	b	variant of 'grape'
+TAXON	184	acacia dealbata	a	
+TAXON	185	agave americana	a	
+TAXON	186	capsicum	a	
+TAXON	187	durian	a	
+TAXON	188	fig	a	
+TAXON	189	hibiscus	a	
+TAXON	190	kapok	a	
+TAXON	191	funtumia elastica	a	
+TAXON	192	helopeltis antonii	a	
+TAXON	193	strawberry	a	
+TAXON	194	artocarpus integrifolia	a	
+TAXON	195	cajanus indicus	b	variant of 'cajanus cajan'; synonym
+TAXON	196	dolichos hosei	a	modern Vigna hosei
+TAXON	197	imperata cylindrica	a	
+TAXON	198	cherry	a	
+TAXON	199	diplodia	a	
+TAXON	200	indigofera	a	genus vs 'indigofera endecaphylla' - keep separate
+COMMODITY	1	tea	a	also TAXON 213
+COMMODITY	2	coffee	a	
+COMMODITY	3	rubber	a	
+COMMODITY	4	tobacco	a	
+COMMODITY	5	cocoa	a	
+COMMODITY	6	cacao	b	variant of 'cocoa'
+COMMODITY	7	cotton	a	
+COMMODITY	8	rice	a	
+COMMODITY	9	sugar	a	
+COMMODITY	10	quinine	a	
+COMMODITY	11	cinchona bark	a	
+COMMODITY	12	paddy	a	
+COMMODITY	13	cinnamon	a	
+COMMODITY	14	cardamoms	a	
+COMMODITY	15	cinchona	b	variant of 'cinchona bark'; as a commodity 'cinchona' = the bark
+COMMODITY	16	coconuts	a	
+COMMODITY	17	copra	a	
+COMMODITY	18	pepper	a	
+COMMODITY	19	coconut oil	a	
+COMMODITY	20	coconut	b	variant of 'coconuts'
+COMMODITY	21	wheat	a	
+COMMODITY	22	plumbago	a	graphite (mineral); TAXON has 30 wrong 'plumbago' mentions
+COMMODITY	23	vanilla	a	
+COMMODITY	24	indian tea	a	origin-qualified; surfaces 'Indians' (noun for Indian teas)
+COMMODITY	25	ceylon tea	a	origin-qualified; surfaces 'Ceylons'
+COMMODITY	26	maize	a	
+COMMODITY	27	indigo	a	
+COMMODITY	28	camphor	a	
+COMMODITY	29	ginger	a	
+COMMODITY	30	nutmegs	a	
+COMMODITY	31	cloves	a	
+COMMODITY	32	green tea	a	tea type
+COMMODITY	33	para rubber	a	origin/grade of rubber; also TAXON 405
+COMMODITY	34	chillies	a	
+COMMODITY	35	indiarubber	b	variant of 'rubber'; pre-1900 name for wild/raw rubber; keep era note
+COMMODITY	36	castor oil	a	
+COMMODITY	37	potatoes	a	
+COMMODITY	38	citronella oil	a	
+COMMODITY	39	nux vomica	a	
+COMMODITY	40	mace	a	
+COMMODITY	41	turmeric	a	
+COMMODITY	42	gold	a	mineral commodity
+COMMODITY	43	arrowroot	a	
+COMMODITY	44	pekoe	a	named tea grade
+COMMODITY	45	oranges	a	
+COMMODITY	46	bananas	a	
+COMMODITY	47	coir yarn	a	
+COMMODITY	48	jute	a	
+COMMODITY	49	tapioca	a	
+COMMODITY	50	croton seeds	a	
+COMMODITY	51	olibanum	a	
+COMMODITY	52	kino	a	
+COMMODITY	53	ebony	a	
+COMMODITY	54	tamarinds	a	
+COMMODITY	55	myrrh	a	
+COMMODITY	56	senna	a	
+COMMODITY	57	china tea	a	origin-qualified
+COMMODITY	58	nutmeg	b	variant of 'nutmegs'
+COMMODITY	59	sago	a	
+COMMODITY	60	gum ammoniacum	a	
+COMMODITY	61	milk	a	
+COMMODITY	62	corn	b	variant of 'maize'; 'corn' is also grain generally; surfaces include 'poonac' (error)
+COMMODITY	63	gum arabic	a	
+COMMODITY	64	silk	a	
+COMMODITY	65	bees' wax	a	
+COMMODITY	66	black tea	a	tea type
+COMMODITY	67	sugar-cane	a	
+COMMODITY	68	india rubber	b	variant of 'rubber'; pre-1900 name for wild/raw rubber; keep era note
+COMMODITY	69	colombo root	a	
+COMMODITY	70	orchella weed	a	
+COMMODITY	71	chicory	a	coffee adulterant
+COMMODITY	72	citronelle	b	variant of 'citronella oil'; in Market Rates 'CITRONELLE' = the oil
+COMMODITY	73	seedlac	a	
+COMMODITY	74	gambier	a	
+COMMODITY	75	lime	a	homonym: mostly agricultural lime (role 'soil amendment'), also the fruit
+COMMODITY	76	kapok	a	
+COMMODITY	77	oil	c	unspecified 'oil'
+COMMODITY	78	chocolate	a	
+COMMODITY	79	butter	a	
+COMMODITY	80	sulphate of quinine	a	also PRODUCT 35
+COMMODITY	81	poonac	a	
+COMMODITY	82	coir	a	
+COMMODITY	83	cutch	a	
+COMMODITY	84	desiccated coconut	a	
+COMMODITY	85	barley	a	
+COMMODITY	86	safflower	a	
+COMMODITY	87	coal	a	mineral commodity
+COMMODITY	88	cinnamon oil	a	
+COMMODITY	89	sugarcane	b	variant of 'sugar-cane'; role mostly 'crop' - arguably TAXON
+COMMODITY	90	caoutchouc	b	variant of 'rubber'; pre-1900 name for wild/raw rubber; keep era note
+COMMODITY	91	pekoe souchong	a	named tea grade
+COMMODITY	92	gutta-percha	a	
+COMMODITY	93	opium	a	
+COMMODITY	94	sugar cane	b	variant of 'sugar-cane'; role mostly 'crop' - arguably TAXON
+COMMODITY	95	oats	a	
+COMMODITY	96	cinchonidine	a	
+COMMODITY	97	cassia	a	
+COMMODITY	98	wax	a	
+COMMODITY	99	lemongrass	a	
+COMMODITY	100	cocaine	a	
+COMMODITY	101	souchong	a	named tea grade
+COMMODITY	102	latex	a	
+COMMODITY	103	congou	a	named tea type
+COMMODITY	104	hemp	a	
+COMMODITY	105	aloes	a	
+COMMODITY	106	myrobalans	a	
+COMMODITY	107	gutta percha	b	variant of 'gutta-percha'
+COMMODITY	108	jaggery	a	
+COMMODITY	109	pearl shells	a	
+COMMODITY	110	areca nuts	a	
+COMMODITY	111	sapanwood	a	
+COMMODITY	112	timber	a	
+COMMODITY	113	beans	c	multi-species generic
+COMMODITY	114	caffeine	a	
+COMMODITY	115	fibre	c	unspecified fibre
+COMMODITY	116	sapan wood	b	variant of 'sapanwood'
+COMMODITY	117	coir rope	a	
+COMMODITY	118	oil of aniseed	a	
+COMMODITY	119	india-rubber	b	variant of 'rubber'; pre-1900 name for wild/raw rubber; keep era note
+COMMODITY	120	annatto	a	
+COMMODITY	121	croton seed	b	variant of 'croton seeds'
+COMMODITY	122	cinnamon chips	a	
+COMMODITY	123	ivory	a	
+COMMODITY	124	palm oil	a	
+COMMODITY	125	pineapples	a	
+COMMODITY	126	broken pekoe	a	named tea grade
+COMMODITY	127	cardamom	b	variant of 'cardamoms'
+COMMODITY	128	salt	a	role 'manure' in many uses
+COMMODITY	129	coconut cake	a	
+COMMODITY	130	sandal wood	a	
+COMMODITY	131	cotton seed	a	role fertiliser/manure
+COMMODITY	132	quinine sulphate	b	variant of 'sulphate of quinine'
+COMMODITY	133	satinwood	a	
+COMMODITY	134	olive oil	a	
+COMMODITY	135	honey	a	
+COMMODITY	136	arrack	a	
+COMMODITY	137	tin	a	mineral commodity
+COMMODITY	138	petroleum	a	mineral commodity
+COMMODITY	139	sweet potatoes	a	
+COMMODITY	140	wool	a	
+COMMODITY	141	animi	a	
+COMMODITY	142	assafoetida	a	
+COMMODITY	143	silver	a	mineral commodity
+COMMODITY	144	assafetida	b	variant of 'assafoetida'
+COMMODITY	145	cassava	a	
+COMMODITY	146	cinchonine	a	
+COMMODITY	147	plantains	a	
+COMMODITY	148	coir fibre	a	
+COMMODITY	149	gingelly	a	
+COMMODITY	150	grapes	a	
+COMMODITY	151	liberian coffee	a	
+COMMODITY	152	fibres	c	unspecified fibre
+COMMODITY	153	rhubarb	a	
+COMMODITY	154	manila hemp	a	
+COMMODITY	155	galls	a	
+COMMODITY	156	nitrate of soda	a	fertiliser; also PRODUCT 243
+COMMODITY	157	ramie	a	
+COMMODITY	158	red wood	a	
+COMMODITY	159	apples	a	
+COMMODITY	160	banana	b	variant of 'bananas'
+COMMODITY	161	yams	a	
+COMMODITY	162	wine	a	
+COMMODITY	163	mangoes	a	
+COMMODITY	164	vermilion	a	
+COMMODITY	165	chinese tea	b	variant of 'china tea'
+COMMODITY	166	onions	a	
+COMMODITY	167	tannin	c	chemical constituent, not a traded good in most uses
+COMMODITY	168	kitul fibre	a	
+COMMODITY	169	cocculus indicus	a	
+COMMODITY	170	flax	a	
+COMMODITY	171	coca	a	
+COMMODITY	172	rum	a	
+COMMODITY	173	tortoiseshell	a	
+COMMODITY	174	limes	a	
+COMMODITY	175	orange	b	variant of 'oranges'
+COMMODITY	176	toddy	a	
+COMMODITY	177	potash	a	fertiliser
+COMMODITY	178	spices	c	class word
+COMMODITY	179	beer	a	
+COMMODITY	180	gum ghatti	a	
+COMMODITY	181	kerosene	a	also PRODUCT 72
+COMMODITY	182	citronella	b	variant of 'citronella oil'; in Market Rates 'CITRONELLE' = the oil
+COMMODITY	183	coca leaves	b	variant of 'coca'
+COMMODITY	184	lemongrass oil	b	variant of 'lemongrass'
+COMMODITY	185	molasses	a	
+COMMODITY	186	sandalwood	b	variant of 'sandal wood'
+COMMODITY	187	arecanuts	b	variant of 'areca nuts'
+COMMODITY	188	brick tea	a	tea type
+COMMODITY	189	copper	a	mineral commodity
+COMMODITY	190	balata	a	
+COMMODITY	191	kola	a	
+COMMODITY	192	orange pekoe	a	named tea grade
+COMMODITY	193	tortoise shell	b	variant of 'tortoiseshell'
+COMMODITY	194	vanilloes	b	variant of 'vanilla'
+COMMODITY	195	indian corn	b	variant of 'maize'; 'corn' is also grain generally; surfaces include 'poonac' (error)
+COMMODITY	196	mica	a	mineral commodity
+COMMODITY	197	oolong tea	a	tea type
+COMMODITY	198	lemons	a	
+COMMODITY	199	pearls	a	
+COMMODITY	200	sulphur	a	input/chemical; also PRODUCT 60
+GROUP	1	chinese	a	mixed: ~40% adjectival ('Chinese junks', 'Chinese tea')
+GROUP	2	sinhalese	a	mixed: 437 thing-modifier, 85 language uses, 522 people uses
+GROUP	3	indian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	4	tamil	a	mixed: people/labour 239, things 137, language 54
+GROUP	5	english	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	6	dutch	a	ambiguous: 186 thing-modifier vs 158 noun/people uses
+GROUP	7	japanese	a	invariant form; mixed
+GROUP	8	british	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	9	coolies	c	occupational class (prompt example 'Tamil coolies' invited it); keep as OCCUPATION
+GROUP	10	indians	b	variant of '(people of India; keep, canonical for 'indian' people-uses)'
+GROUP	11	french	a	invariant; mixed
+GROUP	12	americans	a	noun/plural form: canonical for this people-group
+GROUP	13	tamils	b	variant of 'tamil'
+GROUP	14	malays	b	variant of 'malay'
+GROUP	15	german	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	16	american	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	17	europeans	a	noun/plural form: canonical for this people-group
+GROUP	18	portuguese	a	invariant
+GROUP	19	javanese	a	
+GROUP	20	natives	c	generic/occupational
+GROUP	21	european	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	22	russian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	23	germans	a	noun/plural form: canonical for this people-group
+GROUP	24	malay	b	variant of 'malays'
+GROUP	25	arabs	a	noun/plural form: canonical for this people-group
+GROUP	26	ceylonese	a	
+GROUP	27	australian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	28	negroes	a	
+GROUP	29	ryots	c	occupational class (cultivators)
+GROUP	30	west indian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	31	burmese	a	
+GROUP	32	spaniards	a	noun/plural form: canonical for this people-group
+GROUP	33	moormen	a	
+GROUP	34	tamil coolies	b	ethnic+occupation: rewrite to 'tamil (+occupation)'
+GROUP	35	brazilian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	36	russians	a	noun/plural form: canonical for this people-group
+GROUP	37	hindu	a	
+GROUP	38	spanish	b	variant of 'spaniards'
+GROUP	39	east indian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	40	hindus	b	variant of 'hindu'
+GROUP	41	kandyan	a	
+GROUP	42	italian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	43	romans	a	
+GROUP	44	irish	a	
+GROUP	45	italians	a	noun/plural form: canonical for this people-group
+GROUP	46	moors	b	variant of 'moormen'
+GROUP	47	african	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	48	australians	a	noun/plural form: canonical for this people-group
+GROUP	49	chetties	a	
+GROUP	50	indian coolies	b	ethnic+occupation: rewrite to 'indians (+occupation)'
+GROUP	51	persian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	52	greeks	a	noun/plural form: canonical for this people-group
+GROUP	53	chetty	b	variant of 'chetties'
+GROUP	54	brazilians	a	noun/plural form: canonical for this people-group
+GROUP	55	englishmen	a	noun/plural form: canonical for this people-group
+GROUP	56	buddhists	a	
+GROUP	57	kanakas	a	Pacific Islander labourers (period ethnonym)
+GROUP	58	polynesians	a	
+GROUP	59	ryot	c	generic/occupational
+GROUP	60	arab	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	61	fijians	a	noun/plural form: canonical for this people-group
+GROUP	62	cingalese	b	variant of 'sinhalese'
+GROUP	63	mexican	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	64	scotch	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	65	mexicans	a	noun/plural form: canonical for this people-group
+GROUP	66	africans	a	noun/plural form: canonical for this people-group
+GROUP	67	egyptian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	68	canarese	a	
+GROUP	69	hindoos	b	variant of 'hindu'
+GROUP	70	malayan	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	71	kandyans	b	variant of 'kandyan'
+GROUP	72	anglo-indians	a	
+GROUP	73	egyptians	a	noun/plural form: canonical for this people-group
+GROUP	74	siamese	a	
+GROUP	75	south american	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	76	burmans	b	variant of 'burmese'
+GROUP	77	west african	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	78	jews	a	
+GROUP	79	buddhist	b	variant of 'buddhists'
+GROUP	80	ceylon planters	c	occupational
+GROUP	81	brahmins	a	
+GROUP	82	peruvians	a	noun/plural form: canonical for this people-group
+GROUP	83	incas	a	
+GROUP	84	negro	b	variant of 'negroes'
+GROUP	85	swiss	a	
+GROUP	86	asiatic	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	87	belgian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	88	burghers	a	
+GROUP	89	mahomedans	b	variant of 'muslims (no key)'
+GROUP	90	turks	a	noun/plural form: canonical for this people-group
+GROUP	91	chinese coolies	b	ethnic+occupation: rewrite to 'chinese (+occupation)'
+GROUP	92	creoles	a	
+GROUP	93	goyas	a	
+GROUP	94	filipinos	a	noun/plural form: canonical for this people-group
+GROUP	95	belgians	a	noun/plural form: canonical for this people-group
+GROUP	96	bolivian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	97	canadians	a	noun/plural form: canonical for this people-group
+GROUP	98	hawaiian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	99	native	c	generic/occupational
+GROUP	100	assamese	a	
+GROUP	101	hindoo	b	variant of 'hindu'
+GROUP	102	kanaka	b	variant of 'kanakas'
+GROUP	103	persians	a	noun/plural form: canonical for this people-group
+GROUP	104	aborigines	a	
+GROUP	105	anglo-saxon	c	racial category; borderline
+GROUP	106	asiatics	a	noun/plural form: canonical for this people-group
+GROUP	107	karens	a	
+GROUP	108	kanganies	c	occupational (labour recruiters)
+GROUP	109	mohammedans	b	variant of 'mahomedans'
+GROUP	110	mongolian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	111	sikhs	a	
+GROUP	112	south african	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	113	south indian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	114	aztecs	a	
+GROUP	115	boers	a	
+GROUP	116	chinamen	b	variant of 'chinese'
+GROUP	117	jesuits	e	religious order -> ORG
+GROUP	118	maori	a	
+GROUP	119	bengali	a	
+GROUP	120	cuban	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	121	dyaks	a	
+GROUP	122	east indians	a	noun/plural form: canonical for this people-group
+GROUP	123	indian planters	c	occupational (+origin)
+GROUP	124	kaffirs	a	
+GROUP	125	norwegian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	126	parsee	a	
+GROUP	127	californians	a	noun/plural form: canonical for this people-group
+GROUP	128	mudaliyars	c	official rank/title
+GROUP	129	scotchmen	a	noun/plural form: canonical for this people-group
+GROUP	130	shans	b	variant of 'shan'
+GROUP	131	canadian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	132	coolie	c	generic/occupational
+GROUP	133	filipino	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	134	nepalese	a	
+GROUP	135	sanskrit	e	language
+GROUP	136	anglo-indian	b	variant of 'anglo-indians'
+GROUP	137	bengalis	b	variant of 'bengali'
+GROUP	138	danish	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	139	muhammadans	b	variant of 'mahomedans'
+GROUP	140	turkish	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	141	goiya	b	variant of 'goyas'
+GROUP	142	mandarins	c	officials
+GROUP	143	mongolians	a	
+GROUP	144	tibetans	a	
+GROUP	145	afghans	b	variant of 'afghan'
+GROUP	146	aryan	c	racial category; borderline
+GROUP	147	european planters	c	occupational
+GROUP	148	maoris	b	variant of 'maori'
+GROUP	149	peruvian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	150	seringueiros	c	occupational (rubber tappers)
+GROUP	151	telugu	a	language/people
+GROUP	152	achinese	a	
+GROUP	153	austrian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	154	buddhism	e	religion (concept), not a group
+GROUP	155	continental	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	156	greek	a	
+GROUP	157	klings	a	
+GROUP	158	mahomedan	b	variant of 'mahomedans'
+GROUP	159	samoans	a	
+GROUP	160	somali	a	
+GROUP	161	afghan	a	
+GROUP	162	blacks	a	
+GROUP	163	burman	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	164	caribs	a	
+GROUP	165	cubans	a	noun/plural form: canonical for this people-group
+GROUP	166	eurasian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	167	hindustani	e	language
+GROUP	168	kangany	c	generic/occupational
+GROUP	169	masai	a	
+GROUP	170	muhammadan	b	variant of 'mahomedans'
+GROUP	171	planting community	c	occupational
+GROUP	172	swahili	a	people/language
+GROUP	173	swedish	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	174	venezuelan	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	175	yankees	b	variant of 'americans'
+GROUP	176	agricultural instructors	c	job title
+GROUP	177	austrians	a	noun/plural form: canonical for this people-group
+GROUP	178	californian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	179	dusun	a	
+GROUP	180	eurasians	a	noun/plural form: canonical for this people-group
+GROUP	181	fijian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	182	kachins	a	
+GROUP	183	shan	a	
+GROUP	184	arabic	e	language
+GROUP	185	britons	a	
+GROUP	186	burgher	b	variant of 'burghers'
+GROUP	187	creole	b	variant of 'creoles'
+GROUP	188	formosan	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	189	hovas	a	
+GROUP	190	kandians	b	variant of 'kandyan'
+GROUP	191	bengalee	b	variant of 'bengali'
+GROUP	192	boer	b	variant of 'boers'
+GROUP	193	brahmin	b	variant of 'brahmins'
+GROUP	194	hungarian	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	195	moorish	e	singular adjective; context check: most uses modify goods/markets/firms ('German quinine', 'American market'), not people
+GROUP	196	nagas	a	
+GROUP	197	papuan	a	
+GROUP	198	pariahs	a	
+GROUP	199	parsees	b	variant of 'parsee'
+GROUP	200	south americans	a	noun/plural form: canonical for this people-group
+PRODUCT	1	sulphate of ammonia	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	2	superphosphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	3	bordeaux mixture	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	4	nitrate of soda	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	5	sulphate of potash	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	6	basic slag	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	7	kainit	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	8	paris green	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	9	sirocco	a	named product (brand/patent/machine/proprietary)
+PRODUCT	10	lime	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	11	carbolic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	12	muriate of potash	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	13	bone meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	14	ammonium sulphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	15	tabloid	a	named product (brand/patent/machine/proprietary)
+PRODUCT	16	acetic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	17	copper sulphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	18	nitrolim	a	named product (brand/patent/machine/proprietary)
+PRODUCT	19	kerosene	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	20	castor cake	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	21	calcium cyanamide	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	22	carbon bisulphide	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	23	sulphur	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	24	london purple	a	named product (brand/patent/machine/proprietary)
+PRODUCT	25	sulphuric acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	26	formalin	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	27	superphosphate of lime	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	28	kerosene emulsion	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	29	dried blood	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	30	fish guano	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	31	lead arsenate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	32	nitrate of potash	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	33	sulphate of copper	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	34	groundnut cake	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	35	gypsum	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	36	steamed bone meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	37	arsenate of lead	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	38	excelsior	a	named product (brand/patent/machine/proprietary)
+PRODUCT	39	soap	e	commodity
+PRODUCT	40	ephos phosphate	a	named product (brand/patent/machine/proprietary)
+PRODUCT	41	nicifos	a	named product (brand/patent/machine/proprietary)
+PRODUCT	42	bone dust	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	43	cigars	e	commodity
+PRODUCT	44	corrosive sublimate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	45	sulphate of quinine	e	commodity
+PRODUCT	46	ammophos	a	named product (brand/patent/machine/proprietary)
+PRODUCT	47	sodium nitrate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	48	caffeine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	49	prussian blue	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	50	dynamite	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	51	arsenic	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	52	blood meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	53	fish manure	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	54	creosote	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	55	celluloid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	56	formic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	57	guano	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	58	brunolinum	a	named product (brand/patent/machine/proprietary)
+PRODUCT	59	cyanamide	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	60	papain	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	61	rough on rats	a	named product (brand/patent/machine/proprietary)
+PRODUCT	62	salicylic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	63	schimmel's test	e	laboratory test
+PRODUCT	64	acid phosphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	65	epsom salts	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	66	excelsior roller	b	variant of 'excelsior'
+PRODUCT	67	carbolineum	a	named product (brand/patent/machine/proprietary)
+PRODUCT	68	kerosine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	69	kerosine oil	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	70	meston plough	a	named product (brand/patent/machine/proprietary)
+PRODUCT	71	poonac	e	commodity (coconut cake)
+PRODUCT	72	potassium sulphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	73	sulphate of iron	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	74	basic superphosphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	75	bonemeal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	76	cattle manure	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	77	davidson's sirocco	b	variant of 'sirocco'
+PRODUCT	78	howard's quinine	a	named product (brand/patent/machine/proprietary)
+PRODUCT	79	kerosene oil	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	80	margarine	e	commodity
+PRODUCT	81	nitragin	a	named product (brand/patent/machine/proprietary)
+PRODUCT	82	naphthalene	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	83	adco	a	named product (brand/patent/machine/proprietary)
+PRODUCT	84	burmese harrow	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	85	citric acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	86	izal	a	named product (brand/patent/machine/proprietary)
+PRODUCT	87	peruvian guano	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	88	victoria	a	named product (brand/patent/machine/proprietary); also a ship name
+PRODUCT	89	naphthaline	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	90	theine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	91	vanillin	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	92	bisulphide of carbon	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	93	cinchona febrifuge	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	94	coal tar	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	95	jeyes' fluid	a	named product (brand/patent/machine/proprietary)
+PRODUCT	96	potash	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	97	potassium chloride	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	98	ammonia	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	99	concentrated superphosphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	100	glycerine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	101	nicotine sulphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	102	phenyle	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	103	superphosphates	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	104	arsenite of soda	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	105	bluestone	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	106	bone-meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	107	chloroform	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	108	cotton-seed meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	109	iron sulphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	110	jeye's fluid	b	variant of 'jeyes' fluid'
+PRODUCT	111	mamoty	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	112	sulfinette	a	named product (brand/patent/machine/proprietary)
+PRODUCT	113	vaporite	a	named product (brand/patent/machine/proprietary)
+PRODUCT	114	bones	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	115	brick tea	e	commodity (tea type)
+PRODUCT	116	brunolinum plantarium	b	variant of 'brunolinum'
+PRODUCT	117	candles	e	commodity
+PRODUCT	118	formaldehyde	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	119	nitrate of lime	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	120	sodium arsenite	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	121	wells' rough on corns	a	named product (brand/patent/machine/proprietary)
+PRODUCT	122	alum	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	123	bonedust	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	124	chocolate	e	commodity
+PRODUCT	125	clerihew	a	named product (brand/patent/machine/proprietary)
+PRODUCT	126	cocaine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	127	coconut butter	e	commodity
+PRODUCT	128	permanganate of potash	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	129	tar	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	130	venesta	a	named product (brand/patent/machine/proprietary)
+PRODUCT	131	buchu-paiba	a	named product (brand/patent/machine/proprietary)
+PRODUCT	132	burgundy mixture	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	133	calcium cyanide	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	134	jackson's roller	a	named product (brand/patent/machine/proprietary)
+PRODUCT	135	tannin	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	136	acme	a	named product (brand/patent/machine/proprietary)
+PRODUCT	137	ammonium phosphate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	138	calcium nitrate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	139	castor oil	e	commodity
+PRODUCT	140	castor-cake	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	141	chekku	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	142	condy's fluid	a	named product (brand/patent/machine/proprietary)
+PRODUCT	143	mercuric chloride	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	144	nitro-bacterine	a	named product (brand/patent/machine/proprietary)
+PRODUCT	145	papaine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	146	petroleum	e	commodity
+PRODUCT	147	portland cement	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	148	raspador	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	149	slaked lime	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	150	sodium bisulphite	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	151	soft soap	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	152	standard	a	named product (brand/patent/machine/proprietary)
+PRODUCT	153	stockholm tar	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	154	strawsonizer	a	named product (brand/patent/machine/proprietary)
+PRODUCT	155	agrisol	a	named product (brand/patent/machine/proprietary)
+PRODUCT	156	animal meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	157	blue stone	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	158	borax	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	159	britannia	a	named product (brand/patent/machine/proprietary); also a ship name
+PRODUCT	160	brunswick	a	named product (brand/patent/machine/proprietary)
+PRODUCT	161	crepe rubber	e	commodity (rubber grade)
+PRODUCT	162	fish	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	163	fordson	a	named product (brand/patent/machine/proprietary)
+PRODUCT	164	hydrocyanic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	165	jackson's excelsior	b	variant of 'excelsior'
+PRODUCT	166	moyune	e	ship (steamer)
+PRODUCT	167	no. 3 sirocco	b	variant of 'sirocco'
+PRODUCT	168	paranitrophenol	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	169	quicklime	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	170	theobromine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	171	arrack	e	commodity
+PRODUCT	172	bone-dust	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	173	boracic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	174	calcium arsenate	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	175	caustic soda	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	176	chloride of lime	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	177	colloidal copper	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	178	cotton seed meal	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	179	hydrochloric acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	180	hydrocyanic acid gas	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	181	indore process	e	composting method, not a product
+PRODUCT	182	isoprene	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	183	jackson's rollers	b	variant of 'jackson's roller'
+PRODUCT	184	jodelite	a	named product (brand/patent/machine/proprietary)
+PRODUCT	185	nicotine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	186	paraffin	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	187	phenol	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	188	planet junior	a	named product (brand/patent/machine/proprietary)
+PRODUCT	189	soapstone	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	190	strychnine	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	191	tannic acid	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	192	thymol	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	193	toluene	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	194	urea	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	195	wells' health renewer	a	named product (brand/patent/machine/proprietary)
+PRODUCT	196	american evaporator	a	named product (brand/patent/machine/proprietary)
+PRODUCT	197	brown's desiccator	a	named product (brand/patent/machine/proprietary)
+PRODUCT	198	coconut oil	e	commodity
+PRODUCT	199	dissolved bones	c	generic substance (fertiliser/chemical/manure/food/implement type), not a named product
+PRODUCT	200	fordson tractor	b	variant of 'fordson'

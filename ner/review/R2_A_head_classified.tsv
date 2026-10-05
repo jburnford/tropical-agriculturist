@@ -1,0 +1,1001 @@
+type	rank	key	class	note
+PERSON	1	dr. trimen	a	
+PERSON	2	director of agriculture	c	office title
+PERSON	3	c. drieberg	a	
+PERSON	4	john hughes	a	
+PERSON	5	a. philip	a	
+PERSON	6	w. a. de silva	a	
+PERSON	7	a. w. r. joachim	a	
+PERSON	8	e. e. green	a	
+PERSON	9	g. w. sturgess	a	
+PERSON	10	j. c. willis	a	
+PERSON	11	f. a. stockdale	a	
+PERSON	12	a. e. rajapakse	a	
+PERSON	13	d. morris	a	
+PERSON	14	t. h. holland	a	
+PERSON	15	h. f. macmillan	a	
+PERSON	16	t. petch	a	
+PERSON	17	r. g. coombe	a	
+PERSON	18	morris	b	variant of "d. morris"; surname-only, mostly D. Morris
+PERSON	19	trimen	b	variant of "dr. trimen"
+PERSON	20	the governor	c	office title; variant of governor
+PERSON	21	m. crawford	a	
+PERSON	22	rutherford	b	variant of "h. k. rutherford"
+PERSON	23	w. molegode	a	
+PERSON	24	h. k. rutherford	a	
+PERSON	25	john ferguson	a	
+PERSON	26	m. kelway bamber	a	
+PERSON	27	nock	a	
+PERSON	28	w. d. gibbon	a	
+PERSON	29	bamber	b	variant of "m. kelway bamber"
+PERSON	30	marshall ward	a	
+PERSON	31	j. l. shand	a	
+PERSON	32	a. m. ferguson	a	
+PERSON	33	petch	b	variant of "t. petch"
+PERSON	34	dr. watt	a	
+PERSON	35	h. l. de mel	a	
+PERSON	36	t. e. h. o'brien	a	
+PERSON	37	green	b	variant of "e. e. green"; surname-only, mostly E. E. Green
+PERSON	38	c. e. a. dias	a	
+PERSON	39	t. y. wright	a	
+PERSON	40	willis	b	variant of "j. c. willis"
+PERSON	41	linnaeus	a	
+PERSON	42	kelway bamber	b	variant of "m. kelway bamber"
+PERSON	43	howard	a	surname-only, several Howards (A. Howard etc.)
+PERSON	44	thwaites	b	variant of "dr. thwaites"
+PERSON	45	j. ferguson	b	variant of "john ferguson"
+PERSON	46	dr. thwaites	a	
+PERSON	47	herbert wright	a	
+PERSON	48	w. r. c. paul	a	
+PERSON	49	dr. king	a	
+PERSON	50	henry trimen	b	variant of "dr. trimen"
+PERSON	51	governor	c	office title; variant of "the governor"
+PERSON	52	j. c. hutson	a	
+PERSON	53	sir joseph hooker	a	
+PERSON	54	mackenzie	b	variant of "wm. mackenzie"; surname-only
+PERSON	55	carruthers	b	variant of "j. b. carruthers"
+PERSON	56	e. ernest green	b	variant of "e. e. green"
+PERSON	57	roxburgh	a	
+PERSON	58	h. m. fernando	a	
+PERSON	59	j. w. oldfield	a	
+PERSON	60	moens	a	
+PERSON	61	t. c. owen	a	
+PERSON	62	e. rodrigo	a	
+PERSON	63	wright	b	variant of "herbert wright"; surname-only; at least 5 Wrights in head
+PERSON	64	a. j. bamford	a	
+PERSON	65	e. c. villiers	a	
+PERSON	66	g. harbord	a	
+PERSON	67	n. wickremaratne	a	
+PERSON	68	a. w. beven	a	
+PERSON	69	colonial secretary	c	office title
+PERSON	70	liebig	a	
+PERSON	71	watt	b	variant of "dr. watt"
+PERSON	72	mr. green	b	variant of "e. e. green"
+PERSON	73	wace de niese	a	
+PERSON	74	e. b. creasy	a	
+PERSON	75	cochran	b	variant of "m. cochran"
+PERSON	76	j. b. carruthers	a	
+PERSON	77	joseph fraser	a	
+PERSON	78	cameron	a	surname-only; J. Cameron (Lal Bagh) and Board-member Camerons
+PERSON	79	g. h. alston	a	
+PERSON	80	j. c. haigh	a	
+PERSON	81	jackson	a	surname-only, mostly W. Jackson (tea machinery)
+PERSON	82	secretary of state	c	office title
+PERSON	83	h. a. deutrom	a	
+PERSON	84	ferguson	b	variant of "john ferguson"; surname-only; John/A.M./W. Ferguson
+PERSON	85	wm. mackenzie	a	
+PERSON	86	b. m. selwyn	a	
+PERSON	87	g. a. talbot	a	
+PERSON	88	hart	b	variant of "j. h. hart"
+PERSON	89	armstrong	a	surname-only
+PERSON	90	chancellor of the exchequer	c	office title
+PERSON	91	h. jameson	a	
+PERSON	92	r. h. lock	a	
+PERSON	93	hughes	b	variant of "john hughes"; surname-only, mostly John Hughes
+PERSON	94	c. h. gadd	a	
+PERSON	95	cross	a	
+PERSON	96	m. cochran	a	
+PERSON	97	blechynden	a	
+PERSON	98	r. p. gaddum	a	
+PERSON	99	w. ferguson	a	
+PERSON	100	d. t. e. dassanayake	a	
+PERSON	101	davidson	a	surname-only, several people
+PERSON	102	i. l. cameron	a	
+PERSON	103	mcivor	a	
+PERSON	104	walker	a	surname-only, several people
+PERSON	105	baron von mueller	a	
+PERSON	106	f. h. griffith	a	
+PERSON	107	l. lord	a	
+PERSON	108	r. k. s. murray	a	
+PERSON	109	dr. morris	b	variant of "d. morris"
+PERSON	110	h. d. garrick	a	
+PERSON	111	dr. willis	b	variant of "j. c. willis"
+PERSON	112	jardine	b	variant of "n. k. jardine"
+PERSON	113	john horsfall	a	
+PERSON	114	n. wickramaratne	b	variant of "n. wickremaratne"
+PERSON	115	w. a. d. s.	c	initials signature of a correspondent (pen-name), not linkable
+PERSON	116	d. s. senanayake	a	
+PERSON	117	e. t. hoole	a	
+PERSON	118	malcolm park	a	
+PERSON	119	w. h. figg	a	
+PERSON	120	j. n. campbell	a	
+PERSON	121	r. child	a	
+PERSON	122	r. v. norris	a	
+PERSON	123	sir arthur gordon	a	
+PERSON	124	sir solomon dias bandaranaike	a	
+PERSON	125	n. d. s. silva	a	
+PERSON	126	r. c. kannangara	a	
+PERSON	127	brown	a	surname-only, several people
+PERSON	128	gordon pyper	a	
+PERSON	129	j. b. coles	a	
+PERSON	130	mr. nock	b	variant of "nock"
+PERSON	131	c. driberg	b	variant of "c. drieberg"
+PERSON	132	director of public instruction	c	office title
+PERSON	133	j. h. hart	a	
+PERSON	134	ridley	a	
+PERSON	135	t. n. christie	a	
+PERSON	136	w. h. wright	a	
+PERSON	137	f. p. jepson	a	
+PERSON	138	m. fernando	a	
+PERSON	139	m. park	b	variant of "malcolm park"
+PERSON	140	a. e. wright	a	
+PERSON	141	king	b	variant of "dr. king"; surname-only, mostly Dr. G. King (Calcutta)
+PERSON	142	lawson	a	
+PERSON	143	macmillan	b	variant of "h. f. macmillan"
+PERSON	144	queen victoria	a	
+PERSON	145	t. b. panabokke	a	
+PERSON	146	charles darwin	a	
+PERSON	147	f. a. obeyesekere	a	
+PERSON	148	george watt	b	variant of "dr. watt"
+PERSON	149	n. k. jardine	a	
+PERSON	150	ward	a	surname-only; Marshall Ward + others
+PERSON	151	c. h. collins	a	
+PERSON	152	markham	a	surname-only, mostly C. R. Markham
+PERSON	153	pasteur	a	
+PERSON	154	thos. christy	a	
+PERSON	155	anderson	a	surname-only, several people
+PERSON	156	dr. voelcker	a	
+PERSON	157	elwood may	a	
+PERSON	158	s. kandiah	a	
+PERSON	159	wilmot a. perera	a	
+PERSON	160	e. v. carey	a	
+PERSON	161	de candolle	a	
+PERSON	162	ramasamy	c	generic name for a Tamil labourer ("We teach Ramasamy..."), not an individual
+PERSON	163	sir henry blake	a	
+PERSON	164	governor of ceylon	c	office title; variant of "the governor"
+PERSON	165	mann	a	surname-only (H. H. Mann + others)
+PERSON	166	sir william gregory	a	
+PERSON	167	smith	a	surname-only, several people
+PERSON	168	gammie	a	
+PERSON	169	grinlinton	a	
+PERSON	170	w. w. mitchell	a	
+PERSON	171	w. youngman	a	
+PERSON	172	david reid	a	
+PERSON	173	e. b. denham	a	
+PERSON	174	j. c. kelly	a	
+PERSON	175	l. a. d. silva	a	
+PERSON	176	d. s. cameron	a	
+PERSON	177	drieberg	b	variant of "c. drieberg"
+PERSON	178	ernest tye	a	
+PERSON	179	mr. morris	b	variant of "d. morris"
+PERSON	180	s. pararajasingham	a	
+PERSON	181	t. christy	b	variant of "thos. christy"
+PERSON	182	w. p. h. dias	a	
+PERSON	183	wickham	a	
+PERSON	184	a. thomson	a	
+PERSON	185	c. arulambalam	a	
+PERSON	186	c. drieburg	b	variant of "c. drieberg"
+PERSON	187	john brown	a	
+PERSON	188	mr. cross	b	variant of "cross"
+PERSON	189	e. w. whitelaw	a	
+PERSON	190	c. n. e. j. de mel	a	
+PERSON	191	e. elliott	a	
+PERSON	192	elliott	b	variant of "e. elliott"; surname-only
+PERSON	193	pliny	a	
+PERSON	194	s. muttutamby	a	
+PERSON	195	stockdale	b	variant of "f. a. stockdale"
+PERSON	196	t. h. parsons	a	
+PERSON	197	taylor	a	surname-only, several people
+PERSON	198	thomas christy	b	variant of "thos. christy"
+PERSON	199	gamble	a	
+PERSON	200	r. n. lyne	a	
+ORG	1	department of agriculture	a	also used for US/other colonies' departments
+ORG	2	royal botanic gardens, kew	a	
+ORG	3	planters' association	b	variant of "planters' association of ceylon"; mostly Ceylon PA; generic in Indian items
+ORG	4	government of india	a	
+ORG	5	imperial institute	a	
+ORG	6	ceylon agricultural society	a	
+ORG	7	indian tea association	a	
+ORG	8	chamber of commerce	b	variant of "ceylon chamber of commerce"; Ceylon/Colombo mostly; London, Madras also
+ORG	9	experiment station, peradeniya	a	
+ORG	10	agricultural department	b	variant of "department of agriculture"
+ORG	11	board of agriculture	a	Ceylon Board vs British Board of Agriculture
+ORG	12	planters' association of ceylon	a	
+ORG	13	royal botanic gardens, peradeniya	a	
+ORG	14	forest department	a	
+ORG	15	school of agriculture	a	
+ORG	16	government	c	generic "Government", referent varies
+ORG	17	indian government	b	variant of "government of india"
+ORG	18	gow, wilson & stanton	a	
+ORG	19	united states department of agriculture	a	
+ORG	20	cattle quarantine station	a	
+ORG	21	royal botanic gardens	b	variant of "royal botanic gardens, peradeniya"; Kew or Peradeniya
+ORG	22	agricultural society	b	variant of "ceylon agricultural society"; mostly Ceylon A.S.; also Jamaica etc.
+ORG	23	madras government	a	
+ORG	24	legislative council	a	
+ORG	25	colonial office	a	
+ORG	26	peradeniya gardens	b	variant of "royal botanic gardens, peradeniya"
+ORG	27	department of agriculture, ceylon	b	variant of "department of agriculture"
+ORG	28	ceylon government	a	
+ORG	29	society of arts	a	
+ORG	30	lewis & peat	a	
+ORG	31	public works department	a	
+ORG	32	ceylon planters' association	b	variant of "planters' association of ceylon"
+ORG	33	ceylon association	b	variant of "ceylon association in london"
+ORG	34	thirty committee	a	
+ORG	35	foreign office	a	
+ORG	36	ceylon chamber of commerce	a	
+ORG	37	rubber research scheme	a	
+ORG	38	board of trade	a	
+ORG	39	coconut research scheme	a	
+ORG	40	kew	b	variant of "royal botanic gardens, kew"
+ORG	41	house of commons	a	
+ORG	42	whittall & co.	a	
+ORG	43	central board of agriculture	b	variant of "board of agriculture"
+ORG	44	low-country products association	a	
+ORG	45	botanic gardens	b	variant of "royal botanic gardens, peradeniya"; Peradeniya mostly; Singapore etc.
+ORG	46	tea research institute of ceylon	a	
+ORG	47	colombo municipality	a	
+ORG	48	tea research institute	b	variant of "tea research institute of ceylon"
+ORG	49	british government	a	
+ORG	50	u.s. department of agriculture	b	variant of "united states department of agriculture"
+ORG	51	assam company	a	
+ORG	52	dutch government	a	
+ORG	53	kew gardens	b	variant of "royal botanic gardens, kew"
+ORG	54	british museum	a	
+ORG	55	east india company	a	
+ORG	56	government of madras	b	variant of "madras government"
+ORG	57	government stock garden	a	
+ORG	58	rubber growers' association	a	
+ORG	59	linnean society	a	
+ORG	60	peradeniya experiment station	b	variant of "experiment station, peradeniya"
+ORG	61	agricultural school	b	variant of "school of agriculture"; Ceylon School of Agriculture mostly
+ORG	62	british association	a	
+ORG	63	royal colonial institute	a	
+ORG	64	india office	a	
+ORG	65	board of revenue	a	
+ORG	66	colombo museum	a	
+ORG	67	freudenberg & co.	a	
+ORG	68	government dairy	a	
+ORG	69	ceylon association in london	a	
+ORG	70	experiment station	b	variant of "experiment station, peradeniya"; ambiguous, mostly Peradeniya
+ORG	71	ceylon estates proprietary association	a	
+ORG	72	howards & sons	a	
+ORG	73	london chamber of commerce	a	
+ORG	74	irrigation department	a	
+ORG	75	survey department, ceylon	a	
+ORG	76	wilson, smithett & co.	a	
+ORG	77	rubber research scheme (ceylon)	b	variant of "rubber research scheme"
+ORG	78	a. m. & j. ferguson	a	
+ORG	79	j. m. robertson & co.	a	
+ORG	80	parliament	a	
+ORG	81	burroughs wellcome & co.	a	
+ORG	82	empire marketing board	a	
+ORG	83	royal botanic gardens, ceylon	b	variant of "royal botanic gardens, peradeniya"
+ORG	84	royal society	a	
+ORG	85	french government	a	
+ORG	86	government of ceylon	b	variant of "ceylon government"
+ORG	87	ceylon tea fund	a	
+ORG	88	william brothers	b	variant of "j. p. william & brothers"
+ORG	89	estate products committee	a	
+ORG	90	rothamsted	b	variant of "rothamsted experimental station"
+ORG	91	finlay, muir & co.	a	
+ORG	92	rothamsted experimental station	a	
+ORG	93	british cotton growing association	a	
+ORG	94	j. p. william & brothers	a	
+ORG	95	kelani tea garden co., ltd.	a	
+ORG	96	new colombo ice co., ltd.	a	
+ORG	97	surveyor-general	e	office/person, not an organisation
+ORG	98	colombo assembly rooms co., ltd.	a	
+ORG	99	colombo hotels company	a	
+ORG	100	committee of agricultural experiments	a	
+ORG	101	british north borneo company	a	
+ORG	102	colombo observatory	a	
+ORG	103	congress	a	
+ORG	104	kandy hotels co., ltd.	a	
+ORG	105	p. & o.	a	
+ORG	106	public hall co., ltd.	a	
+ORG	107	s. figgis & co.	a	
+ORG	108	tea fund	b	variant of "ceylon tea fund"
+ORG	109	union estate co., ltd.	a	
+ORG	110	wanarajah tea co., ltd.	a	
+ORG	111	ceylon proprietary co.	a	
+ORG	112	colombo fort land and building co., ltd.	a	
+ORG	113	kalutara co., ltd.	a	
+ORG	114	ministry of agriculture	a	
+ORG	115	new dimbula co., ltd.	a	
+ORG	116	nuwara eliya hotels co., ltd.	a	
+ORG	117	scottish ceylon tea co., ltd.	a	
+ORG	118	imperial department of agriculture	a	
+ORG	119	indian museum	a	
+ORG	120	nahavilla estate co., ltd.	a	
+ORG	121	adam's peak hotel co., ltd.	a	
+ORG	122	bristol hotel co., ltd.	a	
+ORG	123	ceylon tea and coconut estates	a	
+ORG	124	galle face hotel co., ltd.	a	
+ORG	125	palmerston tea co., ltd.	a	
+ORG	126	vogan tea co., ltd.	a	
+ORG	127	ceylon tea plantation co., ltd.	b	variant of "ceylon tea plantations company"
+ORG	128	colombo share brokers' association	a	
+ORG	129	glasgow estate co., ltd.	a	
+ORG	130	p. w. woolley & co.	a	
+ORG	131	state council	a	
+ORG	132	survey department	b	variant of "survey department, ceylon"
+ORG	133	penrhos estates co., ltd.	a	
+ORG	134	ceylon tea plantations company	a	
+ORG	135	estates products committee	b	variant of "estate products committee"
+ORG	136	pine hill estate co., ltd.	a	
+ORG	137	roeberry tea co., ltd.	a	
+ORG	138	bureau of plant industry	a	
+ORG	139	drayton estate co., ltd.	a	
+ORG	140	john walker & co.	a	
+ORG	141	kintyre estates co., ltd.	a	
+ORG	142	observatory	b	variant of "colombo observatory"; mostly Colombo
+ORG	143	royal agricultural society of england	a	
+ORG	144	tonacombe estate co., ltd.	a	
+ORG	145	mocha tea co., of ceylon, ltd.	a	
+ORG	146	spring valley tea co., ltd.	a	
+ORG	147	government gardens	a	
+ORG	148	government of bengal	a	
+ORG	149	ratwatte cocoa co., ltd.	a	
+ORG	150	standard tea co., ltd.	a	
+ORG	151	claremont estates co., ltd.	a	
+ORG	152	clunes tea co., ltd.	a	
+ORG	153	imperial college of tropical agriculture	a	
+ORG	154	royal horticultural society	a	
+ORG	155	ruanwella tea co., ltd.	a	
+ORG	156	castlereagh tea co., ltd.	a	
+ORG	157	clyde estates co., ltd.	a	
+ORG	158	secretary of state for the colonies	e	office/person, not an organisation
+ORG	159	geo. white & co.	a	
+ORG	160	hakgala gardens	a	
+ORG	161	talgaswela tea co., ltd.	a	
+ORG	162	united states government	a	
+ORG	163	agricultural and horticultural society of india	a	
+ORG	164	alliance tea co., of ceylon, ltd.	a	
+ORG	165	botanical gardens	b	variant of "royal botanic gardens, peradeniya"; ambiguous
+ORG	166	lipton	a	
+ORG	167	nahalma estates co., ltd.	a	
+ORG	168	pitakanda tea company	a	
+ORG	169	bureau of agriculture	a	
+ORG	170	indian tea districts association	a	
+ORG	171	japanese government	a	
+ORG	172	kanapediwatte ltd.	a	
+ORG	173	maha uva estates co., ltd.	a	
+ORG	174	schimmel & co.	a	
+ORG	175	united planters' association of southern india	a	
+ORG	176	w. e. smith & co.	a	
+ORG	177	yataderiya tea co., ltd.	a	
+ORG	178	dimbula planters' association	a	
+ORG	179	jamaica agricultural society	a	
+ORG	180	tea fund committee	a	
+ORG	181	associated estates co., of ceylon	a	
+ORG	182	brunswick factory	a	
+ORG	183	colombo commercial company	a	
+ORG	184	international institute of agriculture	a	
+ORG	185	pharmaceutical society	a	
+ORG	186	w. h. davies & co.	a	
+ORG	187	darley, butler & co.	a	
+ORG	188	food products committee	a	
+ORG	189	ragalla tea estates co., ltd.	a	
+ORG	190	the society	c	generic "the Society"
+ORG	191	agra ouvah estates co., ltd.	a	
+ORG	192	auerbach factory	a	
+ORG	193	davidson & co.	a	
+ORG	194	imperial tea estates co., ltd.	a	
+ORG	195	nuwara eliya tea estate co., ltd.	a	
+ORG	196	peradeniya	b	variant of "royal botanic gardens, peradeniya"
+ORG	197	rubber research board	a	
+ORG	198	st. heliers tea co., ltd.	a	
+ORG	199	bengal government	b	variant of "government of bengal"
+ORG	200	botanic gardens, singapore	a	
+ESTATE	1	abbotsford	a	
+ESTATE	2	mariawatte	a	
+ESTATE	3	rookwood	a	
+ESTATE	4	bandirippuwa estate	a	
+ESTATE	5	culloden	a	
+ESTATE	6	spring valley	a	
+ESTATE	7	hakgala gardens	e	botanic garden (ORG/PLACE), not an estate
+ESTATE	8	dunedin	a	
+ESTATE	9	nivitigalakele	a	
+ESTATE	10	dartonfield	a	
+ESTATE	11	st. coombs estate	a	
+ESTATE	12	blackstone	a	
+ESTATE	13	loolecondera	a	
+ESTATE	14	culloden estate	b	variant of "culloden"
+ESTATE	15	hope	a	estate name identical to a place name
+ESTATE	16	windsor forest	a	estate name identical to a place name
+ESTATE	17	fruit hill	a	
+ESTATE	18	kintyre	a	
+ESTATE	19	norwood	a	estate name identical to a place name
+ESTATE	20	ratmalagara estate	a	
+ESTATE	21	waverley	a	
+ESTATE	22	yarrow estate	a	
+ESTATE	23	st. leonards	a	
+ESTATE	24	venture	a	estate name identical to a place name
+ESTATE	25	arapolakande	a	
+ESTATE	26	mariawatte estate	b	variant of "mariawatte"
+ESTATE	27	new peradeniya	a	
+ESTATE	28	rothschild	a	estate name identical to a place name
+ESTATE	29	strathellie	a	
+ESTATE	30	thotulagalla	a	
+ESTATE	31	calsay	a	
+ESTATE	32	arnhall	a	
+ESTATE	33	naseby	a	
+ESTATE	34	yattawatte	a	
+ESTATE	35	elbedde	a	
+ESTATE	36	elston	a	
+ESTATE	37	peradeniya gardens	e	botanic garden (ORG), not an estate
+ESTATE	38	rappahannock	a	
+ESTATE	39	gallebodde	a	
+ESTATE	40	laxapana	a	
+ESTATE	41	great western	a	
+ESTATE	42	river estate	a	Trinidad cacao estate
+ESTATE	43	wallaha	a	
+ESTATE	44	carolina	a	
+ESTATE	45	delta	a	estate name identical to a place name
+ESTATE	46	middleton	a	
+ESTATE	47	abbotsford estate	b	variant of "abbotsford"
+ESTATE	48	ampittiakande	a	
+ESTATE	49	glasgow	a	estate name identical to a place name
+ESTATE	50	rangbodde	a	
+ESTATE	51	sembawatte	a	
+ESTATE	52	sunnycroft	a	
+ESTATE	53	agra ouvah	a	
+ESTATE	54	castleton gardens	e	botanic garden, Jamaica
+ESTATE	55	hakgala garden	e	botanic garden; variant of hakgala gardens
+ESTATE	56	mocha	a	estate name identical to a place name
+ESTATE	57	pedro	a	estate name identical to a place name
+ESTATE	58	tallagalla	a	
+ESTATE	59	aberdeen	a	estate name identical to a place name
+ESTATE	60	drayton	a	
+ESTATE	61	ellakande	a	
+ESTATE	62	galaha	a	
+ESTATE	63	heatherley	a	
+ESTATE	64	henaratgoda gardens	e	government garden (ORG)
+ESTATE	65	kirkoswald	a	
+ESTATE	66	new peradeniya estate	b	variant of "new peradeniya"
+ESTATE	67	sandringham	a	
+ESTATE	68	st. andrew's	a	
+ESTATE	69	warwick	a	
+ESTATE	70	annfield	a	
+ESTATE	71	blackwater	a	
+ESTATE	72	castlereagh	a	
+ESTATE	73	craigie lea	a	
+ESTATE	74	dessford	a	
+ESTATE	75	great valley	a	
+ESTATE	76	hopewell	a	
+ESTATE	77	kandaloya	a	
+ESTATE	78	mount vernon	a	
+ESTATE	79	rillamulle	a	
+ESTATE	80	theberton	a	
+ESTATE	81	torwood	a	
+ESTATE	82	belgravia	a	
+ESTATE	83	blair athol	a	
+ESTATE	84	brownlow	a	
+ESTATE	85	chapelton	a	
+ESTATE	86	fairfield	a	
+ESTATE	87	fordyce	a	
+ESTATE	88	henfold	a	
+ESTATE	89	kelburne	a	
+ESTATE	90	kumaradola	a	
+ESTATE	91	lauderdale	a	
+ESTATE	92	nahavilla	a	
+ESTATE	93	new forest	a	
+ESTATE	94	peradeniya	e	place/botanic garden; roles mixed estate|garden
+ESTATE	95	sogama	a	
+ESTATE	96	tillyrie	a	
+ESTATE	97	chesterford	a	
+ESTATE	98	darrawella	a	
+ESTATE	99	dartonfield estate	b	variant of "dartonfield"
+ESTATE	100	diyagama	a	
+ESTATE	101	dunedin estate	b	variant of "dunedin"
+ESTATE	102	dunkeld	a	
+ESTATE	103	henaratgoda garden	e	government garden; variant of henaratgoda gardens
+ESTATE	104	holmwood	a	
+ESTATE	105	ingoya	a	
+ESTATE	106	kabragalla	a	
+ESTATE	107	loolecondura	b	variant of "loolecondera"
+ESTATE	108	portwood	a	
+ESTATE	109	ragalla	a	
+ESTATE	110	rickarton	a	
+ESTATE	111	st. clair	a	
+ESTATE	112	ury	a	
+ESTATE	113	waterloo estate	a	
+ESTATE	114	blackwater estate	b	variant of "blackwater"
+ESTATE	115	condegalla	a	
+ESTATE	116	gampaha	a	estate name identical to a place name
+ESTATE	117	goatfell	a	
+ESTATE	118	gonakelle	a	
+ESTATE	119	kenilworth estate	a	
+ESTATE	120	raxawa	a	
+ESTATE	121	sorana	a	
+ESTATE	122	springwood	a	
+ESTATE	123	st. coombs	b	variant of "st. coombs estate"
+ESTATE	124	stagbrook	a	
+ESTATE	125	warriapolla	a	
+ESTATE	126	yoxford	a	
+ESTATE	127	agar's land	a	
+ESTATE	128	caledonia	a	estate name identical to a place name
+ESTATE	129	carney estate	a	
+ESTATE	130	cinnamon gardens	e	Colombo district (PLACE)
+ESTATE	131	court lodge	a	
+ESTATE	132	ederapolla	a	
+ESTATE	133	edinburgh	a	estate name identical to a place name
+ESTATE	134	glassaugh	a	
+ESTATE	135	hapugastenne	a	
+ESTATE	136	harrington	a	
+ESTATE	137	kintyre estate	b	variant of "kintyre"
+ESTATE	138	maha eliya	a	
+ESTATE	139	queensland	a	estate name identical to a place name
+ESTATE	140	riverside	a	
+ESTATE	141	rutland	a	
+ESTATE	142	saidapet farm	e	government experimental farm, Madras (ORG)
+ESTATE	143	sarnia estate	a	
+ESTATE	144	st. john del rey	a	
+ESTATE	145	vogan	a	
+ESTATE	146	alnwick	a	
+ESTATE	147	braemore	a	
+ESTATE	148	campion	a	
+ESTATE	149	delmar	a	
+ESTATE	150	dewalakande	a	
+ESTATE	151	doranakande	a	
+ESTATE	152	hauteville	a	
+ESTATE	153	labookellie	a	
+ESTATE	154	logie	a	
+ESTATE	155	nahalma	a	
+ESTATE	156	nikakotua	a	
+ESTATE	157	radella	a	
+ESTATE	158	st. john's	a	
+ESTATE	159	tangakelly	a	
+ESTATE	160	alpha estate	a	
+ESTATE	161	alton	a	
+ESTATE	162	badulla garden	e	government garden (ORG)
+ESTATE	163	balmoral	a	
+ESTATE	164	barnagalla	a	
+ESTATE	165	bearwell	a	
+ESTATE	166	beaumont	a	
+ESTATE	167	blackstone estate	b	variant of "blackstone"
+ESTATE	168	bogahawatte	a	
+ESTATE	169	clydesdale	a	
+ESTATE	170	doombagastalawa	a	
+ESTATE	171	dromoland	a	
+ESTATE	172	dunsinane	a	
+ESTATE	173	fetteresso	a	
+ESTATE	174	franklands	a	
+ESTATE	175	franklands estate	b	variant of "franklands"
+ESTATE	176	glen alpin	a	
+ESTATE	177	glenalla	a	
+ESTATE	178	glenloch	a	
+ESTATE	179	glenorchy	a	
+ESTATE	180	glentilt	a	
+ESTATE	181	halwatura	a	
+ESTATE	182	havilland	a	
+ESTATE	183	holmwood estate	b	variant of "holmwood"
+ESTATE	184	hooker estate	a	
+ESTATE	185	hope estate	b	variant of "hope"
+ESTATE	186	invery	a	
+ESTATE	187	kandanuwara estate	a	
+ESTATE	188	kelani	a	estate name identical to a place name
+ESTATE	189	lauderdale estate	b	variant of "lauderdale"; mixes Lauderdale (Ceylon) with Lauderdale, Mlanje (Nyasaland)
+ESTATE	190	moray	a	
+ESTATE	191	palmerston	a	
+ESTATE	192	peradeniya estate	a	
+ESTATE	193	poengalla	a	
+ESTATE	194	scrubs	a	
+ESTATE	195	stellenberg	a	
+ESTATE	196	strathdon	a	
+ESTATE	197	wattegodde	a	
+ESTATE	198	yarrow	b	variant of "yarrow estate"
+ESTATE	199	avoca	a	
+ESTATE	200	bridwell	a	
+PUBLICATION	1	the tropical agriculturist	a	
+PUBLICATION	2	tropical agriculturist	b	variant of "the tropical agriculturist"
+PUBLICATION	3	gardeners' chronicle	a	
+PUBLICATION	4	chemist and druggist	a	
+PUBLICATION	5	ceylon observer	a	
+PUBLICATION	6	madras mail	a	
+PUBLICATION	7	indian agriculturist	a	
+PUBLICATION	8	observer	b	variant of "ceylon observer"; Ceylon Observer mostly; also London/Adelaide/S. India Observer
+PUBLICATION	9	pioneer	a	
+PUBLICATION	10	straits times	a	
+PUBLICATION	11	h. and c. mail	a	
+PUBLICATION	12	indian planters' gazette	a	
+PUBLICATION	13	pharmaceutical journal	a	
+PUBLICATION	14	queensland agricultural journal	a	
+PUBLICATION	15	times	b	variant of "london times"; London Times or Times of Ceylon
+PUBLICATION	16	kew bulletin	a	
+PUBLICATION	17	london times	a	
+PUBLICATION	18	american grocer	a	
+PUBLICATION	19	agricultural news	a	
+PUBLICATION	20	journal of the society of arts	a	
+PUBLICATION	21	nature	a	
+PUBLICATION	22	m. mail	b	variant of "madras mail"; Madras Mail or Malay Mail
+PUBLICATION	23	h. & c. mail	b	variant of "h. and c. mail"
+PUBLICATION	24	madras times	a	
+PUBLICATION	25	home and colonial mail	b	variant of "h. and c. mail"
+PUBLICATION	26	indian forester	a	
+PUBLICATION	27	australasian	a	
+PUBLICATION	28	field	a	
+PUBLICATION	29	the times	b	variant of "london times"
+PUBLICATION	30	rio news	a	
+PUBLICATION	31	indian tea gazette	a	
+PUBLICATION	32	grocer	a	
+PUBLICATION	33	india rubber world	a	
+PUBLICATION	34	local times	b	variant of "times of ceylon"
+PUBLICATION	35	colonies and india	a	
+PUBLICATION	36	agricultural journal of india	a	
+PUBLICATION	37	globe	a	
+PUBLICATION	38	bulletin of the imperial institute	a	
+PUBLICATION	39	india rubber journal	a	
+PUBLICATION	40	indian engineer	a	
+PUBLICATION	41	queenslander	a	
+PUBLICATION	42	planting opinion	a	
+PUBLICATION	43	journal of horticulture	a	
+PUBLICATION	44	gardener's chronicle	b	variant of "gardeners' chronicle"
+PUBLICATION	45	journal of the board of agriculture	a	
+PUBLICATION	46	west indian bulletin	a	
+PUBLICATION	47	l. & c. express	a	
+PUBLICATION	48	south of india observer	a	
+PUBLICATION	49	tropical agriculture	a	Trinidad journal and Nicholls' book under one key
+PUBLICATION	50	agricultural magazine	a	
+PUBLICATION	51	fiji times	a	
+PUBLICATION	52	l. and c. express	b	variant of "l. & c. express"
+PUBLICATION	53	times of ceylon	a	
+PUBLICATION	54	gazette	b	variant of "government gazette"; Ceylon Government Gazette mostly
+PUBLICATION	55	tropical life	a	
+PUBLICATION	56	philippine agricultural review	a	
+PUBLICATION	57	times of india	a	
+PUBLICATION	58	agricultural gazette	b	variant of "agricultural gazette of new south wales"; NSW mostly
+PUBLICATION	59	financial news	a	
+PUBLICATION	60	examiner	a	Ceylon Examiner (local)
+PUBLICATION	61	planters' gazette	b	variant of "indian planters' gazette"
+PUBLICATION	62	journal of the jamaica agricultural society	a	
+PUBLICATION	63	monthly bulletin	c	generic title, publisher unknown from key
+PUBLICATION	64	board of trade journal	a	
+PUBLICATION	65	indian trade journal	a	
+PUBLICATION	66	natal mercury	a	
+PUBLICATION	67	agricultural gazette of new south wales	a	
+PUBLICATION	68	financial times	a	
+PUBLICATION	69	british and colonial druggist	a	
+PUBLICATION	70	englishman	a	
+PUBLICATION	71	produce markets' review	a	
+PUBLICATION	72	government gazette	a	
+PUBLICATION	73	agricultural ledger	a	
+PUBLICATION	74	indian gardening and planting	a	
+PUBLICATION	75	british north borneo herald	a	
+PUBLICATION	76	british trade journal	a	
+PUBLICATION	77	scientific american	a	
+PUBLICATION	78	public opinion	a	
+PUBLICATION	79	daily chronicle	a	
+PUBLICATION	80	american agriculturist	a	
+PUBLICATION	81	flora of british india	a	
+PUBLICATION	82	journal d'agriculture tropicale	a	
+PUBLICATION	83	sydney mail	a	
+PUBLICATION	84	oil, paint and drug reporter	a	
+PUBLICATION	85	singapore free press	a	
+PUBLICATION	86	ceylon times	a	
+PUBLICATION	87	india-rubber journal	b	variant of "india rubber journal"
+PUBLICATION	88	imperial institute bulletin	b	variant of "bulletin of the imperial institute"
+PUBLICATION	89	fortnightly price current	a	
+PUBLICATION	90	spectator	a	
+PUBLICATION	91	journal of forestry	a	
+PUBLICATION	92	planter and farmer	a	
+PUBLICATION	93	planters' chronicle	a	
+PUBLICATION	94	madras standard	a	
+PUBLICATION	95	japan weekly mail	a	
+PUBLICATION	96	standard	a	London Standard
+PUBLICATION	97	malayan agricultural journal	a	
+PUBLICATION	98	calcutta englishman	b	variant of "englishman"
+PUBLICATION	99	overland observer	a	
+PUBLICATION	100	the planter	a	
+PUBLICATION	101	adelaide observer	a	
+PUBLICATION	102	botanical magazine	a	
+PUBLICATION	103	journal of agricultural science	a	
+PUBLICATION	104	london and china express	b	variant of "l. & c. express"
+PUBLICATION	105	british medical journal	a	
+PUBLICATION	106	trinidad bulletin	a	
+PUBLICATION	107	indian gardener	a	
+PUBLICATION	108	bulletin of the international institute of agriculture	a	
+PUBLICATION	109	malay mail	a	
+PUBLICATION	110	daily telegraph	a	
+PUBLICATION	111	the englishman	b	variant of "englishman"
+PUBLICATION	112	philippine journal of science	a	
+PUBLICATION	113	rural californian	a	
+PUBLICATION	114	the field	b	variant of "field"
+PUBLICATION	115	british pharmacopoeia	a	
+PUBLICATION	116	treasury of botany	a	
+PUBLICATION	117	rangoon gazette	a	
+PUBLICATION	118	science gossip	a	
+PUBLICATION	119	straits agricultural bulletin	a	
+PUBLICATION	120	the india rubber world	b	variant of "india rubber world"
+PUBLICATION	121	handbook and directory	b	variant of "ceylon handbook and directory"
+PUBLICATION	122	indian and eastern engineer	a	
+PUBLICATION	123	melbourne leader	a	
+PUBLICATION	124	archief voor de rubbercultuur	a	
+PUBLICATION	125	capital	a	
+PUBLICATION	126	gardeners' monthly	a	
+PUBLICATION	127	monthly prices current	a	
+PUBLICATION	128	morning post	a	
+PUBLICATION	129	southern planter	a	
+PUBLICATION	130	agricultural journal	a	Cape Agricultural Journal mostly
+PUBLICATION	131	bombay gazette	a	
+PUBLICATION	132	farmers' journal	a	
+PUBLICATION	133	indigo planters' gazette	a	
+PUBLICATION	134	investors' guardian	a	
+PUBLICATION	135	daily news	a	
+PUBLICATION	136	journal of botany	a	
+PUBLICATION	137	lancet	a	
+PUBLICATION	138	pall mall gazette	a	
+PUBLICATION	139	s. f. press	b	variant of "singapore free press"
+PUBLICATION	140	experiment station record	a	
+PUBLICATION	141	garden and forest	a	
+PUBLICATION	142	produce markets review	b	variant of "produce markets' review"
+PUBLICATION	143	european mail	a	
+PUBLICATION	144	jamaica bulletin	a	
+PUBLICATION	145	planters' monthly	a	
+PUBLICATION	146	ceylon independent	a	
+PUBLICATION	147	daily mail	a	
+PUBLICATION	148	flora of ceylon	a	
+PUBLICATION	149	indian planting and gardening	b	variant of "indian gardening and planting"
+PUBLICATION	150	bradstreet's	a	
+PUBLICATION	151	bulletin of miscellaneous information	b	variant of "kew bulletin"
+PUBLICATION	152	the agricultural magazine, colombo	b	variant of "agricultural magazine"
+PUBLICATION	153	louisiana planter and sugar manufacturer	a	
+PUBLICATION	154	ceylon handbook and directory	a	
+PUBLICATION	155	china mail	a	
+PUBLICATION	156	indian daily news	a	
+PUBLICATION	157	journal of agricultural research	a	
+PUBLICATION	158	leader	a	Melbourne Leader?
+PUBLICATION	159	planter	b	variant of "the planter"
+PUBLICATION	160	the grocer	b	variant of "grocer"
+PUBLICATION	161	american cultivator	a	
+PUBLICATION	162	ceylon advertiser	a	
+PUBLICATION	163	the gardeners' chronicle	b	variant of "gardeners' chronicle"
+PUBLICATION	164	argus	b	variant of "melbourne argus"
+PUBLICATION	165	florida agriculturist	a	
+PUBLICATION	166	independent	b	variant of "ceylon independent"
+PUBLICATION	167	java bode	a	
+PUBLICATION	168	indian scientific agriculturist	a	
+PUBLICATION	169	pinang gazette	a	
+PUBLICATION	170	asian	a	
+PUBLICATION	171	m. times	b	variant of "madras times"
+PUBLICATION	172	melbourne argus	a	
+PUBLICATION	173	nilgiri news	a	
+PUBLICATION	174	friend of india	a	
+PUBLICATION	175	indian agriculture	a	abbrev. "Ind. Agric." collides with Indian Agriculturist
+PUBLICATION	176	magazine of the school of agriculture	a	
+PUBLICATION	177	statesman	a	
+PUBLICATION	178	h and c mail	b	variant of "h. and c. mail"
+PUBLICATION	179	indian mercury	a	
+PUBLICATION	180	north borneo herald	b	variant of "british north borneo herald"
+PUBLICATION	181	the lancet	b	variant of "lancet"
+PUBLICATION	182	comptes rendus	a	
+PUBLICATION	183	overland	b	variant of "overland observer"; Overland Observer / Overland Mail
+PUBLICATION	184	annals of botany	a	
+PUBLICATION	185	bulletin du jardin colonial	a	
+PUBLICATION	186	encyclopædia britannica	a	
+PUBLICATION	187	foochow echo	a	
+PUBLICATION	188	o. mail	b	variant of "overland mail"
+PUBLICATION	189	south american journal	a	
+PUBLICATION	190	indian museum notes	a	
+PUBLICATION	191	journal of the royal society of arts	b	variant of "journal of the society of arts"
+PUBLICATION	192	london price current	a	
+PUBLICATION	193	overland mail	a	
+PUBLICATION	194	perak government gazette	a	
+PUBLICATION	195	aberdeen free press	a	
+PUBLICATION	196	bulletin	c	generic "Bulletin"
+PUBLICATION	197	chamber of commerce journal	a	
+PUBLICATION	198	gleanings in bee culture	a	
+PUBLICATION	199	grocers' journal	a	
+PUBLICATION	200	indian gardening	b	variant of "indian gardening and planting"
+EVENT	1	chicago exhibition	a	
+EVENT	2	paris exhibition	a	mixes the 1878, 1889 and 1900 exhibitions
+EVENT	3	colonial and indian exhibition	a	
+EVENT	4	melbourne exhibition	a	1880-81 and 1888 exhibitions
+EVENT	5	exhibition	c	generic, not one event
+EVENT	6	calcutta exhibition	a	
+EVENT	7	rubber exhibition	a	London 1908/1911/1914 and Colombo 1906 rubber exhibitions
+EVENT	8	world's fair	b	variant of "chicago exhibition"; Chicago 1893 mostly; St Louis 1904 too
+EVENT	9	agricultural conference	c	generic, not one event
+EVENT	10	american civil war	a	
+EVENT	11	yala season	e	cultivation season, not an event
+EVENT	12	maha season	e	cultivation season, not an event
+EVENT	13	all-ceylon exhibition	a	
+EVENT	14	indian and colonial exhibition	b	variant of "colonial and indian exhibition"
+EVENT	15	agri-horticultural show	a	several towns' shows
+EVENT	16	colonial exhibition	b	variant of "colonial and indian exhibition"; 1886 Colonial and Indian mostly
+EVENT	17	world war i	a	
+EVENT	18	glasgow exhibition	a	
+EVENT	19	crimean war	a	
+EVENT	20	amsterdam exhibition	a	
+EVENT	21	ceylon rubber exhibition	a	
+EVENT	22	maha	e	cultivation season, not an event
+EVENT	23	merchandise marks act	e	legislation/agreement, not an event
+EVENT	24	world's columbian exposition	b	variant of "chicago exhibition"
+EVENT	25	agricultural show	c	generic, not one event
+EVENT	26	health exhibition	a	
+EVENT	27	nuwara eliya show	a	
+EVENT	28	yala	e	cultivation season, not an event
+EVENT	29	british pharmaceutical conference	a	
+EVENT	30	chicago exposition	b	variant of "chicago exhibition"
+EVENT	31	international exhibition	c	generic, not one event
+EVENT	32	panama canal	e	structure/place
+EVENT	33	melbourne international exhibition	b	variant of "melbourne exhibition"
+EVENT	34	civil war	b	variant of "american civil war"; American Civil War mostly
+EVENT	35	south african war	a	
+EVENT	36	st. louis exhibition	a	
+EVENT	37	ceylon court	e	exhibition building
+EVENT	38	st. louis exposition	b	variant of "st. louis exhibition"
+EVENT	39	world's columbian exhibition	b	variant of "chicago exhibition"
+EVENT	40	international rubber exhibition	a	
+EVENT	41	mckinley tariff	e	legislation/agreement, not an event
+EVENT	42	challenger expedition	a	
+EVENT	43	coconut research scheme	e	ORG
+EVENT	44	colonial and indian exhibition of 1886	b	variant of "colonial and indian exhibition"
+EVENT	45	inventions and designs act of 1888	e	legislation/agreement, not an event
+EVENT	46	jamaica exhibition	a	
+EVENT	47	karachi scheme	e	irrigation/settlement project
+EVENT	48	london exhibition	a	
+EVENT	49	russo-japanese war	a	
+EVENT	50	tea act	e	legislation/agreement, not an event
+EVENT	51	cantor lectures	a	
+EVENT	52	melbourne exhibition of 1880-81	b	variant of "melbourne exhibition"
+EVENT	53	north-east monsoon	e	weather season
+EVENT	54	south-west monsoon	e	weather season
+EVENT	55	spanish-american war	a	
+EVENT	56	act v of 1888	e	legislation/agreement, not an event
+EVENT	57	exposition	c	generic, not one event
+EVENT	58	food and drugs act	e	legislation/agreement, not an event
+EVENT	59	fruit and flower show	a	
+EVENT	60	great exhibition	a	
+EVENT	61	great war	b	variant of "world war i"
+EVENT	62	nuwara eliya agri-horticultural show	b	variant of "nuwara eliya show"
+EVENT	63	paris exhibition of 1900	a	
+EVENT	64	rubber conference	b	variant of "international rubber conference"
+EVENT	65	agricultural products (regulation) ordinance	e	legislation/agreement, not an event
+EVENT	66	battle of waterloo	a	
+EVENT	67	brussels exhibition	a	
+EVENT	68	fourth pacific science congress	a	
+EVENT	69	great exhibition of 1851	b	variant of "great exhibition"
+EVENT	70	international health exhibition	b	variant of "health exhibition"
+EVENT	71	mendel's law	e	scientific law
+EVENT	72	new zealand and south seas exhibition	a	
+EVENT	73	paris exhibition of 1878	a	
+EVENT	74	perahera	a	
+EVENT	75	plant protection ordinance	e	legislation/agreement, not an event
+EVENT	76	antwerp exhibition	a	
+EVENT	77	atlanta exhibition	a	
+EVENT	78	boston tea party	a	
+EVENT	79	conference	c	generic, not one event
+EVENT	80	coolgardie exhibition	a	
+EVENT	81	exhibition of 1851	b	variant of "great exhibition"
+EVENT	82	franco-chinese war	a	
+EVENT	83	indian famine	a	
+EVENT	84	indian science congress	a	
+EVENT	85	international congress of tropical agriculture	a	
+EVENT	86	international forestry exhibition	a	
+EVENT	87	international horticultural exhibition	a	
+EVENT	88	international rubber conference	a	
+EVENT	89	kandy show	a	
+EVENT	90	liverpool exhibition	a	
+EVENT	91	malaria	e	disease
+EVENT	92	panama disease	e	disease
+EVENT	93	rinderpest	e	disease
+EVENT	94	sale of food and drugs act	e	legislation/agreement, not an event
+EVENT	95	west indian agricultural conference	a	
+EVENT	96	all-ceylon exhibition, 1912	b	variant of "all-ceylon exhibition"
+EVENT	97	chicago world's fair	b	variant of "chicago exhibition"
+EVENT	98	cinchona agreement	e	legislation/agreement, not an event
+EVENT	99	colombo agri-horticultural show	a	
+EVENT	100	colonial and indian exhibition, 1886	b	variant of "colonial and indian exhibition"
+EVENT	101	columbian exposition	b	variant of "chicago exhibition"
+EVENT	102	cotton states and international exhibition	b	variant of "atlanta exhibition"
+EVENT	103	food show	a	
+EVENT	104	franco-prussian war	a	
+EVENT	105	imperial agricultural research conference	a	
+EVENT	106	indo-colonial exhibition	b	variant of "colonial and indian exhibition"
+EVENT	107	international rubber and allied trades exhibition	b	variant of "international rubber exhibition"
+EVENT	108	matale show	a	
+EVENT	109	new avenue rubber manurial experiment	e	field experiment
+EVENT	110	paris exposition	b	variant of "paris exhibition"
+EVENT	111	pest act	e	legislation/agreement, not an event
+EVENT	112	pests ordinance	e	legislation/agreement, not an event
+EVENT	113	rubber congress	a	
+EVENT	114	rubber research scheme	e	ORG
+EVENT	115	tivali	a	
+EVENT	116	adulteration act	e	legislation/agreement, not an event
+EVENT	117	agri-horticultural shows	c	generic, not one event
+EVENT	118	beri-beri	e	disease
+EVENT	119	british empire exhibition	a	
+EVENT	120	centennial exhibition	a	
+EVENT	121	chicago exhibition of 1893	b	variant of "chicago exhibition"
+EVENT	122	cholera	e	disease
+EVENT	123	coffee leaf disease	e	disease
+EVENT	124	conference of empire meteorologists, 1929	a	
+EVENT	125	delhi durbar	a	
+EVENT	126	foot-and-mouth disease	e	disease
+EVENT	127	franco-british exhibition	a	
+EVENT	128	franco-german war	b	variant of "franco-prussian war"
+EVENT	129	glasgow international exhibition	b	variant of "glasgow exhibition"
+EVENT	130	grahamstown exhibition	a	
+EVENT	131	imperial botanical conference	a	
+EVENT	132	imperial mycological conference	a	
+EVENT	133	indian mutiny	a	
+EVENT	134	maha crop	e	cultivation season, not an event
+EVENT	135	melbourne centennial exhibition	a	
+EVENT	136	melbourne exhibition of 1881	b	variant of "melbourne exhibition"
+EVENT	137	murrain	e	disease
+EVENT	138	new orleans exhibition	a	
+EVENT	139	new orleans exposition	b	variant of "new orleans exhibition"
+EVENT	140	pest ordinance	e	legislation/agreement, not an event
+EVENT	141	pharmaceutical conference	b	variant of "british pharmaceutical conference"
+EVENT	142	rajakariya	e	labour system
+EVENT	143	rothamsted experiments	e	experiments (generic)
+EVENT	144	russian war	b	variant of "crimean war"
+EVENT	145	sale of food and drugs act, 1875	e	legislation/agreement, not an event
+EVENT	146	schneider challenge cup competition	a	
+EVENT	147	second imperial mycological conference	a	
+EVENT	148	the exhibition	c	generic, not one event
+EVENT	149	third international congress of tropical agriculture	a	
+EVENT	150	vegetable garden competition	a	
+EVENT	151	world war	b	variant of "world war i"
+EVENT	152	world's exposition at chicago in 1893	b	variant of "chicago exhibition"
+EVENT	153	world's fair at chicago	b	variant of "chicago exhibition"
+EVENT	154	yala crop	e	cultivation season, not an event
+EVENT	155	acheen war	a	
+EVENT	156	afghan war	a	
+EVENT	157	agricultural conference at coimbatore	a	
+EVENT	158	agricultural conference at peradeniya	a	
+EVENT	159	agricultural shows	c	generic, not one event
+EVENT	160	all-india agricultural conference	a	
+EVENT	161	assam labour bill	e	legislation/agreement, not an event
+EVENT	162	atlanta exposition	b	variant of "atlanta exhibition"
+EVENT	163	breach of contract act	e	legislation/agreement, not an event
+EVENT	164	brown bast	e	disease
+EVENT	165	brussels convention	e	legislation/agreement, not an event
+EVENT	166	brussels international exhibition 1888	b	variant of "brussels exhibition"
+EVENT	167	burmese war	a	
+EVENT	168	calcutta international exhibition	b	variant of "calcutta exhibition"
+EVENT	169	ceylon exhibition	b	variant of "ceylon rubber exhibition"
+EVENT	170	chicago fair	b	variant of "chicago exhibition"
+EVENT	171	china-japan war	a	
+EVENT	172	coconut trees preservation enactment	e	legislation/agreement, not an event
+EVENT	173	colinderies	b	variant of "colonial and indian exhibition"
+EVENT	174	colombo exhibition	a	
+EVENT	175	colombo show	b	variant of "colombo agri-horticultural show"
+EVENT	176	colonial and indian exhibition at south kensington	b	variant of "colonial and indian exhibition"
+EVENT	177	congress of tropical agriculture	b	variant of "international congress of tropical agriculture"
+EVENT	178	empire of india exhibition	a	
+EVENT	179	european war	b	variant of "world war i"
+EVENT	180	exhibition of 1889	a	
+EVENT	181	federation	a	
+EVENT	182	fertilisers and feeding stuffs act	e	legislation/agreement, not an event
+EVENT	183	fourth international grassland congress	a	
+EVENT	184	french exhibition	a	
+EVENT	185	henaratgoda show	a	
+EVENT	186	imperial agricultural conference	a	
+EVENT	187	indian and colonial exhibition of 1886	b	variant of "colonial and indian exhibition"
+EVENT	188	internal purchase scheme	e	government scheme
+EVENT	189	jubilee	a	1887 or 1897
+EVENT	190	kandy agri-horticultural show	b	variant of "kandy show"
+EVENT	191	kandy agricultural show	b	variant of "kandy show"
+EVENT	192	louisiana purchase exposition	b	variant of "st. louis exhibition"
+EVENT	193	matale exhibition	b	variant of "matale show"
+EVENT	194	melbourne international exhibition of 1880-81	b	variant of "melbourne exhibition"
+EVENT	195	merchandize marks act	e	legislation/agreement, not an event
+EVENT	196	nijni novgorod fair	a	
+EVENT	197	paris exposition of 1900	b	variant of "paris exhibition of 1900"
+EVENT	198	payne bill	e	legislation/agreement, not an event
+EVENT	199	philadelphia exhibition	a	
+EVENT	200	polytechnic exhibition	a	
