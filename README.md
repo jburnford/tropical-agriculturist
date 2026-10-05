@@ -13,7 +13,7 @@ summarised and side-by-side tables) that produced `output_v6` from the first run
 
 **Browse the articles:** `viewer/index.html` — by year and issue, every article with its text and the
 archive.org page images beside it, plus a random-sample button for spot checks. Online at
-<https://jburnford.github.io/tropical-agriculturist/viewer/> (GitHub Pages), or locally:
+<https://jimclifford.ca/tropical-agriculturist/viewer/> (GitHub Pages), or locally:
 
 ```bash
 python3 -m http.server 8000
