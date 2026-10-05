@@ -1,0 +1,152 @@
+--- output_v5/vol006_tropicalagricult18861887colo/vol006_tropicalagricult18861887colo/vol006_tropicalagricult18861887colo_metadata.json	2026-10-03 08:30:31.015572034 -0600
++++ output_v6/vol006_tropicalagricult18861887colo/vol006_tropicalagricult18861887colo/vol006_tropicalagricult18861887colo_metadata.json	2026-10-04 12:07:21.065047677 -0600
+@@ -1089,12 +1089,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7181,
++      "token_count": 8345,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:45+46+47"
++        "source": "vsplitV/V_001:158+159+160+161+162"
+       }
+     },
+     {
+@@ -1957,12 +1957,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 8094,
++      "token_count": 9154,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:18+19+20"
++        "source": "vsplitV/V_001:113+114+115+116+117"
+       }
+     },
+     {
+@@ -2825,12 +2825,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7823,
++      "token_count": 8689,
+       "num_chunks": 10,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:21+22+23"
++        "source": "vsplitV/V_001:118+119+120+121+122"
+       }
+     },
+     {
+@@ -3693,12 +3693,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7841,
++      "token_count": 8331,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:24+25+26"
++        "source": "vsplitV/V_001:123+124+125+126+127"
+       }
+     },
+     {
+@@ -4561,12 +4561,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7554,
++      "token_count": 8105,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:27+28+29"
++        "source": "vsplitV/V_001:128+129+130+131+132"
+       }
+     },
+     {
+@@ -5429,12 +5429,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7590,
++      "token_count": 8293,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:30+31+32"
++        "source": "vsplitV/V_001:133+134+135+136+137"
+       }
+     },
+     {
+@@ -6297,12 +6297,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7564,
++      "token_count": 8095,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_002:2+3"
++        "source": "vsplitV/V_001:138+139+140+141+142"
+       }
+     },
+     {
+@@ -7069,12 +7069,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7584,
++      "token_count": 8662,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:36+37+38"
++        "source": "vsplitV/V_001:143+144+145+146+147"
+       }
+     },
+     {
+@@ -8801,12 +8801,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 8233,
++      "token_count": 8124,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:39+40+41"
++        "source": "vsplitV/V_001:148+149+150+151+152"
+       }
+     },
+     {
+@@ -9669,12 +9669,12 @@
+         1194,
+         1793
+       ],
+-      "token_count": 7953,
++      "token_count": 8152,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:42+43+44"
++        "source": "vsplitV/V_001:153+154+155+156+157"
+       }
+     },
+     {

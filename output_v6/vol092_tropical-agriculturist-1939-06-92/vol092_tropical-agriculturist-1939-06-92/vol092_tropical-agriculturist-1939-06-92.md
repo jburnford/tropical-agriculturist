@@ -1,0 +1,4264 @@
+The  
+Tropical Agriculturist
+
+June, 1939
+
+---
+
+EDITORIAL
+
+---
+
+CINCHONA
+
+---
+
+FROM the first introduction of the cinchona tree to the East, the British and the Dutch authorities pursued
+
+*CORRIGENDUM*
+
+The total annual consumption of quinine in Ceylon is approximately 29,000 lb. and not 17,000 lb. The other figures in this article derived from the statement of consumption should be similarly amended.
+
+Editor, *The Tropical Agriculturist*.
+
+the seed of the new variety *Ledgeriana*, named after Clements Ledger who first brought it to Europe. Thus it came about that, within 25 years of the introduction of the first cinchona plant, Java was producing a bark with a quinine content of 11 per cent. and above, while the average in the Ceylon plantations was less than 2 per cent. : and when the great slump of 1882 came only the Dutch industry survived.
+
+The plantations in Java were able to meet the whole of the world's demand for quinine, and there was no reason to expect that that source of supply would dry up, and the British Empire's dependence on Java for her requirements became a complacent habit until there was a threat of a second catastrophe during the period 1909-1912. The price of bark fell to a unit rate of 3 cents and this was quite unremunerative especially at a time when other forms of tropical agriculture had reached the peak
+
+1------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+![A blank page with a light beige or cream color, showing minor blemishes and faint smudges.](5811e7b08cad96dcc0c9001fe1feda97_1_img.webp)This image shows a blank page with a light beige or cream-colored background. The surface has a subtle texture and contains several small, faint smudges and blemishes, particularly a few dark specks and a thin, faint line near the top center. There is no text or other content on the page.
+
+
+2------------------------------------------------
+
+The  
+Tropical Agriculturist
+
+June, 1939
+
+---
+
+EDITORIAL
+
+---
+
+CINCHONA
+
+---
+
+FROM the first introduction of the cinchona tree to the East, the British and the Dutch authorities pursued two divergent policies. The chief aim of the British authorities was not the isolation of any of the alkaloids present in the cinchona bark all of which were known to be febrifugal nor the standardization of a refined product containing some or all of them in fixed proportions for the purpose of commerce, but the provision of a cheap and abundant supply of the bark containing these alkaloids so that a reasonably efficient febrifuge might be brought within the reach of all classes of the people. The Dutch, on the other hand, never lost sight of the fact established as early as 1820 that quinine was the principal alkaloid derivative from the cinchona bark and that it might become an article of commerce in the world market. They concentrated all their efforts on the establishment of a strain which yielded a high percentage of quinine. These efforts were supplemented by the advantage of superior soil and climatic conditions and by the wisdom of the Netherlands authorities who were more prompt than the British in acquiring the seed of the new variety *Ledgeriana*, named after Clements Ledger who first brought it to Europe. Thus it came about that, within 25 years of the introduction of the first cinchona plant, Java was producing a bark with a quinine content of 11 per cent. and above, while the average in the Ceylon plantations was less than 2 per cent.: and when the great slump of 1882 came only the Dutch industry survived.
+
+The plantations in Java were able to meet the whole of the world's demand for quinine, and there was no reason to expect that that source of supply would dry up, and the British Empire's dependence on Java for her requirements became a complacent habit until there was a threat of a second catastrophe during the period 1909-1912. The price of bark fell to a unit rate of 3 cents and this was quite unremunerative especially at a time when other forms of tropical agriculture had reached the peak
+
+3------------------------------------------------
+
+328
+
+of prosperity. It was rumoured that Java would retire altogether from the industry, and the Empire countries became uneasy; the Government of India began to think of making that country self-supporting. But with the formation of the Kina Bureau in 1913 the Dutch industry revived, and the war interrupted the plans for the establishment of large plantations in India.
+
+More recently the Imperial Government examined the problem from a different point of view. It was laid down by the Secretary of State that "every practicable measure should be taken to extend the benefits of anti-malarial treatment to a larger proportion of the population of the Empire", and he was "most anxious that quinine or other cinchona derivatives should be more readily available to a greater percentage of those who would benefit by their use than is the case at present". Under the stimulus of this interest of the Imperial Government, Ceylon has now for about 4 years been exploring the prospects of a revived local cinchona plantation industry. Last year an officer of the Department of Agriculture visited India and Java to study the problems connected with cinchona growing and his recommendations are now before Government.
+
+The Imperial Council of Agricultural Research has just issued a valuable report\* by Mr. A. Wilson on the "prospects of cinchona cultivation in India" which, read with the report of the Cinchona Sub-Committee of the Imperial Council of Agriculture and Animal Health, would be most useful in helping Ceylon to come to a decision regarding her policy. The following appear to be the considerations which may govern this policy:—
+
+1. (1) The prospect of finding a place in the world market
+2. (2) The provision of cheap quinine or of a cheap and abundant febrifuge other than quinine for the masses
+3. (3) Imperial policy of making the Empire independent of foreign supplies
+4. (4) The prospect of establishing a remunerative local industry behind a protective wall.
+
+It is futile to attempt to compete with Java in the world market. She can easily meet the whole of the world's demand since she now meets over 90 per cent. of it with a restricted output of 52 per cent. of the possible maximum in existing plantations: and a country that burns as useless all bark with a quinine content of less than 6 per cent. (when the content of the greater part of the Indian bark was only 5 per cent.) can easily drive all competitors out of the market by a temporary reduction of price.
+
+The price of the article forms a comparatively small fraction of the cost involved in the administering of quinine to the
+
+---
+
+\* *Miscellaneous Bulletin No. 29.*
+
+4------------------------------------------------
+
+329
+
+poorer classes in the remote parts of the country and it is improbable that more of it will reach those who can benefit by its use if the price is reduced by half. Febrifuges prepared from low-quinine-yielding species of cinchona are not likely to be received more favourably in Ceylon than tota-quina was in the African Colonies where, according to the Cinchona Sub-Committee, the inhabitants were reluctant to accept mixtures made up with tota-quina.
+
+It is hardly practicable or appropriate to discuss Imperial policy here; but it may be suggested that, so long as Java retains her present political status, it is unlikely that Ceylon will have occasion to regret its dependence on a foreign country.
+
+There remains the question of a remunerative local industry. The present consumption of cinchona in the Island is about 17,000 lb. per annum. Assuming a consumption of 20,000 lb., the value of the quinine imported annually is Rs. 440,000. In the case of a small country like Ceylon this is not an inconsiderable volume of trade. If suitable land is available and a reasonably good variety can be grown in Ceylon, Indian experience shows that the article can be produced for sale at the present market price with a very good profit. This market price is Rs. 22 per lb. We feel some embarrassment in stating the Indian cost of production, because paragraph 5 of *The 75th Annual Report of the Government Cinchona Plantation and Factory in Bengal* gives the "total cost per lb." as Rs. 6·192, while paragraph 84 of Mr. Wilson's report estimates it at Rs. 14·875. Even if the latter and larger figure is accepted, the margin of profit is considerable. But cinchona is not a crop which we can recommend to the private planter even with this expectation of profit. The experience of India as recorded by Mr. Wilson shows that this is a most delicate plant requiring the most careful handling, and that it is impossible to determine in advance from general principles whether it would thrive in any particular site. The path of the cinchona grower is bound to be attended with trial and disappointment. The only suggestion that the circumstances justify is perhaps that Government should establish State cinchona plantations for the limited purpose of creating a local industry.
+
+5------------------------------------------------
+
+330CEYLON'S COCONUT CROPS
+
+REGINALD CHILD, B.Sc., Ph.D. (Lond.), F.I.C.,  
+DIRECTOR OF RESEARCH, COCONUT RESEARCH SCHEME
+
+EXPORT figures of coconut products provide almost the only means of ascertaining with any degree of exactness the trend of coconut production in Ceylon. Acreage statistics available are not much more than rough estimates; of the total acreage probably not more than 25 per cent. is under estate cultivation; and of this 25 per cent. only a lamentably small proportion is under such management that crop returns are likely to be very accurate.
+
+The export figures have therefore received critical attention on several previous occasions. In *The Tropical Agriculturist*, September, 1919, H. K. Rutherford compared the exports of coconut produce for the periods 1911–1914, and 1915–1918; in *The Tropical Agriculturist*, May, 1923, he gave also the figures for 1919–1922.
+
+Mr. (now Sir Frank) Stockdale continued this critical examination in an article in *The Tropical Agriculturist*, December, 1927, and it is the purpose of the present article to present the export figures for 1911–1938 in the form adopted by Rutherford and Stockdale, the object being the same as in their articles, namely to elucidate the trends of Ceylon coconut production during the periods reviewed.
+
+The export figures given are from the Customs returns. As in the previous articles referred to, the figures have been grouped into four-yearly periods, to average out to some extent the effect of variation of climate.
+
+TABLE I.Exports of Coconut Produce from Ceylon
+
+<table>
+<thead>
+<tr>
+<th>Year.</th>
+<th></th>
+<th>Oil<br/>Tons.</th>
+<th>Copra<br/>Tons.</th>
+<th>Desiccated<br/>Tons.</th>
+<th>Coconuts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1911</td>
+<td>..</td>
+<td>25,251</td>
+<td>41,091</td>
+<td>14,610</td>
+<td>15,723,393</td>
+</tr>
+<tr>
+<td>1912</td>
+<td>..</td>
+<td>20,089</td>
+<td>30,704</td>
+<td>13,940</td>
+<td>16,010,809</td>
+</tr>
+<tr>
+<td>1913</td>
+<td>..</td>
+<td>27,349</td>
+<td>55,865</td>
+<td>15,190</td>
+<td>16,861,324</td>
+</tr>
+<tr>
+<td>1914</td>
+<td>..</td>
+<td>24,314</td>
+<td>70,597</td>
+<td>15,593</td>
+<td>11,429,594</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>..</td>
+<td>97,003</td>
+<td>198,257</td>
+<td>59,333</td>
+<td>60,025,120</td>
+</tr>
+</tbody>
+</table>
+
+6------------------------------------------------
+
+331
+
+TABLE I.—*contd.*  
+ Export of Coconut Produce from Ceylon—*contd.*
+
+<table border="1">
+<thead>
+<tr>
+<th>Year.</th>
+<th>Oil<br/>Tons.</th>
+<th>Copra<br/>Tons.</th>
+<th>Desiccated<br/>Tons.</th>
+<th>Coconuts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1915 ..</td>
+<td>25,075 ..</td>
+<td>60,426 ..</td>
+<td>17,450 ..</td>
+<td>5,827,669</td>
+</tr>
+<tr>
+<td>1916 ..</td>
+<td>16,151 ..</td>
+<td>65,497 ..</td>
+<td>15,307 ..</td>
+<td>4,694,297</td>
+</tr>
+<tr>
+<td>1917 ..</td>
+<td>21,735 ..</td>
+<td>53,935 ..</td>
+<td>13,603 ..</td>
+<td>5,289,481</td>
+</tr>
+<tr>
+<td>1918 ..</td>
+<td>26,374 ..</td>
+<td>63,616 ..</td>
+<td>10,168 ..</td>
+<td>6,553,278</td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>89,335</td>
+<td>243,474</td>
+<td>56,528</td>
+<td>22,364,725</td>
+</tr>
+<tr>
+<td>1919 ..</td>
+<td>33,800 ..</td>
+<td>87,976 ..</td>
+<td>33,753 ..</td>
+<td>3,390,710</td>
+</tr>
+<tr>
+<td>1920 ..</td>
+<td>25,376 ..</td>
+<td>67,893 ..</td>
+<td>25,937 ..</td>
+<td>9,776,479</td>
+</tr>
+<tr>
+<td>1921 ..</td>
+<td>24,236 ..</td>
+<td>68,372 ..</td>
+<td>43,526 ..</td>
+<td>23,738,542</td>
+</tr>
+<tr>
+<td>1922 ..</td>
+<td>27,731 ..</td>
+<td>84,329 ..</td>
+<td>38,411 ..</td>
+<td>22,317,747</td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>111,143</td>
+<td>308,570</td>
+<td>141,627</td>
+<td>59,223,478</td>
+</tr>
+<tr>
+<td>1923 ..</td>
+<td>24,027 ..</td>
+<td>50,773 ..</td>
+<td>40,940 ..</td>
+<td>15,693,670</td>
+</tr>
+<tr>
+<td>1924 ..</td>
+<td>27,631 ..</td>
+<td>88,459 ..</td>
+<td>43,567 ..</td>
+<td>29,121,041</td>
+</tr>
+<tr>
+<td>1925 ..</td>
+<td>30,890 ..</td>
+<td>113,686 ..</td>
+<td>39,708 ..</td>
+<td>23,288,786</td>
+</tr>
+<tr>
+<td>1926 ..</td>
+<td>28,523 ..</td>
+<td>120,970 ..</td>
+<td>37,718 ..</td>
+<td>16,951,368</td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>111,071</td>
+<td>373,888</td>
+<td>161,933</td>
+<td>85,054,865</td>
+</tr>
+<tr>
+<td>1927 ..</td>
+<td>33,658 ..</td>
+<td>99,107 ..</td>
+<td>43,641 ..</td>
+<td>18,875,750</td>
+</tr>
+<tr>
+<td>1928 ..</td>
+<td>38,955 ..</td>
+<td>98,833 ..</td>
+<td>39,335 ..</td>
+<td>18,016,191</td>
+</tr>
+<tr>
+<td>1929 ..</td>
+<td>43,926 ..</td>
+<td>102,124 ..</td>
+<td>34,523 ..</td>
+<td>20,821,284</td>
+</tr>
+<tr>
+<td>1930 ..</td>
+<td>38,189 ..</td>
+<td>90,630 ..</td>
+<td>35,234 ..</td>
+<td>20,750,337</td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>154,728</td>
+<td>390,694</td>
+<td>152,733</td>
+<td>78,463,562</td>
+</tr>
+<tr>
+<td>1931 ..</td>
+<td>48,138 ..</td>
+<td>93,865 ..</td>
+<td>33,466 ..</td>
+<td>21,142,176</td>
+</tr>
+<tr>
+<td>1932 ..</td>
+<td>51,252 ..</td>
+<td>45,700 ..</td>
+<td>29,963 ..</td>
+<td>23,144,466</td>
+</tr>
+<tr>
+<td>1933 ..</td>
+<td>53,070 ..</td>
+<td>64,340 ..</td>
+<td>39,492 ..</td>
+<td>21,699,017</td>
+</tr>
+<tr>
+<td>1934 ..</td>
+<td>69,843 ..</td>
+<td>105,469 ..</td>
+<td>32,336 ..</td>
+<td>31,417,388</td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>222,303</td>
+<td>309,374</td>
+<td>135,257</td>
+<td>97,403,047</td>
+</tr>
+<tr>
+<td>1935 ..</td>
+<td>55,468 ..</td>
+<td>48,761 ..</td>
+<td>33,217 ..</td>
+<td>20,855,213</td>
+</tr>
+<tr>
+<td>1936 ..</td>
+<td>34,461 ..</td>
+<td>51,774 ..</td>
+<td>30,088 ..</td>
+<td>16,891,569</td>
+</tr>
+<tr>
+<td>1937 ..</td>
+<td>66,856 ..</td>
+<td>70,849 ..</td>
+<td>29,438 ..</td>
+<td>11,119,209</td>
+</tr>
+<tr>
+<td>1938 ..</td>
+<td>75,396 ..</td>
+<td>75,184 ..</td>
+<td>29,692 ..</td>
+<td>15,955,030</td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>232,181</td>
+<td>246,568</td>
+<td>122,435</td>
+<td>64,821,021</td>
+</tr>
+</tbody>
+</table>
+
+The conversion factors used in the articles by Rutherford and Stockdale were :—
+
+<table>
+<tr>
+<td>1 ton of oil ..</td>
+<td>8,125 nuts (61.5 per cent. oil expression).</td>
+</tr>
+<tr>
+<td>1 ton of copra ..</td>
+<td>5,000 ,, (1,250 nuts per candy).</td>
+</tr>
+<tr>
+<td>1 ton of desiccated ..</td>
+<td>6,900 ,, (325 lb. DCN per 1,000 nuts).</td>
+</tr>
+</table>
+
+The present writer has elsewhere (cf. *The Tropical Agriculturist*, 1937, Vol. LXXXIX, p. 222) used slightly different factors :—
+
+<table>
+<tr>
+<td>1 ton of oil ..</td>
+<td>7,619 nuts (63 per cent. oil expression).</td>
+</tr>
+<tr>
+<td>1 ton of copra ..</td>
+<td>4,800 ,, (1,200 nuts per candy).</td>
+</tr>
+<tr>
+<td>1 ton of desiccated ..</td>
+<td>6,400 ,, (350 lb. DCN per 1,000 nuts).</td>
+</tr>
+</table>
+
+but has used the former set in the present survey for the sake of continuity with the earlier articles.
+
+7------------------------------------------------
+
+332TABLE II.
+
+Statement showing the Annual quantity of Coconuts utilized in the various Products exported from Ceylon
+
+<table border="1">
+<thead>
+<tr>
+<th>Year.</th>
+<th>Oil.</th>
+<th>Copra.</th>
+<th>Desiccated.</th>
+<th>Fresh Nuts.</th>
+<th>Total.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1911</td>
+<td>205,164,375..</td>
+<td>205,455,000..</td>
+<td>100,809,000..</td>
+<td>15,723,393..</td>
+<td>527,151,768</td>
+</tr>
+<tr>
+<td>1912</td>
+<td>163,223,125..</td>
+<td>153,520,000..</td>
+<td>95,186,000..</td>
+<td>16,010,809..</td>
+<td>427,939,924</td>
+</tr>
+<tr>
+<td>1913</td>
+<td>222,210,625..</td>
+<td>279,325,000..</td>
+<td>104,811,000..</td>
+<td>16,861,324..</td>
+<td>623,207,949</td>
+</tr>
+<tr>
+<td>1914</td>
+<td>197,551,250..</td>
+<td>352,985,000..</td>
+<td>107,591,700..</td>
+<td>11,429,524..</td>
+<td>669,557,474</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>788,149,375</td>
+<td>991,285,000</td>
+<td>408,397,700</td>
+<td>60,025,050</td>
+<td>2,247,857,115</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>197,037,344</td>
+<td>247,821,250</td>
+<td>102,099,425</td>
+<td>15,006,262</td>
+<td>561,964,281</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>203,734,375..</td>
+<td>302,130,000..</td>
+<td>120,405,000..</td>
+<td>5,827,669..</td>
+<td>632,097,044</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>131,226,875..</td>
+<td>327,485,000..</td>
+<td>105,618,300..</td>
+<td>4,694,297..</td>
+<td>569,024,472</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>176,596,875..</td>
+<td>269,675,000..</td>
+<td>93,860,700..</td>
+<td>5,289,481..</td>
+<td>545,422,056</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>214,288,750..</td>
+<td>318,080,000..</td>
+<td>70,159,200..</td>
+<td>6,553,278..</td>
+<td>609,081,228</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>725,846,875</td>
+<td>1,217,370,000</td>
+<td>390,043,200</td>
+<td>22,364,725</td>
+<td>2,355,624,800</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>181,461,719</td>
+<td>304,342,500</td>
+<td>97,510,800</td>
+<td>5,591,181</td>
+<td>588,906,200</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>274,625,000..</td>
+<td>439,880,000..</td>
+<td>232,895,700..</td>
+<td>3,390,710..</td>
+<td>950,791,410</td>
+</tr>
+<tr>
+<td>1920</td>
+<td>206,180,000..</td>
+<td>339,465,000..</td>
+<td>178,965,000..</td>
+<td>9,776,479..</td>
+<td>734,386,779</td>
+</tr>
+<tr>
+<td>1921</td>
+<td>196,917,500..</td>
+<td>341,860,000..</td>
+<td>300,329,400..</td>
+<td>23,738,542..</td>
+<td>862,845,442</td>
+</tr>
+<tr>
+<td>1922</td>
+<td>225,314,375..</td>
+<td>421,645,000..</td>
+<td>265,035,900..</td>
+<td>22,317,747..</td>
+<td>934,313,022</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>903,036,875</td>
+<td>1,542,850,000</td>
+<td>977,226,300</td>
+<td>59,223,478</td>
+<td>3,482,336,653</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>225,759,219</td>
+<td>385,712,500</td>
+<td>244,306,575</td>
+<td>14,805,869</td>
+<td>870,584,163</td>
+</tr>
+<tr>
+<td>1923</td>
+<td>195,219,375..</td>
+<td>253,865,000..</td>
+<td>282,486,000..</td>
+<td>15,693,670..</td>
+<td>747,264,045</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>224,501,875..</td>
+<td>442,295,000..</td>
+<td>300,612,300..</td>
+<td>29,121,041..</td>
+<td>996,630,216</td>
+</tr>
+<tr>
+<td>1925</td>
+<td>250,981,250..</td>
+<td>568,430,000..</td>
+<td>273,985,200..</td>
+<td>23,288,786..</td>
+<td>1,116,685,236</td>
+</tr>
+<tr>
+<td>1926</td>
+<td>231,749,375..</td>
+<td>604,850,000..</td>
+<td>260,254,200..</td>
+<td>16,951,368..</td>
+<td>1,113,804,943</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>902,451,875</td>
+<td>1,869,440,000</td>
+<td>1,117,337,700</td>
+<td>85,054,865</td>
+<td>3,974,284,440</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>225,612,969</td>
+<td>467,360,000</td>
+<td>279,334,425</td>
+<td>21,263,716</td>
+<td>993,571,110</td>
+</tr>
+<tr>
+<td>1927</td>
+<td>273,471,250..</td>
+<td>495,535,000..</td>
+<td>301,122,900..</td>
+<td>18,875,750..</td>
+<td>1,089,004,900</td>
+</tr>
+<tr>
+<td>1928</td>
+<td>316,509,375..</td>
+<td>494,165,000..</td>
+<td>271,411,500..</td>
+<td>18,016,191..</td>
+<td>1,100,192,066</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>356,898,750..</td>
+<td>510,620,000..</td>
+<td>238,208,700..</td>
+<td>20,821,284..</td>
+<td>1,126,548,734</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>310,285,625..</td>
+<td>453,150,000..</td>
+<td>243,114,600..</td>
+<td>20,750,337..</td>
+<td>1,027,300,562</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>1,257,165,000</td>
+<td>1,953,470,000</td>
+<td>1,053,857,700</td>
+<td>78,463,562</td>
+<td>4,342,956,262</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>314,291,250</td>
+<td>488,367,500</td>
+<td>263,464,425</td>
+<td>19,615,890</td>
+<td>1,085,739,065</td>
+</tr>
+<tr>
+<td>1931</td>
+<td>391,283,750..</td>
+<td>469,325,000..</td>
+<td>230,915,400..</td>
+<td>21,142,176..</td>
+<td>1,112,666,326</td>
+</tr>
+<tr>
+<td>1932</td>
+<td>416,422,500..</td>
+<td>228,500,000..</td>
+<td>206,744,700..</td>
+<td>23,144,466..</td>
+<td>874,811,666</td>
+</tr>
+<tr>
+<td>1933</td>
+<td>431,193,750..</td>
+<td>321,700,000..</td>
+<td>272,494,800..</td>
+<td>21,699,017..</td>
+<td>1,047,087,567</td>
+</tr>
+<tr>
+<td>1934</td>
+<td>567,474,375..</td>
+<td>527,345,000..</td>
+<td>223,118,400..</td>
+<td>31,417,388..</td>
+<td>1,349,355,163</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>1,806,374,375</td>
+<td>1,546,870,000</td>
+<td>933,273,300</td>
+<td>97,403,047</td>
+<td>4,383,920,722</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>451,593,594</td>
+<td>386,717,500</td>
+<td>233,318,325</td>
+<td>24,350,762</td>
+<td>1,095,980,181</td>
+</tr>
+<tr>
+<td>1935</td>
+<td>450,677,500..</td>
+<td>243,805,000..</td>
+<td>229,197,300..</td>
+<td>20,855,213..</td>
+<td>944,535,013</td>
+</tr>
+<tr>
+<td>1936</td>
+<td>279,995,625..</td>
+<td>258,870,000..</td>
+<td>207,607,200..</td>
+<td>16,891,569..</td>
+<td>763,364,394</td>
+</tr>
+<tr>
+<td>1937</td>
+<td>543,205,000..</td>
+<td>354,245,000..</td>
+<td>203,122,200..</td>
+<td>11,119,209..</td>
+<td>1,111,691,409</td>
+</tr>
+<tr>
+<td>1938</td>
+<td>612,592,500..</td>
+<td>375,920,000..</td>
+<td>204,874,800..</td>
+<td>15,955,030..</td>
+<td>1,209,342,330</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>1,886,470,625</td>
+<td>1,232,840,000</td>
+<td>844,801,500</td>
+<td>64,821,021</td>
+<td>4,028,933,146</td>
+</tr>
+<tr>
+<td>Average p.a..</td>
+<td>471,617,656</td>
+<td>308,210,000</td>
+<td>211,200,375</td>
+<td>16,205,255</td>
+<td>1,007,233,286</td>
+</tr>
+</tbody>
+</table>
+
+8------------------------------------------------
+
+333
+
+An inspection of the figures shows that the average exports for the four-yearly periods dealt with showed a continued increase after 1926 (which was the last year of Stockdale's survey) up to the period 1931-1934, when average figures were almost double those of the pre-war four years. This is brought out clearly by expressing the average exports in each period as percentages of those for 1911-1914.
+
+<table border="1">
+<thead>
+<tr>
+<th>Years.</th>
+<th colspan="4">Total exports as nuts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1911-1914</td>
+<td>..</td>
+<td>..</td>
+<td>2,247,856,125</td>
+<td>= 100</td>
+</tr>
+<tr>
+<td>1915-1918</td>
+<td>..</td>
+<td>..</td>
+<td>2,355,624,800</td>
+<td>= 105</td>
+</tr>
+<tr>
+<td>1919-1922</td>
+<td>..</td>
+<td>..</td>
+<td>3,482,336,653</td>
+<td>= 155</td>
+</tr>
+<tr>
+<td>1923-1926</td>
+<td>..</td>
+<td>..</td>
+<td>3,974,284,440</td>
+<td>= 177</td>
+</tr>
+<tr>
+<td>1927-1930</td>
+<td>..</td>
+<td>..</td>
+<td>4,342,956,262</td>
+<td>= 193</td>
+</tr>
+<tr>
+<td>1931-1934</td>
+<td>..</td>
+<td>..</td>
+<td>4,383,920,722</td>
+<td>= 195</td>
+</tr>
+<tr>
+<td>1935-1938</td>
+<td>..</td>
+<td>..</td>
+<td>4,028,933,146</td>
+<td>= 179</td>
+</tr>
+</tbody>
+</table>
+
+The last four years have, however, shown a definite decline, amounting to almost 90 million nuts per annum.
+
+*Local consumption.*—The present writer has elsewhere (*loc. cit.*) discussed the probable extent of local consumption and concluded that Rutherford's estimate of 130-145 per head of the population per annum was, as far as could be judged, a reasonable one. This estimate has received a certain amount of confirmation from a quite independent source. Dr. Das Gupta in a report on the economic survey of five villages in Chilaw District, *Bulletin No. 7 of the Ministry of Labour, Industry and Commerce* (1937), page 29, gave a figure of 10.65 nuts per head per mensem as the average consumption found in his survey. This is remarkably near the figure of 130 per head estimated by quite other lines of argument.
+
+The population of Ceylon at the 1911 Census was 4,106,350; on December 31, 1938, the population was estimated at 5,864,000 (*Ceylon Government Gazette*, April 13, 1939, No. 8,445, p. 540). The local consumption at 130 nuts a head per annum would thus have increased from 533,825,500 to 762,320,000 nuts during the 28 years under review.
+
+Taking this basis for estimating local consumption of nuts—*viz.*, estimated population  $\times$  130—the following table is arrived at for estimated total average production:—
+
+TABLE III.Estimated Total Production of Nuts in Ceylon
+
+<table border="1">
+<thead>
+<tr>
+<th>Years.</th>
+<th>Average Population (Approx.)</th>
+<th>Local Consumption.</th>
+<th>Percentage of Total.</th>
+<th>Average Exports as nuts.</th>
+<th>Percentage of Total.</th>
+<th>Total Production (Nuts.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1911-14</td>
+<td>4,166,000</td>
+<td>541,580,000</td>
+<td>49.1</td>
+<td>561,964,281</td>
+<td>50.9</td>
+<td>1,103,544,281</td>
+</tr>
+<tr>
+<td>1915-18</td>
+<td>4,326,000</td>
+<td>562,380,000</td>
+<td>48.8</td>
+<td>588,906,200</td>
+<td>51.2</td>
+<td>1,151,286,200</td>
+</tr>
+<tr>
+<td>1919-22</td>
+<td>4,500,000</td>
+<td>585,000,000</td>
+<td>40.2</td>
+<td>870,584,163</td>
+<td>59.8</td>
+<td>1,455,584,163</td>
+</tr>
+<tr>
+<td>1923-26</td>
+<td>4,720,000</td>
+<td>613,600,000</td>
+<td>38.2</td>
+<td>993,571,110</td>
+<td>61.8</td>
+<td>1,607,171,110</td>
+</tr>
+<tr>
+<td>1927-30</td>
+<td>5,045,000</td>
+<td>655,850,000</td>
+<td>37.7</td>
+<td>1,085,739,065</td>
+<td>62.3</td>
+<td>1,741,589,065</td>
+</tr>
+<tr>
+<td>1931-34</td>
+<td>5,472,000</td>
+<td>711,360,000</td>
+<td>39.4</td>
+<td>1,095,980,181</td>
+<td>60.6</td>
+<td>1,807,340,181</td>
+</tr>
+<tr>
+<td>1935-38</td>
+<td>5,700,000</td>
+<td>741,000,000</td>
+<td>42.4</td>
+<td>1,007,233,286</td>
+<td>57.6</td>
+<td>1,748,233,286</td>
+</tr>
+</tbody>
+</table>
+
+9------------------------------------------------
+
+334
+
+Against the decline of exports between the periods 1931-1934 and 1935-1938, of about 90 million nuts, there can be set off on the above basis an increase in local consumption of some 30 million nuts, leaving a net decrease in production per annum of 60 million nuts.
+
+It is of interest to note that, on such estimates as the foregoing, local consumption from 1919 to 1934 remained pretty constantly round about 40 per cent. of the total production. For the next few years, unless estates and small holdings are increasingly taken in hand for replanting and cultivation, production will show a progressive decline. Increase in population will meanwhile increase local consumption. Further, efforts are contemplated to aim at increasing consumption in those districts where the coconut is not an important article of diet. The exports of coconut products may therefore be expected to decline still further.
+
+TABLE IV.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Years.</th>
+<th colspan="6">Percentage Distribution of Exports</th>
+<th rowspan="2">Total.<br/>Per Cent.</th>
+</tr>
+<tr>
+<th>Oil.</th>
+<th>Copra.</th>
+<th>Desiccated.</th>
+<th>Nuts.</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1911-1914</td>
+<td>35.1</td>
+<td>44.1</td>
+<td>18.2</td>
+<td>2.6</td>
+<td></td>
+<td></td>
+<td>100.0</td>
+</tr>
+<tr>
+<td>1915-1918</td>
+<td>30.8</td>
+<td>51.7</td>
+<td>16.6</td>
+<td>0.9</td>
+<td></td>
+<td></td>
+<td>"</td>
+</tr>
+<tr>
+<td>1919-1922</td>
+<td>25.9</td>
+<td>44.3</td>
+<td>28.1</td>
+<td>1.7</td>
+<td></td>
+<td></td>
+<td>"</td>
+</tr>
+<tr>
+<td>1923-1926</td>
+<td>22.7</td>
+<td>47.0</td>
+<td>28.1</td>
+<td>2.1</td>
+<td></td>
+<td></td>
+<td>"</td>
+</tr>
+<tr>
+<td>1927-1930</td>
+<td>28.9</td>
+<td>45.0</td>
+<td>24.3</td>
+<td>1.8</td>
+<td></td>
+<td></td>
+<td>"</td>
+</tr>
+<tr>
+<td>1931-1934</td>
+<td>41.2</td>
+<td>35.3</td>
+<td>21.3</td>
+<td>2.2</td>
+<td></td>
+<td></td>
+<td>"</td>
+</tr>
+<tr>
+<td>1935-1938</td>
+<td>46.8</td>
+<td>30.6</td>
+<td>21.0</td>
+<td>1.0</td>
+<td></td>
+<td></td>
+<td>"</td>
+</tr>
+</tbody>
+</table>
+
+Table IV. shows what percentages of the exports were represented in the different periods by the four main export commodities. Desiccated coconut, which from 1919-1926 formed 28.1 per cent. of the exports, commenced to decline with the loss of the U. S. Market. The most significant aspect of this table is the rise in the proportion of coconut oil. Leaving on one side desiccated coconut and fresh nuts, it will be seen that, from 1931-1938 inclusive, approximately 57 per cent. of all copra sold in Ceylon has been milled for oil, and it is as well to notice this indication of the importance of the local crushing industry.
+
+*Value of exports.*—It will be of interest to conclude this article with a survey of values of exports over similar periods, as was done by Stockdale.
+
+TABLE VA.Values of Exports in Rupees
+
+<table border="1">
+<thead>
+<tr>
+<th>Year.</th>
+<th>Oil.</th>
+<th>Copra.</th>
+<th>Desiccated.</th>
+<th>Fresh nuts.</th>
+<th>Total.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1927</td>
+<td>16,567,551..</td>
+<td>31,844,823..</td>
+<td>20,481,761..</td>
+<td>1,515,087..</td>
+<td>70,409,222</td>
+</tr>
+<tr>
+<td>1928</td>
+<td>19,265,529..</td>
+<td>31,801,635..</td>
+<td>19,840,117..</td>
+<td>1,424,287..</td>
+<td>72,331,568</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>18,024,359..</td>
+<td>26,315,987..</td>
+<td>11,875,780..</td>
+<td>1,281,910..</td>
+<td>57,498,036</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>13,189,849..</td>
+<td>18,028,725..</td>
+<td>10,035,931..</td>
+<td>972,115..</td>
+<td>42,226,620</td>
+</tr>
+<tr>
+<td></td>
+<td>67,047,288</td>
+<td>107,991,170</td>
+<td>62,233,589</td>
+<td>5,193,399</td>
+<td>242,465,446</td>
+</tr>
+<tr>
+<td></td>
+<td>16,761,822</td>
+<td>26,997,792</td>
+<td>15,558,397</td>
+<td>1,298,350</td>
+<td>60,616,361</td>
+</tr>
+</tbody>
+</table>
+
+10------------------------------------------------
+
+335TABLE VA.—*contd.*Values of Exports in Rupees—*contd.*
+
+<table border="1">
+<thead>
+<tr>
+<th>Year.</th>
+<th>Oil.</th>
+<th>Copra</th>
+<th>Desiccated.</th>
+<th>Fresh Nuts.</th>
+<th>Total.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931</td>
+<td>.. 12,130,476..</td>
+<td>12,715,258..</td>
+<td>6,832,308..</td>
+<td>759,461..</td>
+<td>32,437,503</td>
+</tr>
+<tr>
+<td>1932</td>
+<td>.. 14,475,109..</td>
+<td>8,284,294..</td>
+<td>7,150,151..</td>
+<td>1,135,545..</td>
+<td>31,045,099</td>
+</tr>
+<tr>
+<td>1933</td>
+<td>.. 10,800,402..</td>
+<td>6,828,435..</td>
+<td>6,746,623..</td>
+<td>577,915..</td>
+<td>24,953,375</td>
+</tr>
+<tr>
+<td>1934</td>
+<td>.. 10,460,714..</td>
+<td>9,244,405..</td>
+<td>4,134,745..</td>
+<td>608,392..</td>
+<td>24,448,256</td>
+</tr>
+<tr>
+<td></td>
+<td>47,866,701</td>
+<td>37,072,392</td>
+<td>24,863,827</td>
+<td>3,081,313</td>
+<td>112,884,233</td>
+</tr>
+<tr>
+<td></td>
+<td>11,966,675</td>
+<td>9,268,098</td>
+<td>6,215,957</td>
+<td>770,328</td>
+<td>28,221,058</td>
+</tr>
+<tr>
+<td>1935</td>
+<td>.. 13,646,579..</td>
+<td>7,818,398..</td>
+<td>7,307,560</td>
+<td>1,111,077..</td>
+<td>29,883,614</td>
+</tr>
+<tr>
+<td>1936</td>
+<td>.. 9,948,909..</td>
+<td>10,077,212..</td>
+<td>7,041,825..</td>
+<td>916,054..</td>
+<td>27,984,000</td>
+</tr>
+<tr>
+<td>1937</td>
+<td>.. 20,060,615..</td>
+<td>12,510,641..</td>
+<td>6,780,157..</td>
+<td>621,379..</td>
+<td>39,972,792</td>
+</tr>
+<tr>
+<td>1938</td>
+<td>.. 14,057,087..</td>
+<td>8,782,825..</td>
+<td>4,399,494..</td>
+<td>634,765..</td>
+<td>27,874,171</td>
+</tr>
+<tr>
+<td></td>
+<td>57,713,190</td>
+<td>39,189,076</td>
+<td>25,529,036</td>
+<td>3,283,275</td>
+<td>125,714,577</td>
+</tr>
+<tr>
+<td></td>
+<td>14,428,297</td>
+<td>9,797,269</td>
+<td>6,382,259</td>
+<td>820,819</td>
+<td>31,428,644</td>
+</tr>
+</tbody>
+</table>
+
+TABLE VB.
+
+<table border="1">
+<thead>
+<tr>
+<th>Years.</th>
+<th>Nuts.</th>
+<th>Rs.</th>
+<th>Average<br/>per 1,000<br/>nuts.</th>
+<th>Percentage<br/>of 1911-14<br/>average.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1911-1914</td>
+<td>.. 561,964,281 ..</td>
+<td>38,860,021 ..</td>
+<td>69.15 ..</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1915-1918</td>
+<td>.. 588,906,200 ..</td>
+<td>36,673,670 ..</td>
+<td>62.27 ..</td>
+<td>90</td>
+</tr>
+<tr>
+<td>1919-1922</td>
+<td>.. 870,584,163 ..</td>
+<td>71,208,212 ..</td>
+<td>81.79 ..</td>
+<td>118</td>
+</tr>
+<tr>
+<td>1923-1926</td>
+<td>.. 993,571,110 ..</td>
+<td>69,304,375 ..</td>
+<td>69.75 ..</td>
+<td>101</td>
+</tr>
+<tr>
+<td>1927-1930</td>
+<td>.. 1,085,739,065 ..</td>
+<td>60,616,361 ..</td>
+<td>55.83 ..</td>
+<td>81</td>
+</tr>
+<tr>
+<td>1931-1934</td>
+<td>.. 1,095,980,181 ..</td>
+<td>28,221,058 ..</td>
+<td>25.75 ..</td>
+<td>37</td>
+</tr>
+<tr>
+<td>1935-1938</td>
+<td>.. 1,007,233,286 ..</td>
+<td>31,428,644 ..</td>
+<td>31.20 ..</td>
+<td>45</td>
+</tr>
+</tbody>
+</table>
+
+These figures hardly need comment. The average export price of produce calculated for comparative purposes per 1,000 nuts was Rs. 28.36 during the eight years 1931-1938 inclusive, or only 41 per cent. of the 1911-1914 average price. At the same time costs of production can be and have been reduced by economical working to a level considerably below this figure, and properties can still be maintained in reasonable cultivation at this price level.
+
+11------------------------------------------------
+
+336
+
+## VEGETATION, CLIMATE, AND SOIL AND WATER CONSERVATION
+
+W. C. LESTER-SMITH, B.A., Dip. Rur. Econ. (Oxon.), A.I.C.T.A.,  
+CHIEF ADVISORY OFFICER, NEW RUBBER PLANTING SCHEME,  
+CEYLON
+
+THE subject of afforesting areas of low rainfall is very closely connected with the problem of soil and water conservation. The once popular belief that forests affected the climate of a country generally, has not yet proved to be strictly correct. The change from fertility to aridity which has occurred in certain areas has been due chiefly to deforestation; but this, in any cases known, has not greatly affected the climate either as regards temperature or rainfall.
+
+In the main, it is not so much a question of vegetation affecting climate as climate affecting vegetation, and the chief climatic factor in this connexion is undoubtedly rainfall. Climate, or the average state of the weather, is chiefly determined by temperature, topography, and rainfall. Temperature is governed mainly by altitude and latitude: topography by the forces of erosion, geologic and induced: and rainfall by changes in the temperature and humidity of the air. The vegetation of any area is mainly determined by rainfall, and this explains why the characteristic natural vegetation, in both tropical and temperate regions, with an abundant rainfall is forest, with a moderate rainfall is grass savannah or steppe, and why there is no vegetation in desert areas.
+
+To attempt to create forests in the unirrigated areas of Ceylon which have only a moderate rainfall would be working against nature, with little or no likelihood of success; while to irrigate and afforest such areas would not appear to be an economic proposition.
+
+It is certainly true that forests occasionally do increase rainfall to a slight extent, particularly in the neighbourhood of the trees, but they cannot alter its seasonal periodicity. In comparison with unforested land, however, forests tend to conserve rain water and to modify extremes of both moisture and temperature. The quantity of surface run-off water is reduced and its rate of flow retarded when a litter of fallen leaves covers the surface of the soil, which is thus kept in a moister and more absorptive condition.
+
+12------------------------------------------------
+
+337
+
+In connexion with forest vegetation, the factor of plant transpiration has also to be considered. It is well known that the transpiration of water by plants is much greater in dry, hot areas than in moister and cooler ones, but to what extent and to what elevations this applies has never been very clearly defined. In 1937, some investigations were recorded by Coster on the transpiration of different types of vegetation in Java. The results of these investigations indicate that, at altitudes of over 3,000 feet receiving more than 140 inches of rain in the year, 60 per cent. or more of the rainfall becomes surface run-off and nearly 25 per cent. is used up in transpiration. At lower elevations where rainfall is less and transpiration is greater, many types of vegetation use up in transpiration all the water which percolates into the soil, even during the wet season. In view of this fact it is concluded that the afforestation of the plains is inexpedient in cases where stream-flow and water conservation are desirable. Low-growing vegetation, however, can still provide a necessary protection to the soil from erosion and can materially assist in reducing the percentage of surface run-off water, but the types selected should have low transpirational tendencies. Short grass is considered to be one of the types which best fulfils both these requirements, and it is now well established that a good grass cover is the most effective natural means of controlling surface run-off and preventing erosion. In up-country areas where evaporation from tropical vegetation is much less, and where an abundant undergrowth provides the best possible conditions for the prevention of erosion and for the percolation of water into the soil, water conservation and control of soil erosion are best secured under a mixed forest.
+
+Ceylon happens to be situated in that part of the world in which a tropical monsoon climate prevails. The monsoon itself is not a rain but a wind, which characteristically blows one way during one part of the year and the opposite way during another. In between these two main seasons are periods of change-over, when unsettled weather prevails. The winds during these two monsoon periods often bring with them cool, moisture-laden air which, according to the greater or lesser amounts of heated-up air or land surface that they encounter or pass over, precipitate less or more of this moisture in the form of rain. Thus, the south-west of Ceylon generally receives more rain during the south-west monsoon than it does during the north-east monsoon, and the north-east of Ceylon usually receives more rain during the north-east monsoon than it does during the south-west. We cannot, however, control or regulate these natural phenomena, so we cannot in any material way affect either the amount or duration of the rainfall. Areas which receive an excess of rain, over and above the actual
+
+13------------------------------------------------
+
+338
+
+requirements of the vegetation they support, even if this rain falls only during a few months in the year, have to provide for the removal of this excess by drainage, natural or artificial. On the other hand, areas subject to a deficiency of rainfall have to meet the requirements of such vegetation as it is desired to establish by means of irrigation.
+
+Now it happens to be one of the unchangeable characteristics of those tropical monsoon climate areas, which normally receive only a moderate rainfall, that the monsoon rains, as during the 1938-39 north-east season, occasionally fall below the limit essential for successful cultivation; thus the importance of irrigation, and of water storage and conservation, in these areas.
+
+In dry areas, such as the Jaffna and Hambantota Districts, in which the amount and distribution of the rainfall is only sufficient to maintain a very meagre cover of vegetation, soil erosion is liable to be more widespread since less of the rainfall percolates into the soil and a greater amount becomes surface run-off water. It is in such areas, therefore, that there is a greater need for the conservation of as much of this surface run-off as possible. The afforestation of such areas, even if feasible, is unlikely adequately to effect this, since the greater part of the moisture absorbed by the soil will be lost to wells and springs through transpiration.
+
+The one method of reducing soil erosion and of conserving surface run-off water in the drier parts of Ceylon would appear to lie in the establishment and maintenance of low-growing vegetation, such as drought-resistant grasses and ground-cover plants. These would reduce the rate of movement of surface run-off water, giving it more time to sink into the soil, and increase the absorptive capacity of the surface soil by keeping it in a moister and more open condition.
+
+#### REFERENCE
+
+Dickson, H. N.—*Climate and Weather*. Home University Library, No. 36.
+
+Grasovsky, A.—A World Tour for the Study of Soil Erosion Control Methods. *Imperial Forestry Institute, Paper No. 14, 1938*.
+
+Jacks, G. V. and Whyte, R.O.—Erosion and Soil Conservation. *Imperial Bureau of Soil Science, Technical Communication No. 36, 1938*.
+
+Jacob, Finlayson, &c.—Climate and Erosion. *Proceedings of Third British Empire Forestry Conference*, pp. 186-201, 1928.
+
+Marshall, R.C.—Forestry and Agriculture. *Tropical Agriculture*, Vol. II., pp. 70-72, 1925. (Reproduced in *The Tropical Agriculturist*, Vol. LXIV., pp. 314-318, May, 1925.)
+
+Wood, B. R.—Forestry in some of its Applications to Agriculture. *Agric. Journal, British Guiana*, Vol. I., No. 3, 1928. (Reproduced in *the Tropical Agriculturist*, Vol. LXXIII., pp. 37-40, July, 1929).
+
+14------------------------------------------------
+
+339
+
+## FURTHER MANURIAL AND CULTURAL EXPERIMENTS ON CHILLIES.
+
+**A. W. R. JOACHIM, Ph.D. (Lond.), Dip. Agric. (Cantab.),**  
+*CHEMIST*
+
+**G. HARBORD, Dip. Agric. (Wye),**  
+*AGRICULTURAL OFFICER, GRADE I., NORTHERN,*  
+*AND*
+
+**S. K. THURAISINGHAM, B.Sc. (Lond.), Dip. Agric. (Wye),**  
+*AGRICULTURAL OFFICER, GRADE II., JAFFNA.*
+
+**I**N the October, 1938, issue of *The Tropical Agriculturist* (1) an account was given of manurial experiments on chillies conducted at the Vavuniya and Anuradhapura Experiment Stations during the 1937 *maha* season. It was observed that very appreciable yield increases resulted from the use of nitrogenous fertilizers, and that the addition of phosphorus and potassium to the latter was not productive of higher yields. Farmyard manure applied at the rate of 3 tons per acre was effective in increasing the crop significantly at Vavuniya but not at Anuradhapura. This was attributed to the fact that at the latter centre the experimental area had been penned with cattle immediately prior to the trial. In extension of these trials, an experiment was carried out at the Experiment Station, Jaffna, during *yala* 1938, (i.) to compare the effects of a single and double dressing of nitrate of soda on the crop; (ii.) to determine the response to farmyard manure alone and in combination with artificial fertilizers; and (iii.) to ascertain which of two methods of picking the crop was preferable from the standpoint of yield.
+
+### DESIGN OF THE EXPERIMENT
+
+The experiment, consisting of twelve treatments, combinations of the three sets of factors enumerated above, was laid down in six randomized blocks of six plots each. The interactions between farmyard manure and method of picking, and between nitrogen, farmyard manure, and method of picking, were partially confounded with block differences. The design was that recommended by Yates (2) in his "Design and Analysis of Factorial Experiments".
+
+Each plot was 39 ft. by 21 ft. in external dimensions. After leaving a border row, the net area of a harvested plot was
+
+15------------------------------------------------
+
+340
+
+30 ft. by 12 ft., containing five rows of eleven hills each spaced 3 ft. apart between and within rows. Drains separated the plots and blocks from one another.
+
+The factors tested out were the following :—
+
+<table border="0">
+<tr>
+<td style="vertical-align: top;">Nitrogenous<br/>ferti-<br/>lizers :</td>
+<td style="vertical-align: top;">
+        (i.) No nitrogen<br/>
+        (ii.) Single nitrogen (N) : nitrate of soda<br/>
+              in one dressing of <math>2\frac{1}{2}</math> lb. per plot<br/>
+              (20 lb. nitrogen per acre)<br/>
+        (iii.) Double nitrogen (2N) : nitrate of soda<br/>
+              in two dressings of <math>2\frac{1}{2}</math> lb. per plot<br/>
+              each (40 lb. nitrogen per acre)
+      </td>
+</tr>
+<tr>
+<td style="vertical-align: top;">Farmyard manure :</td>
+<td style="vertical-align: top;">
+        (i.) No farmyard manure<br/>
+        (ii.) Farmyard manure (F) at <math>1\frac{1}{2}</math> cwt. per<br/>
+              plot or 4 tons per acre
+      </td>
+</tr>
+<tr>
+<td style="vertical-align: top;">Method of picking :</td>
+<td style="vertical-align: top;">
+        (i.) Pods picked red throughout (R)<br/>
+        (ii.) Normal method pods picked green at<br/>
+              first picking ; all subsequent pickings<br/>
+              red
+      </td>
+</tr>
+</table>
+
+#### EXPERIMENTAL DETAILS
+
+The experimental details were furnished in a paper by Paul and Fernando (3) on the effect of manuring on the incidence of chilli leaf curl and need not be repeated here. It would suffice to state that the farmyard manure was ploughed in just prior to planting and the artificial fertilizer applied in the rows in two dressings, the first about three weeks after harvesting and the second a month after the first. Two seedlings of *Tuticorin* chillies were planted per hill. Observations were kept on the incidence of diseases and pests, the times of flowering and fruiting, dates of picking, &c. Leaf-curl of the type described in the paper referred to was markedly prevalent in all the plots, no less than 87 per cent. of the plants being affected with the disease at one stage. Neither farmyard manure nor nitrate of soda had any effect on the resistance or susceptibility of chillies to the disease. Many plants were also affected by *Sclerotium rolfsii*, the black stem disease. At each picking, a representative sample of fresh chillies of each of the different treatments was weighed and dried, and the percentage outturn of dry chillies determined. The average weight per pod and the number of chillies per pound were also ascertained at the same time. The rainfall data were presented in the paper already referred to (3). The precipitation having been insufficient during the months of May, June and July, irrigation was necessary on eighteen occasions.
+
+16------------------------------------------------
+
+341RESULTS
+
+The results are presented in a series of seven tables which give the actual or average yields of crop in lb. per plot, cwt. per acre or percentages. In table I. the actual yields of crop from the different plots are shown; in table II. is set out the analysis of variance of the data after the necessary corrections have been effected; table III. gives the yields in cwt. per acre for the different treatments and table IV. shows the average effects of the different treatments. In table V. the percentages of the total yields obtained at the different pickings and up to each picking are indicated for certain of the treatments. Tables VI. and VII. give the average weights per pod in grains and the mean number of pods per pound for the varying treatments and for the different pickings.
+
+TABLE I.
+
+Yields (lb. per plot)
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th colspan="6">Blocks</th>
+</tr>
+<tr>
+<th></th>
+<th>Ia</th>
+<th>Ib</th>
+<th>IIa</th>
+<th>IIb</th>
+<th>IIIa</th>
+<th>IIIb</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>69.1</td>
+<td>54.9</td>
+<td>50.2</td>
+<td>44.4</td>
+<td>25.4</td>
+<td>14.1</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td>G2N</td>
+<td>RN</td>
+<td>RF</td>
+<td>GN</td>
+<td>GN</td>
+<td>GNF</td>
+</tr>
+<tr>
+<td></td>
+<td>33.8</td>
+<td>42.3</td>
+<td>50.7</td>
+<td>29.1</td>
+<td>21.8</td>
+<td>9.2</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td>R</td>
+<td>G</td>
+<td>R2NF</td>
+<td>RNF</td>
+<td>G2NF</td>
+<td>GF</td>
+</tr>
+<tr>
+<td></td>
+<td>73.8</td>
+<td>79.2</td>
+<td>64.7</td>
+<td>42.3</td>
+<td>16.3</td>
+<td>7.8</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td>GF</td>
+<td>R2N</td>
+<td>GNF</td>
+<td>GF</td>
+<td>G</td>
+<td>R</td>
+</tr>
+<tr>
+<td></td>
+<td>83.9</td>
+<td>47.7</td>
+<td>78.3</td>
+<td>41.4</td>
+<td>17.5</td>
+<td>21.4</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td>GN</td>
+<td>RF</td>
+<td>G2N</td>
+<td>R2N</td>
+<td>RNF</td>
+<td>G2N</td>
+</tr>
+<tr>
+<td></td>
+<td>82.9</td>
+<td>67.2</td>
+<td>52.6</td>
+<td>54.4</td>
+<td>21.7</td>
+<td>32.0</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td>R2NF</td>
+<td>GNF</td>
+<td>G</td>
+<td>G2NF</td>
+<td>RF</td>
+<td>R2NF</td>
+</tr>
+<tr>
+<td></td>
+<td>64.7</td>
+<td>74.5</td>
+<td>49.3</td>
+<td>23.0</td>
+<td>24.6</td>
+<td>19.0</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td>RNF</td>
+<td>G2NF</td>
+<td>RN</td>
+<td>R</td>
+<td>R2N</td>
+<td>RN</td>
+</tr>
+<tr>
+<td>Totals ..</td>
+<td>408.2</td>
+<td>365.7</td>
+<td>345.8</td>
+<td>234.6</td>
+<td>127.3</td>
+<td>103.5</td>
+</tr>
+</tbody>
+</table>
+
+Grand Total = 1,585.1
+
+Mean = 44.03
+
+17------------------------------------------------
+
+342TABLE II.Analysis of Variance
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2"></th>
+<th colspan="3">Treatments</th>
+<th></th>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th>D. F.</th>
+<th>Sum of Squares</th>
+<th>Mean Square</th>
+<th>F</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nitrogen</td>
+<td>(N) ..</td>
+<td>2 ..</td>
+<td>1,834.62 ..</td>
+<td>917.31 ..</td>
+<td><b>10.24</b></td>
+</tr>
+<tr>
+<td>F. Y. M.</td>
+<td>(F) ..</td>
+<td>1 ..</td>
+<td>74.25 ..</td>
+<td>74.25 ..</td>
+<td></td>
+</tr>
+<tr>
+<td>Picking red vs. green</td>
+<td>(P) ..</td>
+<td>1 ..</td>
+<td>441.70 ..</td>
+<td>441.70 ..</td>
+<td><b>4.93</b></td>
+</tr>
+<tr>
+<td>F × N</td>
+<td>..</td>
+<td>2 ..</td>
+<td>356.43 ..</td>
+<td>178.21 ..</td>
+<td>1.98</td>
+</tr>
+<tr>
+<td>P × N</td>
+<td>..</td>
+<td>2 ..</td>
+<td>145.70 ..</td>
+<td>72.85 ..</td>
+<td></td>
+</tr>
+<tr>
+<td>F × P</td>
+<td>..</td>
+<td>1 ..</td>
+<td>8.13 ..</td>
+<td>8.13 ..</td>
+<td></td>
+</tr>
+<tr>
+<td>N × F × P</td>
+<td>..</td>
+<td>2 ..</td>
+<td>23.35 ..</td>
+<td>11.67 ..</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>11</td>
+<td>2,884.18</td>
+<td>262.20</td>
+<td></td>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th>D. F.</th>
+<th>Sum of Squares</th>
+<th>Mean Square</th>
+<th>F.</th>
+</tr>
+<tr>
+<td>Blocks</td>
+<td>..</td>
+<td>5 ..</td>
+<td>13,856.51 ..</td>
+<td>2,771.30 ..</td>
+<td></td>
+</tr>
+<tr>
+<td>Treatments</td>
+<td>..</td>
+<td>11 ..</td>
+<td>2,884.18 ..</td>
+<td>262.20 ..</td>
+<td><b>2.93</b></td>
+</tr>
+<tr>
+<td>Error</td>
+<td>..</td>
+<td>19 ..</td>
+<td>1,701.95 ..</td>
+<td>89.58 ..</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>35</td>
+<td>18,442.64</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+F (sig.) for  $n_1 = 11, n_2 = 19, P = .05$  is 2.43 and for  $P = .01$  is 3.54.
+
+Treatments are significant to  $P > .05$ .
+
+F (sig.) for  $n_1 = 1, n_2 = 19, P = .05$  is 4.38,  $P = .01$  is 8.18.
+
+F (sig.) for  $n_1 = 2, n_2 = 19, P = .05$  is 3.52,  $P = .01$  is 5.93.
+
+Treatments showing F values in bold type are significant.
+
+TABLE III.Yields in Cwt. per Acre
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2"></th>
+<th>No Nitrogen</th>
+<th>Single Nitrogen</th>
+<th>Double Nitrogen</th>
+<th>Average</th>
+<th colspan="2">Corrected</th>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>No Farm-yard Manure</th>
+<th>Farm-yard Manure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Green</td>
+<td>(G) ..</td>
+<td>42.57 ..</td>
+<td>53.92 ..</td>
+<td>57.51 ..</td>
+<td>51.33 ..</td>
+<td>50.33 ..</td>
+<td>52.34</td>
+</tr>
+<tr>
+<td>Red</td>
+<td>(R) ..</td>
+<td>33.16 ..</td>
+<td>42.21 ..</td>
+<td>55.94 ..</td>
+<td>43.77 ..</td>
+<td>41.68 ..</td>
+<td>45.86</td>
+</tr>
+<tr>
+<td>Average</td>
+<td>..</td>
+<td>37.86</td>
+<td>48.07</td>
+<td>56.72</td>
+<td>47.55</td>
+<td>46.00</td>
+<td>49.10</td>
+</tr>
+</tbody>
+</table>
+
+Significant difference for method of picking:  $P = .05$  is 5.04 cwt.;  $P = .01$  is 6.89 cwt.
+
+Significant difference for quantity of nitrogen:  $P = .05$  is 6.17 cwt.;  $P = .01$  is 8.44 cwt.
+
+18------------------------------------------------
+
+343TABLE IV.Summary of Effects
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Lb. per plot</th>
+<th>Cwt. per acre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single Nitrogen</td>
+<td>..</td>
+<td><b>9.45</b></td>
+<td><b>10.21</b></td>
+</tr>
+<tr>
+<td>Double Nitrogen</td>
+<td>..</td>
+<td><b>17.47</b></td>
+<td><b>18.86</b></td>
+</tr>
+<tr>
+<td>Double <i>v.</i> Single Nitrogen</td>
+<td>..</td>
+<td><b>8.01</b></td>
+<td><b>8.65</b></td>
+</tr>
+<tr>
+<td>Farmyard Manure</td>
+<td>..</td>
+<td>2.87</td>
+<td>3.10</td>
+</tr>
+<tr>
+<td>Picking : Red <i>v.</i> Green</td>
+<td>..</td>
+<td>— <b>7.0</b></td>
+<td>— <b>7.56</b></td>
+</tr>
+<tr>
+<td>Standard Error per plot</td>
+<td>..</td>
+<td>9.47</td>
+<td>10.2</td>
+</tr>
+<tr>
+<td>Significant differences :</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nitrogen : P = .05</td>
+<td>..</td>
+<td>5.71</td>
+<td>6.17</td>
+</tr>
+<tr>
+<td>P = .01</td>
+<td>..</td>
+<td>7.81</td>
+<td>8.44</td>
+</tr>
+<tr>
+<td>Picking : P = .05</td>
+<td>..</td>
+<td>4.67</td>
+<td>5.04</td>
+</tr>
+<tr>
+<td>P = .01</td>
+<td>..</td>
+<td>6.38</td>
+<td>6.89</td>
+</tr>
+</tbody>
+</table>
+
+Figures in bold type indicate significance.
+
+An examination of the data provided by the above tables will indicate that :
+
+(1) Both single and double dressings of nitrate of soda increased yields very significantly. The single dressing gave an average fresh weight increase of 10.2 cwt. per acre or 27 per cent. over the unmanured plot which yielded 37.8 cwt. per acre, while the double dressing recorded an average increase of 18.8 cwt. per acre or 50 per cent. over the control. Reckoned as dry chillies, these increases worked out at 3 and 5.5 cwt. per acre respectively, on an average dry weight outturn of 30 per cent. as determined by experiment. The effect of the second dressing of nitrate of soda was to increase yields by nearly as much as the first. These results are very definitely significant, the odds being over 100 to 1 that they are not due to chance but to the treatment. It is obvious, therefore, that, under the soil and climatic conditions of Jaffna, applications to chillies of nitrate of soda up to  $2\frac{1}{2}$  cwt. per acre will be definitely beneficial in respect of yield. The findings of all previous trials in regard to the efficacy of nitrogenous fertilizers for chillies are thereby confirmed. Appreciably higher yield increases would doubtless have been obtained but for the incidence of the leaf-curl and black stem diseases.
+
+(2) In regard to the economic aspect of manuring chillies at Jaffna, reckoning on a market price of Rs. 15 per cwt. of dry chillies, the gross increased returns would be Rs. 45 and Rs. 82 per acre respectively from the single and double nitrogen-
+
+19------------------------------------------------
+
+344
+
+treated plots, as against a corresponding expenditure of Rs. 10 and Rs. 20 per acre on the fertilizer and the same amounts on the extra cost of picking and curing. The increased nett profits per acre as a result of the manuring would therefore vary from Rs. 25 to Rs. 42 per acre. Under more favourable crop conditions, the returns would have been appreciably higher.
+
+(3) Farmyard manure has not, under the conditions of this trial, produced a significant yield increase, when the average yield of plots treated with farmyard manure is compared with that of corresponding plots which did not receive farmyard manure. The individual yield results do, however, strongly suggest that farmyard manure applied alone is beneficial to the crop. It is therefore advised that, particularly on the calcareous loams of the Jaffna Peninsula which are deficient in organic matter, farmyard manure or compost be used as a basal dressing for chillies at a minimum of 2 tons per acre.
+
+(4) The practice of harvesting chillies "green" *i.e.*, at the stage when the pods though mature are of a green colour, at the first picking and "red" at subsequent pickings, is definitely more advantageous than the method of picking chillies "red" throughout. In addition to the fact that the total yield of crop is appreciably increased by the method of "green" picking, the actual increase in this instance being 7.5 cwt. of fresh chillies, there is the advantage that the green chillies can almost invariably be sold at remunerative prices. The outturn by weight of dry chillies has been found by experiment to be 30 per cent. in the case of pods picked "red" and 27.5 per cent. in the case of pods picked "green". On these figures, the minimum increased profit that would result from the adoption of this system of picking would be approximately the price of 2 cwt. of dry chillies or Rs. 30 per acre. The practice is, therefore, strongly to be recommended, particularly where there is a ready market for green chillies.
+
+(5) None of the interactions between the different factors under experiment has proved significant.
+
+(For Table V. see page 345).
+
+It will be noted from table V that :
+
+(i.) Though there appears to be a tendency for nitrogen to delay slightly the ripening of the pods, there is no certainty that such is actually the case, especially in view of the reverse result noted previously (1).
+
+(ii.) There is a steady fall in yield of crop from the third pick onwards. About 95 per cent. of the total crop is obtained in six pickings, and 50 per cent. from the first three picks.
+
+20------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+
+21------------------------------------------------
+
+346TABLE VI.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Manurial treatment</th>
+<th colspan="3">Mean weights of pods<br/>in grains</th>
+<th colspan="3">Mean numbers of pods<br/>per pound</th>
+</tr>
+<tr>
+<th>Green</th>
+<th>Red</th>
+<th>Average</th>
+<th>Green</th>
+<th>Red</th>
+<th>Average</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Control</td>
+<td>.. 6.8</td>
+<td>.. 7.0</td>
+<td>.. 6.9</td>
+<td>.. 1,206</td>
+<td>.. 1,199</td>
+<td>.. 1,202</td>
+</tr>
+<tr>
+<td>2. Single nitrogen</td>
+<td>.. 6.5</td>
+<td>.. 7.9</td>
+<td>.. 7.2</td>
+<td>.. 1,249</td>
+<td>.. 1,130</td>
+<td>.. 1,190</td>
+</tr>
+<tr>
+<td>3. " " †F.Y.M.</td>
+<td>7.0</td>
+<td>.. 7.3</td>
+<td>.. 7.15</td>
+<td>.. 1,170</td>
+<td>.. 1,110</td>
+<td>.. 1,140</td>
+</tr>
+<tr>
+<td>4. Double nitrogen</td>
+<td>.. 6.9</td>
+<td>.. 7.2</td>
+<td>.. 7.05</td>
+<td>.. 1,197</td>
+<td>.. 1,133</td>
+<td>.. 1,165</td>
+</tr>
+<tr>
+<td>5. " " †F.Y.M.</td>
+<td>7.2</td>
+<td>.. 7.2</td>
+<td>.. 7.2</td>
+<td>.. 1,222</td>
+<td>.. 1,127</td>
+<td>.. 1,174</td>
+</tr>
+<tr>
+<td>6. F. Y. M.</td>
+<td>.. 6.4</td>
+<td>.. 7.0</td>
+<td>.. 6.7</td>
+<td>.. 1,173</td>
+<td>.. 1,157</td>
+<td>.. 1,165</td>
+</tr>
+<tr>
+<td>Average</td>
+<td>.. 6.80</td>
+<td>7.27</td>
+<td>7.03</td>
+<td>1,203</td>
+<td>1,143</td>
+<td>1,173</td>
+</tr>
+</tbody>
+</table>
+
+TABLE VII.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Mean weights of<br/>pods in grains—</th>
+<th colspan="7">Picking</th>
+</tr>
+<tr>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>4th</th>
+<th>5th</th>
+<th>6th</th>
+<th>7th</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Red</td>
+<td>.. 8.4</td>
+<td>.. 8.6</td>
+<td>.. 7.9</td>
+<td>.. 7.7</td>
+<td>.. 7.3</td>
+<td>.. 6.4</td>
+<td>.. 4.6</td>
+</tr>
+<tr>
+<td>Green</td>
+<td>.. —</td>
+<td>.. 7.3</td>
+<td>.. 7.8</td>
+<td>.. 8.0</td>
+<td>.. 7.6</td>
+<td>.. 5.9</td>
+<td>.. 4.2</td>
+</tr>
+<tr>
+<th>Mean numbers of<br/>pods per pound—</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>Red</td>
+<td>.. 888</td>
+<td>.. 864</td>
+<td>.. 952</td>
+<td>.. 1,025</td>
+<td>.. 1,102</td>
+<td>.. 1,323</td>
+<td>.. 1,844</td>
+</tr>
+<tr>
+<td>Green</td>
+<td>.. —</td>
+<td>.. 1,025</td>
+<td>.. 960</td>
+<td>.. 1,012</td>
+<td>.. 1,090</td>
+<td>.. 1,309</td>
+<td>.. 1,821</td>
+</tr>
+</tbody>
+</table>
+
+Tables VI. and VII. summarize the results of determinations of the average weights of pods and numbers of pods per lb. made on representative samples of dry chillies at each picking. It will be observed that :
+
+(1) The average weight per pod of chillies picked "red" from the start is very slightly higher than that of chillies picked "green" at first, but the difference may not be significant. As would be expected, the reverse holds in respect of the number of dry pods per lb. The latter varies from 1,110 to 1,250.
+
+(2) There are no appreciable variations in average weights of pods from differently manured plots.
+
+(3) There is, in general, a decrease in the average weight of pod and consequently an increase in the average number of pods per lb. with advancing picking after the first two picks. The number of pods per lb. rises from 888 in the first picking to 1,844 in the last picking in the case of chillies picked "red" throughout.
+
+#### SUMMARY
+
+A combined manurial and cultural trial conducted at the Jaffna Experiment Station in the *yala* 1938 season led to the following important conclusions :—
+
+22------------------------------------------------
+
+347
+
+(1) Both single and double dressings of nitrate of soda result in very significant yield increases over the control; the double dressing is definitely superior to the single dressing.
+
+(2) The enhanced profits from manuring chillies, on the data obtained in this experiment, vary from Rs. 25 to Rs. 42 per acre, assuming the price of dry chillies to be Rs. 15 per cwt.
+
+(3) Harvesting chillies "green" at the first picking, and ripe or "red" at subsequent pickings, is very definitely superior in respect of crop yield to picking chillies "red" throughout. An increased fresh weight of 7.5 cwt. per acre of chillies has thus been obtained.
+
+(4) Farmyard manure has not, under the conditions of this trial, produced a significant average yield increase. There is, however, a strong suggestion that used alone farmyard manure is beneficial, and its application, even in relatively small quantities as a basal dressing for chillies under Jaffna conditions, is advocated.
+
+(5) The average outturn by weight of dry chillies on fresh chillies is 30 per cent. when picked "red", and 27.5 per cent. when picked "green".
+
+(6) There is a marked decline in average weight of pod as picking advances, and a steady fall in yield of crop from the third picking onwards.
+
+(7) There is no appreciable variation in the average weights of pods from differently manured plots.
+
+#### ACKNOWLEDGEMENTS
+
+It is with much pleasure that we acknowledge the valuable assistance rendered us in this trial by Mr. S. Balasingham, Manager, Experiment Station, Jaffna, who has been mainly responsible for making the numerous records involved.
+
+#### REFERENCES
+
+1. 1. Joachim, A. W. R., and Paul, W. R. C.—Manurial Experiments with Chillies. *The Tropical Agriculturist*, XCI., No. 4, October, 1938.
+2. 2. Yates, F.—The Design and Analysis of Factorial Experiments. *Imp., Bur. Soil Sc. Tech. Comm.* No. 35, 1937.
+3. 3. Paul, W. R. C., and Fernando, M.—The Effect of Manuring on the Incidence of Chilli Leaf Curl. *The Tropical Agriculturist*, XCII. No. 1, January, 1939.
+
+23------------------------------------------------
+
+348
+
+## DEPARTMENTAL NOTE
+
+---
+
+### MULTIPLE BIRTHS IN CATTLE
+
+---
+
+M. CRAWFORD, M.R.C.V.S.,
+
+DEPUTY DIRECTOR (ANIMAL HUSBANDRY) AND GOVERNMENT  
+VETERINARY SURGEON
+
+---
+
+THE birth of more than one calf to a cow at a birth is so unusual in Ceylon as to be worthy of record when it occurs.
+
+Cow No. 30 at the Government Dairy, Colombo, gave birth to three bull calves on April 3, 1939. She is a three-quarter-bred Ayrshire Scind aged 4 years and 2 months. She was due to calve on April 8. Unfortunately labour occurred a little prematurely on April 3. She had a difficult calving and required assistance. All three calves were born dead. They were all bulls. Their approximate weights were 35 lb., 30 lb., and 20 lb. The normal weight of a single calf at full term for this breed of cow is between 50 and 60 lb. so that they were all below normal although the total weight *i.e.*, 85 lb. was considerably above normal.
+
+As a rule about 100 calves are born each year at the Government Dairy and so far as records show triplets have never been born before at this Dairy. Twins have been very rare but have occurred on several occasions. Curiously enough the first occasion on which twins have been born at the Peradeniya Farm School Dairy since its inception was in February of this year.
+
+It is of interest to note that when twin calves are born, if they are both of the same sex, either two bulls or two heifers, they are normal; when one is a bull and the other a heifer the bull calf is normal but in about 8 cases out of 9 the heifer is what is called a "freemartin" and is sterile and useless for breeding.
+
+This curious fact is because when twin calves are developing in the uterus of the cow there seems to be a very marked tendency for fusion of the two placental membranes to occur. As a result of the fusion of the placental membranes blood circulates in common through the blood vessels of both calves. Hormones from the developing sex glands of the bull calf gain entrance to the circulating blood and can be carried with the blood to the twin heifer calf. The male sex hormones circulating in the blood
+
+24------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_013:96 -->
+
+349
+
+appear to exercise an inhibitory effect on the developing female sex glands of the twin heifer with the result that their development is permanently checked and the ovaries and connected sex organs have their growth arrested at a very early stage and remain infantile throughout the freemartin's life. As a consequence the freemartin is incapable of breeding and is of no value save for the butcher.
+
+
+25------------------------------------------------
+
+350
+
+## SEASONAL PLANTING NOTES
+
+---
+
+### CALENDAR OF WORK FOR JUNE
+
+---
+
+T. H. PARSONS, F.L.S., F.R.H.S.,  
+ CURATOR, ROYAL BOTANIC GARDENS, PERADENIYA
+
+---
+
+**J**UNE is usually a busy month for the gardener both in the flower garden, plant house, and vegetable garden.
+
+In the south-western areas, the monsoon rains will have arrived and all grounds still lying fallow should be dug and manured to allow the rains to soak in and nitrify the soil in preparation for the full planting period. All transplanting of shrubs and perennials should be completed this month, and the more tender annuals can be planted out towards the end of the month. The latter will include asters, zinnias, *Phlox Drummondii*, anthonia, marigold, arecotis, hollyhock, petunia, salvia seedlings and the like.
+
+In planting such annuals, the surface of the bed or border should be cleared of all stones leaving as fine a soil tilth as possible. The removal of seedlings from the boxes to beds should be done very carefully and each seedling taken out with a small ball of earth attached. Much harm may be done in neglecting this important point, particularly with zinnias which are prone to wilt very badly if the young rootlets are stripped of soil or damaged. Watering of the seedling boxes overnight allows the seedling to be removed to best advantage the next morning.
+
+Renovating of lawns, if not yet done, should be completed this month and the fernery or rockery should be overhauled, forked up, and a dressing of leaf-mould dug in. Varieties of indigenous ferns from the jungle should be obtained and all gaps filled in.
+
+Cuttings of plant material for beds and borders inserted in nurseries last month, or early this month, should be watched: and towards the end of the month the overhead shade could be entirely removed. Certain trees, shrubs and climbers, notably the amherstia, ixoras, some bougainvilleas and *Marchiel Neil* roses are propagated mainly by gootees. All such work, if not already done, should be put in hand at once as the rains and
+
+26------------------------------------------------
+
+351
+
+consequent humid atmosphere of the early part of the monsoon ensure rapid rooting as compared to later in the season when hand watering has to be employed.
+
+At Peradeniya Gardens the actual work in hand this month includes planting of ribbon borders of coleus, alternanthera and caladiums and planting out of annuals enumerated above in beds, renovation of lawns, potting of orchids, refilling of all gaps in herbaceous borders, potting of glass-house and green-house plants, and potting of nursery stocks.
+
+Towards the end of the month, further sowings or plantings of vegetables can be made including beans, cauliflower, carrots, kohl-rabi, lettuce, sweet potato, turnip, artichoke and onions.
+
+Up-country, owing to the strong winds experienced during the south-west monsoon, staking of border plants is an important item. The proper season for a show of annuals is January-April, but further sowings can now be made for the planting out of quick-growing varieties in August. Dahlias, and especially tree dahlias, do well at higher elevations and if planted now a very fine show can be made extending into October and November. Dahlias are raised by seed, by tuber or by cuttings and for this time of year plants are attained more quickly if raised from cuttings.
+
+Roses are, naturally, best grown in up-country districts and well-grown plants can produce really fine flowers. They thrive best in a well-drained position with soil of a fairly heavy nature with good humus content. They profit by regular manuring if the manure is given in small doses at frequent intervals. Liquid manure is beneficial also. Imported plants from Australia arrive each year during June and July and if planted in a well-prepared hole in the open away from neighbouring tree roots, good results can be expected for two or three years, after which the rose bush in the tropics degenerates rapidly. This is due chiefly to the plant being grafted on a rootstock unsuited to our conditions though very suitable to those of Australia. The latter country has a winter whilst here we lack this resting season for the plant.
+
+It is wise, therefore, whilst the plant is still in its full vigour to raise fresh stocks by means of cuttings called "own-root plants". It is found that own-root plants thrive well under local conditions, especially up-country, and degeneration such as occurs in the budded plant does not occur to the same degree on own-roots. June is also a very suitable month in which to strike rose cuttings, and well-ripened roots should be selected with, if possible, a portion of the older wood called the "heel" and inserted in prepared beds under shady conditions. The bed should contain a liberal amount of river-sand as this acts as a
+
+27------------------------------------------------
+
+352
+
+very helpful rooting medium. The cuttings should have formed sufficient roots to be planted out in the October-November season.
+
+Plant up all vacant corners, banks, &c. and insert fresh stocks of cuttings in boxes, under cover of such useful flowering plants as verbenas and petunias. This is also a good time to prune back shrubberies and generally to tidy up garden surroundings. Sowings of the hardier vegetables should be persevered with but peas, beans, and other more tender types should be left till August when the monsoon will have almost exhausted itself.
+
+This month is the month of mangoes. As far as information goes, crops are below the average; nevertheless the usual glut can be expected. Though normally the standard of the majority of Ceylon mangoes is low, there are here and there trees of outstanding merit that produce fruits to rival the best Indian fruits. These can generally be traced back to imports obtained by the late Ceylon Agricultural Society or to the Department Seed Store, now defunct. Grafted plants are from such trees and this is a good time in the south-west monsoon areas to plant such fruit trees.
+
+It is very little more costly to grow a grafted plant of known parentage than an unknown seedling and future fruit growers in orchard or compound are advised to put in only the best available varieties.
+
+28------------------------------------------------
+
+353SELECTED ARTICLESTHE CITRUS INDUSTRY OF AMERICA\*
+
+IN the month of October, 1935, I left Australia for the United States of America, and disembarked at San Francisco on November 4. The object of my visit was to study first-hand citrus methods and problems in that country, particularly in regard to cultural, organization, packing, transport and marketing. From San Francisco I journeyed south to Los Angeles, which city is the centre of the enormous producing district of Southern California. Thence I went to Riverside, sixty miles east of Los Angeles, which I established as my centre.
+
+Before reaching America it was my intention to visit the other large citrus producing States, namely, Arizona, Texas, and Florida. This idea was subsequently abandoned, as in the limited time I had at my disposal and by the adoption of that schedule, I would no more than gain a cursory survey of the industry. As the climate, as well as the cultural and irrigation practices and problems of Southern California appeared to be somewhat similar to those obtaining in South Australian citrus districts, I decided to devote the whole of my investigation to that area.
+
+Being under the impression that the harvesting of Washington Navel oranges in California commenced in November, my visit was timed accordingly. This however, proved not to be the case, and harvesting does not seriously commence till early January. At the time of my arrival the Valencia orange crop was virtually finished.
+
+In this report I propose confining my remarks to Southern California.
+
+All values herein are given in sterling.
+
+Southern California is divided from the Mojave Desert, lying to the east, by the San Bernardino range of mountains, and the citrus is grown in long fertile valleys running towards the Pacific coast. There is no native tree growth either on the mountains, or in the valleys, but millions of imported trees, principally the Tasmanian Blue Gum, the Brazilian Pepper tree, Pines, and Palms, have been planted, and these have vastly improved the appearance and commercial value of the countryside.
+
+The orange trees are planted right up to the foothills, the peaks of which are often snow-capped. The climate is hot in summer with occasional heat waves, and mild in winter, and is subject to heavy frosts. At one time Southern California was largely planted with deciduous trees and vines; but in the course of time these have given way to citrus and walnuts.
+
+It has been found by experience over a number of years that certain districts and soils prove more suitable to certain varieties of citrus; for instance,
+
+---
+
+\* *Department of Agriculture, South Australia, Bulletin No. 316.*
+
+29------------------------------------------------
+
+354
+
+Riverside is more particularly suited to the Washington Navel orange. This variety is mainly confined to Riverside, San Bernardino, Los Angeles, and Tulare counties.
+
+Values of oranges groves range from £200 per acre for the poorer types to £400 for the better. But I doubt if one would find sellers of the latter. Prior to the depression, values were much higher, and many properties changed hands at £1,000 per acre. I came in contact with land in the Upland district which was being prepared for lemon growing. The virgin land, which was covered with small bushes and small to huge granite boulders, cost £100 per acre. This was costing £200 to clear, and then the land had to be planted and maintained for several years before the trees came into profitable production. This class of soil is, however, very rich, and ideal lemon country.
+
+The American crop of citrus was a record in 1935, and I understand that the output was 30 per cent. in excess of any previous crop. Thousands of acres which were planted just prior to the depression are now coming into production, and this fact has a bearing on the present huge out-turn.
+
+I saw one of the two parent Washington Navel orange trees. This was introduced into California by Mrs. Eliza Tibbetts in 1873 from Bahia, Brazil. It is quite a small tree, is still bearing fruit, and is planted in Magnolia Avenue, Riverside. These two trees really laid the foundation of the Washington Navel orange the world over.
+
+One of the outstanding features I encountered was that the grower is a grower only, unless he is outside the co-operative organizations. He does not even harvest the fruit, and in many instances leaves fumigation and pruning in other hands. Where possible this policy should be adopted in Australia.
+
+Grapefruit is giving the Americans much thought to-day. They are already over-producing, and there are thousands of acres yet to come into bearing. The several States are much concerned as to how they are going to handle the position when the new areas reach production, but they are confident that with extensive advertising, and propaganda, and the possibility of increased consumption, the future disposal of the fruit at remunerative prices may not present as many difficulties as now appear.
+
+Since December, 1933, a marketing agreement and licence, under the Federal Agricultural Adjustment Act, has been operating for oranges and grapefruit in California and Arizona. This seeks to increase returns to growers by regulating the flow of fruit despatched to market. The scheme was requested by the industry, to which it has given material benefits. The agreement was recently extended for a further 12 months.
+
+### THE COMMERCIAL CITRUS GROVE
+
+Southern California is planted mostly with citrus and walnuts, the former largely predominating. The groves are set out very regularly, and everything connected with the properties is neat and orderly. The residences are substantial, mostly two stories, and surrounded with attractive flower gardens, lawns, shrubs, and ornamental trees. Fences are not in evidence, and all properties are open to the road. The pride taken by "Sunkist" growers,
+
+30------------------------------------------------
+
+355
+
+that is, those operating through the Californian Fruit Growers Exchange, is indicated by the fact that every orchard bears a neat enamelled sign bearing the name of the grower and the words "Sunkist Grower".
+
+The average property contains from 10 to 12 acres, which is all planted with citrus. There are, however, many large properties, some comprising 700 to 1,000 acres, and even larger. These are generally held by corporations.
+
+Breakwinds are used extensively, and it is generally agreed that each 10 acres should be so protected. The Tasmanian Blue Gum is used extensively for this purpose, and has proved most effective.
+
+The average quantity of Washington Navel oranges produced in California during the five-year period 1927-31, was  $3\frac{1}{2}$  bushels per tree. A well cared for orchard produces 4 to 5 bushels, and I came in contact with many groves, including large acreages, averaging 10 to 12 bushels per tree. Our standard packed bushel case contains about the weight as the loose fruit contained in their field picking box.
+
+#### CENTRAL CALIFORNIA
+
+This is a large citrus area situated in Tulare county, some 250 miles north of Los Angeles, and 50 miles south-east of Fresno, and embraces the districts of Tulare, Lindsay, Porterville, &c. Its climate and cultural and irrigation practices are somewhat similar to those obtaining in Southern California; but the product is marketed a little earlier. The fruit is harvested as soon as it is tinged with colour, and then treated with ethylene gas in order to colour the rind thoroughly. All fruit must, however, pass the necessary maturity standard before accepted by the packing houses. This centre is subject to very early and heavy frosts. Otherwise my remarks on Southern California apply generally to this district.
+
+#### GENERAL APPEARANCE OF TREES AND QUALITY OF PRODUCT
+
+On the whole, except the damage occasioned by the hot winds in October last as mentioned elsewhere, the trees were in excellent heart, and the older plantations (50 years) were certainly in their prime and in full vigour. There is little evidence of off-type fruit. Undoubtedly commercial competitive conditions have forced the elimination of this class of fruit from the market.
+
+The fruit is of very fine even type, with a thin glove-like skin appearance, is full flavoured, juicy, and comparatively free of rag. The freedom of blemishes on the rind was most noticeable; this is due to windbreaks, treatment against thrips and other pests, and the absence of deadwood. The average yield of high grade fruit similar to Sunkist grade, and having a maximum skin blemish of three per cent., is 74 per cent. of production. If a grower produces under 70 per cent. of this grade he is not considered a successful grower. The better types of orchards produce as high as 90 per cent. I estimate our average of this grade in South Australia to approximate 20 per cent.
+
+#### ROOTSTOCKS, BUDS, PLANTINGS, &c.
+
+Highly specialized citrus nurseries propagate the young trees for the orchard, and only well-grown rootstocks and selected buds are used. Up till 10 years ago the sour orange stock was in general use; to-day the tendency is towards
+
+31------------------------------------------------
+
+356
+
+the sweet orange stock, and it is stated that present plantings comprise about 50 per cent. each sour and sweet stocks. The rough lemon or citronella stock is unknown. The principal reason for the production of a uniform line of fruit, consistent in bearing, and freedom from off-type, is because for many years buds from only selected trees have been used. I am of opinion that this factor has a bigger bearing on quality and quantity production than most Australians are aware of.
+
+The main plantings in California comprise Washington Navel and Valencia oranges, grapefruit and lemons. Other varieties are not considered profitable. The Valencia orange is in my opinion, similar to the improved type of Valencia introduced here from Berri and Mildura.
+
+Orange trees, as a rule, are not allowed to branch within 30 in. to 36 in. of the ground. The trees are generally planted at from 70 to 110 to the acre; but in some of the older orchards there are considerably more per acre, and in many instances the trees are almost interlaced. The general ages of the trees range from 20 to 50 years; but there are large areas of younger trees.
+
+#### CLIMATE AND SOIL
+
+The climate of Southern California is of an arid nature and subject to long rainless spells and heat waves. In these respects the conditions are somewhat similar to those in our River Murray belt; but their humidity is more pronounced than ours, and they are subject to severe frosts which, at times, materially affect the foliage of the trees, as well as rendering large quantities of the fruit unmarketable. In October, 1935, this centre experienced a hot wind blast from the desert, which in places partly, and in other places wholly, defoliated large numbers of trees. The fruit crop was also badly affected, the loss ranging up to over 20 per cent. with an average estimated loss over the whole crop of  $12\frac{1}{2}$  per cent.
+
+The soil is largely of a sandy nature, generally of a greyish-brown colour, and much heavier than our Murray Mallee soil. It is of good depth, and has plenty of body; but I am of the opinion that our soil is capable of equal production if we apply similar cultural practices.
+
+#### PACKING HOUSES
+
+California is well provided with up-to-date and highly efficient packing houses for the processing and packing of citrus fruits. These are equipped with modern machinery for handling, gassing, washing, processing, packing, and box-making and every effort is made to eliminate hand labour and reduce costs. It requires an annual output of 160,000 to 200,000 boxes to warrant the capital outlay essential to the establishment of a fully equipped installation. The larger houses handle much in excess of these quantities. All operations excepting the sorting, wrapping and the packing of the fruit, are done by machinery and these include box-making, lidding, and strapping the boxes, pasting labels on the boxes, washing, processing and branding the fruit, automatically counting the fruits, grades, &c.
+
+32------------------------------------------------
+
+357
+
+In the majority of the houses all fruit is washed, treated with one of the several chemical preparations for the prevention of decay, waxed and branded. A few houses, however, only dry brush and brand the fruit. Fruit is invariably packed as soon as possible after harvesting.
+
+In every operation the greatest care is exercised to avoid damage of the fruit, and gloves are worn by everyone. Female labour is used almost exclusively in grading, sorting, and packing. The fruit is culled very drastically, and is generally sorted into four grades. The classification used by the Californian Fruit Growers Exchange are :—
+
+First quality, Fancy (Sunkist).
+
+Second quality, Choice (Red Ball).
+
+Third quality, Standard.
+
+Fourth quality, Culls.
+
+The permissible area of skin blemish on Sunkist quality is 3 per cent. of the orange. The first and second qualities are the only ones packed, and these are the only grades despatched outside California ; the third is sold loose in the box and the remainder used for by-products. A large proportion of the crop is used for the manufacture of drinks and by-products.
+
+The only box used is the standard Californian box of two compartments. Our Australian export box is identical with this. These boxes are well ventilated, have a flexible four-piece unitized lid, and are centre strapped. For export purposes the lid is wired at each end. The box is printed with an advertisement on each side, and attractive labels are used. All branded fruit is wrapped in printed tissue paper wraps. The gross weights of the packed boxes are approximately as follows :—Washington Navel—Domestic 85 lb. export 78 lb. ; Valencia—Domestic 89 lb., export 80 lb. A railcar load consists of 462 boxes of oranges, or 348 boxes of lemons.
+
+A flat charge of one dollar (4s. 2d.) is made to cover costs of harvesting, transport to packing house, and packing and placing on rail, Exchange, Head Office and District charges. As is usual with co-operative enterprise this charge is subject to rebate to growers at the end of the season ; this generally amounts from 10d. to 1s. Of this charge 7½d. is absorbed in harvesting and haulage to the packing house, 2s. 1d. in packing charges (the made up box costing 7½d.), and the balance in Exchange and other charges.
+
+Although many different chemical preparations are used for the prevention of decay, borax appears to be the most common. Since the introduction of these preservatives wastage in fruit between packing house and the consumer has been materially reduced ; but it must be borne in mind that, despite these various treatments, heavy waste still develops in certain periods of the season.
+
+#### CULTURAL
+
+Tractors and mules are used for operating orchard implements, the former largely predominating. Heavy type disc and mouldboard ploughs are general, and disc or tyne cultivators for cultivating. The Rotary Hoe is unknown.
+
+Whereas cultivations were formerly deep and frequent, present-day practices are generally for light working, and as infrequently as possible. The periods
+
+2—J. N. 84070 (6/39)
+
+33------------------------------------------------
+
+358
+
+between cultivations are governed to a large extent by weed growth, and the necessity of maintaining irrigation furrows in a serviceable condition. As a rule the cultivator is used only after every two or three irrigations. This practice is not adopted by all growers, as some still till the soil frequently. It appeared to me that the absence of the intense cultivation that prevailed formerly, is due in part to economy as a result of the depression, and in part to the now generally accepted principle that the less frequent stirring of the surface soil is beneficial to tilth, root development and moisture penetration.
+
+### IRRIGATION
+
+California is in the main an irrigated State, this being wholly so in the citrus areas. In Southern California the average annual rainfall ranges from 10 in. to 15 in. according to the districts. From May to December, 1935, only  $2\frac{1}{2}$  in. had been registered. At the time of my visit the plains and mountains were entirely devoid of natural grasses. As a rule, conditions are very dry till about the end of December, after which the winter rains commence. Up till mid-December, there had been eight citrus irrigations, and preparations were being made for another. The average number of citrus irrigations is from seven to eight per annum. Water is applied regularly every 30 days during spring, summer and autumn, with from one or two applications during winter, according to the moisture content of the soil.
+
+Districts vary in the quantity of water used from 25 to 40 acre inches; but the average is about 30 in. applied at the rate of  $3\frac{1}{2}$  in. to 4 in. per irrigation. Owing to shortage of water no special or intermediate irrigations are given. The furrow system is almost universal. Furrows are placed as closely together as possible. In some instances a straight course is used; in others furrows are checked or zig-zagged. The water is passed along these furrows as quickly as possible, and water runs are from four to six chains.
+
+Whereas the Australian practice is to place the outside furrow at the fringe of the foliage of the tree, Californians furrow as far under the trees as their implements will permit. Partly for this purpose the foliage is kept well off the ground.
+
+Most of the water is obtained from deep wells by means of pumps. In certain localities there is a definite shortage of irrigation water, and in two districts I noticed that certain sections of areas had been abandoned as a result of water shortage.
+
+Seepage or water-logging of soils is not much in evidence; this is owing to the type of subsoil, and the light irrigations.
+
+Cost of water varies considerably; but taken generally our costs compare favourably with theirs. Water and irrigation labour cost from £3 to £5 per acre per annum. Power for lifting water is very cheap, being quite commonly obtained from engines using natural gas.
+
+### FERTILIZERS
+
+Californians are heavy users of fertilizers, more particularly those containing organic matter and nitrogen. It has been proved beyond doubt that barnyard manures, cover crops and nitrogen are the essential ingredients to apply to the
+
+34------------------------------------------------
+
+359
+
+soil for growth and production purposes. Nitrogen is introduced mainly by the use of animal manures, cover crops, fish meal, sulphate of ammonia, nitrate of soda, nitrate of lime, &c. Barnyard and hog manures are applied generally at from five to 10 tons per acre annually, and in many cases heavier. Large quantities of Lucerne and Bean straw are transported long distances and applied heavily. Green humus crops are also grown extensively from Melilotus, Purple Vetch and Mustard. The general practice is to apply about 4 lb. of nitrogen annually, one-half each from organic (preferably cattle manure) and inorganic sources.
+
+The use of phosphate and potash is not much in evidence. It has been proved that these elements are freely distributed throughout Californian soils by nature, and their introduction by artificial means has not produced any definite results, either in tree growth or production.
+
+Cover crops are sown in late summer and early autumn, and disced under in the early spring. Organic manures are applied in the early fall, and nitrogen in early spring.
+
+#### PESTS AND DISEASES
+
+California is subject to many orchard pests and diseases. Red, black and wax scales are very active, and drastic action is taken against these by means of fumigation and spraying. At times thrips are very prevalent, and usually this pest is treated about three times in its season, either by means of spraying or dusting. The co-operative packing houses do most of the fumigation, &c.
+
+#### FROST PROTECTION
+
+Much money has been expended in fighting frost. Most orchards are equipped with oil-burning heaters, and these entail a heavy outlay per acre.
+
+Radio messages are broadcast, and growers are warned if there is any likelihood of frost. This gives the grower the opportunity to prepare for his attack, and these heaters are kept burning during the night till all danger is over, usually from four to five hours.
+
+Central California is particularly susceptible to frost, and for this reason all its fruit is harvested early in the season, and before Southern California commences.
+
+#### HARVESTING
+
+Harvesting is, in my opinion, the most important operation in connection with successful marketing, and is the keynote of the fruit reaching the consumer in sound condition. The grower, excepting those large producers who have their own packing houses, confines his activities to the production of fruit. The harvesting, haulage to packing house, and packing are conducted by the packing houses. These are mostly co-operative, and they send teams of selected men with capable foremen to the orchards for harvesting purposes. The use of picking bags, field picking boxes, fruit clippers and gloves is universal, in fact one would say compulsory.
+
+#### TRANSPORT
+
+Most of the transport of citrus to other States is by means of the railway, which are operated by private companies. These give the industry excellent
+
+35------------------------------------------------
+
+360
+
+service, and the system is highly organized. Where conditions warrant, such as long distance transport to the East, iced, ventilated vans are used in the summer, and a fast service maintained. In very cold weather oil heaters are used.
+
+The packed boxes of fruit are stacked two high on end in the vans and secured with battens. The type of box used has been designed to fit compactly into the van, which holds 462 boxes.
+
+For conveyance beyond California a flat rail transport rate of 4s. 9d. per box operates. The boxes are tightly fitted into the vans by means of a machine using an expanding device. The motor track is also used extensively. Fruit for export is, when possible, shipped from Los Angeles and other Pacific ports.
+
+### PRUNING
+
+The practice of pruning citrus is universal. On the whole pruning is light ; but the trees are kept fairly well open for ventilation and sunlight purposes, and the foliage is kept well off the ground. Every effort is made to eliminate dead wood, and when possible growers lightly trim out their trees annually. This practice considerably reduces the cost of pruning over, say, a 10-year period. It has been found that heavy pruning of healthy trees is detrimental to subsequent cropping for a year or two.
+
+### LABOUR
+
+Large numbers of Mexicans are employed in the orchards and packing houses. Unskilled orchard labourers are paid 12s. 6d. per day. Packers and sorters, mostly women, are paid at piecework rates. Machinery has replaced labour to a large extent in both orchards and packing houses.
+
+### CITRUS EXPERIMENTAL STATION
+
+The Citrus Experimental Station, which is a division of the University of Southern California, is situated about four miles south of Riverside. It has some 350 acres of all known varieties of citrus under its control, and experiments of every description are conducted, including rootstocks, bud selection, cultivation, pruning, irrigation, fertilizers, soil analyses, insect and fungus control, &c.
+
+Dr. L. D. Batchelor is the Director, and has associated with him gentlemen of world renown in citrus investigation.
+
+I commenced my inquiries at this station, and met Dr. Batchelor, to whom I presented my Commission. He was very kind to me, gave me his undivided attention, and facilitated my every movement. In turn I was introduced to the several Professors and other members of the large staff, who all treated me most courteously, and freely made all information available. In all, I spent over a week at the station, and the knowledge gained is embodied in this report.
+
+It must, of course, be realized that in that short period it was impossible for me to acquire more than a superficial idea of their experiments and activities. One would need many months to study closely their results.
+
+36------------------------------------------------
+
+361
+
+Students from every part of the citrus world, excepting Australia, are studying at this station, spending from two to three years there. It is most regrettable that Australia is not represented, as we undoubtedly have much to learn on citrus culture, and should make every effort to keep ourselves abreast of modern thought and methods.
+
+The buildings are extensive and modern, and contain efficient laboratories, libraries, and equipment.
+
+Experiments were originally commenced at the Rubidoux Experiment Station in 1907, a few miles south of Riverside. This station, however, was abandoned a few years ago, and activities transferred to the present station. The new station was planted in 1917, but no experimental work was conducted, or manures applied until the trees were ten years old, the trees being simply maintained during that period.
+
+The experiments are closely watched by the industry, and the recommendations emanating from the station have been put into universal use by the nurserymen, growers, packers, &c., and have proved of untold value to all concerned.
+
+#### ORGANIZATION
+
+Marketing and many other sections of the industry are carried out by co-operative bodies capitalized and controlled by growers. The largest concern is the Californian Fruit Growers Exchange, having a membership of over 13,000 growers. Its head office is at Los Angeles, where it occupies a large building recently erected out of its funds. Originally this organization was established for marketing purposes only, but in the course of time it has materially extended its activities, which now embrace field and cultural problems, supplies, by-products, packing house supervision, fertilizers, fumigation and general pest control. ~~also having its own local department. To find out~~
+
+#### CORRIGENDUM.
+
+In *The Tropical Agriculturist*, December, 1939, page 360, line 9, for Rs. 26,000 read Rs. 2,600,000
+
+The exchange controls 75 per cent. of the production of citrus in California, embracing most of the smaller growers, some of whom would be considered large in Australia. The balance is handled by another co-operative body, the Mutual Orange Distributors (10 per cent.), and individual large growers and dealers.
+
+Bulletins and wireless broadcasts are frequently supplied to growers, giving all the latest information and advice.
+
+The Exchange controls all its members' export and advertising. Advertising is conducted on an enormous scale, and cost the Exchange £400,000 in 1935.
+
+The words "Sunkist" and "Red Ball" are registered by the Exchange for use in connection with its first and second grade brands respectively, and
+
+37------------------------------------------------
+
+360
+
+service, and the system is highly organized. Where conditions warrant, such as long distance transport to the East, iced, ventilated vans are used in the summer, and a fast service maintained. In very cold weather oil heaters are used.
+
+The packed boxes of fruit are stacked two high on end in the vans and secured with battens. The type of box used has been designed to fit compactly into the van, which holds 462 boxes.
+
+For conveyance beyond California a flat rail transport rate of 4s. 9d. per box operates. The boxes are tightly fitted into the vans by means of a machine using an expanding device. The motor track is also used extensively. Fruit for export is, when possible, shipped from Los Angeles and other Pacific ports.
+
+### PRUNING
+
+The practice of pruning citrus is universal. On the whole pruning is light ; but the trees are kept fairly well open for ventilation and sunlight purposes, and the foliage is kept well off the ground. Every effort is made to eliminate dead wood, and when possible growers lightly trim out their trees annually. This practice considerably reduces the cost of pruning over, say, a 10-year period. It has been found that heavy pruning of healthy trees is detrimental to subsequent cropping for a year or two.
+
+### LABOUR
+
+Large numbers of Mexicans are employed in the orchards and packing houses. Unskilled orchard labourers are paid 12s. 6d. per day. Packers and sorters, mostly women, are paid at piecework rates. Machinery has replaced labour to a large extent in both orchards and packing houses.
+
+control, etc.
+
+Dr. L. D. Batchelor is the Director, and has associated with him gentlemen of world renown in citrus investigation.
+
+I commenced my inquiries at this station, and met Dr. Batchelor, to whom I presented my Commission. He was very kind to me, gave me his undivided attention, and facilitated my every movement. In turn I was introduced to the several Professors and other members of the large staff, who all treated me most courteously, and freely made all information available. In all, I spent over a week at the station, and the knowledge gained is embodied in this report.
+
+It must, of course, be realized that in that short period it was impossible for me to acquire more than a superficial idea of their experiments and activities. One would need many months to study closely their results.
+
+38------------------------------------------------
+
+361
+
+Students from every part of the citrus world, excepting Australia, are studying at this station, spending from two to three years there. It is most regrettable that Australia is not represented, as we undoubtedly have much to learn on citrus culture, and should make every effort to keep ourselves abreast of modern thought and methods.
+
+The buildings are extensive and modern, and contain efficient laboratories, libraries, and equipment.
+
+Experiments were originally commenced at the Rubidoux Experiment Station in 1907, a few miles south of Riverside. This station, however, was abandoned a few years ago, and activities transferred to the present station. The new station was planted in 1917, but no experimental work was conducted, or manures applied until the trees were ten years old, the trees being simply maintained during that period.
+
+The experiments are closely watched by the industry, and the recommendations emanating from the station have been put into universal use by the nurserymen, growers, packers, &c., and have proved of untold value to all concerned.
+
+#### ORGANIZATION
+
+Marketing and many other sections of the industry are carried out by co-operative bodies capitalized and controlled by growers. The largest concern is the Californian Fruit Growers Exchange, having a membership of over 13,000 growers. Its head office is at Los Angeles, where it occupies a large building recently erected out of its funds. Originally this organization was established for marketing purposes only, but in the course of time it has materially extended its activities, which now embrace field and cultural problems, supplies, by-products, packing house supervision, fertilizers, fumigation and general pest control, also having its own legal department. In fact every phase of the industry is dealt with. The exchange is really a wonderful business organization, highly efficient, and of immense benefit to members. There are over 20 district Exchanges connected with and controlled by the head office and these are in close and constant touch with growers, packing houses, railway companies, &c. These sub-exchanges are equipped with a multi-telegraph system, and the machines are continually giving out reports regarding markets, condition of fruit on arrival at markets, and other essential details.
+
+The exchange controls 75 per cent. of the production of citrus in California, embracing most of the smaller growers, some of whom would be considered large in Australia. The balance is handled by another co-operative body, the Mutual Orange Distributors (10 per cent.), and individual large growers and dealers.
+
+Bulletins and wireless broadcasts are frequently supplied to growers, giving all the latest information and advice.
+
+The Exchange controls all its members' export and advertising. Advertising is conducted on an enormous scale, and cost the Exchange £400,000 in 1935.
+
+The words "Sunkist" and "Red Ball" are registered by the Exchange for use in connection with its first and second grade brands respectively, and
+
+39------------------------------------------------
+
+362
+
+all fruits packed by houses operating under these brands are so branded on the rind. Close supervision is maintained by the Exchange to keep the quality of the fruit up to Exchange standards, which are strictly enforced.
+
+It was my good fortune to attend the 1935 annual conference of the exchange, at which 250 to 300 delegates were present, including District, Exchange and Packing House managers. It was rather interesting to learn that their problems have much in common with ours.
+
+### STATISTICS
+
+During my inquiries I was able to gather the following statistical information relative to citrus acreages and production, which will serve to indicate to what tremendous proportions the industry has reached in America. The figures are abstracts from official returns issued by the Federal and State Departments of Agriculture, and the Fruit Growers Exchange.
+
+#### United States acreage and packed box Production
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3"></th>
+<th rowspan="3">Acreages,<br/>1935.</th>
+<th colspan="2">Production.</th>
+</tr>
+<tr>
+<th>4-year Average,<br/>1921-1924.</th>
+<th>1934-1935.<br/>Season.</th>
+</tr>
+<tr>
+<th>Boxes.</th>
+<th>Boxes.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oranges</td>
+<td>.. 498,000</td>
+<td>.. 30,988,000</td>
+<td>.. 64,241,000</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>.. 192,000</td>
+<td>.. 8,554,000</td>
+<td>.. 21,357,000</td>
+</tr>
+<tr>
+<td>Lemons</td>
+<td>.. 52,000</td>
+<td>.. —</td>
+<td>.. 10,400,000</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>.. 742,000</td>
+<td>.. 39,542,000</td>
+<td>.. 95,998,000</td>
+</tr>
+</tbody>
+</table>
+
+#### California and Arizona acreage and Production
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Acreages,<br/>1935.</th>
+<th colspan="2">Production,<br/>1934-1935<br/>Season.</th>
+</tr>
+<tr>
+<th>Boxes.</th>
+<th>Boxes.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oranges</td>
+<td>.. 239,835</td>
+<td>.. 45,900,000</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>.. 20,600</td>
+<td>.. 3,407,000</td>
+</tr>
+<tr>
+<td>Lemons</td>
+<td>.. 52,000</td>
+<td>.. 10,400,000</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>.. 312,435</td>
+<td>.. 59,707,000</td>
+</tr>
+</tbody>
+</table>
+
+Of the 237,000 acres of oranges in California, Washington Navel oranges comprise 100,000 acres, the balance being Valencias.
+
+Thousands of carloads of citrus are converted into drinks each year. In fact I have heard it stated that this State (California) consumes as many oranges in the form of drinks as in fresh fruit.
+
+Recently a formula has been discovered for canning orange juice, and last year 1,386,000 boxes, representing 50,000 tons of citrus, were absorbed in this manner.
+
+The following were the average gross f.o.r. prices obtained per packed box at despatching stations in California :—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Values<br/>s. d.</th>
+<th>Marketing Periods.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Winter Oranges</td>
+<td>.. 8 0</td>
+<td>.. November-April.</td>
+</tr>
+<tr>
+<td>Summer Oranges</td>
+<td>.. 8 9</td>
+<td>.. May-October.</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>.. 6 2</td>
+<td>.. November-April.</td>
+</tr>
+<tr>
+<td>Lemons</td>
+<td>.. 11 4</td>
+<td>.. November-July.</td>
+</tr>
+</tbody>
+</table>
+
+40------------------------------------------------
+
+363
+
+In the 1934-1935 season, 2,500,000 boxes of citrus were exported (other than to Canada) from the United States of America.
+
+### CITRUS PRODUCTION, RETURNS AND COSTS
+
+The following tables were compiled by the Agricultural Extension Service, University of California, United States Department of Agriculture, and cover the period February 1, 1934, to January 31, 1935. Accurate figures were kept by the growers concerned, and submitted monthly. The prices are for fruit delivered to the Packing House door in field boxes. Labour costs included cultural, picking and haulage, and the value of the operator's own labour, but not as salary for management. Cash overheads include general expenses, county taxes, machinery repairs and insurance. Material costs include water, fertilizers, sprays and frost protection. Depreciation is on plant and improvements.
+
+#### Navel Oranges (Riverside County)
+
+<table border="1">
+<thead>
+<tr>
+<th>Number of Records,</th>
+<th>More<br/>Profitable<br/>Orchards.</th>
+<th>Less<br/>Profitable<br/>Orchards.</th>
+<th>Average<br/>All<br/>Orchards.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Total acres covered ..</td>
+<td>6</td>
+<td>6</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Average acres ..</td>
+<td>81</td>
+<td>72</td>
+<td>153</td>
+</tr>
+<tr>
+<td>Average age trees ..</td>
+<td>37</td>
+<td>38</td>
+<td>38</td>
+</tr>
+<tr>
+<td>Average No. trees per acre ..</td>
+<td>89</td>
+<td>91</td>
+<td>90</td>
+</tr>
+<tr>
+<td>Average yield packed boxes<br/>per acre ..</td>
+<td>261.6</td>
+<td>163.5</td>
+<td>215.5</td>
+</tr>
+<tr>
+<td></td>
+<td>£. s. d.</td>
+<td>£. s. d.</td>
+<td>£. s. d.</td>
+</tr>
+<tr>
+<td>Average price per packed box ..</td>
+<td>0 5 2</td>
+<td>0 4 2</td>
+<td>0 4 8</td>
+</tr>
+<tr>
+<td>Income per acre ..</td>
+<td>67 8 6</td>
+<td>34 10 0</td>
+<td>50 19 3</td>
+</tr>
+<tr>
+<td>Cultural labour cost per acre ..</td>
+<td>6 5 6</td>
+<td>8 11 5</td>
+<td>7 8 6</td>
+</tr>
+<tr>
+<td>Harvesting cost per acre ..</td>
+<td>6 8 5</td>
+<td>3 13 0</td>
+<td>5 0 9</td>
+</tr>
+<tr>
+<td></td>
+<td>12 13 11</td>
+<td>12 4 5</td>
+<td>12 9 3</td>
+</tr>
+<tr>
+<td>Total labour cost per acre ..</td>
+<td>12 12 2</td>
+<td>12 3 0</td>
+<td>12 7 7</td>
+</tr>
+<tr>
+<td>Material cost per acre ..</td>
+<td>6 17 10</td>
+<td>6 11 8</td>
+<td>6 14 9</td>
+</tr>
+<tr>
+<td></td>
+<td>32 3 11</td>
+<td>30 19 1</td>
+<td>31 11 6</td>
+</tr>
+<tr>
+<td>Total cash cost per acre ..</td>
+<td>2 12 4</td>
+<td>1 14 5</td>
+<td>2 3 5</td>
+</tr>
+<tr>
+<td>Depreciation per acre ..</td>
+<td>34 16 3</td>
+<td>32 13 6</td>
+<td>33 14 11</td>
+</tr>
+<tr>
+<td></td>
+<td>32 12 3</td>
+<td>1 16 6</td>
+<td>17 4 4</td>
+</tr>
+<tr>
+<td>Total cost per acre ..</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Net income per acre ..</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Grade percentages of fruit</td>
+<td>Per Cent.</td>
+<td>Per Cent.</td>
+<td>Per Cent.</td>
+</tr>
+<tr>
+<td>Fancy ..</td>
+<td>72.2</td>
+<td>53.0</td>
+<td>62.6</td>
+</tr>
+<tr>
+<td>Choice ..</td>
+<td>12.1</td>
+<td>7.3</td>
+<td>9.7</td>
+</tr>
+<tr>
+<td>Standard ..</td>
+<td>10.4</td>
+<td>5.9</td>
+<td>8.2</td>
+</tr>
+<tr>
+<td>Unclassified ..</td>
+<td>.2</td>
+<td>32.6</td>
+<td>16.4</td>
+</tr>
+<tr>
+<td>Culls ..</td>
+<td>5.1</td>
+<td>1.2</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td></td>
+<td>100.0</td>
+<td>100.0</td>
+<td>100.0</td>
+</tr>
+</tbody>
+</table>
+
+### CONCLUSION
+
+In concluding this report I think it only fitting to emphasize that the success attending citrus production and marketing in the United States has been attained after much endeavour by the following factors:—The concentration of citrus in districts entirely suited to its successful culture. The suitability of rootstocks and selection of buds from proved trees as regards quality, quantity and continuity of production. The elimination of uneconomic and off-type fruits. The scientific study and application of the requirements of
+
+41------------------------------------------------
+
+364
+
+the soil and tree, particularly in respect to fertilizers and irrigation. The control of pests and diseases. Efficiency of organization, packing houses, transport and marketing. Advertising and creating public demand.
+
+We, in Australia, are facing similar problems that America had to contend with 30 years or more ago, and it is only by commencing at the source of production that can ever hope to make the industry efficient.
+
+In order to place the citrus industry in Australia on a sound and economic basis, I consider it desirable that the Federal Government, the State Government and/or the Industry should station a competent man in California for a period of not less than two years, in order that he could keep the industry in this country thoroughly conversant with every development taking place within the industry in the United States of America ; that no further plantings of citrus be made except in proved localities ; that growers and others associated with the industry take early steps to adopt the following practices :—
+
+- (a) In the selection of nursery trees to purchase only those which have been budded from selected trees on to sweet or sour orange stocks.
+- (b) To eliminate all off-type and non-profitable varieties.
+- (c) To plant efficient breakwinds.
+- (d) To apply heavy annual dressings of animal manures and nitrogen, and to grow cover crops.
+- (e) To apply lighter and more frequent irrigations, even if the additional cost has to be met by reduced cultivation or other means.
+- (f) To take drastic steps to eradicate all pests, particularly red scale.
+- (g) To prune the trees only lightly, but trimming out dead wood and all growth near the ground.
+- (h) That clippers, picking bags, and gloves be used in harvesting.
+- (i) That, where practicable, harvesting should be done by selected men under expert supervision.
+- (j) That gloves be used in the packing houses in all hand operations.
+- (k) That every effort be made to have interstate and export fruit transported in refrigerated rail vans under a speedy service, particularly during the spring and summer months.
+
+42------------------------------------------------
+
+365
+
+## SOME ASPECTS OF SOIL CONSERVATION
+
+### BASED ON OBSERVATIONS IN THE CENTRAL AND NORTH KAVIRONDO NATIVE RESERVES
+
+**T**HE main factors affecting the extent of water erosion on unoccupied land may be classified as follows :—
+
+- (a) Rainfall, particularly maximum precipitation during storms.
+- (b) Degree of slope.
+- (c) Amount and type of soil cover.
+- (d) Nature of the soil.
+
+Of these, the first two may be said to be for all practical purposes beyond human control ; both (c) and (d), however, are susceptible of variation, and in fact as soon as land comes under what is usually known as " beneficial occupation " are immediately subject to deterioration. With the advent of human occupation and its concomitants, agriculture and the keeping of stock, there enters a fifth factor, which by virtue of its effect on the pre-existing conditions is of major importance. This factor—
+
+- (e) Density of population,
+
+is closely related to the system of land tenure and of agricultural practice of the natives of any district, and there are indications that it controls them to a large extent. With the more obvious benefits of civilization, freedom from intertribal raids, better nutrition and living conditions due to more varied food and cash crops, decreased mortality among human beings and stock as the result of the medical and veterinary services, all helping towards a rapid increase of the population, there exists necessarily a state of flux, but in general it appears that the greater the density of the population the more highly developed is the system of land tenure. That is, the more widely the idea of the private ownership of land is accepted.
+
+It is the purpose of these notes to discuss some of the problems of soil conservation in native reserves, mainly in relation to this factor. Naturally there can be no hard and fast classification of population density, and there must be important differences due to climate, soil and topography between districts of the same density of population, but it may be sufficient if the following three arbitrary divisions are made :—
+
+- (1) Sparse population, up to 150 per square mile.
+- (2) Moderate population, 150 to 300 per square mile.
+- (3) Dense population, over 300 per square mile.
+
+---
+
+\* By A. W. Thompson, Assistant Agricultural Officer, Kenya, in *The East African Agricultural Journal*, Volume IV., No. 4., January, 1939.
+
+43------------------------------------------------
+
+366
+
+(1) *Sparsely Populated Districts*.—The inhabitants are usually pastoral rather than agricultural. The percentage of land under cultivation being small, each family uses only enough to provide itself with food, except in districts where there is an established cash crop such as cotton or sesame, and a small additional acreage is cultivated. *Shambas* are normally used for only two or three years and then allowed to revert to grass or bush. A typical cropping system is :—
+
+1st year : Short rains : Sesame or legumes.
+
+2nd year : Long rains : Maize, sorghum, and finger millet.
+
+2nd year : Short rains : Sweet potatoes.
+
+3rd year : Long rains : Maize and sorghum.
+
+3rd year : Short rains : Sweet potatoes.
+
+The system starts with the short rains, as new land is usually broken up after the main long rains crops have been planted. It naturally varies considerably according to the climate and soil, an extreme case being at Kadimu in Central Kavirondo where much of the soil is so poor that it can only be cropped for one year. The type of plant growth which appears in abandoned *shambas* also varies, but over that very large area where *Cymbopogon* sp. is naturally the dominant grass, for example between Kakamega, Mumias and Malakisi, reversion follows the lines of—
+
+1st year : Weeds and *Digitaria* sp.,
+
+2nd year : *Imperata cylindrica*,
+
+3rd year : *Cymbopogon* sp.,
+
+and it is remarkable that not only are *Imperata cylindrica* and *Cymbopogon* sp. dominant during the periods in which they occur, but they often exist as almost pure stands. Eventually the hardier bushes and small trees of the *Combretum* savanna type reappear.
+
+It is difficult to give any figure for the resting period of the land after its reversion, but it seems probable that it is at least sufficient to permit of the recovery of the soil from the moderate demands made on it by the crops taken off. In such circumstances the danger of rapid deterioration of the soil is not formidable, especially as the wide choice of land for cultivation results in most *shambas* being situated on gently sloping land. This minimizes the tendency to erode, and makes erosion controllable by simple methods and a small expenditure of energy on the part of the cultivator. With an increasing acceptance by the native of the necessity for such soil control measures, the prohibition of indiscriminate tree felling and grass burning, and the encouragement of the use of manure and compost, there is little danger of soil conservation becoming a major problem in the more sparsely populated districts. There are of course occasional patches of soil which from treading by cattle, overgrazing or other causes have been damaged in the past, but these are gradually being reconditioned either by the communal efforts of the natives themselves or by the labour paid from Local Native Council funds. This is attended by no difficulties arising from the system of land tenure,
+
+44------------------------------------------------
+
+367
+
+since such a thing can scarcely be said to exist, all grazing being communal and individual rights to land being recognized only so long as any particular piece is under cultivation.
+
+(2) *Moderately Populated Districts.*—In these the cropping system and the virtual lack of system of land tenure differ little from those in the more sparsely populated districts, except that the clan elders have considerable control over the allocation of land to individuals. There is naturally, however, a greater potential danger of over-grazing and of treading erosion, of the depletion of the plant food reserves in the soil by prolonged cultivation and of the use of steeply sloping land for *shambas*; and consequently an increasingly urgent necessity for the application of mixed farming principles by the natives, in order that grazing may be conserved, the soil used to the best advantage and its productivity maintained by manuring and the use of compost. At the same time these principles are not easy to inculcate in a native mentality slow to appreciate the impending danger, distrustful of new ideas, and averse from them when they entail additional labour.
+
+(3) *Densely Populated Districts.*—In these all the land is individually owned; in some locations sales of land for cash take place between natives and are recognized as permanent. Not even such grazing as results from the temporary abandonment of cultivation is communal, although provided it is not fenced in or the owner's cattle are not tethered on it, it is customary for the cattle of other natives to graze it. Only a small percentage of the land can be termed grazing, and this consists in the main of steep and rocky hillsides, swampy river beds, surrounds of schools and churches, and occasional football fields; with the exception of the hillsides, which are usually covered with *Cymbopogon* sp., it consists of lawn-like sward kept permanently in this state by intensive grazing. The proportion of cultivated land which is allowed to rest is but a small percentage of the total and rarely reverts to grass. At the most it has a weed fallow of a year or less, or in a few cases it is allowed to become covered with the succeeding growth of *Imperata cylindrica*, which is cut for thatching. So great is the extent of cultivation that very steep slopes, very rocky land, and even odd patches of soil on the sides and tops of hills are under almost continuous cultivation, with a consequent rapid exhaustion of the soil and increase of erodibility. The exhaustion of the soil is visible in the very sparse weed growth which occurs on the infrequent patches of fallow land, and the natives themselves comment on the decreasing yields of their crops.
+
+In view of the large amount of unsuitable land under cultivation, soil conservation presents difficulties which do not occur in the more sparsely populated districts, and it is improbable that cultivation of this unsuitable land could be prohibited without hardship to the natives concerned, or that measures which did not include a considerable reduction of the population could be really effective. There is already some tendency to emigrate, but it is insufficient to relieve the situation. The real necessity is for larger average holdings, which would enable the natives to confine their cultivation to suitable land, would allow of a proper rotation of crops and resting period, and would provide grazing for a small herd of cattle. Even as things are now, some improvement would be effected were it possible to confine cultivation to the tops and higher
+
+45------------------------------------------------
+
+368
+
+slopes of the ridges, using the bottoms and steeper lower slopes for pasturing with paddocks, and taking advantage of the reeds, of which there are usually plenty in the streams, for litter for compost-making. An analysis of human and stock population of North Kavirondo is given in the annexed table in terms of three arbitrary degrees of density :—
+
+<table border="1">
+<thead>
+<tr>
+<th>Density.</th>
+<th></th>
+<th>Average<br/>Population</th>
+<th></th>
+<th>Cattle per<br/>Sq. Mile.</th>
+<th></th>
+<th>Cattle per<br/>Person.</th>
+<th></th>
+<th>Acres per<br/>Unit.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sparse—</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Pastoral</td>
+<td>..</td>
+<td>80</td>
+<td>..</td>
+<td>346</td>
+<td>..</td>
+<td>4.4</td>
+<td>..</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>Agricultural</td>
+<td>..</td>
+<td>120</td>
+<td>..</td>
+<td>190</td>
+<td>..</td>
+<td>1.6</td>
+<td>..</td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>..</td>
+<td>90</td>
+<td>..</td>
+<td>292</td>
+<td>..</td>
+<td>3.1</td>
+<td>..</td>
+<td>1.7</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>..</td>
+<td>210</td>
+<td>..</td>
+<td>150</td>
+<td>..</td>
+<td>0.7</td>
+<td>..</td>
+<td>1.8</td>
+</tr>
+<tr>
+<td>Dense</td>
+<td>..</td>
+<td>650</td>
+<td>..</td>
+<td>196</td>
+<td>..</td>
+<td>0.3</td>
+<td>..</td>
+<td>0.7</td>
+</tr>
+</tbody>
+</table>
+
+The figures in the last column are obtained by dividing the total area under consideration by the total of the human and stock populations. If it be assumed that the amount of land required by each native for cultivation is one acre, then the available area for each head of stock is :—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Acres.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sparse, pastoral</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>1.6</td>
+</tr>
+<tr>
+<td>Sparse, agricultural</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>2.7</td>
+</tr>
+<tr>
+<td>Sparse, total</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>1.9</td>
+</tr>
+<tr>
+<td>Moderate</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>2.9</td>
+</tr>
+<tr>
+<td>Dense</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Average for district</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>1.9</td>
+</tr>
+</tbody>
+</table>
+
+In other words, if the human and stock population of North Kavirondo was uniformly distributed throughout the district, a family of three owning 5 head of cattle would have at its disposal approximately 13 acres of land, of which three acres would be under cultivation and ten acres grazing.
+
+In contrast with this there are the very densely populated parts, with over one thousand people to the square mile, equivalent to about half an acre of land per person exclusive of cattle.
+
+### SOIL CONSERVATION METHODS
+
+The one most generally in use is the digging of contour trenches, stopped at intervals of not more than 20 feet, the earth removed being used to form a bank on the lower side which is planted with Napier grass, *Cymbopogon* sp., *Paspalum* sp., or some other easily available plant the roots of which will bind the soil. Of these, Napier grass has the advantage that once established it can be cut back from time to time and used for cattle fodder, a considerable benefit where grazing is scarce. The earth bank is gradually built up with silt from the trench until it reaches the requisite size, when the trench is allowed to silt up, the task of preventing erosion devolving on the bank. In time more soil will be retained on the top side of the bank until there is a considerable space which is level and on this silt will continue to be deposited whenever there is heavy rain, owing to the decrease in the run-off velocity of the surplus water due to its encountering the line of grass.
+
+Where available, trash from the previous crop is used to make temporary contour lines; this, however, has its limitation in that in the drier districts, where supplies of firewood are small, almost all dry maize and sorghum stalks are used for fuel.
+
+46------------------------------------------------
+
+369
+
+On stony ground rock walls are built along the contour, and in the more sparsely populated districts where there is no shortage of land for cultivation strips of grass or bush are left at intervals down the slope to restrain any movement of soil.
+
+In addition to these methods for assisting the absorption of the excess rain which actually falls on cultivated soil, it is necessary to deal with what may be termed—
+
+#### NUCLEI OF EROSION
+
+Among these are :—
+
+- (a) Stony hillsides.
+- (b) Rock or murram outcrops.
+- (c) Buildings, especially if they have hard bare surrounds.
+- (d) Paths.
+- (e) Boundary furrows between *shambas*.
+- (f) Take-off drains from roads.
+- (g) Over-grazed areas.
+- (h) Ant-hills.
+- (i) Inefficient soil control measures on cultivated land.
+
+With these the following measures are employed to minimize erosion :—
+
+- (a) *Stony hillsides*.—Tree planting on the tops of the hills and in strips along the sides. Rock walls wherever there is cultivation, and the improvement of ground cover where the land is under bush or grass. In many cases, however, slopes are so steep and the amount of rock so large that some run-off is inevitable, and storm drains at the base of the hill are essential in order to protect arable land below.
+- (b) *Rock or murram outcrops*.—Tree planting as near as possible to the outcrops and among the rocks if, as is usual, they are interspersed with patches of soil, so that the leaf canopy may break the fall of heavy rain. The diversion of surplus water by means of storm drains.
+- (c) *Buildings*.—Storm drains where possible, and in districts where bananas are planted on the lower sides of villages, the use of banana trash in contour lines to check run-off and increase absorption.
+- (d) *Paths*.—Natives are encouraged to fence along both sides of the main paths with quick-and close-growing material such as *Euphorbia* sp., *Dracaena* sp., and *Coleus* sp., to prevent erosion from the adjoining *shambas* which are considerably higher than the paths, to build turf banks to reduce the speed of run-off and to allow grass to grow between.
+- (e) *Boundary furrows between shambas*.—These are of almost universal occurrence throughout the Kavirondo country, and generally run down hill, frequently from the top of a ridge to the bottom. They are caused in the first instance by adjoining land-holders scraping the earth at their joint boundary towards their respective *shambas* in order to demarcate the boundary. This results in a shallow trench which increases with each year's cultivation and erosion until it may
+
+47------------------------------------------------
+
+370
+
+eventually become three or four feet deep. As the furrow deepens, the soil on both sides is washed down, and often there is a strip of two or three yards wide on either side which is down to subsoil and will produce nothing. Nevertheless, these slopes are cultivated by the owners, partly to prevent couch spreading from them to the *shamba* proper, and partly owing to the fear that otherwise the adjoining land-holder would encroach. Natives are encouraged to refrain from cultivating the slopes, to build earth or turf banks across the furrows, and to plant them with hedges of quick-growing indigenous plants.
+
+- (f) *Take off drains from roads* are stopped at close intervals with low turf banks to reduce the velocity of the run-off, and grass is allowed to grow between. Precautions are taken to see that the top of the first bank is far enough below the surface of the road to obviate flooding. Cultivation of the land within a few feet of either side of the drain and for some distance below the spillway is discouraged.
+- (g) *Over-grazed areas* are improved where possible by destocking, by digging short trenches at intervals to retain surplus water and so increase the soil moisture, and where necessary by the planting of suitable grasses, *Cynodon*, *Paspalum*, *Pennisetum*, &c.
+- (h) *Ant-hills* are dangerous in that their steep slopes prevent absorption of rain during storms and increase the amount of water round the bases. Natives are encouraged to refrain from cultivating them.
+- (i) *Inefficient soil control measures.*—These sometimes occur where the willingness of the individual native to undertake the work is greater than his capacity to carry it out effectively, and will disappear in the course of time as his standard of education in agricultural practice is improved.
+
+It will be realized that the efforts of the individual cultivator are in the circumstances not enough in themselves, and that not only is a certain amount of communal effort necessary but also a good deal of co-operation between owners of adjoining holdings. As to the former, it is obviously useless for the owners of land at the bottom of a steep rocky hill from which the run-off is considerable to carry out soil control measures on their cultivated land, however satisfactory these measures may be in themselves, unless the land is first protected from storm water from the hill. The work involved in such protective measures should devolve equally on all holders of the land affected by them. Similarly as regards co-operation, it is a waste of energy on the part of A at the bottom of a slope to put in control measures which would be effective in respect of his own land, if B higher up does nothing to prevent the storm water from his land pouring down and destroying A's work. While there is no doubt that in general the necessity for soil control is accepted by the natives, it is not always easy to obtain that concerted effort which produces the best results with the least expenditure of energy. A minor obstacle is that the wealthier natives, such as traders, teachers and artisans, who are frequently large land-holders, are often unwilling to undertake the manual work entailed by soil
+
+48------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_013:97 -->
+
+371
+
+control measures themselves and are loath to utilize their paid labour for such work. It can, however, be said with confidence that the propaganda and demonstrational work of the last few years has produced such an effect on the native mind that the practical application of soil control measures in the reserves is increasing with gratifying rapidity.
+
+I am greatly indebted to Mr. W. Lyne Watt, Senior Agricultural Officer, Nyanza Province, and to Mr. T. Y. Watson, Agricultural Officer, Kakamega, for suggestions and helpful criticism in connexion with these notes.
+
+
+49------------------------------------------------
+
+372COVER CROPS\*
+
+THERE are a number of cover plants employed to protect the soil and reduce weeding costs on land planted with permanent crops. The list of species cultivated is a large one, but the following selection has so far proved the most useful for general purposes. With the exception of *Mikania scandens*, which belongs to the Natural Order Compositae, all plants described are leguminous.
+
+CALOPOGONIUM MUCUNOIDES
+
+A vigorous climbing or creeping herb with trifoliolate leaves forming a dense mat of foliage, 1 to 2 feet high. The flowers are produced in short racemes, small, pale blue in colour. The flattened seeds are brown, and number about 34,000 per lb.
+
+This cover will thrive on a wide range of soils, but is of the greatest value on new clearings, where it will cover the land in four months from sowing. When the shade of the permanent crop becomes dense, the growth of the cover weakens and in time dies down. *Calopogonium* has proved a valuable cover plant in young rubber and oil palm clearings, either sown as a sole cover crop or as a mixture with *Centrosema* or *Pueraria*. The advantages of sowing a mixture are seen when the permanent crop matures, as *Centrosema* is more hardy than *Calopogonium*, and gradually replaces the latter, while *Pueraria* will continue to thrive under shade. Although *Calopogonium* is liable to die down early, natural regeneration occurs under suitable conditions.
+
+CENTROSEMA PUBESCENS
+
+A twining herb with trifoliolate leaves, forming a loose mat of foliage about 18 inches deep on open land. It climbs any support with which it comes in contact. Flowers pale mauve with purple lines in the centre; three to five produced on a raceme. The seeds are flattened, brownish-green with dark green markings. The number of seeds per lb. is about 16,000.
+
+*Centrosema* makes rather slow growth in the early stages, but when properly established forms an excellent cover. If the soil is sufficiently fertile, or where the permanent crop is manured, this cover plant will remain effective for many years and continue to thrive under shade. Care is necessary to prevent it from climbing young trees or retarding the growth of the permanent crop by excessive vegetation immediately below the trees or palms. For new clearings or replanting of rubber and oil palm areas it may be grown in combination with *Pueraria*, and a seed mixture consisting of 5 lb. *Centrosema* and 2 lb. *Pueraria* per acre has been found most suitable for this purpose.
+
+---
+
+\* Department of Agriculture, S. S. & F. M. S., Leaflet No. 6.
+
+50------------------------------------------------
+
+373
+
+### DOLICHOS HOSEI SARAWAK BEAN
+
+A low, creeping, perennial herb of rather weak growth. Leaves trifoliate and slightly hairy. Several small yellow flowers are produced on a short raceme. The seed is brown in colour, blotched with chocolate markings. About 18,000 seeds weigh 1 lb.
+
+The Sarawak bean thrives on a loose porous soil and is of particular value on the lighter types of alluvial coastal clay. It is most difficult to establish on undulating land that has suffered from soil erosion. Further, it is a shallow-rooting, moisture-loving plant, and will thrive under dense shade. It has a particular liking for wood-ashes, and on new clearings with abundant residues from burnt-off jungle, or where wood-ashes are applied to the land, vigorous growth is made. Owing to its prostrate habit, little or no trouble is experienced in preventing it from encroaching upon any permanent form of cultivation. It is an excellent cover crop in the fruit orchard or on flat nursery land.
+
+### INDIGOFERA ENDECAPHYLLA
+
+A low, creeping herb with dark green pinnate leaves and small purplish-pink flowers. The seeds are minute, light brown in colour and number about 220,000 per lb.
+
+This cover plant thrives on land which has not suffered from erosion and it requires a moist rooting surface. It thrives from sea-level up to considerable elevations and is a suitable cover crop under tea. The plants send out trailers, which produce numerous adventitious roots, thus forming a dense low mat over the land. Indigofera is stated to develop a strong tap-root which assists materially in opening up the soil.
+
+### MIKANIA SCANDENS
+
+A twining indigenous herb belonging to the Natural Order Compositae. Leaves opposite, 2 inches long. Flowers whitish, small and inconspicuous; produced in heads 2 inches wide. The seeds are so small and light that it is impracticable to collect them. The plant when once established spreads with extraordinary rapidity and owing to its twining habit all weed growth is completely checked.
+
+Mikania will grow successfully on almost all types of soil but has been observed to make the most luxuriant growth on heavy alluvial coastal clays. Under such conditions it will cover open land with a dense mat within one month of planting the cuttings, hence it is called the "mile a minute" plant. Although non-leguminous, a dense mat of decaying organic matter is formed on the land. With present knowledge it is not possible to compare its value with the better known leguminous plants, but owing to its rank vigorous growth it appears to have a depressing effect on the development of young rubber and coconuts, particularly if the cover is not kept well away from the base of the trees.
+
+### PUERARIA PHASEOLOIDES
+
+A strong twining herb, often attaining a considerable size in the wild state in Malaya. Leaves large, trifoliate, hairy. Flowers in racemes in scattered pairs, mauve in colour. Seeds small, dark brown. The number of seeds per lb. is about 37,000.
+
+51------------------------------------------------
+
+374
+
+This cover plant thrives on the heavier types of soils and has proved successful on the alluvial clays of the coast. When once established, a dense thick cover, several feet high, is formed. The plant will continue to thrive under shade, but growth is less robust. It is a rather shy flower, consequently seeds are difficult to collect in quantity. Fortunately, *Pueraria* may be readily propagated from cuttings, which are lifted with numerous adventitious roots.
+
+Owing to its hard coat *Pueraria* seed absorbs water irregularly and in consequence germination is spread over a long period. In order to obtain more rapid germination the seed may be soaked in water for three days and at intervals of 24 hours all swollen seed should be removed and sown immediately. A 1/9th inch mesh sieve is suitable for separating the swollen seeds. Alternatively, the difficulty may be overcome by rubbing the dry seed between two sheets of wire mosquito netting or abrading the seed coats in a mortar by mixing it with sand and stirring vigorously. As stated previously, this cover crop is often grown as a mixture with *Centrosema* on both new clearings and replantings.
+
+### PROPAGATION
+
+The several methods of propagating the cover crops described are detailed below in tabular form. Cuttings may be used when seed is expensive or difficult to obtain.
+
+In planting cover crops, whether from seed or cuttings, advantage should be taken of rainy weather and the land be as clean of weeds as possible. Before planting, the rows are lightly forked or cultivated. In the case of small seeds, an admixture of sand facilitates distribution. Seeds that have a hard seed coat or have been stored for some time will germinate more readily if soaked for a period of 24 hours in water raised to a temperature of 110°F. Seeds so treated should not be allowed to dry before sowing. On soils where erosion has already taken place, the addition of either basic slag or rock phosphate mixed with the seed in the proportion of about 10 lb. of fertilizer to 1 lb. of seed and the mixture sown forthwith assists in establishing the cover plants.
+
+### UPKEEP
+
+The main operations in establishing cover crops are systematic weeding between planting and maturity, and removal by hand of all noxious grasses and other growths that may appear through the cover crops. Further, in order to prevent competition for plant nutrients, it is important that a fair-sized circle round the main crop should be kept free from the cover plant.
+
+Digging in the cover plant at intervals of one or two years may be adopted with beneficial results, but when funds are not available for this operation, slashing down the surface growth is recommended to allow of better aeration of the soil.
+
+### COVERS UNDER SHADE
+
+According to the Rubber Research Institute it cannot yet be claimed that a satisfactory technique for the establishment and maintenance of a good leguminous cover on mature rubber areas has yet been obtained. There are a few outstanding successes, but these have been generally accounted for by especially favourable conditions. Experience so far has shown that the
+
+52------------------------------------------------
+
+375
+
+important conditions for success appear to be the elimination of root competition, at least in the early stages of establishment, and the use of phosphatic fertilizers; on sandy soils in particular, extra potash may also be required.
+
+<table border="1">
+<thead>
+<tr>
+<th>Cover crop.</th>
+<th>Method of Propagation.</th>
+<th>Rate per acre.</th>
+<th>Remarks.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i>Calopogonium mucunoides</i></td>
+<td>.. Seed</td>
+<td>3-4 lb.</td>
+<td>.. Rows 3-5 feet apart.</td>
+</tr>
+<tr>
+<td><i>Centrosema pubescens</i></td>
+<td>.. Seed ..</td>
+<td>5 lb.</td>
+<td>.. Rows 3 feet apart.</td>
+</tr>
+<tr>
+<td><i>Dolichos Hosei</i></td>
+<td>.. Seed ..</td>
+<td>5 lb.</td>
+<td>.. Rows 3 feet apart.</td>
+</tr>
+<tr>
+<td><i>Indigofera endecaphylla</i></td>
+<td>.. Cuttings<br/>(9 ins. long)</td>
+<td>8 sacks<br/>4 sacks</td>
+<td>.. Rows 3 feet apart.<br/>.. 2ft. × 2 ft.<br/>Seed may be used to provide nurseries for cuttings.</td>
+</tr>
+<tr>
+<td><i>Mikania scandens</i></td>
+<td>.. Cuttings<br/>(12 in. long)</td>
+<td>2 sacks</td>
+<td>.. 5 feet part.</td>
+</tr>
+<tr>
+<td></td>
+<td>Seed ..</td>
+<td>3-4 lb.</td>
+<td>.. Rows 3-5 feet apart.</td>
+</tr>
+<tr>
+<td><i>Pueraria phaseoloides</i></td>
+<td>.. Cuttings<br/>(2 ft. long)</td>
+<td>10 sacks</td>
+<td>.. 3 ft. × 3 ft.<br/>Seed may be used to provide nurseries for cuttings.</td>
+</tr>
+</tbody>
+</table>
+
+Investigations have been carried out by the Institute in the inoculation of seed with the appropriate symbiotic organism; in nearly all cases inoculation has been found to stimulate the rate of establishment of leguminous covers.
+
+#### REFERENCES
+
+Articles on cover crops are obtainable from the Agricultural Economist, Department of Agriculture, S.S. and F.M.S., Kuala Lumpur.
+
+Cover Crops and Green Manures, *Malayan Agricultural Journal*, Vol. XVI., No. 7, price 50 cents.
+
+The Effect of Cover Crops on Soil Moisture, *Malayan Agricultural Journal*, Vol. XVIII., No. 10, price 50 cents.
+
+53------------------------------------------------
+
+376
+
+The Editor,
+
+*The Tropical Agriculturist,*
+
+Peradeniya.
+
+Jaffna,
+
+May 22, 1939.
+
+## INTRODUCTION OF A NEW GRASS FOR CEYLON PASTURES
+
+---
+
+SIR,
+
+It is well known that large extents of grain-growing areas in the United States of America had been denuded of their top soil through the mechanical operations of cultivation which made the surface soil to be in a fine state of tilth, helping the blowing-away of the soil by strong winds prevalent in the area.
+
+With a view to remedy matters it is proposed to have 20,000 acres (31,250 square miles) in the north-western part of the United States sown with grass brought from the steppes of Russia to prevent valuable farm land from becoming a desert.
+
+It is said that the grass in question is eminently suited to fix the soil left denuded by the cutting down of trees and the breaking up of the soil through intense mechanical cultivation. It is said to stand both extreme cold and drought.
+
+So far, about 5 million acres have been planted with the grass with the result that the land which was turning desert has now been transformed into valuable grazing land.
+
+I would suggest that the Agricultural Department do get samples of this grass for experimental cultivation here. If successfully planted here it will help to prevent soil erosion besides solving the pasture problem specially in the Dry Zone of the Island where the grass may be found to be a useful introduction, particularly as it is drought-resistant.
+
+I am, Sir,
+
+Yours in service,
+
+(Sgd.) C. ARULAMBALAM.
+
+54------------------------------------------------
+
+377
+
+“MEETINGS, CONFERENCES, &c.”
+
+REPORT OF THE PROCEEDINGS OF THE FIFTH  
+MEETING OF THE CENTRAL BOARD OF  
+AGRICULTURE
+
+THE fifth meeting of the Central Board of Agriculture was held in the Board Room of the Department of Agriculture at 2.30 p.m. on Friday, March 17, 1939.
+
+Mr. E. Rodrigo, C.C.S., (Acting Director of Agriculture and Chairman of the Board) presided and the following members were present :—Sir Wilfred de Soysa, Messrs. S. F. Amerasinghe (Sr.), S. Armstrong, C. Arulambalam, A. C. Attygalle, P. B. Bulankulame, Dissawe, Dr. Reginald Child (Director, Coconut Research Scheme of Ceylon), Messrs. V. Coomaraswamy (Acting Conservator of Forests), M. Crawford (Deputy Director, Animal Husbandry and Government Veterinary Surgeon), C. M. W. Davies (*vice* the Chairman, Planters' Association of Ceylon), E. C. de Fonseca (Jr.), C. N. E. J. de Mel (Principal, Farm School), Messrs. G. de Soyza (Acting Registrar of Co-operative Societies), Bertram de Zylva, M. M. Ebrahim, James P. Fernando (Chairman, Low-Country Products Association), James Forbes (Jr.), Bruce S. Gibbon, Dr. J. C. Haigh (Botanist), Mr. A. K. J. Henderson (Acting Commissioner for the Development of Agricultural Marketing), Dr. J. C. Hutson (Entomologist), Mr. Montague Jayawickreme, Dr. A. W. R. Joachim (Chemist), Messrs. A. L. Johnpulle (Acting Agricultural Officer, Plant Pests), S. M. K. B. Madukande, Dissawe, T. H. E. Moonemalle, Mudaliyar S. Muttutamby, Dr. R. V. Norris (Director, Tea Research Institute of Ceylon), Mr. T. E. H. O'Brien (Director, Rubber Research Scheme of Ceylon), Dr. S. C. Paul, Messrs. Wilmot A. Perera, B. M. Selwyn, Rolf Smerdon, R. H. Spencer-Schrader, S. G. Taylor (*vice* the Director of Irrigation), Mudaliyar N. Wickremaratne, Mr. A. A. Wickremasinghe, Rev. Father L. W. Wickramasinghe, Col. T. Y. Wright and Mr. M. Park, Secretary.
+
+The following visitors were also present :—Messrs. B. W. Bawa, C. B. Redman King, W. C. Lester-Smith (Chief Advisory Officer, New Rubber Planting Scheme), T. M. Z. Mahamooth, W. Molegode, Kenneth Morford, G. K. Newton and J. Vinson.
+
+The following members intimated their inability to attend the meeting :—Messrs. H. W. Amarasuriya, N. J. Bannerman, Marcus S. Rockwood, W. A. Muttucumaru, C. L. Wickremesinghe (Commissioner of Lands), and C. Huntley Wilkinson.
+
+The Chairman read a letter from Mr. R. C. Scott, Chairman, Planters' Association of Ceylon, regretting his inability to attend and asking that Mr. C. M. W. Davies, vice-chairman, might deputize for him. The Chairman welcomed Mr. Davies.
+
+55------------------------------------------------
+
+378
+
+### CONFIRMATION OF MINUTES
+
+The draft minutes of the fourth meeting of the Board, held on November 17, 1938, copies of which had been sent to all members, were confirmed with a minor amendment.
+
+### PERSONNEL OF THE BOARD
+
+The Chairman reported that the following members who were out of the Island had been granted leave of absence :—Messrs. R. P. Gaddum, R. G. Coombe, A. T. Sydney Smith, F. A. E. Price and J. P. Blackmore.
+
+The Chairman welcomed Mr. James P. Fernando, Chairman, Low-Country Products Association, who had become a member *ex officio* in place of Mr. J. Tyagaraja.
+
+Mr. R. C. Scott was elected a member of the Executive Committee of the Board in place of Mr. R. P. Gaddum, resigned.
+
+### ACTION TAKEN ON THE DECISIONS OF PREVIOUS MEETINGS OF THE CENTRAL BOARD OF AGRICULTURE
+
+The Chairman made a statement of the action that had been taken on motions passed at the fourth meeting of the Board and on subjects raised at earlier meetings on which action had reached a stage of finality.
+
+The following is a summary of the statement :—
+
+1. (1) *Census of plough cattle*.—The Director of Statistics has undertaken to collect the required data.
+2. (2) *All-Island Agricultural Shows*.—The sub-committee appointed met and prepared a report which had been circulated and which would be presented later.
+3. (3) *Composting*.—A leaflet giving fuller information was being prepared by the Chemist, Department of Agriculture.
+4. (4) *Conversion of Vadamarachchy Lagoon*.—This subject would be considered at the Survey and Settlement Conference in 1939.
+5. (5) *The control of village fairs*.—The Hon. the Minister for Local Administration had reported that the Village Committees have wide powers to control village fairs under the new Village Communities Ordinance and had suggested that, should the Central Board of Agriculture wish to draw up a memorandum for the guidance of Village Committees, he would be pleased to circulate it to the Village Committees.
+6. (6) *Bureau of Agricultural Statistics*.—A motion recommending the formation of this Bureau was passed by the Board in 1935. The Statistics Ordinance, No. 44 of 1935, which was passed subsequently, appeared to meet the request and statistics were being collected in respect of the main agricultural products of the Island.
+7. (7) *Cattle shows*.—The first cattle show, held in Colombo in March, 1939, had been very successful.
+8. (8) *A scheme of farming as a career for educated young men*,—and
+
+56------------------------------------------------
+
+379
+
+(9) *The provision of facilities for growing food crops near estates.*—These two resolutions were still under consideration by the Executive Committee of the Central Board of Agriculture.
+
+### REPORT OF THE SOIL EROSION COMMITTEE
+
+In the absence of Mr. R. P. Gaddum, Chairman of the Soil Conservation Committee appointed by the Central Board of Agriculture, Mr. W. C. Lester-Smith presented the report with the following remarks :—
+
+“ At its meeting, in July last year, a despatch, from the Secretary of State for the Colonies, on the subject of soil erosion was referred to this Board. The Secretary of State pointed out the accepted fact that neglect by any country to ensure the conservation of its soil would lead that country to permanent impoverishment. He considered it necessary, in the interest of future generations, that positive measures to ensure the proper conservation of the land should be initiated by all Governments, who should not regard the problem as a subject of particular concern to only one or two Departments of Government, but as a major question of general policy.
+
+After hearing the tentative suggestions made by the Director of Agriculture, this Board appointed a Committee to consider the suggestions contained in the despatch from the Secretary of State, and to report how effect could best be given to them.
+
+The report of this Soil Conservation Committee of which I was the Secretary, I have the honour of presenting formally to the Board. Copies of this report, I understand, have already been circulated to all members of the Board.
+
+In presenting this report to you may I briefly summarize the views of the Committee. They were that the Ceylon Government should give effect to the suggestions made by the Secretary of State. That for this purpose a separate and independent central co-ordinating body, with a technical character, should be established in Ceylon to deal with all matters concerning soil erosion. That this body, of which the Land Commissioner should be Chairman, should consist of representatives of all those most intimately connected with the use and control of the land.
+
+In these respects the recommendations of the Committee agree with the views expressed by the Director of Agriculture at the last meeting. The Committee, however, although in sympathy with the idea that the suggested Soil Conservation Board should have executive powers, found themselves unable to recommend such a proposal. The Committee considered that a Board of this type with executive powers would be inconsistent with the present constitution of Government, and they therefore recommend that the Board they have envisaged should be advisory to the Executive Committee of Agriculture and Lands on all matters concerning soil erosion in Ceylon.
+
+Annexed to this report is a brief summary of the legislative and other action already taken in various countries for the conservation of their soil; and, while it is in no way suggested that any of these particular examples should be followed in Ceylon, it is felt that they do indicate the beginning of the widespread recognition of that land-grabbing and soil-deteriorating monster from
+
+57------------------------------------------------
+
+380
+
+whose far-reaching and despoiling tentacles no part of the world is safe. Least of all can Ceylon claim immunity, for we have had this octopus in our midst for several centuries. It is true that it has been recognized since 1878; it is also true that various piecemeal and isolated efforts have been made to reduce its ravages and to stimulate a wider interest in this combat, but there has been no effective joining of forces and without concerted action these endeavours are of little avail.
+
+Erosion is of two types: normal or geologic erosion and induced erosion. Normal erosion is an intrinsic part of soil formation; it is an extremely slow process which nature when left to herself regulates and retards. Induced erosion, however, is erosion of an accelerated type which is a necessary accompaniment of man's disturbance of the balance of nature.
+
+Ceylon, in company with many other tropical countries regularly experiences intensive rainstorms, when a large proportion of the rain is precipitated during a relatively short space of time. Every area of land on which this rain falls has a limit to the rate at which it can absorb this water, and it is the quantity which falls in excess of this that becomes surface run-off, accumulates and is the main cause of soil erosion. Ceylon is primarily an agricultural country. If its development is to progress and its population is to continue to exist, its soil must be conserved and both the quantity and rate of movement of surface run-off water must be reduced.
+
+Soil erosion upsets the natural balance which exists between land and water; it leads to devegetation and droughts, to floods, silting and extensive damage to communications. These affect each individual adversely and impoverish the community as a whole. A catchment area is the smallest unit on which adequate soil conservation measures can be based. All drainage systems should be adapted to the nature of the catchment area and where the necessary drainage systems do not exist provision must be made for them.
+
+These varied subjects are all vitally interconnected. They must not be left to be the concern of one individual, one group of individuals, or even to one department of Government alone. They concern the whole community and they require careful co-ordination by experts for the benefit of all.
+
+With these comments I commend the Report to the Board and formally move its adoption."
+
+Dr. R. V. Norris in seconding the adoption of the report suggested that the Surveyor-General *ex officio* should be an additional member of the proposed Soil Conservation Board. Mr. Lester-Smith approving of the amendment, the motion as amended was put to the Board and carried.
+
+Mr. Rolf Smerdon suggested that the introductory remarks made by Mr. Lester-Smith should be recorded in the minutes verbatim. The suggestion was approved.
+
+In reply to a question by Mr. Rolf Smerdon, the Chairman stated that he would communicate with the Hon. the Minister for Agriculture and Lands regarding the office of Soil Conservation Officer.
+
+58------------------------------------------------
+
+381
+
+### TEA TORTRIX RETURNS
+
+The Board considered the summary of the tea tortrix returns for the period 1928-1937. Dr. Norris stated that the present position in regard to the control of tea tortrix by the parasite introduced from Java was so satisfactory that it was felt that the suspension of the regulations under the Plant Protection Ordinance, No. 10 of 1924, regarding this pest could be safely recommended.
+
+Mr. James Forbes stated that the matter had been considered at a meeting of the General Committee of the Planters' Association of Ceylon and that, as a result, he moved the following :—
+
+“ That this Board recommends that the regulations in relation to tea tortrix made under the Plant Protection Ordinance, No. 10 of 1924, and published in the *Government Gazette* No. 7,640 of April 27, 1928, and No. 7,639 of April 20, 1928, be suspended pending further notice.”
+
+Mr. Rolf Smerdon seconded the proposal.
+
+In supporting the motion, Mr. Lester-Smith stated that, as far as could be judged from the records, there appeared to be no evidence that collections had done a great deal of good.
+
+The motion was put to the meeting and carried.
+
+### PROHIBITION OF THE SLAUGHTER OF BUFFALoes
+
+Mr. Madukande Dissawe spoke to the following motion standing in his name :
+
+“ In view of the great shortage in this country of buffaloes for agricultural purposes and the large number of buffaloes slaughtered for meat each year, this Board recommends that Government should take early steps to totally prohibit the slaughter of buffaloes for meat.”
+
+Mr. Madukande Dissawe stated that there was a great shortage of buffaloes in certain areas and he felt that the sale of buffaloes for meat was largely responsible. He understood that steps were being taken by Government to obtain a census of cattle and to arrange for a better distribution of animals for agricultural purposes. He understood also that the Colombo Municipality had adopted the recommendations of the Central Board of Agriculture regarding the sale of buffalo meat and that, in consequence, the sale had been reduced. He suggested that the Director of Agriculture should ask other municipal bodies to adopt similar measures. In view of these points he asked permission to withdraw the motion, reserving the right to reintroduce it should it become necessary.
+
+The Chairman pointed out that hardly any slaughter of buffaloes for meat existed out of Colombo and that it was therefore not necessary to approach other local bodies.
+
+With the permission of the Board, the motion was withdrawn.
+
+### TREE PLANTING IN THE DRY ZONE
+
+Mr. C. Arulambalam moved :
+
+“ The Central Board of Agriculture recommends to the Executive Committee of Agriculture and Lands to have a scientific investigation made as
+
+59------------------------------------------------
+
+382
+
+to whether by a planned and systematic planting under State supervision, of high-growing and wide-spreading trees of suitable types throughout the dry zone of the Island, the climatic conditions in that zone could be improved with particular reference to better distribution of rainfall in the zone throughout the year so as to prevent both unseasonable rain and long-continued droughts now characteristic of the dry zone and the cause of serious losses to agriculturists.
+
+This Board further recommends that the proposal embodied in the above resolution be carried out without delay when favourably reported upon by the Scientific advisers of Government."
+
+In introducing his motion, Mr. Arulambalam stated that he felt that the unseasonal weather and persistent droughts experienced in the dry zone during recent years might be due to the destruction of high forests. He quoted from books in which it had been suggested that there is a correlation between the rainfall of a region and the type of vegetation and that the extent of forests affected the rainfall of a country. He felt that if the scientific planting of high-growing trees was undertaken in the dry zone, the rainfall would tend to increase and to be better distributed. He then formally proposed the resolution.
+
+Mr. M. M. Ebrahim seconded the motion.
+
+Mr. V. Coomaraswamy opposed the motion. He doubted the practicability of the undertaking on the grounds of the paucity of suitable trees which could be raised artificially, the uncertain and adverse climatic conditions, the large area (3 to 4 million acres) involved, the protection from the ravages of wild animals necessary, and the scarcity of suitable labour. He stated that the cost of re-afforesting would be high and said that small plantings of Casuarina had cost Rs. 300 to Rs. 400 an acre. Finally, he stated that it had not been proved that forests induced rainfall. He therefore concluded that the motion was incapable of practical adoption.
+
+A general discussion followed, after which the motion was put to the Board and lost.
+
+Mr. S. Armstrong moved and Mr. A. C. Attygalle seconded that the matter be referred to the Executive Committee of the Board for report. The proposal was put to the meeting and lost.
+
+#### ALL-ISLAND AGRICULTURAL SHOWS
+
+Mr. Wilmot A. Perera presented the report of the sub-committee appointed by the Central Board of Agriculture at the fourth meeting on November 17, 1938, to go into the question of the inauguration of an All-Island Agricultural Show.
+
+The sub-committee recommended that an All-Island Agricultural show should be held annually, suggested certain conditions covering the shows, and recommended that a Standing Committee be appointed by the Board for their control. Mr. Perera moved the adoption of the report.
+
+Mr. E. C. de Fonseca seconded.
+
+60------------------------------------------------
+
+383
+
+Mudaliyar N. Wickremaratne opposed the report. He felt that All-Island Agricultural Shows would prove to be a failure financially and that they would not serve any useful purpose. He was of the opinion that, instead, local shows should be fostered.
+
+Mr. S. Armstrong and Mr. C. Arulambalam spoke in support of the adoption of the report.
+
+Mr. M. Crawford suggested, as an amendment, that Colombo be added to the list of places at which shows should be held. Mr. R. H. Spencer-Schrader seconded.
+
+The Chairman pointed out that the contemplated All-Island Shows would implement the work done at local shows and that, far from replacing them, would tend to foster them. The functions of local and central shows were really distinct and there was a definite need in Ceylon for an annual All-Island Agricultural Show.
+
+Mr. Crawford's amendment was accepted and the report, as amended, was adopted by the Board.
+
+The following Standing Committee was appointed by the Board for a period of three years to inaugurate and control the All-Ceylon Agricultural Shows :—
+
+The Registrar of Co-operative Societies ; The Marketing Commissioner ; The Government Veterinary Surgeon ; Sir Wilfred de Soysa ; Mr. Wilmot A. Perera ; Mr. U. B. Unamboowe, R. M. ; Mr. S. Armstrong ; Mr. Bruce S. Gibbon ; Mr. M. Jayawickreme ; Mr. P. B. Bulankulame, Dissawe ; Mr. C. Arulambalam ; Mr. C. Huntley Wilkinson ; Mr. Marcus S. Rockwood ; Mr. S. M. K. B. Madukande, Dissawe ; Mr. A. Canagasingham ; Mr. F. A. E. Price ; Mr. E. C. de Fonseka (Jr.) ; Mr. L. L. Hunter ; Mr. M. Park.
+
+At the suggestion of the Chairman, the Board approved of the co-option by the Committee of Mr. W. Molegode, Agricultural Officer (Propaganda).
+
+#### A FIVE-YEAR PROGRAMME OF IRRIGATION POLICY
+
+Mr. S. Armstrong moved—
+
+“ That this Board recommends to the Hon. the Minister for Agriculture and Lands that a five-year programme of irrigation policy be adopted to develop the food supply of this Island to a satisfactory condition and that more money be allocated for providing irrigation facilities to the existing schemes mentioned in the ‘ Reports of the District Sub-Committees appointed to inquire into Paddy Cultivation in Ceylon during 1930 ’ in preference to new works. ”
+
+In introducing the motion Mr. Armstrong pointed out that District Sub-Committees were appointed in 1930 to inquire into paddy cultivation and to suggest means for its improvement. Twenty Committees met at various centres in each of the nine Provinces and their reports were published. He felt that insufficient attention had been paid by Government to the findings of these Committees, especially in regard to irrigation facilities. He felt that
+
+61------------------------------------------------
+
+384
+
+the attention of Government should be paid to full development and completion of existing irrigation schemes and instead of the present policy of development of new schemes.
+
+Mudaliyar N. Wickremaratne seconded the proposal.
+
+Mr. S. G. Taylor, speaking on behalf of the Director of Irrigation, said that the first part of the resolution was, in fact, the policy of the Irrigation Department at the present time. With regard to the second part of the motion, he pointed out that the new works being undertaken by the Department were mostly for supplementing the supply of water to existing works. Since 1932, the Department had spent two lakhs of rupees each year on village works and this work took about one-half of the time of the Department. The recommendations of the District Sub-Committees had not been laid aside but work was proceeding on them. Much had been done since the report was published but there had not yet been time to do all.
+
+A general discussion followed.
+
+The Chairman put Mr. Armstrong's resolution to the meeting and it was carried.
+
+#### **COLONIZATION WORK AND THE DEPARTMENT OF AGRICULTURE**
+
+Before proceeding with this item, the Chairman drew attention to a report that had appeared in the local press to the effect that the Ministry for Agriculture and Lands had appointed a Committee to consider the working of colonization schemes. He stated that he had, as yet, received no official intimation of this.
+
+Mr. Montague Jayawickreme then moved—
+
+“ That this Board is of opinion that all colonization work should be under the entire control of the Agricultural Department and that Revenue Officers should be only responsible for the allocation of lands. ”
+
+In speaking to his resolution, Mr. Jayawickreme said that he felt that the Board should express to the Ministry its considered opinion of colonization policy. He felt that the supervision of colonization schemes at present was inadequate and that officers in charge had insufficient technical knowledge. The supervision of colonization should be under the control of the Agricultural Department.
+
+Mr. S. Armstrong seconded the motion. He felt that if the present staff of the Department of Agriculture was inadequate for the purpose more staff should be provided. Mr. James P. Fernando supported the motion.
+
+Several other members contributed to the discussion. The Chairman stated that he had received from the Land Commissioner a list of the activities which were involved in colonization schemes and pointed out that several Government departments were concerned. He felt that the revenue officer was the most suitable co-ordinating officer and not an agricultural or other technical officer.
+
+62------------------------------------------------
+
+385
+
+In concluding the discussion Mr. Montague Jayawickreme said that he was still of the opinion that the Divisional Agricultural Officer should be the co-ordinating officer with, if necessary, the assistance of a revenue officer as administrative secretary.
+
+The motion was put to the meeting and carried.
+
+#### **THE ERADICATION OF BUNCHY TOP DISEASE OF PLANTAINS**
+
+Mr. C. Arulambalam moved—
+
+“ That as the Bunchy Top Disease of the plantain is prevalent in all parts of the Jaffna District and as it is the cause of serious loss to the cultivators of that crop, which is one of the staple money crops next to tobacco of the Jaffna cultivator, and as it is beyond the means or the capacity of the average cultivator to eradicate the disease, the Central Board of Agriculture recommends to the Executive Committee of Agriculture and Lands to have the necessary steps taken without delay, by providing the Agricultural Department with adequate funds and staff, to enable it to carry out the work of eradicating the disease from the District through planned and co-ordinated action.”
+
+In speaking to his resolution, Mr. Arulambalam stated that bunchy top disease of plantains had been prevalent in Jaffna for about six years. It was most serious in Valigamam West Division. He referred to the bunchy top eradication work which had been undertaken within the last year or so by the Department of Agriculture but pointed out that the disease was so widespread that the work could not be tackled by a single Plant Pests Officer.
+
+He suggested that, in order to prevent the re-infection of treated gardens, a plantain nursery should be established by Government to supply healthy suckers to cultivators.
+
+He pointed out that the plantain-growing industry was an important one in Jaffna and stressed the need for an extension of the work now being undertaken.
+
+Mr. A. C. Attygalle seconded the motion.
+
+Mr. M. Park, Plant Pathologist, stated that cultivators in Ceylon had been slow to adopt the measures recommended by the Department of Agriculture for the eradication of bunchy top disease of plantains. It had therefore been decided to study the economics of large-scale eradication work in the villages with a view to determining whether it would be possible to eradicate the disease completely and, if so, at what cost. Experimental eradication campaigns were therefore started, early in 1938, in the Malay and Sinhalese colonies at Ambalantota in the Hambantota District, and in one Police Vidane's Division of Valigamam West in Jaffna. He reviewed briefly the extent and cost of these two campaigns. In Jaffna, the success of the work was mitigated by the difficulty of obtaining disease-free planting material. To overcome this difficulty, it was hoped in the next financial year to establish a plantain nursery for the supply of disease-free suckers.
+
+63------------------------------------------------
+
+386
+
+He wished to emphasize the fact that the campaigns had been experimental only. A review of the results obtained was about to be made, taking into consideration the cost, the results achieved and the practicability of wide extension of the work. A full report would be submitted to the Board as soon as possible and he suggested that Mr. C. Arulambalam would perhaps be willing to defer his proposal until the report was considered by the Board.
+
+Mr. Arulambalam accepted the suggestion made by the Plant Pathologist and the matter was deferred.
+
+#### ANY OTHER BUSINESS
+
+##### *Tobacco Officer.*
+
+Mr. C. Arulambalam stated that he understood that a Tobacco Officer had been appointed. He inquired if the Director of Agriculture could state the lines on which this officer would work when he arrived in Ceylon.
+
+The Director of Agriculture stated that the investigations to be undertaken could not be decided definitely until the Tobacco Officer arrived.
+
+##### *Bovine Tuberculosis in Cattle.*
+
+The Chairman stated that Mr. R. H. Spencer-Schrader had drawn his attention to a reference made by the Hon. the Minister of Health at a meeting of the State Council held on February 22, 1939, to the incidence of Bovine Tuberculosis among European cattle in the Nuwara Eliya District and had asked for full information.
+
+Mr. M. Crawford, Deputy Director (Animal Husbandry) and Government Veterinary Surgeon, said that, up to 1933, there had been only 3 cases of Bovine Tuberculosis recorded during a period of 37 years. In that year, cases were recorded on two estates in Badulla District, on one estate in Nuwara Eliya District and in two places in Kandy District. The number of cases was not large but regulations to control the disease were passed which were much more stringent than in other countries. There had been recorded two cases in each of the years 1935, 1936 and 1937 and none since. Figures obtained from the Colombo slaughter-houses, which dealt with one-third of the animals slaughtered in Ceylon, showed that there had not been a single case of bovine tuberculosis among the 148,000 animals inspected during the last five years. He felt that this record was unexcelled in any other part of the world.
+
+Mr. Spencer-Schrader expressed his thanks for the information.
+
+The Chairman, in conclusion, stated that the State Council had recently given a great stimulus to animal husbandry in Ceylon by voting a large sum of money for the purchase of cattle. It was hoped to import a large number of cattle from India, shortly.
+
+The meeting terminated at 5.20 P.M.
+
+MALCOLM PARK,  
+Secretary, Central Board of Agriculture.
+
+Peradeniya, April 12, 1939.
+
+64------------------------------------------------
+
+387
+
+## COCONUT RESEARCH SCHEME
+
+### BOARD OF MANAGEMENT
+
+MINUTES OF THE FORTY-FIFTH MEETING OF THE BOARD  
+OF MANAGEMENT, COCONUT RESEARCH SCHEME, HELD  
+IN ROOM NO. 202, NEW SECRETARIAT, COLOMBO,  
+ON WEDNESDAY, APRIL 19, 1939, AT 10.30 A.M.
+
+*Present.*—Mr. E. Rodrigo, C.C.S., Acting Director of Agriculture (in the Chair); Mr. C. H. Collins, C.C.S., (Treasury Representative); Mr. O. B. M. Cheyne; Mr. James P. Fernando; Mr. H. W. Peiris; Mr. G. Pandittesekere, J.P., U.P.M.
+
+Dr. R. Child, Director of Research, acted as Secretary.
+
+Apologies for absence were received from Mr. A. Ekanayake, Mr. D. D. Karunaratne, J.P., Mr. L. J. M. Peiris, Mr. S. Samarakkody, M.S.C., and Mr. E. R. Tambimuttu, M.S.C.
+
+#### MINUTES
+
+The minutes of the previous meeting held on Friday, October 14, 1938 which had been circulated to members were confirmed.
+
+#### BOARD OF MANAGEMENT
+
+The Chairman reported that Mr. O. B. M. Cheyne had returned to the Island on October 16, 1938, and resumed his seat on the Board.
+
+The Chairman reported two new nominations from the Low-Country Products Association. Mr. H. W. Peiris had been nominated in November, 1938, in place of Mr. Wace de Niese, who had served three years on the Board. Mr. James P. Fernando had succeeded Mr. Tyagarajah as Chairman of the Low-Country Products Association from March 15, 1939, and so became an *ex officio* member of the Board.
+
+The Chairman welcomed Mr. H. W. Peiris and Mr. James P. Fernando to the Board and expressed appreciation of the service of the former members.
+
+#### STAFF
+
+*Geneticist's Agreement.*—It was decided that Mr. Peiris should be re-engaged as Geneticist after the expiry of his present contract on September 30, 1939, and that the Deputy Financial Secretary should be requested to advise the Board on conditions of service and salary.
+
+*K. M. Fernando's leave.*—The Chairman reported that K. M. Fernando, Laboratory Attendant, had been mobilized with the Ceylon Light Infantry during the months of February and March. The Board approved of this being regarded as leave on full pay.
+
+65------------------------------------------------
+
+388
+
+*Leave Conditions of Staff.*—The Chairman said that he intended at the next meeting to put proposals to the Board for amending the leave conditions of the Staff particularly with respect to Government holidays.
+
+#### ANNUAL REPORTS
+
+The following reports were tabled and were approved by the Board :—
+
+Report of the Geneticist for 1937.
+
+Report of the Board of Management for 1938.
+
+Report of the Auditor-General for 1938.
+
+Report of the Director of Research on Bandirippuwa Estate for 1938.
+
+In connection with the reports, the Chairman raised the question of their publication. He reported that the Director of Research had already sent for publication two bulletins embracing respectively the reports of the Soil Chemist and of the Geneticist for 1936 and 1937. The Board gave retrospective sanction for these publications.
+
+After some discussion, the Board decided that besides the Administration Report published annually as a sessional paper by Government, there should be published a Bulletin containing an account of work done by the Staff in not too technical language.
+
+*Mr. S. R. K. Menon.*—The Chairman reported that the draft agreement had been prepared by the lawyers and was under consideration. The details would be put to the Board in due course.
+
+#### ESTATES
+
+*Bandirippuwa.*—The monthly Progress Reports from October, 1938, to March, 1939, inclusive, were approved.
+
+*Ratmalagara.*—The Reports from October, 1938, to March, 1939, were approved by the Board.
+
+In connection with the Progress Reports on the Estates, the Chairman doubted whether the circulation of these reports monthly had any value commensurate with the time and labour involved in the office. The Board of Management agreed that the circulation of a half-yearly statement would suffice. The monthly statement would be prepared by the Superintendent of Estate as usual but would not be duplicated and circulated.
+
+#### BUILDINGS
+
+*Circuit Bungalow and Field Lab.*—It was decided that the Director of Research should obtain estimates for the construction of the Circuit Bungalow and Field Laboratory from local contractors; refer these to the Building Committee, who would then authorize the work to proceed if they were satisfied with the estimates and specifications, reporting to the Board of Management at the next meeting.
+
+#### MISCELLANEOUS
+
+*Coconut Toddy Vinegar.*—The Board approved the inclusion in the Programme of Research for 1939, of a series of vinegar analyses, in response to a request from the Department of Industries.
+
+66------------------------------------------------
+
+389
+
+*Workmen's Compensation Insurance.*—Following the instructions of the Board at the previous meeting, the Director had obtained particulars of the cost of insuring the Scheme's liability for its employees under the Workmen's Compensation Ordinance, No. 19 of 1934. These had been circulated and the Board of Management had agreed to the policy being taken out, which had been done.
+
+*Letter from Ceylon Coconut Board.*—A letter from the Ceylon Coconut Board relating to Consumption Research was read. The Chairman explained that this letter had been received shortly after the last meeting at which the Board of Management had approved the Research Programme for 1939. It was decided to write to the Coconut Board stating that the letter was received after the programme for 1939 had been decided; but that the contents were noted and that such items as the Board considered likely to be useful would be included in 1940; also that some of the items—such as vinegar—had in fact been included in 1939.
+
+A letter from Sir Wilfred de Soysa to the Low-Country Products Association concerning Coconut or Sweet Toddy Syrup, which had been referred to the Board of Management by the representative of the L.C.P.A. was next considered. The Board expressed the opinion that it was highly unlikely the coconut syrup could be prepared for an export market in competition with Fancy Molasses or Cane Syrup prepared direct from the sugar cane. It was decided to reply to this effect.
+
+*Training of Students.*—In accordance with the instructions of the Board at the previous meeting, the Director of Research had, with the Chairman's approval, circulated a memorandum on the subject of training of students. The Chairman said that he agreed with the Director of Research that the provision of agricultural training would be difficult; with regard to the suggestion in the memorandum regarding research training for post-graduate students, he was of opinion that there was not much point in training such students unless there was at least a reasonable possibility of openings for men with that training. In the case of Genetics, for example, there would obviously be no opening for a specialist on the Genetics of the Coconut Palm. Even if it were possible for such a student to study a wider sphere, opening for Plant Geneticists in Ceylon were not likely to be numerous. This argument perhaps applied with less force to Technological Chemistry.
+
+The Board, after discussion, decided that the Chairman should inform the Hon. Minister for Agriculture and Lands that the Board of Management had discussed the question of training Research Students and considered that a beginning could be made with one or two students in the laboratory of the Technological Chemist. The Hon. Minister might then be able to advise H.E. the Governor to issue instruction to the Board of Management in terms of section 4 (b) of the Coconut Research Ordinance.
+
+*Coir Fibre Ribbon.*—The Chairman said that the Director of Research had circulated a translation of a Dutch publication on Coir Fibre Ribbon, which might be of interest. He understood that the Department of Industries, to whom a copy had been sent, were interested in the subject.
+
+The meeting adjourned at 12.40 P.M.
+
+3—J. N. 84070 (5/39)
+
+67------------------------------------------------
+
+390REVIEW
+
+**Scientific Horticulture.**—The Journal of the Horticultural Education Association, Volume VII., 1939.—Edited by R. T. Pearl, B.Sc., A.R.C.S., D.I.C., 212 pages, 12 plates and 17 text figures. Published by the Horticultural Education Association. Copies are obtainable from the Editor, *Scientific Horticulture*, South-Eastern Agricultural College, Wye, Kent. Price 4s. net.
+
+THIS volume of the journal, formerly known as *H. E. A. Year Book*, contains twenty-two articles on widely different subjects. Among the more interesting contributions are "Rootstock work at East Malling" by R. G. Hatton; "The influence of intermediate stem-pieces in double-worked apple and pear trees" and "Winter pruning trials with apples at East Malling" by N. H. Grubb; "Practical methods of frame-working fruit trees" by R. J. Garner and W. F. Walker; "Manurial experiments with apples and pears at East Malling 1919-1938" by W. A. Bane; "Plant injection for the diagnosis of mineral deficiencies" by B. F. G. Levy; "Researches into the cause and prevention of frost damage" by C. E. Cornford; "Trials of logan-berries, blackberries and hybrid berries at East Malling" by A. B. Beakbane and "Preliminary trials in growing horticultural crops in nutrient solutions" by S. R. Mullard and R. H. Stoughton. The last-mentioned article is of particular interest as the growing of plants in nutrient solutions has hitherto been confined to the laboratory and plant house. The possibility of the commercial cultivation of crops in nutrient solutions may come as a surprise to many readers.
+
+Although some of the subjects treated have no direct bearing upon tropical crops, they will, nevertheless, be read with interest by research workers as well as by laymen concerned with tropical horticulture and the volume would prove a valuable addition to the library of those in Ceylon who are engaged in horticulture.
+
+The illustrations are well produced and the diagrams and figures are clearly and correctly drawn.—T. H. P.
+
+68------------------------------------------------
+
+391
+
+ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED MAY 31, 1939
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to date since Jan. 1, 1939</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Balance ill</th>
+<th>No. shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Western</td>
+<td>Blackquarter</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>9</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="5">Colombo Municipality</td>
+<td>Foot-and-mouth disease</td>
+<td>25</td>
+<td>..</td>
+<td>2</td>
+<td>22</td>
+<td>..</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>2</td>
+<td>1</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>5</td>
+<td>2</td>
+<td>..</td>
+<td>5</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Cattle Quarantine Station</td>
+<td>Foot-and-mouth disease</td>
+<td>2</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>1</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>29</td>
+<td>..</td>
+<td>29</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="7">Central</td>
+<td>Foot-and-mouth disease</td>
+<td>137</td>
+<td>54</td>
+<td>..</td>
+<td>84</td>
+<td>53</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>8</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>5</td>
+<td>..</td>
+<td>1</td>
+<td>4</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Contagious mange</td>
+<td>18</td>
+<td>..</td>
+<td>2</td>
+<td>6</td>
+<td>10</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Blackquarter</td>
+<td>8</td>
+<td>..</td>
+<td>8</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">Southern</td>
+<td>Foot-and-mouth disease</td>
+<td>15</td>
+<td>15</td>
+<td>..</td>
+<td>15</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Northern</td>
+<td>Foot-and-mouth disease</td>
+<td>130</td>
+<td>..</td>
+<td>7</td>
+<td>123</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Eastern</td>
+<td>Foot-and-mouth disease</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="2">North-Western</td>
+<td>Foot-and-mouth disease</td>
+<td>122</td>
+<td>..</td>
+<td>3</td>
+<td>119</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>2</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+</tr>
+<tr>
+<td>North-Central</td>
+<td>Foot-and-mouth disease</td>
+<td>1,364</td>
+<td>57</td>
+<td>..</td>
+<td>1,307</td>
+<td>57</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Uva</td>
+<td>Foot-and-mouth disease</td>
+<td>90</td>
+<td>32</td>
+<td>4</td>
+<td>54</td>
+<td>32</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Sabara-gamuwa</td>
+<td>Haemorrhagic Septicaemia</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+</tbody>
+</table>
+
+Department of Agriculture,  
+Peradeniya, June 19, 1939.
+
+A. JAYASINGHA,  
+for Deputy Director (Animal Husbandry)  
+and Government Veterinary Surgeon.
+
+69------------------------------------------------
+
+392METEOROLOGICAL REPORT, MAY, 1939
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo ..</td>
+<td>86.2</td>
+<td>-0.4</td>
+<td>78.6</td>
+<td>+1.2</td>
+<td>79</td>
+<td>89</td>
+<td>7.7</td>
+<td>13.03</td>
+<td>22</td>
+<td>-1.95</td>
+</tr>
+<tr>
+<td>Puttalam ..</td>
+<td>86.9</td>
+<td>-0.9</td>
+<td>79.1</td>
+<td>+0.6</td>
+<td>80</td>
+<td>87</td>
+<td>7.2</td>
+<td>3.81</td>
+<td>5</td>
+<td>+0.07</td>
+</tr>
+<tr>
+<td>Mannar ..</td>
+<td>86.8</td>
+<td>-2.9</td>
+<td>80.6</td>
+<td>-0.1</td>
+<td>79</td>
+<td>85</td>
+<td>8.5</td>
+<td>5.23</td>
+<td>4</td>
+<td>+3.33</td>
+</tr>
+<tr>
+<td>Jaffna ..</td>
+<td>86.3</td>
+<td>-1.5</td>
+<td>81.1</td>
+<td>-0.3</td>
+<td>81</td>
+<td>81</td>
+<td>4.0</td>
+<td>8.78</td>
+<td>3</td>
+<td>+7.13</td>
+</tr>
+<tr>
+<td>Trincomalee ..</td>
+<td>92.7</td>
+<td>+1.2</td>
+<td>79.1</td>
+<td>+0.6</td>
+<td>60</td>
+<td>80</td>
+<td>5.4</td>
+<td>0.03</td>
+<td>1</td>
+<td>-3.42</td>
+</tr>
+<tr>
+<td>Batticaloa ..</td>
+<td>89.9</td>
+<td>-0.2</td>
+<td>77.8</td>
+<td>-0.2</td>
+<td>72</td>
+<td>86</td>
+<td>4.2</td>
+<td>0</td>
+<td>0</td>
+<td>-1.89</td>
+</tr>
+<tr>
+<td>Hambantota ..</td>
+<td>85.1</td>
+<td>-1.4</td>
+<td>77.5</td>
+<td>+0.4</td>
+<td>84</td>
+<td>91</td>
+<td>5.2</td>
+<td>4.53</td>
+<td>8</td>
+<td>+1.10</td>
+</tr>
+<tr>
+<td>Galle ..</td>
+<td>84.0</td>
+<td>-0.6</td>
+<td>78.5</td>
+<td>+0.9</td>
+<td>82</td>
+<td>86</td>
+<td>6.8</td>
+<td>6.83</td>
+<td>15</td>
+<td>-5.64</td>
+</tr>
+<tr>
+<td>Ratnapura ..</td>
+<td>87.8</td>
+<td>-0.5</td>
+<td>75.3</td>
+<td>-0.6</td>
+<td>76</td>
+<td>93</td>
+<td>6.4</td>
+<td>23.79</td>
+<td>19</td>
+<td>+3.72</td>
+</tr>
+<tr>
+<td>Anuradhapura ..</td>
+<td>87.6</td>
+<td>-2.5</td>
+<td>76.2</td>
+<td>-0.3</td>
+<td>66</td>
+<td>93</td>
+<td>6.8</td>
+<td>3.82</td>
+<td>3</td>
+<td>+0.69</td>
+</tr>
+<tr>
+<td>Kurunegala ..</td>
+<td>88.1</td>
+<td>-0.6</td>
+<td>76.2</td>
+<td>+0.6</td>
+<td>72</td>
+<td>88</td>
+<td>7.2</td>
+<td>6.24</td>
+<td>8</td>
+<td>-0.44</td>
+</tr>
+<tr>
+<td>Kandy ..</td>
+<td>85.9</td>
+<td>-0.4</td>
+<td>71.8</td>
+<td>+0.9</td>
+<td>70</td>
+<td>85</td>
+<td>6.1</td>
+<td>5.49</td>
+<td>7</td>
+<td>-0.50</td>
+</tr>
+<tr>
+<td>Badulla ..</td>
+<td>85.8</td>
+<td>+0.7</td>
+<td>65.3</td>
+<td>-1.1</td>
+<td>65</td>
+<td>95</td>
+<td>3.6</td>
+<td>2.49</td>
+<td>7</td>
+<td>-2.19</td>
+</tr>
+<tr>
+<td>Diyatalawa ..</td>
+<td>79.3</td>
+<td>+0.7</td>
+<td>61.6</td>
+<td>-0.3</td>
+<td>62</td>
+<td>81</td>
+<td>5.2</td>
+<td>2.78</td>
+<td>6</td>
+<td>-3.08</td>
+</tr>
+<tr>
+<td>Hakgala ..</td>
+<td>74.8</td>
+<td>+1.8</td>
+<td>59.4</td>
+<td>+1.7</td>
+<td>66</td>
+<td>78</td>
+<td>4.4</td>
+<td>4.73</td>
+<td>4</td>
+<td>-3.23</td>
+</tr>
+<tr>
+<td>Nuwara Eliya ..</td>
+<td>71.3</td>
+<td>+1.0</td>
+<td>54.6</td>
+<td>+1.5</td>
+<td>74</td>
+<td>88</td>
+<td>7.8</td>
+<td>7.67</td>
+<td>12</td>
+<td>+0.79</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall for May was below normal over the greater part of the Island. The chief districts showing excess were the Jaffna Peninsula, the greater part of the Northern Province, and the greater part of the west and south coasts and neighbouring districts, while in the south-western low country excesses and deficits were irregularly mixed together. The hill districts were generally in deficit, with a few stations reporting slight excess. The greatest excesses above normal were 12.54 inches, at Delft, and 11.88 inches, at Hanwella Group, while five stations in the north, mainly in the Jaffna Peninsula, reported excesses of 5 to 10 inches. The greatest deficits below normal were 9.20 inches, at Hiniduma, and 7.96 inches, at Morawaka.
+
+The highest monthly totals were 29.84 inches at Hanwella Estate, 27.94 inches at Rayigama, and 27.93 inches at Carney, while six other stations, all in the south-western low country, or the lower south-west slopes of the hills, reported totals over 25 inches. A large number of stations, mainly in the eastern and north-eastern low-country, reported totals of less than 2 inches, but only a few reported no rain for the month. These were mainly in the neighbourhood of Trincomalee and Komari.
+
+There were 190 daily falls of 5 inches or over, of which 24 were over 10 inches. The highest daily fall reported was 13.69 inches at Agalawatte, on the 6th. Of the falls over 5 inches, 75 fell on the 6th, and 108 on the 7th. These falls were mainly in the south-west of Ceylon, though there were also a few heavy falls in the north. There were also a few daily falls of 5 inches or over on the 2nd, in the districts near Galle.
+
+The south-westerly barometric gradient which had appeared at the end of April persisted throughout May, with winds that were generally south-westerly. The rain was mainly confined to the south-west of Ceylon, and was usually only moderate in amount, except on the 6th, 7th and 8th, particularly the two former days. As a result of heavy monsoon rains in the Kelani catchment on these days, a major flood was experienced in that river. From the 21st till the end of the month, very little rain was reported anywhere in Ceylon.
+
+Day temperatures were generally below normal, except up-country, where they were above the average. Night temperatures were on the whole a little above normal. In the low country day humidities were above normal, and night humidities about normal, while humidity was in deficit in the hills. Cloud was generally in deficit in the hills, and on the whole in slight excess elsewhere. Barometric pressure was on the whole about normal in the south-west, and in deficit in the north and east, giving a steeper mean barometric gradient than usual. Winds were above normal strength, particularly in the north and north-east, and were generally south-westerly in direction.
+
+Hailstorms were reported on the 25th, from Holmwood Estate and Ella.
+
+H. JAMESON,  
+Superintendent Observatory.
+
+70------------------------------------------------
+
+![A blank page with a light beige or cream color, showing signs of aging and minor blemishes.](5ce2de2d5f94c1bc155651e5fcd8c7db_1_img.webp)This image shows a blank, aged page with a light beige or cream color. The surface has a subtle texture and a few minor blemishes or discolorations, typical of old paper. There is no text or other content on the page.
+
+71------------------------------------------------
+
+![A blank, aged, light brown page, likely an endpaper or flyleaf of a book. The page shows signs of wear, including faint smudges and discoloration.](a558fde7fd049c4c98fc586915742faf_1_img.webp)This image shows a blank, aged, light brown page, likely an endpaper or flyleaf from an old book. The paper has a slightly textured appearance with some minor discoloration and faint smudges, characteristic of old paper. There is no text or other markings on the page.
+
+72------------------------------------------------
+
+![A small, faint, rectangular stamp or label in the bottom left corner of the page.](87f2cd7fda5f2cfc5fc3ea68a89ef266_1_img.webp)A small, faint, rectangular stamp or label is located in the bottom left corner of the page. It appears to be a light-colored, possibly white or off-white, rectangular piece of paper or a label. The stamp itself is very faint and contains some illegible markings or a design, but it is not clearly readable. The background of the page is a light beige or cream color, showing signs of aging and slight discoloration.
+
+73------------------------------------------------
+

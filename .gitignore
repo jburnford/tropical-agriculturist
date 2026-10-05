@@ -1,22 +1,21 @@
-# OCR corpus trees (~900 MB each; on Trillium and local disk, not in git)
+# superseded OCR trees (v1 lacks headers/footers; v5 = v6 minus output_v5_diff/)
 output/
 output_v2/
 output_v3/
 output_v4/
 output_v5/
-output_v6/
 output_hdr/
-# large derived artefacts (rebuildable from output_v6 with the scripts here)
+# large single files kept locally; the repo holds the split/compressed forms
 articles/articles*.jsonl
 articles/skeleton*.jsonl
 articles/*_pilot.jsonl
-articles/verify/ocr/
 parse/headings.jsonl
 parse/out/
-# images
-*.jpg
-*.png
-*.webp
-# python / editor
+# verification crops (re-fetchable from archive.org)
+articles/verify/ocr/
+articles/verify/*.jpg
+articles/verify/*.png
+articles/*.jpg
+# python
 __pycache__/
 *.pyc

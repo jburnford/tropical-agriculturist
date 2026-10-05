@@ -1,0 +1,865 @@
+{
+  "file_name": "vol094_iss05_tropical-agriculturist-1940-05-94-5.pdf",
+  "num_pages": 70,
+  "total_token_count": 69671,
+  "total_chunks": 557,
+  "total_images": 9,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1239,
+        1763
+      ],
+      "token_count": 1473,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1239,
+        1752
+      ],
+      "token_count": 563,
+      "num_chunks": 10,
+      "num_images": 0,
+      "stage4": {
+        "action": "FAINT",
+        "source": "old-images-only"
+      }
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1243,
+        1759
+      ],
+      "token_count": 1056,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1231,
+        1752
+      ],
+      "token_count": 729,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1247,
+        1759
+      ],
+      "token_count": 247,
+      "num_chunks": 3,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1236,
+        1750
+      ],
+      "token_count": 1660,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1244,
+        1759
+      ],
+      "token_count": 972,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 836,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 856,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 836,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1070,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1051,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 845,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 918,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 832,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 906,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 218,
+      "num_chunks": 3,
+      "num_images": 0,
+      "stage4": {
+        "action": "ACCEPT",
+        "source": "r2J/J_014:61"
+      }
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 859,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 18,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 890,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 19,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 836,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 20,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 860,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 21,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 712,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 22,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1045,
+      "num_chunks": 4,
+      "num_images": 0,
+      "stage4": {
+        "action": "FAINT",
+        "source": "old-images-only"
+      }
+    },
+    {
+      "page_num": 23,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 2361,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 24,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 2469,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 25,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 958,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 26,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 106,
+      "num_chunks": 1,
+      "num_images": 1,
+      "stage4": {
+        "action": "FAINT",
+        "source": "old-images-only"
+      }
+    },
+    {
+      "page_num": 27,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 665,
+      "num_chunks": 10,
+      "num_images": 4
+    },
+    {
+      "page_num": 28,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 900,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 29,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1032,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 30,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 750,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 31,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1124,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 32,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 736,
+      "num_chunks": 5,
+      "num_images": 1
+    },
+    {
+      "page_num": 33,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 107,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 34,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 171,
+      "num_chunks": 2,
+      "num_images": 1
+    },
+    {
+      "page_num": 35,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 106,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 36,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1025,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 37,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 732,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 38,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 377,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 39,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 729,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 40,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 687,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 41,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 778,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 42,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 705,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 43,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 715,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 44,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 969,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 45,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 937,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 46,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1013,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 47,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1114,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 48,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1232,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 49,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 987,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 50,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1039,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 51,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 859,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 52,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 909,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 53,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 958,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 54,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1006,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 55,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1027,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 56,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 659,
+      "num_chunks": 5,
+      "num_images": 0
+    },
+    {
+      "page_num": 57,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1040,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 58,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1236,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 59,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1159,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 60,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1311,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 61,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1168,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 62,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 2649,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 63,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1326,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 64,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1578,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 65,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 881,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 66,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1101,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 67,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 1002,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 68,
+      "page_box": [
+        0,
+        0,
+        1245,
+        1759
+      ],
+      "token_count": 1840,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 69,
+      "page_box": [
+        0,
+        0,
+        1234,
+        1750
+      ],
+      "token_count": 3166,
+      "num_chunks": 10,
+      "num_images": 0
+    }
+  ]
+}

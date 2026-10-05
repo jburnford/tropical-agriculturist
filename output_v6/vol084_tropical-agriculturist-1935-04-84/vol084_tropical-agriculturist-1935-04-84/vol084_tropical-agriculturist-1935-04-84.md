@@ -1,0 +1,1856 @@
+# The Tropical Agriculturist
+
+April, 1935
+
+---
+
+## EDITORIAL
+
+---
+
+### RUBBER RESEARCH IN CEYLON
+
+---
+
+**A**N important recent event in the Agriculture of Ceylon has been the opening by His Excellency the Governor of the experimental factory and new laboratory of the Rubber Research Scheme on its Dartonfield Estate. The acquisition of this estate and the erection of these buildings should enable the Scheme both to carry on field experimentation, and investigation into the processes of making raw rubber of different forms from the latex as it comes from the tree, as well as to demonstrate the manufacture of such rubber articles as can be locally made. It is a matter for regret that so far industrial Ceylon has meant very little more than the production of the crude products, be they plumbago, gems or crops, with practically no attempt to apply them to useful arts. The coconut and the rubber industries both supply industrial fodder as it were, and not, as in the case of tea, the last stage in the utility of the product. One would like to see more of the raw material of the coconut and rubber trees worked up into saleable articles in this country, thus not only employing Ceylonese labour for agricultural purposes but introducing the beginning of an industrial movement. One greatly desired quality to be introduced to the peasant of this Island is the industrial prospect, its absence is at the root of much of the problem concerning the marketing of produce, the stimulation of co-operative enterprise,
+
+1------------------------------------------------
+
+187
+
+the methods of finance, and the utilisation of the land, the dry land especially. In the present economic situation it has of late become increasingly obvious that for any nation to be mainly concerned with the production of a few agricultural staples places her at the mercy of the middleman and the manufacturer.
+
+Field work on the estate of the Rubber Research Scheme had until now been confined to the testing of Ceylon budwood on its small estate at Nivitigalakele. Ceylon has still much to learn on her estates both concerning their agricultural development and the possibilities of turning out something other than the routine product solely in the long recognised form. Are there not possibilities in the direct applications of latex on the estate for the production of other things than ordinary raw rubber? Opportunity would certainly seem to lie with those bold enough to break fresh ground.
+
+In a very readable book of short articles on the plantation industry in Malaya which we review on another page the author who was himself once a Ceylon planter speaks of our agricultural methods as conservative. Certainly when we read his article on our sister Rubber Research Institute in Malaya we in Ceylon are somewhat put in the shade. There are many who think that our planters in Ceylon are not sufficiently occupying their place in the sun and that the newer methods being applied in other lands will in the not very distant future show us here to be at a serious disadvantage. The great absence of budgrafted rubber and the absence of the marketing of larger quantities of more uniform teas, instead of numerous samples of small growths, have been noted by our competitors and seized upon as matters to be otherwise in their organisation. There would seem to be room for a larger industrial application with regard to both the minor and major products of this Island.
+
+2------------------------------------------------
+
+188
+
+## THE DEVELOPMENT OF FIELD EXPERIMENTS IN AGRICULTURAL RESEARCH PART—III
+
+T. EDEN, M.SC. (MANC.), A.I.C.,  
+TEA RESEARCH INSTITUTE OF CEYLON
+
+### INTERACTIONS IN GENERAL
+
+THE behaviour of varieties in different years or on different soils raises the question of how the yield produced is affected by differing climate or soil fertility. For instance, is the yield at any time the sum of two quantities, one depending upon the intrinsic varietal characteristics and the other on the productivity of the land, or the product of these two factors. There are other important factors which in trials of field crops are often working conjointly. Such are variety and manuring, and in manurial trials with a single variety the response to different fertilizers. Fisher and Mackenzie <sup>(62)</sup> have shown that a summation formula is a poor expression of what actually happens in the interaction of potato varieties with manurial treatment, and that a product formula better fits the data. As calculated in an analysis of variance an "interaction" is a measure of the deviation from the summation formula, and, as in the example quoted above, if such deviations are greater than can be accounted for by random sources of error, they can be made to give information of distinct agricultural value.
+
+One of the most striking studies of interaction is that of Gregory, Crowther and Lambert <sup>(63)</sup> who studied the interaction between manuring, time of sowing, spacing of the crop and water supply in cotton culture. A summary of significant interactions shows that the wider the spacing the more serious is the decline in yield with late sowing; the later the sowing also, the less effective is increased water supply. The response to nitrogenous manuring was affected by all three other factors, being increased by early sowing, close spacing and more abundant water supply. These workers also showed that interactions were significant even in the higher orders, *i.e.*, when more than two factors were varied simultaneously.
+
+3------------------------------------------------
+
+189
+
+Experiments designed to answer questions of this type are necessarily complex in structure. In order to separate out the relevant effects, every possible combination of factors has to be represented in the plot treatments. In the foregoing example this involved 72 different treatments and these had to be replicated in order to assess significance of interactions. Only in very favourable circumstances can an experiment of this complexity be contemplated, for, especially where land is limited, it would involve very limited replication. This is a distinct disadvantage because limited replication usually means high errors. In point of fact replication is seldom high enough to give decisive high order interactions. Even when attention is concentrated upon first order interactions of two factors, if several are studied, the number of treatments within a block is frequently large. A large block tends to give unsatisfactory control of local soil variability, which again militates against the establishment of low errors. Eden and Fisher <sup>(53)</sup> give an example of this point with potatoes. In many agricultural experiments high order interactions are of little practical importance and can be neglected. Yates <sup>(64)</sup> has shown that under these conditions it is not necessary that each block used for the elimination of positional variance should contain every treatment: in his terminology the higher interactions may be "confounded" with block effect. In this way block sizes can be kept to reasonable dimensions with marked advantage to the removal of positional variance and reduction of error. He gives examples and rules for the construction of confounded blocks in a variety of experiments where first order interactions are ascertainable, and higher interactions are consciously made inseparable from block effects.
+
+### THE FUTURE OF FIELD EXPERIMENTS
+
+Before attempting to assess the place that field experiments can take in future schemes of agricultural research it will be convenient to sum up briefly the position at the moment, and to review the vantage points that research into the technique of field experimentation have provided.
+
+The first and most important advantage is that by using probability methods, a more uniform criterion of interpretation has been achieved. Although there is no rigid criterion in use by all experimentalists, some preferring to use one level of probability as indicating significance, and others a different one,
+
+4------------------------------------------------
+
+190
+
+since all are based on the same foundation they can be mutually related, and in any case the subjective element in deciding what differences in treatment shall be counted on is altogether eliminated.
+
+Further, the accuracy of comparisons in an experiment has been greatly increased, and provided that adequate statistical treatment is given, the experimentalist is provided with information that can guide him in seeking to reduce still further errors of working. Given a technique such as has been described in the preceding sections, a worker faced with a significant difference of 10 per cent. will neither deny the reality of differences of say 8 per cent., nor will he place misdirected reliance on them. He will rather look to every phase of the experimental operations to see where greater care and accuracy may be achieved. On the other hand, if an experiment justifies taking the significant difference at 5 per cent., and actual differences emerge at the 3 per cent. level, he is justified in deciding that such differences in treatment effect are of negligible agricultural value.
+
+The difficulties of soil heterogeneity have been very largely eliminated in such a way as generally to render unnecessary any recourse to "calculated" or corrected yields. Applying similar considerations to experiments in different places, or in different seasons, standards of consistency are now available which enable the scope of experimental enquiry to be widened and to remove the common reproach that experiments only apply to the peculiar circumstances under which they are carried out. In addition, the interplay of various factors can be accurately judged in a way that was impossible when experiments were restricted to a few unrelated treatments. Moreover in the moderately complicated multiple-factor experiments that are now usual, since each plot has a bearing on each of the questions asked, the experiment gives a maximum of information with a minimum of land utilisation and effort. The author's personal experience has shown that modern experiments, involving randomisation and other intricacies of design, can be successfully carried out employing Indian immigrant labour with a comparatively low standard of intelligence. Provided that the executive officer plans all details carefully before the actual field stage is started, it is his experience that labourers who readily accept a routine can satisfactorily discharge their duties.
+
+5------------------------------------------------
+
+191
+
+Most of the objections to modern experimental technique are based on misconceptions. Salmon <sup>(65)</sup> criticises recent work in the following terms: "The history of science indicates that the most important discoveries of science have been the result of accurate observations repeated under dissimilar conditions rather than with similar conditions in such a way that probable error may be computed" . . . . . "Few, if any, of the recent contributions of the United States Department of Agriculture are directly traceable to, or depend in any important manner upon replicated plots and interpretations on probable error". Apart from the fact that the phrase "accurate observations" begs the whole question, this writer fails to take account of two things. In the first place, the number of discoveries relating to agricultural effects of great magnitude is steadily decreasing, so that more refined methods must be sought to elucidate the numberless smaller, though not unimportant, effects. Secondly, he takes a very limited view of probable error or statistical computation generally, not realising that, as indicated above, observations repeated under dissimilar conditions need an accuracy of control corresponding with that accorded to nearly similar conditions.
+
+A more fundamental objection is voiced by Vageler <sup>(66)</sup> in his book on tropical soils. Dealing with the applicability of field experiments to questions of suitable manurial treatment he says:
+
+"Turning now to the question of determining the manurial requirements of soil, we find more and more reason to regard field trials, which were long considered the sole reliable test, as having notable defects. Apart from the fact that the field trial always produces results *post festum*, i.e., one year too late, we have the constant stream of brand new methods for evaluating experimental data. This indicates that one cannot treat as random variations those systematic errors, or rather those individual differences between control plots, which arise from variation of the soil within the experimental area, without reaching conclusions that are materially false. No serious investigator now supports the first enthusiastic claims which were based on the apparent precision of figures obtained by applying the theory of probability to plot technique, nor would he guarantee even his best experimental results as quantitative directions for practical manuring. In comparison with the information to be derived
+
+6------------------------------------------------
+
+192
+
+from statistical examination of large scale trials he would regard his researches merely as the basis for fairly sound manorial recommendations. To arrive at such fairly sound recommendations by means of field experiments often entails a heavier outlay of time, labour and money than is justified by the result (p. 5.).
+
+In a further passage Vageler refers to perennial crops thus:
+
+“One can indeed readily understand that in patchy districts practically every tree stands on its own particular soil, probably differing from that of neighbouring trees. Besides, since the number of plants under observation is small, differences between individual trees have an unduly large effect and may occasionally give an entirely false impression. It is not surprising therefore, that manorial trials in small plots have seldom given satisfactory results in the case of perennial tropical crops. There is, then, urgent need for establishing as an alternative to field trials some rapid and reliable means of ascertaining manorial requirements. For this purpose soil analysis, or more generally, soil science is obviously the only safe guide.”
+
+The aims and methods of field experimentation are here again misconstrued. As has been mentioned previously, systematic soil variation is eliminated in modern experiments, whilst with regard to the representative character of field plots the error is in fact a measure of this representativeness. Whatever defects an experiment contains by reason of the fact that “Every tree stands on its own particular soil”; such defects are equally relevant to any system of nutrient requirement determination by soil analyses. Besides, no system of soil analysis can give information about those interactions of manures amongst themselves or with climatic or varietal factors, which represent one of the solid achievements of the present-day technique.
+
+These examples have been quoted because they show that it is imperative to consider whether modern field experimental technique is a mere flash in the pan, destined to be discarded, or at any rate severely discounted. Our contention is that it is not. The plant itself is the best medium through which to derive information about environmental factors. It is a commonplace that investigations in the laboratory or the pot-culture house do not always give results concordant with those experienced in the field, so that the place of field experiments in agricultural research seems assured.
+
+7------------------------------------------------
+
+193
+
+Nothing is more needed than some broad generalisation regarding the behaviour of crops under different conditions. The necessary technique is at hand, and one may envisage a time when standard experiments in varying climates and on different soils, will give some such information. Nothing could be more productive of good than that these experiments should go hand in hand with a detailed examination of the climatic and pedological conditions. The closer contact that research workers now have with one another through Imperial Bureaux, and the concentration of economic supplies of agricultural fertilisers in the hands of large combines, should help to make a scheme of this nature practicable. In the field of varietal response, work on these lines has been in progress for many years. Larsen <sup>(67)</sup> reports the results of a larger number of variety trials on oats, barley and potatoes, the latter being carried out for nine years on no fewer than 84 farms.
+
+Examples of useful lines of development that can only be attempted with some assurance of success on the lines of this essay, are more numerous than can be mentioned. Yield is the integrated result of many factors, and the whole of the observational side of crop growth between seed time and harvest is as yet almost unexplored. The need of work on these lines is aptly stated in an editorial article in the Experiment Station Record for 1914 <sup>(68)</sup>:
+
+“In too large a proportion of these experiments the main interest and reliance seems to be placed on weight or bulk of the harvested crop. This of course is the final measure, from an economic point of view, to determine whether a practice or treatment is profitable or advisable. But in investigation and in all experiments except those of the most rudimentary kind, the aim should be to learn not merely the economic result, but something of the way in which the result has been brought about, and the effect upon the plant to imposed conditions. The living plant must be studied quite as much as the final yield”.
+
+Agricultural research has the disadvantage of being carried out under conditions which are imposed on the worker whether he wills it or not, but this very fact brings with it a diversity of circumstance and outlook which hold promise of a rich experience. Nowhere is this more true than in the realm of field experimentation.
+
+8------------------------------------------------
+
+194REFERENCES
+
+1. 1. DAVY HUMPHERY.—Elements of Agricultural Chemistry, London, 1813.
+2. 2. BOUSSINGAULT, J. B.—Economie Rurale considérée dans ses Rapports avec la Chimie, la Physique, et la Meteorologie, 2nd. Edit., Paris, 1851.
+3. 3. BOUSSINGAULT, J. B.—Annales de Chimie et Physique, 1841, **3**, 208.
+4. 4. HALL, A. D.—The Book of the Rothamsted Experiments, 2nd., Edit., London, 1917.
+5. 5. GILBERT, J. H.—Memoranda of the Origin, Plan, and Results of the Field and other Experiments, etc., 1898.
+6. 6. LAWES, J. B.—J. Roy. Agric. Soc., 1855, **16**. Roth. Mem., **1**, No. 7.
+7. 7. GILBERT, J. H.—Introduction to the Study of the Scientific Principles of Agriculture, 1884, Roth. Mem., **6**, No. 1.
+8. 8. LAWES, J. B. and GILBERT, J. H.—Report of Br. Ass., 1861, Roth. Mem., **1**, No. 16.
+9. 9. LAWES, J. B. and GILBERT, J. H.—J. Roy. Agric. Soc., 1864, **25**, 93 and 449.
+10. 10. GREY, E.—Reminiscences: Rothamsted Experimental Station, Harpenden, 1922
+11. 11. Rothamsted Experimental Station, Report for 1931.
+12. 12. KEEN, B. A. and HAINES, W. B.—J. Agric. Sci., 1925, **15**, 395.
+13. 13. EDEN, T. and MASKELL, E. J.—*ibid.* 1928, **18**, 163.
+14. 14. Woburn Field Experiments, Guide to, Roy. Agric. Soc., 1921.
+15. 15. PIPER, C. V. and STEVENSON, W. H.—Proc. Am. Soc. Agron., 1909, **2**, 70.
+16. 16. EGOROV, M.—Russ. J. Expt. Landw., 1909, **10**, 502.
+17. 17. WOOD, T. B. and STRATTON, F. J. M.—J. Agric. Sci., 1910, **3**, 417.
+18. 18. HALL, A. D. and RUSSELL, E. J.—J. Bd. Agric., Supplement, Nov., 1911.
+19. 19. MERCER, W. B. and HALL, A. D.—J. Agric. Sci., 1911, **4**, 107.
+20. 20. KOSIECKI, E.—Bul. Angew. Bot., 1912, **5**, 177.
+21. 21. FROHLICH, O.—Mitt. Landw. Inst., 1913, **6**, 683.
+22. 22. FRISCHAUF, J.—Landw. Jahrb., 1912, **43**, 501.
+23. 23. LEHN, D.—Bl. Zuckerrubenzau, 1913, **20**, 33 and 52.
+24. 24. GREGOIRE, A.—Rapports Xe Cong. Internat. Agric. Gand, 1913.
+25. 25. MIYAKE, C.—Ber. Chara Ins. Land. Forsch., 1916, **1**, 111.
+26. 26. HOLTSMARK, G. & LARSON, B. R.—Tidsskr. Landbr. Planteavl., 1905, **21**, 330.
+27. 27. LEIDNER, R.—Landw. Jahrb., 1916, **49**, 105.
+28. 28. CARLTON, M. A.—Proc. Soc. Prom. Ag. Sci., 1909, **30**, 55.
+29. 29. PRITCHARD, F. J.—J. Am. Soc. Agron., 1916, **8**, 65.
+30. 30. KIESSELBACH, T. A.—Nebraska Sta. Res. Bull., No. 13, 1918.
+31. 31. ARNY, A. C. & GARBER, R. J.—J. Am. Soc. Agron., 1919, **11**, 33.
+32. 32. ARNY, A. C. & STEINMETZ, F. H.—J. Am. Soc. Agron., 1919, **11**, 81.
+33. 33. HAYES, H. K. & ARNY, A. C.—J. Agric. Res., 1917, **11**, 399.
+34. 34. "STUDENT", Biometrika, 1923, **15**, 271.
+35. 35. HARRIS, J. A.—J. Agric. Res., 1920, **19**, 279.
+36. 36. MASKELL, E. J.—Rep. Imp. Bot. Conference, 1924.
+37. 37. CLAPHAM, A. R.—J. Agric. Sci., 1929, **19**, 214.
+
+9------------------------------------------------
+
+195
+
+1. 38. ARNY, A. C. and HAYES, H. K.—J. Agric. Res., 1918, **15**, 251.
+2. 39. ARNY, A. C.—J. Am. Soc. Agron., 1922, **14**, 266.
+3. 40. ARNY, A. C.—J. Agric. Res., 1921, **21**, 483.
+4. 41. LOVE H. H.—J. Am. Soc. Agron., 1928, **20**, 426.
+5. 42. SPRAGG, F. A.—*ibid.* 1920, **12**, 168.
+6. 43. SUMMERBY, R.—*ibid.* 1923, **15**, 192.
+7. 44. DAY, J. W.—*ibid.* 1920, **12**, 100.
+8. 45. CHRISTIDIS, B. G.—J. Agric. Sci., 1931, **21**, 14.
+9. 46. "STUDENT", Biometrika, 1908, **6**, 1.
+10. 47. FISHER, R. A.—Metron, 1935, **5**, 3.
+11. 48. BEAVEN, E. S.—J. Min. Agric., 1922, Nos. 4 and 5.
+12. 49. LOVE, H. H.—J. Am. Soc. Agron., 1923, **15**, 217.
+13. 50. FISHER, R. A.—Statistical Methods for Research Workers, Edinburgh, 1925.
+14. 51. IRWIN, J. O.—J. Roy. Stat. Soc., 1931, **94**, 285.
+15. 52. IRWIN, J. O.—Sup. to J. Roy. Stat. Soc., 1934, **1**, 236.
+16. 53. EDEN, T. and FISHER, R. A.—J. Agric. Sci., 1929, **19**, 201.
+17. 54. FISHER, R. A.—J. Min. Agric., 1926, 503.
+18. 55. YATES, F.—Emp. J. Exp. Agric., 1933, **1**, 235.
+19. 56. TEDIN, O.—J. Agric. Sci., 1931, **21**, 191.
+20. 57. SALMON, S. C.—J. Am. Soc. Agron., 1924, **16**, 717.
+21. 58. BARCLAY, C. and GRANTHAM, J.—Archief v. d. Rubbercultuur, 1933, **87**, 219.
+22. 59. PRILLWITZ, P. M. H. H.—Archief v. d. Thecultuur, 1929, 159.
+23. 60. EDEN, T.—J. Agric. Sci., 1931, **21**, 547.
+24. 61. ENGLEDEW, F. L. and YULE, G. U.—The Principles and Practice of Yield Trials, Empire Cotton Growing Corp., 1926.
+25. 62. FISHER, R. A. and MACKENZIE, W. A.—J. Agric. Sci., 1923, **13**, 311.
+26. 63. GREGORY, F. G., CROWTHER, F. and LAMBERT, A. R.—J. Agric. Sci., 1932, **22**, 617.
+27. 64. YATES, F.—J. Agric. Sci., 1933, **23**, 108.
+28. 65. SALMON, S. C.—J. Am. Soc. Agron., 1923, **15**, 225.
+29. 66. VAGELER, P.—An Introduction to Tropical Soils, London, 1933.
+30. 67. LARSEN, B. R.—Aas. Agric. Coll. Report, 1912.
+31. 68. Editor, Experiment Station Record, 1914, **31**, 704.
+
+10------------------------------------------------
+
+196
+
+## STUDIES ON CEYLON SOILS
+
+### I.—MODERN METHODS OF SOIL STUDY AND CLASSIFICATION AND THEIR APPLICATION TO CEYLON SOILS
+
+A. W. R. JOACHIM, PH.D.,  
+DIP. AGRIC. (CANTAB.),
+
+AGRICULTURAL CHEMIST
+
+#### INTRODUCTION
+
+**N**UMEROUS references to the soils of Ceylon are found in various books and publications by administrators, forest officers, botanists and geologists <sup>(1, 2, 3, 4)</sup> of earlier times. They are confined chiefly to the general appearance and nature of the soils, their mineralogical and geological characteristics, vegetative relationships, productivity, etc. In the main, the observations are remarkably accurate and the opinions expressed often quite sound. The systematic examination of Ceylon soils dates back to coffee days <sup>(5, 6)</sup>, since when a vast amount of analytical data of the soils of the Island has been accumulated. The more recent valuable contributions in this respect are the publications on the tea soils of Ceylon by Bamber <sup>(7)</sup> and the paddy and forest soils by Bruce <sup>(8, 9)</sup>. Soil analyses, until recently, had generally for their object the determination of the physical constitution of the soil and the deficiencies or abundance of plant food material in it. While the information they supplied was doubtless of practical value, it was of limited utility from the standpoint of soil science or *pedology* which is concerned not only with the agricultural value of the soil, but with its origin, constitution, properties and classification as well.
+
+In at least two important respects does modern soil study differ from that of the past. In the first place the unit of study is now the *soil profile*, which is a vertical section of the soil from the surface down to the parent material. The soil profile represents the sum-total of the chemical and physical changes which have taken place in the entire soil mass, and a number of distinct soil layers or *horizons*, the depths of which vary, are often recognisable in it. In the old method of soil sampling the samples
+
+11------------------------------------------------
+
+197
+
+were taken to standard depths, *e.g.*, 0-9 in., 9-18 in. This, it will be obvious, would have involved the mixing in part or whole of various horizons, and while the analyses were of some value agriculturally, they gave no indication whatever of the pedological processes to which the soil had been or was being subject. Modern soil sampling is therefore carried out according to the depths of the various soil horizons.
+
+The second feature of modern soil study is the stress it places on the characteristics of the clay complex of the soil. It is now well recognised that the processes which go to make up soil fertility, in so far as the mineral plant foods are concerned, are intimately connected with the clay component of the soil. Certain analytical determinations now regarded as essential for the valuation of this constituent of soil fertility did not find a place in older soil work. Such for instance are the exchangeable base contents and the silica/sesquioxide ratio of the soil.
+
+The study of a soil profile involves not only the analytical examination of the different horizons, but also the determination of their structure, texture, consistency, etc., and the general mode of formation, geological origin, drainage, etc., of the entire soil. This necessitates an examination of the soil in the field. As Robinson <sup>(10)</sup> in his recent work on 'Soils' remarks: "Eventually, the pedologist must go into the field and study his material under natural conditions," and "the centre of interest must now shift more and more from the laboratory to the field". Based on the soil profile as the unit, the division of soils into a number of major groups has been made possible.
+
+But little has so far been done in regard to the study and classification of Ceylon soils on modern pedological lines. Eden <sup>(11)</sup> was the first to apply these new methods to some local tea soils. An attempt at the classification of Ceylon soils in conformity with recognised world groups was made by Schokalsky <sup>(12)</sup>, but as her data was limited, the classification is necessarily incomplete. Hers is however an interesting and useful contribution to the knowledge of our soils in the light of modern soil science.
+
+#### SCOPE AND OBJECTS OF PRESENT STUDIES
+
+The present studies have for their primary object the investigation of some of the characteristics of the major soil groups of Ceylon on the basis of the soil profile. It is considered
+
+12------------------------------------------------
+
+198
+
+that the results of these studies would offer sufficient data for an attempt at classification of local soils in relation to well-known world types. The scheme of classification suggested is necessarily tentative and will doubtless need modification as further data become available. It offers however a working hypothesis and as such should prove of some use to future students of local soils.
+
+As it has been strongly urged that a publication on the more important types or groups of local soils is desirable for the use of agricultural instructors and students, and as the data to be published will, it is considered, be of interest to pedologists as well, a compromise in regard to the mode of presentation of the results of these studies has been made. It is proposed to publish, in the first instance, a series of six or seven articles on the subject. In the present paper which is the first of the series an account of the modern methods of soil study and classification and their application to local soils, is given. This paper is essentially meant for the practical agriculturist and the non-technical reader. In the second, a concise general account of the characteristics of the main local soil groups will be presented and a scheme of classification of these groups suggested. This paper should prove of interest to both classes of readers. The subsequent papers will be an elaboration of Paper II, and will contain the observational and analytical details of the profiles studied. It is thereby hoped that the series of articles would prove of interest and value to as wide a circle of readers as possible.
+
+### SOIL FORMATION AND CHARACTERISATION
+
+Soils are formed from rocks through the processes of weathering, both mechanical and chemical. The two main factors governing these processes are climate and parent material. By climate is meant the rainfall, temperature and humidity to which a soil is subject. Climate influences the character of the soil to a more pronounced degree than does the rock material from which it is formed with many groups of soils. The Russian soil scientists were the first to enunciate the principle that soils of similar character would be formed from rocks of different geological type, provided the climatic conditions were uniform, and that dissimilar soils would be formed from rocks of the same or similar geological type, if the climatic
+
+13------------------------------------------------
+
+199
+
+conditions to which they were subject varied. While this principle was found to hold with a large number of soil types of the world, called the climatic soil types, there were some notable exceptions as, for example, the red calcareous soils. Instances have also been recorded of very diverse soils being formed under the same climatic conditions from similar geological rocks. For the purposes of this paper it is sufficient to compare the effects on soil character of a wet tropical with a moderately wet temperate climate. Under tropical conditions of heavy rainfall and high temperature, chemical weathering is very intense and so is leaching. The alkali bases, soda, potash, and lime are almost completely leached out and so also is a comparatively large proportion of the combined silica of the original rock. Organic matter is also very rapidly decomposed under these conditions. The ultimate result is a soil rich in the sesquioxides of aluminium and iron relative to combined silica, and poor in bases and humus. Of this nature are the laterite, lateritic and red earths soils of the tropics in general and of Ceylon in particular. These furnish excellent examples of climatic soil groups. Under moderately wet, temperate conditions, soils are formed containing good reserves of organic matter and clay. The latter is high in silica and comparatively low in sesquioxides. Such are the brown earth soils of Europe. Parent material influences the nature of the soil derived from it, irrespective of climatic conditions, in the case of soils associated with limestone and immature alluvial soils.
+
+### THE SOIL PROFILE
+
+The soil profile, as already explained, is a vertical section of the soil from the surface down to the underlying parent material, whether unweathered or slightly weathered. It is divided into three layers or horizons known respectively as horizon A, B, & C. Horizon A is the surface soil or upper horizon of the soil mass from which material is removed by percolating water. It is generally subdivided into two or more sub-horizons, of which A0 is the layer of organic debris <sup>(13)</sup>. The other sub-horizons are designated A1, A2, etc. Horizon A is also known as the *eluvial* horizon as material is leached out from it. Horizon B underlies horizon A and is the layer of deposition or accumulation of material leached from A. It is known as the *illuvial* horizon and may again be subdivided into other horizons designated as B1, B2, etc. The C horizon is the undifferentiated
+
+14------------------------------------------------
+
+200
+
+parent material. This may be either the parent rock or partly weathered material. The characteristic features of a soil profile are mainly the results of chemical weathering and the redistribution of the products of such weathering by the agency of water, either percolating downwards or drawn upwards through the action of capillarity.
+
+### FIELD OBSERVATIONS
+
+The different horizons of a profile are generally recognised in the field by their colour, texture or structure. Observations on the following soil characteristics are made in regard to each distinct horizon of a soil profile: depth, colour, texture, structure, consistency, root penetration, presence of concretions and chemical deposits, degree of rock decomposition, horizon boundary, moisture conditions, reaction and special features. Most of the above characteristics are self-explanatory, but the few unfamiliar terms will be considered in some detail.
+
+*Soil texture* is the term indicating the coarseness or fineness of a soil and the proportion of the various constituents in it. Thus soils may be divided into sands, loams, silts, clays, sandy loams, heavy loams, gravelly loams, and various other textural classes. Hardy <sup>(14)</sup> has advocated the adoption of a single value factor for expressing the texture of a soil, known as the 'Soil Texture Index'. This factor is calculated from the sand content of a soil and its sticky point moisture, a term which will be explained later. A similar factor can also be obtained by multiplying the actual percentages of clay, silt and sand by certain constants and totalling these figures together. Examples of this will be given in the subsequent papers. On the basis of the texture index, the following soil classes are recognised:
+
+<table border="1">
+<thead>
+<tr>
+<th>Index of Texture</th>
+<th>Soil Class</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1-10</td>
+<td>Sand</td>
+</tr>
+<tr>
+<td>11-20</td>
+<td>Sandy or Light Loam</td>
+</tr>
+<tr>
+<td>20-30</td>
+<td>Heavy Loam</td>
+</tr>
+<tr>
+<td>30-40</td>
+<td>Fine Silt</td>
+</tr>
+<tr>
+<td>40-45</td>
+<td>Heavy Silt</td>
+</tr>
+<tr>
+<td>45-55</td>
+<td>Clay</td>
+</tr>
+<tr>
+<td>55-60</td>
+<td>Heavy Clay</td>
+</tr>
+<tr>
+<td>+ 60</td>
+<td>Very Heavy Clay</td>
+</tr>
+</tbody>
+</table>
+
+If gravel or stones are present in such quantities as to effect the economic value of the soil type, the terms gravelly and stony are used.
+
+15------------------------------------------------
+
+201
+
+In the field the texture of a soil is determined by its "feel", that is by pressing a small amount of the soil between the thumb and the first finger.
+
+*Soil structure* is the term expressing the arrangement of the individual grains and aggregates that make up the soil mass <sup>(13)</sup>. The terms used in describing soil structure are as follows: granular, when the aggregates are of medium consistency, more or less rounded in shape and of diameter up to about 2 cm; columnar, when the arrangement of the soil mass is in more or less regular columns with vertical sides and rounded tops; prismatic, the arrangement of the soil being more or less in prismatic blocks; cubical; single grain; clod; nut or nodular, the aggregates being compact and of hard consistency and more or less rounded in shape like nuts; crumb, signifying an ideal soil structural condition allowing of free drainage and aeration.
+
+*Consistency* is the term expressing the degree of cohesion of a soil. Common terms used to express consistency are loose, friable, soft, hard, compact, impervious. <sup>(13)</sup>.
+
+In addition to the data thus obtained for each of the horizons of the profile, the following observations are made in regard to the whole profile <sup>(15)</sup>:
+
+1. (1) Location and elevation.
+2. (2) Climate: rainfall and temperature.
+3. (3) Geological origin of soil material. Under this head the four following classes are recognised:
+   1. (a) Igneous rocks: *e.g.*, granite, norite.
+   2. (b) Sedimentary rocks: *e.g.*, limestone, sandstone.
+   3. (c) Metamorphic rocks: *e.g.*, gneiss, marble, quartz.
+   4. (d) Unconsolidated deposits: *e.g.*, gravels, sands, clays.
+4. (4) Mode of formation: whether transported by water, *e.g.*, alluvium, gravity, *e.g.*, colluvium, wind or ice; or whether the soil is formed *in situ*, i.e., is residual or sedentary. Some writers use the terms primary and secondary for residual and transported soils respectively.
+5. (5) Drainage. This is described as excessive, good, imperfect, or poor.
+6. (6) Topographic position. The general configuration of the area from which a representative profile is taken is expressed in the following terms: rugged, steep, rolling or undulating, sloping, level, depressed.
+7. (7) Vegetation: nature, distribution, etc.
+
+16------------------------------------------------
+
+202
+
+## SELECTION OF PROFILE SITE AND SOIL SAMPLING
+
+Before a soil profile is examined, it is necessary to make certain that it is typical of the area which it is intended to study. This has to be ascertained by a preliminary exploration of the area, for which purpose a soil auger is very helpful. Where this tool is not available, an examination is made of road cuttings, ravines, and other soil exposures in the area. When a profile is to be taken of an area on hilly ground, a site is selected about halfway down the slope. Care is taken that the place selected is, as far as possible, free from the influence of denudation. Thus badly eroded soils are avoided. An area which has not been subject to cultivation is preferably chosen for the location of the site. Where however uncultivated land is not available, a place is selected which has been least affected by cultivation.
+
+Once a site has been decided on, a trench at least 4 feet deep or down to parent rock material when this occurs at a less depth, and 3 feet by 3 feet in cross section is dug. A 4-foot depth generally suffices for most local soils. If it becomes necessary to sample to greater depths or if the digging of a pit is not convenient, a fresh cut in a hillside, along roads, quarries or railroads will be equally suitable. Great care, however, is exercised that the profile has not been disturbed in any way either by the removal or addition of soil material. When the profile section is ready all the observational data, depth measurements, etc., discussed in the preceding paragraphs are made and then only is the sampling begun.
+
+The actual sampling of the profile is carried out by cutting vertical slices of the soil from each of the horizons in turn, starting from the A horizon. Local soil profiles often exhibit no marked horizon boundaries. It will however be found that with most soil profiles, at least two distinctly-coloured sections can be recognised. The A horizon, especially in uncultivated areas, is generally of an appreciably darker colour than the underlying horizons due to its accumulations of organic matter. It corresponds to what is known to practical agriculturists as the soil layer, while the B horizon generally corresponds to what is called the sub-soil. Enough soil is taken from each horizon of the profile for a complete chemical and physical examination. About 3 lb. of well-mixed, moist soil generally suffices. Each sample is labelled with the location or number of the profile and the depth range from which it was taken.
+
+17------------------------------------------------
+
+203
+
+Numerous illustrative examples of the method of recording the data of a soil profile will be furnished in subsequent papers.
+
+#### ANALYTICAL EXAMINATION OF SAMPLES
+
+The samples on receipt in the laboratory are air-dried, if this was not previously done, lightly ground down with a wooden pestle, weighed and sieved through a 2 mm. sieve. The material passing through the sieve is stored for subsequent examination and the stones and gravel washed, dried and weighed and their percentage in the original soil calculated. The determination of the content of stone and gravel in a soil sample is an important one, as in tropical soils these constituents occasionally do form a very high percentage of the soil mass. In these circumstances the soil is infertile.
+
+The soil proper (sieved material) is then subject to examination. It is not possible, nor is it desirable, in a paper of this nature for technical details of methods of analysis to be given. Those readers who would wish to pursue the matter further are referred to text books such as Robinson's 'Soils — Their Origin, Constitution and Classification' <sup>(10)</sup> or Russell's 'Soil Conditions and Plant Growth' <sup>(18)</sup>. What will however be attempted in this paper is an explanation, in the case of the less familiar analytical determinations, of what the particular method measures and its value from a soil standpoint.
+
+The first step in the processes of soil analysis is the determination of the physical or *mechanical composition* of a soil. All agriculturists know that the mineral portion of a soil is comprised of the four following particle classes: clay, silt, sand and gravel. A mechanical analysis shows the relative proportions of each of these constituents in the soil. By international agreement the soil constituents are defined according to their sizes as follows:
+
+<table>
+<tr>
+<td>Coarse sand</td>
+<td>2·2 mm.</td>
+</tr>
+<tr>
+<td>Fine sand</td>
+<td>·2·02 mm.</td>
+</tr>
+<tr>
+<td>Silt</td>
+<td>·02·002 mm.</td>
+</tr>
+<tr>
+<td>Clay</td>
+<td>Less than ·002 mm.</td>
+</tr>
+</table>
+
+The method of mechanical analysis adopted in this laboratory is the one recommended by the Imperial Bureau of Soil Science <sup>(17)</sup>. The other routine determinations now considered of importance in soil work are indicated in the following paragraphs:
+
+18------------------------------------------------
+
+204
+
+*Moisture.*—This is the amount of water contained in an air-dry soil dried to constant weight at 105°C. *Loss on Ignition*, which is a measure of both the organic matter content of a soil and the colloidal-held moisture, is determined by igniting the dry soil in a muffle furnace. *Organic Matter*. This is obtained indirectly from its carbon content by multiplying by the conventional factor 1.724. *Carbon* is determined by either a wet or dry combustion method. Robinson's wet combustion method is used in this laboratory <sup>(18)</sup>. *Nitrogen*. The ordinary Kjeldahl method is adopted for the estimation of total nitrogen. *Carbonates* when found in local soils — of infrequent occurrence — is determined by the Collin's calcimeter.
+
+*Reaction.*—The reaction value of a soil is a measure of its acidity or alkalinity. It is now commonly expressed as the  $P_H$  value or the negative logarithm of the hydrogen-ion concentration of the soil. A  $P_H$  value of 7 denotes a neutral soil, while lower values indicate acid soils, the lower the  $P_H$  the more acid the soil.  $P_H$  values higher than 7 are shown by alkaline soils, the alkalinity increasing with increasing  $P_H$ . Colorimetric and electrometric methods are used for determining the  $P_H$  value of a soil. The determination of this soil characteristic is of importance inasmuch as certain crops will not grow, much less thrive, except on soils which have a  $P_H$  range suitable to their requirements. Thus tea will not grow on alkaline or even neutral soils, but requires soils of distinct acidity. Similarly, certain grains and legumes cannot be grown on acid soils. There are other crops which can be grown on soils of widely-varying reaction value.
+
+*Exchangeable or Replaceable Bases.*—The properties of soils are markedly affected by the nature and amount of the exchangeable bases present in them. By exchangeable bases are generally meant the bases calcium, potassium, sodium, magnesium and ammonium which are absorbed by the clay complex of a soil and are easily exchanged or replaced by other bases, when the soil is treated with neutral salt solutions of the latter, e.g., sodium chloride. In addition to these bases the clay complex has also a certain proportion of replaceable hydrogen. If the hydrogen is in excess of the bases, the soil is acid. If on the other hand the bases are in excess of the hydrogen, the soil is alkaline. When all the hydrogen of the clay complex is replaced by bases, the soil is said to be 'saturated'. When this is not so, as in
+
+19------------------------------------------------
+
+205
+
+most cases, the soil is said to be 'unsaturated'. The higher the degree of unsaturation, the more acid is the soil. The exchangeable base contents of a soil are expressed as percentages or more generally in milligram equivalents per 100 gm. of soil. A milligram equivalent of a base is its equivalent weight in milligrams. Thus if a soil is reported to have 10 mgm. equivalents of calcium in 100 gm. of the soil, it signifies a replaceable or exchangeable calcium content of  $10 \times 20$  mgm. = 200 mgm. or 0.20 gm. in 100 gm. soil or a percentage of 0.20. Humid tropical soils, such as occur in Ceylon, have generally low exchangeable base contents. For a more complete account of exchangeable bases reference should be made to a paper by Eden <sup>(19)</sup> in *The Tea Quarterly*. Numerous methods have been adopted for the determination of exchangeable bases in soils, but the method found most convenient for use in this laboratory is that of Bray and Willhite in which ammonium acetate is used as the leaching agent.
+
+*Analysis of the Clay Fraction.*—The analysis of the clay fraction of a soil is now regarded of the highest value, as it gives an insight into the properties of the soil and is of considerable significance from the standpoint of the genetic classification of soils. The determinations usually made are the silica, iron oxide and aluminium oxide contents. The silica/alumina molecular ratio of a soil makes possible its classification, on the basis of Martin & Doynes <sup>(20)</sup> work, into one of three classes: laterite soils when the ratio is less than 1.33, lateritic soils when it is between 1.33 and 2, and non-lateritic soils when it is greater than 2. The method of analysis adopted in this laboratory is the ordinary sodium carbonate fusion method.
+
+*Acid Soluble Constituents.*—The older soil analyses invariably included the determination of the percentages of silica, aluminium and iron oxides, potash and other bases as well as phosphoric acid and other constituents soluble in hydrochloric acid. While these data do occasionally furnish some clue to the failure of a crop on certain soils, and may afford indications of the reserves of plant nutrients in the soil, it is considered that, except for the potash and phosphoric acid contents, they do not furnish information commensurate with the time and labour involved in them. In the present series of studies, only in a few instances have the acid-soluble soil constituents, other than potash and phosphoric acid, been determined.
+
+20------------------------------------------------
+
+206
+
+*Available Potash and Phosphoric Acid.*—These are empirical determinations of the soil potash and phosphoric acid soluble in one per cent. citric acid.
+
+In addition to the above chemical determinations, a few physical determinations have been found useful in characterising soils. Of these the 'sticky point' moisture, which is the percentage of water a soil retains when after being well kneaded, it no longer sticks to the fingers or to a glass plate, is one of some importance.
+
+In these investigations, soil physical determinations with the exception, occasionally, of the sticky point moisture have been omitted.
+
+### SOIL CLASSIFICATION
+
+The ultimate end of all soil study being the classification of the soils of a country according to their agricultural potentialities and values, and the aim of modern soil work being the adoption of methods whereby this desired result is most likely to be achieved, it would be advantageous briefly to discuss the principles underlying various methods and schemes of soil classification, with a view to determining which of the latter might be adapted for local soils.
+
+The age-old classification of soils on the basis of the texture of the surface soils, into clays, loams, sands, etc., while adequate for practical purposes in a limited area is unsuitable when it has to be applied to extensive soil regions, as soils very dissimilar in other respects would be grouped together. The classification of soils on a geological basis alone is again unsatisfactory, except in a limited area, for reasons already explained. A classification based solely on climate, without reference to geology, is also not complete, as has been previously indicated. Topography also influences soil development, even in regions of uniform geology and climate, mainly by its bearing on water movements, and must therefore be considered in any scheme of classification. Thus a well-drained soil would show very different characteristics to what it would exhibit under ill-drained conditions. This is well illustrated in the case of certain paddy soils. The only satisfactory method of classification is therefore one which takes account of the geological origin of the soil, its mode of formation and topography, the climatic conditions under which it was developed and the pedogenic processes to which it was subject.
+
+21------------------------------------------------
+
+207
+
+These factors are best reflected in the soil profile which is therefore the natural unit of soil study and classification.
+
+A number of schemes of soil classification has been proposed with the soil profile as the basis. It serves no useful purpose to discuss the merits of the various schemes; but it would be sufficient if such as are likely to have some bearing on any suggested scheme of classification of local soils are briefly outlined. Glinka <sup>(10)</sup> divided soils into two main classes: <sup>(1)</sup> soils in which external factors, *e.g.*, climate, predominantly affected their character; <sup>(2)</sup> soils in which the parent material affected their character. Of soils under the first class are the laterites and red earths, saline and alkaline soils. In the second class are the soils associated with limestone, *e.g.*, the red limestone soils (*terra rossa*), local examples of which are the Jaffna and Nalanda soils. Ramann <sup>(21)</sup> classified soils as humid and arid soils. Under the former class are included the laterite and red earth soils, and under the latter the saline and alkaline soils. Robinson <sup>(10)</sup> formulated a scheme of classification based on the character of the leaching processes. Under this system soils fall into three classes: (1) soils with complete leaching, *e.g.*, the red and yellow earths; (2) soils with impeded leaching, *e.g.*, the saline and alkaline soils and the grey soils, under which group the paddy soils as a whole may be assigned; (3) soils with incomplete leaching, characteristic samples of which are not found locally.
+
+Any scheme of classification of local soils, even if it is tentative, must necessarily take into consideration drainage and rainfall conditions and geological factors. It should thus comprise within its whole the salient features of each of the schemes outlined above. Further discussion on this subject is deferred for the next paper.
+
+Before concluding this brief account of the principles of soil classification, it might be well to refer to some terms used in soil survey work by American soil workers and adopted to some extent in Britain. The Americans use the term *soil association* or *family* to denote a group of soils possessing similar general characteristics, and which, though of similar geological origin, vary in profile details like colour and texture, but exhibit a uniform structure or consistency. A soil association consists of a number of *soil series* which in turn are subdivided into *soil types*. A *soil series* <sup>(13, 15)</sup> represents "a group of soils having
+
+22------------------------------------------------
+
+208
+
+the same character of profile, the same general conditions of drainage and relief, and usually a common or similar origin and mode of formation." The name of the series is taken from the region where the first number of that series was discovered, *e.g.*, Hanford series. In Ceylon all red soils derived from crystalline limestone would be classed under the Nalanda series, the best examples of these soils being found in the Nalanda district. A "soil which has got the same profile characteristics and the same texture throughout its occurrence is called a *soil type*." The name of the soil type is a combination of the series, name and the textural grade designation of the surface soil, *e.g.*, Hanford sandy loam or Nalanda medium loam. This terminology will be of value when detailed soil surveys are made. It would thus become necessary at a later stage of our work, once the recognition and characterisation of the main groups or associations of local soils, which is our first objective, has been accomplished.
+
+## REFERENCES
+
+1. 1. TENNENT, J. E.—Ceylon. London, 1860.
+2. 2. PRIDHAM, C.—Ceylon. London, 1849.
+3. 3. LEWIS, J. F. P.—Manual of the Vanni District of Ceylon, Colombo.
+4. 4. BENNETT, T. W.—Ceylon and its capabilities. London, 1843.
+5. 5. HUGHES, T.—Ceylon coffee soils and manures. Colombo, 1897.
+6. 6. COCHRAN, M.—Manual of chemical analyses.
+7. 7. BAMBER, M. K.—Report on Ceylon tea soils.
+8. 8. BRUCE, A.—Forest soils of Ceylon.—*Dept. Agr. Ceylon*, Bull. No. 61.
+9. 9. BRUCE, A.—A contribution to the paddy soils of Ceylon.—*Dept. Agr. Ceylon*, Bull. No. 57.
+10. 10. ROBINSON.—Soils: Their origin, constitution and classification.
+11. 11. EDEN, T.—Repts. of the Tea Res. Inst. Ceylon, 1928, 1929.
+12. 12. SCHOKALSKY, Z. T.—The natural conditions of soil formation in India. Chap. VI. Ceylon. Contributions to the knowledge of the soils of Asia.
+13. 13. SHAW, C. F. A.—A glossary of soil terms.—*American Soil Surv. Asscn. Bull.* 9, 1928.
+14. 14. HARDY, F.—An index of soil texture.—*J. Agric. Sc.* Vol. XVIII, pt. 2, 1928.
+15. 15. LEE, L. L.—The American method of soil classification and survey.—*Imp. Bur. Soil Sc. Tech. Comn.* No. 6.
+16. 16. RUSSELL, E. J.—Soil conditions and plant growth.
+17. 17. The dispersion of soils in mechanical analysis.—*Imp. Bur. Soil Sc. Tech. Comn.* No. 26.
+18. 18. ROBINSON, G. W., MACLEAN, W., and WILLIAMS, R.—The determination of organic carbon in soils.—*J. Agric. Sc.* Vol. XIX, pt. 2, 1929.
+19. 19. EDEN, T.—Soil acidity and base exchange.—*The Tea Quarterly* Vol. II, 1929.
+20. 20. MARTIN, F. S., and DOYNE, H. C.—Laterite and lateritic soils in Sierra Leone. *J. Agric. Sc.* Vol. XVII, pt. 4, 1927.
+21. 21. RAMANN, E.—The evolution and classification of soils. Trans. by C. L. Whittles.
+
+23------------------------------------------------
+
+209
+
+## THE MENACE OF PLANT DISEASES\*
+
+### A BIG FACTOR IN PRODUCTION COSTS
+
+It is sometimes suggested that since the markets of the world, and from time to time, even local markets, are glutted with supplies, it would be a good thing if plant diseases were allowed to affect crops more severely. This may be satisfactory if it applied only to the "other fellow" in another part of the world, but it is very faulty logic to apply to the local situation. Droughts, pestilence and disease, no doubt, will cause havoc in crops in the future, even as some of them have done in the past, but they will not do so to the farmer's profit. It does not help to reduce supplies by methods which increase cost of production, and the message which the Department of Agriculture has given for so many years past is that methods should be adopted which increase the profits per bushel of wheat or per case of fruit harvested. Plant diseases may affect crops not only by causing reduction in yield, but frequently also by causing serious reduction in quality.
+
+### DISEASES CAUSE ENORMOUS LOSSES
+
+Some of the effects of plant disease in this State are still so well known that it is hardly necessary to refer to them. Wheat rust has caused millions of pounds worth of damage in crops grown in this country. The 1916 outbreak resulted in a loss of £2,000,000, and many will remember the damage in individual crops in 1930. We have seen flag smut decimating crops of the older wheat varieties. Vine-growers will remember that downy mildew was unknown in New South Wales prior to 1918, and in one year caused a loss of £40,000. The proper study of plant disease dates back only to 1845, when a mysterious disease destroyed the potato crops in Europe, and resulted in the Irish famine and the death of a quarter of a million people in Ireland alone. The disease was the now familiar Irish blight or late blight, unknown in New South Wales before 1909, and although control measures have been known for many years, the tomato strain caused extensive losses in tomato crops in our coastal areas only last season.
+
+### COST OF CONTROL IS HEAVY
+
+We have recorded more than a thousand plant diseases in New South Wales, and it would appear that very satisfactory means of control have been developed against most of the more serious ones. Yet in many cases, this involves a careful, systematic application of sprays or other treatments, and the costs involved are enormous. Careful surveys in other countries have shown that the cost of application against many fruit pests and diseases represents 30 per cent. of the cost of production. If, as it seems likely, a similar position exists here, then spraying costs for
+
+---
+
+\* Report of an Address by Dr. R. J. Noble, Biologist, in *The Agricultural Gazette of New South Wales*, Vol. XLVI, Part I, January 1, 1935.
+
+24------------------------------------------------
+
+210
+
+protection of the apple and pear crops in our eastern States are represented by some £900,000 each year. We cannot hope for ready solution of this problem from the plant breeders, although they have done so much in other directions.
+
+### WHEAT DISEASES AND THE BARBERRY
+
+Plant breeders have produced wheats which are highly resistant to the scourge of black stem rust. The problem has never been a simple one, as although it was thought, at first, that stem rust was a single disease. It is now known that there are approximately one hundred varieties or strains of the fungus. Some strains affect wheat varieties which are not injured by other strains of the rust fungus. Seven such strains have been recorded in New South Wales in the past, although, for the time being, some of them seem to have disappeared.
+
+For many years it was thought that the rust in Australia was carried over from season to season only in self-sown plants and in grasses, but we now have proof that the full complicated life cycle can occur here just as is the case in Europe and America. This was observed last year in the Bathurst district, when a barberry bush was found infected with wheat stem rust. This is a fact of special importance, not so much because barberry bushes will initiate early epidemics of wheat stem rust, but because they provide the means for developing new and possibly more virulent strains of the wheat stem rust fungus.
+
+I have more than once stressed the need for regulatory measures against the barberry, but the responsibility lies with growers in the cooler districts, because the mere proclamation is of little assistance unless growers accept the responsibility of seeking out and destroying the barberry or in replacing it with ornamental relatives which are not susceptible to the disease. This is a matter of concern to all wheatgrowers, for the wheat crops of this State are subject to the very real menace of development of entirely new strains of the stem rust fungus.
+
+A full description of barberry in its relation to stem rust is included in the leaflet "Rust Diseases of Cereals," a copy of which will be supplied free on application to the Department.
+
+### VIRUS DISEASES
+
+The facts in relation to the bunchy top disease of bananas are still quite fresh in our minds. In 1922 about 5,000 acres were planted to bananas, but owing to the development of bunchy top the area was reduced to 1,500 in 1925, and now, after elucidation of the disease and the development of suitable control measures, there are 22,000 acres under cultivation. At one time bunchy top had practically annihilated the banana industry—650,000 bunches were produced in New South Wales in 1922, and this figure fell to 91,000 in 1925. The disease is caused by an infective agency which is present in the sap of diseased plants and which is termed a virus.
+
+There are many hundreds of different virus diseases, and they represent a very distinct menace to crop production throughout the world. In addition to bunchy top, some locally familiar examples are woodiness in
+
+25------------------------------------------------
+
+211
+
+passion-fruit, mosaic in beans, leaf roll in potatoes, and spotted wilt in tomatoes. There are times when it seems to me that we are perilously placed on the edge of a volcano, for this is a group of diseases which is constantly expanding, and it is possible that we may yet encounter even more serious difficulties with them than has been the case in the past.
+
+### **CONTROL SOMETIMES EXTREMELY DIFFICULT**
+
+Fortunately for banana growers, bunchy top is not carried over in unrelated plants; under our conditions it appears to affect the banana only, but a disease like spotted wilt, and probably, also, woodiness in passion, affects an exceedingly wide range of plants which botanically are not related to one another. Some virus diseases are carried in plants which show no sign of disease, yet when insects feed on them and transfer the sap to other plants the virus becomes evident or new virus combinations are developed which are more serious than either virus disease acting alone.
+
+In spite of the good work done by potato-growers in eliminating leaf roll and other virus troubles from their crops, there are many growers, particularly in our northern sections, who do not realise what they are losing each year because of the presence of these diseases.
+
+Many garden plants, including dahlias, poppies and nasturtiums, are severely affected with virus, and these transfer so readily to cultivated food crops that it cannot be too strongly stressed that every effort should be made to clean up all sources of virus infection, not only because of the direct effect of these diseases on yield, but because of their potentialities in the development of even more serious virus diseases than we have experienced in the past.
+
+### **QUARANTINE PROBLEMS**
+
+Practically all of the diseases which affect our crops to-day are those which occur in other countries, and which now have found a suitable foothold in Australia. In the early days of settlement adequate safeguards were not available to prevent the introduction of new diseases. In 1924 I drew attention to what were considered serious weaknesses in this respect, and suggested the formation of a group of plant specialists who would advise the Federal authorities in respect of the measures necessary to protect our crops by the formulation of measures based on the biological facts of each situation, while at the same time avoiding the danger of placing unwarranted or undue restraints on trade. A Federal director of plant quarantine was appointed in 1927, but an advisory group was called to service only this year in respect of the fireblight and citrus situations. I had discussed the menace of fireblight in the report published in 1924, and recently again at the conference of the Fruitgrowers' Federation when views expressed ten years ago were reaffirmed.
+
+### **RISK OF DISEASE INTRODUCTION**
+
+In the meantime, however, many new and serious diseases have been introduced into this country, and we have incurred extraordinary risks in other directions.
+
+26------------------------------------------------
+
+212
+
+Some of us may not remember that large quantities of maize have been introduced from Java and South Africa, involving the menace of establishment of the serious mildew diseases of the Orient and of possibly the worst maize disease known—American maize smut. One report on maize from Java indicated that 200 tons were unloaded at Sydney on 6th April, 1927, at 7s. 10d. a bushel, 1d. more than the rate prevailing for North Coast maize.
+
+Our rice crops are protected only by a Customs duty. There are some sixty odd diseases affecting this crop elsewhere, and some are indeed of a serious character. Our Departmental introductions are closely scrutinised, and we have intercepted and destroyed introductions affected with new diseases. The vegetable seed, and particularly the tomato seed position is still serious. Bacterial blight of beans was unknown here prior to 1925, and several of the worst bacterial and fungous diseases of tomatoes only have been recorded during the past three or four years. Just what these diseases have meant is best known to the growers themselves, and the menace is one which has not yet been removed.
+
+### THE GROWER'S PART
+
+In a brief survey it is not practicable to cover the subject completely, but, without being an alarmist, I hope to have indicated that there is greater need than ever for farmers, fruitgrowers, and others interested in crop production to adopt measures which will reduce the incidence of disease in their crops, and, furthermore, that they will do what they can to assist this Department in its representations to ensure that more adequate protection is provided against the menace of introduction of diseases from abroad.
+
+27------------------------------------------------
+
+213
+
+## THE NEED FOR STUDIES OF SOIL COLOR\*
+
+**T**HE color of the soil is a characteristic that is observed and noted by nearly all writers, whether laymen or scientists, in the description of any country or region. In many countries the common terms used in soil nomenclature are based on color, as evidenced by the Russian designations of Chernozem, Krasnozem, Serozem, etc., and the German Braunerde, Schwartzerde and the like. Most of these names have in recent years been more or less restricted in their scientific meaning (*i.e.*, all black soils are not designated as Chernozems), yet the persistence of the color terms in the scientific as well as the common terminology of soils indicates the marked influence of this characteristic.
+
+In soil descriptions the color is a very important aid in the recognition of generic and genetic types of soil and often serves as one of the most convenient brief designations of the difference between the several layers of a soil profile or between the several soils of a region. Color is only one of many characteristics that serve to identify and establish a particular soil, but being a visible characteristic, its indicative value is unusually high.
+
+Soil colors are expressed in the colloquial terms of common speech, without definitely fixed or established standards. Soils are termed gray, black, red, yellow or brown, as basic designations, modifying adjectives or combinations to indicate variations in shade or hue. Light-brown, grayish-yellow, dark-red, reddish-brown, light-yellowish-red and the like are terms in common use in soil descriptions. Standardization of these terms has not yet been established, and in fact only a few attempts at standardization have been made. As a result we find much variation in the application of these color designations. Not infrequently, we find that a soil designated light-brown by one observer would be called grayish-brown or brownish-gray by another. It is also the common experience of men working in the soil survey that their color standards tend to shift, and if they work for a considerable period of time in a region of dark soils, they begin to subdivide these soils on the basis of degree of darkness and to designate those of lighter shade by terms that are generally much more expressive of light color than the actual or broadly comparable color of the soil would warrant. A study of soil literature and a review of experience in soil survey work makes obvious a very decided need for standardization of soil colors and of the nomenclature thereof.
+
+Several investigators in recent years have suggested methods of establishing standards and nomenclature. That none of these have proved particularly adapted to the problem is evident by the lack of adoption of
+
+---
+
+\* By Chas. F. Shaw, University of California, Berkeley, California, in the *Transactions of the First Commission of the International Society of Soil Science*, July, 1934.
+
+28------------------------------------------------
+
+214
+
+any of the schemes or methods that have been presented. This has probably been due largely to the difficulty in definitely measuring the soil color and establishing standards for the different colors that have been encountered.
+
+The field of soil color, and the diagnostic value of color as an indication of productive capacity has long been discussed by those working in agriculture and forestry. More recently color has been discussed by pedologists as an indication of the age of a soil, or of the influences of its heredity and environment. Nearly every text-book on soils has a chapter on soil color in which the old, orthodox statements regarding the causes and implications of soil color are repeated.
+
+In most texts the soil color field is indicated by a triangular diagram in which white, black and red are placed at the angles and brown is placed in the center, with various shades of gray between the black and the white, of brown and chestnut between the black and the red, and shades and hues of yellow between the red and the white. Mixtures of red and white do not produce the primary color yellow, but Robinson and McCaughey state that "by actual experiment a soil made by an intimate mixture of a red soil and a white or light-gray soil is yellowish in color." In their paper they discuss at some length the rôle of organic and ferric oxides in soil color, and the possible relations between intensity or depth of color and the amounts of these ingredients. Their paper is a fair sample of the treatment of soil color by most of the earlier writers.
+
+Since the development of interest in soil morphology and soil taxonomy, the need for more definitely naming the soil color has been recognized and many attempts have been made to establish standards for soil colors, especially standard replicas that could be carried in the field. In the early years of the soil survey (1905-1910) in the United States much work was done along this line. Colored cards and colored cloths were tried but in every case the light value and the reflections from the surfaces gave color effects markedly different from those of the soils. The efforts were finally abandoned and no report of this work was ever published.
+
+Arkhangelskaya has discussed the possibility of designating the soil color by matching the soil with Ostwald standard color charts, while Hutton and others have used the color standards of Ridgeway. In each of these studies, the difficulties of matching the smooth uniform surface of the standard color cards with the uneven, granular soil surface having shadows and reflections, make a satisfactory matching almost impossible. Failure attended every attempt at so smoothing the soil as to give a surface with light values comparable to that of the colored cards. It is evident that the programs of Arkhangelskaya and those working along similar lines are good in theory but in practice they do not give satisfactory results.
+
+The use of powdered or granular material as color standards for comparison with soils was attempted by Tiuremnov. He used barium chromate for yellow, iron oxide for red, with powdered chalk and lamp black. These were mixed in varying proportions to give colors more
+
+29------------------------------------------------
+
+215
+
+or less comparable to Ostwald's color cards. Tiuremnov's death occurred before the details of the method were fully worked out and Negovelov and Shaniavsky have carried on the work. They have prepared over 500 color standards and in laboratory application feel the method to be reasonably satisfactory. Attempts to prepare standards that could be carried for use in the field have thus far proven failures.
+
+In this work they find that soil colors readily recognized in the field or laboratory fall between the standards of Ostwald, making necessary a further subdivision of the Ostwald's color scale. This has also been found by workers in the United States who have used the Ridgeway color standards. Bushnell has pointed out the relatively small region of the color world that is occupied by soil colors, giving diagrams showing the huechroma, the chroma-value and the hue-value regions. The color of dry soils appears to embrace 6 per cent. of the color volume, 16 per cent. of the hue range, 80 per cent. of the value range and 60 per cent. of the chroma range. With a limited range in soil colors, the terms indicating minor variations in shade and hue need to be carefully standardized to prevent confusion and misunderstanding of the color designations.
+
+The investigators appear to agree that the soil color can be matched by mixtures of black, white, yellow and red. Following this line of investigation Hutton and his associates on the Soil Color Standards Committee of the American Soil Survey Association applied the principle of rotating color discs to the factoring of soil colors. They found that by the use of four discs: white (neutral 9), black (neutral I), red (red 4/9) and yellow (yellow 8/8) they could reproduce the color of any of the soils encountered in their investigation, selected from the very extensive collection of soil samples of the U. S. Bureau of Chemistry and Soils in Washington D.C. In practice, the soils to be measured were held in shallow dishes either beside or over the rotating discs, and in matching the colors the effect of shadow and reflected light from the uneven soil surface created much difficulty. Essentially the problem was the same as those encountered when matching the soils with Ostwald's or Ridgeway's standards cards.
+
+Shaw has presented a method of overcoming this difficulty by painting the soil on white blotting paper, cutting out small discs of this soil-coated paper and mounting these in the middle of the color disc wheel, rotating both soil and colors. By this means, the light effect of the uneven soil surface is blended to a smooth "color" which can be readily and quickly matched by the discs. The color of the dry "mud-painted" surfaces is quite similar to that of a dried clod or a dried soil crust, and while it does not express the color of the soil as reflected from a granulated or cultivated field surface, or that of a wet soil, it is a condition that can be reproduced and can be standardized for any given soil. The color measurements can be stated by giving the percentage of each color disc exposed as B46, W20, R24, Y10. Hutton has termed this "factoring" the soil color. The surface of the rapidly rotating discs gives a color value that can be matched with Ostwald's or Ridgeway's standards with reasonable accuracy, thus
+
+30------------------------------------------------
+
+216
+
+making possible the designation of the soil color in terms of these established standards. The difficulty of matching the lights and shadows of the soil with the smooth surface of the standard cards is overcome by blending these lights and shadows by rapid rotation.
+
+The use of the color disc method appears to afford the most satisfactory method as yet presented for the designation of soil colors in such a way that workers in different parts of the world can reproduce and compare them with the colors of their own soils. The four standards that have been adopted by the Soil Survey Association have been measured by the United States Bureau of Standards, the standardization data being given in detail in Hutton's paper before the First International Congress of Soil Science. With this information available, it should be possible to reproduce in the several countries standard paper discs of equal color value to those adopted and manufactured in the United States. Nickerson has given an excellent discussion of the application of the color disc method to the general problem of measuring colors, and has offered a mathematical formula for reducing the color designation to a single numerical value.
+
+Carter, Winters and Arkhangelskaya have reported on the measurement of soil colors by spectrophotometers. The method is slow and expensive but more precise than the others described. The expression of results by curves, light values and wave lengths is involved and cumbersome and the method does not give promise of extensive use. Wave lengths expressing tint are reported in every case as lying between 580 and 600.
+
+The possible development of means of measuring soil colors does not, however, solve all of the color problems of the pedologist. There is still the question of color names and designations. Do all pedologists agree on the color to be designated as brown, or as light-gray, or as dark-red? Does "chestnut colored" indicate a soil with a "rich reddish-brown" color comparable to the nut of some chestnut trees, or is it the "dull brown" of certain small chestnuts, or does it suggest a steel gray, the color of the bark on the chestnut tree? In other words, what is meant by "chestnut-coloured"? Obviously, the first problem is to secure a large number of color measurements, using in all the different countries standardized discs of the same quality, and reporting not only the color "factors" for each soil, but also the local designations or words that would be used to describe the color, such as "light brown". The committee or commission might then make comparison of the terms as applied and determine whether or not there were any reasonable degree of uniformity in our soil designation. If considerable agreement already exists, as evidenced by such measurements, then the development of an international soil nomenclature would be relatively simple. It seems highly desirable that a soil designated as "light-red", in the United States, be also designated "light-red" in Australia, Germany, Java or Brazil. Only by such international understanding of the meaning of the terms can consistence in soil descriptions be attained and soil science, insofar as this aspect is concerned, become truly scientific.
+
+31------------------------------------------------
+
+217
+
+An agreement on soil nomenclature would involve first, very extensive studies of the actual color of the soil as indicated by the color disc method, and then an international conference to discuss the results and endeavour to reach an agreement on the proper term to be used in expressing any given color combination. An example of the possible measurements and designations is given, taken from a study now under way at the University of California. These soils are formed by the residual weathering of granitic rocks and represent series of soils of different ages or stages of weathering, and other series of equivalent age but formed under different conditions of climate. Conrey and Oliver report the results of similar measurements, with correlations to the degree of weathering and conditions of drainage.
+
+### THE CAUSE OF SOIL COLORS
+
+The establishment of a world standard for soil nomenclature will be a distinct advance in soil science, but there is needed in addition a study of the soil to determine the reason for the particular hue, tint or shade and the significance of the color as a soil characteristic. This problem involves, first, the measurement of soil colors, and the establishment of nomenclature as indicated above, and second, exhaustive chemical and physical studies, followed by a correlation of these studies with color and other morphological features and perhaps with crop responses.
+
+Perhaps the most obvious color relation is that ascribed to organic matter. There appears to be a rather general feeling that organic matter is largely responsible for the darkness of soils and commonly it is assumed that the degree of blackness is related to the amount of organic matter. From studies already made, we know that these conclusions cannot be safely drawn, but we further know that organic matter does have a marked influence on the darkness of soil shades. Treatment of soils with hydrogen peroxide to oxidize the organic colloids and to thus bleach the soil by destroying the organic pigment has been suggested as an indirect means of approximating the content of organic colloids. Work that has been done along this line, reported by several workers, indicated that there is not a definite relation between quantity of organic matter and degree of blackness, or between degree of blackness and amount of bleaching that can be accomplished by hydrogen peroxide. Most of these investigations are not sufficiently extensive to cover all the aspects of the problem, and leave much to be desired. In the studies by Shaw the organic matter of only a few of the soils was reported, but these suggested that the soils that were calcareous lost very little blackness by hydrogen peroxide treatment, while those that were non-calcareous and distinctly acid lost 20 per cent. to 30 per cent of their blackness after treatment with hydrogen peroxide. It is obvious that there is much need in this field for study of the relation between soil organic matter and soil color. Brown and O'Neal in Iowa found a corresponding lack of correlation between the soil color and the content of organic matter.
+
+32------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_011:51 -->
+
+218
+
+The redness of soil is usually ascribed to the content of iron oxide, its degree of oxidation and its distribution through the soil mass. Here again the evidence is not conclusive and there is much need for study of red soils to determine the location of the red pigment as well as its chemical composition. This applies equally as well to yellow soils, which presumably are also related to hydrated forms of iron in so far as color characteristics are concerned.
+
+It has been observed in soil surveys that some soils on becoming moist turn darker in shade, while others whose color in the dry state is apparently the same, do not vary much in shade but become redder when moist. O'Neal has reported no definite relation between the soil color and the content of soil moisture. There is a reason for such shifts in the color scale and the relations between color and moisture that offers a good field for investigation.
+
+
+33------------------------------------------------
+
+219
+
+## AVOCADO PRODUCTION IN FLORIDA\*
+
+THE avocado, like corn and tobacco, was unknown to the European world until after Columbus made his voyages. Research into the literature by Popenoe shows that the earliest written record of the avocado is found in an account by Martin Fernandez de Encisco, in his "Suma de Geografia", published in 1519. In speaking of the fruits of Columbia, he mentions "one which looks like an orange and when ready for eating becomes yellow; the inside is like butter and of marvellous flavor." A few years later Gonzalo Fernandez de Oviedo, who also saw it in Columbia, wrote of it as a "pear", but was careful to state that it was a pear in shape only. The fruit had been used for a very long time by the Indians of Central America and adjacent portions of North and South America before the Spaniards came, and an account written in 1653 by Bernado Cobo, a priest who had travelled widely in tropical America, seems to indicate clearly that already at that time the three present horticultural races were well differentiated.
+
+The fruit was known to the Spanish conquistadores in Mexico as "aguacate", and Salazar, writing in 1554, calls it by that name. Under this name in its correct form, "ahuacate", it is known in Mexico today, and this in turn is a variant of the ancient Aztec name "ahuacatl". No records have been found to indicate how long it had been used by the pre-Colombian Indians. The accepted present English name, avocado, is of course derived from the Spanish variant of the old Aztec name. Sometimes it is written "avocado-pear" and, more rarely, "alligator-pear", while in the West Indies and southern Florida the fruit is commonly called "pear", since the true pear does not generally grow in the same region. The correct name is avocado, and the misnomer "pear" should be dropped as speedily as possible. Undoubtedly the avocado was introduced into Cuba and Jamaica by the Spaniards soon after the Conquest, and they must also have introduced it into Florida not long after. Records show the killing of "Alligator pears" at St. Augustine in the very cold winter of 1835, and these were undoubtedly West Indian seedlings. The first recorded importation was by Henry Perrine in 1833, and consisted of trees from Mexico for his grant of land, now Dade and Monroe counties. It is not known whether these were of the Mexican or Guatemalan race, and the fate of the plantation is also unknown. When the first permanent settlers came to the Miami region in the middle of the last century, they found only the West Indian seedlings growing wild in the hammocks. By 1900 there were several groves of West Indian seedlings established near Miami for commercial production. Late in the 1890's the first known successful budding of the avocado was accomplished by a man named
+
+---
+
+\* By H. S. Wolfe, L. R. Toy and A. L. Stahl. Extracted from Bulletin No. 272, October, 1934, of the University of Florida Agricultural Experiment Station.
+
+34------------------------------------------------
+
+220
+
+Smith living in Coconut Grove, and in 1900 George B. Cellon began commercial propagation in the first avocado nursery to be established. The first imported budwood was of a Hawaiian variety imported by A. A. Boggs in 1903, but until the United States Department of Agriculture began bringing in Guatemalan seeds in 1906 all commercial propagation in Florida was of selected West Indian seedlings of local origin. The fruiting of some of these Guatemalan seedlings created much interest in the possibility of extending greatly the season of fruiting in Florida, as these fruited during the spring months when there had formerly been no avocados. In 1914 Wilson Popenoe made selections of Guatemalan and Mexican varieties in California and brought budwood back to Florida, and in the same year O. F. Cook, also of the United States Department of Agriculture made the first selections of budwood in Guatemala. Popenoe made extended investigations of the avocado in Guatemala in 1916 and 1917, sending in budwood of many selected trees, and in 1921 he did the same in Ecuador. There have been no further importations.
+
+The Franciscan friars do not seem to have brought avocados with them from Mexico when they established themselves in California in the early part of the 18th century, although they brought the orange, grape, fig and olive. All of these, however, had been brought originally from Europe. The first introduction of the avocado into California is stated by Condit to have been some time prior to 1856, when an avocado from Nicaragua was growing near San Gabriel. In 1871 avocados were introduced as seedlings from Mexico to Santa Barbara, and in 1880 Guatemalan seeds were planted in Los Angeles. The first grove planting, all of Mexican seedlings, was made in 1885 at Santa Barbara. During the 1890's Juan Murietta and later C. P. Taft made many introductions of Guatemalan seeds from Mexico, and the fruiting of these seedlings created the first extended interest in avocados in California. In 1911 a commercial nursery, the West India Gardens, sent an explorer to make selections from old plantations in Mexico, and the first budwood was sent in by him. As already recorded, the United States Department of Agriculture undertook avocado explorations a few years later, and E. E. Knight imported his own selections also in 1914.
+
+Hawaii received avocado seeds from Central America before 1825, chiefly of the West Indian race but also some Guatemalans. Introductions into many other countries have come in recent years, and now avocados are cultivated in Algeria, Australia, the Canary Islands, southern France, Madagascar, Madeira, Mauritius, New Zealand, Palestine, the Philippine Islands, Polynesia, South Africa and southern Spain, as well as all over the West Indies, Central America, Mexico, and the northern half of South America.
+
+*Distribution Factors.*—Of the various environmental factors which limit the distribution of plants, temperature minimum is the most important for the avocado. It is distinctly tropical and sub-tropical in its requirements, and so occupies a narrowly limited range in this country. Mature trees of the West Indian race are killed by temperatures of 24°F. and injured considerably at 27°, while Guatemalan varieties are not killed above
+
+35------------------------------------------------
+
+221
+
+21° and some very hardy Mexican varieties endure less than 20°. Young trees have temperature minima a few degrees higher than mature trees, and those in their first year cannot endure temperatures within six or seven degrees of what mature trees can. The Mexican varieties are the hardest, and have a distribution like that of the orange. The West Indian varieties are tenderest, and have a temperature distribution similar to that of the lime, while the Guatemalan varieties are rather intermediate in cold endurance, and may be compared to the lemon. Where the temperature is known to fall below the minimum endured by the variety, it is unwise to plant avocados of that race, although they may grow and fruit well for several years before a cold winter freezes them back.
+
+Because of their sensitivity to cold, it is especially important that adequate air drainage be provided for avocados, particularly in the Ridge section of the State. Only the best situated land is suitable for avocado culture, preferably a hillside with a lake at the bottom. In southern Florida, where most of the avocados are grown, this factor of air drainage plays a minor rôle, both because of the very slight contours of the terrain and because of higher average temperatures.
+
+The avocado is very catholic in respect to soils, being apparently equally at home on the limerock of the Redlands, the sand hills of the Ridge, and the muck of the Lake region. It is very intolerant, however, of standing water, and cannot endure "wet feet" for more than a day or two at most. Consequently, care must be taken to set the trees high in the low portions of a grove, and to avoid planting in areas subject to standing water during the season of heavy rains. Where citrus trees endure a week or two of overflow, the avocado is killed within a couple of days.
+
+Like most other fruits, the avocado does not thrive where exposed to strong winds. It is both possible and desirable to plant a line or belt of trees as a windbreak, in places where there is no natural protection from the winds, and so this factor can hardly be considered as limiting avocado culture. The extreme brittleness of the wood of the avocado is a sound reason for the advisability of giving plantings windbreak protection, but reduction of evaporation loss during the dry seasons, and prevention of bruising of fruit by wind movements are even more important factors. The fruit is not hurt by rains during ripening, and the flowering period is sufficiently extended so that the occasional rains at that season do not usually affect adversely the setting of fruit.
+
+### USES OF THE AVOCADO
+
+The avocado has achieved fame mostly as a salad fruit, and as such is widely used all over the United States, but sight should not be lost of the fact that it is a nourishing food also. In its tropical home, it is one of the most important items of the daily diet of the natives during its season of ripening. When the production in this country passes the amount which can be consumed as a luxury fruit, it may be necessary to consider primarily the food value of the avocado. At present, however, that is secondary.
+
+36------------------------------------------------
+
+222
+
+As "the salad fruit from the tropics" and "the aristocrat of fruits", the avocado is prized in salads for its delicate, nut-like flavor and its smooth, buttery consistency. One of the most popular ways of serving it in Florida is "on the half-shell", with the addition of lime or lemon juice or of salt only. Because of its oil content, it need not be served with an oil dressing. The fruit is frequently made an ingredient in salads of the Waldorf type, or mixed with grapefruit or orange.
+
+The use in salads is by no means the only use made of avocados in Florida, although California has been more active than Florida in developing ways of using avocados. Mashed and seasoned, they are used as a sandwich filling, or are spread on salted crackers, and in the tropics they are often added to soups just before serving. Fully ripe fruit has been utilized successfully in the manufacture of avocado ice cream, and this offers some promise as an outlet for the disposal of fruit unsaleable by reason of appearance but of good quality.
+
+The dietetic properties of the avocado are unusual, only the olive being at all similar among fruits. Compared with the dessert fruits, the avocado runs higher in ash and protein and lower in sugars, besides being outstanding in fat content. There is great variation in this latter, the fat content of the fresh pulp ranging from 2 to 30 per cent. The high caloric value of the avocado, together with the very low carbohydrate content, renders it especially suited to diabetic cases.
+
+37------------------------------------------------
+
+223
+
+## ORGANIC MANURES\*
+
+### WITH SPECIAL REFERENCE TO COMPOSTS
+
+#### INTRODUCTION
+
+**O**F the many soil constituents the one that most affects the agriculturalist in the tropics is, perhaps, that mixed collection of organic matter, spoken of as humus. It is usual to refer to tropical soils, especially those of volcanic origin, as having a very high inherent fertility. In reality the contrary is the case. What one sees under tropical forest is not the utilization of immense supplies of plant nutrients but the rapid turnover of a mediocre supply. When such virgin soil is brought under cultivation, the accumulated supply of nutrients, present largely in the humus, is exploited. During the first few years bumper crops are obtained but, sooner or later, the humus content drops to a low level and so do the crop yields. The physical nature of the soil too changes; it becomes less easily worked, its water-absorbing capacity is decreased and its liability to erosion increased.
+
+True, a great deal of the nutrient requirements of crops can be met by means of mineral fertilizers but the physical character of the soil cannot be so improved. It is essential to increase the humus content of the soil by judicious organic manuring. Not only does humus improve the texture of the soil by cementing the ultimate soil particles together into complex crumbs, thus making it easier to work, improving its water-absorbing capacity and decreasing its liability to erosion, but experience has shown us that the utilization of mineral fertilisers is enhanced. In short the use of organic humus-producing manures prevents soil deterioration with the concomitant decrease in crop yield.
+
+The utilization of organic manures, in the soil, depends upon the activities of the soil population. Everyone has heard that, but for earthworms, many temperate soils would be sterile and many must have seen them dragging leaves into the soil. The activities of termites in Africa cannot be overlooked, they are well-nigh ubiquitous. But, besides these comparatively large animals, there is an immense micro-fauna and flora whose activities are of much more importance. It is they who are responsible for the decomposition of plant and animal residues and the conversion of complex bodies into simple compounds suitable for absorption by plants.
+
+The micro-population of the soil is extraordinarily rich. A pound of ordinary rich soil will contain from fifty thousand million to five hundred thousand million bacteria and about five hundred million other microbes.
+
+---
+
+\* By V. A. Beckley, M.C., M.A., A.I.C., Senior Agricultural Chemist. Extracted from Bulletin No. 9 of 1934 of the Colony and Protectorate of Kenya, Department of Agriculture.
+
+38------------------------------------------------
+
+224
+
+This enormous population requires food, which may consist of the complex compounds that are found in plant and animal residues, or of simple substances such as carbon dioxide and mineral salts. All, however, contain a high percentage of nitrogen; bacteria, for example, contain, on the average 10 per cent. Each group has its definite function and increases in numbers as supplies of suitable food become available. Perhaps the best way of obtaining a picture of their activities and how they affect organic manuring would be first to consider the simple courses of the nitrogen and carbon changes in the soil and then the changes that occur when organic matter is concerned.
+
+In both plant and animal remains practically all of the nitrogen is present in the form of the complex protein compounds. These are acted upon by certain microbes, part being used to build up their own body proteins and part converted into ammonia. The ammonia may be used by higher plants but most is used by two groups of bacteria with the production of nitrates, part again being retained in their bodies. In the form of nitrates the nitrogen may be used by the higher plants or by other bacteria or it may be leached down into the depths of the soil. In water-logged soils or soils with very bad aeration, nitrates often are reduced by certain groups of anaerobic bacteria to free nitrogen—denitrification. Counter-balancing the effects of these are the efforts of several groups of nitrogen-fixing bacteria, which have the power of converting the free gaseous nitrogen of the air into compounds directly or indirectly assimilable by the higher plants. Some of these nitrogen fixers live free in the soil, others live in symbiosis with a number of the higher plants, notably the legumes.
+
+The carbon cycle is much simpler. The compounds of this element serve as the sources of energy of the microbes. Some is locked up in the bodies of the microbes but the greater part is respired as carbon dioxide which mainly returns to the atmosphere to be absorbed again by the higher plants. A small part remains in the soil with some of the nitrogen in the resistant humus constituents.
+
+When plant or animal residues enter the soil the matter is not so simple. The normal residues are always complicated mixtures of carbohydrates, modified carbohydrates, such as the lignified or woody tissues, fats and waxes, proteins and other nitrogen-containing compounds.
+
+Another complicating factor is the varied solubilities of the innumerable compounds present. Microbes have no mouths and can only use materials in solution which can diffuse into their bodies. Many of the insoluble materials such as starch and some proteins, are readily dissolved by means of digestive ferments excreted by the microbes. Other compounds, *e.g.*, the woody fibres, are more resistant and are only slowly attacked by ferments. The soluble substances are first utilised, then the less and less soluble materials. The skeletonisation of a leaf lying on the ground under a tree gives a very fine picture of the successive attacks.
+
+The soil microbes are very largely built up of protein, thus very large quantities of nitrogen are tied up in their bodies. Carbonaceous material, speaking generally, is used mainly as a source of energy.
+
+39------------------------------------------------
+
+225
+
+It has been found that for every one part of nitrogen used by the soil flora some 25-50 parts of carbonaceous material is used. In other words, unless the material contains about 2-4 per cent. of its dry weight of nitrogen its decomposition will require some other source of nitrogen, the available nitrogen of the soil.
+
+Table I, adapted from Lyon, Bizzell and Wilson, shows the effect of adding to soil varying amounts of organic matter, supplying the same quantities of nitrogen, upon the nitrate content of the soil.
+
+TABLE I
+
+<table border="1">
+<thead>
+<tr>
+<th>Treatment</th>
+<th>Nitrogen Content</th>
+<th>Nitrate Nitrogen</th>
+</tr>
+<tr>
+<th></th>
+<th>Per cent.</th>
+<th>mgm.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Soil alone ...</td>
+<td>—</td>
+<td>950</td>
+</tr>
+<tr>
+<td>Soil + Oat Roots ...</td>
+<td>0.45</td>
+<td>207</td>
+</tr>
+<tr>
+<td>Soil + Maize Roots ...</td>
+<td>0.79</td>
+<td>511</td>
+</tr>
+<tr>
+<td>Soil + Clover Roots ...</td>
+<td>1.71</td>
+<td>924</td>
+</tr>
+<tr>
+<td>Soil + Dried Blood ...</td>
+<td>10.7</td>
+<td>1,751</td>
+</tr>
+</tbody>
+</table>
+
+Although in each case was the same amount of nitrogen added, only where a material rich in nitrogen was applied, has there been an increase in available nitrogen, in all other cases the amount of available nitrogen has been reduced. This reduction in available nitrogen persists until the ratio between the carbonaceous material and nitrogen has been reduced by decomposition and utilization by the microbes, as a source of energy, to about 30 : 1, at which limit any nitrogenous compound, such as ammonia, will be utilized by the nitrifying bacteria.
+
+During the decomposition of the carbonaceous material, carbohydrates, etc., a series of compounds, difficult to estimate, are produced, so, in investigation, carbon is used as the criterion and, instead of speaking of the ratio between carbonaceous material and nitrogen, the simple ratio between carbon (C) and nitrogen (N) is used, usually termed the C : N ratio.
+
+It must not be thought that, because nitrogen has been used up to produce microbial tissue, it is permanently locked up. The life of a microbe depends on the food supply. As long as this is ample they increase in numbers, but as soon as it becomes restricted, many of them die and their bodies, with the nitrogen, are used by others. Thus, although plant residues may contain only a little nitrogen, this nitrogen may be used over and over again.
+
+Certain portions of the residues, notably the lignins, constituting an important part of the woody tissues, are with difficulty attacked by microbes. These undecomposed parts, together with certain decomposition products, go to form humus, which itself is only slowly decomposed.
+
+40------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_011:52 -->
+
+226
+
+The bodies of microbes are not simply nitrogen and carbon compounds, they contain many other elements, important among which is phosphorus. This in our soils is liable to be deficient and, if conditions are favourable to rapid microbial development, there may be a temporary shortage of available phosphate in the soil. Here, too, phosphorus is not permanently locked up but is liberated on the death of the microbes and the decomposition of their bodies in a form readily available to plants. It is often observed in these laboratories, that a soil rich in humus, may on testing show but little phosphate but on destroying the organic matter large quantities are found. This phosphate has been held in organic combination and only becomes available to plants on decomposition of the compound.
+
+
+41------------------------------------------------
+
+227
+
+## CERTAIN FACTORS AFFECTING THE MARKETING OF COCONUTS\*
+
+WITH reference to the magnitude of trade, coconuts, copra, coconut oil, coir and coconut cake are important products. During the last four to five years the Indian consumption of nuts has increased rapidly. This is partly accounted for by the fall in the prices of nuts and the consequent attempt on the part of the producer to dispose of his produce in the most remunerative manner. When the price of copra is low the producer is able to realise more money by disposing of the nuts as whole nuts for edible purposes. Excluding Madras, Hyderabad, Mysore and Travancore the consumption of nuts for the remaining parts of India is about 150 million nuts per annum. India imports annually about 12 million nuts from foreign countries. The imports, however, have not increased appreciably in recent times. It is interesting to note that India has been the net importer of coconuts since 1900, in spite of the fact that at one time there were large exports of coconuts, copra and coconut oil from India. The imports of nuts therefore may be said to be due to the proximity of nut producing centres as well as due to the traditional channels of trade. In the exports of nuts the district of Malabar is most important. The total exports from the ports in Malabar averaged to about 100 million nuts per annum. The most important nut exporting centres are Calicut, Badagara, and Ponani, Calicut alone exporting about 50 million nuts.
+
+*Types of Nuts.*—There are two distinct types, the dry and fresh or green. The dry nuts that are commonly called "Kottai" are the nuts which are stored for generally 8 to 12 months. These are lighter for transport and can be kept for a longer period without deterioration. The demand for these stored nuts is mainly from the Punjab and the U.P. and the supply is mainly from Malabar and Mysore. The price for stored nuts is generally Rs. 5 per 1000 higher than the price for fresh nuts. The nuts are graded according to the size by the exporters and the grades are known by the number of nuts in a standard gunny bag. The grades vary from 110 to 400 nuts per bag. The prices are generally higher for the bigger nuts. The nuts are classed according to the nature of husking, the grades being from costliest to the cheapest; unhulled, slightly husked, partially husked, and fully husked.
+
+*Price of Nuts.*—The price of stored nuts is based on the prices of edible copra, and the prices of fresh nuts which are intended for up-country consumption are slightly higher than the prices of fresh nuts which are converted into the crushing quality of copra. Markets obtain their supplies from more than one centre of production and therefore the price
+
+---
+
+\* By J. S. Patel, M.Sc., Ph.D., Oilseeds Specialist, Coimbatore, in *The Madras Agricultural Journal*, Vol. XXIII, No. 2, February, 1935.
+
+42------------------------------------------------
+
+228
+
+at any one centre of production is affected by the changes in the prices at other centres of production. Bengal, Orissa, Godavary, Mysore and Malabar supply fresh nuts to Northern Indian markets. The prices in Bengal are affected by the prices in Orissa which depend upon the prices in Godavary district. The prices in Godavary district also affect the prices in Tanjore and in turn are affected by prices in Mysore. The prices in Mysore must be competitive with the prices in Malabar. Thus the prices all over India are governed by the price on the West Coast.
+
+*Prices and Freight.*—The coastal freights for nuts are not heavy as keen competition between the country crafts and among the steamship companies act as safeguards against uneconomic freights. Internal transport excepting in Bengal is however, by rail and the freights largely make up the cost of the nuts. The railway freights on nuts are the highest in South Indian, and the Nizam's State Railway. And these are higher by about 50 per cent. than in other railways. The example of the exports from Tanjore District is a typical case of the effect of railway freights on trade. There are specially reduced rates from a number of centres in Tanjore to Madras Beach. The reduction, however, is not the same for all the stations. It varies from 21 per cent. to 37 per cent. of the original scheduled railway freights. The effect of this is to unnecessarily favour certain exporting centres. The reduced rate, however, is only applicable to Madras Beach and the cost of carrying nuts to, say, Chingleput would be more than the freight for Madras. The effect of this anomalous position has been to divert all the trade with intermediate stations to Madras with consequent flooding of the Madras Market. The special rates are not in direct proportion to the distance; even though Thillaivilagam is nearer to Madras Beach by 25 miles than Kulikarai the freight per maund from the former station is Rs. 0-10-8 as against Rs. 0-8-2 for Kulikarai. The freight charges in spite of the reduction work out to about 55 to 72 per cent. of the present value of the nuts in Tanjore, even though the distance between the exporting centre and Madras Beach is not more than 250 miles. It must also be remembered that this is with reference to a district, the exports from which by sea are possible. In 1932 the total exports of nuts to Madras Beach from the important trade centres in Tanjore District amounted to 1.6 million while in 1933 the exports from the same centres amounted to 6.4 million nuts. Thus the effect of the reduction in the freight has been to increase the trade with Madras by 400 per cent. mainly through diversion from other centres of consumption.
+
+*Copra.*—There are mainly two types of copra; crushing and edible. Each of this type has a number of grades mainly depending on the moisture content for the crushing quality of copra and depending on the size for the edible grades of copra. The prices of edible grades are purely governed by the law of supply and demand. It is obvious that the prices of the edible copra cannot fall below the prices of crushing grade copra.
+
+The prices of copra depend upon the prices of oil and cake. A ton of copra when crushed ordinarily yields  $12\frac{1}{2}$  cwt. of oil and 7 cwt. of cake. The price of copra therefore should be the price for  $12\frac{1}{2}$  cwt. of
+
+43------------------------------------------------
+
+229
+
+oil 7 cwt. of cake minus the cost of crushing. In actual practice, however, this relationship is not sometimes maintained exactly. Under these circumstances the oil miller suspends the purchase for crushing or only purchases copra in order to meet his forward contract for the delivery of cake and oil. On an average the oil mills on the West Coast obtain Rs. 4 per candy of copra crushed. 82½ per cent. of the total consumption of copra in India is consumed by the oil millers on the West Coast. Total consumption of copra in India may be estimated at 200,000 tons per annum. Out of this quantity about 25,000 tons may be estimated as being consumed as whole copra. The remaining 175,000 tons of copra are crushed in the oil mills. The quantity that will be crushed on the West Coast must be about 165,000 tons. It is therefore clear that the amount of copra consumed as copra is comparatively very little. In the marketing of copra, therefore, the most important point to be considered is the ability of the oil millers to purchase and crush copra.
+
+To enable the oil miller to crush copra, there must be a market for his cake and oil, and the prices of copra, oil and cake should be so related that he is able to obtain the cost of crushing. There is no doubt that there is adequate market for the oil that is produced by these mills. There is also a fairly good market particularly in Bombay and Kathiawar for the disposal of the cake. But this market is limited and it must be remembered that every district in India has supply of local cake and the substitution of one cake by the other is extremely difficult if not impossible in India, in the absence of organised dairying. The fall in the prices of cereals and the policy of the Governments to promote the consumption of home grown stuff as cattle feed has led to a reduction in the consumption of cake on the continental markets. The European market therefore for the cake is restricted. But the present Indian exports to Europe of coconut cake is so small that this is not a factor which reacts detrimentally on the copra crushing industry. It might then be asked, what the difficulty is which the oil miller has to face, and through the oil miller the producer has to meet. There is considerable difficulty in covering the cost of crushing copra. And there are a number of factors which have led to the present position. The first oil mills were established in Cochin and Ernakulam—the places which were then, the most important centres of trade in copra. Subsequently mills have sprung up in the centres where copra is produced. These mills have been able to compete with the mills in Cochin and Ernakulam as they directly purchased copra from the middlemen, while the mills in Cochin have to obtain copra after paying freight charges for its conveyance to Cochin.
+
+The total capacity of the West Coast mills for crushing copra has been far in excess of the Indian requirement of oil and cake. In 1932 the power driven mills on the West Coast worked to less than 50 per cent. of their full capacity, while their crushing capacity is 270,000 tons per annum, they crushed about 130,000 tons of copra only. Of the mills on the West Coast, the mills in Cochin and Malabar worked to only 35 per cent. and 45 per cent. of their full capacities while the mills in Travancore
+
+44------------------------------------------------
+
+230
+
+worked 65 per cent. of their full capacity. That while the mills in Cochin and South Kanara are working to only about one-third their full capacity, the mills in the neighbouring State of Travancore are working at two-thirds of their capacity is a point that needs careful examination. The differential export duty on oil in Travancore, in fact subsidises the oil crushing industry in that State. Copra, coconut, oil, cake and nuts are subject to export duty when exported from this premier coconut growing State. The actual amount of duty, however, is more on copra and nuts than on its equivalent of oil and cake. In exporting a ton of copra a duty of about Rs. 7 more has to be paid than in exporting its equivalent of oil and cake. This practically amounts to a subsidy of Rs. 7 to the oil miller for every ton of copra crushed. This subsidy is ultimately paid by the producer. Thus the oil millers in Travancore are able to successfully compete with the oil millers on the West Coast. The effect of this competition may be beneficial to the consumer but is certainly harmful to the producer. It is not difficult to visualise the chaos that would be caused through the price war between the oil millers in Travancore on the one side and the oil millers elsewhere in India when the crop is plentiful. Apart from the local markets in South India for oil and cake the most important markets for oil are Calcutta, Bombay and Karachi, and for the cake Bombay and Karachi. Thus Calcutta wants only oil, while Bombay wants both oil and cake and Karachi requires oil and some cake. The coastal freights are such that it is cheaper to ship copra rather than oil and cake. This has resulted in the establishment of copra crushing industry in Bombay and Karachi as the millers obtain in addition to the cost of crushing the benefit of cheaper freights on copra. The millers in Bombay and Karachi stand to gain to the extent of about Rs. 4 per ton by purchasing copra from the West Coast instead of obtaining oil and cake from the West Coast. This has then set up another competition for the West Coast oil millers.
+
+The freights from Colombo to the important Indian ports are lower than the freights from the West Coast ports — particularly so in the case of oil. This is so much that the Bombay oil miller finds it costlier to import copra than to import oil. For every ton of oil that he obtains from the imported copra he stands to lose Rs. 1-12-0. In addition to the lower freights for oil the lower import duty on oil reacts detrimentally in the oil milling industry. Roughly the price of the cake covers the cost of crushing. The price of copra therefore should be purely based on its oil value *i.e.*, the price of copra should be 60 per cent. of the price of oil. Or in other words the price of oil should be 166 per cent. of the price of copra. The duty on oil therefore should be 166 per cent. of the duty on copra. But this has not been the case up to 1933, and up to that period the imports of oil into India were very large as compared to the imports of copra. Even at present when the low freights are taken into consideration it is cheaper to import oil from Ceylon than to import copra. The freight for a ton of oil from Ceylon to Bombay is only Rs. 7-8-0 while from Cochin to Bombay a shorter distance it is as much as Rs. 12 *i.e.*, a difference of Rs. 4-8-0. The effect of these freights has been to close down our markets particularly in Calcutta and Rangoon.
+
+45------------------------------------------------
+
+231
+
+We have seen that the price of copra depends upon the price of coconut oil and cake. It has also been mentioned (1) the establishment of oil mills in the centres of consumption namely Bombay and Karachi, (2) the preferential export duty on oil from Travancore and (3) the low freights from Ceylon as compared with the Coastal freights are the factors which adversely affect the coconut industry and therefore the producer.
+
+Ultimately the Bombay price for the coconut oil is the price in Ceylon plus the import duty, plus the freight and incidentals. The price on the West Coast should therefore be the Bombay price minus the freight and incidentals. It is evident that the price of the coconut oil on the West Coast will be affected by a change in any of these four factors viz., the price in Ceylon, the import duty, the freight from Ceylon to India and the freight from West Coast to other Indian ports.
+
+46------------------------------------------------
+
+232
+
+## TREES AS AN AGENCY IN PREVENTING SOIL EROSION\*
+
+**S**OIL erosion is such a tremendous evil in South Africa that every factor which could prevent, retard, or check its yeast-like spread should be studied and incorporated in our plans of campaign. None of these factors, however insignificant or seemingly so, should be discarded with a shrug of the shoulders.
+
+It is generally believed that plant growth is an all-important factor, which influences the physical structure and chemical composition of the soil to a large extent. The climatic factors acting on the soil are modified; there is produced vegetative matter which mixes with and improves the soil; while the root system further binds the soil and, together with the soil cover, prevents the loss of soil through the action of wind or floodwaters.
+
+### GENERAL PRINCIPLES
+
+The general principles as to how vegetative growth prevents soil erosion are the following:
+
+The branches and leaves of the tree, together with the litter accumulated, protect the soil from becoming overheated by the sun and from being dried out by wind currents, so that consequent baking and cracking, conditions which accelerate soil erosion, are obviated.
+
+The force of rainwater is also broken, so that puddling is less prevalent, and a gradual and more thorough soaking of the soil results. The greater the rate of absorption and the more thoroughly water is absorbed by the soil, the less chance is there of floodwaters during rain.
+
+A gradual and continuous seepage from the soil will also result, so that spruits and rivers are kept flowing all the year round or for longer periods instead of having floodwaters rushing down a dry, sunbaked river-bed to cause erosion damage all along its course.
+
+The dense network of roots and root-hairs binds the soil in place. Hence the greater the spread of the root system, the more is the soil protected against erosion along the surface. The deeper the root system of any tree penetrates, the greater will be the resistance against gully erosion. If, in consequence of a flood of any dimensions, the roots of a heavy-rooted tree are laid bare along the surface or in a douga, these roots will retard the velocity of subsequent water rushes to a certain extent, and more effectively when driftwood, plants, etc., have accumulated against them. The velocity of the stream is retarded by such obstructions, with the result that the heavier soil particles in suspension will
+
+---
+
+\* By J. J. Voorendyk, Division of Forest Management in *Farming in South Africa*, Vol. X.—No. 107, February, 1935.
+
+47------------------------------------------------
+
+233
+
+settle down. In this manner silt is accumulated which will eventually aid young seedlings, grass and shrubs to become established, so that, in time the donga will be reclaimed, if not exposed to subsequent severe floods.
+
+Roots, furthermore, act as channels along which the water drains downwards, and the deeper the root system and the wider the spread, the more opportunities will be available for the penetration of the water into the soil, and the deeper will it go.
+
+### DIFFERENTIATION BETWEEN REGIONS
+
+In thinking of the value of plants in preventing soil erosion, it is absolutely essential to differentiate between the various regions in South Africa, because the way in which soil erosion is prevented depends entirely on the nature of the local vegetation. A factor which may not seem to be of such great importance in one region may be the vital one in another.
+
+The high-forest regions along the south and south-east coasts of South Africa are constituted of many species growing densely together, with lianas and undershrubs in abundance. These trees are dominantly ever-green. The result of this compact growth and continuous fall of leaves, etc., is a thick mat of dead and decaying vegetative matter on the forest floor. The forest and forest floor act as a sponge, and free-flowing water is seldom seen, even after torrential rains. The thick soil cover is therefore in this case the all-important factor which regulates stream-flow and prevents soil erosion.
+
+In the savanna-forest region the trees grow far apart, and most of the species are deciduous. Grass occupies the spaces between the trees, while grass and tolerant perennial shrubs are found beneath the trees.
+
+The accumulation of dead vegetative matter is much less, because the fall of leaves occurs only once a year, and this usually happens during July to September, when the prevailing strong winds are apt to carry almost everything along with them, so that there is little chance of any leaves accumulating in one area. The leaves are furthermore enjoyed by all stock on the farm, being usually preferred to old grass. A rain will naturally help to embody such leaves in the top soil, but winter rains are rare in the savannah-forest regions. The final result is, therefore, that the soil is always scantily covered with dead vegetative matter, and this factor is accordingly of little value in absorbing rainwater and preventing soil erosion.
+
+Fortunately, however, the trees in these savannah-forest regions develop tremendous root systems, and the lack of soil cover is therefore compensated for to some extent by the mat of roots and root-hairs. From personal observation the writer is convinced that the soil in the scrub-forest areas is less affected by surface erosion than that in areas not covered by trees. Gully erosion may be as common, but it seldom develops to such enormous dimensions as in bare or grass veld.
+
+48------------------------------------------------
+
+234
+
+The conclusion we come to, therefore, is that, whereas the mat of accumulated vegetative matter is the important factor which protects the soil from erosion in the high-forest regions, the root system in the sub- and top soil is the dominating factor in the savannah-forest regions. In either case the beneficial influence will be destroyed if the trees are not protected.
+
+### OUTSTANDING QUALITIES OF TREES IN PREVENTING SOIL EROSION
+
+Every form of plant life will naturally help to prevent surface and gully erosion to some extent, but because trees possess qualities more favourable than other plants for this purpose, their value should never be overlooked in any campaign against soil erosion.
+
+Some of these outstanding qualities are:
+
+1. (1) Certain tree species are included amongst the hardest of plants.
+2. (2) Trees have a comparatively long life.
+3. (3) The growth of trees is fairly rapid, and they will therefore at an early age influence the vicinity.
+4. (4) The strong growth of trees facilitates their favourable competition with other plants.
+5. (5) Trees develop a comparatively large spreading root system.
+6. (6) Large quantities of litter are produced.
+7. (7) Because of the size of trees, local climatic factors are more effectively modified.
+8. (8) Most tree species are easily propagated.
+9. (9) The great many useful species offer a wide field of selection.
+10. (10) There are a great many other advantages, apart from the value of the trees in fighting soil erosion.
+
+49------------------------------------------------
+
+235
+
+## MAIZE\*
+
+### FACTORS AFFECTING THE YIELD AND QUALITY
+
+**T**HE statistics of maize production in New South Wales show an extraordinary decline in production in the last twenty-five years. In 1910-11 the total production amounted to 7,594,000 bushels, with an average of 35.6 bushels per acre; in 1924-5 production dropped to 4,208,000 bushels, and the average to 28.7 bushels, while in 1931-2 there was a further decline, 2,669,580 bushels averaging 25.2 bushels per acre.
+
+An increase in the acreage of maize would appear to be warranted in this State, but that is not likely unless growers can see more profit from the industry. It cannot be denied, however, that much of the low return is due to inefficient methods, resulting in too high costs of production, and increased profits cannot be expected until such items in production as cultural practices, seed selection, disease control, etc., are treated in a much more efficient manner.
+
+Production depends on many factors, such as the nature of the season, the position of allied industries, particularly dairying, the probable market requirements, and the cost of production, while the market price is ruled by the demand which is determined chiefly by the available supply, the nature of the pastoral season (the consumption rising very considerably in drought years), the price of wheat, which if low is used instead of maize by poultry farmers and inter-state imports.
+
+It is extraordinary also how often the disposal of the grain on the open market is regarded as the only source of income from maize, its utilisation on the farm being not sufficiently realised. In U.S.A., the greatest maize-producing country in the world, over 85 per cent. of the crop is fed to livestock in some form or another, and growers constantly keep in mind the fact that livestock will probably be the ultimate market for the crop. The American maize-grower, therefore is chiefly concerned in producing the highest number of pounds of livestock per acre at the least cost of human labour, and in the development of the maize industry in this State, this will be a problem of first importance.
+
+### FEED MORE MAIZE TO STOCK
+
+While conditions in the U.S.A. with its millions of population, may not be wholly applicable here, the fact remains that maize should be utilised much more extensively as feed for pigs and dairy cows, particularly the latter, to maintain the milk flow in winter months. A south coast dairyman
+
+---
+
+\* By W. D. Kerle, H.D.A., Special Agricultural Instructor, in *The Agricultural Gazette of New South Wales*, Vol. XLVI, Part 3, March, 1935.
+
+50------------------------------------------------
+
+236
+
+recently recorded an increase of  $22\frac{1}{2}$  per cent. in the quantity of milk produced by adding 2 lb. crushed maize per day to a ration of lucerne and silage, giving a market value to the maize of approximately 6s. per bushel. Although maize in total food production per acre, and as a fattening agent has no superior, the grain is somewhat low in protein, and deficient in vitamin A, and it is necessary at all times to supplement rations with feeds which will make up for these deficiencies. This is readily available on the farm in some form of green fodder, leguminous for preference. Fortunately the value of green maize as fodder is well known, and its conversion into ensilage is becoming every year more popular on coastal dairy farms.
+
+For pig fattening maize is invaluable, and with pork selling at a reasonable figure the return per bushel is invariably better than the open market price for grain; for example, it has been estimated that with pork at  $4\frac{1}{2}$ d. per lb., maize grain fed with other suitable feeds has a value of 4s. 2d. per bushel on the basis of approximately 9 bushels of grain producing 100 lb. of pork.
+
+### BETTER YIELDS WILL LOWER COSTS
+
+An increase in production will occur, therefore, when the true value of maize as a livestock food is recognised on the farm. At the present market price for grain it should pay better to feed dairy stock or pigs than to sell on the open market.
+
+The State average yield of approximately  $26\frac{1}{2}$  bushels per acre is very low, and the aim of individual growers should be to increase their acre yield, thus lowering the cost of production. It is considered that strict attention must be given to certain factors which affect production, and maize growing treated more as a business proposition, every item of which should be thoroughly investigated with the idea of cutting costs and increasing efficiency. While there are many factors which affect the yield and quality of maize on the individual farm, most important are cultural operations, seed selection and disease control.
+
+### IMPORTANCE OF SOIL MANAGEMENT
+
+Maize in this State is chiefly produced on alluvial loam soils, and continuous cropping has been, and still is, largely practised. While the pioneers of this country were not concerned with the questions of soil fertility or allied problems, present-day growers have found that the virgin fertility which was considered inexhaustible in the early days has gone, and productiveness now depends on soil management and cultivation.
+
+The organic matter content of the soil, on which maximum maize yields depend so much, has become seriously depleted as very little attempt has been made to replace that lost by oxidation, which is accelerated by aeration and cultivation. The maintenance of fertility and improvement of the water-holding capacity of the soil (chiefly influenced by organic matter content) by crop rotation, green manuring, etc., are most necessary to obtain profitable returns.
+
+51------------------------------------------------
+
+237
+
+## PLOUGH EARLY
+
+The benefit of deep ploughing for maize is fully recognised by maize growers, but the increased yield which inevitably follows *early* winter soil preparation is not sufficiently appreciated. The practice of allowing the stalks from the previous crop to remain on the land over the winter months, and to prepare the land for the next crop by a quick ploughing and working in spring only, are two of the chief reasons for unprofitable returns from maize growing. Ample evidence has been secured in carefully conducted experiments and has been demonstrated frequently by expert maize growers that a substantial increase in yield repeatedly follows a long fallow, the increase being proportionate to the earliness of the initial working.
+
+This early preparation gives a longer period for storing moisture in the soil, which may be of considerable importance in sowing in the spring, or if dry weather occurs in the early stages of growth. It also allows a longer time for material which may be ploughed under to decay, and is particularly necessary where old lucerne stands are ploughed up to permit of ample reserves of moisture to be stored. The ameliorating effect of winter temperatures and frost on soil texture, etc., is well known, and the destruction of earworms, cutworms, etc., in the pupal stage by winter ploughing and working is an important measure in the control of these pests of maize.
+
+## THE WAY TO BETTER YIELDS
+
+Early ploughing and thorough cultivation should be considered of first importance in maize growing, and a more general adoption of these principles must result in substantial increase in yield per acre. The introduction of improved and economical implements of tillage has made it possible the more carefully and intelligently to handle the soil from the time the land is first ploughed until the last cultivation, permitting deep and thorough preparation of the seed bed, and shallow and frequent cultivation of the growing crop.
+
+One of the most noticeable conditions in the maize crops of this State is the extraordinary variation in the stand. It is extremely rare to see a perfect stand and it is estimated that the State average is certainly not more than 70 per cent. of a perfect stand. The loss in yield due to this irregularity is, therefore, very considerable, and the average yield for the State could be very substantially increased with no more expense in production if greater efforts to ensure uniform stands were made. These efforts might be directed along the lines of (1) early and thorough soil preparation to ensure better germination; (2) the use of sound seed of high vitality and uniform size; and (3) attention to the dropper, particularly the plates, testing for different sizes of grain.
+
+## SEED SELECTION
+
+Maize varieties suitable for all districts and for all purposes are obtainable, and improvement work in the main varieties is carried out on the Department's experiment farms.
+
+52------------------------------------------------
+
+238
+
+It is most important that growers sow the varieties which, by experiment on their own farms, they have found to be the most productive. Varieties must be limited in number and sown so as to prevent cross-pollination. Unfortunately the habit still persists among a section of our maize growers of paying very little attention to the variety or the source of seed. This is invariably disastrous to yield and cannot be too strongly condemned.
+
+Having determined the variety, the object should be to raise the seed requirements of the farm, and, by seed selection along approved lines, gradually to improve that variety and increase its productiveness. For this purpose an isolated area is necessary in which selected ears may be sown, and from which selected ears may be taken later for sowing the farm area. Whether the grower intends raising his own seed in this way or prefers to save seed for the following year from his main crop, the principles of seed selection are the same.
+
+### SELECTION IN THE FIELD BEST
+
+Selection is done either in the field or in the barn but there is no doubt that the former is by far the more satisfactory, as it enables one to see the environment under which the ears are grown. Whichever method is adopted, however, there are certain general principles of seed selection which apply to all varieties and conditions. These may be enumerated as follows :
+
+*Variety Character.*—Every variety has certain varietal characteristics which distinguished it from other varieties. It is necessary to know the standard type and to have an ideal to work to.
+
+*Productiveness.*—This is of paramount importance and is indicated by ears which are heavy in proportion to their size, which are well filled on the butt and tip, which are firm, with the rows closely packed with narrow furrows between them and the grain of which is sound, weighty, plump, of good depth, and bright colour.
+
+*Vitality.*—Plant vigour depends very largely on absence of disease, and ears which show split, mouldy or dull grains or any external sign of disease however good in other aspects, must be discarded. Seedling diseases, in particular, may be avoided in this manner.
+
+### FURTHER POINTS IN FIELD SELECTION
+
+In field selection, points which should be taken into consideration in conjunction with the above are :
+
+(1) *Environment of the plant.*—Ears should only be selected from plants growing under normal or adverse conditions of soil space.
+
+(2) *Condition of the shank.*—This should be of medium thickness and the ear should droop when reaching maturity so as to give greater protection against weather.
+
+(3) *Husk covering.*—Ears should be well protected by the husk to prevent weather damage and as a protection against weevils.
+
+53------------------------------------------------
+
+239
+
+(4) Lodged and prematurely matured stalks.—Stalks which have ripened prematurely or are lodged or broken down, no matter how good the ear, should be avoided, as fungous diseases are invariably associated with these conditions, and also with excessive development of brace roots.
+
+In barn selection it is not possible to observe these important points, and the superiority of the field method of selection is apparent.
+
+Too much emphasis cannot be laid on the importance of seed selection, and maize growers are urged to consider it more generally as a necessary item in the farm routine.
+
+### PREVALENCE OF DISEASE
+
+Probably the biggest factor affecting the yield and quality of maize in this State is the prevalence of disease. Recent field surveys made in company with Mr. E. T. Edwards, B. Sc., Agr., Assistant Biologist, show that the root, stalk, and cob rot diseases are wide-spread in the maize-growing areas of New South Wales. Root rot infections of up to 40 per cent. were encountered, while very few crops indeed appeared to be entirely free. The reduction in the aggregate grain yield for the State must therefore run into many thousands of bushels.
+
+Unfortunately very few farmers realise the importance of these diseases; lodged and broken stalks are usually considered due to wind damage, and the more conspicuous cob rots as inevitable and due to the season. The fact has been definitely established, however, that these diseases are due to definite parasitic organisms.
+
+### ROOT AND STALK ROT
+
+The most common cause of maize root and basal stalk rot is due to the organism *Gibberella saubinetii*, which is apparently not seed borne to any extent, but is carried over from season to season by the production of spores on infected stalks. These perithecia occur on the outside of the stalk, most commonly just above the lower nodes, and are easily discernible to the eye. It is evident therefore, that the destruction of the maize stalks at the first possible opportunity following harvest is a definite means of controlling this disease, and ample evidence has been secured to show that where this practice has been regularly and thoroughly done the infection is comparatively light. This operation cannot be too strongly recommended, particularly in coastal districts, where the disease is most wide-spread, particularly where maize has been grown continuously for some years.
+
+Evidence was secured, particularly on the New England Tablelands, where this disease, compared to coastal areas, is relatively light, that crop rotation also is an important measure of control. The position, therefore, regarding this disease is that the necessity for the adoption of control measures is of first importance if maize production is to be profitable. The complete burning of the stalks combined with a crop rotation must be adopted particularly as seed selection provides very little, if any, control of the disease.
+
+54------------------------------------------------
+
+240
+
+## COB AND GRAIN ROT
+
+The cob and grain rot present in this State, and particularly noticeable in the Northern Tablelands last season, may be due to several organisms, but the most wide-spread appears to be *Fusarium moniliforme*. This occurred chiefly as a secondary infection following the entry of the earthworm though the husk, and was responsible for a loss of 25 per cent. of the cob. This and other organisms associated with the cob rot condition frequently result in total loss of the cob.
+
+The presence of the diseases enumerated is considered to be one of the chief factors affecting grain quality. Plants affected with root and basal stalk rot mature prematurely and destruction of the root system deprives the plant of food, pinched grain being the natural outcome. Also stalks lodge when deprived of their natural anchorage, and the ears which come in contact with the ground or become covered with weeds develop moulds, causing substantial loss in yields and detracting from the quality, as mouldy grain frequently finds its way into the bags. Ears only partially affected with cob rot are also frequently put through the sheller, resulting in depreciation of grain quality.
+
+Maize growers, therefore, are urged to treat the matter of diseases and their control much more seriously than at present. Haphazard methods of crop production, particularly in these days of low prices, are economically unsound.
+
+55------------------------------------------------
+
+241
+
+## REVIEWS
+
+**"The Diseases and Curing of Cacao"** by H. R. Briton-Jones, D.Sc., Ph D., D.I.C., A.R.C.S., *Professor of Mycology and Bacteriology, Imperial College of Tropical Agriculture, Trinidad, B.W.I.* Macmillan & Co., Limited, London. Price 10/- shillings.
+
+**B**Y the compilation of this most useful work on the diseases and curing of cacao, Dr. Briton-Jones has rendered a very valuable service to all those who are interested in the cultivation of this crop. The book is in part the outcome of the Imperial Mycological Conference held in London in 1929 at which was discussed the need for a series of handbooks dealing with the diseases affecting the major tropical crops. It forms an extremely valuable and up-to-date contribution to our knowledge of the subject.
+
+The diseases of cacao are conveniently described and set out in the first three chapters under the headings of root diseases, stem diseases, and pod diseases. The very few fungi which confine their attack to the leaves of the cacao plant are of no economic importance; they do no damage worthy of mention and therefore no reference is made to them in this book.
+
+Chapter four deals with that serious malady "Witches' Broom" disease, which, so far as is known at present, is confined to the cacao growing regions of the west.
+
+Of considerable interest to Ceylon growers will be those sections of chapter three which deal with the *Phytophthora* and anthracnose diseases of cacao which are of common occurrence in Ceylon. The West Indian term "chupon" is not generally well known, it is applied to water-shoots, and is commonly used in differentiating these from the "fan" or branching type of shoots, known in the West Indies as "jorquettes". In connection with losses caused by canker, the author refers to the related subject of age in cacao trees which influences the incidence of this disease. Canker does not cause much damage to young trees, and even at a later stage, if the environment is suitable and provides sufficient space for vegetative growth and root development, branches killed are soon replaced as a result of the vigour of the young trees. Comments made by Shepherd, based upon his economic survey of cacao in Trinidad, are quoted. These indicate that the highest yields are obtained between the ages of 15 and 25 years; during the following twenty years yields decrease and costs of production rise rapidly, after this yields remain fairly constant but production costs continue to rise. Actual age, however, is not the only factor concerned, for the life-cycle or physiological age of a cacao tree depends upon many factors, among which canker may be an important one. The anthracnose disease of cacao, caused by *Collectrotrichum* spp., is also well known in Ceylon where observations have indicated that it appears to
+
+56------------------------------------------------
+
+242
+
+depend largely upon the size and stage of development of the pods at the time of attack, as to whether fungal infection penetrates to the beans or not. The book makes no mention of the part sucking-insects (*Helopeltis*, *Thrips*, etc.) are believed to play in exposing the internal tissues to infection. Judging from the index, no reference at all is made to the so-called cacao mosquito (*Helopeltis* sp.) and only the briefest reference is made to cacao thrips. The latter insect is referred to only in connection with dieback disease. This malady the author attributes mainly to *Phomopsis* sp. rather than to the more commonly accepted *Diplodia theobromae* and similar fungi regarded as synonymous with it. It is to be hoped that when a second edition or a revision of this book is made, consideration will be given to the possibility of including a brief chapter on cacao pests. Losses occasioned in Ceylon by squirrels will deserve mention.
+
+No mention is made of the non-parasitic "plethora" or "morte subita" (sudden death) disease recorded by Kaden (*Der Tropenpflanzer* 36, 8, pp. 321-340, 1933) from St. Thomas and Prince's Islands in the Gulf of Guinea. A disease closely resembling this was of fairly extensive occurrence in the main cacao-growing district of Ceylon in 1933 and was the subject of articles by Park in *The Tropical Agriculturist* for October 1933 and August 1934.
+
+A marked feature of the book under review, and one which very considerably enhances its value, is the inclusion of a special chapter and a separate bibliography of forty titles on the fermentation, or as it is more completely and correctly termed, the "curing" of cacao. In this chapter the section on the curing of small quantities of cacao is deserving of special attention by those who harvest small crops. No reference is made to the subject of the "break" or the colour of well cured cacao.
+
+In connection with the latter factor, the undesirable practice of "claying" cacao and of colouring it by means of anatto (*Bixa orellana*) seed are perhaps deserving of mention.
+
+A useful, selected, general bibliography on cacao diseases is appended and a very complete index is provided which facilitates ample reference to all subjects referred to in the text. The second reference to Ceylon, however, is on page 9 and not page 8 as indicated. The value of the book is enhanced by good illustrations which portray all the important cacao diseases as recognisable in the field and to the naked eye. These should make the book of particular value to agricultural officers and planters, for whom, as the author states in his preface, it has been primarily prepared. The usual high standard of the publishers characterises the manual which is singularly free from printer's errors.—W.C.L-S.
+
+57------------------------------------------------
+
+243
+
+**"Some Agricultural Enterprises in Malaya"** by *M. J. Kennaway*. *The Straits Times Press Ltd., Singapore*, Rs. 4-00.
+
+**M**R. Kennaway is the planting correspondent of *The Straits Times* and contributes to that Journal weekly notes on 'Malayan Planting Topics.' The volume under discussion is a reproduction, in book form, of a selection from the articles which appeared during 1933 and 1934. It consists of thirteen essays, most of which are descriptions of visits to centres of agricultural enterprises in Malaya.
+
+The descriptions of rubber estates will be of considerable interest to rubber planters in Ceylon since each estate visited offers scope for the discussion of some important aspect of rubber cultivation. Two of the estates visited are examples of the 'Forestry' method of rubber planting, other estates visited have developed the practice of planting budded rubber extensively and the descriptions serve to show how far behind Malaya Ceylon is in this respect. The description of the Dunlop Plantations demonstrates how well Malaya is suited to large-scale enterprises. It is interesting to note, in this connexion, that the Dunlop Plantations are 101,000 acres in extent of which over 32,000 acres are of budded rubber. The largest estate, Ladang Geddes, has no less than 13,379 acres of budded rubber. (The figures quoted were published at the end of 1933). The description of the experimental estate, 2,000 acres in extent, of the Rubber Research Institute gives an insight into the comprehensive scheme of experimentation which has been initiated there and also serves to indicate the liberal provision for research given by the rubber planting industry in Malaya.
+
+The essays on the development of the Cameron Highlands, where it is proposed to develop tea cultivation and dairy farming are also of great interest. The author states that the first break of tea from the Cameron Highlands obtained an average of 1s. 4d. per lb. on the London market, the average price obtained in that particular scale for Ceylon Up-country tea being 1s. 3d.
+
+Other subjects discussed include the Government Experiment Station at Serdang and the oil palm industry of Malaya. The book concludes with two articles which are rather out of place, one on the Planters' Benevolent Fund and one on green manuring in which the author appears to have been unnecessarily harsh in his criticism of Ceylon planters. The article would have been more easily understood if the misnomer Mr. Stewart had not been introduced. The uses of creeping cover crops is said to be inadvisable.
+
+The book will be of considerable interest to planters in Ceylon, who may not agree with all the opinions expressed therein. It is nevertheless
+
+58------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_011:53 -->
+
+244
+
+refreshing to find the viewpoint of a planter expressed so well. As Dr. Tempany, Director of Agriculture, S.S. and F.M.S., says in his foreword to the book.
+
+“There is now in Malaya a large output of technical and semi-technical literature on agricultural subjects particularly in the publications of the Department of Agriculture and of the Rubber Research Institute. This naturally tends to express the viewpoint of the specialist and the trained scientific agricultural worker; on the other hand the planter’s point of view is not so often seen presented in ordered form in print.
+
+This point of view has however its own considerable importance.”
+
+The book is well bound and contains many interesting illustrations.—  
+M.P.
+
+
+59------------------------------------------------
+
+245
+
+## MEETINGS, CONFERENCES, ETC.
+
+---
+
+### RUBBER RESEARCH SCHEME (CEYLON)
+
+---
+
+Minutes of the twenty-fourth meeting of the Board of Management held at the Grand Oriental Hotel, Colombo, at 10 a.m. on Thursday, January 17, 1935.
+
+*Present.*—Dr. W. Youngman (in the chair), Messrs. C. H. Collins, C.C.S. (Deputy Financial Secretary), I. L. Cameron, L. B. de Mel, J.P., U.P.M., W. H. P. Dias, J.P., George E. de Silva, M.S.C., C. H. Z. Fernando, M.M.C., F. H. Griffith, L. P. Gapp, H. F. Parfitt, M.S.C., C. A. Pereira, B. M. Selwyn, E. W. Whitelaw, and Colonel T. Y. Wright.
+
+Mr. T. E. H. O'Brien, Director of Research, was also present by invitation.
+
+Apology for absence was received from Col. T. G. Jayewardene. V.D., M.S.C.
+
+### MINUTES OF CONTINUATION OF THE ADJOURNED 23RD MEETING OF THE BOARD
+
+Drafts minutes which had been circulated to members were confirmed and signed by the Chairman.
+
+#### BOARD
+
+The Chairman reported that Mr. E. W. Whitelaw had resumed membership on his return to Ceylon and thanked Mr. P. R. May for his services in acting for Mr. Whitelaw.
+
+#### OFFICIAL OPENING OF DARTONFIELD BUILDINGS
+
+The Chairman reported that His Excellency the Governor had agreed to open the buildings at 3 p.m. on February 25th. It was decided to leave details of the arrangements in the hands of the Chairman of the Board and of the Estate Committee.
+
+#### OIDIUM LEAF DISEASE
+
+The Chairman reported that he had not yet heard from the Ministry of Agriculture in regard to the Board's proposal for the appointment of a Government Committee. It was decided that a deputation consisting of the Chairman, Mr. H. F. Parfitt and Mr. G. E. de Silva should wait on the Executive Committee for Agriculture and Lands to explain the position and impress on them the urgent need of funds for the control of oidium. It was also mentioned that an early decision was hoped for in regard to the exemption of sulphur dust and dusting machines from import duty.
+
+60------------------------------------------------
+
+246
+
+## APPOINTMENT OF ASSISTANT BOTANIST
+
+The recommendations of the Sub-Committee in regard to salary and terms of appointment, were approved and the Chairman was authorized to advertise the vacancy locally and in England.
+
+## ACCOUNTS
+
+(a) The Chairman reported the renewal of four fixed deposits totalling Rs. 95,000. After a discussion on alternative forms of investment of surplus funds it was decided to continue to place such funds on fixed deposit.
+
+(b) Dartonfield and Nivitigalakele accounts for August, September and October were tabled.
+
+## STAFF
+
+(a) It was decided that the Director of Research should be permitted to continue to serve on the Budded Rubber Assessment Board during 1935.
+
+(b) The appointment of four junior officers was reported.
+
+## TECHNICAL REPORTS
+
+Monthly reports of the Director of Research were considered and adopted.
+
+## LONDON ADVISORY COMMITTEE
+
+Minutes of meetings of the London Advisory Committee for Rubber Research (Ceylon and Malaya) and of the Technical Sub-Committee held on October 26th, 1934 were considered. In regard to a suggestion that strains of Hevea resistant to oidium leaf disease, should be developed it was reported that careful observations by the Mycologist over a number of years do not suggest that individual trees are immune to oidium except so far as wintering occurs at a time when the disease is inactive. The minutes were adopted.
+
+## DARTONFIELD ESTATE
+
+(a) Supplementary votes totalling Rs. 13,386.15 were approved to meet capital expenditure in connection with completion of factory, replacement of ceiling boards by asbestos sheeting in new bungalow specifications, electric light and drainage for Superintendent's bungalow, furniture for bungalows, construction of dispensary, extension of cart road.
+
+(b) The Chairman reported that Government had agreed to lease 100 acres of land at Pinnagoda, adjacent to Nivitigalakele. The land had been occupied and approximately 30 acres was being cleared for planting in 1935.
+
+## PUBLICATIONS
+
+(a) Combined 3rd and 4th Quarterly Circulars for 1934 was tabled. A printer's error in a table on page 82 was reported and it was stated that an erratum slip was being prepared for circulation.
+
+(b) It was decided that a revised edition of the Scheme's handbook on budding, should be prepared.
+
+61------------------------------------------------
+
+247
+
+## DEPARTMENTAL NOTES
+
+### THE RUBBER RESEARCH SCHEME EXPERIMENTAL FACTORY AND LABORATORY, DARTONFIELD ESTATE, AGALAWATTE
+
+**H**IS Excellency the Governor opened the Experimental Factory and Laboratory at the Dartonfield Estate of the Rubber Research Scheme on the 25th February, 1935.
+
+The Board of Management of the Rubber Research Scheme has, since its formation in 1930, given careful consideration to the future orientation of research in relation to the special needs of the local industry and to the economic position of the industry in general. The policy adopted consists of maintaining a balance between 'production' research, with special reference to the improvement of yields by budgrafting and selection, and 'consumption' research, dealing with the improvement of the properties of raw rubber, finding new uses for rubber and investigating the possibilities of the local manufacture of vulcanized products. Hitherto work on 'consumption' research has been almost entirely carried out at the Imperial Institute, London, but it was felt that certain problems could best be solved by investigations made in the Colony. To this end the Board of Management of the Rubber Research Scheme decided to build an experimental factory and to provide laboratory accommodation for a Chemist, who was recruited to conduct investigations into the utilization of rubber. The factory and laboratory were formally opened on the 25th February, 1935.
+
+The factory with its equipment cost about Rs. 91,000 and is divided into two portions. One part contains the most modern equipment available for the preparation of raw rubber in the orthodox forms of crêpe and smoked sheet and for the preparation of preserved latex and crumb rubber, while space is available for installing a machine for concentrating latex by centrifugal means. The other part of the factory is intended for work on the manufacture of vulcanized materials and is equipped with suitable machines for the manufacture, on an experimental scale, of a considerable range of such products. All machinery is electrically operated so that records of power consumption can be obtained and also to facilitate the installation of additional machinery as required.
+
+The laboratory, with its equipment, cost about Rs. 30,000 and space has been left for extension of the building, if desired. The laboratory is equipped for general chemical work with particular reference to the physical and chemical examination of raw and vulcanised rubber.
+
+It will thus be seen that the factory and laboratory at Dartonfield Estate together form a complete unit for the extension of work on the
+
+62------------------------------------------------
+
+248
+
+utilization of rubber. The provision of these facilities may be taken as an indication of the importance the Board of Management of the Rubber Research Scheme attach to this aspect of research.
+
+His Excellency the Governor who was accompanied by Dr. W. Youngman, was met at the Dartonfield Factory by the Board of Management and the Scientific Staff of the Rubber Research Scheme. After declaring the factory open a meeting was held and in the course of his speech His Excellency said—
+
+“In order that we may get away from this unfortunate period of restriction, it is very necessary that the Rubber Industry should make attempts to find not only new uses for rubber, but to improve its output and secure efficiency and economy. There is no means of securing this without the assistance of the Scientist”.
+
+The large and representative gathering present at the opening ceremony indicated the wide interest that is taken in this advance in facilities for rubber research in Ceylon. It is to be hoped that this interest will be sustained and that results will prove to be satisfying.—M.P.
+
+63------------------------------------------------
+
+249
+
+**ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED 31 MARCH, 1935**
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to Date since Jan. 1st 1933</th>
+<th>Fresh Cases</th>
+<th>Recoveries</th>
+<th>Deaths</th>
+<th>Bal-ance III</th>
+<th>No. Shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Western</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>43</td>
+<td>...</td>
+<td>43</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>..</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>..</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>2</td>
+<td>...</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>3</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Cattle Quarantine Station</td>
+<td>Bovine Tuberculosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>..</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>..</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax (Sheep &amp; Goats)</td>
+<td>47</td>
+<td>19</td>
+<td>...</td>
+<td>47</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Central</td>
+<td>Rinderpest</td>
+<td rowspan="4">} FREE</td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+</tr>
+<tr>
+<td rowspan="4">Southern</td>
+<td>Rabies (Dogs)</td>
+<td rowspan="4">} FREE</td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+</tr>
+<tr>
+<td rowspan="4">Northern</td>
+<td>Rabies (Dogs)</td>
+<td rowspan="4">} FREE</td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+</tr>
+<tr>
+<td rowspan="4">Eastern</td>
+<td>Black Quarter</td>
+<td rowspan="4">} FREE</td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+</tr>
+<tr>
+<td rowspan="6">North-Western</td>
+<td>Anthrax</td>
+<td>40</td>
+<td>...</td>
+<td>40</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>64</td>
+<td>...</td>
+<td>60</td>
+<td>4</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>6</td>
+<td>3</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">North-Central</td>
+<td>Rinderpest</td>
+<td rowspan="3">} FREE</td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+</tr>
+<tr>
+<td rowspan="4">Uva</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>85</td>
+<td>40</td>
+<td>84</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Sabaragamuwa</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>5</td>
+<td>...</td>
+<td>2</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>2</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+G. V. S. O.  
+Peradeniya, 16th April, 1935.
+
+M. WIJAYANAYAKA,  
+for Government Veterinary Surgeon.
+
+64------------------------------------------------
+
+250
+
+## METEOROLOGICAL REPORT,
+
+### MARCH, 1935
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Station</th>
+<th colspan="4">Temperature</th>
+<th colspan="2">Humidity</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">Rainfall</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Inches</th>
+<th></th>
+<th>Inches</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo</td>
+<td>87.9</td>
+<td>+0.2</td>
+<td>73.8</td>
+<td>+0.1</td>
+<td>70</td>
+<td>90</td>
+<td>5.4</td>
+<td>3.76</td>
+<td>10</td>
+<td>- 1.11</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>90.2</td>
+<td>+0.7</td>
+<td>72.2</td>
+<td>-0.1</td>
+<td>66</td>
+<td>90</td>
+<td>2.9</td>
+<td>3.08</td>
+<td>5</td>
+<td>- 0.25</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>89.8</td>
+<td>-0.3</td>
+<td>75.6</td>
+<td>+0.7</td>
+<td>68</td>
+<td>88</td>
+<td>2.6</td>
+<td>2.78</td>
+<td>5</td>
+<td>+ 1.06</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>88.7</td>
+<td>+0.4</td>
+<td>77.4</td>
+<td>+2.6</td>
+<td>68</td>
+<td>84</td>
+<td>3.2</td>
+<td>0.24</td>
+<td>2</td>
+<td>- 1.59</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>85.0</td>
+<td>0</td>
+<td>76.9</td>
+<td>+0.4</td>
+<td>73</td>
+<td>84</td>
+<td>3.9</td>
+<td>0.03</td>
+<td>2</td>
+<td>- 2.33</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>85.3</td>
+<td>+0.2</td>
+<td>75.7</td>
+<td>+0.9</td>
+<td>75</td>
+<td>88</td>
+<td>5.7</td>
+<td>1.63</td>
+<td>6</td>
+<td>- 1.72</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>86.4</td>
+<td>-0.1</td>
+<td>74.7</td>
+<td>+1.0</td>
+<td>73</td>
+<td>88</td>
+<td>4.4</td>
+<td>2.77</td>
+<td>9</td>
+<td>- 1.06</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>86.3</td>
+<td>-0.3</td>
+<td>75.5</td>
+<td>+0.8</td>
+<td>76</td>
+<td>91</td>
+<td>4.6</td>
+<td>4.12</td>
+<td>8</td>
+<td>- 2.09</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>92.9</td>
+<td>+1.1</td>
+<td>72.6</td>
+<td>+0.2</td>
+<td>72</td>
+<td>95</td>
+<td>5.3</td>
+<td>7.48</td>
+<td>21</td>
+<td>- 3.47</td>
+</tr>
+<tr>
+<td>A'pura</td>
+<td>93.5</td>
+<td>+3.0</td>
+<td>69.7</td>
+<td>-1.9</td>
+<td>60</td>
+<td>95</td>
+<td>4.8</td>
+<td>8.89</td>
+<td>10</td>
+<td>+ 5.25</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>93.5</td>
+<td>+1.5</td>
+<td>70.9</td>
+<td>-0.9</td>
+<td>58</td>
+<td>93</td>
+<td>4.5</td>
+<td>7.38</td>
+<td>8</td>
+<td>+ 1.40</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>88.1</td>
+<td>+1.1</td>
+<td>68.8</td>
+<td>+0.2</td>
+<td>62</td>
+<td>87</td>
+<td>3.8</td>
+<td>5.13</td>
+<td>9</td>
+<td>- 0.70</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>82.1</td>
+<td>+0.2</td>
+<td>64.9</td>
+<td>+0.8</td>
+<td>70</td>
+<td>91</td>
+<td>5.0</td>
+<td>5.34</td>
+<td>14</td>
+<td>- 0.23</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>77.4</td>
+<td>+0.5</td>
+<td>58.6</td>
+<td>+0.9</td>
+<td>66</td>
+<td>91</td>
+<td>5.4</td>
+<td>6.58</td>
+<td>13</td>
+<td>+ 1.63</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>73.5</td>
+<td>+2.2</td>
+<td>52.6</td>
+<td>+1.4</td>
+<td>72</td>
+<td>88</td>
+<td>5.2</td>
+<td>4.37</td>
+<td>14</td>
+<td>- 2.33</td>
+</tr>
+<tr>
+<td>N'Eliya</td>
+<td>70.4</td>
+<td>-0.1</td>
+<td>47.4</td>
+<td>+1.3</td>
+<td>68</td>
+<td>87</td>
+<td>6.4</td>
+<td>4.61</td>
+<td>13</td>
+<td>+ 0.29</td>
+</tr>
+</tbody>
+</table>
+
+As a result of the type of rain prevalent during March, local afternoon or evening thunderstorms, the rainfall offsets were somewhat irregular. The coastal districts were generally in deficit, while the low-country inland districts were usually above normal, particularly to the west of the hills. Up-country, excess predominated on the western and south-eastern slopes, but elsewhere in the hills the rainfall was generally below normal. Two stations, Padupola and Kahagalla, reported monthly totals of just over 20 inches, and several others, nearly all in the low-country districts west of the hills, reported totals of over 15 inches.
+
+14 daily falls of at least 5 inches were reported, 10 of them on the 28th-29th. The highest was 6.85 inches, at Ruanwella, on the 28th-29th.
+
+During March barometric gradients were flat, or slight and irregular, while winds were usually light. In the first half of the month weather conditions were mainly dry. Such rain as fell was generally the result of occasional local afternoon or evening thunderstorms. From the 18th, however, these thunderstorms became fairly wide-spread over the Island, particularly in the south-west, and many heavy falls were reported. These conditions lasted till the end of the month.
+
+Mean monthly temperatures were on the whole a little above normal. Humidity showed no marked deviation from normal, while clouding was generally a little below normal. Barometric pressure was slightly below normal, while wind strength was generally above normal, and its direction was irregular.
+
+Hail was reported from Katugastota on the 19th and Holmwood estate, Agrapatana, on the 31st.
+
+H. JAMESON.  
+Supdt., Observatory.
+
+65------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]

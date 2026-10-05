@@ -1,0 +1,3117 @@
+# The Tropical Agriculturist
+
+December, 1933
+
+---
+
+## EDITORIAL
+
+---
+
+### THE WATER HYACINTH PEST
+
+**N**OT the least important function of a State Department of Agriculture is the application of measures to eradicate or control plant pests. Plant pests are inclined to be regarded by some as purely those which prey upon our cultivated crops but there is a much larger implication in the term and it includes not only destructive insects, fungi and other parasitic plants but also weeds which have in any way a controlling or retarding influence upon the quality or quantity of our crops. By far the most dangerous weed of this nature in Ceylon is the Water Hyacinth.
+
+This plant is of comparatively recent introduction into this Island, for it is not indigenous to our flora, and in the last quarter of a century it has so established itself and spread with such profusion as to be a most serious impediment to paddy cultivation in many parts of the Island. From its original home in Florida it has spread to many countries and become a serious economic problem for wherever it establishes itself it multiplies rapidly blocking up navigable waterways, interfering with drainage channels, taking possession of paddy lands and eventually throwing them out of cultivation. The keeping of the plant under control so as to prevent these serious results is a very difficult matter.
+
+1------------------------------------------------
+
+338
+
+Our Agricultural Department has for some years been engaged in a campaign against this weed which has firmly established itself in the Southern, Western and North-Western Provinces. Whilst the pest has to some measure been held in check in the two latter provinces, it has steadily gained ground in the southern part of the Island. Its attractive blue flower makes the plant an object of admiration to many people and by reason of this it is often spread by those unaware of its danger. An intensive educational campaign is required to educate the peasantry to regard this plant with its pretty flower as a national danger to our paddy industry and a thing to be exterminated wherever found as an obligation on all. Only by so regarding the pest is it possible to eradicate it from our country. At the present moment the situation is very far from satisfactory and the appearance of the plant in paddy swamps or channels is too often regarded with the utmost indifference by the owners until large areas are eventually infested and perhaps thrown out of cultivation.
+
+2------------------------------------------------
+
+339
+
+## THE WATER HYACINTH PROBLEM IN CEYLON
+
+F. P. JEPSON, M.A.,
+
+CONTROLLER OF PLANT PESTS,
+
+DEPARTMENT OF AGRICULTURE, CEYLON
+
+**W**ATER Hyacinth (*Eichhornia crassipes* Solms.), which is a native of the tropical and sub-tropical regions of South America, has now become a weed of importance in many parts of the world where climatic conditions favour its growth, notably the Southern United States of America, Australia, India, Siam, Java and other eastern countries. Its introduction into Ceylon is said to have taken place in 1905 when it was imported as an ornamental plant.
+
+The plant is objectionable for many reasons. In certain countries it constitutes a serious hindrance to the navigation of mechanically-propelled vessels in rivers as well as to that of smaller craft. It has been known to cause bridges to be washed away during floods following the banking-up of masses of the weed against the piers. By over-running low-lying and moist areas many valuable aquatic fodder grasses have been exterminated resulting in the disappearance of extensive grazing grounds in areas where these are already insufficient for the requirements of the inhabitants. It is also a serious weed of paddy fields.
+
+In Ceylon it completely covers the surfaces of tanks from which it passes to the irrigation and drainage channels of paddy fields as well as to the fields themselves where, if uncontrolled, it rapidly takes possession of the land. Its presence in supply and drainage channels so interferes with the flow of water that it is impossible to regulate its proper supply during the critical stages in the cultivation of paddy. Large areas of fertile paddy land in the Island have been converted into abandoned swamps owing to the blocking of the drainage channels by the weed which also, in other areas, causes the stagnation of water required for human and animal needs rendering such areas insanitary, malarious and generally unhealthy.
+
+3------------------------------------------------
+
+340
+
+The control of Water Hyacinth in the regions where it has become established and the limitation of its further extension to new localities are, therefore, matters of the utmost importance to the welfare of Ceylon. The present distribution of the weed is, more or less, accurately known and a record is in existence of every known infestation with particulars of its location and previous history.
+
+#### ALLIED PLANTS IN CEYLON
+
+The plant possesses many local names among them being "Jabara", "Japan Jabara", "Yabara", "Yapura", "Sabara", "Habara", "Habarala", "Diya Habarala", "Diya Beraliya" and "Diya Kehel". Of these the name in most common use is "Japan Jabara" or merely "Jabara". Unfortunately, owing to the superficial resemblance of the flowers of Water Hyacinth to those of certain indigenous plants which belong to the same natural order (*Pontenderiaceae*) the Water Hyacinth plant is not always recognized as such and, for this reason perhaps, its prompt eradication from new situations has not always followed its introduction as rapidly as was desirable. The two plants with which Water Hyacinth is most commonly confused are *Monochoria vaginalis* and *M. hastata* to both of which the local name "Diya Habarala" is applied. The former may be distinguished from Water Hyacinth (*Eichhornia crassipes*) by its smaller and darker blue flowers and the latter by the possession of arrow-head shaped leaves, while both lack the bladder-like expansions of the leafstalk bases which are so characteristic of *E. crassipes*. The flowers of Water Hyacinth are mauve in colour and may be further distinguished from those of the indigenous relatives, with which they are so often confused, by the presence on the upper portion of the flower of a blue area having a bright-yellow and pear-shaped central spot. The leaves of *E. crassipes* are ovoid and fleshy and the plant either floats on the surface of water, where the depth is sufficient, or takes shallow root in swampy areas. The species of *Monochoria* are firmly rooted in the soil and never occur as floating plants. There are other important morphological characters which separate these kindred plants but those already mentioned will serve to distinguish them.
+
+The rootstocks of *Monochoria hastata* are used by vederalas in Ayurvedic medicine, while *Eichhornia crassipes* has no medicinal value.
+
+4------------------------------------------------
+
+341
+
+Another plant with which Water Hyacinth has been confused is *Commelina benghalensis* (Nat. ord. *Commelinaceae*) which is known locally as "Diya-Beraliya" or "Diya Meneriya" but the flowers are smaller, darker blue and of a different shape and the leaves are evenly distributed along the stem while those of *E. crassipes* all arise from the base of the stem. Also, this plant grows in dry land and is a common weed throughout the Island.
+
+#### METHOD OF PROPAGATION
+
+Water Hyacinth is propagated both by seed and, vegetatively, by the production of stolons from the base of the plant, the latter method being the chief means by which the plant rapidly covers large areas of water surface. These runners fracture in time and the young suckers then embark upon an independent existence drifting with the aid of wind and currents to distant situations. The swellings at the bases of the leafstalks serve as floats and the leaves themselves perform the function of sails. During floods the plants rise with the water level and are thus carried considerable distances, being deposited in new situations, often in the form of a dense carpet, when the flood water subsides.
+
+The inflorescence lasts for a day only, when the flower stalk bends over. The seeds do not germinate until they have undergone a desiccating process which may be delayed for two or more years. Tanks which depend upon rain water only, and dry out in periods of drought, fulfil these requirements and the result is a crop of seedlings when the next rains occur. The delayed germination of the seed of this weed indicates the need for prolonged surveillance over all areas which have, at one time, been infested with plants which have reached the flowering stage.
+
+#### METHOD OF DISPERSAL
+
+The extremely rapid spread of the weed in all new countries to which it has been introduced has led to every possible mode of dispersal being examined. The possibility of the seed being carried by birds or by the air may be dismissed. The weed has certainly been widely-distributed, both in other countries as well as in Ceylon, by floods and by its passage as a floating plant down waterways but here, as elsewhere, there is no doubt that human agency has been mainly responsible for its carriage to remote centres. In Ceylon this has been done, chiefly, in ignorance of the dangerous properties of the weed and the need, even to-day, for disseminating, as widely as possible, knowledge
+
+5------------------------------------------------
+
+342
+
+regarding the noxious nature of the plant is very apparent. At the present time the true reason underlying Government's anxiety to eradicate this weed is not generally appreciated and a number of other erroneous beliefs are current among the people, the most prevalent and persistent of which, in all areas concerned, is that the flowers yield a mauve-coloured ink which is employed by counterfeitors in the preparation of Re. 1.00 currency notes. So long as such opinions are held it cannot be expected that the whole-hearted co-operation of the peasant population will be enlisted in a campaign which aims at the extermination of this harmful weed. If, however, by educational means and suitable propaganda the smaller landowners can be induced to understand that they may, in time, be robbed of their land by this weed their interest may be awakened and their co-operation enlisted on the side of Government in the campaign against this plant.
+
+#### HISTORY OF THE WEED IN CEYLON
+
+Following the original introduction of Water Hyacinth into the Island the plant underwent a rapid distribution to new centres chiefly, no doubt, for the sake of its beautiful flower. The first official recognition of the presence of this plant in Ceylon, appears to have been during 1907 by Dr. J. C. Willis, the Director of the Royal Botanic Gardens, Peradeniya. He lost no opportunity of urging all who possessed specimens of the plant to destroy them and, generally, met with success. He hoped that his activities had led to the destruction of all specimens of the plant in the Island, but learnt, in 1908, that it had spread to new situations and was actually being hawked in Colombo. He then published a note in which he emphasized the objectionable characters of the weed and the need for its immediate eradication predicting that, in the event of its escape to waterways, much trouble and loss would result. The next step, early in 1909, was the introduction of "The Water Hyacinth Ordinance" No. 4 of 1909 which made it an offence liable, on conviction, to a fine not exceeding Rs. 100.00:—
+
+1. 1. To import Water Hyacinth into the Island.
+2. 2. For any person to possess Water Hyacinth, or to allow the same to grow in, or on, any place belonging to him, or under his control or management.
+3. 3. For any person to fail to destroy by fire the Water Hyacinth plant on any place belonging to him, or under his control or management.
+
+6------------------------------------------------
+
+343
+
+Unfortunately, the provisions of this Ordinance do not appear to have been enforced either with vigour or with system with the result that the weed rapidly spread to areas far distant from Colombo.
+
+By 1922 the infestations in the Southern Province, particularly in the Tangalle area, were so extensive that a special effort was made by the Department of Agriculture to clear them on behalf of the owners. Towards the latter part of that year, with funds especially provided by Government for the purpose, twenty tanks with their attendant waterways were clean-weeded and also six miles of the Urubokka Oya. No effort was made by those on whose behalf this work was undertaken to maintain the weeded areas free from new seedling growth with the result that all the cleared areas became seriously re-infested in a short time.
+
+In 1926 records of the appearance of the weed in a large number of centres in the Western, North-Western, Central, Sabaragamuwa and Southern Provinces were received and the plant was then declared as a weed under "The Plant Protection Ordinance" No. 10 of 1924. By this time the position probably far exceeded the possibilities visualized by Dr. Willis in 1908 when he appealed for drastic action to limit any further extension of this unwelcome importation.
+
+#### EARLY ATTEMPTS AT CONTROL IN CEYLON
+
+Prior to October 1926 the control of Water Hyacinth was provided for under "The Water Hyacinth Ordinance" with which the Department of Agriculture was not immediately concerned but subsequent to this date the Department took a direct interest in the problem as officers of the Department were responsible for the administration of "The Plant Protection Ordinance". The duty of Water Hyacinth eradication became the immediate concern of the Plant Pest and Disease Inspection Division of the Department and an intensive campaign was embarked upon. The main feature of this campaign was that Government would undertake the initial clearing of the larger infestations, handing them back to the owners who would become responsible for their subsequent maintenance. Large sums have been spent annually for this purpose, particularly in the Southern Province but, unfortunately, not with the result which might have been expected. The failure of this policy was due, mainly, to the apathy of those for whom the work was
+
+7------------------------------------------------
+
+344
+
+undertaken, no endeavour being made on their part to consolidate this work by attending to seedling growth, the appearance of which was to be anticipated. It was hoped, no doubt, that Government would continue to make periodical clearings until the weed had disappeared, a hope which was justified by repeated clearings of certain infestations being undertaken by Government. The payment of wages, often far in excess of those prevailing in the district, provided a remunerative form of employment in certain areas and there has been reason for believing that fresh infestations were deliberately started in new situations in order to provide work for which good wages could be expected. The staff at the disposal of the Inspection Division, even at its maximum strength, was quite inadequate to insure an efficient supervision of the infested areas, which was only one of the duties required of the Division, with the result that little headway was made in the campaign and the weed continued to spread.
+
+#### A NEW POLICY OF CONTROL
+
+In 1930 the Inspector, North-Western Division, stationed at Kurunegala, conceived the idea of reverting to "The Water Hyacinth Ordinance" in preference to continuing the campaign under "The Plant Protection Ordinance". The essential principle underlying this proposed change of policy was to place the onus of responsibility for weed clearance upon the owners, or those directly responsible for the control of areas infested by the weed, the problem which had indicated the necessity of a change of policy being that of dealing with village tanks which constituted the majority of the infestations. The persons who are immediately responsible for the control or management of village tanks are the Vel Vidanes who, although unpaid officers, receive recompense for their duties in kind, usually a portion of the paddy crop which has depended for its production upon the water stored in the tank controlled by the Vel Vidane concerned.
+
+This policy was initiated as an experiment in the North-Western Province with the sanction and co-operation of the Government Agent and proved an unqualified success. It was then extended to the Colombo District of the Western Province with similar success. All weeding at Government expense ceased in these provinces and in a short period of time the people became reconciled to the change and accepted their responsibilities in the matter.
+
+8------------------------------------------------
+
+345
+
+During the past year the same policy has been extended to the Southern Province and, owing to the co-operation of the Government Agent, and Assistant Government Agents of Matara and Hambantota, much headway has been made. As was to be expected, this change of policy was not at first appreciated in the Southern Province especially by Vel Vidanes who had previously been the contractors for clearing operations in the areas for which they were themselves responsible. However, the progress which has been made can be regarded as highly satisfactory.
+
+#### LEGAL PROVISIONS FOR CONTROL
+
+Although the responsibility for the majority of the infestations has now been assigned to the proper quarter under the provisions of "The Water Hyacinth Ordinance" use is still made of "The Plant Protection Ordinance" also, and all inspecting officers are appointed under the latter Ordinance. By this Ordinance the prescribed control measures are as follows:
+
+"All Water Hyacinth plants must be uprooted and cleared away from any place where they are growing and must be piled on high ground in heaps and subsequently burnt with fire".
+
+The penalty for a breach of this regulation is, on conviction, imprisonment of either description to a term not exceeding three months or to a fine not exceeding Rs. 500.00 or to both.
+
+Provision also exists for the control of Water Hyacinth under "The Village Committees Ordinance" No. 9 of 1924 and "The Irrigation Ordinance" No. 45 of 1917 (as amended by No. 18 of 1919, No. 21 of 1920, No. 22 of 1922 and No. 17 of 1927). At present the former Ordinance, so far as it concerns this weed, applies only to certain sub-divisions of the Chief Headmen's Divisions of the Kurunegala District where serious infestations have occurred. A rule has been adopted, for the areas concerned, empowering the Irrigation Headman, or, in his absence, the village Headman, to enforce labour for the purpose of ordering the removal of Water Hyacinth and other similar plants which tend to diminish the capacity of any village tank.— (*Government Gazette* No. 7741 of October 18th, 1929). Under "The Irrigation Ordinance" the proprietors within the Chilaw Irrigation District have passed a rule under which all persons benefitting by a supply of water from a tank may be called upon,
+
+9------------------------------------------------
+
+346
+
+as an emergency measure, to remove Water Hyacinth, and other similar pests, which tend to diminish the capacity of the tank concerned.—(*Government Gazette* No. 7866 of July 3rd, 1931).
+
+It has not yet been possible to extend similar rules to other districts but it is hoped that this may be done at a later date in the event of the present machinery proving inadequate.
+
+#### CLASSIFICATION OF INFESTED AREAS
+
+The areas now known to be infested, or which are likely to become infested in the future, fall conveniently into the following categories:
+
+1. *Major Tanks and Irrigation Channels*.—These are under the control of the Irrigation Department which is thus responsible for maintaining them free of this weed. Certain large tanks have been seriously infested in the past but have been cleared. New growth is dealt with as it appears and at the present time the situation in regard to these infestations is satisfactory.
+
+2. *Village Tanks*.—These form the majority of the infestations in the Island and are under the immediate control of minor Headmen of the Provincial Administration who are Koralas, Arachchies, Police Vidanes and Vel Vidanes according to districts. These officers are guilty of an offence, under Ordinance No. 4 of 1909, if they allow the weed to grow in areas under their charge. Their responsibility in this connexion has been indicated to them by their respective Government Agents and cases of negligence are reported to the Government Agents for disciplinary action.
+
+3. *Rivers*.—Main rivers are under the control of the Government Agents who thus become responsible for controlling the weed in the sections of the rivers which pass through the territory under their administration. Where, however, smaller streams are dammed at certain seasons by the construction of temporary *amunas* for the purpose of irrigating the adjacent paddy lands they become village irrigation works. Often, a number of such dams occur in a small stretch of river with one or more Vel Vidanes in charge of each section. In such cases, the responsibility for maintaining these waterways free of Water Hyacinth devolves upon the particular officer who is responsible for the irrigation of the area served by the section of the stream concerned.
+
+10------------------------------------------------
+
+347
+
+4. *Canals*.—The Public Works Department has accepted responsibility for the clearance of Water Hyacinth from canals under the administration of the Department, but, up to the present time, no instances of these waterways being infested have been reported.
+
+5. *Private Lands*.—These include swamps, elas, ponds, drains, wells and other areas of water on privately-owned land and the parties responsible for the eradication of the weed from such areas are those to whom they belong or to whom their control or management has been entrusted.
+
+6. *Crown Areas*.—The infestations which fall under this head are waterways, swamps and other areas of unoccupied territory belonging to the Crown and the responsibility for maintaining them free from weed devolves upon Government and they are the immediate concern of the particular Revenue Officer under whose control they happen to be.
+
+#### THE PRESENT POSITION
+
+As previously mentioned, the responsibility for Water Hyacinth control was entrusted to the Plant Pest and Disease Inspection Division of the Department which was formed in 1919. This organization consisted of three Inspectors with headquarters at Peradeniya, Kurunegala and Galle, respectively. Three, or four, sub-inspectors and a clerk were attached to each of these centres. In September 1932, partly as a retrenchment measure and partly due to a scheme of re-organization of the Department of Agriculture, the Inspection Division was abolished. The work formerly performed by this Division was then re-distributed, the duties of the former sub-inspectors devolving upon the Agricultural Instructors, in addition to their normal duties, under the immediate direction of the Divisional Agricultural Officers who now exercise the functions of the Inspectors under the old scheme in addition to their own. The responsibility for co-ordinating the work connected with all pests, diseases and weeds, declared as such under "The Plant Protection Ordinance" No. 10 of 1924, has been assigned to the Assistant Entomologist under the additional title of Controller of Plant Pests. The latter officer is stationed at Peradeniya and has a staff of two inspecting assistants and a clerk. It should be mentioned that Water Hyacinth is only one of the twelve declared pests and diseases with which this new organization is concerned.
+
+11------------------------------------------------
+
+348
+
+It is the immediate duty of the Agricultural Instructors to keep in touch with the situation in regard to Water Hyacinth in their respective ranges. By frequent inspections of all known infestations, upon which monthly reports are furnished to the central office at Peradeniya, the position in each Agricultural Range is known and instances of neglect on the part of responsible parties to maintain their areas free are reported for necessary action. It is, also, the duty of these officers to explain to the residents in their ranges the true reason for Government's desire to eradicate the weed and to correct the many erroneous impressions which have been formed in this connexion.
+
+During the past year, the inspection work in the Southern Province has been both regular and systematic with the result that much progress has been made towards reducing the situation to a condition in which it can be handled by the staff available. Unfortunately, there has been a tendency, in the North-Western and Western Divisions, to rely on the reports of the Vel Vidanes and Police Officers for information in regard to the condition of the infested areas in these Divisions rather than to check the information furnished by routine inspections, but it is hoped that more regular inspections will be undertaken in these Divisions in the future. Surprise inspections undertaken by the headquarters staff have, in many instances, revealed the fact that areas said to be free of weed were, in reality, infested. It is a very serious handicap to the administration of the campaign against the weed if absolute reliance cannot be placed upon the reports of inspecting officers. As, however, many of the Instructors have been new to this work some leniency is necessary but more serious notice will need to be taken of false reports in the future.
+
+In the Southern Province certain works of importance have been undertaken during the year by the Irrigation Department on behalf of the Department of Agriculture. The object of these undertakings has been to reduce certain extensive swamps, infested by the weed, to a condition in which weeding was a practical undertaking.
+
+The special works referred to above are in connexion with the Beminiyanwila, Kabaldetta and Kudawila drainage channels. The infestation of the Beminiyanwila Main Drainage Channel, over three miles in length, led to the conversion of a very extensive tract of paddy land into an uncultivable swamp which also became infested with the weed. It, further, prevented the
+
+12------------------------------------------------
+
+349
+
+functioning of the Kabaldetta channel, a sub-drain serving another extensive tract which became a weed-infested swamp. Both of these channels have been cleared of weed and reconditioned by the Irrigation Department, sufficient infested land adjacent to the channels being cleared of weed to allow of them functioning efficiently. This undertaking has resulted in the escape of water from the swamps and weed clearance became possible during the dry weather in September. Seven of the eight extensive infestations in this area have been cleared and once more brought under cultivation. The remaining infestation still persists.
+
+The reconditioning of the Kudawila drainage channel led to the reduction of the water level in the Kudawila swamp by nearly three feet and clearing not only became a possibility but the Water Hyacinth was actually withering for lack of moisture during September last. The swamp is now in a condition in which it can be cleared of weed. The proximity of this infestation to the main road between Tangalle and Hambantota makes it imperative that it should be brought under control. The weed has not yet penetrated to the eastern side of the Walawe Ganga and the danger of it doing so, and thence being conveyed to the extensive and fertile paddy areas in the Tissamaharama area, is one which it is necessary to guard against. Other preliminary works performed in the Southern Province by the Irrigation Department during the year in connexion with Water Hyacinth eradication were at Namayalawila, near Tangalle. This is the most extensive Water Hyacinth infestation in the Island and the most difficult of solution. The swamp is Crown-owned and densely infested by weed. The depth of mud being more than a man's height, makes clearing operations quite impossible until the swamp is drained. The area is subject to flood and is the source of Water Hyacinth infestation of some thousands of acres of paddy lands. The solution of this major problem is very desirable. A mile-long drain, six feet in width, has already been cut by Government but, owing to the annual practice of temporarily damming the Kirama Oya, into which the drain falls, the drain has so far failed to function. In order to benefit by the work which has already been performed it is necessary to provide direct irrigation facilities before the temporary dams
+
+13------------------------------------------------
+
+350
+
+across the Kirama Oya can be dispensed with. The route of the proposed channels has been surveyed and other preliminaries completed with a view to cutting the channels during the close season early next year.
+
+During the past year the work of the campaign has been directed to the supervision of all areas on the register of infestations, calling upon the responsible parties to cope with the infestations under their control which are capable of weed clearance and assisting the owners of difficult infestations by the provision of facilities which will render weeding a possible undertaking. As a result of continued pressure upon the responsible parties to remove the weed from their respective areas a very large percentage of the total infestations are now actually free of weed and can be maintained so if continued supervision is maintained and seedling growth removed as it appears.
+
+Owing to the fact that the germination of seed may be delayed for several years it is necessary to maintain a constant watch upon all places on the register of infestations even if they have been free of the weed for the past two years. The need for this continued vigilance has been clearly demonstrated by the recent appearance of seedling growth in certain areas which had been free for three years prior to January 1933. Further, several places, regarded as infested and visited monthly, are now actually free of weed growth so that the present position is not quite as serious as the total number of infestations in twenty-two different Agricultural Ranges of the Island might lead one to suppose.
+
+It will be seen from the following table that the largest number of infestations is in the Southern Province, particularly in the Hambantota District, which contains no less than 108 of the total 121 infestations in the province. Several new infestations have been reported during the past year, none of them serious, and prompt action has been taken to deal with them. Many of these have been in the premises of Buddhist Temples where the plants were grown in flower pots for the sake of the ornamental flowers and from which there is the greatest danger of their spreading into neighbouring tanks.
+
+14------------------------------------------------
+
+351
+
+The distribution of infestations, and their classification, are given in the following table.
+
+**DISTRIBUTION OF WATER HYACINTH  
+INFESTATIONS IN CEYLON**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Agricultural Division</th>
+<th rowspan="2">Agricultural Range.</th>
+<th colspan="3">Number of Water Hyacinth infestations</th>
+<th rowspan="2">Total</th>
+</tr>
+<tr>
+<th>Free of weed for one year or more</th>
+<th>Already under control or controllable</th>
+<th>Serious infestations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Central</td>
+<td>Gampola</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>Katugastota</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>Kegalle</td>
+<td>3</td>
+<td>8</td>
+<td></td>
+<td>11</td>
+</tr>
+<tr>
+<td>Peradeniya</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>Ruanwella</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td style="border-top: 1px solid black;">7</td>
+<td style="border-top: 1px solid black;">13</td>
+<td style="border-top: 1px solid black;"></td>
+<td style="border-top: 1px solid black;">20</td>
+</tr>
+<tr>
+<td rowspan="6">North-Western</td>
+<td>Chilaw</td>
+<td>10</td>
+<td>6</td>
+<td>1</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Dandagamuwa</td>
+<td>9</td>
+<td>3</td>
+<td></td>
+<td>12</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>5</td>
+<td>3</td>
+<td></td>
+<td>8</td>
+</tr>
+<tr>
+<td>Maho</td>
+<td>7</td>
+<td>2</td>
+<td></td>
+<td>9</td>
+</tr>
+<tr>
+<td>Polgahawela</td>
+<td>4</td>
+<td>3</td>
+<td></td>
+<td>7</td>
+</tr>
+<tr>
+<td>Wariyapola</td>
+<td>8</td>
+<td>12</td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td style="border-top: 1px solid black;">43</td>
+<td style="border-top: 1px solid black;">29</td>
+<td style="border-top: 1px solid black;">1</td>
+<td style="border-top: 1px solid black;">73</td>
+</tr>
+<tr>
+<td rowspan="7">Southern</td>
+<td>Ambalantota</td>
+<td>4</td>
+<td>16</td>
+<td>1</td>
+<td>21</td>
+</tr>
+<tr>
+<td>Bata-ata</td>
+<td>13</td>
+<td>22</td>
+<td>6</td>
+<td>41</td>
+</tr>
+<tr>
+<td>Batapola</td>
+<td>2</td>
+<td>4</td>
+<td></td>
+<td>6</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>Matara</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td>3</td>
+</tr>
+<tr>
+<td>Weeraketiya</td>
+<td>13</td>
+<td>30</td>
+<td>3</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Weligama</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td style="border-top: 1px solid black;">36</td>
+<td style="border-top: 1px solid black;">75</td>
+<td style="border-top: 1px solid black;">10</td>
+<td style="border-top: 1px solid black;">121</td>
+</tr>
+<tr>
+<td rowspan="4">South-Western</td>
+<td>Bandaragama</td>
+<td>8</td>
+<td>9</td>
+<td></td>
+<td>17</td>
+</tr>
+<tr>
+<td>Gampaha</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr>
+<td>Negombo</td>
+<td>10</td>
+<td>12</td>
+<td></td>
+<td>22</td>
+</tr>
+<tr>
+<td>Nugegoda</td>
+<td>51</td>
+<td>30</td>
+<td></td>
+<td>81</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td style="border-top: 1px solid black;">70</td>
+<td style="border-top: 1px solid black;">54</td>
+<td style="border-top: 1px solid black;"></td>
+<td style="border-top: 1px solid black;">124</td>
+</tr>
+<tr>
+<td></td>
+<td>Total</td>
+<td>156</td>
+<td>171</td>
+<td>11</td>
+<td>338</td>
+</tr>
+</tbody>
+</table>
+
+15------------------------------------------------
+
+352
+
+The total number of recognised infestations in the Island is, at the time of writing, 338. Of these, 156 have been free for one year or more and, with proper supervision, can be maintained free. A very large percentage of the 171 infestations classified in the above table as being under control, or capable of being controlled, are actually free of weed at the present time but new growth is constantly appearing and continued supervision is essential to prevent them from reverting to serious infestations. The balance of this number includes infestations which are slightly to moderately infested but are all clearable with the exercise of a little effort on the part of the responsible parties. Eleven of the total infestations are serious some being of considerable extent. They require Government aid before they are in a position to be properly controlled.
+
+#### FUTURE POLICY
+
+Although some headway has been made towards the solution of a difficult problem one is compelled to speculate upon the future position in regard to this weed in Ceylon and to consider whether there is any hope of its eventual eradication from the Island. Total eradication, even at this stage, is not an impossibility but it must be some years before this goal can be attained, and then only if the universal co-operation of all residents in the affected districts, combined with that of all official bodies, can be secured. The alliance of all official organizations interested in attaining the objective one has in mind is to be expected but whether this can be supported by the populace to the degree necessary, and prior to the problem reaching a stage when it will be definitely beyond solution, is another matter.
+
+In the comparatively short period of 28 years, the half-dozen plants introduced in 1905 gave rise to plants which spread over some thousands of acres of water, paddy and swamp areas. At present, so far as is known, the infested areas lie within the inhabited zones but if the plant succeeds in finding its way, through the agency of waterways, to the vast uninhabited regions traversed by some of the larger rivers on their way to the sea the solution of this problem will be indefinitely postponed. The same, to a less degree, may be said of the extensive low-lying areas which are subject to annual floods in the
+
+16------------------------------------------------
+
+353
+
+vicinity of Colombo. For this reason, the infestations in the Western Province are of particular importance, especially those in the Nugegoda range which already number more than those in any other range.
+
+The first duty of the new organization which has been created to deal with proclaimed pests, diseases and weeds, has been to compile an authentic register of all known infestations in the Island and this has not been an undertaking without difficulty. The next step was to compile information regarding each infestation, particularly in respect to its exact location, its past history and present degree of infestation. It then became possible to classify the infestations and arrive at some conception of the problem which had to be taken in hand.
+
+The policy during the present year has been to maintain a constant supervision over the infested areas and, by frequent inspections, to maintain the areas which had already been cleared free of new weed growth; to insist on the weeding, by those responsible, of areas which were definitely clearable and to give State aid in cases where the work was beyond the powers of the owners to perform however willing their intentions in this matter might be. It is hoped, by a continuance of this policy, to reduce the majority of the infestations to a condition in which, by constant surveillance, they may be maintained free of seedling growth and their inspection will continue until such time as the appearance of such growth need no longer be anticipated. At the same time, an endeavour will be made to deal with the remaining and more serious infestations and, by drainage or other means, to reduce them to a condition in which clearing operations are capable of being performed by those who are responsible for their management.
+
+It is proposed to limit State aid in this matter to operations of this nature and to the provision of boats to aid the collection of weed in deep water, and to discontinue the practice, which has been followed for some years, of removing, on Government account, the weed from properties for the proper maintenance of which others are directly responsible. This attitude has become necessary owing to the complete indifference and apathy displayed, in the past, by those on whose behalf large infestations have been repeatedly cleared of weed at Government expense, a sum of Rs. 30,000 having been spent in wages alone for this purpose during the past few years. If the indifference complained of had been limited to the poorer and less educated
+
+17------------------------------------------------
+
+354
+
+classes a more tolerant view of this neglect might be entertained but the chief offenders have been landowners of consequence whose good example might be expected to exercise a very important influence upon the less influential proprietors in the districts concerned, an influence which would have been of considerable value to the campaign against the weed.
+
+Although the control of Water Hyacinth is adequately provided for by local enactments it is desired to limit prosecutions to instances where serious opposition and obstruction are encountered. No prosecutions have been taken during the year but certain ones are pending, every possible avenue for peaceful settlement in these cases having failed.
+
+The dissemination of knowledge regarding the noxious nature of this weed, the correction of the many erroneous ideas which have been formed concerning it and the indication of the pressing need for its eradication should, in time, assist in checking the deliberate spread of the weed by irresponsible or ignorant persons as is being done even at the present time. A preliminary step in the movement towards arousing a wider interest in this subject is to be taken, shortly, by the distribution in suitable centres of attractive coloured posters of the plant, appropriate slogans in Sinhalese also being incorporated in the posters. If this issue is well received, and is considered to be serving its intended purpose, the scheme will be extended as it is certain that lack of knowledge of the plant, and of its harmful nature, is largely responsible for its rapid and wide dissemination in the Island during the past 28 years. A re-issue of smaller coloured illustrations of the plant, accompanied by a descriptive pamphlet in Sinhalese, is also to be made in the near future to all headmen in the weed-infested areas.
+
+As a result of the interest and co-operation of the Government Agents concerned, the mobilization of the large official force at their command brings into operation an efficient and existing organization which should be of the greatest value in the future campaign against this weed. Without the co-operation of the Provincial Administration it is certain that little or no progress could be made towards the efficient control of Water Hyacinth in the Island. The authority of the Government Agents in their provinces is considerable and, through the various links in the administrative chain, is brought to bear upon almost every inhabitant in the most remote corners of the country. This would be quite impossible to accomplish with
+
+18------------------------------------------------
+
+355
+
+the comparatively small organization controlled by the Director of Agriculture who is primarily responsible for the administration of the Ordinance which exists for the control of pests, diseases and weeds in Ceylon. It is hoped, therefore, that the continued support of the Government Agents may be counted upon in the future and, if it is possible, that such aid should be forthcoming even in greater measure than formerly.
+
+So far as is known at present the most satisfactory method of eradication, and the cheapest, is the removal of the weed by hand. Chemical treatment has been given an extended trial in other countries but there are objections to most treatments of this nature. The most satisfactory of these appear to be common salt and sulphuric acid, but it is proposed to continue experiments with Sodium Chlorate during the dry weather early next year. Many chemicals will destroy the foliage above the water level but the submerged vegetative portions remain unaffected. Arsenical solutions have been widely used in certain countries but they cannot be recommended for local use for many reasons. The most difficult problems in Ceylon are the swamp areas as it is not possible for them to be safely penetrated by men. For this reason spraying operations, even if a suitable weedicide is forthcoming, present special difficulties.
+
+The interest of all who have the welfare of the country at heart is earnestly solicited in the campaign against this pestilential weed. Much can be done by persons of influence to foster the necessary interest and action among the residents in their districts. The discovery of new infestations should be reported to the nearest Agricultural Instructor or to the Controller of Plant Pests at Peradeniya.
+
+The most pressing need at the moment, so far as the Water Hyacinth situation is concerned, appears to be the broadcasting of suitable knowledge regarding the plant. If public opinion can be aroused to the extent desirable more progress is likely to be effected in the direction of bringing this weed under control than has been possible in the past.
+
+19------------------------------------------------
+
+356
+
+## THE IMPORT TRADE IN CITRUS FRUITS INTO CEYLON
+
+J. C. DRIEBERG, DIP. AGRIC. (POONA).
+
+*INSPECTOR, COLOMBO FUMIGATORIUM*
+
+**I**N view of the interest now being taken in the cultivation of fruit, and more especially Citrus, in Ceylon, the following account of the import trade in citrus fruit during the past five years may prove of some value.
+
+The varieties imported are mainly oranges; grape fruit to an increasing extent of late; lemons in less degree and limes in fair quantity from India in some years.
+
+The total imports have increased steadily within the period under review, and were proportionately higher in 1931 owing to exceptionally heavy shipments from Australia in that year. The following figures show the total number of cases of citrus imported each year:
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Cases</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1928</td>
+<td>...</td>
+<td>4,867</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>...</td>
+<td>5,725</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>...</td>
+<td>5,948</td>
+</tr>
+<tr>
+<td>1931</td>
+<td>...</td>
+<td>8,362</td>
+</tr>
+<tr>
+<td>1932</td>
+<td>...</td>
+<td>6,365</td>
+</tr>
+<tr>
+<td>mean annual</td>
+<td>...</td>
+<td><u>6,253</u></td>
+</tr>
+</tbody>
+</table>
+
+The mean monthly imports amount to 520 cases, varying from 222 cases in May to 1,068 cases in December. There are two definite seasons of imports, corresponding with the seasons of production of exporting countries. The main season covering a period of five months commences in November and extends to March. The short season comprises the three months June to August. The following figures show the mean monthly imports:
+
+<table>
+<thead>
+<tr>
+<th>Main Season, 5 months—</th>
+<th></th>
+<th>Monthly mean</th>
+<th>Percentage<br/>annual total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>November</td>
+<td>... 427 cases</td>
+<td rowspan="5">} 732</td>
+<td rowspan="5">58%</td>
+</tr>
+<tr>
+<td>December</td>
+<td>... 1,068 ,,</td>
+</tr>
+<tr>
+<td>January</td>
+<td>... 896 ,,</td>
+</tr>
+<tr>
+<td>February</td>
+<td>... 652 ,,</td>
+</tr>
+<tr>
+<td>March</td>
+<td>... 620 ,,</td>
+</tr>
+</tbody>
+</table>
+
+20------------------------------------------------
+
+357
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Short Season, 3 months—</th>
+<th>Monthly mean</th>
+<th>Percentage<br/>annual total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>June</td>
+<td>... 471 cases</td>
+<td rowspan="3">495</td>
+<td rowspan="3">23%</td>
+</tr>
+<tr>
+<td>July</td>
+<td>... 650 ,,</td>
+</tr>
+<tr>
+<td>August</td>
+<td>... 364 ,,</td>
+</tr>
+</tbody>
+</table>
+
+Intermediate periods, 4 months—
+
+<table>
+<tbody>
+<tr>
+<td>April</td>
+<td>... 340 cases</td>
+<td rowspan="4">275</td>
+<td rowspan="4">17%</td>
+</tr>
+<tr>
+<td>May</td>
+<td>... 222 ,,</td>
+</tr>
+<tr>
+<td>September</td>
+<td>... 258 ,,</td>
+</tr>
+<tr>
+<td>October</td>
+<td>... 282 ,,</td>
+</tr>
+</tbody>
+</table>
+
+Consignments from Aden, which mainly comprise the produce of Palestine, commence to arrive in November and continue up to April, and are followed by those from South Africa and Australia. The South African season is short, occupying a period of four months from June to September, while the Australian season is longer, and lasts from June to December and may extend to January. Shipments from Italian ports arrive between November and March, while those from India come spasmodically throughout the year but mainly between November and March. Consignments from California are received every month of the year, the seasons of greatest import, however, being April to June and August to October.
+
+The following table shows the volume of imports contributed throughout the year by each of the exporting countries:
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th colspan="6">Percentage of mean monthly total</th>
+</tr>
+<tr>
+<th></th>
+<th>California</th>
+<th>Palestine</th>
+<th>Australia</th>
+<th>South<br/>Africa</th>
+<th>Italy</th>
+<th>India</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January</td>
+<td>24</td>
+<td>53</td>
+<td>—</td>
+<td>—</td>
+<td>19</td>
+<td>4</td>
+</tr>
+<tr>
+<td>February</td>
+<td>23</td>
+<td>63</td>
+<td>—</td>
+<td>—</td>
+<td>11</td>
+<td>1</td>
+</tr>
+<tr>
+<td>March</td>
+<td>19</td>
+<td>65</td>
+<td>—</td>
+<td>—</td>
+<td>7</td>
+<td>6</td>
+</tr>
+<tr>
+<td>April</td>
+<td>42</td>
+<td>48</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>5</td>
+</tr>
+<tr>
+<td>May</td>
+<td>80</td>
+<td>15</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+</tr>
+<tr>
+<td>June</td>
+<td>40</td>
+<td>—</td>
+<td>52</td>
+<td>6</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>July</td>
+<td>24</td>
+<td>—</td>
+<td>67</td>
+<td>6</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>August</td>
+<td>68</td>
+<td>—</td>
+<td>21</td>
+<td>8</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>September</td>
+<td>70</td>
+<td>—</td>
+<td>21</td>
+<td>5</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>October</td>
+<td>47</td>
+<td>—</td>
+<td>42</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>November</td>
+<td>32</td>
+<td>12</td>
+<td>15</td>
+<td>—</td>
+<td>—</td>
+<td>36</td>
+</tr>
+<tr>
+<td>December</td>
+<td>12</td>
+<td>55</td>
+<td>6</td>
+<td>—</td>
+<td>14</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+The total imports from Palestine have displayed a remarkable expansion during the past five years, while those from California a corresponding and steady diminution. The South
+
+21------------------------------------------------
+
+358
+
+African trade which is still a small one has increased of late. The Australian imports which fell heavily in 1930 rose phenomenally the next year and in 1932 were more than 100 per cent. higher than at the beginning of the period. The average imports from Italian ports number 465 cases a year; in 1931 the total was 813 cases, of which 429 cases arrived in December. The imports from India average 419 cases a year; in 1929 they numbered 765, of which 466 arrived in November, and 652 in 1931, of which 231 were received in November and 219 in December.
+
+It is interesting to observe the extent to which each of the exporting countries contributes to the total volume of imports in a year. The figures below are percentages of each year's total which is taken as 100, the total figure being found in the first table at the commencement of this article.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Total</th>
+<th>Palestine</th>
+<th>California</th>
+<th>Australia</th>
+<th>South Africa</th>
+<th>Italy</th>
+<th>India</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1928</td>
+<td>100</td>
+<td>17.6</td>
+<td>59.4</td>
+<td>11.1</td>
+<td>0.9</td>
+<td>9.3</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>100</td>
+<td>20.8</td>
+<td>48.4</td>
+<td>9.9</td>
+<td>0.3</td>
+<td>7.0</td>
+<td>13.3</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>100</td>
+<td>47.5</td>
+<td>36.6</td>
+<td>4.1</td>
+<td>0.4</td>
+<td>6.0</td>
+<td>5.2</td>
+</tr>
+<tr>
+<td>1931</td>
+<td>100</td>
+<td>30.5</td>
+<td>19.1</td>
+<td>31.2</td>
+<td>1.6</td>
+<td>9.7</td>
+<td>7.8</td>
+</tr>
+<tr>
+<td>1932</td>
+<td>100</td>
+<td>56.1</td>
+<td>11.2</td>
+<td>19.7</td>
+<td>4.4</td>
+<td>4.7</td>
+<td>3.8</td>
+</tr>
+<tr>
+<td colspan="8">No. of cases in</td>
+</tr>
+<tr>
+<td>Minimum year</td>
+<td>859</td>
+<td></td>
+<td>714</td>
+<td>247</td>
+<td>20</td>
+<td>301</td>
+<td>72</td>
+</tr>
+<tr>
+<td colspan="8">No. of cases in</td>
+</tr>
+<tr>
+<td>Maximum year</td>
+<td>3574</td>
+<td></td>
+<td>2895</td>
+<td>2611</td>
+<td>282</td>
+<td>813</td>
+<td>765</td>
+</tr>
+</tbody>
+</table>
+
+The size of a consignment varies from 1 to as many as over 300 cases. The frequency with which consignments fall into groups of a definite number of cases is as follows:
+
+Under 25 cases—57 per cent.
+
+25-74 cases—33 per cent.
+
+75-124 cases—6 per cent.
+
+125-over 250 cases—3 per cent.
+
+The frequency for individual countries is as follows:
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Under 25<br/>cases</th>
+<th>25-74<br/>cases</th>
+<th>75-124<br/>cases</th>
+<th>125-over<br/>250 cases</th>
+</tr>
+<tr>
+<th></th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Palestine</td>
+<td>36</td>
+<td>44</td>
+<td>10</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Australia</td>
+<td>74</td>
+<td>75</td>
+<td>7</td>
+<td>1</td>
+</tr>
+<tr>
+<td>California</td>
+<td>53</td>
+<td>42</td>
+<td>5</td>
+<td>—</td>
+</tr>
+<tr>
+<td>South Africa</td>
+<td>58</td>
+<td>31</td>
+<td>—</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>41</td>
+<td>45</td>
+<td>11</td>
+<td>2</td>
+</tr>
+<tr>
+<td>India</td>
+<td>93</td>
+<td>7</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+22------------------------------------------------
+
+359
+
+The largest single consignments received were 350 cases from Australia in July 1931, and from Palestine 300 cases in January 1928 and 6 consignments of 200 cases each at various times. Of consignments of 125 or more cases each 10 have been received from Palestine against 2 from Naples and 2 from South Africa; of consignments of 100 cases 19 came from Palestine against 5 from Australia and 5 from Naples. The consignments from California largely number between 20 and 40 cases, and only 20 consignments of 60-80 cases have been received during the past five years. The Indian consignments are small in size, but the number received in 1929 totalled 135. Single consignments of 85, 49, 45, 39, 33 and 32 cases have been received.
+
+The varieties of citrus imported are mainly oranges and grape fruit. It should be possible to state the exact quantity of each variety if the number of cases of each had been recorded. In some instances a consignment has been entered as "oranges and grape fruit", in others as "oranges, grape fruit and lemons" and even as "Citrus". Where the consignment comprised a single variety no difficulty is presented. The average quantities imported under such headings per annum during the past five years are:
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th style="text-align: right;">cases</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oranges                      ...                      ...</td>
+<td style="text-align: right;">3,247</td>
+</tr>
+<tr>
+<td>Oranges and grape fruit                      ...</td>
+<td style="text-align: right;">2,308</td>
+</tr>
+<tr>
+<td>Grape fruit                      ...                      ...</td>
+<td style="text-align: right;">246</td>
+</tr>
+<tr>
+<td>Oranges, grape fruit and lemons ...</td>
+<td style="text-align: right;">226</td>
+</tr>
+<tr>
+<td>Citrus                      ...                      ...</td>
+<td style="text-align: right;">234</td>
+</tr>
+</tbody>
+</table>
+
+From observation it appears that a consignment of oranges and grape fruit may be separated in the proportion of 2 cases of oranges to 1 of grape fruit. On this bases, and making an adjustment in the case of other mixed consignments, it may be estimated that the annual imports of oranges will amount to approximately 5,000 cases and those of grape fruit to 1,000 to 1,200 cases.
+
+Oranges are packed in standard sized cases of 1 bushel, and the number of fruit in a case varies according to size. Fruit is now carefully graded for the market and the size of fruit and number are stamped on each case. Standard cases contain the following numbers of oranges: 126, 150, 176, 200, 216, 252; but in one consignment the numbers went up to 288, 324 and 342. Counts of 150 and 176 comprise size 3, of 200 and 216 size  $2\frac{3}{4}$
+
+23------------------------------------------------
+
+360
+
+and of 252 size  $2\frac{1}{2}$ . Fruit from a count of 176 measure  $2\frac{7}{8}$  inches in diameter on the average. Grape fruit are packed in standard crates holding 80 or 100 fruit. Those of the former size have an average diameter of  $3\frac{4}{5}$  inches, and the smaller ones measure  $3\frac{1}{2}$  inches in diameter.
+
+The gross weight of a standard case of grape fruit is approximately 75 lb. and of oranges 85 lb.
+
+The value of a consignment varies considerably according to the country of origin and the season of export, and doubtless quality of fruit. The value of fruit from California is throughout higher than that from other countries.
+
+The values entered at the Customs may at times vary from those appearing in invoices for the reason that in a particular instance the invoice value may be lower than the open market value in Ceylon, so that such a consignment is appraised at a higher rate and *vice versa*. The benefits of a more favourable market to the importer therefore are shared by the Customs. The duty levied on imports of fresh fruit into Ceylon is now 15 per cent. *ad valorem* on consignments from any part of the British Empire and 25 per cent. on consignments from other countries or on those which are not accompanied by a declaration of the country of origin.
+
+From a study of the values entered against consignments by the Customs for last year it appears that the average value of a case of oranges from California was Rs. 17.00 against Rs. 9.25 from other countries; and of grape fruit Rs. 18.50 from California against Rs. 10.00 from other countries. The average price of lemons was about Rs. 9.00 per case. The range of values for the different countries was:
+
+Oranges:
+
+<table>
+<tr>
+<td>Australia</td>
+<td>Rs.</td>
+<td>6.00</td>
+<td>to</td>
+<td>Rs.</td>
+<td>10.67</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>,,</td>
+<td>7.33</td>
+<td>,,</td>
+<td>,,</td>
+<td>9.28</td>
+</tr>
+<tr>
+<td>Palestine</td>
+<td>,,</td>
+<td>9.33</td>
+<td>,,</td>
+<td>,,</td>
+<td>10.94</td>
+</tr>
+<tr>
+<td>California</td>
+<td>,,</td>
+<td>16.00</td>
+<td>,,</td>
+<td>,,</td>
+<td>23.00</td>
+</tr>
+</table>
+
+Grape fruit:
+
+<table>
+<tr>
+<td>Australia</td>
+<td rowspan="2">}</td>
+<td rowspan="2">Rs.</td>
+<td rowspan="2">8.48</td>
+<td rowspan="2">to</td>
+<td rowspan="2">Rs.</td>
+<td rowspan="2">12.16</td>
+</tr>
+<tr>
+<td>Palestine</td>
+</tr>
+<tr>
+<td>California</td>
+<td></td>
+<td>,,</td>
+<td>17.76</td>
+<td>,,</td>
+<td>,,</td>
+<td>20.00</td>
+</tr>
+</table>
+
+The estimated value of the total imports of citrus fruit into Ceylon in 1932 is Rs. 63,000. The value of fruit from British Possessions is Rs. 51,000 against Rs. 12,000 from the United States of America and other countries. The value of oranges alone is approximately Rs. 48,000 and of grape fruit Rs. 13,000.
+
+The total value of all fresh fruit imported in 1932 amounted to Rs. 546,354 so that the value of citrus alone is 11.5 per cent. of the total.
+
+24------------------------------------------------
+
+361
+
+CONTRIBUTION FROM THE RUBBER RESEARCH  
+SCHEME (CEYLON)
+
+NOTES ON LOW TEMPERATURE  
+VULCANIZATION
+
+T. E. H. O'BRIEN, M.Sc., F.I.C., F.I.R.I.,
+
+*DIRECTOR OF RESEARCH,*
+
+*RUBBER RESEARCH SCHEME (CEYLON)*
+
+**C**ONSIDERABLE interest has been taken recently by Rubber Producers in Ceylon and no doubt in other countries, in the possibilities of producing certain types of vulcanized products direct from latex on the plantations. Interest has partly been stimulated by the low selling price of raw rubber but also by the knowledge that the direct utilisation of latex has made substantial progress in manufacturing countries and that methods of vulcanization have been considerably simplified in recent years.
+
+Until comparatively few years ago vulcanization was effected by heating a mixture of rubber and sulphur for several hours at a temperature of about 300°F but a class of substances known as accelerators has been developed which, when added to the mixing in small proportion, enables the process to be carried out at a lower temperature or alternatively in a shorter time. The more powerful accelerators are usually known as ultra-accelerators. Some of them are claimed to effect vulcanization at ordinary temperature but this form of "self-vulcanization" does not appear to be relied on to any great extent in countries with a temperate climate.
+
+A number of enquiries have been received by the Research Scheme regarding suitable methods of low temperature vulcanization and it is considered to be of interest to give an outline of some trials which have been made by the writer on the preparation of vulcanized crepe rubber by the addition of suitable ingredients to the latex before coagulation. The purpose of the trials was mainly to determine whether a substantial degree of vulcanization can be effected without heating the rubber.
+
+The accelerator used in most of the experiments was Zinc diethylthiocarbamate (usually abbreviated to Z.D.C.), one of the well-known ultra-accelerators which is marketed in the form
+
+25------------------------------------------------
+
+362
+
+of a fine white powder, insoluble in water. The sodium salt of the same substance (S.D.C.) which is soluble in water, has also been used and gives similar results. The accelerator together with zinc oxide and sulphur was mixed into a cream with water containing a wetting agent and added to the latex, which was then coagulated and creped in the ordinary way. After being air dried the crepe was made up into laminated sheets on the lines of the Ceylon method of sole crepe manufacture.
+
+The method used for judging the extent of vulcanization was to observe the effect of benzene on the rubber. Raw rubber dissolves in benzene and other hydrocarbon solvents whereas vulcanized rubber swells without dissolving. The extent of swelling depends on the stage of vulcanization and decreases as vulcanization proceeds. Accurate methods for measuring the extent of swelling of rubber in solvents have been described by Scott <sup>(1)</sup> and van Wijk <sup>(2)</sup> but only approximate results were required in the present trials and the amount of swelling was calculated from the dimensions of the test pieces before and after 24 hours' immersion in benzene.
+
+It was found from a series of experiments that crepe rubber prepared from compounded latex under suitable conditions cures slowly at ordinary temperature (75°F-90°F) and is sufficiently vulcanized after about 20 days to be resistant to sunlight and heat and insoluble in raw rubber solvents. The rate of vulcanization varies considerably according to the conditions of preparation as is shown by the following examples:
+
+### 1. EFFECT OF COAGULANT ON RATE OF VULCANIZATION
+
+(Mixing containing zinc oxide 3 parts, sulphur 1.5 parts, Z.D.C. accelerator 0.75 parts per 100 parts rubber).
+
+Coagulant      Percentage increase in volume of sample when immersed in benzene for 24 hours at different intervals after preparation
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>10 days</th>
+<th>20 days</th>
+<th>30 days</th>
+<th>40 days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a. Formic acid</td>
+<td>1:100</td>
+<td>dissolved</td>
+<td>dissolved</td>
+<td>almost dissolved</td>
+<td>sticky</td>
+</tr>
+<tr>
+<td>b. Alum</td>
+<td>1:30</td>
+<td>dissolved</td>
+<td>940% (sticky)</td>
+<td>760%</td>
+<td>740%</td>
+</tr>
+</tbody>
+</table>
+
+The test shows that alum is a more suitable coagulant than formic acid for this type of mixing.
+
+26------------------------------------------------
+
+363
+
+## 2. EFFECT OF SODIUM BISULPHITE ON RATE OF VULCANIZATION
+
+(Mixing containing zinc oxide 3 parts, sulphur 1.5 parts, Z.D.C. accelerator 0.75 parts per 100 parts rubber).
+
+Coagulant Percentage increase in volume of sample when immersed in benzene for 24 hours at different intervals after preparation
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>10 days</th>
+<th>20 days</th>
+<th>30 days</th>
+<th>40 days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a. Alum 1:30<br/>without sodium bisulphite</td>
+<td>dissolved</td>
+<td>940%<br/>(sticky)</td>
+<td>760%</td>
+<td>740%</td>
+</tr>
+<tr>
+<td>b. Alum 1:30 +<br/>sodium bisulphite<br/>1:200</td>
+<td>sticky</td>
+<td>720%</td>
+<td>540%</td>
+<td>540%</td>
+</tr>
+</tbody>
+</table>
+
+The test shows that vulcanization is assisted by the presence of sodium bisulphite in the latex. The colour of the product is also improved.
+
+Among minor factors which influence the rate of vulcanization it was found that (a) colloidal zinc oxide gives slightly better results than the ordinary commercial product (b) certain dye-stuffs used for colouring the latex have a slight retarding effect (c) wetting agents vary in their effect on vulcanization.
+
+As a result of the trials a satisfactory method was worked out for the preparation of self vulcanizing crepe rubber and an outline is given below:
+
+### LATEX
+
+Fresh latex is diluted to a dry rubber content of 3 lb. per gallon and treated with 1 part of sodium bisulphite to 200 parts rubber, added in the form of 5 per cent solution.
+
+### VULCANIZING INGREDIENTS
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Quantities per<br/>100 lb. dry<br/>rubber</th>
+<th>Cost of<br/>ingredient<br/>per lb</th>
+<th>Cost per<br/>100 lb.<br/>rubber</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Rs. cts</th>
+<th>Rs. cts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Zinc Oxide</td>
+<td>3 lb.</td>
+<td>22</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Sulphur (special grade<br/>for latex mixings)</td>
+<td>1½ lb.</td>
+<td>08</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Z.D.C. or S.D.C. accelerator</td>
+<td>¾ lb.</td>
+<td>6.90</td>
+<td>5.17</td>
+</tr>
+<tr>
+<td>Colouring matter if required<br/>(Vulcafor)</td>
+<td>½ lb.</td>
+<td>5.00*</td>
+<td>2.50</td>
+</tr>
+</tbody>
+</table>
+
+\* colours vary in price.
+
+### WETTING INGREDIENT
+
+<table border="1">
+<tbody>
+<tr>
+<td>Vulcastab A paste</td>
+<td>¼ lb.</td>
+<td>1.00</td>
+<td>25</td>
+</tr>
+<tr>
+<td>or saponin</td>
+<td>1¼ oz.</td>
+<td>(5.00)</td>
+<td>(39)</td>
+</tr>
+<tr>
+<td colspan="4">(Dissolved in 1½ gallons water).</td>
+</tr>
+</tbody>
+</table>
+
+### COAGULANT
+
+<table border="1">
+<tbody>
+<tr>
+<td>Alum</td>
+<td>3¼ lb.</td>
+<td>35</td>
+<td>1.14</td>
+</tr>
+<tr>
+<td colspan="4">(Dissolved in 3¼ gallons water).</td>
+</tr>
+</tbody>
+</table>
+
+Total ... Rs. 9.84
+
+27------------------------------------------------
+
+364
+
+The amount of zinc oxide depends on the type of product and may be increased to 10-20 per cent. if white crepe is required or to give a softer tone to coloured rubber. The cost of the mixing can be further reduced by adding up to 33 per cent. of china clay. Other cheap fillers such as whiting have not been tried but would probably be satisfactory.
+
+The chemicals referred to (except saponin) can be obtained locally from Messrs. Imperial Chemical Industries Ltd.
+
+### **MIXING THE INGREDIENTS**
+
+Before adding the vulcanizing ingredients to the latex they must be ground up thoroughly into a cream with the solution of wetting agent. On a small experimental scale, such as when dealing with the quantities required for 1-2 gallons of latex, this can be done satisfactorily by grinding in a mortar but on a larger scale the operation is carried out in a ball grinding mill. Thorough mixing is essential to ensure uniform distribution of the ingredients in the latex.
+
+### **COAGULATION, MACHINING, ETC.**
+
+The vulcanizing mixture is slowly added to the latex and vigorously stirred to ensure thorough mixing and to prevent the powder settling. The alum solution is then added and stirring continued until the mixture thickens, which occurs within a few minutes. After an hour the mixture will be in the form of a thick paste but forms a coherent coagulum when stirred.
+
+It is preferable to machine the coagulum within a few hours, but it can be left overnight if required. The rubber is made into lace crepe in the ordinary way and hung to airdry. Drying is more rapid than with raw rubber and is usually completed within 3-4 days. Dry rolling should not be done until 12-14 days after preparation and the rubber may then be made up into laminated sheets by the usual Ceylon sole crepe method.
+
+### **THE PRODUCT**
+
+The material prepared by this method is similar in texture to Ceylon type sole crepe but is sufficiently vulcanized to be resistant to heat and sunlight and it absorbs water less readily than raw rubber. There is no commercial demand for the product at present but it appears to be a suitable material for
+
+28------------------------------------------------
+
+365
+
+use as table mats, bath mats etc. A similar product was made in Malaya a few years ago as a material for shoe soles but did not meet with great success owing to the increased cost of manufacture and the difficulty of disposal of trimmings.
+
+It is not the purpose of these notes to suggest that there is any substantial outlet for this particular material but rather to give an indication of the type of ingredients which are employed in latex compounding and the method of using them. It should be emphasised that accurate control of quantities and careful mixing of ingredients are essentials if satisfactory results are to be obtained. The proportions of sulphur and accelerator used in latex mixings should not usually exceed 2 per cent. and 1 per cent. respectively and the presence of a small quantity of zinc oxide is necessary to activate the accelerator, but the proportion of this and other fillers may be varied according to the type of product required.
+
+#### REFERENCES
+
+1. (1) J. R. Scott.—*I.R.I. Trans*: Vol. V, 1929 p. 95.
+2. (2) D. J. van Wijk.—*Kautschuk* Vol. IX, 1933, p. 18.
+
+29------------------------------------------------
+
+366
+
+## TEA CULTIVATION IN THE HIGHLANDS OF MALAYA\*
+
+THE possibilities of the cultivation of tea in the highlands of Malaya have been more or less freely ventilated for some considerable time past. Mr. M. J. Kennaway is to be congratulated as the pioneer of low-country tea in Malaya and it was, I think, Sir George Maxwell who first turned the eyes of the Malayan public to the possibilities of the Highlands region as a place for potential development and possible planting enterprises, and it was largely due to the vision of that energetic and far-sighted administrator that when the scheme for developing Cameron Highlands as a hill station was first envisaged by the Government provision was made for the establishment of an experiment station there which could try out in advance crops which seemed likely to be capable of successful exploitation, so that when the initial stages of development were over we should have definite information available concerning possibilities in this direction. Of all the crops which invited attention in this direction the most outstanding was tea, and in the work of the experiment station at Cameron Highlands tea has accordingly taken a leading part.
+
+Work on the experimental plantation at Cameron Highlands started in the year 1926 and between that time and now the place has been developed into an experimental station of about 100 acres in extent. Various *jâts* of Indian varieties of tea have been imported and established. The station has been laid out on approved lines in experimental areas to test various forms of treatment both of the bushes and the soil, and a small but complete tea factory has been erected with the object of investigating the quality of teas produced.
+
+One of the authors of this paper, who had some experience of lowland tea grown under Malayan conditions was sent to India and Ceylon for a period of six months to study intensively on the spot tea-growing conditions in those countries, and on his return was placed in charge of the work.
+
+The Department has been blamed for not making public the results of its experiments at an earlier date. The standpoint that was taken, however, was that in view of the importance of the question it was inexpedient that any publicity should be given to results before a reasonable degree of certitude could be held to be attached to them. By the year 1929 it had been successfully demonstrated that whatever might be the quality of the resulting product, one thing was certain and that was that tea would grow exceedingly well at the Highlands. On the strength of this one estate has established plantations on a considerable scale, the earliest plantings of which, it is anticipated, will come into plucking in the course of the next few months.
+
+---
+
+\*By H. A. Tempany and E. H. Curtler, being a paper read before the 9th Annual Conference of Planters at Taiping. Reproduced from *The Planters' Journal and Agriculturist*.
+
+30------------------------------------------------
+
+367
+
+It is hoped and believed that the enterprise exhibited by this pioneer undertaking will be justified, but in the meantime other developments have hung fire, awaiting, one presumes, a pronouncement on the subject as the result of the work already done. The total area under tea at this station is now approximately 39 acres. Of this only one field of 12 acres was planted during 1926, seven fields comprising 4.92 acres were planted during 1927, twenty-four fields totalling 17.12 acres during 1928, one field of .91 acres during 1929, seventeen fields totalling 10.96 acres during 1931, and five fields totalling 4.94 acres during 1932.
+
+The tea has been brought into bearing, on the average, after one year and nine months in the field.
+
+During the period under critical observations 23.07 acres have been in bearing. Of the 1931 planting 1.65 acres were brought into bearing last month.
+
+Fourteen different *jâts* of tea have been imported from Assam and established in the fields. A small area has been established from seed purchased locally, which was originally, we believe, a Ceylon *jât*. There are also a few bushes of China *jât* raised from local seed, and the area under this *jât* is at present being extended.
+
+### PLANTING DISTANCE
+
+The planting distance for new plantings is at present four by four feet. As soon as the seedlings are above pencil thickness they are centred to four inches, and the young bushes are then pruned every four to six months when the weather is suitable, one and a half to two inches above the old cut, so that they can be pruned to nine inches high about two months before they are brought into bearing.
+
+For the present three years has been taken as a standard interval to allow between the prunings of tea in bearing, the first pruning being twelve inches high and subsequent prunings one inch above the old cut.
+
+### PRUNING AND PLUCKING
+
+The present system of pruning mature tea is the "Rim Lung;" with this system all the outside branches are left at the time of pruning and are only cut down to the pruning level after the centre of the bush has established fresh leaves.
+
+The plucking is to take two leaves and the bud, leaving one leaf above the "fish" leaf. The plucking round varies from eight to ten days according to the prevalent weather conditions.
+
+All fields are manured and forked just as soon as the leaves have fallen from the pruned branches. This operation is repeated half way through the pruning cycle. The fertilizer applied is a general mixture containing both organic and inorganic nitrogen.
+
+To date no serious damage has been caused by diseases and pests. The area is periodically inspected and a few cases of root disease are usually found, but the removal of the sick bushes and burning of them acts as a control.
+
+31------------------------------------------------
+
+368
+
+Slight attacks of mosquito blight have occurred from time to time. Small areas have also been attacked by a caterpillar on two occasions; picking off and burning all attacked leaves has checked this pest with only a small loss of crop.
+
+The crop of tea harvested has increased considerably for each quarter during the last year. The average figure of yield per acre of made tea during the 3rd quarter of 1932 was fifty-five pounds, for the fourth quarter 76 lb., for the first quarter of 1933, 98 lb., and for the second quarter of 1933, 136 lb., making the total for the year 365 lb. per acre for tea which is on the average a little over three years in bearing.
+
+Working from the figures available it appears that one can expect at least 150 lb. per acre per annum during the first year in bearing, 250 lb. per acre in the second, 350 lb. in the third and 450 to 500 lb. in the fourth. We are therefore inclined to the opinion that tea in this area, carefully pruned and with systematic manuring and cultivation, will yield up to 700 lb. of made tea per acre per annum.
+
+### VARIETY TRIALS
+
+During the last year experiments have been laid down in the field to study variety trials, planting distances, pruning and manuring. All these treatments are in the form of a Latin square, with four treatments and four replications.
+
+Variety trials with seven *jâts* were planted during 1932. Unfortunately it was not possible to include other *jâts* as planting material was not available.
+
+The planting distance experiment was laid down in duplicate at the end of 1932, the four distances under experiment being four by four feet, four by three and a half, three and a half by three and a half, and three and a half by three. These give respectively, 2,722, 3,111, 3,556 and 4,148 plants per acre.
+
+The pruning experiment with mature tea is designed to obtain information as to the interval to allow to elapse between pruning 2, 4, 6 and 9 months between being under observation. In the other the amount of wood to leave between cuts is also under observation, half the area being pruned one inch and the other two inches above the previous cut. These two halves are again subdivided into equal portions, one portion of each being pruned every three months, and the other every six months.
+
+In all the above experiments one half of every plot is manured and the other retained as a control.
+
+### MANURIAL CONSTITUENTS
+
+An experiment has been laid down in the mature tea to find out which of the manurial constituents (nitrogen, phosphate and potash) is more important under Cameron Highlands conditions. A simpler experiment for the same purpose has been laid down in young tea.
+
+The question of the most economical amount of mixture to apply per acre is being studied in another experiment where varying amounts of a complete mixture has been applied.
+
+32------------------------------------------------
+
+369
+
+The important question of the use of organic nitrogenous fertiliser is being studied in two experiments. In one organic fertilisers are being compared with inorganic fertilisers in the other the comparison is between a green manure, Dadap (*Erythrina lithosperma*) and inorganic fertilisers. In both experiments the treatments are being tried separately and in combination.
+
+Some of the fields in the 1931 and 1932 clearings have been planted with Dadap so that general observations on this green manure may be made.
+
+In one field in the 1932 clearing *Crotalaria lanata* has been planted so that general comparisons can be made with Dadap.
+
+In so far as concerns the results of experiments on pruning and manuring the interval which has elapsed since they were laid down is far too short to enable any opinion to be expressed as yet. On the other hand our hearers will be able to see that definite information should in due course be forthcoming.
+
+Between 1930 and 1931 small experiments were undertaken on the manufacture of tea by hand rolling and firing on makeshift apparatus, but the results could not be relied upon to give any definite information, and in 1931 it was decided that the time was ripe to erect a small experimental factory with a view to investigating the manufacturing quality of the tea and problems connected therewith. The type of factory which it was decided to erect was quite small but it was designed in accordance with the general ideas in Ceylon and India; it is of the one-storey type. The equipment consisted of three banks each of seventeen *tats*. One bank has sufficient area for 190 lb. of green leaf if spread 1 lb. to 15 sq. ft or 238 lb. if spread 1 lb. to 12 sq. ft. the total capacity of the loft being 570 lb. at 15 sq. ft. or 713 lb. at 12 sq. ft.
+
+Hessian is used for the *tats* on two of the banks and "three-ply" (Malaply) on the other bank. Observations over four months indicate that there is no significant difference between the two materials. The very slight difference is in favour of hessian.
+
+A 30 "Blackman fan has been fitted at one end of the withering loft so that, when necessary, the hot air from the desiccator may be blown through the loft to expedite withering."
+
+There is only one roller, a "Little Giant" with a capacity of 60 lb. withered leaf per charge so that the withering loft holds sufficient leaf for six or seven charges of the roller, according to spread.
+
+The Tea roll breaker is of ample capacity to deal with the output of at least one more roller.
+
+The fermenting is carried out on cement slabs 2 feet above the floor, also on reinforced concrete shelves. The total area available for fermenting is 126 sq. ft. which when the loft has been filled to capacity at 15 sq. ft. per lb. allows space for the leaf to be spread 2 inches thick.
+
+The drying is carried out in a Colombo Commercial Co. desiccator which has a capacity of 350 lb. of made tea per day which is ample.
+
+33------------------------------------------------
+
+370
+
+The grading is all done with hand sieves made of various mesh wire according to the grade being sorted out.
+
+The single cylinder cutter has a capacity of 800 lb. of made tea per day which is more than ample.
+
+The factory is driven by a 4½ B.h.p. Lister Petrol engine.
+
+A 24 feet Blackman fan has recently arrived and will be installed in the drying room to draw off fluff when grading is in progress.
+
+A trial run of the factory was made in May, 1932. During the ensuing months tea making was carried on, but it was felt that it was undesirable to submit any samples for valuation until a certain amount of experience had been gained and the factory had settled down to work; and it was not until October, 1932, that it was judged that matters had proceeded sufficiently far to warrant samples being sent home for valuation. Since then a considerable number of samples have been despatched. From February this year it has been found possible to adopt the practice of sending home samples from each run of the factory approximately once a week, so as to obtain valuations which could be correlated with weather conditions and conditions in the factory. So far experimental work in the factory has been concentrated on the question of withering; when work was started it was found that unless weather was very favourable, conditions were such as to necessitate a long period of wither. As the result of this experience controlled withering was installed so that hot air from the desiccator could be used to expedite the wither when necessary.
+
+### FAVOURABLE REPORTS
+
+The results of these experiments were briefly outlined by the Chief Secretary in his speech delivered at the opening of the Agriculture Exhibition at Kuala Lumpur on the 5th instant and the following reproduces that statement with some amplification. In all some 20 samples have been sent home and reports on 14 of them have been received. These reports indicate that the manufacture of tea is on the whole satisfactory and faults revealed are mainly due to the smallness of the rolling plant and as such are inevitable. It should be pointed out that all samples are from bulk and not specially made small lots. It has not yet been possible to establish full correlation between conditions of manufacture and prices, but it is hoped that this may be possible later on. Trial shipments are now being arranged.
+
+In general character the teas are invariably reported to be deficient in the quality known as flavour. For the benefit of those who are unfamiliar with tea cultivation, I may explain that flavour is a quality which may perhaps best be described as a pungency which imparts to teas which possess it a particular value for blending purposes. Flavoured teas are usually produced on limited areas at relatively high elevation. It is considered that flavour is the result of a combination of seasonal and soil conditions and usually associated with areas in which there occur well marked winter periods. It is not altogether surprising that tea from Cameron Highlands has failed to show flavour because climatic conditions there prevailing are those of a more or less uniform range of temperature throughout the year with no well marked winter season. We cannot, however, definitely say whether flavour may not develop as the bushes age and
+
+34------------------------------------------------
+
+371
+
+under dry weather conditions, because the first six months of the year have been abnormally wet. On the other hand it is not regarded as probable that these teas will show flavour to a marked degree.
+
+On the other hand the Cameron Highlands teas show an abnormally high proportion of what is known as tip and this tends to enhance the price.
+
+### EXCELLENT SHOWING
+
+The valuations which have been received of the samples submitted have varied with the grade of tea; the weighted mean for all grades of the different consignments has ranged between 9.35d. per lb. and 11.51d. per lb. The average weighted mean for all consignments has been 10.26d. per lb.
+
+For comparison it may be stated that for the period 1st January to 1st June, 1933, the average prices for Indian teas have been 9.8d. for Northern India, 9.24d. for Southern India, 11.97d. for Ceylon, 6.83d. for Java, 6.2d. for Sumatra and 7.78d. for Nyasaland.
+
+On this showing we can safely conclude that Cameron Highlands teas are capable of competing on more or less equal terms with the ordinary run of tea from India and Ceylon, and that they are distinctly superior to the teas produced in Java, Sumatra and Nyasaland.
+
+From all this you will see that there is reasonable ground for believing that tea growing in the Highlands possesses commercial possibilities. They are not perhaps attractive as some sanguine optimists may have at times imagined they would be, but under normal conditions tea growing could be undertaken in the Highlands with fair prospects of success. At the present time there is a surplus of tea on the markets of the world and this led to the inception of the recent Tea Restriction Scheme between India, Ceylon and the Netherlands East Indies and in these circumstances any marked developments in tea growing in the Highlands of Malaya will probably not be regarded favourably by the parties to the scheme; at the same time there does not seem to be any doubt that the Highlands of Malaya do possess potentialities for the growing of upland teas. Our knowledge of the Highlands is not yet sufficient to enable us to say what area of land is suitable for tea cultivation. Some parts of the Highlands are too steeply sloping for the cultivation of tea; but even making allowance for this there seems no reason to doubt that several thousand acres of more or less suitable land exist.
+
+We have endeavoured in the foregoing to place before you an outline of information on this subject; we do not wish to appear unduly optimistic and no doubt there may be many difficulties to be overcome nevertheless, and making allowance for this it seems clear that the prospects for the cultivation of tea under these conditions are reasonably favourable provided that any developments do not further adversely affect the already unfavourable market conditions and are not too severely handicapped by labour shortages, and particularly the need for trained labour, which it must be admitted may complicate the situation.
+
+35------------------------------------------------
+
+372
+
+## THE CLIMATIC AND SOIL REQUIREMENTS OF TEA\*
+
+THE distribution of tea cultivation in the world is at first sight peculiar. On the one hand, the crop seems not at all precise in its demands in the matter of climate, for it is found from comparatively far north, where frost is common and more or less temperate conditions prevail, to the immediate neighbourhood of the equator, where it is cultivated on a very large scale. On the other hand, its cultivation is curiously restricted for with the exception of recent plantings in Africa and Russian Georgia, it is hardly found anywhere as a commercial crop save in the south-east of Asia and the islands adjoining this region. There is no commercial cultivation as yet on the American continent (though there seem to be possibilities of development in Brazil), or in south Europe; and in Africa it has so far been grown only in the eastern half of the continent.
+
+Tea growing is limited by labour considerations as well as by those of climate and soil; it demands more hand-labour per acre than almost any other tropical cultivation and this hand-labour must be cheap if the cultivation is to be profitable. Such cheap labour is available in precisely those portions of the world where tea cultivation has become established. Despite this fact, it is at least curious that the distribution of one of the most profitable of tropical and semi-tropical crops should be so limited.
+
+One reason for the present distribution lies in the centre from which the plant has spread. The original home of the tea plant is believed to be the great mountain area of further India, between India, Burma and China. In the mountain valleys of this area there are still whole districts where tea trees abound in the forest growths. From this centre, the plant appears to have spread to China, and, more slowly, it became commonly used by the hill peoples of the Shan States, the Naga and other adjoining hills, and, to a certain extent, in the Irrawaddy and Brahmaputra valleys. The principal spread was, however, to the north, and, in China, tea became at a very early date one of the characteristic cultivations of the country. From this centre in China, the prepared product was distributed in varying degrees to all parts of the civilized world. Up to the 'thirties of the last century, the production of tea on a commercial scale was exclusively carried on in China, and, in fact, it was believed by many that a drinkable tea could only be produced in that country. Between 1830 and 1840, however, tea was cultivated experimentally in several parts of India and Java. Some of these experiments succeeded far beyond the hopes of the pioneers; others failed completely; whilst in other areas tea growing has maintained a feeble existence and has not expanded. The centres of greatest success were Assam and, in
+
+\* By Harold H. Mann, formerly Scientific Officer to the Indian Tea Association, now, Assistant Director, Woburn Experimental Station in *The Empire Journal of Experimental Agriculture*, Vol. 1, No. 3, September, 1933.
+
+36------------------------------------------------
+
+373
+
+fact, all the north-east corner of India, to a less extent the Nilgiri mountains in south India, at a later date Ceylon and Travancore, and finally Java and Sumatra in the East Indies. The areas where tea is still grown, but where the cultivation has languished, may well be represented by the Himalayan tea-districts of India, which lie to the west of Darjeeling, such as Kumaon, Kangra and Dehra Dun. Outside India, Natal is in a similar position. In America, as already stated, there is at present no commercial tea cultivation of any importance. In Russia, where tea has been grown for only thirty to forty years, the cultivation has but recently been extended, and it may still be regarded as experimental. In Africa, a flourishing though small tea industry exists in Nyasaland, and a similar small industry is becoming established in Kenya.
+
+In certain directions the tea plant may be said to be very tolerant of considerable variations in climate; in others it is most precise in its demands. The conditions which are found in all areas where tea cultivation is an established success are detailed below, and the suitability of an area can be determined by seeing how far the conditions in that area approach these ideal requirements:
+
+(1) There should be rarely a month during the year when some rain does not fall, and as a result, the soil should never become dry for more than a very short distance below the surface.
+
+(2) The total rainfall during the year should exceed 60 in.; in the best areas it is considerably higher. At greater elevations and in more temperate conditions, less rainfall is required than where really tropical conditions prevail.
+
+(3) The minimum temperature of the year should never fall below freezing-point, and if it does, such occurrences should happen infrequently and at night only. This demand is not absolute, but if the winter temperature is more severe than that specified, only the northern or China varieties can be cultivated successfully.
+
+(4) The shade temperature at the hottest time of the year should not much exceed 90° F., and when high temperatures occur the relative humidity of the atmosphere should also be high. The conjunction of a high temperature and a dry atmosphere at any time of the year is very dangerous, and its occurrence very substantially limits the extension of successful tea cultivation.
+
+(5) The daily range of temperature should be small, even in the cold weather, and particularly small during the season when growth is most vigorous.
+
+(6) The absence of strong, and especially of strong and dry winds at any time of the year is important.
+
+Naturally, these points are not all of equal moment, and the absence of some of them can be made good by changes in the method of cultivation; but it will be seen that we are dealing with a crop whose range is necessarily limited.
+
+For successful cultivation, tea has, as shown above, certain well-defined requirements in regard to climate. Similar restrictive conditions exist in regard to soils. There are, in point of fact, certain characteristics of tea
+
+37------------------------------------------------
+
+374
+
+soils, relating to both physical condition and chemical composition, which seem to be absolutely essential if really satisfactory and permanent tea cultivations are to thrive. If these essential conditions are satisfied, then tea will grow well in varied types of soil; if not, the apparently most favourable situations will spell failure.
+
+Tea is grown on alluvial or sedentary soils. Most of the important tea estates in north-east India lie on practically flat alluvial land, some of rather old types and the remainder of quite recent deposition. The tea of Ceylon and also of south India is grown on sedentary soils that are mainly derived from gneiss and granite. The same is the case in Sumatra. In Java, the chief tea areas possess soils which lie on volcanic rocks, and on volcanic rocks of rather varying types. In Africa, tea is grown successfully in Nyasaland on alluvial soils that were directly washed from a great gneissic massif, and equally well on sedentary gneissic soils. Further, tea thrives well on red soils, which are most frequent in Ceylon, south India, and on the older alluvial areas of Assam, the Duars, and other parts of north India. It is equally successful on many purely grey soils in close proximity to the red soils. The largest annual yields of tea have probably been obtained from tea planted on well-drained peat several feet deep in Cachar and Sylhet.
+
+The special soil characteristics that are really essential for successful tea cultivation may now be discussed. The first of these is a deep soil, and the depth should be greater as the liability to drought increases. Such a deep soil is not of great value unless the tea bushes can force their roots well into the subsoil. There seems little doubt that the capacity of a tea bush to penetrate a hard or sticky subsoil is limited, and very few perennial plants have so little power of penetrating an unsuitable layer of subsoil—whether this unsuitability is caused by hardness, stiffness, or lack of drainage—as has the tea bush. This does not mean that tea can never be grown on soils with a subsoil into which tea roots cannot easily penetrate, for many very successful tea estates exist where the subsoil inhibits the formation of deep roots either of tea or of any other plant growing on them. However, such tea estates in actual practice are very liable to drought; they depend for their success on the great richness of the surface soil, and are liable to very rapid deterioration. Apart from such exceptional cases, it may be said that soils likely to be suitable for tea should be deep with the lower layers porous, well-drained, and easily penetrable by tea roots. It is possible that hard subsoils may be opened by the use of shade trees planted amongst the tea, and the value of such trees in assisting the penetration of tea roots to considerable depths is gradually being recognized.
+
+The normal development of the roots of the tea plant under conditions of ordinary cultivation may be said usually to consist of a deep tap-root or deep secondary roots, whose primary purpose appears to be to absorb the water that the plant needs, and a series of sub-surface roots, which are normally found from 4 to 6 in. below the surface of the soil, if the tea bush is properly planted. To obtain this type of root-development, it is clear that only soils in which the ordinary forest or jungle growth is found to penetrate deeply into the subsoil should be selected. If the roots of jungle trees do not penetrate deeply, it is necessary to examine whether there is any sign of waterlogging of the subsoil either from springs in the
+
+38------------------------------------------------
+
+375
+
+ground or from other causes. If there is the least sign of the subsoil being waterlogged at any time of the year, it will be necessary, if successful tea cultivation is to be carried on, to arrange for thorough drainage of the land to a depth of at least 3 ft., for the purpose not only of taking away the surface water, but also of removing the tendency of water to accumulate in the subsoil. The importance of the easy penetrability of the subsoil must be insisted upon, because there have been, all over the world, very frequent disappointments from planting tea where the subsoil conditions have either not been naturally satisfactory or have not been made so before the planting was begun.
+
+From the chemical point of view, good tea soils must fulfil the following two requirements: (1) the soil should not contain more than a trace of lime, and (2) the soil must be definitely acid.
+
+The presence of more than very small amounts of lime in the soil, at least in the form of carbonate of lime, seems almost fatal to the tea plant. There are cases on record in which lime is said to have been used successfully as a manure in tea gardens, but such records are very few, and in the vast majority of cases the addition of lime—which has so frequently been recommended by chemists after analysing the soils—has either had no effect at all or it has been actually injurious to the crop. In a recent exhaustive examination of the results of applying lime to healthy tea on a fairly acid soil in Assam, Carpenter, Cooper, and Harler showed that in no case was there any benefit from the use of lime, although the available lime (i.e. the amount extractable by 1 per cent. citric acid) was less than 0.05 per cent. They claim, but without giving the evidence, that lime has proved useful when peaty material has been used as a tea manure and the tea has subsequently deteriorated. The latest evidence is that of Prillwitz, who states (1932) that in no case, in all his experiments, has manuring with lime had any favourable effect on the growth of the plants. On the other hand, I have myself recorded successful tea where the lime-content of the soil, as extracted by hydrochloric acid, was above 0.5 per cent., but this, I believe, is the maximum ever recorded. The average amount of lime extractable by hydrochloric acid in good tea soils, in the main tea districts of north-east India, does not exceed 0.12 per cent. Further if in any area where tea is being planted there happens to be a patch of soil where lime occurs in more than a very small percentage, the tea growing, if it grows at all, upon such a patch of soil is invariably very inferior. In this case, it is not yet clear whether it is the presence of more than a trace of lime that is the evil influence, or whether it is chiefly an indicator of too little acidity for tea. The fact that the tea plant is definitely a calcifuge must never be forgotten in selecting areas for tea cultivation.
+
+The other special need of a tea soil is that it should have an acid reaction. It is unlikely that tea cultivation will be a commercial success in any soil which has a pH value exceeding 6.0, although Eden has recently recorded some good tea soils in Ceylon with a pH value slightly higher than this; in one case going up to pH 7.3. Such cases are so exceptional, however, that they need a much closer examination than has been given to them before they can be accepted without reserve.
+
+39------------------------------------------------
+
+376
+
+The ideal pH value for a tea soil probably lies somewhere between 5.2 and 5.6, though many successful tea soils have a much lower value than this. One case is recorded by Carpenter in which good tea was growing in soil of pH value 3.6. The scientific workers of the Indian Tea Association in Assam consider that great importance should be assigned to the difference between the pH value of the soil in water solution and that obtained in a normal solution of potassium nitrate. The latter always, of course, tends to give the higher acidity, and the difference between the two values is termed the 'reserve acidity'. If this is large, the soil is likely to be a good tea soil, provided the original pH value in water solution is within the suitable limits; if the difference is small, there is less certainty.
+
+The effects on the tea plant of soil that is either definitely alkaline or insufficiently acid have been indicated by Eden in a recent publication. He contends that soil alkalinity leads to failure of the main axis of the plant to elongate, to the leaf-buds being crowded together, and to the tailing-off of the leaves at an early stage, leaving many scars close together. Often only leaves near the growing-point are left and side-shoots are absent. The effect on the roots is stated to be equally remarkable. In bad cases, there are no tap-roots, the appearance being as if these had been bitten off. Lateral roots are few and concentrated at the bitten-off points. There are few root-hairs and these are discoloured and brittle.
+
+The whole question of the acidity of tea soils is so important that it would appear that the first test to be made on any soil intended for tea cultivation should be the determination of the pH value of the soil and subsoil. This matter is of peculiar interest in the case of tea, as no other crop seems to be so precise in its demands. The importance of the matter may be illustrated by the fact that the existence, for any length of time, of a native hut on a piece of ground, especially if cattle have been kept round the hut, will usually cause the acidity to decrease to such an extent as to make the growth of successful tea almost impossible on such areas.
+
+We have thus, as definite requirements for tea cultivation, a surface soil normally rich, containing only traces of lime—at least in the form of calcium carbonate—and possessing a definitely acid reaction. Such a soil should have a subsoil that is porous, easily penetrable, and well-drained. If these requirements are met, and the climate is suitable, tea will grow, and grow well, though of course the vigour of growth will depend on the richness in ordinary plant-food of the surface soil, say to a depth of 8 or 10 in.
+
+So far as the requirements of ordinary plant-foods are concerned, it has long been recognized that the vigour of tea depends largely on the abundance of available nitrogen, an abundance which is usually secured, at any rate in virgin tea soils, by the presence of large quantities of organic matter. A large excess of nitrogen, either in organic or other forms, seems, however, to be disastrous to the quality of the tea produced. Cooper in a recent paper states that on the soils with which he was working in Assam he found he could add each year 40 lb. of available nitrogen and no other fertilizers without reducing quality, but if more nitrogen were used, then phosphoric acid and potash would have to be
+
+40------------------------------------------------
+
+377
+
+applied if quality was not to suffer. It seems clear, in fact, that if the content of organic matter in soils used for tea exceeds a certain limit, and is thus able to provide more nitrogen than corresponds to the phosphoric acid and potash available, then the quality of the tea produced will decline. This happens, for instance, when tea is grown on peat soils, on which the yield is very high, but despite every effort to pluck and manufacture properly, nobody has succeeded in producing anything better than a common grade of tea. The same appears to be true to a less extent in growing tea at high elevations near the Equator. Here the soil is nearly always initially very well provided with organic matter, and hence with a larger proportion of nitrogen relative to the other manurial constituents. As a result, the quality of the tea produced under such conditions during the first years of an estate is generally lower than that which can be obtained later on.
+
+Apart from this point, the relationship of the soil on which tea is grown to the quality of the product is still very little understood. So long ago as 1907, I suggested that my analyses of the tea soils of north-east India indicated that there was a close correlation between the amount of phosphoric acid in the non-silicate portions of the soil and the quality of tea likely to be produced. Though the areas indicated at that time as likely to be capable of giving improved quality have since justified the prediction, it cannot yet be stated that there is any certainty as to a real connexion between the phosphoric acid in the soil and the quality of the tea produced. Recent opinions have been expressed by Cooper and Carpenter that the presence of this constituent has no effect on quality, and by Carpenter that phosphoric acid 'tends to steady up the flushing and in that manner makes for slower growth and better tea'. He also says, however, that it is the general opinion that much of this plant-food makes for stalky teas. The whole question of the influence of the phosphoric-acid content of the soil on the quality of tea must be regarded for the present as uncertain, and it should be the subject of further research.
+
+The influence of available potash in the soil on the healthiness of the tea bush and on the quality of tea has also been the subject both of speculation and of experiment. As a result, it seems to have been found that potash in abundance tends to keep the tea bushes free from lingsus attack, and to prolong the growing period, so that the bushes provide a supply of leaf later in the season than would otherwise be the case. The importance of abundant potash in tea soils, as a means of resisting the greatest insect pest of tea, the so-called 'mosquito bug' (*Helopeltis* sp.), has been stressed by Andrews, who regards the ratio of available potash to available phosphoric acid as a significant factor in determining the liability of an area of tea to attack by this pest. Tunstall has suggested that abundant potash in the soil leads to storage of starchy material in the frame of the tea bush at the end of the season, and that this reserve of starch tends to give a more healthy growth early in the following season when the bushes are recovering from pruning. On the other hand, in Ceylon the importance of excess of available potash is not considered to be great, and Eden has reported recent experiments indicating no response to potash manuring.
+
+The whole question of the importance of a large amount of available potash in the soil must still be considered as in a state of flux, though the indications are that it may at least play a part in the maintenance of a healthy bush.
+
+41------------------------------------------------
+
+378
+
+Other constituents of the soil have from time to time been credited with special importance for the healthy growth of the tea bush or for the quality of the tea produced. Thus Bamber considered that there was a clear relationship between the amount of the lower oxide of iron in tea and the quality of tea. Further investigation has, however, failed to confirm his views, and there is insufficient evidence to suggest that importance should be attached to this constituent of tea soils.
+
+Again, repeated suggestions have been made that the presence in the soil of assimilable manganese has something to do with the high quality of tea from certain districts, and Bamber seemed to think that addition of manganese to the soil caused infusions made from the leaf produced to have a brighter appearance. In the early days of the investigation of tea soils, Nanninga showed that the effect of manganese, when present in varying quantities in the soil, is most marked on the composition of the tea leaf. However, this matter has not really been followed up, and much more experimental work is required before it can be accepted that tea quality should be connected with the available amount of manganese in the soil.
+
+The possibility of magnesia starvation has been referred to in connexion with tea soils in Nyasaland, where the deficiency of magnesia in tobacco soils seems to have been proved, but at present the evidence is insufficient to support the view that such deficiency is anything but a very rare phenomenon.
+
+On the other hand, recent work seems to show that a deficiency of sulphur may be the cause of tea not flourishing in many areas and may give rise to a specific affection of tea known in Nyasaland as "tea yellows". This disease, which has been investigated recently in Africa by Storey and Leach and may be more widespread than has been generally recognized, seems to be definitely caused by lack of sulphur in the soil. It can be rapidly cured either by the use of sulphur itself or by manuring with sulphates, whether in the form of sulphate of ammonia, sulphate of potash, or even sulphate of magnesia.
+
+This survey of our present knowledge of certain aspects of tea soils in the principal tea-growing areas of the world shows, if nothing else, how fragmentary is our real knowledge of the requirements of tea soils for giving large yields, for producing healthy growth, or for giving a high-quality product. Experimental stations now exist in most of the great tea-growing areas of the world, and these should considerably add to our knowledge in the near future. The matter is obviously of great importance to the future of what is one of the most extensive tropical and semi-tropical cultivations of the world, for all the work hitherto done in connexion with tea soils still leaves us with a totally inadequate knowledge of the relationships of the soil conditions to, at least, the quality of tea likely to be produced, and to the healthiness of the bushes which produce the tea.
+
+42------------------------------------------------
+
+379
+
+## SPRAYING OF COFFEE\*
+
+### HISTORICAL
+
+**P**ROBABLY, the first mention of spraying against fungus disease in tropical countries was made in Ceylon and Java in connection with the serious ravages of Leaf Disease, *Hemileia vastatrix*. In Ceylon, Bordeaux mixture does not appear to have been tried though various other mixtures including lime-sulphur were suggested but none gave sufficiently favourable results to lead to any extended use.
+
+In Java, where investigations were carried on after the appearance of Millardet's work in Europe, Bordeaux mixture was tried and was found effective in checking the disease to some extent. The opinion of the investigators was unanimous, however, in regarding spraying as impracticable under estate conditions and the transference of attention to resistant varieties and species of coffee did not encourage further investigation.
+
+It is thus clear that the ability of Bordeaux mixture to mitigate Leaf Disease in coffee was recognised as long ago as 1886, when Burck first investigated the disease in Java. The general opinion of its impracticability on a large scale prevented its becoming an estate method of control.
+
+The enormous reduction of coffee producing areas in Ceylon and South India, and the replacement of Arabica coffee by various resistant coffee types in Java during the 25 years following Burck's work did not tend to encourage further investigation on the use of fungicides against Leaf Disease. Writers, such as Delacroix describing tropical plant diseases certainly wrote of Bordeaux mixture as a means of controlling coffee Leaf Disease, but there is little evidence that such recommendations were ever translated into estate practice. The difficulties of water supply, spraying machinery and application seemed in those days insurmountable. It is doubtful whether those who recommended the use of Bordeaux mixture envisaged more than the spraying of a few acres where the disease happened to occur with a special virulence.
+
+As far as South India is concerned, interest in spraying plantation crops was re-awakened by the results obtained by Coleman against the *Phytophthora* disease of areca. His experiments were started in 1908 and demonstrated that Bordeaux mixture was an effective means of control, and, what is of greater importance, that spraying areca palms was practicable in gardens of normal size in Mysore. This must be regarded as the first application of Bordeaux spraying to South Indian crops.
+
+The study of the effect of spraying against coffee Black Rot was taken up shortly afterwards and the first experiments were started in Koppa in 1911 by the Mysore Department of Agriculture. The work was continued in the following years by the Department and the value of spraying against the disease was also studied by *Frattini* from 1914 to 1917.
+
+\* Extracted from Department of Agriculture, Mysore State, Coffee Experiment Station, Bulletin No. 9, 1933.
+
+43------------------------------------------------
+
+380
+
+They showed that Bordeaux spraying was very effective in the control of Black Rot. Definite recommendations were made by Coleman, Venkata Rao and Narasimhan in their bulletin on Black Rot published in 1923. In this connection mention must be made of the work of Mr. T. Narasinga Rao of Chikmagalur in testing out spraying against Black Rot under the auspices of the Mysore Agricultural and Experimental Union.
+
+Turning to Leaf Disease, the earliest records of the application of Bordeaux spraying to the control of this disease is contained in an article in the Journal of the "Mysore Agricultural and Experimental Union" in 1920 where Dr. Coleman communicated a letter from Mr. H. Kerr of Kotnencool Estate in the Bababudans detailing his experiments. Mr. Kerr first started spraying against Leaf Disease in 1917 and the results were so successful that over 75 per cent. of the estate (95 acres) was sprayed in 1918 and over 60 per cent. in 1919 and 1920. Some time shortly after wards, the estate was sold and no further reports are available. In the Bababudans, the interest in spraying against Leaf Disease was maintained by Messrs. Denne and Oliver who started spraying at about this time.
+
+Spraying against Leaf Disease was carried on to some extent in the Bababudans during the next 6 or 7 years, after which it became more general. Mr. Kerr's spraying must be regarded as the first on an estate scale carried on systematically over several years. It is interesting to note that his costs, at Rs. 19 per acre, differ but slightly from present day costs for a full strength mixture (5-5-50).
+
+In the years following 1920, a considerable amount of work was done on spraying against Black Rot and Leaf Disease in Coorg and Mysore. For a number of years, however, it did not get beyond the experimental stages, largely on account of the practical difficulties.
+
+A spraying experiment was included in the activities of the Sidapur Experiment Station from 1920 and continued until the work was closed in 1926. Munro reporting on the experiments in 1926 stated "Spraying is the most useful method of increasing crop in old coffee."
+
+Experiments on a somewhat larger scale were started at Purchikadu Estate in Coorg at the suggestion of Anstead in 1922 and a report presented in 1923 by Munro. From this experiment, it was concluded that spraying led to a marked improvement in yield and in appearance of the coffee and that a mixture of 5 lbs. copper sulphate and 5 lbs. of lime in 50 gallons of water was sufficiently strong. A still weaker strength appeared fairly satisfactory but was not recommended as the trials had been in progress for too short a time. Apart from a reference by the Madras Government Mycologist, some months later in 1923, the only further report on the experiments appeared in the Sidapur Station Report for 1923-24.
+
+In Mysore, the Report of the Agricultural Department for 1924-25 stated that demonstrations were carried out in Koppa, Mudgere, Chikmagalur and Saklespur Taluks on a total of about seven acres, and that materials were sold to four planters sufficient for spraying 30 acres. This spraying was undertaken primarily as a means of Black Rot control.
+
+44------------------------------------------------
+
+381
+
+The first revival of interest in spraying against Leaf Disease following the experiments of Munro seems to have occurred in the Shevaroy District in 1925, when 14 acres were sprayed in July of that year with 2-gallon holder sprayers. In the following year, two estates attempted to spray their whole acreage. This attempt raised the problem of the most suitable type of sprayer, as for large areas the 2-gallon pressure sprayer did not prove itself entirely satisfactory.
+
+The work in the Shevaroys aroused considerable interest and in response to requests, Mr. E. H. A. Travers-Drapes summarized his experiences in the *Planters' Chronicle*.
+
+Spraying, as a result of the work of the Mysore Department of Agriculture with respect principally to Black Rot, and of Munro, and planters in the Shevaroys with respect to Leaf Disease showed a steady increase in popularity from that time but the acreages done annually remained small. The problem was almost entirely one of suitable machinery as the Holder 2-gallon Knapsack sprayer did not give a very even spray and involved considerable waste of lime in filling and pumping with a consequent increase in labour requirements.
+
+The solution of this problem was provided by the experience of rubber planters who had adopted spraying against secondary Leaf Fall on the advice of Ashplant in 1924. They had used Drake and Fletcher's double suction pumps with lengths of hose and spray rods and found them highly satisfactory. It was realised about 1927 that this type of sprayer could be used with advantage on coffee, if the long spray rod was replaced by a shorter one and experiments were carried out successfully with this sprayer by Munro in 1927. This type of sprayer came into use in Mysore, as a result of its introduction by Mr. Walmsley in 1927 and its advent was quickly followed by a very rapid extension of spraying both in Mysore and in other districts including those where but little spraying had previously been attempted. With regard to Mysore, the rate of spread can be realised from Dr. Coleman's remarks in the first bulletin of the Mysore Coffee Experiment Station. He wrote (1930) "Three years ago, there could not have been more than 500 acres of coffee sprayed in the State. During the present year, the area has risen to more than 5,000 acres which must have led to an increase in the value of the crop by at least Rs. 4 lakhs."
+
+Further developments in the improvement of methods, materials and machinery, in more accurate timing of spraying, and observations on other diseases in connection with which spraying has been found advantageous, form the subject matter of the present bulletin.
+
+### BLACK ROT
+
+[*Corticium Koleroga* (Cooke) von Hohn]
+
+The outbreak of this disease occurs in areas where the rainfall is heavy, approximating to a total of 80 to 100 inches. In estates with a rainfall of 60 inches, the attack is not serious. More, than a high precipitation, a heavily moisture laden atmosphere with no dry spells, is conducive to the spread of the disease. The disease breaks out in its worst form, in portions of an estate, sheltered from the wind where the mist hangs heavily.
+
+45------------------------------------------------
+
+382
+
+The chief symptom of the disease is the blackening of the affected leaves, which hang suspended by fungus strands. The presence of a fungus web, which grows over the lower surface of the leaves and over the berries, and which consists of a mass of closely woven mycelium, is easily seen when the leaves are fairly dry. On the petioles and small branches, the film constricts itself into a compact ribbon of parallel hyphae.
+
+The course of the disease may be divided into two definite stages, the early spore stage and the late sclerotial stage. Early during the outbreak of the disease, the fungus gives rise to innumerable round or oval structures each of which produces four elongated, club-shaped, minute spores borne on the tips of slender threads. These spores are not easily made out owing to the fact that they get readily detached and washed off by the rain. The rapid spread of the disease during monsoon weather is mainly by means of these spores. At this stage, the fungus develops on the leaf as a surface film, which can be easily peeled off when wet. Later, in the course of development, the lower surface of the affected leaf appears to be studded with a large number of clumps made up of closely compacted fungus threads (microsclerotia). It is only at this stage that the fungus enters into the leaf tissues and causes the characteristic blackening. The cause of blackening of the leaf has not been clearly understood hitherto, as the fungus has been believed to have only surface growth. As observed by one of us, the penetration of the tissues by the fungus takes place at the time of the formation of the fungus clumps, and the blackening is probably caused by the secretion of toxic substances by the fungus at this time. The fungal clumps enable the fungus to tide over the hot weather, and form the chief source of infection during the following monsoon as they send out a fresh growth as soon as favourable conditions of moisture return.
+
+As during the early stages of growth this fungus lives on the surface of leaves, twigs and berries, it can be controlled by spraying with remarkable ease. As Black Rot is a disease practically confined to that season of the year covered by the south-west monsoon, one efficient and thorough spray applied immediately before the beginning of that monsoon is sufficient to ensure almost absolute protection from this disease.
+
+### LEAF DISEASE
+
+Coffee Leaf Disease (*Hemileia vastatrix*) presents an entirely different problem from Black Rot. It differs in its relation to the leaf it infects and in its relation to the climatic conditions which determine the rise and fall of both diseases. It is in a sense almost accidental that both diseases are controllable, at least, in a part by one of the two usual spray applications.
+
+In order to understand the problem of control presented by Leaf Disease, some preliminary account of the disease itself is necessary. The ordinary appearance of a diseased leaf in the field is familiar to all coffee planters but the history of the origin and development of the disease spots is less well known and it is on a knowledge of this that successful control measures must be based.
+
+The Leaf Disease pustules found as orange yellow spots on the lower side of a coffee leaf represent the reproductive stage of the fungus, the orange yellow dust powder which covers these spots being the reproductive bodies or spores. From an individual spore, we may trace the history of a diseased spot. The spores consist of minute kidney-shaped
+
+46------------------------------------------------
+
+383
+
+bodies provided with a stout wall ornamented with spinelike projections on the convex surface. They become detached when they are ripe and can be transported by wind, animals or insects or washed down by rain from one place to another. Naturally, the wastage of these spores is colossal, as only these which happen to find a resting place on the under side of a coffee leaf are able to produce a fresh disease spot. Those which fail to reach such a situation have no further importance as far as the disease is concerned.
+
+The spores which reach the under surface of the coffee leaf under certain conditions of light and moisture, proceed to germinate by pushing out a narrow tube which grows until it reaches one of the stomata or pores which are present all over the lower surface of the leaf. Having reached the stoma, the end of the germ tube swells up and then sends a fine infection hypha down into the air spaces in the interior of the leaf. The protoplasm filling the germ tube soon flows into the infection hypha and from it into the branches formed inside the leaf. This leaves nothing but the empty spore and germ tube wall on the exterior surface of the leaf.
+
+Spore germination studies and studies of the preliminary stages of infection have shown that for spore germination, the presence of water droplets on the leaf surface is necessary and at least during the first stages of germination, the presence of bright light prevents development. This is clearly shown by some spore germination experiments carried out in 1931 which were reported in the Annual Report of the Coffee Scientific Officer, 1931-32. The results of a typical experiment are shown in Table 1.
+
+*Table 1.—Showing the Effect of Light and Darkness  
+on Spore Germination*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Per cent. germination</th>
+<th>No. of tests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">1. Light (north window)</td>
+<td>...</td>
+<td>2.0</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>1.2</td>
+<td>3</td>
+</tr>
+<tr>
+<td rowspan="2">2. Darkness (closed cupboard)</td>
+<td>...</td>
+<td>49.2</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>38.1</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+The experiments were carried out by dusting spores of the fungus on drops of water on glass slides enclosed in moist chambers. Half of the moist chambers were placed in a dark cupboard and the other half kept on a bench in the light from a north window. The percentage germination was determined by counting the germinated spores after 24 hours. Other experiments suggested that this almost total inhibition of germination occurred only with bright light. Dull light, such as, occurred on a shelf away from the window did not have such a strong effect. The work was somewhat handicapped by technical difficulties so that there is yet no evidence as to the limits of light intensity within which no depression of amount of germination takes place. The commencement germ tube formation occurs three or four hours after the spore has come in contact with the water drop, though the actual time will vary with the condition of temperature. The whole process of penetration of the leaf is completed in about 24 hours.
+
+47------------------------------------------------
+
+384
+
+The fungus continues its growth in the air spaces of the leaf and proceeds to put out short branches which penetrate into the leaf cells and extract nourishment for the further development of the fungus. This growth and development goes on for about ten days, when a visible indication of the fungus in the leaf appears in the shape of a minute yellow spot on the lower leaf surface. This yellow spot increases in size and visibility and about the sixteenth day the first signs of the production of the spores can be seen on it. During this period, the fungus in the interior has been massing hyphae under the stomata in the centre of the yellow spot and from these masses branches are put through the stomata and spores formed on them. The life cycle is completed and fresh spores are available for the further spread of the disease.
+
+Like all plant diseases caused by fungi, Leaf Disease is influenced in various ways by climatic conditions and the influence of these conditions determines the severity of the attack. The situation is complicated, however, by the fact that the same climatic conditions may affect different stages in the life cycle in different ways. A considerable mass of data both from field and laboratory work has been accumulated during the last two years on the question of the effects of climatic conditions of Leaf Disease. While a good deal yet remains to be learnt, certain general conclusions have been reached which have a direct bearing on the problem of control by spraying and these will be summarised here.
+
+The main climatic factors may be considered as rainfall, humidity, wind, light and temperature, and some or all of these may affect spore distribution, spore germination, leaf infection, vegetative development within the leaf and spore production.
+
+It has been said above that spore germination requires the presence of liquid water on the under surface of the leaf and the absence of light. The requisite water may be provided by rain or, even more efficiently by mist and dew, while the necessary conditions of darkness are provided during the night. It is at once clear that Leaf Disease can be active whenever there is rain or heavy mists or dew. The actual duration of such periods in the year will vary widely in different districts but it is obvious that the periods will be sensibly longer than those which are suitable for the development of Black Rot. At the Coffee Experimental Station, Balehonnur, favourable conditions for Leaf Disease may be considered to extend in greater or less degree from April until December.
+
+Spore distribution is affected by wind and rain. Strong wind causes a wide dissemination of spores which means a wide distribution of the disease if conditions are favourable for spore germination, but at the same time it hinders the development of severe localized attacks of the disease. Rain affects distribution in that if it is heavy and continuous, large numbers of spores are washed off the pustules and are lost in the soil, or spores are water-logged and soaked so that their power of germination is greatly reduced.
+
+The effect of climatic conditions on the growth and development of the disease within the leaf is less easy to study and has so far received less attention as the problem is greatly complicated by the simultaneous effect of the climatic conditions on the normal functions of the leaf and their interaction on the development of the fungus. There is however, a little
+
+48------------------------------------------------
+
+385
+
+evidence to suggest that spore development is hindered by low light intensity and also perhaps by low temperatures. Humidity also probably plays a part in determining the rate of spore production but this question has received no attention as yet.
+
+These conclusions, coupled with detailed observations extending over two years enable the following summary to be made with regard to the influence of climatic conditions on the progress of Leaf Disease attacks in north Mysore. Leaf Disease activity starts with the first rains in April and continues up to the monsoon with greater or less intensity depending largely on the number of rainy days. Development continues through the south-west monsoon relatively slowly, being checked by periods of continuous heavy rain. Following the south-west monsoon, development becomes very rapid with the advent of the showery-sunny weather of the north-east monsoon and continues with the help of mists and dew through December as long as there is available leaf for infection. Through the dry months the disease is in abeyance and as infected leaves drop the trees enter the hot weather with only a few disease spots still alive on the leaves. Of course more diseased leaves may hang about on the trees growing in damp ravines or near streams and these must be regarded as important sources of new attacks.
+
+So far no other host of the disease has been identified with certainty, as those strains or species of *Hemileia* found on *Gardenia gummifera* and *Vangueria* do not appear to infect coffee. Experiments with the *Hemileia* on the latter plant failed to give infection on coffee. It seems therefore, that the preservation of the disease over the unfavourable season depends on the disease spots developed on leaves in the previous season.
+
+To make the conclusion more general the following tabular comparison is given:
+
+(a) Conditions favourable to the rapid development of severe attacks:  
+Shelter from wind.
+
+Intermittent rain, dew or mist.
+
+Ample sunshine. Very light overhead shade.
+
+Moderately high temperature.
+
+(b) Conditions unfavourable to the rapid development of severe attacks:
+
+Exposure to wind.
+
+Absence of rain, dew or mist.
+
+Heavy and continuous rain.
+
+Low light intensity. Heavy overhead shade.
+
+Low temperature.
+
+(c) Conditions favourable to chronic Leaf Disease attacks:
+
+Short dry weather.
+
+Much mist and dew in the dry months.
+
+Much coffee growing in damp ravines or near streams, etc.
+
+49------------------------------------------------
+
+386
+
+The actual position with respect to the disease at any particular time will depend on the balance of favourable conditions for the disease during the preceding period.
+
+The effects of the disease in reducing the area of healthy leaf, in require special emphasis as it is on a due recognition of these, that the quent loss of partially developed crop are well-known. At the same time the loss of crop caused by the disease is by no means limited to the obvious fall of half formed cherry. The reduction in functional leaf area prevents the accumulation of sugars and starches, the formation of which depends on healthy leaf areas, and it is on these that fruit production depends to a high degree. Thus a heavy attack of Leaf Disease means that there is little reserve of starch and sugar for the formation of flower bud for the coming season, and a large part of what reserve there is, is utilised in producing fresh leaves to replace those lost through disease. These leaves are rarely able to accumulate sufficient reserves to provide a big crop though the tree may look healthy and leafy at blossom time. The loss of leaf in the latter half of the year is at present unavoidable in districts where Leaf Disease is an annual recurrence except through spraying and in such areas it must be regarded as an agricultural operation of primary importance.
+
+With respect to spraying, there are two features of the disease which require special emphasis as it is on a due recognition of these, that the value and limitations of spraying must be based. In the first place the life cycle of Leaf Disease is passed almost wholly in the interior of the leaf and with the exception of a period of about 24 hours between the germination of the spore and the completion of penetration, it is out of the reach of fungicides. Hence all spraying operations are designed to provide a fungicide on the leaf which can come into action during this short period. Secondly, penetration of the leaf occurs only through the stomata so that any spore reaching the under surface of a leaf has to grow a certain distance on the leaf surface before it can penetrate. Some measurements made by one of us show that stomata occur at the rate of 100-120 per square millimetre or 62,500-75,000 to the square inch. It thus appears that the distance that the germ tube has to grow is not very great, and for complete protection, Bordeaux particles must occur so frequently that a germ tube cannot fail to encounter a copper containing particle of spray before it reaches a stoma. Herein lies the great importance of an even spray coating over the leaves.
+
+### DIE BACK AND OTHER LEAF AND SHOOT DISEASES
+
+While spraying was previously taken up in connection with Leaf Disease and Black Rot, it soon become clear that it also provided an excellent control of Die Back. The favourable effect became clear when investigations by one of us showed that in general Die Back was a debility disease brought about by the loss of leaf following severe attacks of Leaf Disease. While a fungus *Colletotrichum coffeanum* (Glomerella sp.) was regularly isolated from Die Back attacked shoots, little success attended inoculation experiments, even after attempts at exhausting experimental plants. Further Die Back was never found to attack shoots with several pairs of leaves, though a shoot tip which was defoliated might die back to an older pair of leaves. Observation showed that while defoliation was not necessarily followed by Die Back, Die Back never occurred without defoliation. Prevention of defoliation by Leaf Disease resulted in the reduction of Die Back
+
+50------------------------------------------------
+
+387
+
+to negligible proportions. This is shown by the following figures of percentage on cropping shoots, showing Die Back in counts on 60 branch systems in sprayed and unsprayed plots (See Table 2). It must be mentioned that an attempt has been made to obtain evidence of the efficiency of the spray by the following technique of sampling, which has been adopted throughout the course of these experiments.
+
+The method consists of taking 60 typical branch systems, defined by the number of joints or nodes, for each treatment, counting the number of leaves and the number of growing points and calculating a figure for the number of leaves per growing point for each branch system. From the total of 60 branch systems a mean and its standard error are calculated. The observations have been made each year for the last three years at the end of September, just before the disease reaches its maximum and before the amount of crop being carried has exerted a noticeable influence on leaf fall.
+
+*Table 2.—Percentage of Die Back on Sprayed and  
+Unsprayed Branch Systems*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>September<br/>per cent.</th>
+<th>February<br/>per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.5 per cent. May and September spray ...</td>
+<td>3.1</td>
+<td>3.8</td>
+</tr>
+<tr>
+<td>Control. Not sprayed ...</td>
+<td>8.8</td>
+<td>23.5</td>
+</tr>
+<tr>
+<td>0.5 per cent. May spray. ...</td>
+<td>2.1</td>
+<td>8.5</td>
+</tr>
+<tr>
+<td>Control. Not sprayed. ...</td>
+<td>4.9</td>
+<td>17.0</td>
+</tr>
+<tr>
+<td>0.5 per cent. September spray ...</td>
+<td>9.6</td>
+<td>17.7</td>
+</tr>
+<tr>
+<td>Control. Not sprayed ...</td>
+<td>11.1</td>
+<td>16.2</td>
+</tr>
+</tbody>
+</table>
+
+While there are no other serious leaf and shoot diseases, the occasional severe attacks of Brown Eye Spot (*Cercospora coffeicola*) in nurseries can be prevented by spraying nursery plants. The cost of this is trifling and it contributes to a considerable degree towards providing healthy vigorous young seedlings.
+
+Pink Disease (*Corticium salmonicolor*), while rarely obvious enough to warrant special measures may be checked by spraying. As its climatic preferences strongly resemble those of Black Rot, it is prevented from widespread development by measures against this disease.
+
+### INDIRECT EFFECT OF SPRAYING
+
+In addition to the direct effect of Bordeaux spraying in controlling the major leaf and shoot diseases of coffee there are certain indirect effects which deserve consideration as they are of some considerable importance.
+
+The principal of these effects relates to two insect pests, borer (*Xylotrechus quadripes*) and scale insects (principally *Coccus viridis*). The former of these, the white borer, is by far the most formidable insect pest of coffee in Southern India and so far has proved itself almost impossible to control effectively. It has however, long been known that heavy overhead shade was unfavourable to the egg-laying habits of the female, and in the badly infested districts, this fact has been made use of. Definite evidence to support this view was obtained by the late Dr. Kunhikannan in breeding experiments. Beetles were enclosed in cylinders on stems, one set under a dark cloth, another under white cloth to simulate conditions of
+
+51------------------------------------------------
+
+388
+
+shade and of light obtaining in an estate. While 120 eggs were found to be laid in the latter case, no oviposition was noticed in the shaded cylinder. Such heavy shade as is requisite to keep down borer within manageable limits has its reaction in the reduction of cropping capabilities. This reduction has had to be accepted, however, in order to preserve the trees from total loss.
+
+During the last two years, in a series of spraying experiments at the Experimental Station, Balehonnur, involving a large number of sprayed strips of coffee interspersed with unsprayed strips, it has been found that the borer removals in the unsprayed strips were about five times as great as in the sprayed strips, indicating that spraying was exerting a markedly favourable influence on the reduction of borer.
+
+*Table 3.—Showing Borer Removals in Sprayed and  
+Unsprayed Plots*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Experimental Station,<br/>1931-32<br/>per cent.</th>
+<th>1932-33<br/>per cent.</th>
+<th>Balehonnur,<br/>Mean<br/>per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bordeaux sprayed plots</td>
+<td>3</td>
+<td>1.4</td>
+<td>2.2</td>
+</tr>
+<tr>
+<td>Burgundy sprayed plots</td>
+<td>4.9</td>
+<td>2.3</td>
+<td>3.6</td>
+</tr>
+<tr>
+<td>Control, unsprayed plots</td>
+<td>10</td>
+<td>14.5</td>
+<td>12.3</td>
+</tr>
+</tbody>
+</table>
+
+The reason is not far to seek. It has been established that the main egg laying season of the borer occurs in October which coincides with the periods in which Leaf Disease attacks are often at their maximum. Leaf Counts, to be considered in detail below, showed that, at the end of September, sprayed plots carried about twice as much leaf as unsprayed plots. This enormous difference in amount of leaf means an equally enormous difference in the shading effects of the crown of the bushes on the main stem. Thus the stems of the sprayed coffee, during the flight period of the borer are under a shade approximately twice as heavy as those of similar unsprayed coffee.
+
+The influence of this leaf cover is certainly exaggerated in the experiments in that no doubt there has been a concentration of the borer beetles in the unsprayed plots which would not otherwise occur. However, it affords strong indication that Bordeaux spraying, by its effect on the amount of leaf, does exert a marked influence in reducing borer. This has been borne out by estate experience. That the incidence of borer attack is diminished to a considerable extent by spraying, is borne out by the following figures kindly supplied by Mr. E. H. Young of Ossoor Estate, Hassan District, Mysore.
+
+*Table 4.—Showing Borer Removals on Ossoor Estate  
+prior to and after Spraying*
+
+<table border="1">
+<tbody>
+<tr>
+<td>Total No. of trees removed during four years<br/>(1925-1928) prior to spraying</td>
+<td>107,223</td>
+</tr>
+<tr>
+<td>Total No. of trees removed during four years<br/>(1929-1932) after spraying</td>
+<td>36,620</td>
+</tr>
+</tbody>
+</table>
+
+The spraying work was started during 1928, and has since been regularly carried on.
+
+52------------------------------------------------
+
+389
+
+The problem of the indirect effect of spraying on scale insects is much more obscure, but frequent reports have been received that Bordeaux or Burgundy spraying has resulted in a considerable increase in scale insect attack. The matter has not been thoroughly investigated as yet, though there is an *a priori* probability that spraying may lead to an increase in the bugs as a consequence of the destruction of the entomogenous fungi, *Empusa lecanii* and *Cephalosporium lecanii* which help to keep them in check. An enquiry carried out in 1932 by Capt. Windle and reported in his recent book "Modern Coffee Planting" suggests that the increase in scale due to spraying has been over estimated, and that where comparisons were possible, the severity of bug attacks was as high in unsprayed coffee as in sprayed. He concluded that the numerous reports in 1932 of severe bug attack on sprayed coffee were attributable to extremely favourable climatic condition during that year, and that severe attacks were equally prevalent on unsprayed coffee. Recent observations on thoroughly sprayed plots on the Coffed Experimental Station have showed the presence of the white fungus (*Cephalosporium lecanii*) on green bug attacking coffee.
+
+It is obvious that any fungus present on bugs at the time of spraying with Bordeaux is liable to destruction and also that bugs covered by a film of Bordeaux particles will be protected against infection. The effect of the first of these points on the future of the fungus depends very largely on the number of other hosts of the bugs in the neighbourhood and the status of the bug and its parasitic fungi on these hosts. If other hosts with bug parasitized by the fungi are available, the check due to spraying the coffee should only be temporary as new bug developing on the coffee will be free from a coating of spray and open to infection by fungus spores derived from other bug colonies on other hosts.
+
+In the absence of other bug hosts, it might be advisable to keep some bug-infested coffee plants on which the fungi were present unsprayed as a reservoir of spores which might later have an opportunity of attacking fresh bugs on the sprayed trees.
+
+These remarks must be considered as purely of a tentative nature in the absence, at present, of any thorough investigation of the biological relations between the fungus and the bug. It is hoped to commence a study of this subject in the near future, with special reference to the effect of spraying on the activities of the parasitic fungi.
+
+To a large extent this problem will be solved, if a spray mixture can be used, which will have the properties of both a fungicide and an insecticide. Such combination sprays have been successfully applied for the simultaneous control of apple scab (*Venturia inequalis*) and Codling Moth in America. Investigations are in progress to find out how green bug on coffee can be controlled by the addition of an insecticide to Bordeaux mixture.
+
+53------------------------------------------------
+
+390
+
+## NAHOR SEED OIL AND GRAINED SOAP\*
+
+THE Nahor (*Mesua ferrea*) is a large evergreen straight-stemmed tree growing to a great height. In the wild state it is found in the evergreen forests of the Eastern Himalayas and in the forests of Assam, specially in the Charduar and Nambar forests, Khasia Hills, Chittagong Hill Tracts, the Ghats forests of the west coast, more common in Malabar than in Kanara, in Tenasserim, Upper Burma and in the Andamans. In the cultivated condition it is found chiefly as an ornamental tree in some parts of India and Burma under various local names, e.g., Nageswar in Bengal and Nagakesar in the Telugu-speaking districts. The timber is extremely hard and heavy and the tree is commonly known as the Ironwood tree.
+
+In South India, Wynaad and Palghat divisions, the tree flowers in the months of February and March and in some other areas in April and May. The flowering is followed two months later by fruiting. The flowers are white and large, and the fruits reddish and wrinkled and not unlike chestnuts. The Assam fruit has, in comparison with the South Indian (Malabar) variety, a glossy and less wrinkled surface. The fruit contains from one to three seeds. The composition of the latter appears to vary considerably according to the place of origin. Dhingra and Hilditch found the following values for the South Indian (Malabar) and Eastern Bengal seeds:
+
+TABLE I  
+*Composition of South Indian and Bengal Mesua  
+ferrea seed*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Origin</th>
+<th rowspan="2">Shell</th>
+<th rowspan="2">Kernel</th>
+<th colspan="2">Oil</th>
+</tr>
+<tr>
+<th>of kernel only</th>
+<th>of whole seed</th>
+</tr>
+<tr>
+<th></th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th>Per'cent.</th>
+<th>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Malabar</td>
+<td>27</td>
+<td>73</td>
+<td>63</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Bengal</td>
+<td>47</td>
+<td>53</td>
+<td>65</td>
+<td>34.5</td>
+</tr>
+</tbody>
+</table>
+
+The Bengal seed, again, shows no small variations, as the figures in Table II will show. Dhingra and Hilditch have not mentioned the actual source of the Eastern Bengal seed they worked upon. A consignment of the seed received in the Industrial Research Laboratory of this Department
+
+\* By Dr. R. L. Datta, D.Sc., Industrial Chemist, Bengal, Tinkari Basu, B.Sc., F.C.S., and Prabhat Kumar Ghose, B.Sc., in *The Mysore Economic Journal*, Vol. 19, No. 11, November, 1933.
+
+54------------------------------------------------
+
+391
+
+from the Divisional Forest Officer, Chittagong Hill Tracts, has been found on analysis to have the following composition:
+
+TABLE II
+
+*Composition of Bengal Mesua ferrea (Nahor) seed*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Source</th>
+<th rowspan="2">Shell</th>
+<th rowspan="2">Kernel</th>
+<th colspan="2">Oil</th>
+</tr>
+<tr>
+<th>of kernel only</th>
+<th>of whole seed</th>
+</tr>
+<tr>
+<th></th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chittagong Hill Tracts</td>
+<td>44.9</td>
+<td>55.1</td>
+<td>76.7</td>
+<td>39.7</td>
+</tr>
+</tbody>
+</table>
+
+The shape of the seed varies, in the case of a single-seeded fruit from a cone to a spheroid with a protruding end. In the case of the double or triple seeded fruits, the seeds together make up the above shapes. The largest of the diameters of a seed is about an inch and often less. The seed has a shell moderately hard and brittle, and of a thickness varying from 1/30th to 1/20th inch. It can be broken easily, the pressure of the fingers sometimes sufficing to break it. The kernel inside the shell is usually of the same shape as the seed, only it is somewhat flat. It is light yellow in the fresh condition and dark on ageing and is liable to be destroyed by insects, the ravage being often undiscoverable without breaking the shell. The kernel contracts on drying, so that in a fairly dried seed no part of the kernel remains fixed to shell. It therefore separates from the shell as soon as the latter is broken. The oil resides in the kernel.
+
+The oil being as yet used only in negligibly small quantities as an embrocation and for application to sores, etc., the exploitation of the seed is meagre and no efficient method of decortication is in vogue. Systematic exploitation will need better decorticating methods than the application of the mallet or the light club. Crushing between two grooved rollers revolving in opposite directions much the same way as in a cane-crusher would perhaps be found a convenient method of decorticating the seed. The kernel is of a good size and can be easily handpicked from the mass of broken shell.
+
+Notwithstanding the variations in composition noticed above Nahor seed is one of the richest in oil having, as mentioned before, an oil content of 76.7 per cent. The oil is so profuse that it can be pressed out from the kernels, specially the dark ones, by the fingers. The people who used this oil for lighting purposes before the advent of kerosene often burnt the dried kernel without undergoing the trouble of expressing the oil.
+
+No dependable data are available regarding the yield of the oil from the seed by expression in the country ghani. Judging, however, from the results in the case of another seed almost equally high oil-content, viz., the Punnal seed (*Calophyllum inophyllum*), the expression in the ghani
+
+55------------------------------------------------
+
+392
+
+cannot be expected to be thorough. In the case cited no less than 19 per cent. of the total oil remained in the cake, and was therefore a waste. The Nahor seed was, however, treated in an experimental hydraulic press working at a pressure of 2 tons per square inch. The dried seed without the shell yielded on double expression a total of 66.4 per cent. oil, 55.4 per cent. being the yield of the first expression. This result works out to an yield of 34.3 per cent. on the undried seed in the shell as against 39.7 per cent., the total oil-content.
+
+The cake is poor in phosphorus and potash but has a fairly high nitrogen content, viz., 3.64 per cent., and can be usefully employed as a manure.
+
+Nahor oil is somewhat thick, and has a dark-brown colour. It has a not-disagreeable smell and a mild pungency like that of mustard oil. The oil contains substantial proportions of highly coloured resins which considerably modify its properties and behaviour. These resins do not yield to any of the usual, industrial, purification methods. Their separation by treatment with sodium carbonate is impracticable as the resin soap formed on the addition of the carbonate keeps the remainder of the oil in an emulsified condition from which it is difficult to separate either the oil or the soap.
+
+The application of the oil in the soap industry, with special reference to its utilization as a raw material for the common washing soap, has been examined in the Industrial Research Laboratory. The oil expressed in this Laboratory from the seeds from Chittagong Hill Tracts gave the following chemical constants:—
+
+<table>
+<tr>
+<td>Saponification value</td>
+<td>...</td>
+<td>...</td>
+<td>230</td>
+</tr>
+<tr>
+<td>Iodine value</td>
+<td>...</td>
+<td>...</td>
+<td>96.3</td>
+</tr>
+<tr>
+<td>Titer</td>
+<td>...</td>
+<td>...</td>
+<td>22°C.</td>
+</tr>
+</table>
+
+The first two values give an I.N.S. factor of 134 which is higher than that for Mowha oil. As oils with higher I.N.S. factors are preferred to those with lower ones the Nahor oil as a soap stock ought to have precedence over Mowha oil, but the presence of the resins brings in complications and detracts from its value. On an examination of the saponaceous properties of Nahor oil it appears that while the deep colour that the oil imparts to its soap is a handicap to the use of the oil as a raw material for soaps of a pale colour, the other properties of the soap, viz., latheration, emulsification and detergence, are such as to warrant the use of the oil in considerable quantities in the production of soaps in which a little colour is not considered a disqualification, as, e.g., the common washing soaps.
+
+The oil has a high acidity due to the presence of the large proportion of resins. It is, therefore, unsuitable for making soap by the cold process.
+
+In the boiling process the saponification of the oil is devoid of any extraordinary feature. An intensely yellow coloured emulsion is formed immediately on the addition of caustic lye to oil. Similar development of colour takes place when the oil itself is brought in contact in the cold
+
+56------------------------------------------------
+
+393
+
+with an alkali such as sodium hydroxite or carbonate, solid or in solution, or ammonia. With the progress of the boiling in course of saponification the colour deepens until a deep reddish brown soap is obtained. The colour of the soap loses in intensity as it is subjected to brine wash. The final soap is still of a brown colour. The soap grains out quite easily both with brine and with strong caustic lye, the grains being very soft and of a large size. They can easily be stirred into a soft, claylike, consistence and cast into moulds. The moulded soap is rather soft when fresh but hardens on staying. The soap has a mild aromatic odour.
+
+An examination of the soap revealed the following characteristics. It is sloppy and produces a thick, greasy, and moderately foamy lather. The emulsifying power and detergence are high, and the washing properties are in no way inferior to those of the soaps of well-known stocks. The soap should, therefore, find considerable use in household washing and also in the dhabikhanas.
+
+The graining point of the soap of this oil, i.e., the temperature at which the grained soap begins to solidify in brine, is 49°C. For purposes of reference the graining points of some well-known stocks are given in Table III below:—
+
+TABLE III
+
+*Graining points of some well-known soap stocks*
+
+<table>
+<thead>
+<tr>
+<th>Soap Stock</th>
+<th></th>
+<th>Graining point.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Coconut oil</td>
+<td>... ..</td>
+<td>82°C.</td>
+</tr>
+<tr>
+<td>Tallow</td>
+<td>... ..</td>
+<td>66.5°C.</td>
+</tr>
+<tr>
+<td>Mowha oil</td>
+<td>... ..</td>
+<td>57°C.</td>
+</tr>
+<tr>
+<td>Neem oil (revised)</td>
+<td>... ..</td>
+<td>54°C.</td>
+</tr>
+<tr>
+<td>Punnal oil</td>
+<td>... ..</td>
+<td>54°C.</td>
+</tr>
+<tr>
+<td>Rayna oil</td>
+<td>... ..</td>
+<td>52°C.</td>
+</tr>
+<tr>
+<td>Mustard oil</td>
+<td>... ..</td>
+<td>54°C.</td>
+</tr>
+<tr>
+<td>Cottonseed oil</td>
+<td>... ..</td>
+<td>47.4°C.</td>
+</tr>
+<tr>
+<td>Groundnut oil</td>
+<td>... ..</td>
+<td>45°C.</td>
+</tr>
+<tr>
+<td>Til oil</td>
+<td>... ..</td>
+<td>44°C.</td>
+</tr>
+<tr>
+<td>Karanja oil</td>
+<td>... ..</td>
+<td>39°C.</td>
+</tr>
+</tbody>
+</table>
+
+In combination with other stocks Nahor oil can produce very serviceable soaps. The colour of such soaps will be more or less brown according as more or less of this oil is used, and the smell agreeable, for the aromatic odour of the Nahor soap successfully masks the soapy odour due to the other stocks. A few typical blends are given below showing how this oil can be used in large proportions along with rosin to make
+
+57------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_010:103 -->
+
+394
+
+cheap and serviceable soaps of high cleansing properties. It is not recommended to use this oil beyond small percentages in cases where a brown colour in the soap will be considered a disqualification:—
+
+<table>
+<thead>
+<tr>
+<th colspan="3">(1)</th>
+<th colspan="3">(2)</th>
+</tr>
+<tr>
+<th>Stock</th>
+<th></th>
+<th>Parts</th>
+<th>Stock</th>
+<th></th>
+<th>Parts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tallow</td>
+<td>...</td>
+<td>14</td>
+<td>Tallow</td>
+<td>...</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Mowha oil</td>
+<td>...</td>
+<td>20</td>
+<td>Mowha oil</td>
+<td>...</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Coconut oil</td>
+<td>...</td>
+<td>15</td>
+<td>Coconut oil</td>
+<td>...</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Rosin</td>
+<td>...</td>
+<td>10</td>
+<td>Rosin</td>
+<td>...</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Nahor oil</td>
+<td>...</td>
+<td>41</td>
+<td>Nahor oil</td>
+<td>...</td>
+<td>41</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">(3)</th>
+<th colspan="3">(4)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mowha oil</td>
+<td>...</td>
+<td>39</td>
+<td>Tallow</td>
+<td>...</td>
+<td>14.5</td>
+</tr>
+<tr>
+<td>Coconut oil</td>
+<td>...</td>
+<td>12</td>
+<td>Mowha oil</td>
+<td>...</td>
+<td>21</td>
+</tr>
+<tr>
+<td>Rosin</td>
+<td>...</td>
+<td>16</td>
+<td>Coconut oil</td>
+<td>...</td>
+<td>7.5</td>
+</tr>
+<tr>
+<td>Nahor oil</td>
+<td>...</td>
+<td>33</td>
+<td>Rosin</td>
+<td>...</td>
+<td>14</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+<td>Nahor oil</td>
+<td>...</td>
+<td>43</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">(5)</th>
+<th colspan="3">(6)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tallow</td>
+<td>...</td>
+<td>14</td>
+<td>Tallow</td>
+<td>...</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Mowha oil</td>
+<td>...</td>
+<td>25</td>
+<td>Rosin</td>
+<td>...</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Rosin</td>
+<td>...</td>
+<td>15</td>
+<td>Nahor oil</td>
+<td>...</td>
+<td>58</td>
+</tr>
+<tr>
+<td>Nahor oil</td>
+<td>...</td>
+<td>46</td>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">(7)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tallow</td>
+<td>...</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Nahor oil</td>
+<td>...</td>
+<td>60</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><hr/>100</td>
+</tr>
+</tbody>
+</table>
+
+
+58------------------------------------------------
+
+395
+
+## MEETINGS, CONFERENCES, ETC.
+
+### COCONUT RESEARCH SCHEME (CEYLON)
+
+Minutes of the twenty-second meeting of the Board of Management, Coconut Research Scheme, held in Room No. 202, New Secretariat, Colombo, on October 20, 1933, at 11.15 a.m.
+
+*Present*—Dr. W. Youngman, Director of Agriculture, (in the Chair), Mr. C. W. Bickmore, C.C.S., Deputy Financial Secretary, Sir H. Marcus Fernando, Messrs. A. B. Gomes, F. J. Holloway, J.P., U.P.M., E. F. Kannangara, J. L. Kotalawala, M.S.C., F. A. Obeyesekere, M.S.C., G. Pandittesekere, J.P., U.P.M., E. L. Spencer-Schrader and Dr. R. Child, Chief Technical Officer, who acted as Secretary.
+
+#### 1. MINUTES
+
+The minutes of the twenty-first meeting of the Board of Management held on June 2, 1933, were confirmed.
+
+#### 2. BOARD OF MANAGEMENT
+
+Mr. E. L. Spencer-Schrader of Delwita, Rambodagalla, had been nominated by the Planters' Association of Ceylon, to act on the Board for Mr. J. Fergusson, during the latter's absence on leave.
+
+#### 3. FINANCE
+
+The draft Estimates of Income and Expenditure for the year 1934 were considered in detail. It was considered that an area of new land to serve as a nursery for selected and hybrid trees would have to be provided. The Chief Technical Officer reported that he had discussed this matter with the Chilaw Planters' Association and it seemed that the Scheme would have to choose between a good piece of land at some distance from Bandirippuwa or a less satisfactory piece near at hand. It was suggested that it might be possible to acquire a suitable piece by exchange. Provision for the acquisition of an area was made in the Estimates.
+
+The Board decided to provide accumulators for both the Electric Plants.
+
+Provision of Rs. 3,000/- was made for the erection of a copra kiln.
+
+The Chief Technical Officer reported that he had advertised the post of Assistant to the Geneticist and that applications would be considered after the closing date, October 28th. Provision was also made for the appointment of an Assistant to the Soil Chemist. These appointments would complete the intended staff of the Scheme.
+
+59------------------------------------------------
+
+396
+
+Rs. 2,500/- provided for the upkeep of the Estate included the erection of a semi-permanent wooden bridge over the stream running through the plantation.
+
+It was resolved to leave the provision of Rs. 750/- for the Imperial Mycological and Entomological Institutes on the Estimates for 1934, pending further information. The Board to be consulted before any payments are made. The estimated total income of the Scheme for 1933 was Rs. 119,000/-.
+
+Provision of Rs. 14,500 in 1934 was made for repayment of the second instalment of the Government loan.
+
+The Board approved that the cost of printing the Annual Report as a Sessional Paper should be met from the funds of the Scheme.
+
+Correspondence with the Chairman, District Road Committee, concerning the portion of the Haldanduwana-Dummaladeniya Road from the Scheme's Estate to the Bolawatte-Lunuwila turning, as yet unmetalled was considered. The Scheme has already spent over Rs. 5,000 on the portion of road metalled by them. The Board decided not to incur any further expense on this road.
+
+The Statements of Receipts and Payments for the quarters ending June 30 and September 30, 1933, respectively were approved.
+
+60------------------------------------------------
+
+397
+
+**ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED 30 NOVEMBER, 1933**
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to Date since Jan. 1st 1933</th>
+<th>Flesh Cases</th>
+<th>Recoveries</th>
+<th>Deaths</th>
+<th>Balance Ill</th>
+<th>No. Shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Western</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>32</td>
+<td>...</td>
+<td>31</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>14</td>
+<td>...</td>
+<td>...</td>
+<td>10</td>
+<td>...</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="7">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>28</td>
+<td>...</td>
+<td>27</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>12</td>
+<td>...</td>
+<td>...</td>
+<td>12</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>29*</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>29</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Cattle Quarantine Station</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease (Sheep &amp; Goats)</td>
+<td>121</td>
+<td>...</td>
+<td>113</td>
+<td>8</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax (Sheep &amp; Goats)</td>
+<td>175</td>
+<td>1</td>
+<td>...</td>
+<td>175</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Central</td>
+<td>Rinderpest</td>
+<td>65</td>
+<td>...</td>
+<td>11</td>
+<td>52</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>3</td>
+<td>...</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>10</td>
+<td>...</td>
+<td>...</td>
+<td>10</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>(slaughtered)</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Southern</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>50</td>
+<td>...</td>
+<td>50</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="5">Northern</td>
+<td>Rinderpest</td>
+<td>1758</td>
+<td>13</td>
+<td>371</td>
+<td>1331</td>
+<td>7</td>
+<td>49</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>4</td>
+<td>...</td>
+<td>4</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Eastern</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>52</td>
+<td>...</td>
+<td>51</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">North-Western</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>116</td>
+<td>...</td>
+<td>110</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Pleuro-Pneumonia (Goats)</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="3">North-Central</td>
+<td>Rinderpest</td>
+<td>1192</td>
+<td>12</td>
+<td>225</td>
+<td>912</td>
+<td>2</td>
+<td>53</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Uva</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td rowspan="7">Sabaragamuwa</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>1388</td>
+<td>...</td>
+<td>1324</td>
+<td>64</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>1</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>12</td>
+<td>1</td>
+<td>...</td>
+<td>12</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>8</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+\* 1 case occurred in a Goat at the Slaughter House.
+
+G. V. S. Office,  
+Colombo, 8th December, 1933.
+
+M. CRAWFORD,  
+Government Veterinary Surgeon.
+
+61------------------------------------------------
+
+398
+
+# METEOROLOGICAL REPORT
+
+## NOVEMBER, 1933
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Station</th>
+<th colspan="4">Temperature</th>
+<th colspan="2">Humidity</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">Rainfall</th>
+</tr>
+<tr>
+<th rowspan="2">Mean Maximum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Mean Minimum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Day</th>
+<th rowspan="2">Night (from Minimum)</th>
+<th rowspan="2">Amount</th>
+<th rowspan="2">No. of Rainy Days</th>
+<th rowspan="2">Difference from Average</th>
+</tr>
+<tr>
+<th>Inches</th>
+<th>Inches</th>
+</tr>
+<tr>
+<th></th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo</td>
+<td>84.2</td>
+<td>-0.9</td>
+<td>72.3</td>
+<td>-1.5</td>
+<td>76</td>
+<td>93</td>
+<td>6.5</td>
+<td>8.72</td>
+<td>16</td>
+<td>-3.15</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>85.6</td>
+<td>+0.6</td>
+<td>72.2</td>
+<td>-1.4</td>
+<td>72</td>
+<td>88</td>
+<td>5.4</td>
+<td>10.38</td>
+<td>21</td>
+<td>+0.17</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>84.9</td>
+<td>-0.1</td>
+<td>75.5</td>
+<td>-0.1</td>
+<td>78</td>
+<td>86</td>
+<td>5.9</td>
+<td>8.80</td>
+<td>16</td>
+<td>-1.36</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>84.8</td>
+<td>+1.6</td>
+<td>74.9</td>
+<td>+0.2</td>
+<td>76</td>
+<td>90</td>
+<td>5.6</td>
+<td>16.93</td>
+<td>15</td>
+<td>+1.99</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>83.1</td>
+<td>-0.3</td>
+<td>75.0</td>
+<td>+0.2</td>
+<td>77</td>
+<td>88</td>
+<td>5.4</td>
+<td>10.71</td>
+<td>16</td>
+<td>-3.34</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>84.2</td>
+<td>-0.1</td>
+<td>74.2</td>
+<td>-0.2</td>
+<td>74</td>
+<td>90</td>
+<td>4.8</td>
+<td>4.25</td>
+<td>15</td>
+<td>-9.17</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>84.7</td>
+<td>-0.4</td>
+<td>73.1</td>
+<td>-0.8</td>
+<td>74</td>
+<td>88</td>
+<td>5.2</td>
+<td>9.20</td>
+<td>14</td>
+<td>+2.21</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>83.1</td>
+<td>-0.3</td>
+<td>73.4</td>
+<td>-0.7</td>
+<td>80</td>
+<td>90</td>
+<td>6.0</td>
+<td>9.10</td>
+<td>20</td>
+<td>-2.41</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>87.4</td>
+<td>-0.3</td>
+<td>71.1</td>
+<td>-1.5</td>
+<td>76</td>
+<td>95</td>
+<td>6.5</td>
+<td>14.89</td>
+<td>22</td>
+<td>+0.51</td>
+</tr>
+<tr>
+<td>A'pura</td>
+<td>85.2</td>
+<td>-0.3</td>
+<td>70.9</td>
+<td>-1.7</td>
+<td>78</td>
+<td>95</td>
+<td>7.0</td>
+<td>9.33</td>
+<td>17</td>
+<td>-1.37</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>86.4</td>
+<td>-0.6</td>
+<td>70.6</td>
+<td>-1.9</td>
+<td>72</td>
+<td>97</td>
+<td>6.7</td>
+<td>13.98</td>
+<td>18</td>
+<td>+2.36</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>82.4</td>
+<td>-0.9</td>
+<td>67.5</td>
+<td>-1.0</td>
+<td>72</td>
+<td>90</td>
+<td>6.2</td>
+<td>10.69</td>
+<td>19</td>
+<td>+0.15</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>77.6</td>
+<td>-1.6</td>
+<td>64.1</td>
+<td>-1.8</td>
+<td>79</td>
+<td>94</td>
+<td>6.4</td>
+<td>14.23</td>
+<td>22</td>
+<td>+3.43</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>72.5</td>
+<td>-1.6</td>
+<td>59.2</td>
+<td>-1.3</td>
+<td>80</td>
+<td>94</td>
+<td>7.4</td>
+<td>10.59</td>
+<td>21</td>
+<td>+0.45</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>67.5</td>
+<td>-1.5</td>
+<td>53.1</td>
+<td>-2.2</td>
+<td>82</td>
+<td>91</td>
+<td>7.4</td>
+<td>11.32</td>
+<td>23</td>
+<td>-0.74</td>
+</tr>
+<tr>
+<td>N'Eliva</td>
+<td>67.0</td>
+<td>-1.4</td>
+<td>50.1</td>
+<td>-1.9</td>
+<td>76</td>
+<td>93</td>
+<td>7.2</td>
+<td>7.63</td>
+<td>20</td>
+<td>-1.50</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall of November was, on the whole, a little below normal. There was well marked excess on the north-eastern slopes of the hills, and in the southern districts of the Eastern Province, and moderate excess in the north-eastern half of the North-Western Province, while deficits were most marked in the south-west of the Island, particularly in the districts between Colombo and the main hill-country, and north of the line Mannar-Anuradhapura-Kalmunai.
+
+The highest monthly totals were reported on the north-eastern slopes of the hills, where several stations reported totals between 25 and 35 inches. There were nearly 30 daily falls of 5 inches or over reported during the month, about half of them on the rainfall day 26th-27th. The highest daily fall reported was 9.15 inches, at Hendon Estate, on the 26-27th.
+
+During the first half of the month, conditions were intermonsoonal, with weak gradients and, generally, light winds, and thunderstorms in the afternoons or evenings. About the middle of the month, a depression in the Bay of Bengal brought dry air from the Indian mainland over Ceylon, and there was practically no rain from the 15th to the 18th, after which intermonsoonal conditions reappeared. About the 22nd, northerly barometric gradients appeared, and continued till the end of the month, while north-easterly monsoon conditions gradually set in over the Island.
+
+Temperatures were generally a little below normal, particularly up-country. Humidity and cloud were also, on the whole, slightly below normal. Wind was generally above normal, and, in the north and east, usually N.N.E.
+
+A slight hailstorm was reported about midday on the 6th, at Campion estate.
+
+H. JAMESON,  
+Supdt., Observatory.

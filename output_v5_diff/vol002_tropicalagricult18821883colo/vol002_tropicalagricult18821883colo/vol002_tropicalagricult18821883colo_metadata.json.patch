@@ -1,0 +1,32 @@
+--- output_v5/vol002_tropicalagricult18821883colo/vol002_tropicalagricult18821883colo/vol002_tropicalagricult18821883colo_metadata.json	2026-10-03 08:30:30.516540255 -0600
++++ output_v6/vol002_tropicalagricult18821883colo/vol002_tropicalagricult18821883colo/vol002_tropicalagricult18821883colo_metadata.json	2026-10-04 12:07:20.478795679 -0600
+@@ -225,12 +225,12 @@
+         1231,
+         1810
+       ],
+-      "token_count": 5563,
++      "token_count": 5759,
+       "num_chunks": 2,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_001:3+4+5"
++        "source": "vsplitV/V_001:5+6+7+8"
+       }
+     },
+     {
+@@ -12357,12 +12357,12 @@
+         1231,
+         1810
+       ],
+-      "token_count": 7670,
++      "token_count": 8155,
+       "num_chunks": 9,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_001:0+1+2"
++        "source": "vsplitV/V_001:0+1+2+3+4"
+       }
+     },
+     {

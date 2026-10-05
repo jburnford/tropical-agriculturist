@@ -1,0 +1,2067 @@
+The  
+**Tropical Agriculturist**  
+May, 1927.
+
+---
+
+**The Second Agricultural Conference  
+at Peradeniya.**
+
+*(Continued)*
+
+---
+
+Second Day.—March 10, 1927.
+
+Morning Session.
+
+**Meeting of the Board of Agriculture.**
+
+**T**HE morning session of the Conference was devoted to a meeting of the Board of Agriculture at which His Excellency the Governor presided. The proceedings of this meeting will be published in the June number of the *Tropical Agriculturist*.
+
+---
+
+Afternoon Session.
+
+**General Agriculture.**
+
+His Excellency the Governor presided and called upon Mr. A. W. R. Joachim to read his report on the work on the decomposition of green and organic manures.
+
+Mr. Joachim then read the following paper.
+
+1------------------------------------------------
+
+258
+
+# Report on the Work on the Decomposition of Green and Organic Manures.
+
+A. W. R. JOACHIM, B.Sc., Dip. Agr. (Cantab.),  
+Chemist, Department of Agriculture.
+
+**A**T the last Agricultural Conference a paper was read on the results obtained up to that time, of experiments that had been, started in Dec., 1925, on the decomposition of green and organic manures under Peradeniya conditions. These investigations have since been extended, thus necessitating their continuation for a further period of two years. In this paper I propose briefly to outline the progress made with these experiments and the more important conclusions that have been drawn from them.
+
+**Green Manure Experiments.**—Laboratory and field experiments were started simultaneously in December, 1925, to study the rates of decomposition from the nitrogen standpoint, of the more widely-grown leguminous crops, viz., *Dadaps*, *Gliricidia*, *Boga medeloa*, *Albizzia* and *Crotalaria anagyroides*. For purposes of comparison a non-leguminous crop, viz., Wild sunflower and cattle manure were also included in the series. In the laboratory experiments the green manures were incorporated with the soil at the rate of 1 gm. of green manure to 100 gm. of dry soil. In the field series green manures at the rate of 2 cwt. per plot or 10 tons per acre were envelope-forked into the soil. The field experiments were carried out on a block of forty plots each  $\frac{1}{100}$ th of an acre in extent, composed of five plots for each of the green manures and cattle manure and five controls. The field experiments were discontinued in August, 1926, as they had served the purpose for which they had been started. The laboratory experiments so far as they went, confirmed fully the results of the field experiments. The following conclusions have been drawn from these experiments.
+
+(1) Maximum nitrate accumulation or "nitrification" in the soil resulting from green-manuring takes place between the 6th and 8th week after the burial of the green material. The field experiments further demonstrate that nitrification takes place subsequent to this, but to a lesser extent, and that after the 5th or 6th month the direct effects of green manuring from the nitrogen standpoint are hardly appreciable. A glance at the figure will show this clearly. It would thus appear that under estate conditions it would be preferable to green-manure at shorter intervals say, e.g., at least twice a year and in smaller quantities than at longer intervals and with larger amounts of green material.
+
+2------------------------------------------------
+
+259
+
+(2) The amounts of nitrate present in the soil at any particular time in the green manure plots is dependent on the rainfall during the previous fortnight. As the rainfall increases the nitrate content falls and *vice versa*. The low nitrate content is probably due to (1) the washing away of the nitrate to the lower layers of soil (2) excessive moisture which is detrimental to bacterial action. The temperature curve is noted to follow the nitrate curve.
+
+(3) As regards individual leguminous green manures Dadaps and *Glinricidia* give highest nitrification percentages for Peradeniya conditions. It is obvious however that individual results would be conditioned by the nitrogen content of the buried material, the proportion of leaf to stem, age of material, etc.
+
+(4) The use of non-leguminous leafy material, *e.g.* Wild Sun-flower resulted in as great an accumulation of nitrate in the soil as when leguminous crops were used.
+
+(5) The cattle manure plots show hardly any increase of nitrate over the controls. This is due to the low nitrogen content of the sample.
+
+In this series of field experiments, the green material buried in the soil was grown elsewhere. A second series of field experiments have been started in co-operation with the Manager of the Experiment Station, Peradeniya, in December, 1926, in which the green manures are grown *in situ*, viz., on the plots into which they are to be forked in. Experiments are to be carried out with the three classes of green manures—the tree, shrubby and creeping forms. In half the number of plots the green manures are to be periodically cut and buried in, and in the other half the green manures are to be allowed their normal growth. These experiments should give an idea of the amounts of nitrogen fixed in the soil by leguminous crops, apart from the additional quantities produced as a result of burying them in.
+
+**Organic Manure Experiments.**—The first series of laboratory experiments with organic manures were carried out in the same manner as the experiments with green manures. The organic manures were added at the rate of 1 per cent. of the weights of soil. The addition of such large quantities of green manures was found to result in the nitrification of only small percentages of the *added* nitrogen, varying from 11.5 to 16 per cent. These experiments however demonstrate that unless an adequate amount of moisture is present in the soil—viz.,  $\frac{3}{8}$  to  $\frac{1}{2}$  of the saturation moisture content of the soil—optimum nitrification will not take place. In the second series of laboratory experiments, therefore, the manures were incorporated with the soil in quantities proportionate to 5 cwt. of manure per acre and the series extended to include inorganic nitrogenous manures as well, viz.,
+
+3------------------------------------------------
+
+260
+
+Sulphate of Ammonia and Calcium Cyanamide. The effects of lime on the nitrification of an organic manure, viz., Blood Meal, and the effects on nitrification of sterilising the soil with steam at  $120^{\circ}\text{C}$  for  $\frac{1}{2}$  an hour were also determined.
+
+The results of these experiments demonstrate:—
+
+(1) That maximum nitrification takes place between the 4th and 8th weeks in the case of most of these manures; and that the less nitrogenous manures attain maximum nitrification sooner than the more nitrogenous ones. In other words the effects of more nitrogenous manures last longer in the soil than those of the less nitrogenous ones.
+
+(2) The nitrification percentages in the case of most of the manures used varied from 85 to 90 per cent. Blood Meal gave 50 per cent. nitrification. Castor Cake and Crushed Fish showed only 20 per cent. nitrification. It is probable that maximum nitrification in the case of these manures was reached some time between the 4th and 6th week, at which time owing to sampling being done once a fortnight, no sampling was made. I would wish therefore to emphasise that the nitrification figures for these two manures should not be regarded as correctly representing their nitrogen availabilities until the results of further experiments with these, to be carried out shortly, are obtained.
+
+(5) The curve for the control clearly shows that large amounts of nitrate are fixed in soil by the nitrogen fixing bacteria or *Azotobacter* as they are called, provided that proper moisture and cultivation conditions are maintained. The amount present in the control plot at one sampling was 4.5 mgm. nitrate nitrogen per 100 gm. of dry soil. When one realises that 1 mgm. of nitrogen per 100 gm. of any soil is equivalent to about 25 lb. per acre, and therefore 4.5 mgm. to 112 lb. nitrate nitrogen, the advantages of soil cultivation alone are apparent. That the *Azotobacter* are the agents at work in nitrate formation is proved by the pots which had been steam sterilised and treated with manure. No nitrate was found in them even after two months. The sterilization had killed off all the beneficial nitrogen-fixing organisms.
+
+(6) The effect of lime in accelerating and increasing nitrification is evident from the curve. This large nitrate-formation is due to the mineralization of the humus nitrogen of the soil by the lime and, according to Löhnis, to the increased activities of the micro-organisms of the soil as a result of such an application.
+
+(7) The nitrate curve illustrates the general law of limiting factors. A steady increase is first observed. The curve then remains constant at its maximum and subsequently falls. This fall may be due either to nitrate-destroying or to nitrate-accumulating bacteria. The fall is observed in all cases about the 14th
+
+4------------------------------------------------
+
+261
+
+week, but is followed by a rise even higher than the maximum obtained previously. The reason for this is not quite apparent. The explanation may however be put forward, as suggested by Russell and Richards, that the nitrate-accumulating micro-organisms which were functioning during the period of the decline in the nitrate curve liberated their nitrate at this period, or having died off, their bodies decomposed again with the formation of nitrates.
+
+These laboratory experiments have been followed up by field experiments with these manures started in December, 1926. Unfortunately owing to the unusual rainfall conditions prevalent, in nearly all cases rain having fallen just prior to sampling, the nitrate formed had all washed out of the upper layers of soil, and hence but little conclusive data have so far been obtained. What has however been established by this series of field experiments as with the field green manure experiments is that the amount of nitrate present in the soil at any particular time as a result of manuring is dependent on the rainfall prevalent during the previous fortnight. These experiments are to be continued during the whole of this year, at the end of which time some conclusive data can be expected.
+
+### Discussion.
+
+HIS EXCELLENCY THE GOVERNOR in congratulating Mr. Joachim on his interesting paper remarked that he understood Mr. Joachim to say that he recommended more frequent manuring and in smaller quantities. Were the figures for cost gone into?
+
+MR. JOACHIM replied that no figures for cost had been gone into.
+
+MR. GEORGE BROWN said that Mr. Joachim did not tell them in what month of the year these experiments were carried out.
+
+Mr. JOACHIM said that these experiments were started in December and were continued for nine months to see how long the effects of green manure would last.
+
+DR. RAJASINGHAM remarked that in the case of human beings though leguminous food stuffs such as dhall, etc., contained high percentages of proteins, still the system assimilated little as compared to meat. He wished to know if the same thing happened in the case of leguminous crops in the soil. Though containing high percentages of nitrogen did they give the same amount of nitrates as non-leguminous crops.
+
+MR. JOACHIM said that though leguminous plants generally contained higher percentages of nitrogen than non-leguminous plants, that was not always so. In the case of these experiments the percentage of nitrogen was about the same in both leguminous and non-leguminous crops.
+
+MR. NEWTON asked how long after cutting the plants were buried and whether drying in the sun resulted in a loss of nitrogen. He wished to know whether it was preferable to bury green or to allow a certain amount of drying.
+
+MR. JOACHIM said that the plants were buried soon after cutting and that drying did not lower the percentage of nitrogen in the crop but the amount nitrified in the soil.
+
+5------------------------------------------------
+
+262
+
+MR. JOHN HORSFALL inquired whether half saturation gave maximum nitrification results and also wished to know what half saturation represented in rainfall.
+
+MR. JOACHIM said that maximum nitrification was obtained with either  $\frac{3}{8}$ th or  $\frac{1}{2}$  saturation. This latter figure would vary with different types of soils.
+
+MR. H. W. ROY BERTRAND said that his field experiments did not show the secondary effects of organic manures in soils.
+
+MR. JOACHIM replied that these experiments were carried out under laboratory conditions and there was therefore no loss of nitrate due to leaching, which would be the case in the field, so that there would be no secondary effect in all probability.
+
+MR. CARSON PARKER inquired whether any experiments in nitrification were carried out with Oxalis.
+
+THE DIRECTOR OF AGRICULTURE replied that no such experiments had been carried out. He also stated that it was generally considered advisable in dealing with green manures and cover crops to bury the material green and not allow it to dry before burial.
+
+HIS EXCELLENCY THE GOVERNOR in concluding the discussion said that he listened with great interest to the account of Mr. Joachim's experiments and also the readiness with which Mr. Joachim had replied to the various conundrums put by the gentlemen present.
+
+6------------------------------------------------
+
+263
+
+## Cover Crops and the Possibilities of Utilizing Indigenous Plants.
+
+**T. H. HOLLAND, M.S.E.A.C.,**
+
+*Manager, Experiment Station, Peradeniya.*
+
+**A** GREAT deal of attention has been paid to the question of soil erosion in the last few years, but, though improvements have certainly been effected in some quarters, it cannot be said that they are sufficient to warrant any relaxation of effort. The evil is still one of the gravest which threatens agriculture in Ceylon, and is desirable that attention should be continually focussed upon it.
+
+Two sets of experiments are in progress on the Experiment Station, Peradeniya. Their object is firstly to obtain accurate records of the amount of erosion actually taking place over a known area, and secondly to test various remedial measures.
+
+In the case of the first set of experiments records have been kept since January 1st, 1926. It has been decided that the recording of the initial wash, before any remedial measures are employed, shall be continued up to the end of May, 1927—principally in order to obtain a better season for the planting of the cover crops. The 1926 results however may be quoted for general interest.
+
+The loss during that year from plots of a slope of between 29° and 31°, planted with *Gliricidia* and tea containing a rather large percentage of vacancies and young supplies, amounted to 22 tons of dry soil per acre. This is approximately equal to 52 cubic feet of soil, or 17 inch over the whole surface of an acre. These plots are only 96 feet from top to bottom and have drains 20 feet apart: there is no doubt that even more serious erosion than this is taking place on many cultivated hill sides.
+
+Of all remedial measures for soil erosion the planting of cover crops is undoubtedly one of the most successful, and is adapted to a wide variety of circumstances.
+
+The term "cover crops" is a loose one. The common-sense interpretation would be any crop which covers the soil. For simplicity however I shall take the term to refer to a creeping crop interplanted among a permanent crop. In addition to "cover crops" we have a number of trees and bush plants,
+
+7------------------------------------------------
+
+264
+
+usually belonging to the natural order leguminosae, which are interplanted among permanent crops for a variety of reasons which are not always clearly understood. There is no one term which describes the class of tree or plant I refer to and the variety of objects sought by planting them renders the coining of an appropriate descriptive name difficult. Trees or plants of this class are commonly referred to as "shade trees," "green manure plants," "nitrogenous plants," etc. The objects to be attained by planting such plants have been frequently described in the publications of the Department, but it may be as well to recapitulate them here:—
+
+1. 1. The permanent crop is shaded.
+2. 2. The ground is shaded from exposure to the tropical sun and loss of humus is thus avoided.
+3. 3. The leaves of the trees or plants fall on the ground either naturally or as the result of lopping, and while on the surface form a mulch which assists in conserving moisture in the soil.
+4. 4. The leaves will eventually decay, and, especially if burying is practised, add to the humus, or decayed organic matter, in the soil, thus increasing the soil's power of retaining moisture and stimulating bacterial activity resulting in the production of more available plant food.
+5. 5. If trees or plants of the natural order leguminosae are used, and nodules are formed on their roots, these advantages can be obtained without depleting the soil of nitrogen required for the growth of the plants, since such plants have the power of utilising atmospheric nitrogen.
+6. 6. Soil erosion is lessened, both by breaking the direct fall of rain upon the soil and, in the case of creeping crops or closely planted contour hedges of erect plants, by checking the run off.
+7. 7. Weeds are to some extent kept down.
+8. 8. The soil is kept open by the action of the roots of the plants.
+
+It may be safely stated that whenever any of the plants we are discussing are planted, some of the above advantages are obtained, though the preponderating advantage will depend on the circumstances of the individual case.
+
+There is often a good deal of confusion over the reasons for planting such plants and one or two misleading terms are in common use. I wish to refer especially to the use of the word "nitrogenous." The question is often asked "is such and such a plant nitrogenous." Nitrogenous, I take to mean, containing nitrogen. Now the leaves of every plant contain nitrogen
+
+8------------------------------------------------
+
+265
+
+so the answer to this question would correctly be a monotonous affirmative. The enquirer really means "is the plant leguminous," that is belonging to the natural order leguminosae—the order of plants that bears its seeds in pods or legumes.
+
+The manner in which such plants exert a beneficial effect is sometimes not understood and they are thought to "give off" a manurial value in some mysterious way. There is also a common idea that the leaves of such plants contain more nitrogen than the leaves of plants of other orders. This is an erroneous idea: the leaves of a leguminous plant may or may not contain more nitrogen than those of a non-leguminous plant. In recent experiments at Peradeniya the burial of leaves of the wild sunflower, *Tithonia diversifolia*, resulted in as great an accumulation of Nitrate in the soil as did the burial of the leaves of most of the leguminous plants employed.
+
+It will be seen that only one of the advantages of green manuring or planting of cover crops is exclusively conferred by the use of leguminous plants, and that therefore the use of plants of this order is not essential. That one advantage however is an important one, and where, in other respects, a leguminous plant will serve the purpose as well as a non-leguminous plant the leguminous plant should always be chosen. I am referring now to the growing of such plants on the land itself: where green material is brought in from outside and buried there is ordinarily no advantage in using a leguminous plant.
+
+To return to the particular subject under discussion, that of cover crops, the choice of a cover crop will depend on the locality and the conditions under which the crop is to be grown.
+
+For tea it would appear advisable to choose a crop which will not twine round and tend to smother the tea bushes.
+
+I consider *Indigofera endecaphylla* a most suitable plant for the purpose. It can be easily established from cuttings and will flourish under a wide range of conditions. Favourable reports have been received of its growth at elevations between 500 and 6,000 feet in the following localities:—Polgahawella, Alagala, Haldummulla, Pussellawa, Dimbula, Agrapatnas, Haputale and Bandarawela.
+
+10 acres of tea at the Experiment Station, Peradeniya, have been interplanted with this crop, since November, 1925; the tea is looking well and present indications are that there has been no depressing effect on yield. Both soil erosion and weeding are practically speaking things of the past.
+
+The crop comes on well again after cutting and reports indicate that the growth is improved by forking through it. It therefore forms no impediment to manuring, though the cost of that operation will be somewhat increased.
+
+9------------------------------------------------
+
+266
+
+Planting *Indigofera endecaphylla* in a new clearing requires some consideration; personally I would prefer to give the tea one or two years' start of the *Indigofera*.
+
+For coffee the crop would appear to be equally suitable as for tea.
+
+*Indigofera endecaphylla* will not grow under shade of any density and therefore is of very little use for old rubber. For old rubber *Vigna oligosperma* appears supreme in those districts where it is easily established and grows well; and it is now so extensively grown that planting material can be easily obtained.
+
+It is however desirable to emphasise the fact that there are a number of indigenous plants found growing wild in jungles and new clearings which can often be utilised as cover crops for the cost of their collection and propagation. In many cases when a planter notices such a plant he will send it to the Department of Agriculture with an enquiry as to its "manurial value." The meaning of such a question is not very clear and its utility somewhat doubtful. What the planter wants to know is, will the plant serve the purpose for which he requires it, and does it belong to the natural order Leguminosae.
+
+These two questions, can usually be answered by the planter himself. He knows for what purpose he requires a cover crop and the habit and the conditions of growth of the plant he has found will tell him whether it appears suitable for that purpose. He then requires to know whether the plant is leguminous. If the plant is not in flower or bearing seed it is very probable that, even if a specimen were sent to the Systematic Botanist, he would not be able to identify it with certainty. If it is bearing seed the planter can settle the question for himself. If the seed is borne in pods, then the plant is leguminous. In addition the plant may be carefully dug up to see if nodules are present on the roots. If then a leguminous plant has been found which appears suitable for the purpose in view the best thing to do is to collect all available material and plant it where the cover is wanted. Experience will show the easiest method of propagating it and other points in its cultivation.
+
+It is of course desirable that a specimen with flowers and seed should be sent in to the Systematic Botanist for identification, as it is possible that the Department may have information as to the behaviour of the crop under Peradeniya conditions and the best way of propagating it.
+
+It is true that in many cases the easiest and best procedure is to choose one of the well known introduced cover crops which is known to be suitable to the district and obtain planting material from outside. Such material however has to be paid for and where economy is an important factor the planter would do well to see if he has not a suitable cover crop within the boundaries of his estate.
+
+10------------------------------------------------
+
+267
+
+Probably the most favourable opportunity for the cultivation of Indigenous cover crops will occur in a new clearing. Here a study may be made of the leguminous plants which spring up spontaneously and those which appear useful may be allowed to grow *in situ*: there is no objection to growing a mixture of such plants, except perhaps the difficulty of teaching weeding contractors which to leave.
+
+Trimen mentions sixty-five leguminous plants as being indigenous to Ceylon and many of these are creepers and are capable of being turned to account as cover crops. Many estates have already taken the initiative in this matter: several species of *Desmodium* are fairly extensively grown. *Pycnospora hedysaroides* has been planted on at least one estate in the Kalutara district, *Teramnus labialis* is doing well on a rubber estate in the Kandy district, while the Superintendent of an estate in the Kadugannawa district, who is an enthusiastic Botanist, has found and himself identified twenty indigenous leguminous plants, in one clearing.
+
+A number of Indigenous leguminous creepers are being tried on the Experiment Station, Peradeniya, but I wish to emphasise that, though in the course of time the Department will probably have a good deal of information to impart on the behaviour of these plants under Peradeniya conditions, this is a matter in which estates may advantageously take the initiative.
+
+## Discussion.
+
+MR. T. A. DE MEL stated that near his estate a creeper called *Madu-vel* was common. He had allowed it to grow as it covered weeds and he enquired if it was known to be of value.
+
+MR. A. G. H. ALSTON stated that this plant belonged to the convolvulus family and was therefore not leguminous,
+
+THE DIRECTOR OF AGRICULTURE stated that it was preferable to use leguminous cover crops.
+
+MR. GEORGE BROWN alluded to the fine growth of *Indigofera endecaphylla* in the tea on the Experiment Station, Peradeniya, and asked how it was intended that this should be treated. He thought that this green material should be buried and information on this point would be useful.
+
+MR. HOLLAND replied that it would certainly be an advantage to bury this green crop, but in the case of *Indigofera* he thought it would be expensive. One of the principal objects in planting the cover crop was to check soil erosion and this object would doubtless be best served by leaving the cover intact.
+
+MR. ROY BERTRAND alluded to cover crops in rubber and the use that could be made of them in making additions of nitrogen to the soil of rubber estates.
+
+MR. BRUCE FOOTE also spoke in regard to the use of cover crops in rubber and MR. NEWTON expressed the view that their use might involve some difficulty in the cultivation of tea.
+
+11------------------------------------------------
+
+268
+
+THE DIRECTOR OF AGRICULTURE stated that the experiments in tea on the Experiment Station, Peradeniya, were designed to test whether the use of a creeping cover crop in tea would have any depressing effect on tea yields. No such effect had so far been observed. The question of treatment of *Indigofera* could not be considered until the necessary experimental data had been secured, but there was no doubt that if creeping cover crops were used they must be treated agriculturally. They must either be buried behind envelope forking or trenched. It was not wise to consider that all had been accomplished as soon as the establishment of a cover crop had been effected. Soil aeration had to be maintained and some cultivation would have to be carried out. This was however a matter for experiment and he hoped that estates would take steps to have some experiments to test these points made at an early date.
+
+THE GOVERNOR in concluding the discussion emphasized the importance of the prevention of soil erosion in Ceylon.
+
+12------------------------------------------------
+
+269
+
+## The Mineral Constituents of Ceylon's Fodder Grasses.
+
+**A. W. R. JOACHIM, B.Sc., Dip. Agr. (Cantab.),**
+
+*Chemist, Department of Agriculture.*
+
+**W**ITHIN recent years the question of the mineral constituents of the rations of cattle and other farm animals has come to be regarded as one of great importance in animal nutrition, and much research work has been done on the subject. These investigations have clearly demonstrated that deficiency in the mineral contents of pasture grass and other constituents of the rations of farm animals, have had distinctly harmful effects on the animals so fed. In many cases, however, the adjustment of the mineral balance in the food, has led to a considerable improvement in the condition and health of these animals. This aspect of the subject, as it affects Ceylon cattle, will be dealt with by Mr. Crawford.
+
+As pasture grass forms the chief part of the diet of the majority of our local cattle, analyses of both cultivated and natural pasture grasses from different parts of the Island were undertaken by the Chemical Division, so as to ascertain to what extent if any, our grasses lacked the essential minerals for growth-promotion, etc. Of the numerous elements found in the ash of plants calcium, phosphorus and to a lesser extent chlorine, iron, potash and iodine have been known to influence the constitution and health of farm animals, calcium and phosphorus being essential for bone-formation and milk production. Ceylon soils are generally known to be poor in lime and phosphoric acid and it is considered likely that our pasture grasses will as a result be deficient in these elements. Determinations were therefore made of the lime, and phosphoric acid in all the samples of grasses analysed and of the potash in many of them. In all analyses were made of 16 samples of cultivated grasses. Of these 8 were from the Experiment Station, Peradeniya; 2 from the Government Farm, Ambepusse; 3 from Mr. H.L. De Mel's Cattle Farm, Kurunegala; and 3 from the Experiment Station, Jaffna. The grasses were as far as possible all cut just before the flowering stage, as analyses had shown that the mineral constituents varied considerably with the age of the plant, season, etc. Duplicate analyses were made in all cases.
+
+13------------------------------------------------
+
+270
+
+The grasses analysed included the following:—
+
+Guinea grass A and B, Mauritius grass, Napier's grass, *Paspalum dilatatum*, *Paspalum scrobiculatum*, Buffalo grass, and Efwatakala grass. A summary of the results of these analyses is set out in the Table. A glance at it would show that, with the exception of those from Jaffna, the Ceylon cultivated pasture grasses analysed contain less phosphoric acid, lime and potash than the pasture grasses of the British Isles generally, and are particularly deficient in phosphoric acid. The Jaffna samples contain these elements in even greater proportions than the cultivated British grasses, this being due to the calcareous nature of the soils of the Jaffna peninsula. The Ambepusse samples were poorest in lime, and the Peradeniya samples in phosphoric acid.
+
+### Table of Mineral Contents of Pasture Grasses.
+
+On Material at 100°C.
+
+<table border="1">
+<thead>
+<tr>
+<th>Ceylon Grasses :</th>
+<th>Ash,<br/>%</th>
+<th>Lime<br/>%</th>
+<th>Phos. Acid<br/>%</th>
+<th>Potash<br/>%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jaffna (cultivated)</td>
+<td>13.78</td>
+<td>1.44</td>
+<td>1.09</td>
+<td>3.42</td>
+</tr>
+<tr>
+<td>Peradeniya "</td>
+<td>13.28</td>
+<td>.73</td>
+<td>.30</td>
+<td>1.55</td>
+</tr>
+<tr>
+<td>Average of all samples</td>
+<td>11.34</td>
+<td>.87</td>
+<td>.46</td>
+<td>2.01</td>
+</tr>
+<tr>
+<td>Jaffna (natural)</td>
+<td>15.29</td>
+<td>1.07</td>
+<td>.50</td>
+<td>1.09</td>
+</tr>
+<tr>
+<td>Hambantota (natural)</td>
+<td>16.52</td>
+<td>.68</td>
+<td>.75</td>
+<td>4.30</td>
+</tr>
+<tr>
+<td>Delft "</td>
+<td>10.23</td>
+<td>.39</td>
+<td>.24</td>
+<td>1.65</td>
+</tr>
+<tr>
+<td>Average of all samples</td>
+<td>11.98</td>
+<td>.65</td>
+<td>.36</td>
+<td>1.84</td>
+</tr>
+<tr>
+<td>British Grasses :</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Cultivated grasses</td>
+<td>—</td>
+<td>1.00</td>
+<td>.74</td>
+<td>3.18</td>
+</tr>
+<tr>
+<td>Average hill pasture (grass eaten)</td>
+<td>—</td>
+<td>.65</td>
+<td>.67</td>
+<td>2.66</td>
+</tr>
+<tr>
+<td>Average hill pasture (grass not eaten)</td>
+<td>—</td>
+<td>.30</td>
+<td>.37</td>
+<td>1.61</td>
+</tr>
+<tr>
+<td>Rich pasture</td>
+<td>—</td>
+<td>2.47</td>
+<td>1.00</td>
+<td>2.40</td>
+</tr>
+</tbody>
+</table>
+
+With regard to the mineral analyses of the natural pasture grasses, samples were obtained, through the assistance of the Government Veterinary Surgeon, of the more widely-found indigenous fodder grasses of the different parts of the Island. The samples, as was to be expected, were not all at the same stage of growth. Some of the species were common to many districts. Analyses were made of 30 of these grasses obtained from the following districts:—Ratnapura, Kegalle, Kurunegala, Jaffna, Anuradhapura, Peradeniya, Nuwara Eliya, Kalutara, Veyangoda, Minneriya, Ambepusse, Hambantota and Delft. The analyses reveal wide variations in the lime and phosphoric acid contents of these grasses, but as in the case of the cultivated grasses, soil conditions seem to have had a marked effect on their mineral constitution. Thus the Jaffna and Hambantota grasses are rich in essential minerals, while the samples from Delft, Minneriya etc. are poor in this respect. The Jaffna natural pasture
+
+14------------------------------------------------
+
+271
+
+grasses are found to have highest lime and high phosphoric acid contents, the quantities of these elements found in these grasses being higher even than those of the majority of the cultivated Ceylon grasses. The Hambantota grasses have highest phosphoric acid and potash contents. The Ceylon natural pasture grasses contain on the average lower quantities of lime, phosphoric acid and potash than the cultivated grasses, but the difference is not as great as was expected. As compared with British natural grasses, the Ceylon natural pasture grasses are poorer than the British hill pasture grasses (grass eaten) in phosphoric acid and potash, but have about the same lime percentage as the latter. They are however richer than the British hill pasture grasses not eaten by cattle. On the whole it may be stated that our Ceylon grasses both cultivated and natural are poorer in lime, phosphoric acid and potash than the corresponding British grasses, and especially so in phosphoric acid. There are however notable exceptions in this respect, *e.g.*, the samples from Jaffna. It has however to be pointed out that both cultivated and natural grasses will show considerable variation in their mineral constitution, depending on the species, stage of growth, and season apart from soil and manurial conditions. But the figures for Ceylon grasses already quoted give a sufficiently accurate idea of the average mineral constitution of our grasses. In the light of these analyses, it can now be understood to some extent at least, why the majority of our cattle, the greater number of which live on pasture grass alone, are so poorly conditioned.
+
+15------------------------------------------------
+
+272
+
+# The Influence of the Various Mineral Constituents on Animal Nutrition, and the Effects of Deficiencies and Evidence of such in Ceylon.
+
+**M. CRAWFORD, M.R.C.V.S.,**
+
+*Assistant Veterinary Surgeon. Ceylon.*
+
+**C**EYLON cattle and other live-stock are inferior in some respects to those of other countries. This inferiority has been attributed to a variety of causes—for instance, the hot climate, insufficiency of pasture, disease, and lack of skill on the part of the cattle-breeders. None of these causes offers an adequate explanation.
+
+Hot climate cannot be held to be the cause in view of the fact that other countries with similar or even hotter climates can breed much superior cattle: Parts of India, Texas, the Argentine, and Australia, for example. Probably the hot climate has some detrimental effect on cattle imported from the Temperate Zone; but even for such cattle, in my limited experience, the climate of Colombo does not appear to have any very serious ill effects, granted that conditions of feeding and management be attended to.
+
+The position as regards disease in Ceylon is much better than, for instance, in India or South Africa. Rinderpest is not enzootic as it is in India; Surra is not present to the same extent; Foot and Mouth disease and Piroplasmosis are no worse than in India; T.B. & C.A. and such diseases as East Coast Fever, and Nagana are unknown in Ceylon.
+
+As regards our horses, they are remarkably free from disease with the exception of Osteoporosis; and this is an important exception in connection with the subject we are discussing. Such diseases as Glanders, Equino Piroplasmosis, African Horse Sickness, and Dourine are absent, while Surra is practically unknown.
+
+It will, therefore, be seen that as far as disease is concerned, we are in a much better position than many other countries.
+
+In parts of the Island, there are occasions when pasture is scarce, especially during dry weather. Ceylon does not, however, suffer from droughts, comparable with such as occur in Australia and Texas, where thousands of head of stock may
+
+16------------------------------------------------
+
+273
+
+succumb in a severe drought. The wet zone practically never suffers from severe drought. The opening up of large areas under cultivated crops, such as tea and rubber, has undoubtedly lessened the area of jungle and waste land available for grazing in parts of the Island. At the same time, it must be pointed out that there is no evidence that the inferiority of Ceylon cattle dates from the opening up of such cultivated areas; nor are the cattle of the planting districts inferior to those of non-planting districts. Again, cattle kept on coconut estates in the Western Province, where pasture is generally available practically the whole year round, show the same inferiority. On our Farm at Ambepussa, where of recent years pasture has been ample all the year round, the cattle, although they appear full, do not develop as they should.
+
+Lack of skill on the part of cattle-breeders does exist, but I am inclined to think that this is an effect rather than a cause. That the Ceylon cattle-breeder has not reached a higher standard in the art of cattle-breeding is more likely to be due to lack of response on the part of his raw material rather than to inherent incapability of mastering the subject. Included under this head, inbreeding is frequently advanced as a potent cause of the trouble, yet no convincing evidence that inbreeding is unduly rife is brought forward.
+
+Until recent years, practically the sole means of transport in Ceylon was by cattle transport. The constant movement of carts from one part of the Island to the other must have resulted in the mixing of strains from different localities. Again, in the past, there has been a tendency to exaggerate the evils of inbreeding. Indiscriminate inbreeding may be harmful, but inbreeding with rigid elimination of weakly and unfit specimens is not. Witness the development of such breeds of cattle as the Short-horn, Hereford, and Aberdeen Angus, and the Thoroughbred horse.
+
+The vast majority of Ceylon village cattle are quite uncared for in any way, and under such conditions, weakly and unfit calves die at an early age, leaving only the stronger and fitter to carry on the race, and thus minimising the effects of inbreeding if such should occur.
+
+As none of the above factors appears to offer an adequate explanation of the inferiority, I would suggest another possible factor, namely, deficiency of certain mineral elements in the soil and pasture. The mineral constituents of a food-stuff are those substances, which remain as a residue after combustion of a sample. In an analysis of a food-stuff, they are all grouped together under the heading "Ash." This heading includes such substances as Calcium, Phosphorus, Potassium, Sodium, Magnesium, Iron, Silicon and Iodine. They are not present in
+
+17------------------------------------------------
+
+274
+
+the food-stuff, nor in the animal body in a pure state, but as salts of the various Acids, such as Calcium Carbonate, Iodine Chloride, Magnesium Sulphate, etc.
+
+Each of these substances is present in varying amounts in the different grasses and fodders, and in varying amounts in samples of grasses of the same botanical species grown on different soils. It will be readily understood that as the plant derives these substances from the soil, the amounts in which they are present in the plant will vary with the nature of the soil.
+
+Grouping them all together, Smith, in his Veterinary Physiology, summarises their functions as follows:—
+
+“The salts of the body direct its metabolism: they are connected with assimilation, secretion, and excretion, and the building up of the skeleton. Moreover, they maintain the blood and lymph at neutrality; the saliva alkaline, the gastric juice acid, the intestinal fluid alkaline, and the urine alkaline or acid depending on the species of animal. They also regulate the water flow from blood to tissue and *vice versa*; they play an essential part in blood clotting, rhythmical contraction of the heart, irritability of muscle and nerve, milk curding, and growth.”
+
+It will be seen then that their functions are important and varied. A few of the more important of these substances merit a more detailed description: Calcium, for instance, forms a greater part of the animal body than any other of the mineral elements. It is present in all the tissues of the body, but in greatest amount in bone. It is an essential part of the structure of bones, teeth, tusks, and horns; and hence young, growing animals require larger amounts than adults. If adequate amounts are not available in the diet, neither bone, horn, nor tusks can reach their fullest developments.
+
+Large amounts of Calcium are excreted daily in the milk of lactating animals, varying with the quantity of milk produced. A cow giving 12 bottles of milk per day will excrete in the milk alone about 1½ oz. Calcium in addition to that excreted in the fæces and urine.
+
+As well as being required for the development and replacement of wear and tear in bony structures, and for the production of milk, Calcium has another and very important function.
+
+In the daily metabolism of the body, that is, the digestion of food, the breaking down, and building up of body tissues, and the production of energy, etc., injurious acids, such as Carbonic, Phosphoric, Sulphuric, and Hydrochloric, are produced. In order that these injurious acids may be rendered harmless, and removed from the body, they must combine with basic elements, such as Calcium, Potassium, Magnesium, and Sodium. An
+
+18------------------------------------------------
+
+275
+
+animal, which is fed on a ration rich in acid elements, will, therefore, require large quantities of the basic elements including Calcium to effect their removal.
+
+The diet of cattle containing, as it does, a large proportion of grass, is unlikely to contain an excess of acid elements, unless the grass is grown on sour, swampy, soil, when it may contain a high percentage of Oxalic Acid; but in the case of the ration, usually fed to horses in Ceylon, this factor is apparently of importance.
+
+Horses in Ceylon are fed almost entirely on cereals, such as Oats, Bran, and Chaff; they get no hay, and comparatively little grass. Cereals, as a class, are poor in Calcium, but are rich in Phosphorus. Hence the horses are frequently receiving less than their minimum requirements of Calcium, and at the same time, a heavy excess of phosphorus, which, in its elimination, depletes the body of its basic elements including Calcium. This I consider to be undoubtedly the cause of the prevalence of **Osteoporosis among horses in Ceylon.**
+
+Sufficient has been said to show that Calcium is a very essential element of the diet for growth, especially of the skeleton, milk production, and the maintenance of a proper balance between the acid and basic constituents of the body.
+
+**Phosphorus.**—Like Calcium, Phosphorus is an essential part of the bony and connected structures, and when it is deficient in the diet, the best development of these structures cannot be obtained. It is also excreted in large amounts in the milk.
+
+Sir Arnold Theiler's work in South Africa with cattle, bred from imported European stock and reared on veldt soils deficient in Phosphorus, has directed attention to the great importance of this element in the diet.
+
+His work shows that in addition to being required for the actual building up of bone, and for the continued production of milk, it has a general stimulating effect on the whole system; for instance, young cattle, which had remained practically stationary in growth and weight for months on Phosphorus-deficient pasture, made remarkable increases in weight, following the addition of small quantities of Phosphorus in the form of Bone Meal to the diet.
+
+One lot of cattle getting bone meal in addition to the grazing gained an average of 320 lb. per head in 10 months, while a corresponding lot in the same pasture, but not getting bone meal, gained only 70 lb. per head. On reversing the experiment, that is, transferring the bone meal from one lot to the other, the results were even more striking, for the lot, which in the previous 10 months had gained only 70 lb. per head, now gained 200 lb. per head in 4 months, while the others gained only 20 lb. per head.
+
+19------------------------------------------------
+
+276
+
+These remarkable increases in weight were due to a certain extent to the formation of new bone, but also to the production of fat and muscle, thus showing that Phosphorus, in addition to being used as a building stone in the formation of bone, had acted as a general stimulant to all the vital processes of the body. An effect, which, as Theiler points out, is very similar to that produced by vitamins.
+
+An excess of Phosphorus, especially if there be a deficiency of Calcium and other basic elements, may have injurious effects by causing a drain on the Calcium reserves of the body.
+
+Potassium, Sodium, and Magnesium are present in all the tissues, and tissue fluids of the body, but in much smaller amounts than in the case of Calcium and Phosphorus. The risk of their being deficient in the diet is, therefore, less than in the case of Calcium and Phosphorus.
+
+Their chief function is the maintenance of the proper balance between the acid and basic constituents of the body fluids. This is a most important function. The blood plasma, for instance, comes into contact, directly or indirectly, with all the cells of the body. These cells are very sensitive to, and adversely affected by, any increase in the acidity of the fluid. The ordinary activities of the body entail the combustion of Proteins, Fat, and Carbohydrates with the production of such injurious substances as Carbonic, Hippuric, Uric, Sulphuric, Hydrochloric, and Phosphoric Acids. These must all be neutralised and removed as they are produced. This neutralisation is effected by their combination with the bases, *e.g.*, Pot: Sod: and Mag: Calcium and N.H. 4 to form neutral salts. If any of these be deficient in the food, there is a call on the reserve stores in the bones and other body tissues. In addition, they are required to maintain the osmotic pressure of the cells and body fluids at the level necessary for the carrying on of their vital functions.
+
+Considerable amounts of Potassium are excreted in the milk.
+
+**Iodine**—Is required for the formation of the active principle of the thyroid gland, which has very important functions in the regulation of metabolism and growth.
+
+**Iron**—Is an essential constituent of the Haemoglobin of the blood, and plays an important part in oxidation and catalysis of enzymes.
+
+**Silicon**—Is present in minute quantities in bone, horn, and hair. It is an element not at all deficient in Ceylon pasture; in fact it is more likely to be present in excess. In combination with Calcium as Calcium Silicate it forms a very insoluble substance, so that Calcium, present in a pasture grass in the form of Calcium Silicate, is of no value to the animal body. For instance, rice bran, on chemical analysis, showed a high percentage of Calcium,
+
+20------------------------------------------------
+
+277
+
+yet on feeding this to young cattle, the results were very disappointing. This was probably due to the fact that much of the Calcium was in the form of insoluble Calcium Silicate.
+
+An adequate supply of these substances, then, is essential for the proper growth, and development of animals. The following ill-effects have been found to follow when the diet is deficient in one or more of the elements.
+
+The young animals grow slowly, and take a long time to mature; they are stunted in size, and show very poor development of the bony skeleton, and its associated structures, such as tusks and horns. The death-rate especially among young stock is high; calves at birth are very small; the rate of sterility is high; "Pica" or depraved appetite is common, and the animals are seen to eat clay, sand, earth from ant-hills, lime-wash from walls and other kinds of rubbish. When Phosphorus is the element which is deficient, a particular form of depraved appetite in which cattle will readily eat bones, may be developed.
+
+Diseases, such as osteoporosis and osteomalacia, are prevalent. If Iodine be deficient, goitre is common.
+
+On certain pastures in New Zealand, which appeared luxuriant and abundant, but which were shown to be deficient in Iron and Phosphorus, it was found that cattle could not live for longer than 12 months, while sheep died within 3 months.
+
+All these ill-effects will be shown in their most striking form, when cattle of improved, quickly-growing, and deep-milking breeds are introduced to an area, where mineral constituents are deficient.
+
+The indigenous cattle of such areas, while they are small in size, and mature very slowly, are unlikely to show the more striking ill-effects, such as the development of osteomalacia.
+
+The condition of affairs as found in Ceylon agrees very closely with the symptoms detailed above, which have been shown to be due to deficiency of mineral elements.
+
+Our native cattle are of very small size, grow, and mature very slowly, their bones are very light, and poorly developed, the horns are small and stunted, and milk-producing powers are very poor. On the other hand, it must be pointed out that the muscular development of cart-bulls is good for the size of the animals. This applies, however, only to matured adult cattle over 6 years of age. The natural rate of increase is very low, the cattle population having remained practically stationary at 1,500,000 for the past 20 years, as far as statistics show.
+
+The failure of the cattle population to increase is not due to deaths from contagious diseases, nor to slaughter of cattle for food purposes, and indicates a high rate of sterility and calf mortality.
+
+21------------------------------------------------
+
+278
+
+As regards imported cattle of improved breeds, it is quite impossible to keep them entirely on grazing. They must be stall-fed, or they succumb.
+
+Bone-eating is not very common, but is seen in parts of the Island.
+
+Depraved appetite is very common, the usual substances eaten being gravel, earth from ant-hills, and lime-wash off walls.
+
+Ceylon-bred horses, with the exception of a few bred on Delft, are almost invariably stunted, weedy specimens. They are cow hocked, droop rumped, and knock-kneed.
+
+Osteoporosis is very common, especially among imported horses. This disease does not occur in the Jaffna Peninsula or on the islands off the north-west coast.
+
+Ceylon-bred buffalos are smaller in size, and slower in rate of growth than Indian buffalos, and have not the same size and thickness of horn. Wild buffalos in the Game Sanctuary are larger than the domesticated stock.
+
+Ceylon Goats are rather small, but are not so greatly inferior as the cattle, horses, and buffalos.
+
+As regards wild animals, a striking feature is the inferiority in horn and tusk of Ceylon Herbivora, compared with similar species in India.
+
+Sir Samuel Baker's remarks on this point in his book, *Eight Years in Ceylon*, are of interest. After stating that tusks in elephants in Ceylon are of the greatest variety, he says, "Nothing produces ivory or horn in fine specimens throughout Ceylon. Although some of the buffalos have tolerably fine heads, they will not bear a comparison with those of other countries. The horns of the native cattle are not above 4 inches in length. The elks' and the spotted deer's antlers are small, compared with deer of their size on the continent of India. In India, the bull elephants have tusks, and the cattle and buffalos have very large horns. My opinion is that there are elements wanting in the Ceylon pasturage (which is generally poor) for the formation of both horn and ivory."
+
+These remarks by Sir Samuel Baker will be borne out by any sportsman familiar with Ceylon game.
+
+The preference, which wild animals show for water from dirty, muddy pools even when clear, river water is available close at hand, is probably a form of pica.
+
+Ceylon carnivora are not, to my knowledge, inferior to those of similar species in India.
+
+To summarise—Ceylon herbivora are deficient in the following respects; Firstly in development of the bony skeleton and its associated structures, such as horn and tusk; secondly in rate of growth; thirdly, in milk-producing powers; fourthly
+
+22------------------------------------------------
+
+279
+
+Osteoporosis occurs commonly in horses all over the Island with the exception of the Jaffna Peninsula and Delft Island; fifthly the rate of increase of the cattle population is almost nil; and sixthly, imported stock of larger and better breeds cannot live on Ceylon pasture without supplementary feeding.
+
+These deficiencies are not shown to the same extent by goats, whose diet consist of shrubs and bushes rather than grass and are not shown at all by Ceylon carnivora.
+
+It will be seen, therefore, that there is a close analogy between the state of affairs in Ceylon, and certain effects, which it has been proved, can be produced by deficiency of mineral elements. Judging from the evidence shown by the live-stock, the elements, which one would expect to find deficient, are Calcium and Phosphorus. Mr. Joachim's analyses of pastures show that these two elements are generally deficient save in the Hambantota and Jaffna districts.
+
+It is of interest that grass from Jaffna and Hambantota districts did not show deficiency of Calcium or Phosphorus. In Jaffna, Osteoporosis does not occur, while the ability of the pasture of the Hambantota district to maintain live-stock has been well shown by the rate, at which game have increased in the Yala Game Sanctuary.
+
+The following methods have been adopted in various parts of the world to supply deficient minerals:—
+
+1. (1) Manuring the soil with Phosphatic manures and Calcium. This is obviously the most direct method of attack, but has the drawback of being expensive. It is more suited to mixed farming than to grazing.
+2. (2) Supplementing the grazing by food-stuffs known to be rich in the deficient minerals. As regards Phosphorus, there are many food-stuffs, available in Ceylon, rich in this element. For example, the various poonacs and pollard.
+
+Food-stuffs rich in Calcium are, however, scarce in Ceylon, and of the commonly-used food-stuffs, two only can be classified as satisfactory suppliers of Calcium, namely, Gingelly Poonac and Dhall. As a class, food-stuffs derived from the Leguminosae are rich in Calcium. The well-known value of Lucerne for cattle and horse feeding is probably connected with its high Calcium content. Efforts to acclimatise this plant in Ceylon are worthy of support.
+
+1. (3) Addition of Bone Meal: This would appear to be the most practical method available. It has given very good results in South Africa, America, and England. By feeding bone meal, both Calcium and Phosphorus
+
+23------------------------------------------------
+
+280
+
+are supplied in a form readily availed of by the animal body. Bone meal may be fed by mixing with the other food-stuffs, if such are being fed. For cattle on pasture, it can be mixed with a little salt, and given as a lick, or the cattle may be passed through a crush, and a known quantity administered to each one as it passes. Theiler's work has shown that spasmodic feeding of bone meal is worthless. To obtain results, it must be given daily.
+
+The bone meal used must be guaranteed sterile, and fit for live-stock feeding. Ordinary bone manure should not be used on account of the risk of introducing disease.
+
+Special brands of bone meal suitable for this purpose are now on the market, and can be obtained in Colombo.
+
+Any of these three methods can be recommended to Ceylon cattle-breeders. It should be pointed out that the cost of the bone meal will be largely recovered in the enhanced value of the manure from the cattle.
+
+## Discussion.
+
+MR. STURGESS remarked that all he had heard that day connected with diseases and deficiencies directed attention to the wonderful balance of nature.
+
+The problems regarding mineral deficiencies in diet of animals had come into prominence during the last decade together with vitamins, deficiency diseases and the very powerful glandular extracts.
+
+Up to 1914 the teaching was that animals obtained what they required from the food with the exception of common salt which all admitted to be beneficial.
+
+Regarding nutrition attention was focussed on proteins, carbohydrates and fats and little attention paid to the "Ash" except to replace what was removed by plants from the soil. He suggested that in future analyses should be complete and show the constituents of the ash, and it would be very useful if such analyses were recorded for each district and a map made showing the deficiencies or excesses for each district.
+
+Nature has prescribed an optimum composition which cannot be improved upon but is easily upset.
+
+The Law of the minimum (applied) want of a particular element may cause effects in one of two ways—either by its absence, or by the toxic effects of others in excess normally restrained by the absent element.
+
+Mineral matters are mostly electrolytes and their action is synergic.
+
+As well as a minimum requirement—the proper ratio of one to the other must be maintained.
+
+Bases in excess were always required to neutralise acids formed in the metabolic processes of the living body—sourness in soil or nourishment was detrimental to plants and animals alike.
+
+24------------------------------------------------
+
+281
+
+Milk contained the elements necessary in proper proportions and will maintain it powerfully. If bases are deficient the tissues withdraw it from the alkali reserves in the body and if persistent shortage goes on will abstract it from the last line of alkali reserve, viz., the bony skeleton. Calcium was probably the most important element of all. It has great effect on the permeability of the cell wall and acted as a restrainer of regulator.
+
+It is specially required at three periods of life—
+
+*Growth*—when the bulk is increasing
+
+*Pregnancy*—when the mother must supply nutriment for the offspring
+
+*Lactation*—when a large quantity is abstracted in the milk.
+
+It was usually combined with phosphorus and a third substance was necessary for proper nutrition namely Vitamin D. or the antirachitic vitamine.
+
+Regarding ourselves most of us got along very well but there were many instances of weakly constitution—mostly due to accumulated errors mainly dietetic. Eventually the whole gamut of deficiency effects appeared—stunted growth, malnutrition—deficient lactation—neurasthenia and such diseases as urticaria and sprue. Most of these run parallel with the mineral contents of the blood and tissues—chiefly calcium.
+
+Generalisation was not safe in prescribing supplementary mineral constituents and the decision as to their composition must always be based on an accurate analysis of the diet.
+
+There were many instances of natural craving to be observed—possibly the local custom of taking lime (calcium) with “*betel*” was one.
+
+Both animals and plants had a remarkable power of selection and storage. Tissues often show a composition widely different from the medium in which they exist—for example *Nitella* in Pond water, with reference to plants and the blood corpuscles in the plasma in which they flow with reference to animals.
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th><i>Per million parts.</i></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i>Nitella tissues</i></td>
+<td></td>
+<td><i>Pond water in which</i></td>
+</tr>
+<tr>
+<td><i>and sap</i></td>
+<td></td>
+<td><i>it grows</i></td>
+</tr>
+<tr>
+<td>Sodium 230</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr>
+<td>Potassium 2'120</td>
+<td></td>
+<td>trace.</td>
+</tr>
+<tr>
+<td></td>
+<td><i>Per thousand parts.</i></td>
+<td></td>
+</tr>
+<tr>
+<td><i>Blood cells</i></td>
+<td></td>
+<td><i>Plasma in which they flow</i></td>
+</tr>
+<tr>
+<td>Sodium trace</td>
+<td></td>
+<td>4'358</td>
+</tr>
+<tr>
+<td>Potassium 3'326</td>
+<td></td>
+<td>0'254</td>
+</tr>
+</tbody>
+</table>
+
+How all these changes came about was a puzzle yet to be solved.
+
+HIS EXCELLENCY the GOVERNOR concluded the discussion by thanking Messrs. Joachim and Crawford for their interesting papers.
+
+25------------------------------------------------
+
+282
+
+## Third Day.—March 11, 1927.
+
+### Morning Session.
+
+---
+
+## Village Agriculture.
+
+---
+
+HIS EXCELLENCY THE GOVERNOR PRESIDED.
+
+**I**N opening the Agricultural Conference on the third day of its session, His Excellency the Governor said: Before we begin the business of the day I propose laying on the table a paper to which I personally attach very great importance and which is entitled "Some Reflections on the Ceylon Land Question." It will ultimately form part of the records of the present session of the Conference and I have arranged with the Press to place two copies in their hands, and I understand they will arrange among themselves to pool the manuscript for the use of all the newspapers.
+
+I would ask the newspapers to give the document as wide a publicity as possible and I hope the public of this Colony and all sections of it who are interested in our land question,—and I know no section which is not consciously or unconsciously interested in it very deeply,—will read what I have written, ponder over the conclusions which I have suggested and the possible escapes from our dilemma which I have had the hardihood to propose for consideration.
+
+I think those of you who have attended the Conference for the last two days owe me a debt of gratitude for not reading this bulky document which runs into 35 pages of typescript and will probably take two hours to read:—
+
+26------------------------------------------------
+
+283
+
+## Some Reflections on the Ceylon Land Question.
+
+**HIS EXCELLENCY SIR HUGH CLIFFORD,**  
+**G.C.M.G., G.B.E.,**  
+*Governor of Ceylon.*
+
+Gentlemen,
+
+Having been invited by Mr. Stockdale, the Director of Agriculture, to preside at this, the second Annual Agricultural Conference, and having accepted his proposal with alacrity, feeling sure that the deliberations of the Conference would be—as they have in fact proved—at once interesting and instructive, it has occurred to me that this would afford to me a convenient and suitable opportunity of giving public expression to some of the opinions which I have formed on the subject of our local Land Question. It is a matter of enormous importance to all communities throughout Ceylon, but it may perhaps be claimed that it holds a special interest for an audience such as that which gathers together to attend these Conferences; and, if to-day I make somewhat extravagant demands upon your time and upon your patience, I would ask you to remember that, in existing circumstances, the occasions upon which the Governor of Ceylon is able to address a local audience in a really comprehensive fashion upon any question of public interest and moment are very few.
+
+It is probable that, in the course of my address to you, I may find myself compelled to make comments or to state opinions that may not be universally acceptable. If that prove to be the case, I desire from the outset to disclaim any intention to wound the susceptibilities of even the most sensitive, and to say, once for all, how earnest and sincere will be my regret if I have the ill-fortune inadvertently to do so. The Land Question, moreover, is a matter of such tremendous moment and, I might add, of such stupendous difficulty, that it is essential that its complexities should be explored with the calm and with the mental detachment of statesmen, not with the fire and fury of political partisans; and I feel complete confidence that the Unofficial Members of the Legislative Council, who will form the majority of the Commission which is about to be appointed to investigate our land problems and to devise solutions for them, will approach their very responsible task in the former spirit. On the other hand, it is essential that all the facts that bear upon this question should be frankly and soberly stated; and that the opinions which
+
+27------------------------------------------------
+
+284
+
+have been formed by various students of these problems, who have approached them from different points-of-view or who regard them from widely divergent angles, should one and all be impartially examined. Each of them is to be recognized as a serious contribution to the discussion and, as such, is deserving of a patient and respectful hearing, even from those who are reluctant to admit the accuracy of the premises upon which they are based, or who are impelled to reject the conclusions that are therefrom deduced.
+
+I have noticed since my return to Ceylon a prevalent practice of some of our local publicists whereunder they make it a major premiss of their political arguments that the Administration, of which I have the honour to be the temporary Head, is constitutionally and temperamentally incapable of understanding the problems peculiar to Ceylon, and that therefore all its activities must probably, if not inevitably, be mischievous, and opposed to the true interests of the permanent population of this Island. I do not for a moment believe that any of those who have a first-hand knowledge of the fashion in which public business is to-day being transacted by the Government of Ceylon gives credit to this myth; but it may be questioned whether such an assumption creates an atmosphere very propitious for the calm and wise discussion of public affairs. Moreover, the knowledge that any public utterance by a spokesman of the Government is liable to be made the subject of misunderstanding, or even of misrepresentation, imposes upon me and upon my principal colleagues a reticence concerning unpalatable facts and an economy of exposition which, while they obviously constitute the line of least resistance, are certainly not in the public interest, and contribute to that atmosphere of unreality in which questions of the utmost local importance are to-day too frequently discussed in Ceylon. I have, of set purpose, prefaced what I am about to say by the foregoing remarks, not because it is my intention to hurt or wound any man's susceptibilities, but because in what follows I propose to state facts, as I see them, quite freely and frankly, believing that I shall thereby be rendering a not unimportant service to the people of this Island. I ask no one to agree with me, unless he find himself honestly able to do so; but I none the less claim that, in common with those of other students of this highly complicated question, the opinions which I hold are entitled to receive a patient and a courteous hearing, and that they should be pondered upon as the plain speaking of a friend, who is at once honestly and sincerely anxious to see one of the most important and urgent of our local problems finally and successfully solved, and that in a manner which will promote the best interest of Ceylon and those of its inhabitants. As Whewell, the famous Master of Trinity, Cambridge, said more
+
+28------------------------------------------------
+
+285
+
+than half a century ago, "We are none of us infallible—not even the youngest!"—and I, who, alas, have long turned my back upon the youth that once was mine, have learned as one of the mortifying experiences of age that right judgment—even though judgment be arrived at as the result of the most anxious and searching thought—is something that the mere passage of the years in no wise avails to insure.
+
+First of all, then, I desire to express my deep satisfaction at the action of the Legislative Council in having decided to refer the Land Question, in all its aspects, to a Commission specially appointed for the purpose; and I wish also to congratulate the majority of Honourable Members who elected that this vastly important inquiry should be entrusted to a Commission, rather than to a Select Committee of the Council. In my time, I have sat on more Committees and Commissions than I care to count; and my experience is that, no matter how thorough, how meticulous, the examination of technical witnesses by such a Body may be, the advantage of having among its members men possessing intimate, first-hand, practical knowledge of the technical aspects of a question—who are always at hand to supply information to their colleagues or to correct misunderstandings concerning the technique of the matter—is really quite incalculably great. For this even the most exhaustive cross-examination of technical witnesses, and the most patient study of their evidence, furnish, at the best, but a sorry substitute.
+
+The majority of the Commission will, of course, be composed of Unofficial Members of the Legislative Council; but I propose to appoint the Controller of Revenue as Chairman, and as their colleagues the Surveyor-General, an experienced Government Agent,—in this case Mr. Brayne, who is specially interested in land questions and in the stimulation and encouragement of peasant-proprietorship—and the Land Settlement Officer, Mr. Archibald.
+
+I say that I rejoice at the appointment of this Commission, and indeed I regard its establishment as one of the most important events in the recent history of the Colony. In 1912, when I was serving here as the Colonial Secretary, I—as the result of some five years devoted to the study of local questions—did my utmost to get the entire Land Policy of the Government consigned to the melting-pot precisely as is about to be done to-day; and my principal supporter and adviser in the matter was Sir John Fraser—as he has since become—while we also received some measure of assistance from the then Surveyor-General, Mr. Warren. That, however, was one of my failures, for I was met with a refusal that left me no alternative but its loyal acceptance. I still regret that decision, and I am glad that the chance has been afforded to me, nearly a decade and a half later, of tak-
+
+29------------------------------------------------
+
+286
+
+ing as Governor the action which I failed to persuade my Chief to approve when I was here as Colonial Secretary.
+
+And now, at last, I turn to the Land Question; and I shall begin by commenting very briefly upon a point which seems to have excited considerable interest during the recent debate in the Legislative Council—viz., whether in ancient times waste and unoccupied land was or was not vested in the sovereign. To me it seems that the matter is one of historical and academic, rather than of practical interest. By section 6 of Ordinance No. 12 of 1840, “all forest, waste, unoccupied, or uncultivated lands” are “presumed to be the property of the Crown until the contrary is proved;” and that is the law as it stands to-day. As I understand the contention of some of my honourable friends, their claim is that “forest, waste, unoccupied, or uncultivated lands” should by right be vested, not in the Crown, but in the people. But, I would ask, for practical purposes, is not this a distinction without a difference? What do we mean by such land being “vested in the Crown?” Not that His Most Gracious Majesty, personally or through the agency of his servants, desires or proposes to put it to uses of his own, but that all such land is to be recognized, not as the property of individuals, but as one of the principal public assets of Ceylon. As such, the Colonial Government—whether it be constituted as it was in the past under the old Crown Colony system of administration, or as it is constituted to-day, when the power of decision in matters great and small has in the main been transferred to the chosen representatives of the people of this Island, or as it may hereafter be constituted in some yet more liberal mould—however, I say, the Government of Ceylon may be constituted, it will always be one of its primary and most imperative duties to guard and defend the land—this great asset of the people, of the taxpayers—from encroachment by individuals or groups of individuals; and further, to the best of its ability, to see that it is alienated in the manner most nicely calculated to promote the prosperity of the Island and the highest interest of its inhabitants. Our existing land laws have no other object than that of protecting this great public asset; and one of the reasons why I so ardently desire to see those laws scrutinized and revised is that, in practice, they have proved inefficient instruments for this purpose, deplorably slow and cumbersome in their operation, and a source of constant misunderstanding and friction between the Government and the public who, after all, are the people whose individual and collective interests in “forest, waste, and unoccupied lands” it is the object of the Government to safeguard and secure.
+
+In this connection, I would remark that it appears to be very generally assumed in Ceylon that, in taking the action imposed upon it by the existing land laws with the object of defend-
+
+30------------------------------------------------
+
+287
+
+ing this great public asset from encroachments, the Government is serving some obscure purposes of its own which, in a manner to me even more obscure, are supposed to redound to its—the Government's—individual advantage, and to work an injury to the people of the country, whose collective property it is endeavouring to administer and to safeguard. But, I would ask you calmly and impartially to consider, what purposes can the Government conceivably have to serve in this matter save that of what it regards as the public interest? As you are aware, so determined is the Government of Great Britain that the European servants of the Crown serving in Colonies such as Ceylon should be able to deal with land questions in complete freedom from any temptation to further their own interests, that it has been made an essential condition of our employment under the Crown that no one of us is allowed to possess a square yard of land in the Colonies in which we are serving. In the course of my long public service I have witnessed on the spot tin booms in Malaya, an oil boom in Trinidad, the great rubber boom of 1910 in Ceylon, a cocoa boom in the Gold Coast, and a ground-nut boom in Nigeria; and I recently returned to Ceylon to find yet another rubber boom in progress; but in none of these was it Colonial public servants who enriched themselves by the opportunities for the rapid acquisition of wealth which these events afforded. We can, therefore, put out of our minds the idea that public servants in Ceylon have any personal financial interests to serve or to bias their judgment in dealing, on behalf of the taxpayers, with Crown land—the great public asset that is entrusted to their guardianship.
+
+As a further safeguard, any preferential sale of Crown land—viz., a sale of land to an individual or to a corporation otherwise than by open competition—has to be reported and explained to the Secretary of State for the Colonies, and unless he is satisfied that it is in every respect a proper transaction, his approval of it is withheld and the purchase does not take place.
+
+A suspicion is in some quarters entertained, I understand, that Government Agents and Assistant Government Agents are apt to favour unduly applications for the sale to them of Crown Land from European planters and planting companies; and I have even seen it suggested that they are occasionally neglectful of the interests of the village communities in their Provinces or Districts, preferring before them those of the planters. I occupied the Colonial Secretary's office-chair in this Colony for more than five years, and I can and do bear unhesitating testimony to the fact that every application for land from European or Ceylonese planters received at the hands of the Revenue Officers of that time the most searching scrutiny; that the requirements of the villagers were invariably their first consideration,
+
+31------------------------------------------------
+
+288
+
+and that they were prepared to fight tooth and nail to prevent encroachment upon them. The notion that European officials should naturally be inclined to favour their own countrymen in such matters has a certain *vraisemblance* that renders it easy of acceptance by persons who have not had many opportunities of acquainting themselves with the actual facts. Quite apart from the fact that the series of scrutinies and examinations to which land proposed for sale is subjected in Ceylon renders any such favouritism exceedingly difficult, I have never served with any body of men who have a higher sense of duty in such matters, or who are more sensible of their responsibilities toward the peasants of their Provinces and Districts than the Revenue Officers of this Island.
+
+On the other hand it is claimed that the administration of the land laws of Ceylon by public servants has, on occasion, been too harsh, too rigid, too unsympathetic; and that there is a measure of truth in this allegation I, for one, am not concerned to deny or to dispute. It is a frequent experience that the most lavish and generous-minded of men, whose liberality when dealing with their private affairs is proverbial, not uncommonly become transformed into the most close-fisted of their kind when, in the capacity of guardians of the property of others, they find imposed upon them the responsibility of administering funds that are not their own. My experience teaches me that that attitude is very generally assumed by public servants all the world over, who will screw and pinch on behalf of the Government they serve—impelled thereto by a, as I think, mistaken sense of public duty—in a manner which they would never dream of adopting in matters where their private interests alone were at stake. If this has sometimes been the experience of the people of Ceylon, it at the worst means that some public servants have sometimes shown excessive zeal in the performance of the duties entrusted to them, and have defended too strenuously the collective property of the taxpayers, of which they have been constituted the official guardians. In other words, they may at times have been too conscientious; but, seeing that in no case have they had any personal end to serve, that can only be accounted an excess of virtue. I, individually, do not think that the public interest, of which the Government is the protector, is advanced by a too rigid adherence to the letter of the law in matters such as land settlement; and I should like to see this generally recognized throughout Ceylon. I think that the attitude of Government and of its officers should be that in these things it is preferable to err on the side of over-generosity, rather than on that of parsimony; that there should, as a rule, be more give than take; and that, wherever possible, the benefit of the doubt should be conceded to the claimant, and not asserted as the privilege of the Govern-
+
+32------------------------------------------------
+
+289
+
+ment. I trust that it will be found possible by the Commission, when revising the existing land laws of the Colony, to make it clear that this is the spirit in which those laws should for the future be administered.
+
+And now I come to the question of the manner in which the Government of Ceylon has administered—in what it has judged to be the general interest—this public asset represented by the “ forest, waste, or unoccupied land ” of the Island; and, in the first instance, I propose to deal with the subject of the large estates.
+
+I have noted with great regret since my return to Ceylon, after an absence of nearly a decade and a half, that a local school of thought has, in the interval, grown up in the Island which teaches with persistent reiteration the doctrine that the tea and rubber estates are a parasitic growth, which is battening upon the Colony’s lifeblood; that they have worked no appreciable benefit to the indigenous inhabitants of the country; and that they owe their existence to a systematic series of acts of expropriation and spoliation. I believe this teaching to be historically and economically untrue; and to be mischievous in a variety of other ways because it tends to promote ill-feeling between different sections of the community, whose economic interests are inextricably interlocked, and helps to fan the fires of class and racial prejudice, the blazing-up of which can work nothing but misery and confusion in a small country like ours whose population is composed of such heterogeneous elements as is that of Ceylon.
+
+If you will study the history of Ceylon during the past ninety or a hundred years, you will find that the material prosperity of the country, as indicated by the annual revenue at the disposal of its Government for the administration of its affairs and for the advancement of the material and intellectual development of its people, has fluctuated in strict accordance and sympathy with the prosperity or the adversity of the great planting industries of the Island.
+
+As all of you, of course, know, the original British planting industry was coffee-growing which, in the thirties and forties of last century, was believed to hold out to those engaged in it such fabulous prospects of wealth that a boom of unprecedented magnitude occurred. Emerson Tennent speaks of it as “ the coffee mania,” and he adds, “ five million sterling are said to have been sunk within less than as many years; but this estimate is probably exaggerated.” To the generation that has come to maturity since 1914, “ a million sterling ” has become an all too familiar unit; but in 1845 it was still a sum the magnitude of which almost staggered the imagination. Emerson Tennent, however, was well advised when he used the term “ sunk ” in
+
+33------------------------------------------------
+
+290
+
+writing of the huge sums invested in this, the first British agricultural adventure ever undertaken in Ceylon. In 1845 came the first great slump; thousands of Englishmen were ruined; large areas were abandoned and suffered to revert to jungle; but the surviving estates drew, for themselves and for those who succeeded them, some valuable lessons from their sojourn in this school of bitter adversity. Emerson Tennent, writing twelve years later, records that:—
+
+“The healthy condition in which coffee-planting appears at the present day (1857) in Ceylon, results from the correction of the errors then committed. It is no exaggeration to say that there is not a single well-established principle which now guides the management of estates and the conduct of their proprietors, that was not preceded by a directly opposite policy prior to 1845.”
+
+Now it will be at once interesting and instructive to examine this very expensive experiment from the point of view of the “parasitic-blood-battening” theory, and to see what its effects, if any, were upon the economic and material welfare of the permanent population of the Island. Did they, in fact, lose anything or gain anything by this costly adventure?
+
+To begin with, I would emphasize the fact that the coffee industry of Ceylon—which began in earnest in about 1830, with difficulty survived the slump of 1845, and finally expired in about 1883—was not in any sense a result of “expropriation” or of “spoliation.” Emerson Tennent, himself nearly a contemporary, and a very reliable, witness, records how—
+
+“The first ardent adventurers pioneered the way through pathless woods and lived for months in log-buts, whilst felling the forest” (Mark those words!) “and making preliminary nurseries preparatory to planting; but within a few years the tracks by which they came were converted into highways, and their cabins replaced by bungalows, which though rough were picturesque. The new life in the jungle was full of excitement and romance, the wild elephants and the leopards retreated before the axe of the forester; the elk supplied their table with venison, the jungle fowl and game were within call and abundant.”
+
+If anyone was “expropriated” it was apparently these untamed fauna, whose extermination or thinning down cannot have been otherwise than a relief to the forest-dwelling villagers of whom they had so long been the all too close neighbours; and Tennent goes on to lament that,
+
+“No temptation of wages, and no prospect of advantage, has hitherto availed to overcome the repugnance of the Sinhalese and Kandyans to engage in any work on estates, *except the first process of felling the forest.*”
+
+Again I would stress the concluding words of that sentence: they do not bear out the contention that there was here either “expropriation” or “spoliation.”
+
+I should have mentioned that coffee was first introduced into Ceylon from Java by the Dutch in about 1690; and that, as Emerson Tennent relates,
+
+34------------------------------------------------
+
+291
+
+"On the occupation of Kandy, after its cession in 1815, the English found the coffee tree growing in the vicinity of the temples; and gardens had been formed of it by the king on the banks of the Mahaweli Ganga. So soon as Sir Edward Barnes had made such progress with the great central high-road as to open a communication with the hill country, it was obvious to his clear and energetic mind that so grand a work would be a reproach instead of a trophy, were its uses to be limited to mere military exigencies, without conducing to the industrial prosperity of the Island. Hence, even before its final completion, his measures were taken to emulate in Ceylon the industrial enterprise of India. The preparation of indigo was attempted, but unsuccessfully, near Veyangoda; that of sugar was encouraged on the alluvial lands of the interior; and, taught by experience the inaptitude of the lowlands for the profitable cultivation of coffee, Sir Edward formed the first upland plantation about 1825, on his own estate at Gangaruwa, adjoining the gardens of Peradeniya."
+
+Tennent further records that there were in 1857, 81,000 acres under coffee on European-owned estates, producing an average crop of 17,355 tons per annum. He also mentions—and this is also a point to which I would direct special attention—that
+
+"this is, of course, exclusive of the quantity grown by the Sinhalese around their villages and detached dwellings, of which in the same year 80,000 tons were exported, besides the quantity retained for home consumption. Estimating the area, therefore, by the produce, and taking the latter at  $5\frac{1}{2}$  cwt. to each acre, it would appear that not less than 130,000 acres of land were yielding coffee in 1857, of which 50,000 at least were held by natives of Ceylon."
+
+It will be observed from the above quotations that, though the Sinhalese of the middle of last century, displayed an unconquerable repugnance to undertake work upon the European estates—disliking wage-labour on its own account, but detesting even more the cold and the wet amid which that work had to be carried on up yonder on the mountain heights and slopes, which the Europeans had converted from forest into coffee gardens—their quick intelligence rapidly grasped the fact that coffee cultivation was capable of expansion, such as had never been dreamed of during the reign of the Kandyan kings; and, in less than five and thirty years, dating from the establishment of Sir Edward Barnes' plantation at Gangaruwa, they had made of coffee cultivation a thriving village industry.
+
+I sincerely trust that that will continue to be the attitude of the peasantry of this country toward agricultural developments of this description. It is the one that best becomes a robust, sturdy, and self-respecting rural population; and it is my most sincere and earnest hope that the Commission will devise effective means of enabling our peasants to gratify an ambition to own and till their own land which all who love this Island should combine to stimulate and to encourage.
+
+So far as my experience goes—and, such as it is, I have drawn it from many widely distributed areas throughout the British Tropics—no healthy, indigenous population of a tropical
+
+35------------------------------------------------
+
+292
+
+country will ever willingly undertake agricultural labour for a wage, provided the soil of their homeland is reasonably fertile, and its possession is made fairly accessible to them. That the Ceylon estates enjoy a perennial supply of voluntary immigrant labour is one of the happy accidents which have contributed to the welfare of this fortunate Isle; but if the soil of the districts of the Madras Presidency, from which that supply is drawn, were as fertile as is that of the most thickly populated parts of Ceylon, the estate owners might whistle in vain for Tamil labourers to flock to their assistance, and our principal agricultural industries would quickly languish, for the place of these workers, on the upland tea-estates at least, could never be taken by the people of this Island. The repugnance to work upon the upland estates, to which Emerson Tennent bore testimony in 1857, is, I believe, as unconquerable to-day as it was seventy years ago.
+
+On the other hand, in the more congenial climate and environment of the Low Country, whither the rubber estates have now spread, Sinhalese peasants, in constantly increasing numbers, are to-day finding employment on these properties. As yet, however, the Director of Statistics calculates, this indigenous agricultural labour amounts to not more than 14 per cent. of the total number working upon the estates; but it would, in my judgment, be preferable if all the Sinhalese so employed were engaged instead in cultivating land of their own. Men responsible for the management of rubber estates tell me that they prefer Sinhalese to Tamil labour for the special kind of work required upon their properties, as it is more skilful and light-handed than is the latter; and their only objection to it is that it is a less reliable factor, Sinhalese labourers coming and going between their homes and the estates with much greater frequency than do the immigrant Tamil coolies. To the villagers themselves work of this kind has been very acceptable. Chiefs, well acquainted with the condition of the people of their divisions, tell me that in places where, owing to the system of undivided shares in real property, two or more families have agreed to farm their land in rotation, the fact that employment is procurable upon estates during the period that the cultivation of their own fields is not available to them, has afforded to people so circumstanced very welcome relief; the more so since the comparatively light work demanded of them on rubber-estates renders it more congenial than is the somewhat exacting labour required for the tillage of tea. It is probable that casual work of this kind will continue to be undertaken by Sinhalese villagers as the occasion offers and as their convenience dictates; but the disappearance of Sinhalese labour would work no material injury to the rubber-industry, and it would unquestionably be preferable, if
+
+36------------------------------------------------
+
+293
+
+means can be devised to that end, to place men who are either landless or are unable to work continuously upon properties in which they possess only a share, upon new holdings. Of that, however, I shall have more to say presently.
+
+And now let us pause for a moment to examine, in the light of the historical facts to which I have invited your attention, precisely how far they support or refute the "blood-sucking-parasite" theory.
+
+The Sinhalese villagers of the uplands of Ceylon did not lose anything by the conversion of vast areas of untrodden forest into thriving coffee-estates for, as I have shown, a process of eviction was applied only to the wild beasts of the forest, whose departure from the vicinity of the villages can hardly have been regarded by a practical people as an unmixed evil. On the other hand, it is on record that, between about 1830 and 1845 something in the neighbourhood of five millions sterling was "sunk" in the Ceylon coffee-estates. Though the Sinhalese villagers declined to take any hand in the cultivation of these estates, except the clearing of the virgin jungle, some part of that money must have found its way into their pockets on account of that work, in which, by the way, they were specially skilled. The advent of large numbers of Tamil labourers and of a sprinkling of Europeans must also have caused the poultry and vegetables of the villagers to command a market never before available; while it is on record that the shingles for the roofs of bungalows and factories, and much of the timber and other materials of which these buildings were constructed, were provided by Sinhalese labour, most of which was imported from the low country for the purpose. Even when the slump came in 1845, therefore, the indigenous population of Ceylon were richer, not poorer, as were so many of the British adventurers and speculators, by reason of that extravagantly managed experiment.
+
+Further, as Emerson Tennent points out, the experience gained in this expensive school produced dearly-bought knowledge concerning the scientific cultivation of coffee, which was thenceforth the common property of all coffee cultivators in Ceylon; and we have also seen that, even a dozen years after the slump, though so many European-owned properties had met with ruin and had been abandoned, the village industry, which they had indirectly been instrumental in bringing into existence, was still a flourishing going concern.
+
+I suggest that unprejudiced, impartial judgment may reasonably accept the conclusion that this, the first British effort to develop the latent agricultural resources of Ceylon, conferred some not inconsiderable benefits upon the indigenous inhabitants of the Island, and worked them no harm, save that which may be supposed to result for all forest-dwellers from the intrusion
+
+37------------------------------------------------
+
+294
+
+upon their aeon-old, unbroken peace and quietude by a host of restless, antlike toilers, inexplicably devoted to the fulfilment of the Curse of Adam. If this, however, is to be accounted a grievance and an aggression—and I admit that I, in my time, have experienced many a pang of sentimental regret, occasioned by the ravages which progress and economic development have worked under my eyes upon the wonderful natural beauty of the forest wildernesses of the Malay Peninsula—then the construction of roads is a crime and the building of a railway an unforgivable outrage.
+
+As you are all aware, though only a few of us are old enough to remember the actual effects of that great calamity, a second and final coffee-slump occurred some six and twenty years after the period at which Emerson Tennent wrote. The coffee-blight, which broke out in the early eighties of last century, and overwhelmed in one great wave of destruction all the European estates and all the coffee-gardens of the Sinhalese villagers, plunged Europeans and Ceylonese alike into one of the grimmest economic catastrophes on record. In September next I shall celebrate the forty-fourth anniversary of my own first landing at Colombo; I being, at that time, a lad of seventeen, *en route* to join up as the most junior cadet in the civil service of the Protected Malay States, as they were then named. The coffee smash was then in mid-tide, and many were leaving Ceylon, having lost all hope. The apex of the prosperity of Ceylon, which resulted from the success of the coffee industry, was attained in 1877, in which year the Revenue of the Colony amounted to £1,596,205. By 1883 it had already declined to £1,162,172; and the culmination of disaster was reached three years later, in 1886, in which year the Revenue was only £1,004,135, being less by more than a third than it had been nine years earlier; and the Government, during that and the following year, was confronted by a deficit. Yet, as an illustration of the fact that the wealth which the Colony derived from the establishment and maintenance of this important industry, was largely spent for the benefit of the indigenous population of the Island, it is at once interesting and instructive to note that, whereas in 1866 there were only 874 schools in existence in Ceylon harbouring no more than 25,147 scholars, by the year 1876—the year preceding the culmination of coffee-bred prosperity—the number of schools had risen to 1,725, and that of the scholars to 73,789. During the decade, therefore, the number of schools had more than doubled, and that of the scholars had nearly trebled. Still more impressive is the fact that a decade later—in 1886, the year during which financial stringency was at its worst—though public expenditure had been cut down ruthlessly in a variety of directions, yet still without attaining financial equilibrium—the expenditure
+
+38------------------------------------------------
+
+295
+
+upon education (the service most vitally necessary to the rising generation of Ceylonese) had almost alone escaped the axe of retrenchment, and in that year the schools numbered 3,460 and the scholars 112,652. Thus, during the worst decade of increasing financial depression that Ceylon had so far known the British Colonial Government had, none the less, succeeded in once again doubling the number of schools available to Ceylonese students, and had rendered education available to nearly 40,000 more of the latter than had been the case at the beginning of the period.
+
+I remember vividly my first impression of Ceylon, or rather of Colombo. It is the spot at which, for the first time, the European traveller from West to East comes into contact with the twin miracles of tropical sunlight and tropical vegetation. He has seen the pitiless sunlight glaring down out of a brazen sky upon the arid rocks and sands of the islands of the Twelve Apostles in the Red Sea, upon Perim, perhaps, and with aching eyes has scanned the white-hot horizon till
+
+"umped above the bow appears
+
+Old Aden like a barrack stove that's not been lit for years and years;" and he has thus seen what a wilderness can be wrought by sun-heat where nature has not given it for its ally an abundance of water. Thus Colombo comes upon him as a veritable revelation; and a man must indeed be insensible to visual impressions if he be not well nigh intoxicated by the wealth of gracious loveliness wherewith our Island greets him. Of course Colombo is but a sorry example of what we, in Ceylon, account scenic beauty; for after dwelling in more tropical lands, East and West, than ordinarily falls to the lot of any man, it seems to me that no one of them can for a moment brave comparison with the splendours of this Island. The typical wide landscape of the uplands, with so many examples of which we are all familiar--looking out, say, from Lady Horton's Drive over the Dumbera valley, or from the Resthouse at Ella, in Uva, or from any one of half a hundred similar points of vantage, the marvellous deep blues of the hills in the middle distance; the lavish wealth of varied colour, fading away in opalesque iridescence to the misty softness of the horizon; the dim background of faint blue hill-tops that seem almost to meet into the blueness of the sky; and the kaleidoscopic effects wrought, even as you gaze, by the slow-moving cloud-shadows, combine to make display of an extravagance of beauty, the delight of which is only heightened by repetition. All this I was destined to see only long years after I first touched at Colombo; but the other impression which I then received was one of real tragedy, for the coffee-failure was at its worst and the Island seemed derelict. One of my travelling companions chanced to be a civil engineer of some eminence,
+
+39------------------------------------------------
+
+296
+
+and he very kindly took me with him to see the work then in progress on the first arm of the Colombo harbour breakwater. The whole scheme had been mapped out, of course, ere ever the first concrete block was laid on its foundations; but the men in charge of the work shook gloomy heads over the prospect of stricken Ceylon ever being able to afford to complete that grandiose plan. Where was the money to come from now that the coffee-trees all over the Island were rotting to destruction? For in those days men were learning by grim practical experience how completely dependent Ceylon had become, alike for her prosperity and for the wealth which alone would enable her development in every direction to be financed, upon her one highly organized agricultural industry. In a sense, too, the indigenous population of the Island were in a fair way to suffer indirectly even more acutely than the European planters; for while the latter could turn their backs on failure and seek their fortunes elsewhere, the Ceylonese were rooted in Ceylon, and the years of poverty that seemed to lie ahead of the Colony in 1883 would mean for them arrested activities in many directions with which their welfare and their advancement were closely bound up. Large numbers, it is true—mainly Jaffna Tamils and Burghers—joined the crowd of ruined planters which at that time was pouring out of Ceylon; and as the coffee slump synchronized with the opening up of the Protected Malay States of Pêrak, Selângor, and the Negri Sembilan, those countries were flooded by Ceylonese refugees, many of whom had done clerical work on the coffee estates and in the Colombo offices, and whose services were of the greatest advantage to the Governments of those Malayan lands.
+
+But meanwhile there was a comparatively small, but gallant band of British planters who, with all that they had wrought and builded in apparently irreparable ruin about their ears, stubbornly refused to accept defeat; and who, aided by the Banks—whose anxious managers asked themselves whether they were not merely throwing good money after bad by affording them continued assistance—experimented with cinchona and other agricultural products, fighting with the courage and the doggedness of despair to reconstruct, in some new form, that mighty industry in which their all, and often more than their all, had been hopelessly engulfed. And once more fortune favoured the brave; and it is pleasant to recall that these men of faith and courage, who clung so steadfastly to Ceylon in one of the blackest hours of her history, reaped at the long last a plenteous reward. You may say that they were working for themselves and solely in their own interests; but I, who knew many of them in after days, can bear testimony to the really passionate love of this Island, and the genuine and warm affection for its people by which they were inspired. I think that the service which they rendered to both
+
+40------------------------------------------------
+
+297
+
+should not to-day be quite forgotten; and when shallow and gaseous nonsense is being talked or written about the parasitic proclivities of the great planting industries of this Island, it is well to recall the fashion in which certain British planters rescued the country from what in the early eighties of last century looked like irreparable disaster.
+
+For presently, as you all know, the tea-industry rose phoenix-like from the ashes of the coffee estates; but it was the land that had originally been cleared for the latter which, in the first instance was utilized for the cultivation of the new plant. The area under coffee in 1881—the year of the industry's maximum expansion—was 361,838 acres, exclusive, of course, of village holdings which, at that time it is probable, aggregated nearly double the acreage recorded, a quarter of a century earlier, by Emerson Tennent and may have amounted to about 100,000. The Tea-estates, at the period of the maximum expansion of that industry—viz., in 1910-11—covered an acreage, according to the Blue Book returns of 580,845, though Ferguson's Directory gives the figures for that time at 390,000 only; and I am advised by the Director of Statistics, Mr. L. J. B. Turner, that the latter figure may possibly be the more accurate of the two. Later, as is well known, some of the poorer tea-estates situated in the Low Country were converted into rubber-plantations but, owing to gradual expansion in the uplands, the estimated area under tea at the present time is placed at 442,000 acres, which exceeds the maximum area ever under coffee at any one time by more than 80,000 acres. Seeing, however, that that expansion is the result of a gradual growth of the tea-estates spread over a period of approximately forty years, it cannot be maintained with any show of reason that this industry has absorbed a very large area of unoccupied land in addition to that which the original pioneers of the coffee enterprise carved for themselves out of the virgin forests of the Kandy country.
+
+The peasantry of Ceylon never appear to have taken as kindly to tea-cultivation as they had done to coffee-growing, though after a long absence from the Island I am struck by the greatly increased extent to which tea has been adopted as a village industry in parts of the Central Province and in Uva. Cocoa, on the other hand, when that tree was introduced after the coffee failure, was planted by a certain number of Ceylonese villagers, more especially in the Matale District; though of the 34,000 acres of that product, in bearing at the present time, the bulk belongs to European companies.
+
+The real transformation was wrought in the planting industry of Ceylon by the introduction into the Island of rubber cultivation. The estimated total area under this crop to-day is 475,000 acres, thus exceeding the area under tea—though the
+
+41------------------------------------------------
+
+298
+
+tea-bush had in Ceylon a start of approximately twenty years ahead of the rubber-tree—by some 33,000 acres, and the largest area that was ever at any one time under coffee by about 113,000 acres.
+
+The phenomenally rapid growth of the rubber industry of Ceylon inevitably created a land-hunger and stimulated land-grabbing of many descriptions to a degree that was without precedent in this Island. The elaborate scrutiny which every individual application for Crown land has to undergo, ere ever a grant for it is suffered to issue, was devised for the special purpose of protecting the rights and providing for the present and future requirements of the village communities. This procedure, however, occasions delays which many would-be purchasers of Crown land—often men in a frantic hurry to avail themselves ere too late of the opportunities afforded to them by successive rubber-booms—have found to be frankly intolerable; and, as the law confers a prescriptive right against the Crown to any land that has been continuously occupied for a period of five years, advantage has been extensively taken of this to encroach upon land by many who had no valid claims in the hope of thus eventually securing a sound title. The temptation to improvident villagers to sell their land, and often land to which they had no sort of title, was also very great. Considerable areas of land, the chena rights over which had been declared to be the communal property of certain villages under the late Lord Stanmore's Forest Ordinance, No. 10 of 1885, were similarly sold to land-speculators; and the Government, finding itself confronted by men actually in possession, to whom this transfer of rights had voluntarily been made by the villagers, was usually compelled to complete the purchase by accepting for the Crown's rights to the soil the half improved value. In this way, extensive areas, the right of user over which the Government had sought to secure in perpetuity to the permanent rural population, were sold by the latter to persons who were often unconnected with their community and with their locality; and in this manner many thousands of acres, which might have been retained by the villagers as chenas appurtenant to their rice-fields, were allowed by them to pass out of their possession. The men who made these purchases in some instances retained for themselves and subsequently converted into rubber-plantations the land which they had thus secured; while others sold them as speedily as possible at greatly increased prices to the owners of adjoining estates. That the villagers all too often made with these purchasers of land—the rights of user over which they would have been far wiser to retain—bargains of a highly improvident character is, of course, certain, for the lure of ready cash is apt to be potent. On the other hand, it has not infrequently occurred that the astute
+
+42------------------------------------------------
+
+299
+
+villager has sold the same piece of land more than once to different individuals; while the issue of extracts from the *walloru* registers had to be discontinued because copies of the same extracts were constantly being produced as proof of private title to a number of different chenas situated at wide distances apart and in different localities in the same *wasama*.
+
+The same process of uncontrolled purchase of chena-lands in the vicinity of villages was simultaneously going on also in connection with the expansion of the coconut industry, which to-day occupies an estimated area of 900,000 acres, which is nearly double the area under rubber, and slightly in excess of the estimated acreage under rice. Simultaneously, very large areas of unoccupied and uncultivated forest land have, during the past twenty-five years, been transformed into rubber estates.
+
+In all this, however, I am unable to find any evidence of the villagers having been "expropriated;" and as regards "spoliation," if in many instances the land was bought from them at much less than its market value, their own improvidence was mainly to blame for this; and it has also to be remembered that they were not infrequently selling land for which they had none save a most shadowy title. Moreover, though much of the land purchased from them eventually became the property of one or another of the big Rubber Companies, or of individual European or Ceylonese estate-owners, the speculative work of buying up doubtful titles from villagers was, for the most part, conducted by their own countrymen.
+
+Government may, perhaps, be blamed for having failed to devise any effective means of preventing the sale by villagers of chena-lands which it had steadfastly been the aim of the former to secure to them. It will be realized, however, that it is not easy for a handful of Revenue Officers to stand between a dense rural population and their own improvidence; and the former, at any rate, could not fairly be held responsible for the fact that the machinery whereby unoccupied Crown Land could be purchased from Government in a legitimate way was so slow and cumbersome in its operation that, at times when a rubber boom and its accompanying land boom were in progress, even the best-intentioned individuals were often driven to satisfy their pressing needs by obtaining possession of the land they so urgently required by means that were somewhat irregular.
+
+It was thus that the great rubber industry of Ceylon, and a considerable expansion of the coconut industry, attained to their present magnitude; and though many of us may see reason to regret that in the process large areas of village chena-lands were improvidently alienated, there can, in my judgment, be no doubt that the Colony, as a whole, has greatly profited by the recent
+
+43------------------------------------------------
+
+300
+
+development of these important, permanent, agricultural enterprises. The position of Ceylon was precarious so long as she depended for her prosperity upon a single large and highly organized agricultural industry, viz., upon tea; and with the establishment of the rubber industry and the expansion of the coconut industry—in both of which enterprises the permanent population of Ceylon took a much more active and successful part than that which their forebears had taken in the development of the tea industry, or even in coffee-production—the Island's economic prosperity was placed upon a much broader and firmer basis than had ever in the past been the case. With the recollection of the dire effects of the coffee failure, as I witnessed them in the early eighties of last century, still fresh in my memory, I find it difficult to over-estimate the advantage which Ceylon has derived from this very material fortification of her financial and economic security. Moreover, though, unhappily, for the villager of the Wanni and of all too many parts of the dry-zone,
+
+"His life is a long drawn question  
+Between a crop and a crop,"
+
+it can hardly be disputed that in the low country to-day the prosperity of the villagers is usually in direct ratio to their proximity to large estates.
+
+To sum up, then, this part of my address, I suggest that the theory that the great coffee industry of last century, and its even larger successor, the tea-planting industry, were built up by a process of expropriation and spoliation of the permanent population of Ceylon is quite untenable; that even in the case of the more recent rubber-planting industry and of the expansion of the coconut planting industry, there has been neither of these things, though there has been a great deal of irregular traffic in land, in the course of which many villagers have parted with large areas which it would have been at once more provident and more profitable if they had retained and themselves converted into rubber or coconut plantations; but that, just as was the case in the days of the coffee failure, the real, solid base of the economic prosperity and stability of Ceylon is her highly organized agricultural industries; and that, by the recent creation of the rubber industry and the expansion of the coconut industry, that foundation of her fortunes has been materially broadened and consolidated.
+
+I am aware that I am stating a proposition that is not exactly popular or acceptable in certain quarters when I add that the tremendous expansion of the organized agricultural enterprises of Ceylon, which has been witnessed during the last five and thirty years, has not only benefited the Colony, as a whole, but has brought considerable prosperity to those sections of her permanent population who inhabit the country which has been the principal scene of that expansion.
+
+44------------------------------------------------
+
+301
+
+The late Sir Jervoise Baines, who was for some years the President of the Royal Statistical Society of Great Britain, when quoting with approval Bacon's terse aphorism that, "The true greatness of a State consisteth essentially in population and breed of men," added on his own account that "An increasing population is one of the most certain signs of the well-being of a community." Having regard to the high authority upon which this statement of opinion rests, I consider that I am justified in accepting it; and it will, I think, be interesting to examine what is the position of Ceylon in this respect, as a result of the expansion of its organized agricultural industries the history and evolution of which I have been attempting to trace.
+
+I find that in 1857—which was twelve years after the first great coffee failure—the total population of Ceylon, "exclusive of the military and their families, both European and Malays, which together amounted to 5,430; and also of aliens and casual strangers, forming about 25,000 more," numbered 1,697,975, or if all the people above described be included, a total of 1,728,405. At the Census taken in 1921, the population of Ceylon, exclusive of military and shipping, was 4,497,854, a number which is estimated to have increased since that date to 5,124,992. It is interesting to note that in a space of sixty-nine years the population of the Island has increased by approximately 3,400,000; that the Low-country Sinhalese population to-day numbers approximately 2,100,000 souls, and exceeds the total population of the Island in 1857 by more than 400,000; that the total population of the Western Province (1,344,599) only falls short of the total population of Ceylon in 1857 by 353,376; and that the combined populations of the Western and the North-Western Provinces to-day exceeds the total population of Ceylon in 1857 by 166,235.
+
+If, however, in order to forestall all criticism, we deduct from the total population of Ceylon to-day all the Indian Tamils and Tamils of recent Indian origin at present in the Island—their number is placed at 820,000, of whom 666,931 are resident on the estates—we find that the total indigenous population of to-day is 4,304,992, as against rather less than 1,700,000 in 1857. Look at it how you will, this, it must be admitted, is a truly phenomenal increase of population to have resulted in the space of seventy years; and I make so bold as to maintain that nothing approaching it could conceivably have occurred had not the indigenous inhabitants of this Island enjoyed, during that period—which synchronizes, be it noted, with the greatest expansion of its agricultural enterprises in its history—not only peace and security, but a very large measure of material prosperity. This, I suggest, accords but ill with the lifeblood-sucking-parasitic-battening theory alluded to above; and goes to show the, to most of us obvious, truth that, though the British capital invested in
+
+45------------------------------------------------
+
+302
+
+Ceylon may pay dividends to shareholders in all parts of the world, the investment of that capital in the Island, the trade and business which is thereby created, and the annual expenditure which the working and maintenance of its properties necessitates, all contribute to the internal income of the country, add to the general wealth, and directly and indirectly benefit materially its indigenous population. Incidentally, too, it has provided during the past seventy years a large part of the money by means of which the resources and communications of the Island have been opened up and the material and intellectual advancement of its people have been financed.
+
+As an indication of the extent to which the agricultural and commercial expansion, which I have been attempting to survey, have affected the steady growth of the population, the following figures furnish some suggestive data: \*
+
+*Population to the Square Mile, 1921, as compared with Density in 1857.*
+
+<table>
+<tbody>
+<tr>
+<td>In Western Province†</td>
+<td>517 as against</td>
+<td>167</td>
+<td>... More than threefold</td>
+</tr>
+<tr>
+<td>In Southern Province</td>
+<td>313 as against</td>
+<td>143</td>
+<td>... More than double</td>
+</tr>
+<tr>
+<td>In North-Western Province</td>
+<td>163 as against</td>
+<td>65</td>
+<td>... Two and a half times</td>
+</tr>
+<tr>
+<td>In Central Province‡</td>
+<td>171 as against</td>
+<td>47</td>
+<td>... Nearly fourfold</td>
+</tr>
+<tr>
+<td>In Northern Province</td>
+<td>74 as against</td>
+<td>49</td>
+<td>.. One and a half times</td>
+</tr>
+<tr>
+<td>In Eastern Province</td>
+<td>40 as against</td>
+<td>15</td>
+<td>... Nearly three times</td>
+</tr>
+</tbody>
+</table>
+
+In commenting upon these figures, I would invite the attention of my hearers to the remarkable increase in the density of the population in the Western, Southern, and Central Provinces since 1857, and in this connection I would remind you that the Western Province of that day included the present Province of Sabaragamuwa, while Uva was included in the Central Province of that time. Now those three Provinces are precisely the parts of the country in which the highly organized agricultural enterprises, which we have been examining, have during the past seventy years been most active; and, as might have been expected, it is in them that the increased density of the population to the square mile is most impressive. In the Western Province, the density to-day, as compared with that of seventy years ago, is 517 to 167; in the Southern, 312 to 143.7; in the Central, 171.2 to 46.8; while in the remaining Provinces where agricultural estates have been developed in comparatively negligible numbers, or not at all, the increased density of the population is much less remarkable.
+
+Now, from the facts and figures which we have this morning been examining, both as regards the development and evolution of the agricultural industries of this Island, and the phenomenal
+
+\* For fuller details concerning the expansion of the population of Ceylon from 1857 to the present day see Appendix, for which I am indebted to Mr. L. J. B. Turner, C. C. S., the Director of Statistics.—H. C.
+
+† *e.*, Present Western Province and Sabaragamuwa.
+
+‡ *e.*, Present Central Province and Uva.
+
+46------------------------------------------------
+
+303
+
+expansion of its population—which, I maintain, is directly attributable to the economic effects of that expansion—I find myself forced to the acceptance of certain very definite conclusions. They are, firstly, that the economic strength of Ceylon has, as its main foundation, the maintenance in a state of security and prosperity of our great and highly organized agricultural industries, and that consequently anything that adversely affects them is bound to react no less unfavourably upon the general prosperity and well-being of every section of the population throughout the Island. Secondly, that the very prosperity of which they are the main foundation has resulted in the phenomenal increase of population which, if it continue at its present rate, will ere long result in serious congestion. Thirdly, that it is the most urgent duty of the Government of Ceylon to provide in good time against this threatened congestion. And finally that this can only be effected by rendering the still available Crown Land in the neighbourhood of the most thickly populated areas of the wet-zone available for the occupation and expansion of the rural population.
+
+In other words, if the prosperity which has so far been secured is to be adequately maintained, this end is to be achieved, not by the stimulation of the expansion of the large agricultural estates, by means of which it has so far been mainly built up, but by devising means for the multiplication of small holdings and the bringing into existence of a prosperous, self-supporting, and self-respecting multitude of peasant-proprietors. I do not mean, of course, that no reasonable expansion should be allowed to the existing tea, rubber, and coconut estates; for any industry which is compelled to become static is almost certain presently to languish, and the economic dependence of Ceylon upon the well-being of those great industries will be as complete in the future as it has been in the past. On the other hand, the suggestion sometimes made that Ceylon is allowing herself to be outstripped by Malaya and the Dutch Indies in the race for agricultural expansion, and that what is termed “the speeding-up of the sales of Crown Lands” is the policy that should command the most urgent attention of the Government, are, in my judgment, not deserving of much consideration. These great industries have now been solidly established; they have played a great and an essential part in the economic development of the Island; but they are to be regarded as a means to an end, not as the end itself. That, I contend, must be now and in the immediate future to make timely provision for the teeming population, which the success that has attended these enterprises has been so largely instrumental in producing. The task of devising means whereby this object may be effectively attained will be the most important of all the duties confided to the Commission about to be appointed.
+
+47------------------------------------------------
+
+304
+
+It seems to me that immediate steps should be taken to block out and demarcate, with as little delay as possible, all remaining Crown Land in the wet-zone, which is indisputably public, not private property. The question as to whether comparatively minute areas, scattered widely all over the country, are or are not the property of the Crown or of their claimants is, by comparison, a matter of quite minor importance. Unless an encroachment is very large or very flagrant, or unless it trenches upon an area which ought to be reserved for village expansion, for the conservation of a water supply or for some similar public purpose, it does not greatly signify; though it is, of course, just and right that any man, who has appropriated for his private use land which is the collective property of his countrymen, should be made to pay an adequate price for it. On the other hand, the survey and demarcation of large blocks of land which are indubitably Crown property is a matter of the utmost importance and one that brooks of no delay.
+
+When it has thus been ascertained approximately what area is available for occupation and cultivation in the wet-zone, it will be possible to decide what portion of it can prudently be earmarked for the natural expansion of our principal agricultural industries, and how much of it can, with a fair measure of success, be reserved for division into small holdings. In this connection, it has to be remembered that congestion of population has not yet become very acute, and that our peasantry has so far displayed no great avidity for pioneering enterprises, more especially if they are to be undertaken at a distance from their homes and from the surroundings amid which all the associations of their lives are centred. Any attempt to colonize the dry-zone with migrants from the wet-zone is, in my judgment, foredoomed to failure, at any rate until such time as acute economic pressure, such as intense congestion of population can alone produce, has assumed the potency of an irresistible force; and that state of things, happily, has not yet arisen. The transfer of a Low-country Sinhalese or of a Kandyan peasant of the Central Province to any part of the dry-zone entails as radical a change of his environment and of his conditions of living as would the transfer of a Somersetshire yokel from the farm-lands below the Mendips to the sun-baked soil with which the Hausa peasant wrestles so industriously from Kano to Sokoto, in the Northern Provinces of Nigeria; and this fact, I am inclined to think, has not always in the past been adequately appreciated in Ceylon. Also, it seems to me to be highly probable that the depopulation of the once thickly peopled districts of the North-Central Province and of the Wanni was brought about, not so much by disastrous war and by Tamil incursions, as by the invasion of the country by the *anopheles* mosquito and its deplorably efficient
+
+48------------------------------------------------
+
+305
+
+ally, the malarial microbe. I find it difficult to believe that these enemies of mankind were present in the numbers, and possessing the virulence and the efficiency which they at present display, at a time when most of the abandoned tanks were simultaneously in use, and the land tilled under them was providing ample sustenance for a very large population. However that may be, anyone who has made any real study of the malaria-*cum*-mosquito question is forced to the conclusion that, unless some epoch-making discovery comes to our rescue, the practical means at our disposal for waging war, upon any large scale, against malaria and malarial infection, are so far merely to be accounted comparatively feeble palliatives. Grandiose castles in the air have been reared upon the achievement of American medical men at Panama; but that which it was possible to effect in a very small area, every inch of which could be closely inspected and controlled, while every one of its inhabitants were subjected to an unyielding, but essentially necessary, tyranny which deprived him of all privacy and whittled his personal liberty down to a shred, are altogether insusceptible of application to large expanses of country such as those with which we in Ceylon are concerned. If, therefore, we are to provide in time against the threatened congestion of the population in the wet-zone, and to make available for the expansion of the peasantry land which they have a fair chance of cultivating in health and with success, the still unoccupied areas in the wet-zone itself must, I contend, be utilized for the purpose.
+
+There arise then certain problems—and problems, too, of the utmost complexity and difficulty—which will be among the puzzles to which the Commission will have to attempt to provide effective solutions.
+
+To begin with, given a sufficiency of fertile unoccupied land made easily accessible and available to the rural population of the wet-zone, we all realize that the grant of small holdings carved out of this land, even on the easiest term—even free, *gratis* and for nothing—to the peasants of Ceylon will not result in the conversion of the grantees into permanent peasant-proprieters, unless means can be found to prevent its early alienation to land-speculators. It is possible that a solution of this difficulty may, perhaps, be found in the adaptation to local circumstances of the “five feddan” law of Egypt whereunder, if I am rightly informed, the peasant-proprieters of that country are forbidden by law to alienate any land that they may possess which does not leave them a holding of not less than that area. The difficulty which has arisen through the operation of this law in Egypt has been, I understand, that the fact that land of five feddans in extent or under cannot legally be sold, has restricted the borrowing powers of the peasant-proprieters to the money which they have found it possible to raise, from year to year, upon their crop,
+
+49------------------------------------------------
+
+306
+
+the seizure of which by their creditors has often reduced them to dire straits of poverty.
+
+There are two other grave obstacles to the successful establishment of peasant-proprietorship, on a really large scale, in this Island. They are the lack of capital available to the average peasant, and the impossibility of providing him with it on loan so long as the present system of the transmission of property in undivided shares continues. It has been suggested to me by the Colonial Secretary, Mr. Fletcher, that both these difficulties might, perhaps, be overcome by the establishment of a State Bank—such as was recently recommended by a resolution of the Legislative Council—which would be specially designed to finance the peasant-proprietors, whom I hope to see installed in the still unoccupied areas of the wet-zone. Such a Bank would, of course, be compelled to insist upon adequate security being given for the public money advanced; and, by refusing to issue loans upon the security of any land that was not entailed so as to pass intact to a selected descendant of the original grantee, it would act as a lever to eliminate from the areas, newly taken up in this manner, the evils which we all know are to-day resulting for our people from the inheritance of real property in undivided shares.
+
+If this system of entail were once firmly established, and if adequate reserves of land are made in the still unoccupied areas of the wet-zone, and are ear-marked for development by *bona fide* peasant-proprietors only, the disinherited sons of an original holder of such a plot would be able each to take up another, similar area, and to draw from the State Bank, on the security which it would afford, the funds required for its development. If once this system could be firmly established, it would automatically produce successive generations of peasant-proprietors steadily increasing in numbers, besides providing land, and the funds wherewith to develop them, to cultivators from other parts of the country who were ambitious to become land-owners on their own account. As I visualize this experiment, the lots so given out to any single applicant would be limited to a size that experience had shown to be adequate for his needs and those of his wife and children, and not too large for development by their unassisted labour.
+
+If a scheme of this character is to have a reasonable prospect of success, it will be necessary for the Government and for its officers to deal with would-be small land-holders in a far more liberal spirit than has, in the past, been customary in this Island when transactions concerning Crown rights in land have been in question. For example, from forest-land selected as the site of small holdings, it will doubtless be necessary to allow the Forestry Department to remove, at its option, any valuable timber that
+
+50------------------------------------------------
+
+307
+
+may be found growing upon the land at the time that its alienation is contemplated. The Department should not, however, be suffered to delay the scheme coming into operation by neglecting to exercise this right for an indefinite period. On the contrary, it should be required to remove any timber that it claims within a definitely fixed period; and if it fail to do so the purchaser should be put in possession and should be allowed to make what he can out of the timber thus abandoned by the Department. In any event, the ordinary timber growing upon such land, which the Forestry Department does not consider it worth while to remove within the time at its disposal, should be put at the disposal of the purchaser, who will thus be provided in many instances with the materials for the construction of temporary, or occasionally of even permanent houses; and who, by raising a little money from the sale of firewood, &c., may be able to diminish the sum that he will have to borrow from the State Bank to provide the capital needed for the development of his holding. To prevent the abuse of privileges such as this safeguards will, no doubt, have to be devised; but the main idea to be grasped by those who are charged with the task of operating this scheme is that its whole object is, not to make any direct revenue for the Public Treasury, but to bring into existence as many *bona fide* peasant-proprietors as possible, upon whose prosperity and freedom from any crushing burden of debt the success of the entire project must depend.
+
+These suggestions are made, as you will realize, in the barest outline; but I trust that they will receive the careful consideration of the Commission which is about to sit, whose deliberations will result, I most sincerely and earnestly hope, in lasting benefits to the permanent population of Ceylon, present and future.
+
+HUGH CLIFFORD,  
+GOVERNOR OF CEYLON.
+
+March 11, 1927.
+
+51------------------------------------------------
+
+308APPENDIX.
+
+Population of Ceylon (exclusive of the Military and Shipping)  
+and Density in 1857\* and 1921.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Province. †</th>
+<th rowspan="2">Area in<br/>Square<br/>Miles.</th>
+<th colspan="2">Population.</th>
+<th colspan="2">Density.</th>
+</tr>
+<tr>
+<th>1857.</th>
+<th>1921.</th>
+<th>1857.</th>
+<th>1921.</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CEYLON ..</td>
+<td>25,331<math>\frac{7}{8}</math>..</td>
+<td>1,697,975..</td>
+<td>4,497,854..</td>
+<td>67.0<math>\dagger</math>..</td>
+<td>177.6</td>
+</tr>
+<tr>
+<td>Western ..</td>
+<td>3,324<math>\frac{1}{2}</math>..</td>
+<td>555,054..</td>
+<td>1,718,661..</td>
+<td>167.0 ..</td>
+<td>517.0</td>
+</tr>
+<tr>
+<td>North-Western ..</td>
+<td>3,016 ..</td>
+<td>197,225..</td>
+<td>492,181..</td>
+<td>65.4 ..</td>
+<td>163.2</td>
+</tr>
+<tr>
+<td>Southern ..</td>
+<td>2,146<math>\frac{1}{4}</math>..</td>
+<td>307,028..</td>
+<td>671,234..</td>
+<td>143.1 ..</td>
+<td>312.7</td>
+</tr>
+<tr>
+<td>Eastern ..</td>
+<td>5,048<math>\frac{1}{4}</math>..</td>
+<td>75,798..</td>
+<td>201,057..</td>
+<td>15.0 ..</td>
+<td>39.8</td>
+</tr>
+<tr>
+<td>Northern ..</td>
+<td>6,237<math>\frac{7}{8}</math>..</td>
+<td>302,489..</td>
+<td>463,118..</td>
+<td>48.5 ..</td>
+<td>74.2</td>
+</tr>
+<tr>
+<td>Central ..</td>
+<td>5,559 ..</td>
+<td>260,381..</td>
+<td>951,603..</td>
+<td>46.8 ..</td>
+<td>171.2</td>
+</tr>
+</tbody>
+</table>
+
+\* The population figures in 1857 exclude 25,000 aliens and casual residents.
+
+<table>
+<tbody>
+<tr>
+<td>† Western Province</td>
+<td>=</td>
+<td>Present Western Province</td>
+</tr>
+<tr>
+<td></td>
+<td>+</td>
+<td>Present Sabaragamuwa</td>
+</tr>
+<tr>
+<td>Central Province</td>
+<td>=</td>
+<td>Present Central Province</td>
+</tr>
+<tr>
+<td></td>
+<td>+</td>
+<td>Present Uva Province</td>
+</tr>
+<tr>
+<td>Southern Province</td>
+<td>=</td>
+<td>Present Southern Province</td>
+</tr>
+<tr>
+<td>Northern Province</td>
+<td>=</td>
+<td>Present Northern Province</td>
+</tr>
+<tr>
+<td></td>
+<td>+</td>
+<td>Nuwarakalawiya Division in Present North-Central Province</td>
+</tr>
+<tr>
+<td>Eastern Province</td>
+<td>=</td>
+<td>Present Eastern Province</td>
+</tr>
+<tr>
+<td></td>
+<td>+</td>
+<td>Tamankaduwa District in Present North-Central Province</td>
+</tr>
+<tr>
+<td>North-Western Province</td>
+<td>=</td>
+<td>Present North-Western Province</td>
+</tr>
+</tbody>
+</table>
+
+‡ Corrected on the basis of most recently calculated areas.
+
+<table>
+<tbody>
+<tr>
+<td>Population of Ceylon in 1857 (Ceylon Almanac, 1859, page 199)</td>
+<td>1,697,975</td>
+</tr>
+<tr>
+<td>Population of Ceylon on December 31, 1926 (approximate estimate only)</td>
+<td>5,124,992</td>
+</tr>
+<tr>
+<td>Increase in sixty-nine years (approximate)</td>
+<td>3,427,017</td>
+</tr>
+<tr>
+<td>Total Low-country Sinhalese on December 31, 1926 (approximate estimate only)</td>
+<td>2,107,553</td>
+</tr>
+<tr>
+<td>Exceeds Total Population of Ceylon in 1857 by ..</td>
+<td>409,578</td>
+</tr>
+<tr>
+<td>Total Population of the Western Province on December 31, 1926 (approximate estimate only)</td>
+<td>1,344,599</td>
+</tr>
+<tr>
+<td>Falls short of Total Population of Ceylon in 1857 by ..</td>
+<td>353,376</td>
+</tr>
+<tr>
+<td>Combined Populations (approximate estimates) of Western and North-Western Provinces on December 31, 1926, exceed Total Population of Ceylon in 1857 by ..</td>
+<td>166,235</td>
+</tr>
+</tbody>
+</table>
+
+Population to the Square Mile, 1921, as compared with  
+Density in 1857.
+
+In Western Province 517 as against 167, more than three fold.
+
+In Southern Province 313 as against 143, more than double.
+
+In North-Western Province 163 as against 65, two and a half times.
+
+In Central Province 171 as against 47, nearly four fold.
+
+In Northern Province 74 as against 49, one and a half times.
+
+In Eastern Province 40 as against 15, nearly three times.
+
+52------------------------------------------------
+
+309
+
+# The Selection of Pure-line Strains of Paddy, their Testing and Distribution.
+
+**L. LORD, M.A.,**
+
+*Economic Botanist, Ceylon.*
+
+**F**ROM articles which have appeared in the local press there would seem to be a certain degree of ignorance as to the work being carried out by the Department of Agriculture on the improvement of paddy cultivation in Ceylon. The annual reports of the Department show the progress that is taking place but as such reports receive little publicity this brief account has been prepared.
+
+## Classes of Improvement.
+
+The improvement of paddy cultivation may conveniently be discussed under six classes:—
+
+1. 1. Seed and Seed Supply
+2. 2. Cultural Methods
+3. 3. Pests and Diseases
+4. 4. Credit Facilities
+5. 5. Marketing
+6. 6. Land Tenure
+
+It is intended in this paper to deal only with the first two although it is possible that in a particular district any one of the above classes may provide the limiting factor. It may also be exceedingly difficult or perhaps impossible to effect certain improvements. The control of some of the pests and diseases of paddy offers a fertile if difficult problem. Ceylon paddies (compared with those in Burma at any rate) are particularly unfortunate in the extent and intensity of the damage they suffer from insects. Paddy Fly, Stem Borer and the Swarming Caterpillar all do a tremendous amount of harm.
+
+Credit facilities will improve with the spread of the co-operative spirit; but improvement of marketing conditions is rendered difficult by the fact that the local milling industry is yet in an embryonic condition. Land tenure does not come within the scope of this paper.
+
+53------------------------------------------------
+
+310
+
+## Seed and Seed Supply.
+
+One of the most profitable methods of increasing the yields of crops is by the use of improved seed. Improved seed which implies some method of selection or of hybridising, has been used for many years. Selection may be of four kinds—casual, mass, pedigree or pure line and continuous selection. Casual selection is the selection of some spontaneously occurring advantageous plant followed by multiplication of the seed. Mass selection consists either in choosing by observation the best heads from a crop and using the seeds of these the following season, or in picking out the largest seeds. If one is lucky casual selection may still be employed, and mass selection has its uses for the cultivator himself, but for all modern work pedigree or pure-line selection is invariably used either with or without repeated or continuous selection within the pure-lines evolved. Pedigree selection has often been described and it is not necessary here to do more than refer to it in the briefest possible way. Commercial varieties of any agricultural crop are composed of a mixture of different types, which may differ in their hereditary constitution even when similar in appearance, and which vary amongst other things in yielding power and disease resistance. In pure-line selection of self-fertilised crops a number of these different types is picked out by observation or weight per ear head. These selections are multiplied under conditions which prevent cross-pollination until (generally in the third year) there is sufficient seed for testing. After testing the most suitable selection is then retained and multiplied and the remaining selections discarded. So far as Ceylon paddies are concerned the main characters which determine the value of a selection are
+
+1. 1. Yielding power
+2. 2. Percentage husk to grain
+3. 3. Standing power (per cent. lodging)
+4. 4. Disease resistance
+5. 5. Absence of awns
+
+The colour of the rice is of little importance although in some districts red rices are preferred.
+
+Before dealing with the technique employed on pure-line selection and with the progress of the work in Ceylon there is still to be mentioned continuous selection and hybridisation. Hybridisation consists in artificially crossing desirable plants and segregating and stabilising certain of the resulting types before dealing with them as pure-lines. Hybridisation in rice is not yet practised by the Department as the immediate possibilities of pure-line selection are nowhere near exhausted. Continuous selection within a pure-line has lately been shown to be necessary. At the Imperial Botanical Conference in 1924 Percival
+
+54------------------------------------------------
+
+311
+
+said "It is being taught that the single initial selection in self-fertilised plants is alone of value; once obtain your improved variety, it maintains its characters from generation to generation and further selection is superfluous. This, I think, is to be regretted, for hereditary variations, mutations, or whatever they may be called, do occur in such lines, and it is only by renewed selection that these can be discovered and isolated; even if we were quite certain that the causes which produce fluctuations do not affect the hereditary mechanism of the plant we should be justified in the practice of repeated selection on this account.
+
+.....repeated selection in all lines should be diligently pursued." J. A. Thomson writing in the *New Statesman* (Dec. 11, 1926) refers to "..... Baur's recent study of snapdragons in which it is shown, after many years of research, that the garden races are constantly exhibiting small mutations, transmissible in their entirety in Mendelian fashion, often going one better than their parents, and occurring copiously even in 'pure-lines' that is to say, in lineages all descended from one."
+
+Quite apart from the large amount of initial selection still to be done amongst Ceylon paddies there will always be the necessary work of continuous selection waiting to be started. Up to the present it has been impossible to attempt this and it will be for some time to come.
+
+### The Progress of Pure-line Selection in Ceylon.
+
+At the end of 1926 there were forty-one Maha selections and forty-seven Yala selections isolated and tested at Peradeniya and Anuradhapura of which sufficient seed was available for starting outside trials in 1925. For convenience these are called the main series selections and are the result of isolations begun in 1921. Distinct from the main series selections there were also in existence at the end of last year 652 new selections which have now reached the stage of preliminary testing. After two years' testing nineteen out of every twenty of these selections will be discarded. During 1926 over 300 ear head selections have been made which this year will be multiplied on the ear-to-row method prior to preliminary testing in 1928.
+
+### The Main Series.
+
+These include selections from the most popular and largely grown paddies, e.g., *Mawei*, *Kohu Mawei*, *Kalukan Mawei*, *Sudu Mawei*, *Goda Mawei*, *Maha Mawei*, *Ratkunda*, *Podirei*, *Molagusamba*, *Polluksamba* (Maha paddies) and *Hinati*, *Kalu Hinati*, *Chinati*, *Karuppu Chinati*, *Danahala*, *Dahanala*, *Podi Hinati*, *Simatti*, *Morungan*, *Ilankalayan*.
+
+Work with these main series pure lines consists first in maintaining the purity of the lines (by bagging) at Anuradhapura and
+
+55------------------------------------------------
+
+312
+
+Peradeniya and in providing sufficient seed for field tests at those Paddy Seed Stations where the lines are likely to be successful and secondly in supplying seed to the cultivator. The machinery which exists at the present time for the testing of pure-line paddies consists of the Economic Botanist's areas at Peradeniya and Anuradhapura and of nineteen small Paddy Seed Stations scattered over the Island. The writer has prepared for the 1927 Yearbook of the Department of Agriculture a short account of these stations. Apart from the pure-lines which have proved successful at these seed stations during Maha 1926-27 certain of the pure-lines have already been taken up by cultivators notably a-8 near Negombo, B-11 and Hk-13 at Katugastota, R-11 at Ratnapura (where the selection is known as Peradeniya Ratkunda), Mb-14 and Ho-33 at Mannar, G-1 and other selections in the North-Western Province.
+
+Altogether over 350 bushels of pure-line paddies are recorded as having been sown by cultivators for Maha 1926-27. Tests at the Paddy Seed Stations and distribution of seed to cultivators are in the hands of the divisional staffs of the Department and more detailed information on the spread of pure-line seed will be given by them.
+
+### The New Selections.
+
+The 652 new selections were made about three years ago from ear heads sent in by agricultural instructors. Generally they represent varieties of more local interest than the main series. The following varieties are included in the new selections: *Sulai*, *Hinkarael*, *Bala Suduwi*, *Karayel*, *Ekkawi*, *Muppangan*, *Oddavalan*, *Chellakadai*, *Hinsuduwi*, *Honderawala*, *Perilavel*, *Morungakkai*. As a rule twenty initial selections of each variety were made and the problem now is to pick out the best of each twenty. Most of these new selections have been tested this last Maha and this has involved laying down over 3,000 individual plots. The methods used in testing will be dealt with later.
+
+### Ear head Selections.
+
+Over 300 ear head selections were made in 1926 from the following varieties: *Dewaredderi*, *Florida*, *Sinnanayam*, *Maha Suduwi*, *Ratkarayel*, *Muppangan*, *Black Illankalayan*, *Sawer Kuran*, *Kandimurungan*, *Hetadawi*, *Perillanel*, *Morungakai*. In some of the above selections (and this will be done in all future selection work) fifty ear heads of each variety worked on were taken in order to give a better chance of discovering a much higher yielding pure-line. The procedure in this initial stage is known as ear-to-row sowings. The seeds from each ear head are sown (at distances of 12 inches between seeds) in rows, the rows of each selection being six feet apart to lessen risk of cross-pollination. After harvest yields are worked out to yields per
+
+56------------------------------------------------
+
+313
+
+hundred plants and at least 60 per cent. of the initial selections are discarded as the result of this information plus observations during growth. The following year, all being well, there will be sufficient seed available for testing in small (rod-row) plots.
+
+### The Testing of Pure-line Selections.
+
+One of the reasons for the long time entailed in producing a pure-line paddy (or for producing an improved strain of any crop) is the difficulty of getting an accurate test of the comparative yielding powers of the selections of any variety. First sufficient seed must be grown to allow plots to be replicated frequently enough for statistical purposes; secondly a technique must be developed which reduces errors caused by uneven fertility of fields, etc., to workable limits; and thirdly the effect of varying seasons must be eliminated. The writer cannot emphasise too strongly the grave danger of introducing a new selection to the cultivator before rigorous tests have proved its undoubted superiority. And it is this rigorous testing which takes so much time. "It is nearly as difficult," say two of our leading authorities, "to make sure of the yielding capacities of two varieties as it is to get your ball through the hoop at a game of croquet, when the mallets are flamingos and the balls are hedgehogs."\* The methods used in preliminary tests of selections, that is, at an early stage in their career, has been fully described in the *Tropical Agriculturist* † for November, 1926.
+
+Some idea of the amount of care necessary and of the work entailed may be gained when it is realised that the figures given there refer to only twenty selections of one variety. Field tests of selections take place in the later stages of their history before they are ear-marked for distribution to cultivators. Each selection is tested against a control—that is, the most popular local paddy—and tests are held, as far as possible, in the neighbourhood for which the selection is intended. Selections are grown in 1/200 acre plots replicated from six to ten times. In addition each selection is grown in a plot of from a half to one acre for observation purposes. Such tests should be carried on for at least two years.
+
+### Paddy Seed Stations.
+
+In the last paragraph it was stated that field tests were conducted as far as possible in the neighbourhood for which the selection is intended. It has been found that the behaviour of a selection at the main stations of Peradeniya and Anuradhapura is no criterion of its behaviour say at Galle or Batticaloa. Be-
+
+\* The Principles and Practice of Yield Trials: F. L. Engledow and G. Udney Yule. *Empire Cotton Growing Review* III. 2. 1926.
+
+† The Preliminary Testing of Pure Line Selections of Rice: L. Lord, *Trop. Agric.* LXVII. 5. 1926.
+
+57------------------------------------------------
+
+314
+
+haviour here refers particularly to the life period and yielding powers of a selection. In some districts a difference of seven days in the time of flowering brings on a fatal attack by Paddy Flies. Because of this difference of behaviour in new environments it was decided to open, in various parts of the Island, a number of Paddy Seed Stations whose object primarily was to serve as test stations. During 1926 nineteen such stations were opened and conducted tests during the Maha season. Paddy Seed Stations are also serving as centres for making selections *in situ* of the popular local paddies. They will also act as demonstration stations where improved cultural methods can be *shown* to the cultivator. Finally, their ultimate and main service will be the production and distribution to cultivators of improved seed.
+
+### The Organisation of Seed Supply.
+
+The work entailed in the production and maintenance of a pure-line is useless unless some organisation exists for the distribution year after year of seed of the pure-line to cultivators. Continuous distribution of the maintained pure-line is essential owing to the cross-pollination, mixing and deterioration which will occur. In countries where agriculture has reached a high state of efficiency the work of seed supply is carried out by seedsmen and by individual farmers who grow strains specially for seed purposes. The trouble of the seedsman is paid for in the increased price a sound farmer will always pay for good seed. In the East generally the multiplication and distribution of improved seed commences and always, to some extent, continues as Government enterprise. To what extent the supply of improved seed becomes private enterprise depends upon the co-operation and public spiritedness of the rural communities. It may be laid down that it is the duty of an Agricultural Department in the East first to produce improved strains and then to ensure that yearly a fresh supply of the improved seed gets into the hands of the cultivator either direct or *via* a private seedsman or a co-operative seed society. In Ceylon where the supply of improved seed is yet in its initial stages the procedure at present is as follows: the purity of selections is maintained at the central stations (and if necessary will be maintained also at certain seed stations), yearly this pure seed is multiplied at the Paddy Seed Stations and distributed to cultivators. Cultivators will be encouraged to retain a portion of their crop for seed purposes but owing to crossing and mixing fresh supplies of seed will be necessary at frequent intervals. For example, a district round a seed station might be divided into four or five or even more blocks and one year one block could be given seed from the seed station, the next year another and so on, thus fresh seed will reach each block.
+
+58------------------------------------------------
+
+315
+
+every four or five years. The size of the seed station would then depend upon the size of the blocks to be supplied. Ten acres could supply roughly say 200 acres (at  $1\frac{1}{2}$  bushels per acre allowing a 30 bushel yield). If however the produce from a ten acre seed farm were again multiplied by private seedsmen the seed then available would suffice 4,000 acres.
+
+The multiplication of improved seed, for distribution to cultivators, by land owners or by co-operative societies would seem to be a suitable way of solving the problem of seed supply in Ceylon.
+
+### Cultural Methods.
+
+A regular and ample supply of pure-line seed is one of the most fertile means of improving paddy cultivation but at the same time the improvement of local cultural methods should not be neglected. At the present time work is being carried out on the possibility of reducing the average seed rate by using cleaner cultivation; on the effect of green manures on the yield of paddy; on the effect of bone meal on paddy; on the real value of transplanting as against broadcasting; on the suitability of different green manures. In addition an experiment in trapping land crabs was started at Peradeniya towards the end of last year and over 1,400 crabs were trapped during two months in less than an acre of land. Not only do land crabs cut down young paddy plants but they do a tremendous amount of damage to bunds which is serious where there is terraced cultivation.
+
+One of the chief difficulties in paddy cultivation in Ceylon is the large number of weeds to be contended with. There are three ways of dealing with weeds in paddy fields: one is to carry out thorough preliminary cultivation of the fields with more efficient implements than are used at present. The Burmese Harrow has been introduced and used at Peradeniya and Anuradhapura and at the Paddy Seed Stations. At the two former places it has proved efficient and economical in preparing a clean and well puddled seed bed. The harrow is used after ploughing and can be pulled by a pair of buffaloes. The harrow costs about Rs. 4.50 when jungle wood can be cut free of cost.
+
+Transplanting is of value when weeds are numerous in that it gives an extra month during which fields may be prepared. A second way of dealing with weeds is the obvious one of weeding the crop when it is from one to two months old. A third method is to practise, when this is possible, continuous submergence of the paddy fields from about four days after sowing the crop until the fields are dried off before harvest. This method, which can be practised only where water is abundant, is used in California. It was tried last season at Peradeniya and was apparently successful in completely controlling the common weed *Fimbristylis miliacea*.
+
+59------------------------------------------------
+
+316
+
+The adoption of certain improved cultural methods depends upon the financial condition of the cultivator—a Burmese Harrow is no use unless a man possesses a pair of buffaloes. The final test of improved methods is the financial return they bring and this aspect must never be neglected in following an academic ideal.
+
+### Discussion.
+
+MUDALIYAR J. P. OBEYESEKERE said that some of the selected seed had last year been tested in his district but the returns were not so good as they had expected. This year 3 or 4 acres had been sown and the results were far better than last year. The plants grew to a great height resembling sugar-cane and the seed had been distributed to the villagers. He could not remember what the number of the selected seed was.
+
+MR. K. B. BEDDEWELA said that he had taken a lot of interest in the question of the selection of seed paddy. The selection of seed paddy was one of the most difficult things to do. He suggested that the type of paddy in the poor districts of the Island should be improved. The condition of the Sinhalese cultivator in these districts was deplorable. It was not that they were lazy, but that the climatic and other conditions were extremely difficult for them to grow sufficient food for their needs. Most of them lived on only one meal a day and they suffered from malaria and parangi and other diseases which interrupted their agricultural activities. A doctor in these districts had informed him that parangi might be caused by the combination of bad water and kurakkan.
+
+SIR SOLOMON DIAS BANDARANAIKE inquired whether any attention has been paid to the selection of seed of hill paddy.
+
+MR. LORD replied that nothing had specifically been done in this direction as yet but that hill paddy was sown in Anuradhapura this season. He was going to test some hill paddy which came from Ratnapura with one of his own selections at the Anuradhapura Experiment Station in the next Maha.
+
+J. C. RATWATTE, DISSAWA said that there was an impression in this country especially in the rural districts that there was nothing to be learnt from Peradeniya as far as paddy cultivation was concerned. He had heard it so often that he had almost come to believe it himself until he visited the Experiment Station where he was convinced that the villager had everything to gain by following the methods prescribed by Peradeniya. One of the difficulties connected with the introduction of a better type of paddy was that of seed stores. If the Agricultural Department could get its officers in the rural districts to get into touch with the more energetic of the paddy cultivators with a view to installing seed stores and the organization of Co-operative Societies for distribution of seed, he felt that paddy could be made a more profitable industry for the villager.
+
+DR. RAJASINGHAM said he understood that transplanting of paddy was largely done in India. Perhaps Mr. Lord could give him some idea as to how many fold increase could be obtained from transplanting. He would also like to know the average yield of paddy per bushel sowing.
+
+MR. LORD said that he had gone to Anuradhapura to try and get the figures of increase of yield to be laid before the Conference. Owing to adverse weather however, the threshing operations had been interrupted and the figures would not be available for some days. There were indications that transplanting did increase the yield, but he could not say to what extent.
+
+THE HON. MR. FLETCHER, Colonial Secretary, said that he could hardly fail to be interested in the discussion seeing that he had lived for 25 years in South China which was the home of paddy cultivation. In
+
+60------------------------------------------------
+
+317
+
+Canton for instance for hundreds of miles there was nothing except an enormous chessboard of paddy intersected here and there by very small pieces of high land which served as graveyards. The Chinese had their own methods of selecting seed. They grow their paddy to perfection as far as neatness of operation was concerned. It was all put out by hand in exact rows and there was never a weed to be seen from the day the seed is sown till the crop is reaped. Cultivation was very intensive in China. In many parts they grew three crops—paddy in March and August and in the winter peanuts or sweet potatoes. He was afraid he had no scientific knowledge on the subject, but it was true that the Chinese had their own secrets of seed selection. In the hinterland of Hong-Kong, such good paddy was grown that it was not sold in the country but sent across to the Chinese colony in America. The Hong-Kong Government was studying the question of seed selection from the scientific point of view but felt that there was nothing that they could teach the Chinese on the subject. It seemed to him that it might be advantageous to this country if there could be some exchange in knowledge with the Chinese on the subject as to the methods of seed selection.
+
+THE DIRECTOR OF AGRICULTURE mentioned that the Department was now in the seventh year of its work in connection with paddy and had gained a good deal of experience. They knew for example that pure line seed paddy selected either at Peradeniya or Anuradhapura did not produce the same performance in other districts and for that reason they had to open seed stations in various districts. There were 19 at the present time where pure line seed paddy was being tested out. He felt most strongly that the Department of Agriculture should not distribute seed paddy to any area which it could not guarantee was suited to that area, because if it did and failure resulted the Department would lose the confidence of the grower. Progress in the distribution of seed depended entirely upon the confidence that the grower had in the seed and in the Department. Mr. Ratwatte, Dissawa had touched upon two points—visits to the Experiment Station and the establishment of seed stores. It was intended to arrange for regular visits by cultivators to Experiment Stations and furthermore it was intended to erect on these stations stores for the storing of seed as well as implements and other agricultural requirements, such as manures, etc., so that cultivators may know where to go for their supplies. The manure question was being gone into in addition to that of departmental stores. He also hoped it would be possible to arrange for certified shopkeepers to act as agents for the Department for the distribution of manures, tools, etc. The existing machinery would be employed as much as possible in order to avoid excessive departmental operations.
+
+HIS EXCELLENCY THE GOVERNOR: I would like to say a few words before we pass on to the next paper. First of all I would like to express my regret that Mr. Lord's very interesting lecture this morning should be addressed to a sadly depleted audience compared to those which we have had during the last two days. I especially regret the absence of the European planters and still more the leading members of the Low Country Products Association who till to-day have been with us in so much force and have added so greatly to the interest of the discussions.
+
+It seems to me that the lecture that we have listened to-day is on a subject of extraordinary importance to all of us, no matter whether our interests are directly connected with paddy cultivation but, as loyal children of Ceylon who are taking a very keen interest in the matter. With the exception of coconuts the area of which if I am correctly informed is about 900,000 acres, paddy which is in the neighbourhood of 850,000 acres occupies a larger area of cultivated land than any other crop in Ceylon, and its importance as the staple food of the people cannot be exaggerated. I personally, though it will be accounted in some quarters to
+
+61------------------------------------------------
+
+318
+
+be heretical, very much doubt that a time will ever come when Ceylon will become self-supporting as a rice-producing country. The temptation to make use of the land available for more lucrative products is likely to be very strong for many years to come and as long as you can import large quantities of good rice into the country at reasonable prices the inducement for our local cultivators to take up rice cultivation instead of rubber and tea is likely to be very feeble. I have listened with very great interest to the discussion which has taken place to-day and I should like in the first instance to congratulate Mr. Lord upon the very interesting lecture he has given us.
+
+Mr. Lord, as most of you know, was for four years in British Burma as Deputy Director of Agriculture, that is to say, he was in charge of a district. As you also know, Burma is one of the principal rice producing countries in the world and Mr. Lord had exceptional opportunities to study paddy cultivation on a very extensive scale in that country. From the reports that reach me from the Head of the Department not only has he taken a keen interest in the matter of research and experiment, but Mr. Lord is an eminently practical man, which is what we want if we are going to disseminate knowledge, which is worked out in detail at Peradeniya, among paddy cultivators of the country. I have been specially interested in the cultivation and selection of hill paddy. I personally have been a rice-eater for the last 43 years in the sense that my principal meal, whenever it was available, has always been rice and also, when that was available, curry. In the early days of my service it fell to my lot to make expeditions regularly, each of which lasted as much as a fortnight, to the uninhabited forests of the Malay Peninsula in company with a large number of rice-eating Malays. The ration that each Malay requires is such that one man is required to carry the food of himself and another man for 10 days; which meant that if your baggage was to be transported and your column was not to be unreasonably large that every man who carried a rifle and every man who carried ammunition and every man who had baggage that was not edible, had to have another man. It is a sum which works out with very considerable difficulty, and as I was responsible for not starving my people to death in places where we could not get food, I had to make certain that my calculations were correct.
+
+When we went we took nothing but rice, chillies and salt, and it is extraordinary, when a man has been walking all day, what enormous quantities of rice, flavoured only with chillies and salt, he is capable of consuming. We used to take a few cartridges of dynamite with us and we used to sometimes put a charge into a hole in a stream and get some fish in order to vary our monotonous diet of chilly and salt. That is quite irrelevant, but what I was going to say is that being a rice-eater all my life—I have been a rice-eater since seventeen—and I have exercised a good deal of discrimination in the rice which I consumed and as in the Malay Peninsula, so also here, the only rice I admit to my house is hill-grown rice from the chenns, specially selected for me by some of my friends, the Chief Headmen. Anyone who is a real rice-fancier knows that the most palatable rice that he can get is the rice from a chennaed hill, and I think that the Dissawe will bear me out that this is the experience of most of us.
+
+I was astonished to learn that during the rice shortage here some of our town-bred young Ceylonese gentlemen found that they could not eat hill-grown rice. I can only tell them that their tastes had become shockingly vitiated—(laughter)—very like that of one who had been used to tin butter for a number of years declaring that fresh butter was obnoxious.
+
+I would emphasise again the very great importance to be attached to the question of disseminating improved seed for paddy cultivation throughout the Island. I know of no activity of the Department, which is in my judgment more important than the work which it is doing in this particular line.
+
+62------------------------------------------------
+
+319
+
+# Progress in the Development of Cotton and Other Crops in the Hambantota District.
+
+**G. HARBORD, M.S.E.A.C.,**
+
+*Divisional Agricultural Officer, Southern.*
+
+1. The work of the Southern Division in connection with cotton and other dry-land crops may be divided into the following sections:—
+
+- A. The Marketing of the Produce.
+- B. The development of the cultivation in a more settled form by the consolidation of chenas.
+- C. Investigations in the utilisation of Rotation crops.
+- D. The production of Improved Seed.
+
+**With regard to A.**—Owing to increasing production, 2 Cotton Stores are this year being constructed to serve important buying centres where growers will be able to bring their produce at any time for sale.
+
+The 4 Buying Centres are being provided with large balance scales as an improvement on the method of weighing the produce by means of Spring balances.
+
+**In connection with B.**—The position to-day in the 3 Pattus is as follows:—
+
+**Magam Pattu.**—Is capable of producing greatly increasing quantities of cotton, *i.e.*, by Chena Cultivation methods; and much attention is being given to the crop in many of the Interior villages, but the profit to be derived from the collection and sale of Ranawara Bark (*Cassia auriculata*) in the Coastal regions particularly—is a limiting factor.
+
+**West Giruwa Pattu.**—Contains a fairly large area which is suitable, but very little has been done for Cotton. The villagers there are interested in the cultivation of chillies in addition to kurakkan.
+
+**East Giruwa Pattu.**—Is the most promising part of the country for the development of cotton growing. There the people are really keen on the crop. The system of grouping Cotton chenas which has been successfully introduced this year, is a step forward. Some interest is already being shown in the
+
+63------------------------------------------------
+
+320
+
+ploughing of cotton lands, and this season, at Hatagala and Welipatanwila, a number of growers are anxious for their leased lands to be ploughed, and arrangements are in hand for ploughing demonstrations on lands which have been cultivated with cotton for the last 3 seasons.
+
+**As regards C and D.**—Last August the work of opening up two Cotton Rotation Stations in East Giruwa Pattu was begun. One is at Bataata (between Ranna and Hatagala on the Hambantota road). The other at Middeniya (between Talawa and Middeniya 17 miles towards the interior). Each of these Stations is considered to represent a typical economic holding of 25 acres—suitable for a cultivator and his family to earn his living by the cultivation of Cotton and Food Crops with the help of a plough and bulls, the idea being that the holding should be more or less self supporting, *i.e.*, 20 acres for the cultivation of crops in rotation, 5 acres for the necessary buildings and also for a pasture and fuel reserve. On each of these Stations 20 acre plots have been planted this Season—half of the area with cotton and the other half with cereals—there will be a change-over of crops next season—(cotton in cereals and cereals in cotton areas) and thus the Crop Rotation Scheme will be developed with the introduction of Legumes, chillies, etc. in the 3rd year.
+
+For this season, satisfactory crops of two types of cotton, of kurakkan and other small grains, maize, sorghum, adlay, hill paddy and gingelly are maturing, besides chillies and tomatos. The removal of stumps is already being undertaken, so that ploughs can be used in time for the April-May rains. A comprehensive system of "Costings" is being kept by the Agricultural Officer-in-Charge who is quartered on the "Station." The necessary quarters for the staff have been erected, and Cotton Stores (for the Purchase Scheme), Cattle Sheds and also wells, are now being provided.
+
+(ii) At the Main Cotton Experiment Station, Ambalantota (Magam Pattu).
+
+(a) Last year the whole area was again ploughed with Tractors—this time in April-May. The advantages of ploughing such lands during this period have been strikingly proved by the results.
+
+(b) 55 acres are under cotton.
+
+Here
+
+(i) Varietal and Spacing tests are being conducted.
+
+(ii) Improved seed, by Mass Selection and Pedigree Seed Selection methods, is being raised.
+
+(c) 16 acres are under Rotation Crops in acre plots. Kurakkan, Adlay, Hill Paddy, Sorghum, Tomatos, Chillies and Legumes (cow peas, dhall and green gram).
+
+64------------------------------------------------
+
+321
+
+(d) Many of the crops are not yet harvested, but results are likely to be good in most cases and the cotton crop is very promising.
+
+(e) To mention a few early results:—
+
+(i) 1 acre of tomatos—in what has been a trying season has given a gross return of Rs. 130 and a nett profit of Rs. 70 has been secured.
+
+(ii)  $\frac{1}{2}$  acre of kurakkan grown on land which has been cultivated with cotton for the last 5 years has given a calculated yield of 4 ammunas of grain per acre.
+
+$2\frac{1}{2}$  acres of kurakkan grown on chena land have given a calculated yield of 2 ammunas per acre.
+
+(iii) 1 acre of chillies has given a gross return to date of Rs. 86 which represent probably  $\frac{1}{4}$ th of the crop which may be expected.
+
+Last year the Cotton grown on the Experiment Stations gave average yields of  $3\frac{1}{2}$  cwt. per acre, and, over fair sized blocks, of 7 and also 5 cwt. seed cotton per acre. There were several individual yields of 5, 6, and 7 cwt. secured by cultivators but the average yield from village grown cotton is low—and the reasons for this are being investigated.
+
+As at present cultivated in Hambantota District, cotton is grown as a pure crop in chenas, either side by side with kurakkan—as in Magam Pattu, or in large chena blocks separate from the kurakkan chenas—as in East Giruwa Pattu or in Garden Lands on the outskirts of the larger villages such as Hatagala, Welipatanwila, and Ambalantota, and in such cases, it is often cultivated on the same land in successive years.
+
+Under Chena conditions and taking an average yield of 4 cwt. of seed cotton and 4 ammunas of kurakkan, cotton at present prices compares favourably with kurakkan in respect of profit for the grower, but more labour is involved in its production.
+
+Cotton is a money crop which is particularly well suited for village agriculture; for use as a rotation crop, with its comparatively deep rooting system it is well adapted, and its cultivation together with that of other crops, such as kurakkan, chillies, etc., should in time bring about a marked improvement in the economic conditions of the villagers in the drier parts of the district. Cotton is not a lazy man's crop but induces thrift and provides an incentive to a settled form of Agriculture—in the
+
+65------------------------------------------------
+
+322
+
+permanent cultivation of dry lands.
+
+Tables showing:—
+
+(a) Total increase in production
+
+(b) Increase in production by Pattus.
+
+(a) Cotton Production, Hambantota District.
+
+<table border="1">
+<thead>
+<tr>
+<th><i>Season</i></th>
+<th><i>Cwts. (seed cotton)</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1922—23</td>
+<td>15½</td>
+</tr>
+<tr>
+<td>1923—24</td>
+<td>710</td>
+</tr>
+<tr>
+<td>1924—25</td>
+<td>1,225</td>
+</tr>
+<tr>
+<td>1925—26</td>
+<td>2,700</td>
+</tr>
+</tbody>
+</table>
+
+(b) Cotton Production by Pattus.
+
+<table border="1">
+<thead>
+<tr>
+<th><i>Season</i></th>
+<th><i>East Giruwa</i></th>
+<th><i>Magam</i></th>
+<th><i>West Giruwa</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1922—23</td>
+<td>9 cwt.</td>
+<td>5 cwt.</td>
+<td>1½ cwt.</td>
+</tr>
+<tr>
+<td>1923—24</td>
+<td>647 "</td>
+<td>38 "</td>
+<td>25 "</td>
+</tr>
+<tr>
+<td>1924—25</td>
+<td>1,039 "</td>
+<td>164 "</td>
+<td>22 "</td>
+</tr>
+<tr>
+<td>1925—26</td>
+<td>2,010 "</td>
+<td>658 "</td>
+<td>32 "</td>
+</tr>
+</tbody>
+</table>
+
+66------------------------------------------------
+
+323
+
+## Work in the Central Division.
+
+**F. BURNETT, M.C., M.A. (Oxon),**
+
+*Divisional Agricultural Officer, Central.*
+
+**I**N order that the general work being done by the Divisional Agricultural Officer and the Agricultural Instructors generally be more clearly understood, I will very briefly review some of the chief work at present being carried out in the Central Division. Our work is chiefly concerned with the village cultivator and may be divided under the following headings:—
+
+1. 1. Recommendations for the general agricultural development of the division; Experiment Stations, etc.
+2. 2. Liaison duties.
+3. 3. Demonstrations and lectures on Topical questions of the day.
+4. 4. Farm School Education, Peradeniya.
+5. 5. School garden work.
+6. 6. Co-operation.
+7. 7. Correspondence.
+
+Under heading 1, I will only give particulars of some of the most recent important works recommended and since taken up in the Central Division.
+
+A. It was found after repeated trials of pure-line paddy seed obtained from the central station, Anuradhapura, that the resulting yields were very unsatisfactory owing to various causes; the chief being due to acclimatization. The difficulty was in getting the crop to mature at the time when the adjoining fields were ready for harvest. From the results obtained it could be said that in the majority of cases the paddy seed had the quality of varying its age from the time of germination to the time of harvesting according to its environment and until acclimatized. As a result we now have in the Central Division 4 paddy experimental stations of approximately 5 acres each; one at Katugastota, one at Kegalla, one at Kotmale and one at Nalanda. Recommendations have also been made for two more stations to be started, one at Matale and the other at Inamaluwa.
+
+Pure-line paddies which have been successful at Katugastota have been distributed to the villagers and the area under pure-line paddy is increasing—for instance in 1922 from an experiment made with pure-line paddies B 12 proved successful
+
+67------------------------------------------------
+
+324
+
+and gave a yield of over 50 bushels per acre compared with the average yield of 30/40 bushels per acre from the local variety. During the present Maha season 43 cultivators are growing this type and the approximate extent under B 12 is 60 acres in Harispattu. B 11 cultivated by one man in 1925, is in this season being grown by 6 cultivators and the extent is 5 acres. The age of B 11 and B 12 at Katugastota is 5 months. Of the Yala types Hk 15 has spread most successfully in the villages. It has practically replaced local Heenati in Kondadeniya village. The area planted last season being 40 acres, and the yield per acre on the average was 40 bushels compared with 25 bushels local Heenati. Age of Hk 15 is  $4\frac{1}{2}$  months. Hk 13 is of a shorter age than local Heenati 4 months. The latter is in favour when the South-West Monsoon is delayed. Pure-line seed of B 11 and 12 have been supplied for trial this Maha season at Kegalla and Kotmale.
+
+In addition to the work done in pure-line paddy, systematic transplanting and green manuring have been most successful in this district. Five demonstration plots of sunn-hemp were laid out on the fields uncultivated during last Yala season and a very fine plot was cultivated on the paddy station itself. Applications for sunn-hemp have already been made by the cultivators for trial on their fields this Yala season.
+
+B. Work has commenced on the opening of two general experimental stations at Kegalla 37 acres and Dambulla 25 acres. At these stations the testing and comparison of various village economic crops will be made and also the growing of crops in rotation.
+
+C. Recommendation of the restoration of two tanks in the Walapane District, viz., Rattiriapotha and Welahindawewa; recommended by the Director of Agriculture in collaboration with the Divisional Agricultural Officer, and since advised by the Assistant Government Agent, Nuwara Eliya, that the expenditure for this work has been approved by the Government.
+
+D. The development of the areas where suitable pure-line paddies have proved successful.
+
+E. The initiation of village agricultural associations in the Uda Palata Division.
+
+**Liaison Duties.**—Mr. South, the Field Officer, Malaya, writing in the *Malayan Rubber Journal* makes an apt comparison of the duties of the field officers as follows:—"You will all remember that during the war it was customary to have a special qualified officer known as the liaison officer, acquainted with the work or the language or both, to make separate units of the army acquainted with each other's duties and thus to ensure the most efficient co-operation between them."
+
+68------------------------------------------------
+
+325
+
+In agriculture one of the duties of the Divisional Staff is not only to carry out Experimental work but also, to act as the administrative branch of agriculture or the connecting link between the village cultivator and the Research officers. The Divisional Staff, Central, are therefore, conducting what may be termed the following liaison experiments:—
+
+A. Investigation of plantain disease at Rambukkana in co-operation with the Mycologist and the Entomologist. Full progress made at this station is fully given in my yearly report. To summarize, various root diseases have been identified, including *Rhizoctonia bataticola*, also the *Aphis* (*Pentalonia Nigronervosa*) reported in Queensland to be the primary cause of plantain disease in Australia, have been found.
+
+B. Pure-line paddy work, the testing of pure-line paddy seed supplied by the Economic Botanist at Katugastota, Kegalla, Kotmale and Nalanda.
+
+C. The planting of five acres of budded rubber for testing and eventual isolation of high yielders, in co-operation with the Rubber Research Officers, at Kegalla.
+
+D. The dissemination of agricultural knowledge and results of such experiments to the villager. The latter is perhaps the most difficult of all, and therefore the most interesting, and after I have dealt with the other divisions of my work, I will describe what is being done in this connection in Uda Palata.
+
+**Demonstrations and Lectures.**—The Divisional Staff have delivered lectures from time to time at various centres and recently have given demonstrations in budding at Kegalla, Matale and Gampola.
+
+**Farm School, Peradeniya.**—This also comes under the supervision and direction of the Divisional Agricultural Officer. Recently the programme of work has been thoroughly overhauled. A new prospectus is being printed. Adjoining the school we are establishing a pure herd of Scind cattle. If anyone would like to be shown over this herd at any time and to see the arrangements made for the sterilization of the milk before delivery, I shall be very happy to take them round.
+
+**Co-operation.**—There are 40 societies in the Central Division of which the Divisional Agricultural Officer is the Assistant Registrar.
+
+**Agricultural Shows and Competitions.**—Last year three shows were held, one at Alawatugoda, one at Katugastota and one at Kandy. Also there were various competitions. The popularity of these competitions can be seen when this year at Matale there are 293 entries for one competition alone.
+
+**School Gardens.**—The number of registered school gardens in the Central Division up to the end of the year 1926 was as follows:—Government 162 and Grant-in-aid 31. Agricultural
+
+69------------------------------------------------
+
+326
+
+implements to the value of over Rs. 3,000 was supplied to newly registered school gardens during the year. A large number of gardens was visited and recommended for registration under the code, but owing to the lack of funds provided through the District Agricultural Committees, they have not been registered. 52 prizes to the value of Rs. 700 were given and bonuses were recommended to 16 grant-in-aid school gardens.
+
+**Agricultural Associations.**—The getting in touch with the village cultivator is by no means an easy problem. My latest efforts, however, have met with a certain amount of success, and that is by the organization of village agricultural associations. Since last November, 4 such agricultural associations have been formed in Uda Palata division and these are being tried as an experiment in order to test their usefulness.
+
+Already several meetings have been held and it will be seen from the motions brought forward for discussion what a great benefit such associations can be to the goiyas.
+
+The societies have been very fortunate in electing enthusiastic Chairmen and we are endeavouring to make these associations to be of the same value to the village cultivator as the Planters' Associations are to the Planting community generally.
+
+70------------------------------------------------
+
+327
+
+# A Review of Work Undertaken in the North-Western Division for the Improvement of Village Agriculture.
+
+**G. E. JAYATILLEKE HULUGALLE, Dip. Agr. (Cantab),**
+
+*Divisional Agricultural Officer, North-Western Division.*
+
+**A**SUCCESSFUL attempt has been made in this Division to improve village agriculture by
+
+1. (1) the improvement of paddy cultivation and by
+2. (2) the advancement of the co-operative movement.
+
+Cultivation competitions, manurial demonstrations and the introduction of pure-line types of seed paddy have been the methods by which such improvement has been sought. In the organisation of competitions the medium of the co-operative society has been found to be the most helpful, not only in securing entries but also in partly judging the plots. The competitors were required to cultivate one *pela* of paddy land in the best manner possible,—good cultivation, manuring and weeding being obligatory. The entries for each competition have varied between twenty to over thirty. The following competitions have been organised and partly carried out in 1926.
+
+1. (1) Nikaweratiya Co-operative Society Cultivation Competition, Yala, 1926.
+2. (2) Dewamedi Hat Pattu Competition Yala, 1926.
+3. (3) Boyagane Co-operative Society, Yala, 1926.
+4. (4) Hiriyaie Hat Pattu, Maha, 1926-27.
+5. (5) Dewamedi Hat Pattu, Maha, 1926-27.
+6. (6) Atamune Co-operative Society, Maha, 1926-27.
+7. (7) Bogamuwa Co-operative Society, Maha, 1926-27.
+8. (8) Ehetuwewa Co-operative Society, Maha, 1926-27.
+9. (9) Kurunegala Paddy Weeding, Maha, 1926-27.
+
+Small lots of manures have been supplied free to selected cultivators, who were generally members of societies. They were required to apply green leaves and cow-dung, and weed their plots. The fields, so worked under the supervision of an Agricultural Instructor, served as demonstration plots to members of
+
+71------------------------------------------------
+
+328
+
+societies and other villagers at Pussella, Bogamuwa, Boyagane, Weuda, Kuliapitiya, Galkandegama, Maraluwawa, Diyaturai, Batagammana, Kurunegala, Habage, Ihalakethe Godawela and Bandarakoswatta.
+
+One result of these demonstrations has been the increased number of applications for manures from Co-operative societies.
+
+In 1923, 12 bushels comprising 6 types of pure-line seed paddy were sown by village cultivators. In 1924— $17\frac{3}{4}$  bushels, comprising 4 types, were manured and sown— $3\frac{1}{2}$  bushels of one variety (G-L), manured and transplanted, yielded 257 $\frac{1}{4}$  bushels. Three types were either eaten or mixed with local varieties. In 1925-27, 73 bushels of G-L were sown, in an area of about 45 acres, 15 of which were transplanted, and in 1926-27, 78 bushels were sown in an area of about 75 acres, 50 of which were transplanted. In addition to this 104 bushels of seed paddy grown at the Kurunegala and Madampe Trial Plots have been sown by 32 cultivators, some of the latter being supplied with manure free.
+
+At the end of 1926 there were 28 societies in this Division. Three of these were registered during the year and the registration of one was cancelled. 550 new members have joined the societies making a total of 2,980, and the paid up share capital has increased from Rs. 20,875 in 1925 to Rs. 32,751. Loans granted in 1925 amounted to Rs. 27,289 and in 1926 Rs. 46,402 were lent and Rs. 34,674 were outstanding, Rs. 5,296 of which was overdue; nearly half of this sum is overdue from two societies. The purposes for which loans have been granted were as follows:—Purchasing and planting land, Redeeming mortgages on land, repaying loans taken at high rates of interest, purchasing land, building houses, purchasing fishing nets, thread and catamarans, cultivation of tobacco, trade in curry-stuffs, coconuts, vegetables, plantains, paddy and rice, purchasing carts and bulls, burning lime, manufacturing bricks, tiles, aerated waters, purchasing carpenters' and blacksmiths' tools, etc.
+
+The quantity of manure distributed has been double that of 1925. In 1926, 24 tons 10 cwt. 1 qr. and 4 lb. of artificial manure, costing Rs. 3,705, were distributed to members of 8 societies. A local firm of hardware merchants at Kurunegala has supplied 2 tons 15 cwt. of barbed wire, 2 cwt. and 2 lb. of staples and 52 mamoties. The total cost of goods supplied amounted to Rs. 4,457.89. It was found that when goods were obtained locally, the applicants were able to chose and buy at current rates, with 6 months' credit. Government loans at the end of 1926 were Rs. 4,750.
+
+72------------------------------------------------
+
+329
+
+# Progress of Work in the Northern Division for 1926.
+
+**W. P. A. COOKE, M.Sc.,**
+
+*Divisional Agricultural Officer, Northern.*
+
+**T**HE work in this division was aimed at increasing the food supply, increasing the income per head of cultivator and of studying the economic feasibility of replacing shifting by permanent cultivation under the dry land area.
+
+## **A. Increase of Food Supply.**
+
+### **(1) Encouragement to increase the yield of existing crop.—**
+
+Encouragement was given to the cultivators in regard to application of manure, attention to cultivation and the use of selected seed.
+
+(a) **Application of Manure.**—In the Jaffna District the importance of manuring is well understood. The growing of sunn-hemp to increase the fertility of the soil is spreading. Farm yard manure, palmyrah leaf and sweepings are applied to the paddy fields. The demand for these manures is greater than the supply and is getting to be increasingly expensive. The Department of Agriculture distributes artificial manures to be tried by representative cultivators who are willing to co-operate in undertaking trial plots. These trial plots have now begun to serve as demonstration plots. The fields are laid out by the Agricultural Instructor and the manures are applied and paddy sown by the cultivator. After the plants grow the Agricultural Instructor calls a meeting of the neighbours and gives talks on the spot on the advisability of using artificial manures.
+
+During 1926, 16 demonstration plots were conducted by the Agricultural Instructor.
+
+From 1925 cultivators have started to order artificial manures from Colombo. During 1926, 12 cwt. of Fish guano, 14 cwt. of bone-meal, 2 cwt. of sulphate of ammonia and 10 cwt. of Nitrate of soda were ordered through the Agricultural Instructor for manuring paddy and fruit trees.
+
+In the Mannar, Mullaitivu and Trincomalie districts agricultural competitions have stimulated the use of organic manures which are available in abundance but were seldom used. In Mantai North and South,
+
+73------------------------------------------------
+
+330
+
+Nanaddan East and West of the Mannar District farm yard manure and green leaves were applied to paddy fields. In Vavuniya cattle manure is now fetching money, at least a nominal sum, and cart hire is paid for transport. In Trincomalie the Asst. Government Agent was impressed with the increased attention paid to manuring, growing leguminous crops to improve soil, and the increased attention for irrigation.
+
+(b) **Attention to cultivation.**—Five demonstrations were given in the Jaffna district with iron ploughs and cultivators. There was a time when none would think of buying an iron plough. Now ploughing coconut estates is of ordinary occurrence and seven Meston ploughs were bought through the Agricultural Instructor during the year. In Mannar and Trincomalie weeding is now recognised to be necessary in certain parts.
+
+(c) **Selected Seed.**—The paper submitted by the Economic Botanist deals with pure-line seed selection work carried out by his division for the whole Island. In the Northern Division there are established the following 5 stations for testing, growing and distributing high yielding pure-line strains of seed paddy, viz., Paranthan, Uylankulam, Kanniyai, Anuradhapura and Vavuniya. A certain amount of seed was already distributed in the Mannar and Trincomalie districts during last year..
+
+The Manager, Jaffna Experiment Station, has multiplied desirable strains of chilli, Kurakkan and Thinai seeds. The chilli strains have proved to be popular. Last year 20,650 seedlings and 17 lb. of seed were sold to the cultivators besides supplying the Central Seed Store with 1,539 lb. of dried chillies. One cultivator who grew Farm Selection No. 12 writes that it yielded as much as 4,000 lb. per acre.
+
+**Kurakkan**—1,342 bundles of seedlings of strain No. 8 were sold to 16 cultivators. The average yield obtained by 3 cultivators near the farm was about 960 measures per acre. Demand for these seeds is increasing in the Jaffna and Trincomalie districts.
+
+II. **Extension of area under cultivation.**—One cannot fail to notice the migration of the people of the thickly populated Jaffna Peninsula to the less thickly populated Wanni areas. But this migration is not of a permanent character yet. Under the Karachi Scheme lands are leased and purchased principally by the non-cultivator class. Over 1,000 acres were cleared and brought under paddy cultivation during last year.
+
+74------------------------------------------------
+
+331
+
+In the Mullativu, Mannar and Trincomale Districts cultivators migrate during cultivation season and return back to the Peninsula.
+
+Plantain cultivation is extending in the Trincomale District. The area under vegetable, cereals and oranges in the Navuniya section of the Mullativu district is increasing.
+
+### III. Introduction of new crops.
+
+(a) **In New area.**—Among the food crops sugar-cane varieties are being tested at Allas Sugar trial grounds. This crop appears to have a good future before it. The area of land suitable for sugar-cane is large and Ceylon could materially increase the production of sugar in the Island.
+
+(b) **In Old area.**—Sugar-cane varieties were grown successfully in the Jaffna Experiment Station.
+
+**Pine Apple.**—Pine apple is grown to a fair extent at Chevakatcheri in the Thenmarachchy division, Jaffna. The Department is distributing free suckers of Kew and Mauritius varieties.
+
+### B. Increase of income per head of cultivator:—
+
+(1) Supply of cheap credit through the agency of the co-operative societies. Particulars are as tabulated below:—
+
+<table border="1">
+<thead>
+<tr>
+<th>Particulars.</th>
+<th>1924</th>
+<th>1925</th>
+<th>1926</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Societies</td>
+<td>28</td>
+<td>38</td>
+<td>51</td>
+</tr>
+<tr>
+<td>Membership</td>
+<td>2,650</td>
+<td>3,502</td>
+<td>4,683</td>
+</tr>
+<tr>
+<td>Paid up capital</td>
+<td>Rs. 45,305 52</td>
+<td>Rs. 61,075 90</td>
+<td>Rs. 86,993 00</td>
+</tr>
+<tr>
+<td>Number of loans given</td>
+<td>—</td>
+<td>1,008</td>
+<td>1,399</td>
+</tr>
+<tr>
+<td>Amount of loans given</td>
+<td>Rs. 103,363 90</td>
+<td>Rs. 100,001 97</td>
+<td>Rs. 100,007 49</td>
+</tr>
+<tr>
+<td>Number of depositors</td>
+<td>—</td>
+<td>179</td>
+<td>382</td>
+</tr>
+<tr>
+<td>Amount of deposits</td>
+<td>Rs. 12,821 58</td>
+<td>Rs. 17,279 38</td>
+<td>Rs. 29,877 09</td>
+</tr>
+<tr>
+<td>Reserve Fund</td>
+<td>Rs. 8,689 70</td>
+<td>Rs. 11,999 58</td>
+<td>Rs. 14,463 89</td>
+</tr>
+<tr>
+<td>Number of Government loans</td>
+<td>2</td>
+<td>9</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Amount of Government loan</td>
+<td>Rs. 3,000/-</td>
+<td>Rs. 14,000/-</td>
+<td>Rs. 19,500/-</td>
+</tr>
+</tbody>
+</table>
+
+The rate of interest charged on loans by societies varies between 12 per cent. and 6 per cent.
+
+The rate of interest paid on deposits by societies varies from 6 per cent. and 4 per cent.
+
+(II) **Saving in cost of cultivation.**—Comparative costs of lifting water from Jaffna wells were studied and results were made available to the cultivators. It was found that Persian wheel water lifts for wells under 20 feet in depth, double bucket Mhoit for well deeper than 20 feet and oil engines for areas over 5 acres proved efficient and satisfactory. Since then the number of Persian wheels and double Mhoits fitted is increasing. These lifts have not only decreased the cost of cultivation but have increased (a) the area cultivated per man and (b) the area cultivated under one well.
+
+75------------------------------------------------
+
+332
+
+The recently introduced Victory plough, Burmese harrow and Planet Junior cultivators are proving very efficient and cheaper in the cost of cultivation.
+
+**(III) Introducing or replacing crops with those of high money value.**
+
+**White Burley Cultivation.**—The progress made in the extension of White Burley cultivation for the past 4 years may be seen from the appended statement.
+
+<table border="1">
+<thead>
+<tr>
+<th>Year</th>
+<th>No. of Villages concerned</th>
+<th>No. of cultivators</th>
+<th>Total No. of plants</th>
+<th>Total quantity of cured leaf</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1923</td>
+<td>8</td>
+<td>27</td>
+<td>6,314</td>
+<td>801 lbs.</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>17</td>
+<td>66</td>
+<td>24,719</td>
+<td>3,864 ,,</td>
+</tr>
+<tr>
+<td>1925</td>
+<td>29</td>
+<td>268</td>
+<td>114,873</td>
+<td>14,131 ,,</td>
+</tr>
+<tr>
+<td>1926</td>
+<td>27</td>
+<td>219</td>
+<td>106,940</td>
+<td>18,826 ,,</td>
+</tr>
+</tbody>
+</table>
+
+The slight decrease of the extent of progress in the cultivation of White Burley in the District was due to the fact that high prices ruled during the year for the Travancore tobacco. However the outturn of cured leaf was the highest ever produced since the inception of the purchase scheme owing to the favourable weather condition.
+
+Over 40,000 seedlings besides  $59\frac{1}{2}$  oz. of seed were sold from the Experiment Station. Six nurseries were established by the cultivators in the villages of Tinnevelly and Urumpiray which are within easy reach of the Experiment Station and where the extension of White Burley cultivation is most advanced. The cultivators as in the previous season delivered the crop on the station as cured produce and a sum of Rs. 14,156.42 was paid for 18,826 lb. The prices were paid according to grades offered at rates varying from 60-80 cents per lb. The crop was consigned in 87 bales of 2 cwt. each to the Crown Agents in London for sale. We have now come to a stage when the price for the tobacco is the deciding factor in regard to the extent of the cultivation of this crop. The cultivators have been trained in curing the crop and they know what price to expect for their crop. They do not however know what price the country tobacco will fetch as the fluctuation in price for that tobacco is great. The market for country tobacco is disturbed by the uncertainty of the crop in Jaffna itself and the import of tobacco into Jaffna of crops grown in Mullaitivu District and the Tammankadduwa area. These uncertainties and further extension of area under tobacco outside the Peninsula is likely to increase the area under White Burley.
+
+76------------------------------------------------
+
+333
+
+**Sisal.**—Report on sisal cultivation at Anuradhapura Experiment Station was submitted to this board and published. It is interesting to note that although the crop was grown in the North-Central Province Experiment Station the people in the Mannar district are taking to it. There is a great future for this crop in the unirrigated lands in the dry zone. The essential features of sisal culture which should recommend it to the villagers are its peculiar adaptability to conditions prevailing in the various parts of the Wanni districts. These conditions may be summed up as follows:—a long dry season, large tracts of dry and poor soil, scarcity of skilled labour, cheap land, lack of sufficient capital for taking to intensive culture. Sisal will flourish in comparatively poor soils and will withstand long periods of drought; their cultivation is both simple and inexpensive not requiring skilled labour, work animals, or agricultural machinery; and they are not attacked by any serious disease or insect pests. In the Wanni area the principal crop grown is paddy. Paddy cultivation employs labour by seasons. The rest of the time there is practically no work for these people. Sisal cultivation will give work to the people during off season. The establishment of this industry on a satisfactory basis will require the necessity of establishing large plantations or a number of smaller ones in close proximity and the introduction of fibre extracting machinery.
+
+(VI) **Advice in regard to marketing.**—With the exception of the Jaffna Peninsula the area served by this department is Wanni. Under modern conditions the little villages are gradually expanding and getting linked up with Jaffna. In several parts of the interior jungles we have survivals of old village communities which are little republics having nearly everything they can want within themselves and almost independent of “foreign relations.” Some villages even when it does not form a regular village community is a self contained, self sufficiency whole. The horizon of these villagers is extremely limited. They are getting more and more of their own familiar travelling traders who come to their doors during definite seasons every year, sell manufactural articles or take away village produce.
+
+Within the last few years the railways are having their effects felt. The motor car and bus have become popular. Travel is becoming frequent. Change has invaded our rural tracts. This has resulted in securing better prices and a market for the surplus produce, viz., paddy and straw, because the market is extended. Prices have been equalized within a certain distance of the line and produce has been cheapened in the Peninsula. This movement was noticed principally during latter part of the year after the new rates on straw and paddy were announced. The Department helped the people by announcing the news and checked the exploitation of the cultivator and the consumer by the middleman.
+
+77------------------------------------------------
+
+334
+
+**C. Studying the Economic feasibility of replacing shifting by permanent cultivation.**—A new Station was opened at Vavuniya with the object of solving the above problem. Large areas of land are cultivated under the system called "Chenas." This is the least exacting form of cultivation that prevails in Ceylon and its merits and demerits have been discussed from time to time.
+
+The principal money crop grown in this station is cotton. Cotton is rotated with other food and fodder crops. It is premature to discuss this work at this conference and shall be taken up at a later date.
+
+### Discussion.
+
+THE DIRECTOR OF AGRICULTURE began his remarks with the observation that a somewhat mixed diet had been laid before the meeting. The Divisional Officers of the Department had endeavoured to place before the Conference facts and figures relating to their work. It would be noted that various activities were taking place in different divisions of the island. It had always been his policy to encourage the Divisional Officers to act on their own initiative, for he did not believe that too great an amount of centralisation was possible in work of this nature. Mr. Harbord had given details relating to cotton cultivation in the South. Mr. Burnett had endeavoured to elaborate the work that was peculiar to the Central Division with particular reference to Paddy and food crops; Mr. Hulugalle had emphasised the co-operative side of Agriculture, and Mr. Cooke had dealt with matters affecting tobacco, sisal and other industries in the North. These were all matters of prime importance to the divisions in which these Officers were working and he thought that the facts which they had placed before the Conference were sufficient to convince it that sound progress was being made by the Officers in their work.
+
+HIS EXCELLENCY THE GOVERNOR said:—"It has interested me enormously to listen to the personal reports which have been given to us this morning by the four gentlemen who are in charge at the divisions concerned and I repeat that I regret very much, indeed, that the audience is not as large to-day as it has been on previous occasions during the Conference. To my mind the deliberations of this morning and the information we received as to the activities of the Department are among the most interesting of the many interesting subjects that we have heard and discussed during the last three days.
+
+"I should like to compliment the four Officers upon the work they are carrying on and upon the spirit in which that work is being conducted. It is impossible to listen to them without realising the very keen personal interest they are taking in the peasantry of their various districts.
+
+"As regards the cotton cultivation, as I said a few days ago, we propose to tide the good people of Hambantota over their immediate necessities which have been occasioned through a sudden drop in the price of cotton and as I have also said in order to keep a nascent industry. Coming as I have recently done from a country where cotton has been grown from time immemorial—I allude to the northern provinces of Nigeria—I take a very keen interest indeed, in the cultivation of cotton in Ceylon because I believe it has behind it quite enormous potentialities. In Nigeria 90 per cent. of the population is at present clothed—when it is clothed at all—entirely in garments that are fashioned locally in their own looms from
+
+78------------------------------------------------
+
+335
+
+cotton grown in the country. We have made a great revolution in cotton growing in Nigeria, which will show you what an Agricultural Department can do. In the space of fifteen years we induced some eight million people to root out their old inferior cotton and to grow cotton with long staple instead of the local short staple cotton which they previously used to grow. To be able to carry out a revolution like that among a conservative population which in the first instance believed that we did not know anything about it—which must be the prevalent creed to most old and conservative agricultural populations—is to my mind a very notable achievement and which must encourage the activities of every Agricultural Department throughout the British Empire. The opposition to our revolution was strong and when I tell you that it came almost entirely from the women you will realise what enormous difficulties the Agricultural Department had to contend with. The women—many of them had told me about it personally—complained that the long staple was for them very difficult to deal with in the traditional methods and we had to some extent to show them easier methods of spinning long staple than those to which they had been used up to that time. When they once became used to it they all started and so helped us in carrying the revolution which has been of enormous importance to the whole country.
+
+"The cotton growers of Nigeria occupy a position which I believe is unique in the whole of the world for a cotton producing country, for they have an alternative market and if the Manchester market falls below a certain level they sell their cotton for export in Nigeria itself. Otherwise the whole of it is packed on donkey back and on camels and large caravans proceed up into the Sahara where they can always dispose of it at a good price. The Nigerian farmer has always the alternative of deciding whether he should sell to the European market or to the caravan drivers of the North and the East and that puts him in a position of financial independence; he knows he can always find a market for his cotton.
+
+"It struck me that this might conceivably interest this audience because cotton growing here is still in its infancy but its potentialities are very great and its encouragement in this country is in my mind a matter of very great moment and importance.
+
+"I took particular interest in hearing Mr. Hulugalle and Mr. Cooke deliver their reports of their various activities because, as I have said, as Colonial Secretary, I was instrumental in the appointment of four gentlemen—Mr. Hulugalle, Mr. Cooke and Mr. Driemberg and another whom I hear is no longer with us—to the Agricultural Department at Peradeniya which we were then organising.
+
+"Since then Mr. Hulugalle has earned a scholarship which has taken him to Cambridge, and certainly his sojourn there does not seem to have diminished his enthusiasm for the work which he is carrying out so ably in in his own country. I congratulate him very earnestly on the extraordinarily interesting report and the fine results which are being achieved by the Co-operative Societies which he is watching with real human sympathy and with a complete understanding of the needs of the people.
+
+"Mr. Cooke's report is no less interesting. He also is in a sense one of my official children but instead of going to England his scholarship took him to California. When I was in the Northern province recently I heard nothing but praise of the way in which he was keeping in touch with the cultivators there and I can only hope that gradually he will persuade even the stubborn Jaffna cultivator that the Department of Agriculture has still something to teach him.
+
+79------------------------------------------------
+
+336
+
+## Water Hyacinth Eradication.
+
+**W. C. LESTER SMITH, B.Sc.,**
+
+*Plant Pest Inspector, Southern.*
+
+**T**HIS short paper is intended to give an account of some of the methods used and the reasons why they are adopted in the eradication of the Water Hyacinth plant. In the Southern Division this has been the main work of the Plant Pest Inspectorate during the last nine months.
+
+The water hyacinth is a native of Brazil in South America and is a serious weed in the following countries:—North America, in some of the Southern United States; the Indian Empire, in Bengal, Assam and Burma; French Indo-China, particularly in Cochin-China; in the South-Western China Proper; Japan; Australia, notably in Queensland and New South Wales; in the Philippines, Southern Borneo, Java, and in Malaya. On account of the publicity which has been given to this plant during the last few months I will omit any further introduction.
+
+Before passing directly on to the eradication work in Ceylon it may perhaps be of interest if I quote some of the methods which have been tried in other countries. I will take the use of poisonous sprays first. In 1899 the water hyacinth was so abundant in Florida, Louisiana and Texas as to obstruct navigation in the waters emptying into the Gulf of Mexico. The eradication of the plant was given over to the United States Engineers Office and since then they have spent hundreds of thousands of dollars in attempting to remove it from the navigable streams. After many experiments no method has yet been found by which the plant once it has gained a serious hold can be completely eradicated at a reasonable cost. Chemical sprays were tried and the substance which was found most effective was a solution containing Sodium Arsenate. A report on the spraying methods said the spray did all that could be expected of it; but the Government Engineers admitted they could not keep up with the growth of the plant. This, I consider, indicates that only those parts of the plant in direct contact with the spray solution were affected, and this is confirmed by trials carried out at the Bose Institute, Calcutta. These experiments indicated that poisonous sprays were quite incapable of killing out the entire plant.
+
+80------------------------------------------------
+
+337
+
+Another method was an attempt to kill out the plants by forcing hot steam into the water under them. I have not been able to refer to the reports on this method but it is rarely mentioned and has either been unsuccessful or the necessary machinery proved too expensive. The use of poisonous sprays being prohibited in Florida, since 1905, on account of the danger to animals eating sprayed plants, the attention of the authorities was diverted to the possibilities of mechanical piling. In 1909, piling by means of an elevator was started, and in 1916 a simpler contrivance called the "grappler" was tried. The use of these machines which are mounted on barges is threefold. They lift the plant out of the water, convey it to the bank of the river, and there pile it in heaps to rot.
+
+Surrounding masses of the plant with nets and towing them down to sea was found to be practicable only for a very short distance, or where there was a strong current. In the case of long distance tows, the leakage of plants *en route* was too great, and further the hyacinth is rarely found in streams which have a strong current. The erection of booms to confine the plant to restricted areas and prevent it entering channels which have been cleared was also found useful.
+
+None of the methods referred to above, even if repeated quarterly, can compete in the long run with thorough eradication by hand labour. Spraying may be discounted as a suitable compound for application, in either the liquid or solid form, has not yet been discovered. The most that mechanical contrivances can do is to assist by expediting the heavy work and this only under certain conditions; they cannot entirely replace hand labour. Booms or barrages across rivers and channels assist in localizing areas but cannot be regarded in any way as permanent protections.
+
+The only methods that have been found of practical use up to date, in the work in Ceylon are as follows: the plants have to be dragged out of the water, not indiscriminately but at definite selected and in some cases specially prepared landing places. From here they are removed to places above flood level and where animals and rain cannot force them back to the water. In these places they are piled up in heaps to dry and subsequently burnt or buried in pits. In the removal of plants from the middle of streams, tanks, etc., use has been made of rakes. These are made entirely of wood, with a head about 3 feet long and a number of long wooden teeth; the handles are short, about 4 feet long, the ends being attached to ropes. With such implements large floating masses of the plant may be hitched on to and either towed on to landing places by boats or actually pulled in to the banks where they are being removed.
+
+81------------------------------------------------
+
+338
+
+There are two factors which influence clearing methods considerably and are also reasons why the plant is such a serious pest. These are the rapid spread or propagation of the plant by vegetative means and the delayed germination of the seeds. These factors lead to the formulation of the following principles. One, that after the first preliminary clearing when the main bulk of the plants has been removed a second and most careful clearing must be carried out. On this occasion the utmost precautions must be taken to ensure that not a single stray plant is left behind. Two, all seedlings must be collected periodically and before any of them have reached the flowering stage. The ability of the plants to float unattached in water and the possibility of their transport down water courses to other areas by this means renders further precautions necessary. The clearing of all infested areas should where possible be commenced at the top and the work proceeded with in a down stream direction. Where this cannot be done or, on streams and channels subject to a flow back due to tidal or other causes, booms have to be erected above and below the places where the work is actually in progress.
+
+The infested areas in the Southern Division comprise the following diverse types of places. Firstly what I term "permanent water areas," including two major irrigation tanks, numerous village tanks and their connecting channels, and two "kalapuwas" or coastal lagoons. A second group of infested places embraces large and small swamps, water courses, wells, rock pools, water holes, paddy fields and drains. In the clearing of permanent water areas the use of boats and rafts is essential. They are necessary both to facilitate the work and for the protection of the people employed, against crocodiles.
+
+Swamps and areas of boggy ground are the places that involve the chief difficulties in the clearing work; and for some it may not be possible to entirely eradicate this pest without some scheme of drainage.
+
+In conclusion it is submitted that the successful eradication of the water hyacinth from the infested areas in Ceylon depends entirely on three factors. Firstly, the supply of a sufficiently large labour force to enable the bulk of the clearing work to be done in the shortest possible time; secondly, absolute continuity throughout the work, and finally, constant reinspection and clearing where necessary.
+
+## Discussion.
+
+THE DIRECTOR OF AGRICULTURE outlined the policy of Government in regard to the eradication of Water Hyacinth. The matter had been before Government and had been considered by the Legislative Council. Government undertook the clearing of all Crown lands, Crown tanks, waterways and other places of infestation which belonged to the Crown. It had also been decided that any private lands which had become infested as a result
+
+82------------------------------------------------
+
+339
+
+of the spread of water hyacinth from Crown areas should be cleared at Government expense. The onus of destroying the weed on private land rested with the private owner and he stated that he had been greatly pleased and impressed with the very willing co-operation of the public with the officers of the Department during the past year. He would also like to draw the attention of the house to the great assistance he had received from Gate Mudaliyar Rajapakse, who partly at his own expense and partly at that of the Urban District Council had cleared much of the land infested with the weed around Negombo. It was only by co-operation of this kind, the Director emphasized, that the water hyacinth could be successfully eradicated. During the past few months he had received no fewer than six notifications from members of the public of the occurrence of the water hyacinth. It was this co-operation which made the work of the Department easy and encouraged the efforts of its officers. He would appeal to all who noticed the water hyacinth anywhere in the country to let the Department know at once.
+
+HIS EXCELLENCY THE GOVERNOR said that the Director of Agriculture had informed him that if all went well there was a fair prospect of this vegetable pest being eradicated by the end of 1928. This subject, continued the Governor, carried with it a moral, namely, that the love of beauty, vegetable or otherwise, should not lead one to import anything into a tropical country without first inquiring what was going to be the result. Forty-three years ago when he first joined the Civil Service of the Federated Malay States as they were then called, his first post was that of Private Secretary to the Resident, who was himself a great naturalist and a great botanist. The former had told him that riding once through the Botanical Gardens of Brazil when he was returning to the Malay Peninsula round Cape Horn, he saw a sensitive plant and getting off his horse, made a cutting of it. He took that cutting with him to Perak, where it was called "the plant which is so shy," because of the way it shrinks at touch. By the time he had left Malaya it had infested almost every grazing ground, from one end of that country to the other. It had become a regular curse. When he came to Ceylon in 1909 which was about 22 or 23 years after its introduction to the Malay Peninsula he found that it was also known in Ceylon. When he went subsequently as Governor of Labuan he again came across the track of his former Chief, for the latter had introduced into the Island of Labuan that pretty little bird called the Java Sparrow and the Government was at that time offering so many dollars a hundred for the destruction of these birds because they were committing such ravages upon the paddy crops of the Island.
+
+"These two incidents have always been in my memory," the Governor concluded. "Whatever other crimes I may have committed in the course of a long career, that of introducing stray things on account of their beauty to tropical countries is one to which I have not cause to plead guilty."
+
+THE DIRECTOR OF AGRICULTURE said that in the Kalutara District the water hyacinth had been found in 50 different villages. It was grown there on account of its reputed medicinal value. The greater portion, however, had been cleared up. A publicity campaign was being conducted in those areas with a view to educating the people to a sense of the danger of water hyacinth. Three public lectures had recently been given in the Kalutara District. At Panadura, the meeting was presided over by the Hon. Mr. E. W. Perera and was very largely attended. He had specially invited Mr. Perera to preside at this meeting as he would be of great assistance in persuading the public to co-operate with the Department in the eradication of the pest in those parts. He wished to thank Mr. Perera for his assistance in this matter.
+
+83------------------------------------------------
+
+340
+
+# The Teaching of Agriculture in Elementary Vernacular Schools.
+
+**F. A. STOCKDALE, C.B.E., M.A., F.L.S.,**
+
+*Director of Agriculture, Ceylon.*
+
+**I**N this paper I propose to bring forward a subject which has been occupying the attention of many in the island during the past few years, with a view to securing a discussion and to ascertaining how far it may be possible to effect early progress.
+
+At the Conference held last year, I indicated what was being done at present in the teaching of agriculture and alluded to the School Garden system of the elementary schools. This system has been in force for a number of years. It has made very considerable progress and I can say without hesitation that it is the best School Garden system that I have seen in any colony in which I have seen service and it may be of interest to Ceylon to know that it is now being very largely copied in the Punjab—the province of India which is the home of hardy and progressive agriculturists.
+
+There are, however, some defects in the system in Ceylon and endeavours have been made in recent years to rectify them. Throughout, I have felt that the teaching in the school is divorced from the work in the Garden. This is a serious defect which can only be rectified after years of patient work. The desired change can only be brought about when there is a change in the viewpoint of the teachers. It is not sufficient for the children of a school to be taught how to keep their Garden tidy, nor how to prepare beds for the cultivation of certain crops. The reasons for the various operations must be taught both in the Garden and in the School room, and the plants grown in the Garden must be used for illustrations to the lessons given in the School.
+
+The primary difficulty is of course the question of the training of teachers. There are but a small number of teachers who have received any specialized training in agriculture. We can at present only accommodate 12 teachers per annum at the Peradeniya Farm School. These are now being taken through a course based upon the code requirements and every teacher on leaving should have in his possession notes and drawings which can be used in connection with the teaching of nature knowledge to the various classes throughout their schools.
+
+84------------------------------------------------
+
+341
+
+In my view, and this view is shared by the Committee of the Legislative Council dealing with the question of Unemployment, such agriculturally-trained teachers should be utilized as teachers of agriculture and nature knowledge to all classes in their schools in the same way that science masters are employed in secondary schools and colleges. The number of such men is however small and it is strongly urged that the curricula of the various Training Colleges should be so changed as to provide for a training in agriculture and that teachers in these colleges should in their final year be given a choice between natural science and agriculture and the alternative classics and literature. It should also be considered whether arrangements could not be made for a further extension of the vacation classes which were inaugurated for the teachers in elementary schools last year at the Peradeniya Farm School.
+
+Our educational system in the past has tended towards giving the youth of the island too strong an urban bias. There is undoubtedly a strong feeling amongst the rural population that this should be changed and this feeling is strongly shared by those who look sufficiently far ahead and consider the careers open to the youth of the island. It is unnecessary to criticize the system which has given rise to the present situation. It has had its use and has assisted large numbers of useful citizens to secure satisfactory livelihoods. Over-crowding of certain avenues of employment has taken place and there is a strong feeling that future development must be in connection with the land and that education should be so overhauled, especially in rural areas, as to meet this awakening which is slowly but surely taking place.
+
+Instruction in agriculture must be carried out on the land. It is only in this way that instruction of practical value can be given. School garden work provides a medium for such practical instruction up to a certain extent. It does not however go far enough and certain schools have extended their operations into small areas of adjoining paddy fields. There are certain difficulties in this extension of work into neighbouring paddy fields, particularly if the teachers have a pecuniary interest in the crops harvested and it is a system which has to be carefully watched and extended only with caution. It is also obviously impossible to provide for extensive areas of lands attached to the elementary schools and in consequence one has to ascertain what is the best solution of an obviously difficult problem. As far as I am aware, no definite constructive policy has been outlined and therefore the few points now submitted for discussion may be of some value.
+
+Admitting that agricultural instruction must be given on the land and that adequate areas cannot be provided for every
+
+85------------------------------------------------
+
+342
+
+school, it has been urged by some that education (so called) should be so limited as not to prevent the parent making use of his children's labour. It has been urged, and not without some justification, that the best practical instruction can be given on the parent's land and under the guidance of the parent.
+
+There are, however, few who will admit that children should be allowed to leave school at such an early age as to be employed during the most impressionable age in actual cultivation duties on the parent's land and there is the danger that if the boy stays at school up to too great an age that he loses the desire for work on the land, and will aim at staying on at school to fit himself for work in urban areas. There seems to be little doubt that many of the boys in the senior forms of the elementary schools drift to a position which is neither beneficial to themselves nor to the country. In some countries this difficulty is being met in rural areas by allowing boys over a certain age to attend part-time at school and to be employed on their fathers' lands for the other part of the day. Whether such a scheme is feasible for Ceylon is perhaps worthy of consideration, but personally I am somewhat doubtful of its practicability.
+
+The only solution therefore seems to be in the direction of bringing the land to the school. By this I mean that, in my view, it seems necessary that the whole essentials of a child's education—certainly in rural areas—should centre around the village, the land and his parents' occupation—agriculture. His arithmetic should be in terms of measurements of his holdings, his house, his crops and of their value. His reading should include stories connected with the land and agriculture in general and special provision should be made for specially local problems to be dealt with. His thoughts should be directed in these lessons to the use that land can be put to the crops that can be raised therefrom, the regulations which are expected to be complied with in respect of timber and fence stick requirements, irrigation, etc. Adequate provision exists for concrete examples to be given to illustrate the various lessons and practical work on the soil, manures and crops can be provided for in the school garden, whilst special visits could be arranged to neighbouring fields during special times of cultivation operations.
+
+This change of view-point from the examination to the village and the land should not be beyond the powers of the present inspectors and teachers, and much could be done if a satisfactory text book could be prepared for the guidance of such officers.
+
+It is not felt that such a change should end there for in Ceylon there should be provision for lessons in elementary agriculture with practical work in a school garden for standards IV. to VIII. in every Government Vernacular School and for some similar provision for the Assisted Schools. I have recently had
+
+86------------------------------------------------
+
+343
+
+the privilege of working with a Committee of the Legislative Council on the question of Unemployment and it is most probable that the above suggestions will be embodied amongst its various recommendations. It will tend to give an agricultural bias to the teaching in our elementary schools in rural areas and will lead later on to the development of a demand for vocational vernacular agricultural schools.
+
+The work of the Department of Agriculture amongst the village agriculturists will be materially assisted if the education of the same can be or has been directed towards an agricultural bias. They will be the better able to appreciate our efforts and will also be the better able to profit from them. It may be argued that it is unwise to attempt to tack on agriculture as an additional subject in the elementary vernacular schools of the island. With this contention I join issue. I feel, and feel most strongly, that in Ceylon especially in the rural areas rural subjects should form the pivot of the whole framework of education—reading, writing and arithmetic—in the junior classes and that in the higher classes students should be required to have a certain training of the elements of agriculture. Similarly I feel that in the Anglo-Vernacular Schools, a Text book in agriculture should be used in connection with the teaching there given.
+
+Agriculture is our staple industry and our aim should be directed towards fitting our rising generation to make better use of the land, produce increased crops and thereby enable themselves to provide for those increasing demands for a better and higher standard of life. I have thought fit to place these views before this Conference in order that they may be fully discussed and in order that assistance and guidance may be received from those who have given the subject some attention. This I have done at this juncture because the Department has been instructed by Government to provide a special text book on Elementary Agriculture which can be translated into the vernaculars for use in the elementary vernacular schools. The nature and scope of such a text book must depend upon the policy which meets with general approval and can only be drawn up for the use of teachers and inspectors for the higher classes and possibly for use in Anglo-Vernacular Schools as a reader. It must be left to those directly connected with the vernacular schools, viz., inspectors and teachers—to make use of sections of such a text book for the preparation of those simple lessons on agricultural subjects which should be incorporated in the readers and the arithmetic books used in the junior classes of those elementary schools. It is possible however that the Department of Agriculture could help by the issue monthly of literature in the vernaculars containing suggestions for lessons at the schools.
+
+I therefore, gentlemen, invite your criticisms of the proposals submitted and would welcome the fullest discussion.
+
+87------------------------------------------------
+
+344
+
+## Discussion.
+
+HIS EXCELLENCY THE GOVERNOR called upon Dr. Andreas Nell to speak.
+
+DR. NELL said that he had been considering the condition of the village agriculturist, and could not help wondering whether he was better off now morally and materially than he was five hundred years ago. Dr. Nell said that he had reluctantly come to the conclusion that the villager of to-day was not better off in these respects. It was a matter which it was very difficult to discuss without raising strong controversy. The fact was that the boy who had not been to a village school was far more intelligent and much more sensible than the boy who had. It was a very clear indication that the schools were doing more harm than good. He would wish Mr. Stockdale all success in his endeavours to see that the village schools were no longer at variance with the life of the villager. He thought it would be wiser not further to elaborate the views he held in regard to village education, but merely to hope very earnestly that the Department of Agriculture would succeed in arresting the demoralization of the village youth. It was very gratifying to note that during the last two years there seemed to have been a change of outlook and whatever the cause of that change, all he would wish it was "more power to your elbow." He hoped that next year the Department would be able to report further progress in this direction.
+
+MR. J. C. DRIEBERG, Farm School Officer, indicated to the meeting the nature of the work done at the Agricultural School at Peradeniya in connection with the instruction of village-school teachers.
+
+THE HON. MR. A. MAHADEVA advocated propaganda in favour of rural life which should be embodied in the text-books of elementary schools on somewhat similar lines to those on which military ideals were inculcated upon the youth of Germany. As regards the elaborate note-books prepared by the village teachers during their course at Peradeniya, he had been a teacher himself and knew exactly what use these books were put to; the boys could answer very intelligently any questions put to them but were unable to recognise objects in the field. He would like to emphasise that it was not merely the production of note-books that was required.
+
+HIS EXCELLENCY THE GOVERNOR thanked the Director of Agriculture for the very interesting and instructive paper he had read. He said; I certainly think that there is a necessity for convincing the rising generation of the peasantry throughout the island that the big towns are not so many El Dorados and that the pavements are not made of gold that can be broken off with the fingers. To me it is a tragedy when I hear of something like eight or nine hundred youths applying for a vacancy for a clerkship in a Government Department. But what we have got to-day is the seedling which, if left alone, will grow into a much bigger weed. I view the future of the island with very grave concern unless some sort of propaganda of the kind which Mr. Mahadeva has so wisely suggested can be undertaken by men of influence with the peasantry. Pouring into the towns is not a development confined to Ceylon. It is happening all over the world and we have before us the results of that only too apparent in my own country. If by any means in our power we can avert a similar evil in Ceylon we shall be doing the people of the island a very great service. I felt sure, when I called upon my old friend, Dr. Nell, that we should get something at once inspiring and original and I was not disappointed.
+
+I have listened with great interest to Mr. Driberg who is the third of my official children in this Department. He will, I hope, win the scholarship for which, I understand, he is shortly competing and will complete his agricultural education in Great Britain.
+
+88------------------------------------------------
+
+345
+
+## Close of Conference.
+
+IN declaring the Conference closed HIS EXCELLENCY THE GOVERNOR said: "Speaking for myself I can say quite honestly that it has been an extraordinarily interesting and instructive three days that I have had the pleasure of spending in this Chair. It is invidious to pick out any individual papers from so many that have been excellent and interesting, but I none the less cannot refrain from expressing my particular interest in the opening paper that was read by Dr. Small who reviewed the recent work on Root Diseases of Economic Crops. Dr. Small has initiated a new theory which, I am sure, he will be the first to admit, is not yet certainly proved, but I feel sure in the years that lie ahead of us that theory will be tried out very exhaustively by Dr. Small and, unless I am mistaken, not less exhaustively by Dr. Gadd. I am also sure that whoever is proved to be right the other will be the first to congratulate him on having made a discovery which is of real value to the development of agriculture in this Colony. I would like to mention also the excellent paper we had yesterday afternoon from Mr. Joachim and the very interesting discussion on the diet of animals by Mr. Joachim and Mr. Crawford.
+
+Of all the three days I do not think any has taken precedence of this session this morning, because the Director of Agriculture most strongly feels and I know all his colleagues in the Department feel no less strongly that the great task which lies before this Department is to assist the indigenous population improve their methods of agriculture and get better returns from the soil they till.
+
+I would like to congratulate the Director and the organisers of this Conference and the various gentlemen who have been so good as to read papers to us and also those who have taken part in the debates. It is apparent to all of us that the Conference this year has been a great success and will give a new impetus to the idea that it should be of annual recurrence.
+
+The DIRECTOR OF AGRICULTURE said: Your Excellency, before we close this Conference, on behalf of the Department of Agriculture, I would like to thank you for the great interest you have taken in it. Your presence in the Chair at every session of the Conference is a matter of great encouragement to the Department. I am sure it will stimulate us all to greater efforts in the forthcoming year. I also would like to thank all those gentlemen who have found time to attend the Conference and would like particularly to mention the Hon. the Colonial Secretary who arrived from Colombo only last evening after a session of the Legislative Council and has found the time to come here to-day to listen to the various papers dealing with village agriculture. I have to thank you, Sir, for presiding and I would ask the audience to pass this vote of thanks with acclamation.
+
+89------------------------------------------------
+
+![A blank, aged, cream-colored page with a small yellowish-brown stain in the upper right corner.](af966fb90f44966e94bd2529c714839b_1_img.webp)This image shows a blank, aged, cream-colored page. The paper has a slightly textured appearance with some minor discoloration and faint smudges. A small, irregular yellowish-brown stain is visible in the upper right corner, possibly from a piece of tape or a mark. There is no text or other content on the page.
+
+90------------------------------------------------
+
+![A blank, aged, light beige page, likely an endpaper or flyleaf of a book. The page shows signs of wear, including faint smudges and discoloration.](58bfbbc312f21274968fb9efafc17305_1_img.webp)This image shows a blank, aged, light beige page, likely an endpaper or flyleaf from an old book. The paper has a slightly textured appearance with some minor discoloration and faint smudges, characteristic of old paper. There is no text or other markings on the page.
+
+91------------------------------------------------
+
+![A black and white photograph of the Empire Marketing Board in Ceylon. The building features a large display board with posters showing rice fields and tea estates. A sign on the building reads 'EMPIRE BUYERS ARE EMPIRE BUILDERS'. Several people are standing in front of the board, looking at the posters. The posters depict various scenes related to agriculture, including rice fields and tea estates. The building is a multi-story structure with a dark facade and a prominent display board. The people are dressed in early 20th-century clothing, including coats and hats. The overall scene suggests a promotional event or a public display of agricultural products.](48d528e0fd152a192ac6cb9dfc2e6237_1_img.webp)
+
+Posters of the Empire Marketing Board in the United Kingdom showing Rice Fields of India and Tea Estates in Ceylon with a Country Grocer's Shop in the centre.

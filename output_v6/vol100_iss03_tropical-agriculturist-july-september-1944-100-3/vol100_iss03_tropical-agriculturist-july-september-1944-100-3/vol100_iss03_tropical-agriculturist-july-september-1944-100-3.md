@@ -1,0 +1,5182 @@
+# The Tropical Agriculturist
+
+VOL. C.
+
+PERADENIYA, JULY-SEPTEMBER, 1944.
+
+No. 3
+
+<table><thead><tr><th></th><th style="text-align: right;">Page</th></tr></thead><tbody><tr><td>Editorial .. .. .</td><td style="text-align: right;">145</td></tr></tbody></table>
+
+## ORIGINAL ARTICLES
+
+<table><tbody><tr><td>Cross Breeding of Cattle in Ceylon. By J. Habaragoda, G.B.V.C., J.P. ..</td><td style="text-align: right;">147</td></tr><tr><td>Investigations of the Hydrocyanic Acid Content of Manioc (Manihot Utilissima). By A. W. R. Joachim, Ph.D. (Lond.), Dip. Agric. (Cantab.) and D. G. Pandittesekere, Dip. Agric. (Poona) .. .. .</td><td style="text-align: right;">150</td></tr><tr><td>Studies in Manioc and Lima-Beans with Special Reference to Their Utilization as Harmless Food. By C. Charavanapavan, M.Sc., D.I.C., A.R.I.C. ..</td><td style="text-align: right;">164</td></tr><tr><td>Roller for Threshing. By C. R. Karunaratne, Dip. Agric. (Poona), Dip. Agric. (Wye) .. .. .</td><td style="text-align: right;">169</td></tr></tbody></table>
+
+## DEPARTMENTAL AND OTHER NOTES
+
+<table><tbody><tr><td>Chemical Notes No. 18 Pyrethrum .. .. .</td><td style="text-align: right;">171</td></tr></tbody></table>
+
+## SELECTED ARTICLES
+
+<table><tbody><tr><td>The Folly of Deep Ploughing .. .. .</td><td style="text-align: right;">174</td></tr></tbody></table>
+
+## MEETINGS, CONFERENCES, &c.
+
+<table><tbody><tr><td>Report of the Proceedings of the Inaugural Meeting of the Reconstituted Central Board of Agriculture .. .. .</td><td style="text-align: right;">177</td></tr><tr><td>Minutes of the 71st Meeting of the Rubber Research Board .. .. .</td><td style="text-align: right;">188</td></tr><tr><td>Minutes of a Meeting of the Board of the Tea Research Institute of Ceylon ..</td><td style="text-align: right;">190</td></tr><tr><td>Draft Minutes of the Third Meeting of the Paddy Advisory Board .. .. .</td><td style="text-align: right;">194</td></tr><tr><td>Minutes of the 68th Meeting of the Board of Management, Coconut Research Scheme ..</td><td style="text-align: right;">200</td></tr><tr><td>Minutes of the 69th Meeting of the Board of Management, Coconut Research Scheme ..</td><td style="text-align: right;">202</td></tr><tr><td>Minutes of the Adjourned 69th Meeting of the Board of Management, Coconut Research Scheme .. .. .</td><td style="text-align: right;">203</td></tr></tbody></table>
+
+## REVIEW
+
+<table><tbody><tr><td>Tea under International Regulation—V. D. Wickizer .. .. .</td><td style="text-align: right;">204</td></tr></tbody></table>
+
+## RETURNS
+
+<table><tbody><tr><td>Animal Disease Return for the Month ended September 30, 1944 .. .. .</td><td style="text-align: right;">205</td></tr><tr><td>Meteorological Reports for July to September, 1944 .. .. .</td><td style="text-align: right;">206-208</td></tr></tbody></table>
+
+1—J. N. A 45856 (1/45)
+
+1------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+![A blank, aged, cream-colored page with faint horizontal lines and minor blemishes.](c9fbc5e6a13728309795a76cbfa54c55_1_img.webp)This image shows a blank, aged, cream-colored page, likely an endpaper or flyleaf from an old book. The paper has a slightly textured appearance with some minor blemishes and faint horizontal lines, possibly from the binding or the scanning process. There is no text or other content on the page.
+
+
+2------------------------------------------------
+
+The
+
+# Tropical Agriculturist
+
+JULY TO SEPTEMBER, 1944.
+
+---
+
+## EDITORIAL
+
+---
+
+### CATTLE BREEDING
+
+---
+
+**T**HE short article on Cross Breeding in Ceylon and the extract from the report of the Indian Science Congress Association come at a very opportune moment when large numbers of grade cattle are being imported from Australia by the Government.
+
+It is necessary to examine the conclusions very closely in order that we may not read more into them than is meant. It must be remarked in passing that the observations made at the Government Dairy at Narahenpita cannot be taken as decisive because they appear to have been discontinued at a stage before the results could point to a definite conclusion.
+
+Firstly, it may now be taken as established that crossing local breeds with European cattle as a policy for the general improvement of Indian animals is unsuitable. One must not, however, overlook the fact that the first cross-bred daughter gives more than 50 per cent. higher yields than her Indian dam, while retaining presumably to a satisfactory degree the stamina and other desirable qualities of the latter. It follows, therefore, that where milk is the prime requisite, the utilization of the first cross is a method not to be lightly ignored.
+
+Secondly, efforts at acclimatizing European cattle to "Indian conditions" and breeding them pure have not been encouraging. That is to say, it is yet premature to lay down that such efforts would not be successful, although observations up to date point to an unfavourable conclusion. It would be interesting to know what the "Indian Conditions" referred to are. Could this mean a more or less tropical climate in surroundings replete with tropical disease? If so, one cannot resist the inquiry whether European cattle cannot be bred true to type in India under temperate conditions and hygienic surroundings. The question assumes importance to us, as our two largest cattle farms are in the up-country zone. Certainly, most dairy-men will agree that even large quantities of milk are not worth exchanging for peace of mind and judged by this criterion an Indian breed of fair performance is more desirable than a European breed giving high yields of milk—as far as this country is concerned. One can cite with confidence the nervous tension spent in managing the Ayrshires and Friesians at Bopatalawa Farm as against the serenity and freedom from care enjoyed by those who look after the Scindis at Polonnaruwa.
+
+Thirdly, the only sure way of improving the indigenous breeds for milk production is to breed for the purpose by pure line selection. For Ceylon, "indigenous breeds" must be taken to include Indian breeds also.
+
+3------------------------------------------------
+
+146
+
+The only true indigenous cattle in this Island are the small type of cattle known locally as Sinhala cattle. Many years will have to pass before a strain is evolved from these that will make dairying a profitable enterprise. In the meantime, the people of the country are getting nutrition-minded and are rightly thinking in terms of so many pints per family per week for themselves and their progeny. How could the milk requirements of the country and the demands of scientific breeding be reconciled ?
+
+For a solution, a compromise seems called for. Let us cross our local animals with European breeds for our commercial dairies, using the first and second crosses only. Side by side with this, let us improve the herds of Sahiwals and Scindis that we possess until their milk yields and their immunity from disease make them an attractive type for the dairyman ; let us try to acclimatize the European breeds in our more elevated and temperate regions, breeding them pure ; finally, let us watch closely the performances of the black Sinhala herd at Karagoda Uyangoda and the brown Sinhala herd at Karadiyan Aru and try to evolve from them strains that are capable of high milk yields combined with their characteristic hardiness to the same degree, if possible, as they now possess.
+
+4------------------------------------------------
+
+![A blank, aged, light brown page, likely an endpaper or flyleaf of a book. The page shows signs of wear, including creases, discoloration, and faint, illegible markings near the top edge.](29c3e92225d0488ee19d76b74d012ad0_1_img.webp)This image shows a single, blank page of aged paper. The paper has a warm, light brown or tan color, characteristic of old documents. There are several faint, horizontal creases or lines across the page, possibly from being folded or stored in a book. The surface has a slightly textured appearance with some minor discoloration and small dark spots, likely due to age or handling. Near the top edge, there are some very faint, illegible markings that appear to be bleed-through from the reverse side of the page. The overall appearance is that of a flyleaf or endpaper from an old book.
+
+5------------------------------------------------
+
+# MILK PRODUCTION RECORD
+
+## CROSS BREEDING AT THE GOVT. DAIRY, COLOMBO.
+
+1.
+
+PURE SCINDI Cow N<sup>o</sup> 420.
+
+![Line graph showing milk production for Cow N<sup>o</sup> 420 and its offspring.](022383ec8004cf10a6ea10f503de29fd_5_img.webp)
+
+A line graph showing milk production in gallons over three time periods. The y-axis is labeled 'GALLONS' and ranges from 100 to 600 in increments of 100. The x-axis labels are 'Cow N<sup>o</sup> 420', 'Cow N<sup>o</sup> 840 DAUGHTER OF Cow N<sup>o</sup> 420 50-50 (AYRESHIRE-SCINDI)', and 'Cow N<sup>o</sup> 943 DAUGHTER OF Cow N<sup>o</sup> 840 75-25 (AYRESHIRE-SCINDI)'. The data points are approximately (1, 290), (2, 395), and (3, 555).
+
+<table border="1"><thead><tr><th>Cow</th><th>Milk Production (Gallons)</th></tr></thead><tbody><tr><td>Cow N<sup>o</sup> 420</td><td>290</td></tr><tr><td>Cow N<sup>o</sup> 840 (Daughter of Cow N<sup>o</sup> 420, 50-50, Ayreshire-Scindi)</td><td>395</td></tr><tr><td>Cow N<sup>o</sup> 943 (Daughter of Cow N<sup>o</sup> 840, 75-25, Ayreshire-Scindi)</td><td>555</td></tr></tbody></table>
+
+2.
+
+PURE SCINDI Cow N<sup>o</sup> 363
+
+![Line graph showing milk production for Cow N<sup>o</sup> 363 and its offspring.](022383ec8004cf10a6ea10f503de29fd_8_img.webp)
+
+A line graph showing milk production in gallons over three time periods. The y-axis is labeled 'GALLONS' and ranges from 100 to 700 in increments of 100. The x-axis labels are 'PURE SCINDI Cow N<sup>o</sup> 363', 'Cow N<sup>o</sup> 626 DAUGHTER OF Cow N<sup>o</sup> 363 50-50 (AYRESHIRE-SCINDI)', and 'Cow N<sup>o</sup> 880 DAUGHTER OF Cow N<sup>o</sup> 626 75-25 (AYRESHIRE-SCINDI)'. The data points are approximately (1, 230), (2, 330), and (3, 630).
+
+<table border="1"><thead><tr><th>Cow</th><th>Milk Production (Gallons)</th></tr></thead><tbody><tr><td>PURE SCINDI Cow N<sup>o</sup> 363</td><td>230</td></tr><tr><td>Cow N<sup>o</sup> 626 (Daughter of Cow N<sup>o</sup> 363, 50-50, Ayreshire-Scindi)</td><td>330</td></tr><tr><td>Cow N<sup>o</sup> 880 (Daughter of Cow N<sup>o</sup> 626, 75-25, Ayreshire-Scindi)</td><td>630</td></tr></tbody></table>
+
+J. HABARAGODA
+
+MANAGER, GOVT. DAIRY, COLOMBO.
+
+27. 9. 44
+
+PRINTED BY SURVEY DEPT., CEYLON, FEB. 1945.
+
+N<sup>o</sup> 512
+
+FROM ORIGINAL SUPPLIED BY D.A.
+
+6------------------------------------------------
+
+147
+
+## CROSS BREEDING OF CATTLE IN CEYLON
+
+J. HABARAGODA, G.B.V.C., J.P.,  
+*MANAGER, GOVERNMENT DAIRY, COLOMBO*
+
+IN the matter of evolving a permanent fixed cross breed of cattle for Ceylon, it will be useful to take into consideration the results of the large volume of work done in this direction in India for over 30 years. Results of their experiments have been interesting, although mostly negative in nature.
+
+Cross breeding between Ayrshire and Scindi cattle has been done for a number of years, at the Government Dairy, Colombo.
+
+The first cross of the two breeds resulted in a 50 + 50 Ayrshire-Scindi—amalgamating the hardiness of the Scindi and the milking capacity of the Ayrshire.
+
+Second cross of a 50 + 50 Ayrshire-Scindi heifer, with a pure bred unrelated Ayrshire bull has produced a 75 + 25 Ayrshire-Scindi breed with a higher milk yield, but constitutionally, inclined to be less hardy. It was found not prudent to raise the breed a point beyond the 75 per cent. on the Ayrshire side as it would not suit the local conditions. We have therefore fluctuated the limits of the breed between 50 and 75 per cent. with the use of Scindi and Ayrshire bulls, alternately.
+
+This cross breed was found useful and suitable for commercial dairy purposes but it is still very doubtful in view of the results of the long Indian Experiment, whether the increased milk yield, stamina and constitution could be maintained permanently in the subsequent generations.
+
+(See chart showing the improvement in the milk yield of a Scindi-Ayrshire cow in subsequent generations. Experiment at the Government Dairy, Colombo.)
+
+India has not so far succeeded, in evolving a fixed cross breed with their own well established breeds and the European cattle.
+
+In Ceylon the chances of success are still less in evolving a permanent fixed cross breed from Indian and European cattle which are both foreign to Ceylon.
+
+With regard to our indigenous “Sinhala Cattle” the only sure way of improving the breed for milk production will be by systematic pure line selective breeding with the definite aim of developing a higher milk yielding strain.
+
+With systematic breeding and rearing, Indian cows have been developed to increase their yield by 60 per cent. in subsequent generations within a short space of 11 years.
+
+With a similar improvement in the milk yield the “Sinhala Cow” will be an ideal “household-cow” with all her usefulness as an economical, disease-resisting, and hardy animal.
+
+7------------------------------------------------
+
+148
+
+I would suggest that efforts should be made in pure line selective breeding in Ceylon and gradually give up cross breeding, as we go on fixing up the pure breeds, to Ceylon conditons, permanently.
+
+1. (1) Acclimatize the European breeds to Up-country districts and breed from them systematically and pure—occasionally adding, new blood of the correct breed and type.
+2. (2) Indian breeds may be treated in the same way in the Low-country districts.
+3. (3) Breed systematically pure line Sinhala-cattle with the clear object of increasing the milk production in subsequent generations.
+4. (4) Cross breeding between Sinhala and Scindi Cattle may be tried in a limited scale for a reasonable period, as an experiment.
+
+*Reference* :—Extract from the report of the Indian Science Congress Association, on cattle breeding.
+
+“**O**NE of the first problems the enterprising dairymen had to face in starting dairies on commercial lines was to find a suitable dairy animal which would produce milk economically to make dairying a paying proposition. India has some excellent established breeds of cattle which have outstanding merits, as compared to cattle of other parts of the world except in the matter of milk production. Indian cattle have wonderful stamina to stand the rigours of the tropics. Resistance to diseases is developed to a degree which can be claimed by no other bovine population of the world. But their performance at the pail is most disappointing. The attention of the early pioneers in dairying was, therefore, mainly directed towards such methods as could increase the milk of the Indian cow in the shortest possible time. They, therefore, resorted to crossing Indian breeds with some of the well-known Western dairy breeds of cattle.
+
+The work done in this line for over 30 years, and mostly by the Military Farms Department, has yielded results of great interest although mostly negative in nature. The Shorthorn, the Jersey, the Guernsey, the Ayrshire and the Friesian were all tried out by turns with disappointing results as far as the creation of a new dairy breed was concerned. The method of introducing more European blood through the cross-bred progeny to Indian blood had each its own disadvantages. In the former case, although the cross-bred daughter gave more than 50 per cent. higher yield than her Indian dam, the increase was not maintained in the subsequent generations. The progeny, as it advanced towards more European blood, lost the stamina, constitution and immunity possessed by its Indian dam, till in the end it degenerated into weed. In the other case, the introduction of more Indian blood in subsequent generations diminished the milk flow derived from Western blood with the loss of the special qualities of the Indian animal and the ultimate result was equally disappointing. This cross-breeding work brought out two outstanding facts that (1) although it yielded an immediate increase in milk, the increase continued for one or two generations only and it was possible under very limited conditions, and (2) cross breedings as a policy for the general improvement of the cattle wealth of the country was wholly
+
+8------------------------------------------------
+
+149
+
+unsuitable. About the same time, efforts were made at acclimatizing European cattle to Indian conditions and breed them pure in the country. The results of these experiments have been none too encouraging although they are still being continued and are being watched with interest.
+
+Experience has shown that the only sure way of improving the indigenous breeds for milk production was to breed them by pure line selection with the definite objective of developing a high milk-yielding strain. Where this system was adopted with the Sahiwal, Scindi, Haryana and Tharparkar herds established at different Government institutions, the results obtained have fully justified expectations."
+
+*Reference :* "Col. Sir Arthur Oliver, C.B., C.M.G., F.R.C.V.S., late Animal Husbandry Expert to the Government of India, says in an article to the Indian Veterinary Journal.—January, 1943."
+
+"In more than one case cross-breeding with animals of European origin had reduced valuable herds of pure bred indigenous stock to collections of grossly degenerate mongrel animals which would not breed true and were subject to contagious and other disease to an astonishing degree. The only tangible result of this work was the negative observation that European cattle, including their cross-bred progeny, do not thrive satisfactorily in tropical countries. This fact is now well established in other tropical countries, and I possess a photograph, taken in tropical Australia, which shows very definitely the distressing effect of tropical heat on a beast of European origin, and the strikingly different appearance of comfort and well-being of the cross-bred Zebu animal standing alongside it. In this connection, it may be of interest that I was informed, when in India, that all the highest milk yields obtained by the Military Dairy Farms, from cross-bred Zebu-European cattle, had been obtained north of the Indus river."
+
+9------------------------------------------------
+
+150
+
+# INVESTIGATIONS OF THE HYDROCYANIC ACID CONTENT OF MANIOC (MANIHOT UTILISSIMA)
+
+A. W. R. JOACHIM, Ph.D. (Lond.), Dip. Agric. (Cantab.),  
+CHEMIST
+
+AND
+
+D. G. PANDITTESEKERE, Dip. Agric. (Poona),  
+ASSISTANT IN AGRICULTURAL CHEMISTRY
+
+## SUMMARY
+
+**I**NVESTIGATIONS of a fundamental and practical nature relating to hydrocyanic acid (HCN) in manioc have shown that :
+
+(1) the standard method for the estimation of HCN in materials containing cyanogenetic glucosides gives low results with manioc and its products. A combination of the auto-enzyme and acid hydrolysis methods has proved very satisfactory. A correct sampling technique is also of primary importance as the HCN content of manioc varies from tuber to tuber in the same clump and within the tuber itself. There is a fall in HCN in the tuber from the end nearest the stem (proximal) to that furthest from it (distal), the central section being, generally, intermediate between the two in this respect. A suitable sampling method has accordingly been adopted ;
+
+(2) variety and environmental conditions—climate and soil, are the major determining factors of HCN in manioc. Age is of less importance, though the data indicate that the flesh of the 'sweet' or low HCN-containing varieties tends to develop slightly more HCN with age, while that of the 'bitter' or high HCN-containing varieties tends to become less bitter with age. In the case of the peel, which has very much higher HCN contents than the flesh in both 'bitter' and 'sweet' varieties, there appears to be with all varieties a slight rise with age up to the 9th or 10th month and a steady fall, thereafter ;
+
+(3) variable, but generally high, losses of HCN occur on drying the flesh and peel of tubers at temperatures below 72° C, above which temperature the enzyme is destroyed. Washing the slices or rasped material before drying further reduces the HCN content of the dried material ;
+
+(4) on cooking, the HCN content of manioc tubers or flour is reduced very appreciably. But occasionally, cases do occur in which, even after cooking, manioc tubers or flour preparations contain sufficient HCN in a combined or slowly-available form to render their consumption dangerous. The flour of manioc peel contains HCN in amounts which render it unsafe for use, unless mixed with three to four times its weight of wheat or other non-HCN containing flour ;
+
+(5) manioc leaves contain high amounts of HCN, the younger the leaves the higher being the acid content. On steeping the leaves in boiling
+
+10------------------------------------------------
+
+151
+
+water for periods of 3 to 15 minutes, from 80 to 95 per cent. of the original HCN is removed. Steaming the treated material, as in the normal cooking process, reduces the HCN content still further.
+
+#### INTRODUCTION
+
+The investigations to be discussed in this paper on the hydrocyanic (prussic) acid content of manioc (*Manihot utilisima*) were initiated about three years ago owing to the greatly increased cultivation and consumption of manioc in the Island consequent on the shortage of rice. They deal with both fundamental as well as practical aspects of the subject. The latter are dealt with more specifically in another paper in this issue of the *Tropical Agriculturist* (1). The scope of the investigations is as follows:—(1) methods of analysis and sampling, (2) variation of hydrocyanic acid in manioc flesh and peel with variety and age, between clumps of the same variety and tubers of the same clump, and within the tuber itself, (3) effect of boiling, methods of drying and storage on the prussic acid content of the flesh and peel of the tubers, and of cooking the flour, and finally, (4) the hydrocyanic acid content of manioc leaves, its relationship to age and method of treatment prior to cooking.
+
+It is unnecessary in this paper to summarize our present knowledge of the subject of hydrocyanic acid in manioc, as this has been adequately treated in the paper already referred to (1). But it would be useful for the elucidation of the data of this paper to indicate that free hydrocyanic acid in manioc is produced as a result of the action of an enzyme (linase) on the cyanogenetic glucoside (linamarin or manihotoside (2) as it has also been called) present in it. The glucoside contains the acid in a combined form. The figures enumerated in the tables refer to 'autolytic' and 'hydrolysable' hydrocyanic acid (HCN). The significance of these terms will be discussed in the next section. The results are presented in a series of 22 tables, comprising over 260 analyses. Several analytical figures have been omitted for the sake of brevity.
+
+#### ANALYTICAL AND SAMPLING METHODS
+
+At the very outset, it became evident that the usefulness of these investigations would depend on the accuracy of the method of estimating hydrocyanic acid (HCN) in the material. It was found that the tentative A. O. A. C. (3) alkaline titration method for the estimation of prussic acid in beans gave low figures when compared with those obtained by Warth's (4) acid hydrolysis method. When, however, an analytical procedure which incorporated the details of both methods was adopted, figures for total HCN content of much the same order as those found by direct hydrolysis were obtained. The HCN figure as determined by the A. O. A. C. method is referred to in this paper as the 'autolytic' HCN. It denotes the amount of HCN liberated by the action of the natural enzyme in the material during a period of 2 hours and may be considered to represent the easily available HCN in the material. The HCN figure obtained by the acid hydrolysis of the residual material, subsequent to its examination by the A. O. A. C. method, is referred to as the 'hydrolysable' HCN. It may be considered to represent the HCN which would only slowly be liberated by the natural enzymes of the manioc or require the action of acids of more or less prolonged duration to release it.
+
+Some workers, notably Hastings (5), have based their method of estimation of HCN in manioc on that of the A. O. A. C., but have modified
+
+11------------------------------------------------
+
+152
+
+the time of autolysis or maceration from 2 hours to considerably longer. In order to ascertain the effect of varying the period of autolysis on the autolytic HCN and the relationship of the latter to the hydrolysable HCN of manioc, an investigation was carried out in collaboration with the Agricultural Chemist of the Tea Research Institute on samples of manioc peel and flesh. The results obtained in this laboratory are indicated in table 1 below. They confirm the Tea Research Institute findings.
+
+TABLE I.  
+Variation in Hydrocyanic Acid Content with Period of Autolysis
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Variety</th>
+<th colspan="4">Butterstick</th>
+<th colspan="2">Singapore</th>
+</tr>
+<tr>
+<th colspan="2">Flesh</th>
+<th colspan="2">Peel.</th>
+<th>Flesh</th>
+<th>Peel</th>
+</tr>
+<tr>
+<th colspan="6">Mgm per 100 gm Fresh Material.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="7"><i>2 hrs. Autolysis—</i></td>
+</tr>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>6.1</td>
+<td>..</td>
+<td>83.0</td>
+<td>..</td>
+<td>7.2</td>
+<td>..</td>
+<td>81.7</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>14.1</td>
+<td>..</td>
+<td>11.0</td>
+<td>..</td>
+<td>12.2</td>
+<td>..</td>
+<td>9.0</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>20.2</td>
+<td>..</td>
+<td>94.0</td>
+<td>..</td>
+<td>19.4</td>
+<td>..</td>
+<td>90.7</td>
+</tr>
+<tr>
+<td colspan="7"><i>16 hrs. Autolysis—</i></td>
+</tr>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>16.7</td>
+<td>..</td>
+<td>83.0</td>
+<td>..</td>
+<td>17.1</td>
+<td>..</td>
+<td>83.6</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>3.8</td>
+<td>..</td>
+<td>11.0</td>
+<td>..</td>
+<td>2.3</td>
+<td>..</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>20.5</td>
+<td>..</td>
+<td>94.0</td>
+<td>..</td>
+<td>19.4</td>
+<td>..</td>
+<td>89.9</td>
+</tr>
+<tr>
+<td colspan="7"><i>24 hrs. Autolysis—</i></td>
+</tr>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>17.9</td>
+<td>..</td>
+<td>83.6</td>
+<td>..</td>
+<td>17.5</td>
+<td>..</td>
+<td>86.2</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>22.3</td>
+<td>..</td>
+<td>11.0</td>
+<td>..</td>
+<td>2.3</td>
+<td>..</td>
+<td>3.8</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>40.2</td>
+<td>..</td>
+<td>94.6</td>
+<td>..</td>
+<td>19.8</td>
+<td>..</td>
+<td>90.0</td>
+</tr>
+</tbody>
+</table>
+
+It will be observed that while the total HCN remains constant, the autolytic HCN in the flesh increases very appreciably with period of autolysis. The hydrolysable HCN correspondingly falls. In the case of the peel, the enzyme is apparently more active or in greater abundance for practically all, if not all, the autolytic HCN is liberated in 2 hours.
+
+Other points relating to the technique of the autolytic method adopted in these studies were also investigated. The comparisons studied were in respect of (a) the method of distillation: (i) continuous *vs* intermittent distillation on seven days consecutively, (ii) direct acid hydrolysis *vs*. autolysis and acid hydrolysis, (b) the method of preparation of the sample for analysis in slices or ground and passed through a 20-mesh sieve—on the same bulk sample of manioc flesh. The results presented in table II below indicate that (a) the direct hydrolysis method gives figures which are slightly lower than, but of the same order as, those of the dual process, (b) grinding the material is slightly advantageous, (c) continuous steam distillation till no further HCN is found in the distillate gives slightly lower figures than intermittent daily distillations. As the latter process is not convenient when large numbers of samples have to be examined, the continuous distillation process has been followed in this laboratory. The method as finally adopted is shown in the appendix.
+
+12------------------------------------------------
+
+153TABLE II.
+
+Variation in Hydrocyanic Acid Content with Method of Treatment
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Fresh sample<br/>sliced<br/>(continuous<br/>distillation)</th>
+<th>As 1, but<br/>passed through<br/>20-mesh sieve<br/>(continuous<br/>distillation)</th>
+<th>As 1, but<br/>distillation<br/>intermittent</th>
+<th>As 1, but<br/>direct acid<br/>hydrolysis and<br/>distillation<br/>continuous</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th colspan="4">Mgm per 100 gm. Flesh</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>6.1</td>
+<td>7.2</td>
+<td>6.1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>7.2</td>
+<td>6.8</td>
+<td>8.3</td>
+<td>13.6</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>13.3</td>
+<td>14.0</td>
+<td>14.4</td>
+<td>13.6</td>
+</tr>
+</tbody>
+</table>
+
+As regards the method of sampling, investigations to be detailed in the next section show that there is variation in the HCN content of tubers from the same clump and even within the tubers themselves. The HCN content of the middle section of a tuber is generally intermediate between that of the ends. Accordingly, in sampling a bulk sample for analysis, the middle section of every tuber is taken, the sections are thinly sliced, the slices coarsely ground and a sample drawn from the well mixed material.
+
+VARIATION IN HYDROCYANIC ACID WITH VARIETY, AGE AND OTHER FACTORS
+
+In table III is shown the variation of HCN within the tuber itself. It will be observed that there is a fall in the HCN content of the flesh from the end nearest the stem (proximal) to that furthest from it (distal), the middle section being intermediate between the two. It is of interest to note that the autolytic HCN remains fairly constant.
+
+TABLE III.
+
+Variation in Hydrocyanic Acid Content within Tubers
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>End nearest<br/>stem</th>
+<th>Middle section</th>
+<th>End<br/>furthest from<br/>stem</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th colspan="3">Mgm. per 100 gm. Flesh.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5"><i>Tuber (1)—</i></td>
+</tr>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>4.9</td>
+<td>4.6</td>
+<td>4.6</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>14.5</td>
+<td>12.2</td>
+<td>10.3</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>19.4</td>
+<td>16.8</td>
+<td>14.9</td>
+</tr>
+<tr>
+<td colspan="5"><i>Tuber (2)—</i></td>
+</tr>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>25.5</td>
+<td>24.3</td>
+<td>22.8</td>
+</tr>
+<tr>
+<td colspan="5"><i>Tuber (3)—</i></td>
+</tr>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>17.9</td>
+<td>11.8</td>
+<td>11.4</td>
+</tr>
+</tbody>
+</table>
+
+Tables IV. and V. refer to variations in HCN content of tubers from the same clump and from different clumps of the same variety. The clumps in one case were adjacent to each other and in the other some distance apart in the field.
+
+13------------------------------------------------
+
+154TABLE IV.
+
+Variation in Hydrocyanic Acid Content of Tubers from Clumps of the Same Variety
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3"></th>
+<th rowspan="3"></th>
+<th colspan="3">1st Clump.</th>
+<th colspan="3">2nd Clump.</th>
+</tr>
+<tr>
+<th colspan="3">Tuber.</th>
+<th colspan="3">Tuber.</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr>
+<th colspan="8">Mgm. per 100 gm. Flesh.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN</td>
+<td>1.5</td>
+<td>1.5</td>
+<td>1.1</td>
+<td>3.0</td>
+<td>1.5</td>
+<td>3.8</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„</td>
+<td>3.4</td>
+<td>3.8</td>
+<td>3.4</td>
+<td>8.4</td>
+<td>3.4</td>
+<td>8.7</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„</td>
+<td>4.9</td>
+<td>5.3</td>
+<td>4.5</td>
+<td>11.4</td>
+<td>4.9</td>
+<td>12.5</td>
+</tr>
+<tr>
+<td>Wt. of flesh in gm.</td>
+<td></td>
+<td>246</td>
+<td>217</td>
+<td>101</td>
+<td>486</td>
+<td>80</td>
+<td>90</td>
+</tr>
+</tbody>
+</table>
+
+TABLE V.
+
+Variation in the Hydrocyanic Acid Content of Tubers from Adjacent Clumps of the same Variety
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="4"></th>
+<th rowspan="4"></th>
+<th colspan="4">1st Clump.</th>
+<th colspan="4">2nd Clump.</th>
+</tr>
+<tr>
+<th colspan="2">Tuber No. 1.</th>
+<th colspan="2">Tuber No. 2.</th>
+<th colspan="2">Tuber No. 1.</th>
+<th colspan="2">Tuber No. 2.</th>
+</tr>
+<tr>
+<th colspan="8">Mgm. per 100 gm. Fresh Material.</th>
+</tr>
+<tr>
+<th>Flesh.</th>
+<th>Peel.</th>
+<th>Flesh.</th>
+<th>Peel.</th>
+<th>Flesh.</th>
+<th>Peel.</th>
+<th>Flesh.</th>
+<th>Peel.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN</td>
+<td>1.5</td>
+<td>128.8</td>
+<td>6.4</td>
+<td>110.2</td>
+<td>3.8</td>
+<td>105.1</td>
+<td>3.4</td>
+<td>109.6</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„</td>
+<td>2.3</td>
+<td>8.4</td>
+<td>3.8</td>
+<td>9.5</td>
+<td>—</td>
+<td>—</td>
+<td>3.8</td>
+<td>9.5</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„</td>
+<td>3.8</td>
+<td>137.2</td>
+<td>10.2</td>
+<td>119.7</td>
+<td>—</td>
+<td>—</td>
+<td>7.2</td>
+<td>119.1</td>
+</tr>
+<tr>
+<td>Wt. of material in gm.</td>
+<td></td>
+<td>326</td>
+<td>64</td>
+<td>162</td>
+<td>31</td>
+<td>144</td>
+<td>25</td>
+<td>358</td>
+<td>65</td>
+</tr>
+</tbody>
+</table>
+
+The data indicate that the flesh of tubers from the same clump and from different clumps of the same variety vary appreciably in HCN content, both autolytic and hydrolysable. The differences do not appear to be so marked in the case of the peel. There is no apparent correlation between HCN content and size of tubers as measured by weight.
+
+In Table VI. the total HCN contents of 36 varieties of manioc selected by the Botanist, for yield, palatability and other factors are furnished. The tubers were taken from plants 12 months old.
+
+TABLE VI.
+
+Hydrocyanic Acid Contents of Botanist's Selected Varieties of Manioc
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">No.</th>
+<th rowspan="2">Variety.</th>
+<th colspan="2">Mgm. per 100 gm.</th>
+<th rowspan="2">No.</th>
+<th rowspan="2">Variety.</th>
+<th colspan="2">Mgm. per 100 gm.</th>
+</tr>
+<tr>
+<th>Flesh.</th>
+<th>Flesh.</th>
+<th>Flesh.</th>
+<th>Flesh.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>A 2</td>
+<td>12.61</td>
+<td>19</td>
+<td>..</td>
+<td>AB 12</td>
+<td>10.3</td>
+<td>..</td>
+</tr>
+<tr>
+<td>2</td>
+<td>A 4</td>
+<td>5.5</td>
+<td>20</td>
+<td>..</td>
+<td>H 4</td>
+<td>8.0</td>
+<td>..</td>
+</tr>
+<tr>
+<td>3</td>
+<td>E 4</td>
+<td>5.7</td>
+<td>21</td>
+<td>..</td>
+<td>H 10</td>
+<td>8.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>4</td>
+<td>E 29</td>
+<td>8.8</td>
+<td>22</td>
+<td>..</td>
+<td>H 16</td>
+<td>10.3</td>
+<td>..</td>
+</tr>
+<tr>
+<td>5</td>
+<td>J 3</td>
+<td>8.0</td>
+<td>23</td>
+<td>..</td>
+<td>H 21</td>
+<td>10.3</td>
+<td>..</td>
+</tr>
+<tr>
+<td>6</td>
+<td>B 15</td>
+<td>24.8</td>
+<td>24</td>
+<td>..</td>
+<td>H 7</td>
+<td>11.1</td>
+<td>..</td>
+</tr>
+<tr>
+<td>7</td>
+<td>E 28</td>
+<td>3.8</td>
+<td>25</td>
+<td>..</td>
+<td>E 7</td>
+<td>1.9</td>
+<td>..</td>
+</tr>
+<tr>
+<td>8</td>
+<td>A 12</td>
+<td>11.5</td>
+<td>26</td>
+<td>..</td>
+<td>E 9</td>
+<td>1.9</td>
+<td>..</td>
+</tr>
+<tr>
+<td>9</td>
+<td>E 39</td>
+<td>1.9</td>
+<td>27</td>
+<td>..</td>
+<td>E 27</td>
+<td>5.9</td>
+<td>..</td>
+</tr>
+<tr>
+<td>10</td>
+<td>E 21</td>
+<td>3.8</td>
+<td>28</td>
+<td>..</td>
+<td>B 14</td>
+<td>3.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>11</td>
+<td>E 23</td>
+<td>7.6</td>
+<td>29</td>
+<td>..</td>
+<td>L 9</td>
+<td>8.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>12</td>
+<td>E 33</td>
+<td>4.2</td>
+<td>30</td>
+<td>..</td>
+<td>B 6</td>
+<td>5.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>13</td>
+<td>AB 10</td>
+<td>4.6</td>
+<td>31</td>
+<td>..</td>
+<td>E 24</td>
+<td>5.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>14</td>
+<td>M 14</td>
+<td>7.6</td>
+<td>32</td>
+<td>..</td>
+<td>C 3</td>
+<td>5.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>15</td>
+<td>H 8</td>
+<td>13.4</td>
+<td>33</td>
+<td>..</td>
+<td>F 1</td>
+<td>8.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>16</td>
+<td>H 9</td>
+<td>13.4</td>
+<td>34</td>
+<td>..</td>
+<td>I 4</td>
+<td>8.0</td>
+<td>..</td>
+</tr>
+<tr>
+<td>17</td>
+<td>H 5</td>
+<td>7.6</td>
+<td>35</td>
+<td>..</td>
+<td>L 3</td>
+<td>3.4</td>
+<td>..</td>
+</tr>
+<tr>
+<td>18</td>
+<td>AB 14</td>
+<td>3.4</td>
+<td>36</td>
+<td>..</td>
+<td>J 13</td>
+<td>3.4</td>
+<td>..</td>
+</tr>
+</tbody>
+</table>
+
+14------------------------------------------------
+
+155
+
+It will be observed that, except in one instance, the total HCN content of these selections did not exceed 13.4 mgm./100 gm. Three had less than 2 mgm. and 75 per cent. of the samples less than 9 mgm HCN per 100 gm. flesh.
+
+TABLE VII.  
+Variation in Hydrocyanic Acid Content Between Varieties
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Variety or Source.</th>
+<th colspan="6">Fresh.</th>
+<th colspan="6">Boiled.</th>
+</tr>
+<tr>
+<th colspan="3">Autolytic.</th>
+<th colspan="3">Hydrolysable.</th>
+<th colspan="3">Autolytic.</th>
+<th colspan="3">Hydrolysable.</th>
+</tr>
+<tr>
+<th colspan="6">Mgm. per 100 gm.</th>
+<th colspan="6">Mgm. per 100 gm.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 Phillipine cassava</td>
+<td>..</td><td>3.3</td><td>..</td>
+<td>..</td><td>—</td><td>..</td>
+<td>..</td><td>0.8</td><td>..</td>
+<td>7.9</td><td>..</td><td>8.7</td>
+</tr>
+<tr>
+<td>2 "</td>
+<td>..</td><td>9.8</td><td>..</td>
+<td>6.1</td><td>..</td><td>15.9</td>
+<td>..</td><td>1.1</td><td>..</td>
+<td>6.0</td><td>..</td><td>7.1</td>
+</tr>
+<tr>
+<td>3 "</td>
+<td>..</td><td>7.6</td><td>..</td>
+<td>4.5</td><td>..</td><td>12.1</td>
+<td>..</td><td>1.1</td><td>..</td>
+<td>4.5</td><td>..</td><td>5.6</td>
+</tr>
+<tr>
+<td>4 Karagoda-Uyangoda</td>
+<td>..</td><td>6.1</td><td>..</td>
+<td>17.1</td><td>..</td><td>23.2</td>
+<td>..</td><td>0.8</td><td>..</td>
+<td>6.7</td><td>..</td><td>7.5</td>
+</tr>
+<tr>
+<td>5 EBMU 28</td>
+<td>..</td><td>11.5</td><td>..</td>
+<td>8.0</td><td>..</td><td>19.5</td>
+<td>..</td><td>1.0</td><td>..</td>
+<td>3.2</td><td>..</td><td>4.2</td>
+</tr>
+<tr>
+<td>6 ,, 11</td>
+<td>..</td><td>10.7</td><td>..</td>
+<td>8.4</td><td>..</td><td>19.1</td>
+<td>..</td><td>1.0</td><td>..</td>
+<td>3.2</td><td>..</td><td>4.2</td>
+</tr>
+<tr>
+<td>7 ,, 77</td>
+<td>..</td><td>7.6</td><td>..</td>
+<td>3.8</td><td>..</td><td>11.4</td>
+<td>..</td><td>0.7</td><td>..</td>
+<td>2.0</td><td>..</td><td>2.7</td>
+</tr>
+<tr>
+<td>8 ,, 84</td>
+<td>..</td><td>6.5</td><td>..</td>
+<td>3.8</td><td>..</td><td>10.3</td>
+<td>..</td><td>0.7</td><td>..</td>
+<td>2.0</td><td>..</td><td>2.7</td>
+</tr>
+<tr>
+<td>9 J 3</td>
+<td>..</td><td>8.0</td><td>..</td>
+<td>6.9</td><td>..</td><td>14.9</td>
+<td>..</td><td>—</td><td>..</td>
+<td>—</td><td>..</td><td>—</td>
+</tr>
+<tr>
+<td>10 A 18</td>
+<td>..</td><td>17.8</td><td>..</td>
+<td>—</td><td>..</td><td>—</td>
+<td>..</td><td>—</td><td>..</td>
+<td>—</td><td>..</td><td>—</td>
+</tr>
+</tbody>
+</table>
+
+In Table VII. are given figures of HCN in varieties or selections of manioc which contain appreciably higher quantities of the acid than the majority of those indicated in the previous table. It will be seen that in many of these the proportion of hydrolysable to total HCN is quite high.
+
+Tables VIII. and IX. show the results of trials carried out to determine the change in HCN content of the peel and flesh of manioc tubers with age. In Table VIII. the results with one variety are seen, while Table X. gives the data for four varieties. In the first trial two clumps were uprooted from each block at each sampling, and the HCN content of the bulked samples determined. The tubers were from clumps ranging from 10 to 18 months old. The data of this trial appears to point to a slight increase in total HCN in the flesh from the 10th to the 14th month, and a slight fall thereafter. There is however a marked decline in the HCN content of the peel with age.
+
+TABLE VIII.  
+Variation in Hydrocyanic Acid Content of Manioc Tubers (Variety J 3) with Age
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2"></th>
+<th colspan="8">Mgm. per 100 gm.</th>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th colspan="4">Block I.</th>
+<th colspan="4"></th>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th colspan="4">Flesh.</th>
+<th colspan="4">Peel.</th>
+</tr>
+<tr>
+<th>Age in Months</th>
+<th></th>
+<th>10</th><th>12</th><th>14</th><th>18</th>
+<th>10</th><th>12</th><th>14</th><th>18</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN</td>
+<td>8.4</td><td>9.9</td><td>9.5</td><td>8.0</td>
+<td>108.8</td><td>97.3</td><td>63.5</td><td>56.1</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„</td>
+<td>5.7</td><td>5.7</td><td>8.8</td><td>6.9</td>
+<td>7.6</td><td>9.5</td><td>15.2</td><td>9.6</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„</td>
+<td>14.1</td><td>15.6</td><td>18.3</td><td>14.9</td>
+<td>116.4</td><td>106.8</td><td>78.7</td><td>66.5</td>
+</tr>
+<tr>
+<th colspan="10">Block II.</th>
+</tr>
+<tr>
+<td>Autolytic</td>
+<td>HCN</td>
+<td>8.0</td><td>10.7</td><td>9.9</td><td>9.2</td>
+<td>95.4</td><td>100.5</td><td>63.0</td><td>51.5</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„</td>
+<td>5.7</td><td>5.7</td><td>9.2</td><td>6.9</td>
+<td>13.4</td><td>9.5</td><td>14.0</td><td>9.5</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„</td>
+<td>13.7</td><td>16.4</td><td>19.1</td><td>16.1</td>
+<td>108.8</td><td>110.0</td><td>77.0</td><td>61.0</td>
+</tr>
+<tr>
+<td>Average</td>
+<td>..</td>
+<td>13.9</td><td>16.0</td><td>18.7</td><td>15.5</td>
+<td>112.6</td><td>108.4</td><td>77.8</td><td>63.5</td>
+</tr>
+</tbody>
+</table>
+
+15------------------------------------------------
+
+156
+
+**TABLE IX.**  
+Variation in Hydrocyanic Acid Content with Age
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Age in Months:<br/>Date of Sampling:</th>
+<th rowspan="2">Variety.</th>
+<th colspan="11">Mgm. per 100 gm. material</th>
+<th rowspan="2">16</th>
+<th rowspan="2">18 Average.</th>
+</tr>
+<tr>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>11</th>
+<th>12</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td>21.6</td>
+<td>22.7</td>
+<td>23.8</td>
+<td>21.9</td>
+<td>22.1</td>
+<td>14.1</td>
+<td>22.2</td>
+<td>22.4</td>
+<td>1.5</td>
+<td>20.6</td>
+<td>44</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Flsh.</i></td>
+</tr>
+<tr>
+<td>MU 28</td>
+<td>Autolytic HCN</td>
+<td>14.9</td>
+<td>11.1</td>
+<td>12.6</td>
+<td>14.0</td>
+<td>9.9</td>
+<td>11.5</td>
+<td>12.2</td>
+<td>12.2</td>
+<td>14.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>11.8</td>
+<td>8.0</td>
+<td>6.1</td>
+<td>11.2</td>
+<td>9.2</td>
+<td>8.0</td>
+<td>7.6</td>
+<td>7.6</td>
+<td>7.6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>26.7</td>
+<td>19.1</td>
+<td>18.7</td>
+<td>25.2</td>
+<td>19.1</td>
+<td>19.5</td>
+<td>19.8</td>
+<td>19.8</td>
+<td>21.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Peel.</i></td>
+</tr>
+<tr>
+<td>MU</td>
+<td>Autolytic HCN</td>
+<td>66.1</td>
+<td>63.6</td>
+<td>57.8</td>
+<td>78.2</td>
+<td>77.6</td>
+<td>64.2</td>
+<td>63.6</td>
+<td>63.6</td>
+<td>63.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>15.8</td>
+<td>13.4</td>
+<td>10.2</td>
+<td>17.8</td>
+<td>13.4</td>
+<td>9.5</td>
+<td>8.9</td>
+<td>8.9</td>
+<td>8.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>81.9</td>
+<td>77.0</td>
+<td>68.0</td>
+<td>96.0</td>
+<td>91.0</td>
+<td>73.7</td>
+<td>72.5</td>
+<td>72.5</td>
+<td>72.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Flsh.</i></td>
+</tr>
+<tr>
+<td>MU 11</td>
+<td>Autolytic HCN</td>
+<td>14.5</td>
+<td>9.5</td>
+<td>11.8</td>
+<td>13.8</td>
+<td>14.1</td>
+<td>10.7</td>
+<td>13.0</td>
+<td>13.0</td>
+<td>13.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>12.6</td>
+<td>6.9</td>
+<td>8.4</td>
+<td>8.8</td>
+<td>9.5</td>
+<td>8.4</td>
+<td>5.3</td>
+<td>5.3</td>
+<td>5.3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>27.1</td>
+<td>16.4</td>
+<td>20.2</td>
+<td>22.6</td>
+<td>23.6</td>
+<td>19.1</td>
+<td>18.3</td>
+<td>18.3</td>
+<td>18.3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Peel.</i></td>
+</tr>
+<tr>
+<td>MU 11</td>
+<td>Autolytic HCN</td>
+<td>48.3</td>
+<td>54.7</td>
+<td>85.8</td>
+<td>84.6</td>
+<td>87.1</td>
+<td>84.6</td>
+<td>66.1</td>
+<td>66.1</td>
+<td>66.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>14.6</td>
+<td>13.4</td>
+<td>19.1</td>
+<td>17.8</td>
+<td>12.1</td>
+<td>11.5</td>
+<td>66.1</td>
+<td>66.1</td>
+<td>66.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>62.9</td>
+<td>68.1</td>
+<td>104.9</td>
+<td>102.4</td>
+<td>99.2</td>
+<td>96.1</td>
+<td>66.1</td>
+<td>66.1</td>
+<td>66.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Flsh.</i></td>
+</tr>
+<tr>
+<td>MU 77</td>
+<td>Autolytic HCN</td>
+<td>8.8</td>
+<td>6.9</td>
+<td>7.3</td>
+<td>6.5</td>
+<td>8.0</td>
+<td>7.6</td>
+<td>9.5</td>
+<td>9.5</td>
+<td>9.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>3.8</td>
+<td>6.1</td>
+<td>6.9</td>
+<td>5.7</td>
+<td>3.0</td>
+<td>3.8</td>
+<td>6.5</td>
+<td>6.5</td>
+<td>6.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>12.6</td>
+<td>13.0</td>
+<td>14.2</td>
+<td>12.2</td>
+<td>11.0</td>
+<td>11.4</td>
+<td>16.0</td>
+<td>16.0</td>
+<td>16.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Peel.</i></td>
+</tr>
+<tr>
+<td>MU 77</td>
+<td>Autolytic HCN</td>
+<td>54.8</td>
+<td>71.9</td>
+<td>61.0</td>
+<td>56.6</td>
+<td>68.7</td>
+<td>62.9</td>
+<td>57.9</td>
+<td>56.0</td>
+<td>61.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>6.4</td>
+<td>10.2</td>
+<td>13.4</td>
+<td>6.4</td>
+<td>9.5</td>
+<td>7.0</td>
+<td>57.9</td>
+<td>56.0</td>
+<td>61.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>61.2</td>
+<td>82.1</td>
+<td>74.4</td>
+<td>63.0</td>
+<td>78.2</td>
+<td>69.9</td>
+<td>57.9</td>
+<td>56.0</td>
+<td>61.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Flsh.</i></td>
+</tr>
+<tr>
+<td>MU 84</td>
+<td>Autolytic HCN</td>
+<td>8.5</td>
+<td>7.6</td>
+<td>7.6</td>
+<td>6.9</td>
+<td>6.1</td>
+<td>6.5</td>
+<td>9.2</td>
+<td>8.0</td>
+<td>8.8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>3.8</td>
+<td>6.5</td>
+<td>6.1</td>
+<td>5.7</td>
+<td>5.7</td>
+<td>3.8</td>
+<td>7.6</td>
+<td>7.6</td>
+<td>5.7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>12.3</td>
+<td>14.1</td>
+<td>13.7</td>
+<td>12.6</td>
+<td>11.8</td>
+<td>10.3</td>
+<td>16.8</td>
+<td>15.6</td>
+<td>14.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Peel.</i></td>
+</tr>
+<tr>
+<td>MU 84</td>
+<td>Autolytic HCN</td>
+<td>43.2</td>
+<td>50.9</td>
+<td>71.2</td>
+<td>70.0</td>
+<td>62.3</td>
+<td>50.9</td>
+<td>54.1</td>
+<td>53.4</td>
+<td>67.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Hydrolysable "</td>
+<td>9.5</td>
+<td>10.2</td>
+<td>17.8</td>
+<td>9.5</td>
+<td>6.4</td>
+<td>6.4</td>
+<td>54.1</td>
+<td>53.4</td>
+<td>67.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Total "</td>
+<td>52.7</td>
+<td>61.1</td>
+<td>89.0</td>
+<td>79.5</td>
+<td>68.7</td>
+<td>57.3</td>
+<td>54.1</td>
+<td>53.4</td>
+<td>67.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="13" style="text-align:center;"><i>Flsh.</i></td>
+</tr>
+<tr>
+<td><i>Average</i></td>
+<td>Total</td>
+<td>26.9</td>
+<td>17.8</td>
+<td>19.5</td>
+<td>23.9</td>
+<td>21.4</td>
+<td>19.3</td>
+<td>19.1</td>
+<td>19.1</td>
+<td>21.2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MU 28 and 11</td>
+<td>Total</td>
+<td>12.5</td>
+<td>13.6</td>
+<td>14.0</td>
+<td>12.4</td>
+<td>11.4</td>
+<td>10.9</td>
+<td>16.4</td>
+<td>15.1</td>
+<td>14.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MU 77 and 84</td>
+<td>Total</td>
+<td>19.7</td>
+<td>16.7</td>
+<td>16.8</td>
+<td>18.2</td>
+<td>16.4</td>
+<td>15.1</td>
+<td>17.8</td>
+<td>17.1</td>
+<td>18.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MU 28, 11, 77 and 84</td>
+<td>Total</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MU 28 and 11</td>
+<td>Total</td>
+<td>72.4</td>
+<td>72.6</td>
+<td>86.5</td>
+<td>99.2</td>
+<td>95.1</td>
+<td>84.9</td>
+<td>69.3</td>
+<td>69.3</td>
+<td>64.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MU 77 and 84</td>
+<td>Total</td>
+<td>57.0</td>
+<td>71.6</td>
+<td>81.7</td>
+<td>71.3</td>
+<td>73.5</td>
+<td>63.6</td>
+<td>56.0</td>
+<td>54.7</td>
+<td>64.8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>MU 28, 11, 77 and 84</td>
+<td>Total</td>
+<td>64.7</td>
+<td>72.1</td>
+<td>84.4</td>
+<td>85.3</td>
+<td>84.3</td>
+<td>74.3</td>
+<td>62.7</td>
+<td>62.0</td>
+<td>45.8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+16------------------------------------------------
+
+![A blank page with a light beige or tan background, showing minor scanning artifacts.](76a8d3ae7653400d6977e586dbbc4737_1_img.webp)This image is a scan of a blank page. The background is a uniform light beige or tan color. There are a few very small, dark specks scattered across the surface, which appear to be scanning artifacts or dust particles. No text, lines, or other graphical elements are present.
+
+17------------------------------------------------
+
+### Variation in HCM content of manioc varieties with age (flesh)
+
+![A hand-drawn scatter plot showing the variation in HCM content (mgm. Hcn. per 100 gm.) of manioc varieties MU 11 and MU 84 over time (months). MU 11 is represented by 'x' marks and has a downward-sloping regression line: Y = 23.85 - 0.28X. MU 84 is represented by 'o' marks and has an upward-sloping regression line: Y = 10.80 + 0.24X. The x-axis ranges from 6 to 18 months, and the y-axis ranges from 0 to 30 mgm. Hcn. per 100 gm.](9d8ade3fd1a4f8331f1731888fe4c82c_1_img.webp)
+
+Mgm. Hcn. per 100 gm.
+
+MONTHS
+
+<table border="1">
+<caption>Estimated data points from the graph</caption>
+<thead>
+<tr>
+<th>Months</th>
+<th>MU 11 (x)</th>
+<th>MU 84 (o)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6</td>
+<td>25</td>
+<td>12</td>
+</tr>
+<tr>
+<td>7</td>
+<td>16</td>
+<td>14</td>
+</tr>
+<tr>
+<td>8</td>
+<td>20</td>
+<td>13</td>
+</tr>
+<tr>
+<td>9</td>
+<td>-</td>
+<td>12</td>
+</tr>
+<tr>
+<td>10</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>11</td>
+<td>23</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td>18</td>
+<td>10</td>
+</tr>
+<tr>
+<td>14</td>
+<td>18</td>
+<td>15</td>
+</tr>
+<tr>
+<td>16</td>
+<td>17</td>
+<td>14</td>
+</tr>
+<tr>
+<td>18</td>
+<td>19</td>
+<td>13</td>
+</tr>
+</tbody>
+</table>
+
+FROM ORIGINAL SUPPLIED BY D.A.
+
+PRINTED BY SURVEY DEPT., CEYLON, FEB. 1945
+
+113 343
+
+18------------------------------------------------
+
+157
+
+In the second experiment which was laid out in randomized blocks each consisting of four plots (one for each variety), one clump was taken from each plot at each sampling, and the tubers of the same variety from the four plots bulked together. The results of the investigation shown in Table IX., and graphically represented in the diagram in the case of two varieties, are as follows :—(i.) Varieties MU 28 and MU 11, the so-called 'bitter' varieties have average total HCN contents, in the flesh, of 21.9 and 18.5 mgm/100 gm. respectively. There is a fair variation in HCN content with age. Regression coefficients calculated from the data show that in the case of these two varieties there is, on the average, a fall in HCN of 0.21 to 0.28 mgm/100 gm per month with advancing age. This fall cannot, however, be considered very marked or statistically significant. The peel of these varieties has average HCN contents of 77 and 78 mgm/100 gm, respectively. There is, as in the case of the flesh, a fall in the average HCN content of these varieties from the 9th or 10th month onwards, but this is preceded by an initial rise ; (ii.) varieties MU 77 and MU 84, the so-called 'sweet' varieties, have average total HCN contents of 13.3 and 13.5 mgm/100 gm, respectively in the flesh. The regression coefficients, calculated from the data, indicate that the HCN content of the flesh of these varieties *increases* with age at the average rate of 0.20 to 0.24 mgm/100 gm per month. This rate of increase is not high, neither is it statistically significant. It is of interest to note the close similarity in the regression formulae, set down below, of each pair of varieties.
+
+REGRESSION FORMULAE FOR HCN CONTENT WITH AGE (FLESH)
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Variety</th>
+<th colspan="4"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MU 28</td>
+<td>..</td>
+<td>Y</td>
+<td>=</td>
+<td>23.43</td>
+<td>— 0.21X</td>
+</tr>
+<tr>
+<td>MU 11</td>
+<td>..</td>
+<td>Y</td>
+<td>=</td>
+<td>23.85</td>
+<td>— 0.28X</td>
+</tr>
+<tr>
+<td>MU 77</td>
+<td>..</td>
+<td>Y</td>
+<td>=</td>
+<td>11.12</td>
+<td>+ 0.20X</td>
+</tr>
+<tr>
+<td>MU 84</td>
+<td>..</td>
+<td>Y</td>
+<td>=</td>
+<td>10.80</td>
+<td>+ 0.24X</td>
+</tr>
+</tbody>
+</table>
+
+The peel of the sweet varieties contains 67.2 and 64.8 mgm/100 gm HCN respectively, on the average. The trend in HCN content with age is the same as in the case of the bitter varieties. A point of interest to be noted is that, as is the case with the flesh, the peel of the latter varieties contains higher amounts of HCN than the peel of the sweet varieties.
+
+The general conclusion to be drawn from these trials is that, of the factors responsible for variation in the HCN content of manioc, variety is a major one, while age is much less so. Environmental factors, viz., climate and soil, are also important.
+
+EFFECTS OF TREATMENT AND STORAGE ON THE HYDROCYANIC ACID CONTENT OF MANIOC
+
+In Table VII. are also presented the results of analysis of the HCN contents of boiled samples of the varieties specified. The important point which emerges from these analyses is that though the autolytic HCN of the boiled samples is very low, there are quite appreciable quantities of acids hydrolysable HCN left in some of them. This would explain the occasional cases of poisoning reported as a result of the consumption of boiled manioc. In general it may be stated that samples which do not on boiling in water become soft and floury but remain hard and translucent, these are most likely to cause ill effects when eaten. Sample No. 4 is an example in point. Samples which are bitter to the taste after boiling, *eg.*, sample B 15 of Table VI, should also not be consumed.
+
+19------------------------------------------------
+
+158
+
+**TABLE X.**  
+**Effect of Storage on Hydrocyanic Acid Content**  
+**Phillipine Cassava.**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Variety.</th>
+<th colspan="6">Effect of Storage on Hydrocyanic Acid Content</th>
+<th colspan="2">Local.</th>
+</tr>
+<tr>
+<th>Fresh</th>
+<th colspan="2">3 Days later</th>
+<th colspan="2">7 Days later</th>
+<th>Fresh.</th>
+<th colspan="2">6 Days later.</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Damaged.</th>
+<th>Undamaged.</th>
+<th>Undamaged.</th>
+<th>Damaged.</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>4.6</td>
+<td>6.5</td>
+<td>5.7</td>
+<td>6.1</td>
+<td>6.5</td>
+<td>7.9</td>
+<td>19.7</td>
+<td></td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>1.9</td>
+<td>—</td>
+<td>0.8</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>6.5</td>
+<td>6.5</td>
+<td>6.5</td>
+<td>6.1</td>
+<td>6.5</td>
+<td>—</td>
+<td>—</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+In Table X. the effects of storing manioc tubers under normal air conditions will be noted. There is an increase in the autolytic HCN with duration of storage, which is very marked in one case. But the total HCN, allowing for natural variations between tubers, tends to remain constant. Damaging the tubers appears to speed up the formation of easily-available HCN. Other trials, the data of which are not recorded here as the results are not quite conclusive owing to variation in HCN content between tubers, appear to indicate that manioc can be stored for 4 to 5 days in moist earth without any appreciable rise in autolytic HCN.
+
+**EFFECT OF DRYING ON THE HYDROCYANIC ACID CONTENT OF MANIOC**
+
+Studies on the changes occurring when manioc is dried at various temperatures and after preliminary washing treatments have yielded interesting results, some of which are set down in Tables XI-XVII. From Table XI, it will be noted that when manioc samples are dried at temperature below 72°C, at which temperature the enzyme is destroyed (4), losses of HCN of 26 to 33 per cent. occur. Much higher losses have, however, been found in other cases (see Tables XIII and XV.).
+
+**TABLE XI.**  
+**Effect of Drying on the Hydrocyanic Acid Content**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="4">Mgm per 100 gm Fresh Material.</th>
+</tr>
+<tr>
+<th>Fresh.</th>
+<th>Dry.</th>
+<th>Fresh.</th>
+<th>Dry.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>11.0</td>
+<td>9.5</td>
+<td>6.4</td>
+<td>3.8</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>5.8</td>
+<td>3.0</td>
+<td>11.1</td>
+<td>7.8</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>16.8</td>
+<td>12.5</td>
+<td>17.5</td>
+<td>11.6</td>
+</tr>
+<tr>
+<td>Loss on drying per cent.</td>
+<td>..</td>
+<td>25</td>
+<td>..</td>
+<td>33</td>
+</tr>
+</tbody>
+</table>
+
+**TABLE XII.**  
+**Losses of Hydrocyanic Acid on Drying at Various Temperatures**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">In original Tubers.</th>
+<th colspan="2">Loss on drying.</th>
+<th colspan="2">In dried material calculated on fresh material.</th>
+</tr>
+<tr>
+<th colspan="6">Mgm per 100 gm Fresh Material.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="7" style="text-align: center;"><i>60° C.</i></td>
+</tr>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>4.2</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>2.4</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>13.3</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>9.5</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>17.5</td>
+<td>..</td>
+<td>5.7 (33%)</td>
+<td>..</td>
+<td>11.9</td>
+</tr>
+<tr>
+<td colspan="7" style="text-align: center;"><i>80° C.</i></td>
+</tr>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>17.9</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>17.9</td>
+<td>..</td>
+<td>3.3 (18%)</td>
+<td>..</td>
+<td>—</td>
+</tr>
+<tr>
+<td colspan="7" style="text-align: center;"><i>80° C.</i></td>
+</tr>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>22.8</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>18.2</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>22.8</td>
+<td>..</td>
+<td>4.7 (21%)</td>
+<td>..</td>
+<td>18.2</td>
+</tr>
+</tbody>
+</table>
+
+20------------------------------------------------
+
+159
+
+In Table XII. the results of a trial in which the actual amounts of HCN liberated while manioc slices were well dried at constant temperatures in a steam oven, are furnished. The figures are calculated on a fresh matter basis for purposes of comparison. It will be seen that drying at 60°C causes a loss of HCN of 33 per cent., while drying at 80°C reduces the loss to about 20 per cent. The interesting feature of this trial is that it affords confirmation of the accuracy of the method of analysis of HCN adopted in these investigations. The amount of HCN lost from the moist material during drying, as determined by the analysis of the fresh and dried slices, is almost exactly equal to that found in the absorbing tubes.
+
+TABLE XIII.  
+Effect of Washing on Hydrocyanic Acid Content
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Fresh.</th>
+<th>Sliced and dried.</th>
+<th>Sliced washed and dried.</th>
+<th>Sliced, steeped in water overnight and dried.</th>
+</tr>
+<tr>
+<th colspan="6">Mgm per 100 gm Fresh Material.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>4.9</td>
+<td>2.4</td>
+<td>1.9</td>
+<td>1.4</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>8.3</td>
+<td>4.7</td>
+<td>2.8</td>
+<td>2.8</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>13.2</td>
+<td>7.1</td>
+<td>4.7</td>
+<td>4.2</td>
+</tr>
+<tr>
+<td>Loss of HCN as a result of treatment%</td>
+<td>—</td>
+<td>..</td>
+<td>46</td>
+<td>64</td>
+<td>68</td>
+</tr>
+</tbody>
+</table>
+
+TABLE XIV.  
+Effect of Washing on Hydrocyanic Acid Content of Dried Samples
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Sliced and dried.</th>
+<th>Sliced, washed and dried.</th>
+<th>Starch from steeping water dried.</th>
+</tr>
+<tr>
+<th colspan="5">Mgm per 100 gm Dry Material.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>6.6</td>
+<td>3.8</td>
+<td>2.4</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>8.0</td>
+<td>7.1</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>14.6</td>
+<td>10.9</td>
+<td>8.1</td>
+</tr>
+</tbody>
+</table>
+
+TABLE XV.  
+Effect on Hydrocyanic Acid of Steeping in Water, Washing and Sedimenting
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Fresh Material.</th>
+<th>Dried without dipping in water Fresh Material.</th>
+<th>Steeped in water at 60° and dried.</th>
+<th>Grated, Cwashed and dried</th>
+</tr>
+<tr>
+<th colspan="6">Mgm per 100 gm</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>5.0</td>
+<td>1.0</td>
+<td>0.7</td>
+<td>0.3</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>7.2</td>
+<td>3.6</td>
+<td>2.4</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>12.2</td>
+<td>4.6</td>
+<td>3.1</td>
+<td>1.3</td>
+</tr>
+<tr>
+<td>Loss of HCN as a result of treatment %</td>
+<td>—</td>
+<td>..</td>
+<td>62</td>
+<td>75</td>
+<td>90</td>
+</tr>
+</tbody>
+</table>
+
+TABLE XVI.  
+Effect of Steeping in Water at Various Temperatures on Hydrocyanic Acid Content
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Fresh Material.</th>
+<th>Steeped in water at 60° C.</th>
+<th>Fresh Material.</th>
+<th>Dipped in boiling water for 5 Minutes.</th>
+</tr>
+<tr>
+<th colspan="6">Mgm per 100 gm Fresh Material.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic</td>
+<td>HCN ..</td>
+<td>6.8</td>
+<td>2.7</td>
+<td>6.4</td>
+<td>0.8</td>
+</tr>
+<tr>
+<td>Hydrolysable</td>
+<td>„ ..</td>
+<td>10.5</td>
+<td>7.9</td>
+<td>11.1</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>„ ..</td>
+<td>17.3</td>
+<td>10.6</td>
+<td>17.5</td>
+<td>6.7</td>
+</tr>
+<tr>
+<td>Loss of HCN as a result of treatment %</td>
+<td>—</td>
+<td>..</td>
+<td>40</td>
+<td>..</td>
+<td>63</td>
+</tr>
+</tbody>
+</table>
+
+21------------------------------------------------
+
+160
+
+The above tables record the results of trials to determine the effect of steeping manioc slices in water of various temperatures for 3 to 5 minutes before drying. Unless otherwise indicated the results in any one table refer to trials conducted on samples from the same fresh material. The figures are all calculated on a fresh matter basis.
+
+The data of Table XIII. indicate that by steeping manioc slices in water before drying, the HCN content of the dried product is reduced appreciably more than would have been the case had the preliminary washing been omitted. Thus while drying alone resulted in a loss of HCN in one case of 46 per cent., washing and drying showed a loss of 64 per cent. Steeping the material in water overnight and subsequently drying resulted in no further appreciable loss of HCN. The beneficial effect of washing is confirmed by trials of manioc drying on a large scale in a cardamon drier at Kotmale. Incidentally it may be mentioned that the dried starchy material which is deposited in appreciable quantity in the washing process has a very much lower HCN content than the dried slices.
+
+Steeping in water at 60° C for 3 to 5 minutes before drying gave a product which had a lower HCN content than that of one which had been dipped in water at ordinary temperatures before drying. This is obvious from Table XV. where so high a loss of HCN as 75 per cent. is recorded. Dipping in boiling water for 5 minutes before drying also resulted in an appreciable loss of HCN, but the product was hard and gelatinous and very difficult to grind. Grating the flesh, washing in water and drying resulted in a reduction of the HCN by as much as 90 per cent. The disadvantage of this process is that a fair proportion of the starch sediments out and has to be separately collected and dried. The advantage of disintegrating the material before drying is also seen from sample No. 1 in the table below.
+
+TABLE XVII.Hydrocyanic Acid Contents of Dried Manioc Chips or Flour
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Sample No.</th>
+<th colspan="2">Autolytic.</th>
+<th colspan="2">Hydrolysable.</th>
+<th colspan="2">Mgm HCN per 100 gm.</th>
+<th rowspan="2">Remarks.</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Total.</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>..</td>
+<td>1.1</td>
+<td>..</td>
+<td>5.7</td>
+<td>..</td>
+<td>6.8</td>
+<td>Sample dried in coconut dessicator after disintegration at 60°-75° C</td>
+</tr>
+<tr>
+<td>2</td>
+<td>..</td>
+<td>9.5</td>
+<td>..</td>
+<td>19.3</td>
+<td>..</td>
+<td>28.8</td>
+<td>Sun-dried</td>
+</tr>
+<tr>
+<td>3</td>
+<td>..</td>
+<td>5.7</td>
+<td>..</td>
+<td>6.1</td>
+<td>..</td>
+<td>11.8</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>..</td>
+<td>2.3</td>
+<td>..</td>
+<td>8.7</td>
+<td>..</td>
+<td>11.0</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>13.3</td>
+<td>Neboda :—dried in hot air drying house</td>
+</tr>
+<tr>
+<td>6</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>22.8</td>
+<td>Kituldeniya, sun-dried</td>
+</tr>
+<tr>
+<td>7</td>
+<td>..</td>
+<td>6.6</td>
+<td>..</td>
+<td>8.0</td>
+<td>..</td>
+<td>14.6</td>
+<td>Dried in cardamon drier 55°C</td>
+</tr>
+<tr>
+<td>8</td>
+<td>..</td>
+<td>1.0</td>
+<td>..</td>
+<td>3.6</td>
+<td>..</td>
+<td>4.6</td>
+<td>Dried below 72°C</td>
+</tr>
+<tr>
+<td>9</td>
+<td>..</td>
+<td>2.4</td>
+<td>..</td>
+<td>4.7</td>
+<td>..</td>
+<td>7.1</td>
+<td>Dried below 72°C</td>
+</tr>
+<tr>
+<td>10</td>
+<td>..</td>
+<td>0.8</td>
+<td>..</td>
+<td>1.9</td>
+<td>..</td>
+<td>2.7</td>
+<td>Meal prepared by sedimenting in water before drying</td>
+</tr>
+</tbody>
+</table>
+
+Table XVII. gives the HCN contents of some samples of dried manioc chips and flour prepared from the flesh of the tubers. Except in the case of sample No. 10 which is actually a crude 'tapioca' meal, the figures range from 5 to 28.8 mgm/100 gm. The HCN content of the dried material would depend on that of the original tubers as well as on the method of drying. In the paragraphs above it has been clearly demonstrated that the contents of
+
+22------------------------------------------------
+
+161
+
+HCN are reduced very appreciably when drying is carried out at temperatures below 72°C and the material is washed prior to drying. In the paper on this subject referred to previously (1), it has also been shown that exposing raw manioc slices or meal in air for a period of 24 hours before drying reduces the HCN content to a very appreciable degree. If reputedly low HCN-containing varieties are used and the methods indicated above are adopted in drying, there need be little fear of toxic symptoms resulting from the use of manioc flour so prepared as food.
+
+TABLE XVIII.  
+Effect of Cooking on Hydrocyanic Acid Content
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Mgm HCN per 100 gm.</th>
+<th colspan="2">Roti made of</th>
+<th colspan="2">Loss on</th>
+</tr>
+<tr>
+<th>Flour</th>
+<th>Flour</th>
+<th>On original</th>
+<th>Cooking (%)</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Flour</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>5.7</td>
+<td>0.8</td>
+<td>1.1</td>
+<td>80.5</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>6.1</td>
+<td>2.3</td>
+<td>3.2</td>
+<td>47.5</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>11.8</td>
+<td>3.1</td>
+<td>4.3</td>
+<td>63.6</td>
+</tr>
+</tbody>
+</table>
+
+The HCN of manioc flour is reduced appreciably during cooking. Table XVIII. above reveals that a loss of over 60 per cent. of the HCN of a sample of flour occurred when it was converted to 'roti'—a sort of pancake made of flour, grated coconut and water, and roasted on a hot plate. Confirmation of the appreciable losses of HCN from manioc flour during cooking is also furnished by Neymoto (4) and Hastings (5).
+
+Before concluding this section it would be advantageous to refer to the possible use of dried manioc peel as food.
+
+TABLE XIX.  
+Hydrocyanic Acid in Manioc Peel
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Fresh Peel.</th>
+<th rowspan="2">Dry Peel.</th>
+<th colspan="2">Mgm per 100 gm.</th>
+<th rowspan="2">On Roti Dry Peel.</th>
+<th rowspan="2">Calculated on Original Flour.</th>
+<th rowspan="2">Per cent. Loss cooking.</th>
+</tr>
+<tr>
+<th>Calculated on Fresh Peel.</th>
+<th>Per Cent. Loss on Drying.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>100.8</td>
+<td>48.2</td>
+<td>13.9</td>
+<td>—</td>
+<td>7.6</td>
+<td>18.9</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>9.5</td>
+<td>15.2</td>
+<td>4.4</td>
+<td>—</td>
+<td>5.7</td>
+<td>14.2</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>110.3</td>
+<td>63.4</td>
+<td>18.3</td>
+<td>69</td>
+<td>13.3</td>
+<td>33.1</td>
+<td>48</td>
+</tr>
+</tbody>
+</table>
+
+TABLE XX.  
+Hydrocyanic Acid Content of Dried Peel
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Mgm per 100 gm.</th>
+<th colspan="2">Sample 1.</th>
+<th colspan="2">Sample 2.</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autolytic HCN ..</td>
+<td>..</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>21.2</td>
+</tr>
+<tr>
+<td>Hydrolysable ,, ..</td>
+<td>..</td>
+<td>..</td>
+<td>—</td>
+<td>..</td>
+<td>11.4</td>
+</tr>
+<tr>
+<td>Total ,, ..</td>
+<td>..</td>
+<td>..</td>
+<td>79.4</td>
+<td>..</td>
+<td>32.6</td>
+</tr>
+</tbody>
+</table>
+
+In the discussion of Tables I., VIII. and IX., it has been pointed out that manioc peel contains very much higher quantities of HCN than the flesh of tubers. The quantity of HCN in peel varies from 55 to 104 mgm/100 gm., while that of the flesh varies from 3 to 25 mgm/100 gm. in the majority of samples. The examination of a few samples of dried manioc peel gave figures for HCN varying from 32.6 to 79.4 mgm/100 gm. but even higher figures have been obtained by some workers (5). The relatively
+
+23------------------------------------------------
+
+162
+
+low figure of 32.6 was found in a sample dried in a coconut desiccator after disintegration. A trial showed that if the peel is dried at a temperature below 72°C, it loses about 70 per cent. of its HCN (Table XIX.). On converting the flour obtained to 'roti', a further loss of HCN of about 50 per cent. occurred, but the cooked food still contained as much as 13.3 mgm/100 gm. or approximately 60 mgm. per lb. The use of dried peel flour as food, unless it is mixed with from 3 to 4 times its weight of some non-HCN containing flour, e.g., wheat flour, is not recommended.
+
+#### THE HYDROCYANIC ACID CONTENT OF MANIOC LEAVES AND ITS REDUCTION BY TREATMENT
+
+In Tables XXI. and XXII., the hydrocyanic acid content of fresh leaves, such as are used for cooking by steaming, are set out. It will be noted that the leaves contain very high amounts of HCN, the young leaves having appreciably more than the older leaves. The range of HCN is from 43 to 89 mgm/100 gm. in the former, and from 19 to 44 mgm/100 gm. in the older leaves. It is interesting to note that the HCN in the leaves, as in the peel, is in an easily-available form. Thus a sample which had a total HCN of 43.1 mgm/100 gm. had as much as 37.8 mgm. in the autolytic form.
+
+On steeping the leaves in boiling water for 3 to 15 minutes and lightly squeezing out the water from the steeped material, as is the practice in cooking the leaves locally, the HCN is reduced to about one-fifth that of the original material when the steeping is done for 3 minutes, and to about one-fifteenth when it is carried out for fifteen minutes. Table XXI. shows this clearly.
+
+The hydrocyanic acid content of a sample of leaves containing originally 78.6 mgm/100 gm., when cooked as *melun* S after steeping in water for 15 minutes, was found to be only 1.9 mgm/100 gm. Used in this manner, the leaves are quite safe for consumption.
+
+TABLE XXI.
+
+#### Hydrocyanic Acid Content of Manioc Leaves
+
+Leaves steeped in boiling water
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Fresh leaves.</th>
+<th>for 3 minutes.</th>
+<th>for 15 minutes.</th>
+<th>Cooked.</th>
+</tr>
+<tr>
+<th></th>
+<th colspan="4">Mgm per 100 gm Fresh Leaves.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Philippine Cassava ..</td>
+<td>65.6</td>
+<td>10.7</td>
+<td>3.8</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Local Variety ..</td>
+<td>87.8</td>
+<td>11.5</td>
+<td>6.9</td>
+<td>—</td>
+</tr>
+<tr>
+<td>EB JE ..</td>
+<td>52.6</td>
+<td>6.9</td>
+<td>3.8</td>
+<td>—</td>
+</tr>
+<tr>
+<td>EB E 21 ..</td>
+<td>65.6</td>
+<td>10.7</td>
+<td>6.9</td>
+<td>—</td>
+</tr>
+<tr>
+<td>EB selected ..</td>
+<td>66.4</td>
+<td>—</td>
+<td>3.8</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Local Variety ..</td>
+<td>78.6</td>
+<td>6.9</td>
+<td>5.3</td>
+<td>1.9</td>
+</tr>
+<tr>
+<td>Local Variety ..</td>
+<td>43.4</td>
+<td>5.7</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+TABLE XXII.
+
+#### Variation in Hydrocyanic Acid Content of Leaves with Age
+
+Mgm per 100 gm.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Plants over<br/>one year old.</th>
+<th>Plants about<br/>6-7 months.</th>
+<th>Old manioc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Young Leaves ..</td>
+<td>84.7</td>
+<td>59.1</td>
+<td>65.8</td>
+</tr>
+<tr>
+<td>Old Leaves ..</td>
+<td>42.0</td>
+<td>19.1</td>
+<td>44.0</td>
+</tr>
+</tbody>
+</table>
+
+24------------------------------------------------
+
+163ACKNOWLEDGEMENTS
+
+The thanks of the writers are due to the Botanist of this Department, the Principal, School of Agriculture, and others for having supplied the samples for these investigations. We are also grateful to Dr. Eden of the T. R. I. for his help in regard to the investigation of the method of analysis.
+
+REFERENCES
+
+1. (1) Charavanapavan, C.—Studies in Manioc and Lima-beans with Special Reference to Their Utilization as Harmless Food : *The Tropical Agriculturist*, Vol. C., No. 2, 1944.
+2. (2) Nemoto, Y.—The Toxicity of Bread Prepared with Grated Manioc Flour Containing Hydrocyanic Acid : *Nutrition Abstracts and Reviews*, Vol. 10, No. 4, April, 1941.
+3. (3) Methods of Analysis of the Association of Official Agricultural Chemists : Fourth Edition, 1935.
+4. (4) Warth, F. J.—A Note on Hydrocyanic Acid in the Burma Bean (*Phaseolus lunatus* Sp.) : *Mem., Dept. Agric. India, Chemical Series*, Vol. VII., 1923-24.
+5. (5) Hastings, J. D.—Note on the Prussic Acid Content of Manioc—Rubber Research Scheme (Ceylon) : Unpublished.
+
+APPENDIXMETHOD OF ESTIMATION OF HCN IN MANIOC
+
+The tentative alkaline titration method for estimating hydrocyanic acid in beans, as detailed in 'Methods of Analysis', Association of Agricultural Chemists, Fourth Edition, 1935, is adopted in the first instance. The HCN figure so obtained is termed the 'autolytic' HCN.
+
+To the material in the distillation flask 50cc of 1 : 1 sulphuric acid are added and the contents steam distilled until 150cc of distillate have passed over. This is titrated against silver nitrate. The distillation is continued, successive lots of 150cc of distillate (from 3 to 8 generally) being collected and titrated separately until the last lot shows no measurable quantity of HCN. The HCN so determined is reported as 'hydrolysable' HCN. The whole process takes from 3 to 4 hours.
+
+25------------------------------------------------
+
+164
+
+# STUDIES IN MANIOC & LIMA-BEANS WITH SPECIAL REFERENCE TO THEIR UTILIZATION AS HARMLESS FOOD
+
+C. CHARAVANAPAVAN, M.Sc., D.I.C., A.R.I.C.,  
+RESEARCH ASSISTANT IN FOOD TECHNOLOGY
+
+## SUMMARY
+
+THE cyanogenetic glucoside in manioc and lima-beans has been isolated and demonstrated to be poisonous. Suitable methods have been worked out to reduce the cyanogenetic glucoside content to a safe limit. Methods are described for the utilization of these as harmless food.
+
+## INTRODUCTION
+
+Manioc (*Manihot utilisima*) and lima-beans (*Phaseolus lunatus*) are both known to contain a cyanogenetic glucoside called "linamarin" and an enzyme called "linase". When the enzyme is brought into intimate contact with the cyanogenetic glucoside as a result of injury or decay, prussic acid is liberated. Since prussic acid is a poison, these foods are potentially harmful.
+
+Prussic acid is a very volatile gas and is easily removed during cooking. The enzyme is inactivated at temperatures above 72°C and is therefore not responsible for further liberation of prussic acid, after cooking. This indicates that the cyanogenetic glucoside which is the parent substance of the prussic acid, is responsible for the toxic effects caused by eating these foods, after cooking.
+
+## EXPERIMENTAL
+
+The cyanogenetic glucoside was isolated from manioc tubers, and an aqueous solution (free from the enzyme) was administered orally to young rabbits. It was observed that 1½ grammes of the cyanogenetic glucoside containing 10 milli-grammes of prussic acid in the bound form, can kill a rabbit one month old and weighing ¼ lb. in about 3 hours. This proves that the cyanogenetic glucoside is also poisonous.
+
+The above findings indicate that both the free and the bound prussic acid as cyanogenetic glucoside should be removed before these foods are consumed. It was found that the last traces of the cyanogenetic glucoside are difficult to remove without rendering these foods unfit for consumption. Hence it is very necessary that a maximum safe limit should be arrived at for the bound prussic acid content of cooked foods.
+
+Monier-Williams, (1), has suggested in his public health report a maximum of 2 milli-grammes of prussic acid per 100 grammes for foods which are eaten raw. But, he states that in the case of foods treated with prussic acid as an insecticide, e.g., dried fruits, the limit may be higher. In the latter case, the prussic acid is expelled during cooking, and therefore there is no danger.
+
+26------------------------------------------------
+
+165
+
+In view of the above considerations it is suggested that the limit be assumed as 5 milli-grammes per 100 grammes, for the bound prussic acid content of cooked foods. The traces of bound prussic acid so consumed, can be assumed to be detoxified in a mixed diet containing fish, meat, eggs or milk. For, it is reported that the sulphur proteins present in such a diet, have a detoxifying action on the prussic acid, which is converted into sulphocyanates and excreted with the urine, (2).
+
+Experiments on manioc and lima-beans to reduce the prussic acid content to a safe limit are described below.
+
+### Manioc Tubers.
+
+The sweet varieties of manioc are cultivated for food, as they contain less prussic acid than the bitter varieties. The prussic acid content is considerably influenced by environmental factors, (3). A number of sweet varieties of manioc analysed by the writer indicates a variation from about 8 to 25 milli-grammes of total prussic acid in 100 grammes of the flesh and 40 to 60 milli-grammes per 100 grammes of the thick white portion of the skin called the cortex.
+
+The tubers on lifting from the soil, remain fresh for about 24 hours. Thereafter respiration ceases and physiological breakdown sets in rapidly with the liberation of prussic acid. It was observed that the free prussic acid in the flesh increases from about 1 milli-gramme per 100 grammes soon after lifting from the soil, to about 2 milli-grammes per 100 grammes in about 24 hours. The free prussic acid content was found to increase at this rate for about 72 hours. The presence of considerable amounts of free prussic acid in stale manioc indicates that manioc is more poisonous when stale. This is confirmed by the observation that manioc tubers three days old have been fatal to hogs, while the fresh tubers have no apparent ill-effects, (4).
+
+Staleness in manioc tubers is accompanied by discolouration of the flesh. This occurs first below the cortex and continues inwards towards the centre of the tuber. The streaks of "blue" seen on peeling stale manioc tubers are due to internal bruises which render that part of the tuber more susceptible to oxidation and decay.
+
+Manioc tubers can be kept fresh for longer than 24 hours and up to 48 hours by placing them immersed in fresh water. The tissue begins to perish after about 48 hours, losing its firmness and is rendered unsuitable for ordinary culinary purposes. On the other hand the tubers can be kept fresh for periods longer than 48 hours and up to even one week by storing them in an atmosphere of carbon dioxide.
+
+The peeled tubers, chopped into pieces, and boiled in a large excess of water for about one hour till well cooked, give less than 5 milli-grammes per 100 grammes as bound prussic acid in the final product, after the water is thrown away.
+
+Manioc tubers on peeling and drying in the ordinary way, after slicing or rasping, normally contain above 5 milli-grammes per 100 grammes of bound prussic acid. If the drying is carried out at temperatures much above 72°C, the enzyme that liberates the prussic acid is quickly inactivated, and the product may contain as much as 25 milli-grammes per 100 grammes as bound
+
+27------------------------------------------------
+
+166
+
+prussic acid. These amounts of bound prussic acid are potentially dangerous. Experiments conducted to reduce the bound prussic content by suitable per-treatment have yielded the following results.
+
+<table border="1">
+<thead>
+<tr>
+<th>Treatments.</th>
+<th>Drying Temperatures.</th>
+<th>Prussic Acid in Flesh.</th>
+<th>Prussic Acid in dried Product.</th>
+<th>Per Cent. Prussic Acid removed.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sliced and dried immediately ..</td>
+<td>60° C ..</td>
+<td>12 mg/100 gms..</td>
+<td>15 mg/100 gms..</td>
+<td>50</td>
+</tr>
+<tr>
+<td>" ..</td>
+<td>(90-100)° C..</td>
+<td>" ..</td>
+<td>25 ..</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Rasped and dried immediately ..</td>
+<td>60° C ..</td>
+<td>" ..</td>
+<td>10 ..</td>
+<td>66</td>
+</tr>
+<tr>
+<td>" ..</td>
+<td>(90-100)° C..</td>
+<td>" ..</td>
+<td>25 ..</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Sliced and dried after 24 hours spreading ..</td>
+<td>60° C ..</td>
+<td>" ..</td>
+<td>5 ..</td>
+<td>83</td>
+</tr>
+<tr>
+<td>" ..</td>
+<td>(90-100)° C..</td>
+<td>" ..</td>
+<td>8 ..</td>
+<td>73</td>
+</tr>
+<tr>
+<td>Rasped and dried after 24 hours spreading ..</td>
+<td>60° C ..</td>
+<td>" ..</td>
+<td>3 ..</td>
+<td>90</td>
+</tr>
+<tr>
+<td>" ..</td>
+<td>(90-100)° C..</td>
+<td>" ..</td>
+<td>8 ..</td>
+<td>73</td>
+</tr>
+</tbody>
+</table>
+
+The above results show that the best method of removing the maximum amount of prussic acid to give a dried product containing less than 5 milligrammes per 100 grammes, is by spreading the sliced or rasped manioc flesh for 24 hours at room temperature, and then drying at 60°C. Spreading for 24 hours gives sufficient time for the enzyme to liberate most of the prussic acid, while drying at a temperature below 72°C causes the reaction to proceed at an enhanced rate, whereby the final product is deprived of the maximum amount of prussic acid.
+
+### Manioc Leaves.
+
+The leaves of the sweet varieties of manioc contain large quantities of prussic acid. A number of samples analysed by the writer indicates a variation from about 40 to 100 milli-grammes per 100 grammes. The tender leaves were found to contain more prussic acid than the mature leaves.
+
+Manioc leaves are reported to be rich in carotenenes (precursors of vitamin "A"), vitamin "B1", vitamin "B2", vitamin "C" and mineral matter, (5). But the presence of dangerous amounts of prussic acid has prevented their use as a popular vegetable.
+
+Manioc leaves seem to contain about 5 per cent. of the total prussic acid in the free form. About 75 per cent. of the total prussic acid, however, is liberated as free prussic acid when the leaves are pounded. This is due to the enhanced activity of the enzyme present in the leaves.
+
+Manioc leaves on pounding in a wooden mortar and washing in three changes of hot water give less than 5 milli-grammes per 100 grammes as bound prussic acid in the final product, after the water is thrown away. The leaves prepared in this manner have a poor appearance, and are not quite suitable for culinary purposes. The leaves when chopped and boiled for 15 minutes each time in two changes of water give less than 5 milli-grammes per 100 grammes as bound prussic acid in the final product, after the water is thrown away. The leaves so prepared are quite suitable for culinary purposes.
+
+### Lima-beans.
+
+Lima-bean pods are generally not eaten in the tender snap-bean stage as they are known to be bitter even after cooking. The tender beans analysed
+
+28------------------------------------------------
+
+167
+
+by the writer indicate a variation of prussic acid content from about 50 to 75 milli-grammes per 100 grammes. The bitterness can be almost completely removed and the bound prussic acid content can be bought down to below 5 milli-grammes per 100 grammes by boiling the pods for 20 minutes each time in two changes of water. The mature seeds on the other hand, are quite palatable and nutritious, being rich in proteins and mineral matter, (6). The prussic acid content of the seeds is considerably influenced by environmental factors, (7). A number of varieties analysed by the writer indicates a variation from about 20 to 50 milli-grammes per 100 grammes. The seeds when boiled for half an hour each time in two changes of water, give less than 5 milli-grammes per 100 grammes as bound prussic acid in the final product, after the water is thrown away.
+
+#### UTILIZATION AS FOOD
+
+The prussic acid content of manioc and lima-beans can be reduced to a safe limit by suitable methods of pre-treatment. It is, however, advisable to supplement these foods with even small quantities of fish, meat, eggs or milk to eliminate any risk of cumulative ill-effects that may be caused by traces of prussic acid. Methods are described below for the utilization of these foods.
+
+1. The fresh manioc tubers are peeled, cut into suitable pieces and boiled in a large excess of water in an open vessel, for about one hour, till well cooked. The water is thrown away and the cooked pieces are eaten as a vegetable or made into a curry.
+
+2. The manioc tubers are peeled and the flesh is sliced or rasped and the material is spread out evenly in a thin layer for about 24 hours. It is then dried in the sun or in a drier at 60–70°C. The dried product is converted into flour and is used for making "pittu", "string-hoppers", bread, cakes and biscuits. It is useful to add one part of roasted cowpea or green gram flour to four parts of the manioc flour to improve the nutritive value and flavour of the "pittu". It is necessary to add an equal part of wheat flour to the manioc flour for the preparation of "string-hoppers", bread, cakes and biscuits.
+
+3. Manioc leaves are picked in the fairly tender stage, chopped into pieces and boiled for about 15 minutes each time in two changes of water. The water is thrown away and the leaves are eaten as a vegetable or converted into a "mallung" or made into a curry.
+
+4. The tender lima-bean pods are boiled for about 20 minutes each time in two changes of water. The water is thrown away and the beans are eaten as a vegetable or made into a curry.
+
+5. The mature lima-bean seeds are boiled for about half an hour each time in two changes of water. The water is thrown away and the beans are eaten as a vegetable or made into a curry. If the mature dry seeds are used they are soaked over-night in water containing about two tea-spoonfuls of sodium carbonate or two table-spoonfuls of wood-ash per pound of the seeds. This water is thrown away and the beans are boiled in two changes of fresh water for 20 minutes each time. The beans so prepared are eaten as a vegetable or made into a curry.
+
+29------------------------------------------------
+
+168**ACKNOWLEDGMENTS**
+
+Thanks are due to Mr. T. M. Z. Mahamooth, the Veterinary Research Officer, for providing facilities to conduct the animal experiments. The writer is grateful to Mr. S. Ponniah of the Veterinary Laboratory for assisting in the animal experiments. Thanks are also due to Mr. H. E. A. Perera, the Assistant Veterinary Surgeon for furnishing useful literature from the Library of the Veterinary Laboratory.
+
+**REFERENCES**
+
+1. (1) Analyst, 1931, Vol. 56, p. 47.
+2. (2) Chemical Abstracts, 1939, Vol. 33, p. 5535.
+3. (3) Dept. of Agr. S. S. & F. M. S., Bulletin No. 13, 1932-34, p. 17.
+4. (4) Philippine Agriculturist, 1936-37, Vol. 25, p. 766.
+5. (5) Chemical Abstracts, 1939, Vol. 33, p. 766.
+6. (6) Tropical Planting and Gardening, 4th Edition, p. 300, by H. F. MacMillan.
+7. (7) Memoirs of the Dept. of Agr. India, Chemical Series, 1926-28, Vol. 9, p. 16.
+
+30------------------------------------------------
+
+169
+
+## ROLLER FOR THRESHING
+
+C. R. KARUNARATNE, Dip. Agric. (Poona), Dip. Agric. (Wye.),  
+DIVISIONAL AGRICULTURAL OFFICER, NORTH-WESTERN DIVISION.
+
+THE threshing and winnowing of farm produce of state chenas have been the most expensive and troublesome operations. The usual though primitive systems of threshing are:—(a) beating the ear heads with sticks after the produce has been spread out in the sun for some time, (b) pounding with mortars, (c) trampling the ear heads under the feet of cattle, usually buffaloes. About 5 to 7 buffaloes are driven round and round the circular threshing floor on which the ear heads are spread. This is the common method of threshing paddy. Kurakkan is generally pounded with mortars by women. These methods of threshing are very slow. It is not uncommon to see paddy stacks left unthreshed for long periods for want of buffaloes, owing to the plough cattle being occupied with ploughing and other agricultural operations in paddy fields. Cultivators have to thresh the paddy within a prescribed time and hand over their quotas of paddy to the Internal Purchase Scheme. This, of course is an emergency measure. The result is a delay in ploughing operations for the next season.
+
+The necessity for a simple and cheap device for threshing farm produce was keenly felt with the opening of extensive state chenas for food production. The cement concrete or stone roller worked by a pair of bullocks or buffaloes has been found to be very efficient for threshing paddy, sorghum, kurakkan, cambu, meneri, thana, dhall, cowpea, green gram, &c.
+
+Medium size rollers were constructed and made use of as these requires less draught than those with small diameter. Stone rollers are more durable than cement concrete ones, but it takes quite a long time to have these turned out particularly these days. Cement concrete rollers can be conveniently cast in wooden moulds.
+
+The dimensions of the roller turned out and experimented with by the writer are 22 in. in diameter and 34 in. long. The weight of one of the rollers is about 8½ to 9 cwts. The materials required to turn out one of these rollers are one iron axle 1½ in.—2 in. in diameter and 46 in. long, 600 lb. of granite stone 1 in.—1½ in. (11 bucketfuls) 315 lb. of sand, (7 bucketfuls) 120 lb. of cement and a wooden mould. The concrete can be reinforced with wire netting or small mesh expanded metal. Two days after casting the concrete the wooden mould can be removed and the roller cement rendered. The rendering may be done smooth or ribbed. The draught pole is attached by means of 2 'L' shaped iron brackets one end of which is shaped to serve as a bush into which the axle is slipped in. This is maintained in position by means of a split pin driven into the axle. The other end of the bracket is fixed on to the draught pole. Another method of attaching the
+
+31------------------------------------------------
+
+170
+
+draught pole is by fixing two triangular shaped brackets to the two ends of the axle and forming a framework over the roller. A wooden seat may be provided for the driver.
+
+Before working the roller the ear heads or sheaves of paddy or *meneri* should be spread out and allowed to dry for a couple of days. These should best be spread out evenly about a foot deep on an oval shaped threshing floor about 60 ft. to 80 ft. long and 40 ft. to 50 ft. wide. A vacant space of about 25 ft. by 15 ft. is left in the middle. This space is used for driving the buffaloes, for collecting and heaping the threshed produce and for working the winnowers if by chance one is available. A spacious threshing floor facilitates the working of the roller than a circular one. It would be very desirable to thresh over threshing mats or tarpaulins made of jute hessian.
+
+If the sheaves and ear heads are thoroughly dry, the roller will thresh the grains in a very short time, when driven over the heap. Frequent turning over of the material is essential as the roller passes over it. This is done by a second labourer by means of a forked stick. It was observed that about 90 per cent. of the grains were separated from the ear heads in  $2\frac{1}{2}$  or three hours. The threshed material is then heaped up in the centre of the oval and the sheaves or ear heads are again spread out and the roller worked again. Another three quarter hour is sufficient to remove the remaining grains completely.
+
+Relative efficiency of this method can be gauged from the following figures :—
+
+<table border="1">
+<thead>
+<tr>
+<th>Crop threshed.</th>
+<th>Quantity<br/>threshed<br/>(Bushels).</th>
+<th>Time<br/>taken<br/>(Hours).</th>
+<th>No. of<br/>Units of<br/>Labour.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Paddy (Vellai ilankalayan)</td>
+<td>.. 56</td>
+<td>.. <math>4\frac{1}{2}</math></td>
+<td>.. 3</td>
+</tr>
+<tr>
+<td>Kurakkan</td>
+<td>.. 61</td>
+<td>.. <math>4\frac{1}{2}</math></td>
+<td>.. 3</td>
+</tr>
+<tr>
+<td>Sorghum</td>
+<td>.. 84</td>
+<td>.. <math>3\frac{1}{4}</math></td>
+<td>.. 3</td>
+</tr>
+<tr>
+<td>Cowpea</td>
+<td>.. 42</td>
+<td>.. <math>2\frac{1}{4}</math></td>
+<td>.. 2</td>
+</tr>
+<tr>
+<td>Green Gram</td>
+<td>.. 33</td>
+<td>.. <math>1\frac{1}{4}</math></td>
+<td>.. 2</td>
+</tr>
+</tbody>
+</table>
+
+Normally with 5 to 7 buffaloes and 4 units of labour working throughout the night (about 8–9 hours) about 16 to 20 bushels of paddy can be threshed.
+
+With the roller 50 to 60 bushels of paddy can be threshed in  $4\frac{1}{2}$  hours with one pair of bulls and 2 to 3 units of labour.
+
+32------------------------------------------------
+
+![A black and white photograph showing a rural scene with a thatched-roof house in the background. In the foreground, a person is standing near a large pile of paddy, and another person is visible further back. The ground is uneven and appears to be a threshing floor.](f5800d4724de0fc4f77f43f6e0213152_1_img.webp)
+
+Threshing Paddy
+
+![A black and white photograph of a large, open field. In the center, a pair of oxen is harnessed to a threshing floor. Several people are standing around the oxen, and a thatched-roof structure is visible in the background.](f5800d4724de0fc4f77f43f6e0213152_3_img.webp)
+
+Threshing Kurakkan.  
+(Gives idea of shape and size of Threshing Floor).
+
+![A black and white photograph showing a close-up view of a threshing floor. A person is standing near a large pile of paddy, and another person is visible further back. The ground is uneven and appears to be a threshing floor.](f5800d4724de0fc4f77f43f6e0213152_5_img.webp)
+
+Threshing Paddy.
+
+33------------------------------------------------
+
+![A blank page with a light beige or cream color, showing minor scanning artifacts.](ffd68670ca4ac024a4d7cc91415bdf9e_1_img.webp)This image is a scan of a blank page. The paper has a light beige or cream-colored tint. There are a few very small, faint dark spots scattered across the surface, which appear to be scanning artifacts or minor imperfections in the paper. No text, lines, or other markings are present.
+
+34------------------------------------------------
+
+171DEPARTMENTAL NOTESCHEMICAL NOTES No. 18 PYRETHRUM
+
+D, E. V. KOCH, B.Sc., B.Sc (Hons.), Ph.D., D.I.C., F.R.H.S., F.R.I.C.
+
+IN this note, the more important chemical aspects of pyrethrum are detailed. The results of analysis of Pyrethrin content of Ceylon flowers indicate that material of good quality could be produced at an elevation of nearly 6,000 ft. under dry south-west monsoon conditions.
+
+Pyrethrum is the name given to three varieties of *Chrysanthemum cinerariaefolium*—natural order Compositae—whose flowers are recognised as having insecticidal properties. Like most discoveries this was found by chance. It was Anna Rosaver of Ragusa (Dubronik) who used pyrethrum flowers for decorative purposes and threw the faded bouquet in a corner of a room where insects were later found dead (1).
+
+The active principles in pyrethrum flowers are termed "pyrethrins". Spectrographic examinations indicate the presence of two pyrethrins only and these are called prethrin I and pyrethrin II—there is no other active constituent (2).
+
+The pyrethrins are amongst the most potent insecticides particularly against flies and mosquitoes, but are harmless to man. For these reasons, pyrethrum extracts are largely used in antimalarial work in Ceylon. Consequent on the loss of supplies from Japan many attempts have been made at obtaining a substitute for the pyrethrins. These have resulted in the discovery of the synthetic insecticide, D. D. T or Gesarol, the active ingredient of which is 2·2 bis parachloro diphenyl 1·1·1 trichloroethane—also called dichloro-diphenyl-trichlorethane—which tends to rival pyrethrum. However, as pyrethrum could be grown rather easily in this country at elevations of about 6,000 ft. and because extracts of it are efficient at lower concentrations than D. D. T., it is likely to remain the foremost mosquiticide in Ceylon.
+
+Pyrethrin I is the ester (organic salt) of the ketonic alcohol pyrethrolene and chrysanthemum monocarboxylic acid (mol. wt. 330) while pyrethrin II is the ester of pyrethrolene and methyl chrysanthemum dicarboxylic acid—(mol. wt. 374) However, pyrethrin I, as might be expected, is more toxic than pyrethrin II, although in some cases the difference in toxicity is not very marked, *e.g.*, pyrethrin II has been shown to have a toxicity at least 77 per cent. of that of pyrethrin I on specially bred flies (3).
+
+Both pyrethrins are rather soluble in chloroform, in petroleum ether of low boiling point and to a lesser extent in kerosene, in all which solvents they retain their toxicity for many months if stored with reasonable care. Powdered flower heads are less stable than whole dried material while solid
+
+35------------------------------------------------
+
+172
+
+extracts being unstable lose their toxicity very rapidly on being exposed to sun-light and air. For these reasons it is necessary that pyrethrum flowers should be dried avoiding undue sunlight. The material should thereafter be preserved as whole flowers of moisture content not much above 10 per cent. Alternatively, an extract should be obtained and the best way of doing so is by repeated intermittent percolation with one of the solvents mentioned. If this is not possible, the dried flowers should be crushed and steeped in kerosene for 48 hours using 1 lb. of flowers to  $\frac{1}{3}$  gallon of kerosene, which solvent is thereafter strained through fine cloth. The process is repeated twice and the extracts combined. The residual flowers before being discarded may be steeped again in about a gallon of kerosene, that could be used for subsequent extractions. The combined extract may be expected to contain not less than .09 per cent. of total pyrethrins if obtained from flowers of reasonable quality. It would be as efficient as such preparations as pyroicide 20 mixtures. As little as 5.5 mls of it per room space of 1,000 cubic feet would normally be sufficient to produce a 100 per cent. kill of many types of insects.
+
+A suitable spray for killing mosquitoes could be prepared as follows :—
+
+10 gallons of kerosene-pyrethrum extract.
+
+5 pints of liquid coconut oil potash soap (40 per cent. solid soap).
+
+$4\frac{3}{8}$  gallons of water.
+
+The emulsion, which is fairly stable, need only be given a shaking just before use.
+
+Normally, sprays should have a minimum strength of about .05 per cent. pyrethrins to be fairly effective but extracts of even lower concentration have sufficed in certain instances. Thus the Entomologist working with extracts equivalent to 5 per cent. flower heads, *i.e.*, approx. .005 per cent. pyrethrins has obtained a 100 per cent. kill of aphids and with half that concentration the percentage mortality was between 80 per cent and 90 per cent.
+
+Concentrated pyrethrum extracts contain 2 per cent. W/W of pyrethrins. It is necessary to dilute these before use— $3\frac{1}{2}$  ozs. being made up to one gallon with kerosene so that the final concentration is a little above .04 per cent.
+
+Since the beginning of this year a number of samples of pyrethrum flowers obtained from the Department pyrethrum station at Mahacudagala, where 50 acres have already been cultivated with seed from Kenya, has been analysed for pyrethrin content following the method employed at the Imperial Institute, London.
+
+The results of examination are tabulated below :—
+
+<table border="1">
+<thead>
+<tr>
+<th>No.</th>
+<th>Per Cent.<br/>Moisture.</th>
+<th>Per Cent.<br/>Pyrethrin I.</th>
+<th>Per Cent.<br/>Pyrethrin II.</th>
+<th>Per Cent.<br/>Total<br/>Pyrethrins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>.. 8.77</td>
+<td>.. .487</td>
+<td>.. .766</td>
+<td>.. 1.253</td>
+</tr>
+<tr>
+<td>2</td>
+<td>.. 9.36</td>
+<td>.. .446</td>
+<td>.. .736</td>
+<td>.. 1.182</td>
+</tr>
+<tr>
+<td>3</td>
+<td>.. 12.35</td>
+<td>.. .622</td>
+<td>.. .821</td>
+<td>.. 1.443</td>
+</tr>
+<tr>
+<td>4</td>
+<td>.. Air dried</td>
+<td>.. .566</td>
+<td>.. .864</td>
+<td>.. 1.430</td>
+</tr>
+<tr>
+<td>5</td>
+<td>.. 9.90</td>
+<td>.. .599</td>
+<td>.. .657</td>
+<td>.. 1.256</td>
+</tr>
+<tr>
+<td>6</td>
+<td>.. 10.37</td>
+<td>.. .461</td>
+<td>.. .782</td>
+<td>.. 1.243</td>
+</tr>
+<tr>
+<td>7</td>
+<td>.. 7.04</td>
+<td>.. .531</td>
+<td>.. .779</td>
+<td>.. 1.310</td>
+</tr>
+<tr>
+<td>Average</td>
+<td>.. —</td>
+<td>.. .530</td>
+<td>.. .772</td>
+<td>.. 1.302</td>
+</tr>
+</tbody>
+</table>
+
+36------------------------------------------------
+
+173
+
+It will be seen that the average percentage for all these determinations is 1.30 total pyrethrins—the values ranging from 1.18 per cent. to 1.44 per cent.
+
+This average figure is very much higher than that for Japanese flowers and it is also definitely better than that for Assam (1.13 per cent.) and Kashmir and Punjab samples (about .96 per cent.) (4) but somewhat lower than for grade I Kenya pyrethrum. It has, however to be mentioned that the flowers examined were from young unselected plants and, therefore by means of selection, the prospects of producing flowers of exceptional quality appear to be bright.
+
+#### REFERENCES
+
+1. (1) Journal of Economic Entomology, Vol. XXXVI. April, 1943, p. 320.
+2. (2) Chemical Abstracts May 10, 1944, Col. 1979.
+3. (3) The Analyst Vol. LV., 1930, p. 645.
+4. (4) Chemical and Engineering News, November 25, 1943, p. 1918.
+
+37------------------------------------------------
+
+174SELECTED ARTICLESTHE FOLLY OF DEEP PLOUGHING\*
+
+**F**EW events in recent agricultural history may prove to be so important as the publication just a year ago of a remarkable book written by an American Farmer†. The book is entitled "Plowman's Folly", and the name of its author is Edward H. Faulkner, a one-time county agent in Kentucky and Ohio and a trained experimenter. It constitutes perhaps the most serious challenge to agricultural theory that has been advanced in recent years; its teachings may well alter the established practice of land cultivation, for it claims to prove that the traditional mouldboard plough severely injures the soil and "is the least satisfactory implement for the production of crops" that has yet been proposed.
+
+The mouldboard plough was invented in England in the 18th century, and was designed to turn over the soil so as completely to bury everything that lay upon it, leaving a clean bare surface which could be worked up into a powdery tilth well adapted to the sowing of grain. At that time England was mostly covered by forest, and the cleared lands had not been completely subdued so that weeds competed severely with the growing crop; nor could the then-known methods of hand cultivation adequately cope with them. The introduction of the mouldboard plough into such an environment was a godsend. Pulled by oxen the new implement could completely invert the soil and effectively bury perennial weeds and small shrubs so as to give the sown grain and roots chance to get away before the wild vegetation recovered sufficiently to compete with them. A farmer who previously could only manage a few square roods of land could, with the aid of the new plough, now raise food on several acres.
+
+Agriculture in England in those days needed to be extensive; the people were continually near starvation and crop production was quite inadequate to meet the requirements of the increasing population. The mouldboard plough thus marked the beginning of a new agricultural era; it rapidly became symbolic of all that was progressive and good in crop production. In later years, when Agriculture gradually changed from extensive to intensive farming as the world's supply of cultivable land began to fail, the plough still held sway, unchallenged in its presumed usefulness, though the circumstances that had initially warranted its introduction were entirely altered.
+
+The main charge which the author of "Plowman's Folly", lays against the mouldboard plough is that the act of soil inversion places crop residues and green manures, and all else added as amendments to the soil surface below the reach of the roots of the crop that is being grown. It creates a highly absorbent layer below the surface which, through its large water-retaining capacity, interferes with upward capillary movement of soil moisture, in that it literally produces a "sandwich" layer between soil that is rapidly drying out above and moist soil below. Furthermore, under these conditions, the organic matter does not decompose properly. The carbon-dioxide it generates by oxidation sets up a toxic subsoil concentration which adversely affects the micro-organisms controlling decay, and may even penetrate into the rooting zone above.
+
+---
+
+\* In *Tropical Agriculturist*, Volume XXI., No. 8—August, 1944, pp. 141-43.
+
+† *Plowman's Folly*; E. H. Faulkner: Grosset and Dunlap, Publishers, New York, by arrangement with University of Oklahoma Press: 1943.
+
+See also article by Louis Bromfield, "The Evangelist of Plowman's Folly", in "Reader's Digest", December, 1943, pp. 35-39.
+
+38------------------------------------------------
+
+175
+
+The mass of sour buried vegetable matter takes an inordinately long time to liberate its store of nutrients, and the growing crop may absorb very little of these valuable by products. The bare exposed soil material above the sandwich organic layer is easily eroded by water and wind, and constantly exposed to excessive evaporation from wind and sun. An artificial condition of drought exists between the buried organic layer and the sun-baked surface. In the long run the topsoil is entirely destroyed and lost. Out of these mishaps have emerged such catastrophes as the great Dust Bowl disaster of the 1930's when millions of acres of agricultural land had to be abandoned in the south-central States of North America.
+
+The correct procedure to follow in cultivation, according to Edward Faulkner, lies in the use of the heavy disc harrow which rips up and loosens the surface but does not turn under the grass-sod, stubble or cover-crop. Capillary uplift of water is thus not arrested, and evaporation from the surface is greatly reduced by the blanket of mulch that covers it. Furthermore, the organic mulch prevents run-off during rains and hence loss of soil through erosion is lessened. His contention therefore is that we should increase the depth of our soil from the top downwards rather than from the bottom upwards which is the method attempted when trash, litter and manure are buried deep. He advocates working from the top by piling up an accumulation of decaying organic matter which is Nature's way as seen in forest and meadow. Indeed the first cause of Faulkner's realisation of the evil done by the mouldboard plough was his observation that crop-plants growing in the hedgerows resist drought markedly while the plants out in the bare baked fields wither and die. In the hedgerows the ground has not been ploughed and the surface is covered by a mulch of decaying vegetation and loose soil, circumstances which help to conserve soil moisture.
+
+The ideas engendered in Faulkner's mind were put to exhaustive test by him, first during the years 1930 to 1938 in his back garden where, to quote his own words, the soil was "better suited to brickmaking" than to the growing of vegetables, being just harsh "cellar dirt"—a house builder's dump—devoid of all organic matter. It was so hard when dry that a sharp spade made no perceptible impression on it, and the clods were as "sharp as broken stone", and so sticky when wet that it clung to his boots in lumps "as big as he could carry". By a system of surface mulching with dead leaves, coupled with a process of working decayed weeds and vegetable residues into the upper layer and not burying them, the soil had become so much improved in seven years that the surface was "as granular as sugar", and every crop planted thrived and produced as well or better than crops grown by neighbours on inherently much superior soil.
+
+The success of the garden experiment inspired a much larger test on a field scale on derelict farm-land in Ohio. Here again the method practised was to incorporate green manures into the soil surface with a disc harrow, and to plant or sow direct onto the trashy land, usually, however, at spots compacted by a crude implement specially designed for the purpose of marking out the planting sites in rows. The green manure mainly used was rye, which gives two crops a year. Alternatively weed growths were used as mulch.
+
+It would appear from published reports that Edward Faulkner's method of cultivation has been brilliantly successful; "his almost unbelievable yields make his experimental plots commercially profitable", to quote only one report. Following the publication of his book, "the hottest farming argument since the tractor first challenged the horse has been started," . . . and "returns on the great debate had begun to come in:—they were very favourable to Faulkner".
+
+A careful study of ploughing versus new methods of soil cultivation has been undertaken on experimental farms in Iowa by officers of the State and of the United States Department of Agriculture\*. The new methods were disc-harrowing, as advocated by Faulkner, listing
+
+\* "Time"; 28 February, 1944: See "Shall we discard our ploughes"? by G. M. Browning, R.-A. Norton and J. B. Davidson, Farm Science Reporter. Iowa State College, Ames, Iowa, 1944, 5, No. 1, pp. 7-10.  
+2—J. N. A 45856 (1/45)
+
+39------------------------------------------------
+
+176
+
+and subsoiling, all of which loosen the soil without turning it over. One object was to leave the stubble on the surface so as to afford a check to erosion ; another was to provide decaying organic matter to act as manure. In the Iowa tests so far the new methods are stated to have produced bigger soyabean crops, to have saved one-third to one-half the man and machine power needed for ploughing, to have reduced erosion from 34 to 10 tons of soil lost per acre, and to have kept down weeds better than customary ploughing methods. Finally, "the investigators decided that ordinary ploughing is an expensive luxury ; they concluded that farmers and machinery manufacturers should investigate new types of machines before investing heavily in mouldboard ploughs which may be obsolete long before they are worn out "\*.
+
+The author of "Plowman's Folly" has thus created a problem for the engineers who make agricultural implements, namely, to provide heavy sharp disc harrows that will rip up and loosen but leave the soil unturned, and also lay and chop up a wide range of kinds of cover-crops from tall grass to bushy and trailing legumes, and from weeds even to woody shrubs, and moreover, implements that will satisfactorily prepare all kinds of soil under all sorts of conditions by a process of top working with organic mulch.
+
+The fame that Edward Faulkner has already acquired in U. S. A. is "a sign that the revolution in agriculture is being recognised"† . . . . A famous agricultural economist in Washington is quoted as saying "The civilisation of this country is founded upon nine inches of topsoil ; when that is gone, civilisation will go with it"†. This remark surely applies to countries other than those of the North American Continent ; it applies also to every part of the world where civilised man is striving to preserve his civilisation, while "the surface of the earth is strewn with ruins of nations and of civilisations which destroyed themselves by wearing out the soil"†.
+
+F. H.
+
+---
+
+\* Ibid.
+
+† "Reader's Digest" ; loc. cit.
+
+40------------------------------------------------
+
+177
+
+## MEETINGS, CONFERENCES, &c.
+
+### REPORT OF THE PROCEEDINGS OF THE INAUGURAL MEETING OF THE RECONSTITUTED CENTRAL BOARD OF AGRICULTURE HELD AT PERADENIYA IN THE BOARD ROOM OF THE DEPARTMENT OF AGRICULTURE, AT 2.30 P.M. ON MONDAY, JULY 10, 1944.
+
+**M**R. L. J. DE S. SENEVIRATNE, Acting Director of Agriculture, presided and the following members were present :—Messrs. H. E. Jansz (Land Commissioner), Wilmot A. Perera, H. W. Amarasuriya, M.S.C., R. H. de Mel, S. Pararajasingham (Chairman, Low Country Products Association), James P. Fernando, Sir J. P. Obeyasekera, Mudaliyar K. Chinnatamby, Gate Mudaliyar S. Muttutamby, Mr. K. Kanakasabai, A. E. Madawela Dissawa, T. B. Poholiadde Dissawa, Mr. S. L. Bandara Dharmakirthi, Gate Mudaliyar N. Wickramaratne, Messrs. P. B. Bandaranayake, R. T. Chelliah, L. B. de Mel, Rev. Fr. L. W. Wickramasinghe, Messrs. M. A. L. Kariapper, Malcolm Park (Plant Pathologist), Reginald Child (Director, Coconut Research Scheme), R. H. Bassett (Commissioner for Development of Agricultural Marketing), T. E. H. O'Brien (Director, Rubber Research Scheme), Col. T. Y. Wright, Messrs. A. R. T. Gibbon, R. V. Norris (Director, Tea Research Institute), M. Atkinson, P. K. Newton (Chairman, Planters' Association of Ceylon), Dr. A. W. R. Joachim (Chemist), Messrs. C. N. D. Jonklaas, R. K. S. Murray (Deputy Director of Agriculture), Dr. M. Fernando (Botanist), Dr. W. R. C. Paul (D.A.O., S.-W.D.), Messrs. C. N. E. J. de Mel (Principal, School of Agriculture), Marcus S. Rockwood, S. G. Taylor (Director of Irrigation), R. C. Kannangara, M.S.C., Sir T. B. Panabokke, Messrs. G. de Soyza (Registrar of Co-operative Societies), A. G. Divitotawela, H. Q. N. Jayawardene, T. A. E. Price, Bertram de Zylva, and Mr. P. Gnana Pragasam (Secretary).
+
+The following members expressed their inability to attend the meeting :—Messrs. H. W. Attfield, R. H. Spencer-Schrader, Sir Wilfred de Soysa, The Conservator of Forests, Messrs. A. T. Sydney-Smith, Mudaliyar H. E. S. Wickramaratne, and Mr. A. G. Pandithasekera.
+
+The following visitors were also present :—Messrs. G. V. Wickramasekera (Paddy Officer), A. V. Richards, Dr. D. E. V. Koch, and Mr. S. K. Thuraisingham.
+
+The Chairman welcomed the new members.
+
+### CONFIRMATION OF MINUTES.
+
+The Minutes of the last Meeting of the previous Board were confirmed subject to an amendment.
+
+The President invited the members to ask any questions arising from the minutes of the last meeting.
+
+In reply to a question asked by Mr. Wilmot A. Perera, the Chairman said that the resolutions passed at the previous meeting had been forwarded to Hon. the Minister for Agriculture and Lands with his recommendations and that he expected to get a reply from the Minister early.
+
+Mr. A. R. T. Gibbon inquired as to why they had to wait 8½ months for a meeting of the Board.
+
+The President explained that that Board was constituted only in May, 1944, and hence the question did not arise.
+
+41------------------------------------------------
+
+178
+
+In reply to Mr. Kanakasabai regarding a resolution passed at a previous meeting of the Board on Major Irrigation Works, the Chairman informed the house that the matter had been referred to the Executive Committee of the Board.
+
+Mr. H. W. Amarasuriya enquired whether a single resolution passed at the previous meeting had been given effect to.
+
+The Chairman said that the implementing of resolutions of that Board was a matter for the Executive Committee for Agriculture and Lands and it seemed to him that when the President conveyed the resolutions passed at a meeting of the Board to the Minister for Agriculture and Lands, the major part of the Board's functions had ceased.
+
+Mr. R. C. Kannangara said as a member of the Executive Committee of Agriculture and Lands he could say that he had never seen a resolution of the Central Board of Agriculture on the Agenda of that Committee.
+
+Mr. Wilmot A. Perera deplored that if resolutions accepted by the Board were not heeded it was absolutely useless wasting their time.
+
+#### RULES.
+
+The Chairman proposed the adoption of the following rules :—
+
+1. The meetings of the Board shall be held 4 times a year or on any special occasion as may be desired in writing by not less than 15 members of the Board or by the President.
+
+2. An elected or nominated member of the Board who absents himself from three consecutive meetings of the Board shall be considered to have vacated his seat unless he has been granted leave of absence from any of these meetings by the Chairman.
+
+3. At meetings of the Board twenty members shall form a quorum.
+
+4. At each meeting the Chairman shall have an original vote, and in the case of an equality of votes, he shall have an additional casting vote.
+
+5. Thirty days at least before the date of meeting of the Board the Secretary shall post a notice of the meeting to each member of the Board. Notice of any subject that a member may desire to have placed on the agenda of any meeting must reach the Secretary at least fourteen days before the date appointed for the meeting. The Chairman shall have the right to accept or reject any subject submitted to be placed on the Agenda.
+
+6. The Agenda of a meeting shall be posted by the Secretary to the members at least seven days before the date fixed for the meeting.
+
+7. It shall be the duty of the Secretary to keep proper record of the minutes of each meeting of the Board.
+
+8. The meetings of the Board shall be open to the Press unless otherwise desired by the Board.
+
+After a lengthy discussion the rules were accepted by the Board with the following additional rule :—
+
+“9. The Chairman has the right before submitting a resolution to the Executive Committee for Agriculture and Lands to place it before the Executive Committee of this Board for the formulation of concrete proposals to implement the resolution”.
+
+#### MEETINGS OF THE BOARD.
+
+It was also decided that meetings of the Board should be fixed ordinarily for Fridays avoiding, however, those Fridays when the State Council was in Session. The meetings to be held in the mornings with an interval for lunch.
+
+#### ELECTION OF VICE PRESIDENT.
+
+Mr. H. W. Amarasuriya was unanimously elected Vice President of the Board.
+
+42------------------------------------------------
+
+179
+
+### ELECTION OF EXECUTIVE COMMITTEE OF THE BOARD.
+
+Sir Wilfred de Soysa, Messrs. C. M. W. Davies, A. R. T. Gibbon, R. C. Kannangara, Wilmot A. Perera, S. Pararajasingham, R. H. de Mel, M. Atkinson, K. Kanakasabai and R. H. Spencer-Schrader were elected members of the Executive Committee of the Board.
+
+### VOTE OF CONDOLENCE.
+
+The Chairman in proposing a vote of condolence on the death of Mr. A. A. Wickramasinghe, said that Mr. Wickramasinghe was on the Board continuously for over 10 years. The Chairman was sure that it would be the wish of the Board to place on record its loss and sympathy with the bereaved family. The vote of condolence was passed in the usual manner.
+
+### APPRECIATION OF Mr. RODRIGO'S SERVICES.
+
+In proposing a vote of appreciation for the services rendered by Mr. Edmund Rodrigo, as the President of the previous Board, Mr. H. W. Amarasuriya said that although Mr. Rodrigo took up duties as President at a time of stress and the work itself was very arduous, he shouldered the responsibilities with much acceptance to all. During his tenure of office as the Director of Agriculture he gave a fresh impetus to the Agricultural activities of the Island. The vote of appreciation was unanimously passed.
+
+### PAPER ON PADDY CULTIVATION.
+
+Mr. G. V. Wickramasekera, Paddy Officer, then read a paper on "Cultural and Manurial practices with paddy with special reference to the results of departmental trials".
+
+The Chairman invited comments.
+
+Mr. Wilmot A. Perera wished to know whether any consideration had been given to the possibility of sowing long-term and short-term varieties of paddy at the same time.
+
+Mr. Wickremasekera replied that such an investigation was included in his programme of work. The two varieties would be sown at the same time and the economics of such a practice would have to be worked out.
+
+Mr. Marcus S. Rockwood inquired as to the results of investigations conducted in regard to the saline soil at Minneriya.
+
+Dr. Joachim (Chemist) in replying said that there were not very many large tracts of such saline areas. There were a few tracts in places like Minneriya in the dry zone, but it was entirely a drainage question. They had at Minneriya 10 or 15 acres which at one point was very saline but by thorough drainage and the adoption of such methods as incorporation of green manure, organic manure, and in some places with a little lime, they were able to restore the position to a large extent. He said that they need not entertain any fear on that matter as it was one of drainage largely.
+
+Mr. R. C. Kannangara said that when they visited the Paddy Station at Tabbowa with the Land Commissioner they were surprised to see the luxuriant growth of paddy there. On inquiries made they found that the villagers had used 3 cwt. of manure plus compost per acre as against the one cwt. of manure advised by Government. The field was harrowed two weeks after the sowing and was again harrowed six weeks later. That showed that there was something wrong with the advice given to cultivators by Government. They saw among that luxuriant growth patches of yellowing paddy which was attributed to the saline condition of the soil. According to the paper that was read to them it showed that drainage was necessary. They saw that difficulty in Kalmunai. He thought that it was going to create a serious situation unless drastic steps were taken to drain these areas properly.
+
+Replying to an enquiry made by Mr. Wilmot A. Perera, Mr. Kannangara said that the yield was about 60 bushels per acre per season.
+
+43------------------------------------------------
+
+180
+
+Gate Mudaliyar N. Wickramaratne congratulated the Paddy Officer for the excellent paper read by him, but said that it would be of little use unless the lessons learnt were brought home to the cultivators for practical application. He thought that practical instructions should be imparted to the cultivator on the spot. He suggested that the paddy cultivations should be done under the supervision of the Department of Agriculture.
+
+Mr. S. L. Bandara Dharmakirthi inquired whether imported paddies had been tried in the country.
+
+The Paddy Officer explained that trials had been carried out with several hundred varieties. Some of these varieties did extraordinarily well for one or two seasons and then they degenerated. Among the recent introductions are two long-term varieties for the Yala season. They are promising and do not appear to degenerate. "The greatest problem with High-land paddy is that they will not be able to control weeds. We cannot cultivate el-vi in paddy fields; it would not be economical.
+
+Mr. K. Kanakasabai concurred with Gate Mudaliyar Wickramaratne that unless the cultural methods enunciated in the valuable paper read before them were adopted by the cultivators, they would not be able to see any beneficial results. Field Officers of the Department of Agriculture should see that the cultivators adopted these measures. He agreed that the harrowing would produce good results, but it would be done only in places where there was a proper system of drainage.
+
+Mr. R. C. Kannangara said that if any good result was to be achieved from that paper it should be translated into Sinhalese and Tamil and given a wide publicity through the medium of the Agricultural Instructors, &c.
+
+Mr. L. B. de Mel said that it was pointed out that the fertilizer mixture supplied by the Government had not been applied to the fields sufficiently early and consequently the paddy did not thrive. He inquired whether the Paddy Officer's trials were conducted subsequent to that occurrence. He also wished to know the cost of transplanting according to the Paddy Officer's trials.
+
+The Paddy Officer: "The quantity of manure applied varied from one to four hundred-weight. The application was made before sowing and even after sowing and we had no ill-effects in any case. The cost of transplanting would vary with the district. Where women do the work it will be less. Roughly Rs. 20 to Rs. 30 per acre would be a fair figure for transplanting".
+
+Mr. Amarasuriya: "The Paddy Officer should embody in his report some more information regarding pure-line seed. It will be very useful if some information were given with regard to the experiments carried out with pure-line seed".
+
+Mr. Bassett: "Most of our paddy is short-term. I do not know whether it is possible to reduce the short-term varieties; you do not get as much good rice from the short-term paddy as you get from the long-term variety. They do not mill well".
+
+Paddy Officer: "It must be well-treated before milling".
+
+Mr. Rockwood: "What extent has been brought under cultivation with paddy newly".
+
+President: "I will make a note of the question and give a reply later. I am very glad at the reception the Paddy Officer's paper has earned from this Board".
+
+Col. T. Y. Wright then moved the following resolution:—
+
+"That an alteration is desirable in the regulations governing Food Production on Estates".
+
+Speaking to the resolution he said that the regulations had been in operation for about  $2\frac{1}{2}$  years. Although a good deal of money had been expended on that project, the results achieved were below the mark. He was sure that the managers of estates had done their best. The figures were 236,000 acres had been cultivated and Rs. 630,000 had been paid by those who had not cultivated. The lack of labour was a contributory factor to the non-cultivation of land. The
+
+44------------------------------------------------
+
+181
+
+food produced as a result of the regulations being enforced was infinitesimal compared with the cost and labour involved. He was convinced that Tea, Rubber and Coconut estates were paying twice over for the production of food. Those industries were by far the greatest contributors to the revenue of the country. Yet, the regulations compelled those engaged in the said industries to cultivate or pay if they did not. Why were those industries singled out? Was it because they employed labour? He pointed out that the labour which was employed in Rubber Estates was for essential services. Coconut estates were producing food essential at the present time. What did the other employers of labour pay? They did not come under the regulations at all. What did the plumbago merchants and the contractors who employed extensive labour forces pay for the Food Production? He suggested that any uncultivated land suitable for food production should be taken over by Government for the time being and cultivated at Government expense. Suitability of a land should be clearly defined by a competent authority. Interplanting had been a failure. He was of opinion that any land under permanent cultivation was not suitable for food production. He said that the Minister should be given as much money as he wanted for food production. The Minister should concentrate on the right type of cultivation. Everybody should step up food production. He thought it was unfair that one industry should be made to pay for food production. Government should concentrate on food and cattle.
+
+Mr. Newton seconded the resolution. In doing so, he said that these agriculturists who were in a position to produce food should be encouraged. Those who were sitting back and merely paid Rs. 10 per acre per annum should be discouraged. It might be possible to pay agriculturists actually producing food a large rebate on the food they had produced out of the funds paid by those who did not produce. He suggested that the matter be referred to the Executive Committee of the Board for drawing up a memorandum and placing it before the next meeting of the Board.
+
+Col. T. Y. Wright accepted the suggestion of Mr. Newton.
+
+The resolution was put to the House and accepted.
+
+Mr. K. Kanakasabai moved the following resolution :—
+
+“ That this Board while appreciating the efforts of the Ministry of Agriculture and Lands to increase food production desires to point out that the success of making Ceylon self-sufficient in the matter of food supply largely depends on the modification of the system of work of the field branches of the Department of Agriculture and also on the adoption of a financial scheme, to assist indigent farmers with long-term loans ”.
+
+Speaking to the resolution Mr. Kanakasabai stated that as members were aware, large extents of paddy land in Ceylon were situated in areas with precarious rainfall, that was, rainfall at certain times of the year only which frequently happened to be inadequate. Under such conditions paddy cultivation could not be made an economic proposition except by adopting dry-farming methods and by crop rotation. Increasing the price of paddy without any limit was not good at all. There was a Tamil proverb which said that if you increase the price of the staple food of the people the whole cost of living would be increased. The position must be accepted that cultivation should be subsidized; but for the consumer the price must be controlled at a reasonable figure. In India millions and millions of acres were cultivated on this basis—rotation of paddy with other cereals. Even in Jaffna efforts were being made to raise other cereals along with rice as a rotational crop. But they were faced with such difficulties as lack of suitable holdings, labour, &c. On the one hand in the dry zone, areas were allowed to dry and exhaust all their moisture after the harvesting of paddy: on the other hand, in the wet zone, paddy fields always remained as a paddy field with the result that plant food was lost and consequently the yield decreased from year to year. In this way eventually the land
+
+45------------------------------------------------
+
+182
+
+would be lost to the people and they would not be able to find food. That was why he urged that dry farming methods should be adopted. Another thing was that the Agricultural Officers should co-operate with the revenue officers. His proposal was that there should be one agricultural division and an agricultural officer in every Province. Financial aid was very important. For lack of it many people were not able to adopt improved methods of agriculture. The other day he saw the statement of the Registrar of Co-operative Societies to the effect that a land on usufructuary mortgage seldom returned to the owner. There was a suggestion for the formation of village mortgage societies, but they had been faced with the unsoundness of village title.
+
+Mr. Kariapper seconded the motion. He agreed that any increase in the price of paddy would raise the cost of living. The other day certain figures had been given to Mr. R. C. Kannangara regarding the cost of production of paddy. He agreed that they were rather astounding.
+
+Mr. R. C. Kannangara said that in Batticaloa, Mr. Kariapper was representing a farmers' Association. He was, however, very glad that Mr. Kariapper had changed his mind when he stated that the price of paddy should not be raised.
+
+The motion of Mr. Kanagasabai was accepted by the House.
+
+Mr. Kanakasabai withdrew the resolution No. 8 (b) of the agenda.
+
+Mr. A. R. T. Gibbon proposed the following resolutions standing against his name :—
+
+- (a) That Government be asked to formulate a plan whereby paddy growers may be assured of a minimum selling price for paddy for the next 5 years. The Kandy D. A. C. considers the fixed price should be Rs. 6 per bushel.
+- (b) That peasant cultivators who open up new land for paddy cultivation be paid a bonus of Rs. 100 per acre and that other land owners be paid a bonus of Rs. 50 per acre.
+- (c) That steps be taken to secure greater quantities of pure-line seed paddy—
+  - (1) by establishing experimental stations in all paddy-growing districts.
+  - (2) by importing strains of high-yielding paddy from other countries.
+  - (3) by maintaining a scientific research department specially employed to investigate the development of high-yielding strains.
+- (d) That further research be carried out, with long-term experiments to determine the effect of manuring paddy.
+- (e) That the sale of buffaloes, other than to cultivators and to dairymen, be restricted in order to lessen their slaughter.
+- (f) That greater use be made of machinery for opening up new land for ploughing and for threshing.
+- (g) That more rice mills be established.
+
+Speaking to the resolution Mr. Gibbon said that they represented the general opinion of the Kandy District Agricultural Committee. He had been asked to put the results of those discussions for the consideration of that Board. The first two resolutions, he said, had a financial implication. The object of the first resolution was to request the Minister to fix a price for paddy for the next five years. That would ensure the cultivator a fair price for his produce. It would be bought at that price whether or not the price of imported rice fell. There was a difference of opinion as to what the price should be. The majority opinion was that they should ask for a price of Rs. 6 for the next five years. He was not concerned what the actual figure was but it should be a price which would ensure a fair return to the producer.
+
+President : " Government has already guaranteed a minimum price for the next five years ".
+
+46------------------------------------------------
+
+183
+
+Continuing Mr. Gibbon said that it was extremely interesting information. It would create a certain sense of security. He inquired of the President whether he would make that statement public. Since they had now heard that the matter had been dealt with he did not insist to proceed with the resolution.
+
+Speaking to resolution (b) he said that they asked the Government to help people who opened up lands and brought them under cultivation at a time when values were extremely inflated. Capital expenditure was more than ordinarily heavy at a time like that. As they were agreed that the cost of rice should not be raised the owners of lands who made an effort to cultivate should receive a certain amount of financial support as indicated in the resolution.
+
+Mr. H. E. Jansz : " The practice of giving assistance already obtains in certain parts of the country. People in Gampola in the Kandy District have already received such assistance, though of course it is confined to the peasant class ".
+
+Mr. Gibbon : " I would like to go rather beyond that and help the larger land-owners as well—he should receive half the amount, say Rs. 50 an acre of all new land brought under the plough. I would submit for your consideration that in England and Scotland all land that is brought under the plough earns a bonus of one pound from the State. We have that precedent to guide us.
+
+Speaking to the resolution (c) Mr. Gibbon said that it was divided into three sections. They had a good deal of discussion on the points embraced by them. The necessity was to supply pure-line paddy. They should not speak of the failures of the past but should safeguard the future and try to make rice production a long-term undertaking. They should consider how best and how quickly they could produce pure-line seed. Mr. Taylor in his notes of his tour in Australia had given interesting figures. Mr. Taylor wrote : " In addition to cultivating much larger areas than any cultivator working on his own in Ceylon, the Australian obtains yield at least five times as great as those obtained in Ceylon ".
+
+Commenting on the production of paddy in Australia Mr. Gibbon said that the standard of living in Australia, as compared with other countries was higher, yet Australia could produce sufficient for local consumption and export. He suggested that far more experiment stations should be established in all areas where paddy was grown. Every station should have its own experiment station from which pure-line seed for the area might be obtained.
+
+Speaking to resolution (d) he said that they should import high-yielding strains. They should have an investigation department to explore every avenue whereby they might improve their strains. Rubber, Tea and Coconut Research Schemes by patient research had tracked down and found the means to do away with the pests that were ravaging those industries. That was the sort of research and advice expected of an investigation department. He impressed the members on the desirability of a research institute of that nature in regard to paddy.
+
+Speaking to resolution (e) he inquired whether it was possible to restrict the sale of buffaloes for slaughter. They knew of the difficulties not only in cultivating their fields but in transporting their goods. He thought that the slaughter of valuable stock that contributed greatly to food production effort should not be allowed to continue. Everything should be done to restrict such slaughter.
+
+He withdrew resolution (f) as Mr. Atkinson was going to deal with the subject.
+
+Speaking to resolution (g) he said that he looked at that from a long-term point of view as to how they should deal with their difficulties in the post-war period. Every paddy-producing area should have its own mill. There should also be a granary which would receive the paddy and pay the price for it. It should be the centre from which machinery, tractors, modern ploughs, drills, threshers and such like implements could be hired out to those whose land was suitable for the use of such machinery. It should also be the centre from which the local cultivator could buy his pure-line seed and the centre for the work of the Agricultural Instructor and the Revenue Officer.
+
+47------------------------------------------------
+
+184
+
+He commended those suggestions to the Board.
+
+Mr. L. B. de Mel seconding the resolutions said that Mr. Gibbon had dealt with the matter elaborately and he did not propose to speak at length. However he wished to confine his remarks to resolution (b). It was brought to their knowledge that the State paid Rs. 100 to the people of a certain area. It looked inequitable that the same facilities should not be extended to those in other areas who did the same work.
+
+Mr. Jansz : "It is being extended : A start was made in Gampola".
+
+Mr. de Mel : "Rs. 100 is only a very small fraction of what one has to spend on cultivation of paddy on new land".
+
+President : "Under the Emergency Food Production Vote there is plenty of money. It is only a question of extending the present practice".
+
+Mr. Jansz : "Not to capitalists".
+
+Mr. Kannangara said he was pleased to see the members of the European Community taking such great interest in the paddy cultivation. Cultivators in paddy should be assured of an economic price at a juncture like the present. He suggested to the Minister as well as the Director of Agriculture that subvention farms should be started.
+
+Mr. Jansz : "That has been done".
+
+Continuing Mr. Kannangara said that Government should have given wide publicity that it was prepared to pay Rs. 100 for every acre of land brought under cultivation newly. It should not have been made a secret. There were various research officers who had carried out investigations but they had not left a record of their work. Therefore the officers appointed subsequently had to begin over again. He agreed with Mr. Gibbon that they should increase pure-line seed paddy and distribute it at convenient centres.
+
+Mr. Bassett : "Mr. Gibbon mentioned post-war reconstruction. We are not concerning ourselves with what is going to happen after the war—we are going to progress now. The position is now we have two large mills, one at Batticaloa and one at Hambantota, and a smaller one at Anuradhapura. We have erected two hulling plants—one at Anuradhapura and one at Tissu. In 1943 we got two hullers for Hingurakgoda. In 1944 we bought a hulling plant for Trincomalee and another one for Kalawewa and there was again one for Madawachchi. There are 14 more hulling plants which we hope to get next year. It is not very easy to get machinery, particularly engines at the present time. After the war we hope to get one large mill thrice as big as any we have got. The Hambantota mill has been used as a centre for distribution of ploughs and other implements".
+
+Mr. R. K. S. Murray said that the eulogies on the Tea, Rubber and Coconut Research Institutes were doubtless well earned, but the proposer's remarks appeared to cast a reflection on the Department of Agriculture. He would not like members to go away with a feeling that the technical officers of the Department had done very little. It must be remembered that since 1931 the Department had worked mainly for the village agriculturist. The clientelé of the research institutes are mainly literate and educated people who are in a position to read and understand semi-technical literature and had the means to put advice into practice. The Department of Agriculture on the other hand had to do with peasants and it was not easy to persuade such agriculturists to adopt methods we knew to be sound. He had not the slightest hesitation in saying that the technical knowledge of the Department and the evolution of high-yielding material both in paddy and other crops were very far ahead of their practical utilization by the Village Agriculturist.
+
+Gate Mudaliyar Wickramaratne expressed his appreciation of what Mr. Gibbon had said. They all agreed that the paddy cultivators should be encouraged. It would be seen from the minutes of the Board that as far back as 1935 he brought up the question of increased price for paddy in order to induce the cultivators to take up to paddy cultivation. A guaranteed minimum price was essential, and the motion was passed by the Board with one dissenting
+
+48------------------------------------------------
+
+185
+
+vote that of Mr. Wilmot A. Perera who said that the increased price of paddy would lead to increased price of food to the poor man. No action seemed to have been taken. Later the matter was considered at a meeting of the Executive Committee of the Board of Agriculture and a maximum price of Rs. 2 was approved in 1941. This figure was not remunerative and I also disagreed. The fixing of a higher price than Rs. 6 was not safe. What was required was facilities for the cultivation of paddy and assistance by way of expert guidance rather than a higher price. The price, however, must at all times ensure a fair profit to the producer.
+
+Mr. Wilmot A. Perera : " If I may make a suggestion it is with regard to the selection of seed paddy that is being made available to the people. The seed paddy must carry a guarantee of purity ".
+
+Madawala Dissawa : " With regard to the restriction on slaughter of buffaloes, I foresee that there will be a serious shortage within one year unless something is done now to arrest the pace at which slaughter is taking place. There are regulations, no doubt, prohibiting the sale of buffaloes to be taken outside the districts but the dealers adopt various subterfuges to circumvent them, and they are successful. If Mr. Gibbon does not object, I suggest that that part of the motion be amended to prohibit the slaughter of buffaloes altogether ".
+
+Mr. H. W. Amarasuriya thought that if the resolution was put up to the Minister for Agriculture and Lands, they should advocate the principle of fixation of price of paddy at a price which would be economical plus a dearness allowance. It was gratifying to see Mr. Gibbon taking such a great interest in a matter of that kind. He knew that Mr. Gibbon was carrying out certain experiments at Watawala on his own.
+
+Mr. Gibbon : " I fully realise the difficulty of small-holders benefiting by scientific knowledge. It is much the same position with the tea and rubber industries. But my Company and my directors desire that paddy should be made a long-term production. We must get a big business interested in this. We have to go far beyond our day to day requirements. If the work is to be done on a big scale we want scientific information. Then only can we interest big business who are in a position to put into practice improvements and scientific knowledge gained by experts ".
+
+The resolution was accepted.
+
+### JAK FRUIT BORER.
+
+The next item on the Agenda to consider the desirability of proclaiming the Jak fruit borer as a pest under the Plant Protection Ordinance, No. 10 of 1924 (Chapter 307) was taken up.
+
+In introducing the subject Mr. R. K. S. Murray said : " The borer is the caterpillar of a small yellowish moth which lays its eggs on the surface of young and half-grown fruits. These eggs hatch in about a week, and the minute caterpillars slowly eat their way into the fruit, causing the localized destruction of pulp and seed. After 4 or 5 weeks the caterpillar passes into the resting, or pupal stage, and the adult moth emerges about 2 weeks later. The pest is easily detected because secondary break down of the tissues causes a blackening of the site of attack.
+
+The pest occurs throughout the Eastern Tropics, but although it causes a considerable damage it has not received much special attention in other countries on account of the low economic value of the crop. In Ceylon the pest first appeared in our records in 1914, but was comparatively unimportant until 1935. Since that year it has spread to all parts of the Island in which Jak is cultivated.
+
+Investigations on methods of control have established the following facts :—
+
+1. (1) The use of insecticides is impracticable on account of the nature and habit of the pest.
+
+49------------------------------------------------
+
+186
+
+- (2) Light traps are ineffective.
+- (3) There is a natural insect parasite which attacks the eggs and caterpillar but the degree of control is small.
+- (4) Young fruits can be effectively protected against attack by surrounding them with a loose paper or cloth bag. This, however, is obviously only practicable in the case of fruits which are easily accessible.
+- (5) If infected fruits are picked and destroyed the incidence of the pest is reduced owing to the removal of the host material necessary for the completion of the insect's life history. In the case of half-grown fruit which is accessible it is feasible to cut out the affected portion. The pest is thus destroyed without interfering seriously with the development of the fruit.
+
+The measure recommended, therefore, are to destroy all spoilt fruits, or parts of fruits, and, in certain instances, to bag young fruits so as to protect them against attack. In 1939 an attempt was made to reduce the incidence of the pest by encouraging the adoption of these measures during the short season July-October in which there is comparatively little fruit on the trees. This attempt was unsuccessful owing to the difficulty of releasing sufficient field staff from other duties to organize and supervise the campaign. Consideration was given at that time to the advisability of enforcing sanitation measures by proclaiming the pest under the Plant Protection Ordinance, but it was decided for several reasons not to take this course of action. In the first place, the fact that the pest had not caused serious damage prior to 1935 pre-supposed an equilibrium between pest and host due to the interplay of natural factors, and it was always possible that such natural control would be restored. Secondly, the economic value of the crop was low, and thirdly there was the difficulty of sparing special staff to enforce the regulations.
+
+It is now time, however, to review the situation afresh, more particularly because of the great increase in the value of the jak fruit as a subsidiary food, and also because there has been no indication of any substantial fluctuation in the prevalence of the pest. Heavy damage was caused during the pest season, and it is felt that immediate and drastic action is necessary if the pest is not to assume even greater proportions.
+
+The action proposed is to take advantage of the fact that the insect is not known to have any alternative host, and to starve it out of existence by observing a close season for jak fruit from August to November. If all fruits were removed throughout the Island for a period of four months the insect population would be reduced to zero by sheer inability to breed. I should say, in parenthesis, that it is not quite correct to say there is no alternative host because the pest has been recorded on breadfruit. There will be very little breadfruit, however, during these months, and breeding from jak to breadfruit is likely to be negligible.
+
+This is a drastic measure, but is not quite such a tall order as it may at first sight appear to be because this close season would coincide with the off-season in which fruits are anyhow few and far between. Even where a tree has to be stripped of fruit the loss would be partially compensated for by the increased crop in the next season.
+
+The proposal, therefore, is—
+
+- (1) To declare the Jak Fruit-borer as a pest under the Plant Protection Ordinance.
+- (2) To declare the whole Island as an infested area.
+- (3) To prescribe regulations to the effect that no fruit shall be allowed to develop or remain on any tree during the months of July to October (inclusive) unless completely enclosed by means of a bag of paper or other material.
+
+The obstacles to the effective execution of these measures are obvious. It will not be easy to persuade owners of jak trees that it will in the long run be to their advantage to destroy
+
+50------------------------------------------------
+
+187
+
+what is now a valuable article of food. Intensive effort will be necessary to ensure that the prescribed measures are carried out. We do not anticipate being able to get an adequate organization going this year, but it is nevertheless thought desirable that immediate action should be taken so that we may be equipped with information which will be useful to us next year. Effective action in one season should eradicate the pest. If we can get the legislative machinery going this year and ascertain the public reaction to the regulations, we have a reasonable hope of being able to eradicate the pest next year once and for all. The compulsory destruction of a foodstuff is not a measure to be lightly undertaken”.
+
+“This has been placed on the Agenda in order to ascertain the views of this Board. I have discussed the pest, its incidence, life history and methods of control. Formerly it was not a matter of great importance as the economic value of the fruit was relatively small. Now, however, the jak fruit is a valuable subsidiary food”.
+
+Mr. Kannangara said that a time like the present does not warrant such steps as detailed by Mr. Murray being taken, as they would cause considerable hardship to the poor.
+
+Mr. Amarasuriya: “It will be a very unpopular measure specially at this time. It might be made a post-war measure”.
+
+President: “I think the sense of the house is that it is better for the pest to continue than that jak fruit should be destroyed for a certain period”.
+
+The remaining items of the Agenda were deferred for consideration at the next meeting to be held on August 25, 1944.
+
+After a vote of thanks to the Chairman, the meeting terminated at 6 P.M.
+
+Peradeniya, August 9, 1944.
+
+P. GNANAPRAGASAM,  
+Secretary, Central Board of Agriculture.
+
+51------------------------------------------------
+
+188
+
+## RUBBER RESEARCH SCHEME (CEYLON).
+
+### MINUTES OF THE SEVENTY-FIRST MEETING OF THE RUBBER RESEARCH BOARD HELD IN THE CHAMBER OF COMMERCE BUILDING, COLOMBO, AT 2.30 P.M. ON MONDAY, AUGUST 21, 1944.
+
+*Present.*—Mr. L. J. de S. Seneviratne, C.C.S. (in the Chair), Mr. C. E. Jones, C.C.S. (Deputy Financial Secretary), Mr. T. Amarasuriya, M.S.C., Mr. W. H. Attfield, Mr. W. P. H. Dias, J.P., Mr. L. P. Gapp, Mr. W. N. Gunawardena, J.P., Mr. R. J. Hartley, Mr. R. C. Kannangara, M.S.C., Mr. R. C. L. Notley, Mr. F. A. Obeyesekera, Mr. J. L. D. Peiris, Mr. G. R. Whitby, M.S.C.; and Mr. E. W. Whitelaw.
+
+Mr. T. E. H. O'Brien, Director, was present by invitation.
+
+An apology for absence was received from Mr. S. F. H. Perera.
+
+#### 1. MINUTES.—
+
+(a) *Confirmation.*—Draft minutes of the meeting held on June 5, 1944, which had been circulated to members, were confirmed and signed by the Chairman.
+
+(b) *Matters arising from the Minutes*—
+
+1. (1) *Upward tapping.*—Reported that the Rubber Commissioner had informed local rubber producers by means of a press notification that he would accept responsibility for any claims for patent infringement which may arise from the adoption of upward tapping.
+2. (2) *Overseas leave for senior officers.*—Agreed that Mr. M. W. Philpott, Chemist, should pay a short visit to England partly on duty and partly on leave.
+
+#### 2. MEMORANDA ON FUTURE DEVELOPMENT AND APPOINTMENT OF RESEARCH ASSISTANTS (GRADUATES).
+
+These were referred to a Sub-Committee for consideration and report.
+
+#### 3. EXPERIMENTAL COMMITTEE.—
+
+(a) Recommendations made at meeting held on July 8, 1944 :
+
+1. (1) *Salaries of Junior Staff and Peons.*—Revised salaries as recommended by the Committee were approved.
+2. (2) *Bonus to Estate Superintendent.*—The recommendation that, in view of the good yields harvested in 1943, the Superintendent be paid a bonus of one month's salary was approved.
+
+Reported that the prize offered by the Rubber Commissioner for the maximum crop increase from estates 25 to 100 acres in extent during 2nd Quarter, 1944, had been awarded to the Superintendent in respect of Nivitigalakele.
+
+1. (3) *Dispenser.*—Reported the appointment of Mr. A. J. Jayasinghe as Dispenser-Clerk with effect from August 21, 1944.
+2. (4) *Planting Programme for 1945.*—Agreed that there should be no new clearing at Hedigalla except :
+   1. (a) Opening up about six acres of deniya land for paddy cultivation.
+
+52------------------------------------------------
+
+189
+
+(b) Completion of the boundary strip above the present clearings.
+
+It was noted that a small area at the entrance to Dartonfield was being prepared for paddy cultivation.
+
+(5) *Drying house for tapping samples*.—Noted that provision for a drying house for tapping samples would be made in the estimates for 1945. The immediate purchase of a hot water boiler for the purpose was approved.
+
+The minutes were adopted subject to the above comments.
+
+## 5. ACCOUNTS.—
+
+(a) *Auditor's Report for 1943*—was adopted.
+
+(b) *Receipts and Payments Account for the 1st Quarter, 1944*.—was approved.
+
+(c) *Dartonfield, Nivitigalakele and Hedigalla Accounts January to March, 1944*.—were tabled.
+
+(d) *Investments and Fixed Deposits*.—Reported :
+
+(1) Transfer of a fixed deposit of Rs. 20,000 to current account on maturity of the deposit.
+
+(2) Investment of Rs. 60,000 in  $3\frac{1}{4}$  per cent. National Loan 1956.
+
+Agreed that a further Rs. 50,000, which was now available for investment, should be invested in  $2\frac{1}{2}$  per cent. Ceylon Government War Loan 1954.
+
+(e) *Supplementary Votes*.—Supplementary votes amounting to Rs. 19,763 on Revenue Account and Rs. 20,265 on Capital Account were passed.
+
+## 6. STAFF.—
+
+(a) *Director*.—Reported that Mr. T. E. H. O'Brien, Director, had been granted one month's leave from August 26, 1944. Mr. M. W. Philpott, Chemist, would be in charge of the Scheme's work during this period.
+
+(b) *Service Agreements*.—Reported that the new service agreements of Messrs. W. I. Pieris, C. A. de Silva and C. E. Ford would be signed after the meeting.
+
+(c) *Junior Staff*.—Reported the appointment of Mr. T. S. J. Peiris, as Typist-Clerk (Head Office) with effect from July 10, 1944.
+
+## 7. LONDON ADVISORY COMMITTEE.—
+
+(a) *Contribution for 1945*.—Agreed that the contribution for 1945 should be on the same basis as for 1943 and 1944.
+
+(b) *Report for 1943*.—was adopted.
+
+## 8. PUBLICATIONS.—
+
+The following publications were tabled :—
+
+(1) Combined Quarterly Circulars for 1943.
+
+(2) Advisory Circulars No. 21 and 22.
+
+(3) Advisory Circular No. 20 (Revised May, 1944).
+
+(4) Advisory Circular No. 3 (Revised September, 1943).
+
+(5) Handbook on preparation of plantation rubber in Ceylon (Revised 1943).
+
+The meeting terminated with votes of thanks to the Chair and to the Chamber of Commerce.
+
+53------------------------------------------------
+
+190
+
+**MINUTES OF A MEETING OF THE BOARD OF THE TEA RESEARCH INSTITUTE  
+OF CEYLON HELD AT THE BOARD ROOM OF THE CEYLON TEA PROPAGANDA  
+BOARD, PRINCE BUILDING, COLOMBO, ON THURSDAY,  
+AUGUST 24, 1944, AT 2.30 P.M.**
+
+*Present.*—Sir T. B. Panabokke, Adigar (Chairman), The Deputy Financial Secretary (Mr. C. E. Jones, C.C.S.), acting for the Financial Secretary, The Chairman, Planters' Association of Ceylon (Mr. G. K. Newton), The Chairman, C. E. P. A. (Mr. R. Mann), The Director of Agriculture (Mr. L. J. de S. Seneviratne, C.C.S.), Mr. R. G. Coombe, Mr. R. C. Scott, Major J. W. Oldfield, C.M.G., O.B.E., M.C., Mr. J. C. Kelly, Mr. W. H. Gourlay, Mr. W. P. H. Dias, and Dr. R. V. Norris (Director and Secretary), and by invitation, Mr. J. A. Rogers (Superintendent, St. Coombs).
+
+Apologies for absence were received from Mr. H. St. J. Cole-Bowen.
+
+(1) The Notice convening the meeting was read.
+
+On behalf of the Board, Mr. R. G. Coombe warmly congratulated the Chairman on the knighthood recently conferred on him by H. M. the King. Sir Tikiri Panabokke suitably replied.
+
+(2) The Minutes of the Meeting of the Board held on April 28, 1944, were duly confirmed.
+
+**(3) MEMBERSHIP OF THE BOARD AND COMMITTEES.**
+
+*Board.*—The following changes in the personnel of the Board were reported :—
+
+- (a) Mr. G. K. Newton on assuming the Chair of the P. A. of Ceylon on May 1, 1944, became an *ex-officio* member instead of a nominated member, relieving Mr. N. H. W. Dulling.
+- (b) Mr. R. C. Scott had been nominated by the P. A. of Ceylon to fill the vacancy thus created, with effect from July 21, 1944.
+- (c) Mr. D. F. Ewen on assuming the Chair of the C. E. P. A. on August 23, 1944, became an *ex-officio* member of the Board from that date, *vice* Mr. R. Mann vacated.
+
+The Chairman congratulated Mr. Newton and Mr. Ewen on their election to their respective offices and wished them all success. He also welcomed Mr. R. C. Scott on his re-election to the Board and asked the Board to record their thanks to Mr. Dulling and Mr. Mann for their valuable services.
+
+*Finance Sub-Committee.*—Reported that Mr. Newton and Mr. Ewen had also become *ex-officio* members of the Finance Committee *vice* Messrs. Dulling and Mann with effect from the dates given above.
+
+**(4) FINANCE.**
+
+(a) *Tea Research Institute Accounts for 1943 and the Auditor's Reports thereon.*
+
+The Chairman said the accounts for 1943 had previously been issued and noted by the Board at its previous meeting. The Auditors' reports on the T. R. I. Accounts, Junior Staff Provident Fund and Junior Staff Medical Fund had been received subsequently and, as usual, put before the Finance Sub-Committee for comment. The reports were of a very satisfactory nature.
+
+54------------------------------------------------
+
+191
+
+Mr. Kelly said the reports were, as always, excellent. No special comment seemed called for and he proposed the accounts for 1943 and the auditors reports thereon be accepted and a vote of appreciation of the Director's work in this connection be recorded. This was seconded by Mr. R. G. Coombe and carried unanimously.
+
+(b) *Tea Research Institute Accounts to July 31, 1944.*
+
+(i.) These had been issued to members. The Chairman said, owing to recent high receipts for tea sales and the cess, there was now a sum of Rs. 177,000 on Current Account. Rs. 75,000 of this would be utilized for payments on Loan Account in September leaving a balance of Rs. 100,000. This was more than was required in cash and the Finance Committee suggested that Rs. 50,000 might be invested.
+
+After discussion the Board decided that Rs. 50,000 should be invested in the Ceylon Government 2½ per cent. Loan repayable in 1954.
+
+(ii.) The Director reported that in accordance with the decision taken at the meeting he had written to the Ceylon Association in London asking them to invest on behalf of the Institute the sum of £6,750, which had been deposited with that Association in 1942 for security purposes. Information had now been received that the sum had been invested in British Government 2½ per cent. National War Bonds 1952-54 which had been bought at par.
+
+(5) **ST. COOMBS ESTATE.**
+
+(a) Comments were invited on the Visiting Agent's report dated June 21, 1944. With reference to the suggestions for the purchase of a leaf lorry the Director was instructed to make inquiries through the Director of Transport.
+
+Mr. Newton asked for details in regard to labour output in regard to pruning, weeding and plucking. In reply Mr. Rogers said as regards pruning the kanac was reduced owing to the longer pruning cycle and heavier work. Plucking output had improved owing to the much heavier crops and also by the fact that two of the older fields had been temporarily out of plucking. He agreed with Mr. Newton that reduction in the pruning cycles would ease matters.
+
+As regards weeds, Mr. Rogers said the difficulty was partly due to favourable weather for growth as there had been no dry weather in 1944, but also to the increase of grasses and weeds which established themselves under the cover crops.
+
+With reference to supplying Mr. Scott called attention to the excellent results he had obtained with the Hershall Transplanter which he strongly recommended. The Director said he would bring Mr. Scott's comments to the notice of the Experimental Sub-Committee.
+
+Mr. Coombe asked if it were proposed to set aside as a special reserve the sum recently unexpended on manure with a view to heavier expenditure under this vote when manures were again freely available. After discussion it was decided that while the establishment of such a reserve might be desirable on a commercial estate it hardly applied to the Tea Research Institute.
+
+(b) *St. Coombs Factory.*
+
+(i.) *Fire Protection.*—The Director reported the steps taken in regard to fire protection and these were approved.
+
+The Board considered the recommendation of the Estate and Experimental Sub-Committee and the Finance Sub-Committee that an automatic sprinkler installation should be installed in St. Coombs.
+
+After discussion, in which it was noted that prices of such equipment were now at a maximum figure, it was unanimously decided that it was desirable the Institute should give a lead in a matter of this kind, and that a sprinkler installation should be installed at the earliest possible date.
+
+55------------------------------------------------
+
+192
+
+The Director said the revised estimate for the work amounted to approximately Rs. 45,000. Insurance premia would be reduced by approximately 50 per cent.
+
+Mr. R. G. Coombe suggested that an estimate should also be obtained for a similar installation for the laboratories and the Director was instructed to make necessary inquiries.
+
+(ii.) *Insurances.*—Reported that cover on the factory building and machinery had been increased to 225 per cent. and 115 per cent. respectively above pre-war cost. Cover on stocks, packing materials and foodstuffs, had also been increased to the higher balance of these materials now in store. An extra vote of Rs. 400 was sanctioned to cover the increased cost.
+
+(iii.) *Additional Votes.*—After explanation by the Director, the following additional votes were sanctioned on the recommendation of the Finance Committee :—
+
+- (a) Rs. 2,300 to cover increased cost of repair to Empire Drier.
+- (b) Rs. 1,100 for new electric motor and starter for oil fuel installation.
+- (c) Rs. 340 for repairs to engine not estimated for.
+- (d) Rs. 6,000 for the installation of direct-fired heater.
+
+In connection with the last vote Mr. Scott referred to the excellent results obtained with a similar heater at Ottery Factory. He pointed out that replacement costs were negligible owing to the lack of tubes or metal parts, and while the actual cost of drying was, perhaps, not so much reduced as he had expected, there was a considerable saving on the cost of heating up for which only about twelve minutes was required.
+
+The Director said the installation would permit of a direct comparison being made, using the same drier, between the direct-fired heater and a stove of the conventional type.
+
+(c) *Patna Opening for Food Production Experiment.*
+
+The Director reported that the area proposed to be used was a block of between 4 and 5 acres adjacent to the caddai. A considerable part of this had already been put down under guatuumala grass and had a good cover of this, the balance was under heavy maana grass. The first step would be to clear and fork the area, the guatuumala grass being incorporated in the soil. A portion of this area would then be replanted with guatuumala grass for the use partly as green manure, but also as a food supply for pigs, and the remaining area under sweet potatoes. At this stage pigs would come into the scheme.
+
+It was suggested a live head of guatuumala grass should be planted owing to the risk of theft if wire were employed.
+
+It was hoped to do the work by contract and cost of forking and cultivation was estimated at above Rs. 100 per acre and about Rs. 700 would be required for two line rooms (mud and stone walls, sapu doors and windows, blue roof and maana grass thatch). It was suggested a lump sum vote of Rs. 2,000 should be sanctioned; details of expenditure would be submitted to the Estate and Experimental Sub-Committee which had approved the scheme as outlined.
+
+Major Oldfield suggested that a 6 volt wire fence might be considered.
+
+Mr. Dias stressed that the booking of pigs should be done in ample time.
+
+The Board approved the proposals and sanctioned a vote of Rs. 2,000.
+
+(6) **JUNIOR STAFF.**
+
+The following salary increments were approved :—
+
+Rs. 20 per mensem to Mr. H. B. Sreerangachar, as from July 1, 1944.
+
+Rs. 20 per mensem to Mr. F. D. Tillekeratne, as from September 15, 1944.
+
+Rs. 20 per mensem to Mr. M. B. Boange, as from July 15, 1944.
+
+The Board agreed that Dearness Allowance to the Junior and Subordinate staff should be paid according to the revised Government rates as from June 1, 1944.
+
+56------------------------------------------------
+
+193**(7) RESEARCH ON THE CHEMISTRY OF TEA.**
+
+The Director reported that in accordance with the decision of the Board at its last meeting, he had written to the Ceylon Association in London suggesting that, in view of the suspension of Dr. Bradfield's work in London, this officer should be temporarily deputed to Ceylon to work on the chemistry of green leaf. A reply had been received that the Advisory Committee did not consider the proposal feasible at present.
+
+**(8) ST. COOMBS GUEST-HOUSE.**
+
+The Board approved of the action of the Chairman and Director in placing the Guest-house at the disposal, without fee, of the Royal Naval Air Force for use as a leave centre for the men from the R. N. Air Force camp at Puttalam.
+
+The Director said the Navy were using the building only and not the equipment. They had agreed to make good any damage and also to vacate the building at a week's notice if required by the Board.
+
+**(9) ANY OTHER BUSINESS.**
+
+In reply to Mr. R. C. Scott, who asked if the Institute proposed to take up work on the cone-type roller tables, the Director said work on this subject was already in hand and would be actively pursued.
+
+ROLAND V. NORRIS,  
+Secretary.
+
+57------------------------------------------------
+
+194
+
+## DRAFT MINUTES OF THE THIRD MEETING OF THE PADDY ADVISORY BOARD
+
+THE THIRD MEETING OF THE PADDY ADVISORY BOARD WAS HELD AT COLOMBO  
+IN THE COMMITTEE ROOM OF THE CHAMBER OF COMMERCE BUILDING AT  
+2.15 P.M. ON WEDNESDAY, JUNE 28, 1944. THE MEETING WAS  
+CONTINUED ON THURSDAY.
+
+THE Chairman Mr. G. V. Wickramasekera, Paddy Officer, presided and the following members were present :—Messrs. U. B. Alawwa, R. H. de Mel, A. M. Clement Dias, Rev. Fr. L. W. Wickremesinghe and Mr. J. S. T. de Silva, Secretary.
+
+The following members intimated their inability to attend the meeting :—Messrs. P. B. Bandaranayake, P. B. Bulankulama Dissawa and Gate Mudaliyar M. S. Kariapper. The Director of Agriculture too intimated his inability to be present, as requested by the Board at the last meeting owing to indisposition.
+
+### CONFIRMATION OF THE MINUTES.
+
+Mr. Dias proposed the addition of the following words in the Minutes of the Second Meeting of the Board held on March 29, 1944, copies of which had been sent to all members :—  
+(1) In line 12 of the last para on page 3 after the word “ does ” add “ and gave 35 fold ”.  
+(2) In the last line of para 7 on page 4 between the words “ Board ” and “ and ” insert “ for which he had agitated ”. Mr. Alawwa seconded and the Minutes were confirmed.
+
+### ACTION TAKEN ON THE DECISIONS OF THE PREVIOUS MEETING.
+
+The Chairman read a statement of action taken on the motions proposed at the Second Meeting.
+
+The following is a summary of the statement.
+
+*Premium for Pure-lines.*—Mr. Clement Dias' resolution to pay a small premium for all pure-line varieties tendered to Government Rice Mills as an encouragement to the growing of pure-line paddy was forwarded to the Director of Agriculture for consideration.
+
+*Advertising issue of Manure.*—Mr. Clement Dias' resolution inviting the attention of Government to the necessity of advertising the issue of manure to cultivators by the A. G. AA (E) was forwarded by the Director of Agriculture to the Land Commissioner for any action he may think necessary, as the free issue of manure is now dealt with by him.
+
+*Organization of small demonstration Farms.*—Mr. R. H. de Mel's two resolutions recommending the organization of small demonstration farms and temporarily utilizing the services of Irrigation Headmen (Vel Vidanes, &c.) to demonstrate improved methods was circulated to all members and they indicated their unanimous approval. The resolutions were therefore forwarded to the Director of Agriculture who notified that he had no objection to sending up the resolutions to Government. He very kindly accepted the invitation of the Board to be present at this meeting.
+
+Mr. De Mel formally moved that (a) in view of the desirability of rapidly extending the improved cultural methods developed on the Experimental Stations to the Small-Holdings which constitute so large a proportion of the area under paddy, this Board recommends the organization of small demonstration farms in the vicinity of Experimental Stations, which
+
+58------------------------------------------------
+
+195
+
+should approximate in size to the ideal Small-Holding and be run by one paid labourer and his family on lines considered most suitable for the locality. (b) that pending the development of a permanent organization Government should utilize the services of Irrigation Headmen (Vel Vidanes, &c.) to demonstrate improved methods by requiring them to cultivate small plots on approved lines.
+
+His explanatory note on the resolutions which was circulated is as follows:—"The object—the Board has in mind is the extension of the improved methods of cultivation developed on the Experimental Stations to the fields of the private farmer. The advantages of such extension are obvious, but it is undeniable that improved methods are very slowly, if at all, adopted generally. The Board feels that the small cultivator is doubtful whether the Government methods are profitable and whether they can be adopted by the small man. Therefore, it advocates the setting up of "demonstration farms" which should closely resemble the typical small-holding. It is essential to let him see the Government methods applied by a man of his own type, on a farm of the same size as his own, using implements within his power to purchase, without any advantages imagined or real which might be available to a Government Station but not to a small farmer.
+
+These "demonstration farms which should be part of the Paddy Division, would serve a further valuable purpose in assisting the Paddy Officer to develop new methods particularly adopted to the needs of the Small-Holder. Again, Government would obtain essential data on the economics of Small-Holdings which are vitally necessary if a fair price for paddy is to be guaranteed to the grower."
+
+Rev. Fr. Wickremesinghe formally seconded the resolution which was accepted by the Board.
+
+The Chairman stated that the resolutions and explanatory note had already been submitted for favour of action by the Director of Agriculture.
+
+*Stem-borer of Paddy.*—The opinion of the Board that the stem-borer of paddy be declared a pest under the Plant Protection Ordinance, No. 10 of 1924, was forwarded to the Director of Agriculture who has requested that a resolution to this effect be brought up for discussion at the next meeting of the Central Board of Agriculture by a representative of the Paddy Advisory Board who is also a member of the Central Board of Agriculture.
+
+The Chairman stated that he had so informed Mr. De Mel who kindly accepted to move the following resolution at the Central Board of Agriculture:—
+
+"That in view of the marked reduction in yields of paddy in certain districts of the Island, owing to the prevalence of the Paddy Stem-borer, *Schoenobius bipunctifer* Wlk., this Board recommends that it be declared a pest under the Plant Protection Ordinance, No. 10 of 1924."
+
+Rev. Fr. Wickremesinghe who is also a member of both Boards said he would be pleased to second it.
+
+The Board approved.
+
+*Price of a Bushel of Paddy.*—In leading the discussion on "the cost price of a bushel of paddy at present" Mr. Clement Dias mentioned the costs calculated by him on a basis of Re. 1.50 for men, Re. 1 for boys and 75 cents for women in his fields at several localities. He said that mass meetings were held in various parts of the country and deputation were led to have the price of paddy raised. He invited the comments of the Paddy Officer.
+
+The Chairman said that in his capacity as Paddy Officer he had submitted a memorandum to the Director of Agriculture on Post-war reconstruction. In it he had mentioned that the present scheme for encouraging increased paddy production actually offers no inducement to a cultivator to produce to his full capacity. At present he exerts himself and produces sufficient to cover his ration, anything more than that is produced if he could conveniently do so and
+
+59------------------------------------------------
+
+196
+
+without having to pay exorbitant wages. The cost of production has risen so considerably because the cultivators are compelled to engage labour at high wages as the latter have to purchase their essential requirements in the black market. The solution is to make the essential requirements of the cultivators available at a reasonable price. It is only natural that cultivators now attempt to dispose of a few bushels of paddy at the black market to enable them to pay the higher wages demanded.
+
+In order to encourage maximum production he suggested that the paddy produced be disposed of on the following lines :—
+
+1. (1) Allow for seed purposes thoroughly winnowed seed paddy in accordance with the seed rate prevalent in the respective areas. In areas where one season's seed is not grown in the following season allow an additional measure per bushel to cover driage and shrinkage. As a measure of encouragement no reduction should be made if crops are transplanted.
+2. (2) Requisition 2 bushels per acre as at present at Rs. 6 per bushel.
+3. (3) Allow for ration.
+4. (4) Purchase the balance crop after allowing for the above items on a sliding scale for (a) cultivators (b) owners.
+   1. (a) scale suggested for cultivators : First five bushels at Rs. 6 per bushel. The next 10 bushels at Rs. 7 per bushel and any paddy in excess of this at Rs. 8 per bushel.
+   2. (b) scale suggested for owners : First ten bushels at Rs. 5 per bushel. The next 20 bushel at Rs. 6 per bushel and any paddy excess of this at Rs. 7 per bushel.
+
+To facilitate working of the Internal Purchase Scheme it is suggested that the local Assistance Committees be organised to assist the Headmen in checking reported yields and discouraging black market activities.
+
+Rev. Fr. Wickremesinghe thought the scheme was suitable but that it may allow clubbing of cultivators who would jointly produce excess paddy at the higher rate.
+
+Mr. De Mel said that one of the principal causes of dissatisfaction among paddy growers is the feeling that while Government displays great energy in acquiring the entire production of paddy, excluding barely sufficient quantities for seed and growers' consumption at a fixed price of Rs. 6 per bushel, Government has so far failed to organise any system of distribution by which the needs of the paddy grower are supplied at controlled or reasonable prices. That is the grower is compelled to sell his produce at a fixed price while he is forced to purchase his needs at black market prices. His labourers too have to rely on the black market for their needs, so that they demand higher wages each season, thus forcing up the cost of production, while the Government price remains constant. No wonder the paddy grower feels he is being victimised for the benefit of the urban population, whose rice he helps to supply at a reasonable price, while Government appears more concerned with supplying the needs for both subsidiary foodstuffs and textiles of this urban population than those of the rural paddy grower. It should surprise nobody if the production of paddy declines and declines sharply in the near future, if Government continues the present policy of imposing levies on production without offering the grower anything more helpful than slogans, posters and verbal appeals. The only effective method of securing increased yields is to convince the grower that Government is willing and anxious to give him a square deal in return.
+
+The admirable methods of the Soviet Government deserve study and emulation. Even on Collective Farms the surplus produce of the peasants gardens may be sold in the open market, but where a peasant chooses to sell his produce to Government at fixed prices, he could then buy manufactured goods at low fixed prices. (*Vide* "Mother Russia" by Maurice Hindus pps. 198-9). If only the Ceylon Government would adopt this method, paddy production
+
+60------------------------------------------------
+
+197
+
+would increase and costs would be stabilized. He, therefore, moved the following resolution in which was embodied these suggestions :—
+
+“ That in return for the surrender of paddy at a fixed price, Government should make available to the paddy growers, both cultivators and labourers, at fixed prices, sufficient quantities of their requirements of textiles, subsidiary foodstuffs, kerosene oil, and other essentials ; on a graduated scale proportional to the production per acre and the percentage of this surrendered ”.
+
+Rev. Fr. Wickremesinghe seconded the resolution which was unanimously passed.
+
+*Preparation of Paddy Land.*—In leading the discussion on “ what is the best way to prepare land to sow-paddy ”, Mr. Clement Dias mentioned that he always adopted the practise of ploughing and cross-ploughing, harrowing and cross-harrowing, and levelling before manuring with compost and bone meal before sowing.
+
+Mr. De Mel said that in his opinion thorough mudding increases the yield as a result of the weeds being killed. If it could not be through the limiting factor was the expense. His cultivation which was done by tractor discing and harrowing with the Burmese Harrow cost about Rs. 10 per acre in Ambalantota.
+
+The Chairman said that the cultivation systems were peculiar to the localities and varied with conditions obtaining in each area. Initial differences in first ploughing were not so important but thorough mudding and levelling were essential.
+
+*Two Season Cultivation and the Maximum Quantity allowed to a Cultivator.*—In leading the discussion on “ Is it possible to cultivate all the paddy lands in Ceylon two seasons a year and will it pay ? If 100 bushels of paddy is the maximum quantity allowed to a cultivator for two seasons a year, will the cultivator of one season neglect their fields if 50 bushels are allowed as maximum quantity to them for a year ? ” Mr. Clement Dias mentioned that owing to difficulties of floods, climatic and other conditions in certain areas it was not possible to cultivate both seasons. In the single crop areas better yields were obtained. In the Anuradhapura District three cultivations were done but the yields were very low. Should therefore only 50 bushels be allowed to those who cultivated one season in the year even though they produced as much or more than those who cultivated twice during the year ?
+
+The Chairman said there were two distinct areas, the wet and dry zones. In the latter, 4 months and 3 months crops were grown and therefore two crops were possible. In the wet zone generally a 6-month was grown which yielded almost as much as two crops in the dry zone.
+
+Mr. De Mel said that Government has been short-sighted in its recent regulation under the Internal Purchases Scheme as a result of which growers who cultivate their fields only once in the year are restricted to a maximum allowance of 50 bushels. This ignores the fact that no cultivator is likely to leave his fields uncultivated for one season if he can cultivate it for both seasons, and that where only one season is worked, the yield is much the same as that from two sowings. This suspicion of unfair treatment will certainly not induce a grower to cultivate his fields to the greatest advantage of the Internal Purchase Scheme. Another danger is the possibility of a grower who should only cultivate one season undertaking two cultivations in order to secure a higher ration for himself, thereby actually reducing the nett yield of his field and wasting labour which might well have been utilised in growing an alternative crop. He therefore proposed the following resolution in which these facts were represented briefly :—
+
+“ That where it is customary for fields to be cultivated with a long-termed crop only once a year, the growers should be allowed to retain sufficient paddy for their consumption for twelve months, provided this quantity does not exceed 100 bushels ”.
+
+61------------------------------------------------
+
+198
+
+Rev. Fr. Wickremesinghe in seconding the resolution which was unanimously passed said that outsiders came into the Hambantota area for work in the paddy fields to obtain their requirements of rice. The recent request of the Jaffna paddy cultivators was reasonable and they should be supported in their request for the full year's requirements.
+
+The discussion was adjourned at 4.45 P.M.
+
+The meeting was resumed at 10.30 A.M. on the 29th instant.
+
+*Booklet on Paddy Cultivation in Ceylon.*—In leading the discussion that "It will be an inducement if the Paddy Officer's Division writes a booklet about paddy cultivation in Ceylon". Mr. Clement Dias said that there were various methods of preparing the fields, germinating the seed, &c. The system in a certain area may not be just applicable to another but it may be possible to adopt it with certain modifications to enable an increase in yield. It was therefore necessary that in the first instance these various practices be described. The results of trials conducted by the Paddy Officer at the various Departmental Stations would indicate how best to modify the local systems. It was such a booklet he was thinking of which if placed in the hands of the educated would reach the village cultivator through such modifications being adopted by the former in their fields. The villager would then see for himself and slowly but steadily adopt these improved systems.
+
+The Chairman said that it was his ambition to write a book stating what is being done and what should be done. It would take time to procure data on the latter. He was of opinion that it is not advisable to suggest drastic changes but should endeavour to improve existing practices after trial. For instance his trials at Balangoda to ascertain whether it was possible to reduce the local seed rate from 6 bushels per acre to the normal seed rate of 2 or 3 bushels in that area had indicated that even by the adoption of improved methods of cultivation the seed rate could not be reduced with the local variety but, by the introduction of a suitable pure-line the seed rate could be reduced to about  $2\frac{1}{2}$  bushels per acre.
+
+A large number of so-called varieties of paddy exists in Ceylon but the same variety may be known by different names and the same name be used for different varieties: Which is the greater multiple of the product is not known until a classification of the varieties was undertaken. It would be seen that things are not in a stage where definite recommendations could be made for general adoption.
+
+Mr. De Mel said that a book should be written with adequate data. He suggested the modification of the existing leaflets on paddy into book form based on the practices at Departmental Stations and the conclusions drawn from the experiments conducted thereon.
+
+Rev. Fr. Wickremesinghe agreeing with Mr. De Mel said that owing to paper shortage a start may be made by compiling notes on the experience gained, on the work done at Departmental Stations and these be abridged in the light of further facts. He requested that copies of these notes be made available to them before printing.
+
+The Chairman said that he would be pleased to do so.
+
+*Wet Paddy at Ambalantota.*—Rev. Fr. Wickremesinghe said that thoughtless action on the part of officers administering the Internal Purchase Scheme often causes severe and completely unnecessary loss to the grower. Where wet weather prevails during harvest time, the paddy is affected in such a manner that it shatters badly if milled raw. However, if this paddy is milled after par-boiling, no shattering occurs and the out-turn of rice is quite normal, that is approximately 50 per cent. In the Ambalantota area the weather during the harvesting of the 1943-44 *maha* crop was very wet and consequently paddy arriving at the Government Mill is being condemned and a Board of Assessors has been invited by the authorities to assess the reductions in the price to be paid, on the footing that the out-turn of rice will be low when milled raw. This displays gross lack of imagination on the part of the authorities, imposes an unnecessary loss on the grower and wastes our paddy resources by unnecessarily reducing
+
+62------------------------------------------------
+
+199
+
+out-turn which could be maintained at the usual level by par-boiling before milling. He, therefore, thought the Board might permit him to move the following resolution :—
+
+“ That in order to avoid waste of paddy and to prevent considerable injustice and pecuniary loss to paddy growers, Government should forthwith instruct the Internal Purchase Scheme Authorities at Hambantota to par-boil all paddy that has been harvested in a wet condition prior to milling at the Ambalantota Rice Mill, so as to secure a normal out-turn of rice and so permit of payment in full at Rs. 6 per bushel to growers. That similar instructions be issued to all Government Rice Mills ”.
+
+Mr. Alawwa seconded the resolution which was unanimously passed.
+
+#### **NEXT MEETING.**
+
+The members were of opinion that they should visit the Paranthan Paddy Station and get an idea of the work done on Departmental Stations.
+
+The Chairman mentioned that he had applied for leave to proceed to India and the next crop would be sown in October.
+
+It was decided that the next meeting be held at Paranthan in December after the return of the Chairman from India.
+
+The other items in the Agenda were postponed for the next meeting as the proposers were not present.
+
+#### **VOTE OF THANKS.**
+
+A vote of thanks moved by Rev. Fr. Wickremesinghe to the Secretary, Ceylon Chamber of Commerce for permitting the use of the Committee Room was unanimously carried.
+
+The meeting terminated at 12.30 P.M.
+
+Paddy Office,  
+Peradeniya, July 12, 1944.
+
+J. S. T. DE SILVA,  
+Secretary, Paddy Advisory Board.
+
+63------------------------------------------------
+
+200
+
+## COCONUT RESEARCH SCHEME—BOARD OF MANAGEMENT
+
+### MINUTES OF THE SIXTY-EIGHTH MEETING OF THE BOARD OF MANAGEMENT, COCONUT RESEARCH SCHEME, HELD IN ROOM No. 202, NEW SECRETARIAT, COLOMBO, ON FRIDAY, JULY 28, 1944, AT 2.30 P.M.
+
+*Present.*—Mr. L. J. de S. Seneviratne, C.C.S., Acting Director of Agriculture (Chairman), Mr. C. E. Jones, C.C.S., Deputy Financial Secretary, Mr. S. Pararajasingham, J.P., Chairman, Low Country Products Association, Mr. O. B. M. Cheyne, Mr. D. D. Karunaratne, J.P., Mr. W. P. H. Dias, J.P., Mr. G. Panditsekera, J.P., U.M., Mr. C. A. M. de Silva, Mr. Dudley S. Senanayake, M.S.C., Dr. R. Child, Director of Research, and Mr. S. C. Kahawita, Secretary.
+
+An apology for absence was received from Sir Wilfred de Soysa.
+
+#### 1. MINUTES.
+
+The Minutes of the previous meeting held on April 27, 1944, which had been circulated to the members, were confirmed.
+
+#### 2. STAFF.
+
+(a) The Chairman reported that the Director of Research wished to defer his leave out of the Island for the present. The Board approved.
+
+(b) *Secretary-Accountant.*—The Chairman reported that Mr. S. C. Kahawita, who had been selected for appointment as Secretary-Accountant, had taken up duties on July 1, 1944.
+
+#### 3. FINANCE.
+
+(a) *Draft Memorandum on the Future of the Coconut Research Scheme.*—Part I of the Memorandum had been circulated. It was decided that a special meeting of the Board should be held in Colombo at 9.30 A.M. on Friday, September 1, 1944, to discuss the Memorandum, which it was hoped would be completed by August 20, 1944.
+
+(b) The Auditor-General's Report on the Accounts for 1943 was tabled.
+
+With reference to para. 22 of the Report, the Chairman said that the Statement of Receipts and Payments for the 4th Quarter, 1943, was sent out by the office on January 17, 1944, and all other statements had been completed by the end of January. His predecessor (Mr. E. Rodrigo) had in fact written on February 4 to congratulate the Director of Research and Staff on the early completion of the accounts. The Auditor-General's minute was a perverse criticism on a technicality in that the original Statement of Receipts was not in the form ultimately published.
+
+The Board accepted that there had been no undue delay on the part of the office staff.
+
+#### 4. ESTATES.
+
+(a) *Progress Reports* of Bandirippuwa and Ratmalagara estates for the 1st and 2nd quarters were approved.
+
+(b) *Visiting Agent's Reports* on Bandirippuwa and Ratmalagara estates were approved.
+
+(c) *Visit of Board Members to Ratmalagara and Bandirippuwa Estates.*—It was decided that the members of the Board should pay an informal visit to the Scheme's stations on August 12, 1944, it being agreed to meet at Ratmalagara estate, Madampe, at 9 A.M.
+
+64------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_016:41 -->
+
+201
+
+The Director of Research suggested that it would be of interest if a visit to the Government Acetic Acid Factory, Madampe, could be arranged at the same time. It was agreed that the permission of the Director of Commerce and Industries should be sought for such a visit.
+
+##### 5. OTHER BUSINESS.
+
+*Correspondence.*—Correspondence between the A.G.A., Mannar, and the Coconut Research Scheme with regard to the opening of an experimental station at Mannar was tabled by the Director of Research. It was resolved that the A.G.A., Mannar, be informed that plans for the Scheme's development were under consideration and that meanwhile the Board could add nothing to their previous reply.
+
+The meeting terminated at 5.00 P.M.
+
+
+65------------------------------------------------
+
+202
+
+## COCONUT RESEARCH SCHEME—BOARD OF MANAGEMENT
+
+### MINUTES OF THE SIXTY-NINTH MEETING OF THE BOARD OF MANAGEMENT, COCONUT RESEARCH SCHEME, HELD ON FRIDAY, SEPTEMBER 1, 1944, IN ROOM No. 202, NEW SECRETARIAT, COLOMBO.
+
+*Present.*—Mr. L. J. de S. Seneviratne, C.C.S., Acting Director of Agriculture (Chairman), Mr. C. E. Jones, C.C.S., Deputy Financial Secretary, Mr. S. Pararajasingham, J.P., Chairman, Low-Country Products Association, Mr. O. B. M. Cheyne, Mr. C. A. M. de Silva, Mr. W. P. H. Dias, J.P., Mr. D. D. Karunaratna, J.P., Mr. G. Pandittesekera, J.P., U.M., Dr. R. Child, Director of Research, Mr. S. C. Kahawita, (Secretary), Mr. W. V. D. Pieris, Geneticist, was present by invitation.
+
+Messrs. Dudley Senanayake, M.S.C., and S. Dharmaratnam, M.S.C., were unable to attend as the State Council was in session.
+
+#### 1. MINUTES.
+
+The minutes of the previous meeting held on July 28, 1944, which had been circulated to the members, were confirmed.
+
+#### 2. VOTE OF CONDOLENCE ON THE DEATH OF THE LATE Mr. S. SAMARAKKODY.
+
+The Chairman moved a vote of condolence on the death of Mr. S. Samarakkody, M.S.C. Mr. Samarakkody had been nominated by H. E. the Governor as one of the representatives of the State Council on the Board of Management, and had served from August, 1936, to February, 1940.
+
+The vote was passed in the usual manner.
+
+It was decided to send a copy of this resolution to the family.
+
+#### 3. VISIT OF BOARD MEMBERS TO ESTATES.
+
+It was noted for record in the minutes that six members of the Board visited Ratmalagara and Bandirippuwa estates and the laboratories of the Coconut Research Scheme on August 12, 1944. They spent the whole day going round estates and inspected various matters of interest. They also visited, through the courtesy of the Director of Commerce and Industries, the Government Acetic Acid Factory, Madampe, where the Coconut Research Scheme is carrying out certain experiments in co-operation with the staff of the factory. The Board wished that the Director of Commerce and Industries be thanked for the co-operation and the help given by his staff for these experiments and also for the permission granted to the Board to visit the Factory.
+
+4. The Chairman mentioned that since the last meeting of the Board, Dr. R. Child, Director of Research, had been elected President of the Chemical Society of Ceylon and remarked that the Board appreciated the recognition given to Dr. Child.
+
+5. Draft Memorandum on the Future of the Coconut Research Scheme was taken up for consideration.
+
+The meeting terminated at 12.30 P.M.
+
+66------------------------------------------------
+
+203
+
+## COCONUT RESEARCH SCHEME—BOARD OF MANAGEMENT
+
+### MINUTES OF THE ADJOURNED SIXTY-NINTH MEETING OF THE BOARD OF MANAGEMENT, COCONUT RESEARCH SCHEME, HELD ON MONDAY, SEPTEMBER 18, 1944, IN THE ROOM OF THE DEPUTY FINANCIAL SECRETARY, NEW SECRETARIAT, COLOMBO.
+
+*Present.*—Mr. L. J. de S. Seneviratne, C.C.S., Acting Director of Agriculture (Chairman), Mr. S. Pararajasingham, J.P., Mr. G. Pandittesekera, J.P., U.M., Mr. O. B. M. Cheyne. Mr. C. A. M. de Silva, Mr. W. P. H. Dias, J.P., Mr. D. D. Karunaratne, J.P., Dr. R. Child, Director of Research, Mr. S. C. Kahawita (Secretary), Mr. W. V. D. Pieris, Geneticist, and Dr. M. L. M. Salgado, Soil Chemist, were present by invitation.
+
+Apologies for absence were received from Sir Wilfred de Soysa, Mr. Dudley Senanayake, M.S.C., and Mr. C. E. Jones, C.C.S.
+
+#### 1. MINUTES.
+
+The minutes of the proceedings up to the time of adjournment of the meeting on September 1, 1944, which had been circulated to members, were confirmed.
+
+#### 2. STAFF.
+
+(a) *Technical Assistant to the Technological Chemist.*—The Board accepted the recommendation of the Chairman to promote Mr. W. R. N. Nathanael, B.Sc., London, to the post of Research Assistant from January 1, 1945.
+
+#### 3. DRAFT MEMORANDUM ON THE FUTURE OF THE COCONUT RESEARCH SCHEME.
+
+The Board concluded the discussion on the Draft Memorandum.
+
+The meeting concluded at 12.20 P.M.
+
+67------------------------------------------------
+
+204
+
+## REVIEW
+
+---
+
+### TEA UNDER INTERNATIONAL REGULATION—V. D. WICKIZER, FOOD RESEARCH INSTITUTE, STANFORD UNIVERSITY, CALIFORNIA.
+
+---
+
+**T**EA is often quoted as the commodity which has been most successfully subjected to international control. The success of the 1933 International Tea Exports Regulation Scheme, however, was not achieved without growing pains. Earlier schemes of voluntary restriction were operated in 1920-21 and again in 1930 in order to meet the maladjustment between supply and demand. Neither of these short-lived schemes was altogether successful, but they paved the way to the more permanent control exercised from 1933 onwards.
+
+This book presents an impartial analysis of the tea industry under the present and former regulation schemes. It is written from the view point of the economist, and seeks to explore the idea that postwar commodity problems can be effectively dealt with by international co-operation. Starting with very readable introductory chapters on the characteristics of the industry, the practices in cultivating, manufacturing and blending tea, and the factors affecting its consumption, the author leads us through the history of the various developments before, during and after control; discusses the significance of the results achieved; appraises the Regulation Scheme with reference to the benefits to the various classes of producers; and finally discusses the potentialities and prospects for the continuance of control in the post-war period. He emphasises the point that the tea industry is unusually well adapted to international control owing to the concentration of financial interests in two advanced countries—Britain and Holland—and to the predominant position of London in the market, and concludes that “whatever the problems of adjustment that lie ahead in the post war transition period and later, the tea industry, under the Agreement, appears to be better situated to deal with them than are producers of most other agricultural crops of international importance.”
+
+The author supports his statements and arguments with an abundance of statistical material: indeed the tables and graphs alone would make this a useful reference book. As a factual background to the tea industry during the last two decades, it may be commended to all those interested in this industry in particular and to the study of commodity economics in general.
+
+68------------------------------------------------
+
+205
+
+ANIMAL DISEASE RETURN FOR THE MONTH ENDED  
+SEPTEMBER 30, 1944
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to date since Jan. 1, 1944</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Balance ill</th>
+<th>No. shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Western Province</td>
+<td>Rinderpest</td>
+<td>395</td>
+<td>31</td>
+<td>292</td>
+<td>86</td>
+<td>1</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>1</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Blackwater</td>
+<td>4</td>
+<td>—</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Municipal Council</td>
+<td>Rinderpest</td>
+<td>247</td>
+<td>5</td>
+<td>169</td>
+<td>73</td>
+<td>5</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>29</td>
+<td>4</td>
+<td>29</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Municipal Quarantine Station</td>
+<td>Rinderpest</td>
+<td>269</td>
+<td>195</td>
+<td>269</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>142</td>
+<td>50</td>
+<td>142</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="5">Southern Province</td>
+<td>Foot-and-mouth</td>
+<td>638</td>
+<td>—</td>
+<td>11</td>
+<td>627</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>7</td>
+<td>—</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>23</td>
+<td>6</td>
+<td>23</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Surra</td>
+<td>3</td>
+<td>—</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mange</td>
+<td>26</td>
+<td>—</td>
+<td>6</td>
+<td>50</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Northern Province</td>
+<td>Rinderpest</td>
+<td>798</td>
+<td>104</td>
+<td>462</td>
+<td>100</td>
+<td>—</td>
+<td>230</td>
+</tr>
+<tr>
+<td rowspan="2">Kayts Quarantine Station</td>
+<td>Rinderpest</td>
+<td>8</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+<td>—</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pleuropneumonia of goats</td>
+<td>12</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Eastern Province</td>
+<td>Rinderpest</td>
+<td>283</td>
+<td>—</td>
+<td>149</td>
+<td>53</td>
+<td>—</td>
+<td>78</td>
+</tr>
+<tr>
+<td rowspan="3">North-Western Province</td>
+<td>Rinderpest</td>
+<td>550</td>
+<td>154</td>
+<td>324</td>
+<td>181</td>
+<td>42</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>13</td>
+<td>8</td>
+<td>13</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="3">Central Province</td>
+<td>Rinderpest</td>
+<td>99</td>
+<td>4</td>
+<td>84</td>
+<td>15</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth</td>
+<td>110</td>
+<td>—</td>
+<td>3</td>
+<td>107</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>22</td>
+<td>13</td>
+<td>1</td>
+<td>20</td>
+<td>—</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="2">Sabaragamuwa</td>
+<td>Foot-and-mouth</td>
+<td>16</td>
+<td>—</td>
+<td>—</td>
+<td>16</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>3</td>
+<td>—</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Uva</td>
+<td>Rinderpest</td>
+<td>105</td>
+<td>—</td>
+<td>149</td>
+<td>36</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>North-Central Province</td>
+<td>Rinderpest</td>
+<td>1164</td>
+<td>—</td>
+<td>963</td>
+<td>73</td>
+<td>—</td>
+<td>126</td>
+</tr>
+</tbody>
+</table>
+
+T. M. Z. MAHAMOOTH.  
+Deputy Director (Animal Husbandry),  
+and Government Veterinary Surgeon.
+
+Peradeniya, December 12, 1944.
+
+69------------------------------------------------
+
+206METEOROLOGICAL REPORT, JULY, 1944.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta ..</td>
+<td>85.7</td>
+<td>+0.8</td>
+<td>73.1</td>
+<td>-0.7</td>
+<td>86</td>
+<td>95</td>
+<td>7.9</td>
+<td>8.01</td>
+<td>21</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura ..</td>
+<td>91.4</td>
+<td>+0.7</td>
+<td>76.2</td>
+<td>+0.3</td>
+<td>66</td>
+<td>86</td>
+<td>7.5</td>
+<td>0</td>
+<td>0</td>
+<td>— 1.32</td>
+</tr>
+<tr>
+<td>Badulla ..</td>
+<td>87.3</td>
+<td>+1.1</td>
+<td>64.5</td>
+<td>+0.5</td>
+<td>69</td>
+<td>94</td>
+<td>5.4</td>
+<td>1.22</td>
+<td>8</td>
+<td>— 0.95</td>
+</tr>
+<tr>
+<td>Batticaloa ..</td>
+<td>91.1</td>
+<td>-1.4</td>
+<td>77.4</td>
+<td>+0.4</td>
+<td>68</td>
+<td>80</td>
+<td>6.3</td>
+<td>1.40</td>
+<td>1</td>
+<td>+ 0.36</td>
+</tr>
+<tr>
+<td>Colombo ..</td>
+<td>85.4</td>
+<td>+0.8</td>
+<td>77.1</td>
+<td>+0.1</td>
+<td>80</td>
+<td>86</td>
+<td>7.8</td>
+<td>3.29</td>
+<td>15</td>
+<td>— 2.20</td>
+</tr>
+<tr>
+<td>Diyatalawa ..</td>
+<td>78.3</td>
+<td>+0.1</td>
+<td>62.8</td>
+<td>+0.3</td>
+<td>62</td>
+<td>76</td>
+<td>7.0</td>
+<td>2.49</td>
+<td>7</td>
+<td>+ 0.53</td>
+</tr>
+<tr>
+<td>Galle ..</td>
+<td>82.8</td>
+<td>+0.2</td>
+<td>77.4</td>
+<td>+0.7</td>
+<td>86</td>
+<td>86</td>
+<td>7.2</td>
+<td>5.43</td>
+<td>19</td>
+<td>— 0.91</td>
+</tr>
+<tr>
+<td>Hakgala ..</td>
+<td>68.6</td>
+<td>+0.6</td>
+<td>58.1</td>
+<td>+0.9</td>
+<td>86</td>
+<td>89</td>
+<td>8.4</td>
+<td>3.39</td>
+<td>21</td>
+<td>— 3.25</td>
+</tr>
+<tr>
+<td>Hambantota ..</td>
+<td>86.3</td>
+<td>-1.6</td>
+<td>76.9</td>
+<td>+0.6</td>
+<td>82</td>
+<td>91</td>
+<td>6.3</td>
+<td>1.54</td>
+<td>5</td>
+<td>— 0.47</td>
+</tr>
+<tr>
+<td>Jaffna ..</td>
+<td>85.1</td>
+<td>-0.9</td>
+<td>80.0</td>
+<td>+0.3</td>
+<td>82</td>
+<td>85</td>
+<td>6.8</td>
+<td>0.42</td>
+<td>1</td>
+<td>— 0.13</td>
+</tr>
+<tr>
+<td>Kandy ..</td>
+<td>84.4</td>
+<td>+2.0</td>
+<td>71.0</td>
+<td>+0.4</td>
+<td>77</td>
+<td>88</td>
+<td>7.4</td>
+<td>2.84</td>
+<td>22</td>
+<td>— 4.48</td>
+</tr>
+<tr>
+<td>Kurunegala ..</td>
+<td>87.0</td>
+<td>+0.7</td>
+<td>75.6</td>
+<td>+0.5</td>
+<td>72</td>
+<td>84</td>
+<td>7.8</td>
+<td>1.99</td>
+<td>17</td>
+<td>— 1.89</td>
+</tr>
+<tr>
+<td>Lunuwila ..</td>
+<td>85.6</td>
+<td>+0.5</td>
+<td>77.4</td>
+<td>+0.6</td>
+<td>80</td>
+<td>89</td>
+<td>8.4</td>
+<td>1.07</td>
+<td>11</td>
+<td>— 2.95</td>
+</tr>
+<tr>
+<td>Mannar ..</td>
+<td>86.7</td>
+<td>-0.8</td>
+<td>79.0</td>
+<td>-0.1</td>
+<td>81</td>
+<td>86</td>
+<td>7.0</td>
+<td>0</td>
+<td>0</td>
+<td>— 0.35</td>
+</tr>
+<tr>
+<td>Nuwara Eliya ..</td>
+<td>65.2</td>
+<td>0</td>
+<td>55.6</td>
+<td>+0.9</td>
+<td>86</td>
+<td>88</td>
+<td>9.0</td>
+<td>4.48</td>
+<td>23</td>
+<td>— 6.54</td>
+</tr>
+<tr>
+<td>Puttalam ..</td>
+<td>86.8</td>
+<td>+1.0</td>
+<td>79.1</td>
+<td>+0.9</td>
+<td>76</td>
+<td>82</td>
+<td>7.0</td>
+<td>0.02</td>
+<td>2</td>
+<td>— 0.97</td>
+</tr>
+<tr>
+<td>Ratnapura ..</td>
+<td>87.2</td>
+<td>+0.8</td>
+<td>74.8</td>
+<td>+0.3</td>
+<td>80</td>
+<td>95</td>
+<td>7.4</td>
+<td>6.85</td>
+<td>22</td>
+<td>— 5.92</td>
+</tr>
+<tr>
+<td>Talawakele ..</td>
+<td>70.8</td>
+<td>+1.1</td>
+<td>59.8</td>
+<td>+0.4</td>
+<td>88</td>
+<td>94</td>
+<td>8.2</td>
+<td>6.44</td>
+<td>27</td>
+<td>— 6.86</td>
+</tr>
+<tr>
+<td>Trincomalee ..</td>
+<td>91.9</td>
+<td>-0.5</td>
+<td>78.4</td>
+<td>+0.3</td>
+<td>64</td>
+<td>78</td>
+<td>6.8</td>
+<td>2.16</td>
+<td>1</td>
+<td>+ 0.43</td>
+</tr>
+</tbody>
+</table>
+
+In July too rainfall was below normal, except in a few limited areas on the east side, chiefly near Badulla and Batticaloa, where it was slightly in excess. Deficits were again largest among the central hills, where July averages are high, and include 13.16 inches at Kenilworth Estate and 12.60 inches at Hatton Police Station. Several other stations in this neighbourhood recorded deficits over 10 inches. The greatest excesses were 5.00 inches at Debedde Estate, and 4.73 inches at Passara Hospital. Only 3 other stations had excesses over 2 inches.
+
+The highest monthly totals were found among the central hills where Watawala recorded 22.59 inches and Norton Bridge 21.21 inches. Kitulgala, Blackwater Estate, Kenilworth Estate, Luccombe Estate and Abergeldie Group also had monthly totals over 15 inches.
+
+Outside the south-west quarter rainfall was very little, generally below two inches. About sixty stations chiefly in the north-western and north-central parts, recorded no rainfall at all.
+
+No daily falls of five inches, or over were reported for the month.
+
+The weather during July was of the usual south-west monsoon type. Little or no rain fell on the 1st 8th, and 12th-17th. For the rest of the month, light to moderate rain was experienced.
+
+Temperatures were mainly above average. The highest recorded shade temperature was again 96.6° at Batticaloa on the 15th, while the lowest air temperature was 51.8° at Nuwara Eliya on the 9th. Humidities were generally above average, and cloud amounts in excess. Winds were above average strength, except on the east coast, the predominant direction being south-westerly.
+
+D. T. E. DASSANAYAKE,  
+Superintendent, Observatory.
+
+70------------------------------------------------
+
+207METEOROLOGICAL REPORT, AUGUST, 1944.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta ..</td>
+<td>85.5</td>
+<td>+0.6</td>
+<td>72.9</td>
+<td>-0.7</td>
+<td>86</td>
+<td>98</td>
+<td>7.8</td>
+<td>9.45</td>
+<td>27</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura ..</td>
+<td>93.9</td>
+<td>+2.7</td>
+<td>75.7</td>
+<td>+0.3</td>
+<td>65</td>
+<td>86</td>
+<td>7.2</td>
+<td>0.57</td>
+<td>3</td>
+<td>- 1.05</td>
+</tr>
+<tr>
+<td>Badulla ..</td>
+<td>87.2</td>
+<td>+1.0</td>
+<td>63.7</td>
+<td>-0.7</td>
+<td>72</td>
+<td>97</td>
+<td>4.8</td>
+<td>4.91</td>
+<td>15</td>
+<td>+ 1.71</td>
+</tr>
+<tr>
+<td>Batticaloa ..</td>
+<td>89.4</td>
+<td>+1.1</td>
+<td>76.9</td>
+<td>+0.4</td>
+<td>71</td>
+<td>84</td>
+<td>5.6</td>
+<td>0.46</td>
+<td>4</td>
+<td>- 1.49</td>
+</tr>
+<tr>
+<td>Colombo ..</td>
+<td>85.7</td>
+<td>+1.0</td>
+<td>77.3</td>
+<td>+0.6</td>
+<td>78</td>
+<td>86</td>
+<td>7.6</td>
+<td>7.43</td>
+<td>19</td>
+<td>+ 3.40</td>
+</tr>
+<tr>
+<td>Diyatalawa ..</td>
+<td>78.7</td>
+<td>+0.7</td>
+<td>60.4</td>
+<td>-1.2</td>
+<td>70</td>
+<td>83</td>
+<td>5.1</td>
+<td>7.12</td>
+<td>13</td>
+<td>+ 4.00</td>
+</tr>
+<tr>
+<td>Galle ..</td>
+<td>83.4</td>
+<td>+1.0</td>
+<td>78.3</td>
+<td>+1.8</td>
+<td>83</td>
+<td>82</td>
+<td>7.3</td>
+<td>12.72</td>
+<td>21</td>
+<td>+ 6.58</td>
+</tr>
+<tr>
+<td>Hakgala ..</td>
+<td>72.1</td>
+<td>+2.8</td>
+<td>58.1</td>
+<td>+1.1</td>
+<td>77</td>
+<td>83</td>
+<td>7.4</td>
+<td>5.26</td>
+<td>10</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hambantota ..</td>
+<td>86.8</td>
+<td>+0.1</td>
+<td>77.1</td>
+<td>+1.2</td>
+<td>81</td>
+<td>89</td>
+<td>5.7</td>
+<td>0.50</td>
+<td>8</td>
+<td>- 0.94</td>
+</tr>
+<tr>
+<td>Jaffna ..</td>
+<td>86.6</td>
+<td>+0.8</td>
+<td>80.1</td>
+<td>+1.1</td>
+<td>81</td>
+<td>85</td>
+<td>5.6</td>
+<td>0.33</td>
+<td>2</td>
+<td>- 0.78</td>
+</tr>
+<tr>
+<td>Kandy ..</td>
+<td>86.6</td>
+<td>+3.7</td>
+<td>69.8</td>
+<td>-0.2</td>
+<td>73</td>
+<td>87</td>
+<td>6.7</td>
+<td>1.22</td>
+<td>17</td>
+<td>- 4.51</td>
+</tr>
+<tr>
+<td>Kurunegala ..</td>
+<td>88.9</td>
+<td>+2.1</td>
+<td>75.3</td>
+<td>+0.7</td>
+<td>74</td>
+<td>88</td>
+<td>7.1</td>
+<td>2.06</td>
+<td>17</td>
+<td>- 1.56</td>
+</tr>
+<tr>
+<td>Lunuwila ..</td>
+<td>86.4</td>
+<td>+1.4</td>
+<td>77.1</td>
+<td>+0.5</td>
+<td>79</td>
+<td>89</td>
+<td>8.4</td>
+<td>2.49</td>
+<td>15</td>
+<td>- 0.70</td>
+</tr>
+<tr>
+<td>Mannar ..</td>
+<td>87.9</td>
+<td>+0.5</td>
+<td>79.4</td>
+<td>+0.9</td>
+<td>80</td>
+<td>87</td>
+<td>6.6</td>
+<td>0</td>
+<td>0</td>
+<td>- 0.66</td>
+</tr>
+<tr>
+<td>Nuwara Eliya ..</td>
+<td>68.2</td>
+<td>+2.0</td>
+<td>53.6</td>
+<td>-0.5</td>
+<td>78</td>
+<td>91</td>
+<td>8.0</td>
+<td>2.63</td>
+<td>13</td>
+<td>- 4.88</td>
+</tr>
+<tr>
+<td>Puttalam ..</td>
+<td>87.8</td>
+<td>+1.6</td>
+<td>78.9</td>
+<td>+1.1</td>
+<td>74</td>
+<td>82</td>
+<td>6.4</td>
+<td>0.15</td>
+<td>1</td>
+<td>- 0.50</td>
+</tr>
+<tr>
+<td>Ratnapura ..</td>
+<td>86.9</td>
+<td>+0.2</td>
+<td>74.3</td>
+<td>+0.1</td>
+<td>82</td>
+<td>95</td>
+<td>8.0</td>
+<td>10.20</td>
+<td>26</td>
+<td>- 1.19</td>
+</tr>
+<tr>
+<td>Talawakele ..</td>
+<td>73.5</td>
+<td>+2.6</td>
+<td>58.9</td>
+<td>-0.2</td>
+<td>84</td>
+<td>94</td>
+<td>7.8</td>
+<td>2.10</td>
+<td>19</td>
+<td>- 7.98</td>
+</tr>
+<tr>
+<td>Trincomalee ..</td>
+<td>92.9</td>
+<td>+0.9</td>
+<td>76.9</td>
+<td>-0.3</td>
+<td>69</td>
+<td>82</td>
+<td>5.8</td>
+<td>10.05</td>
+<td>12</td>
+<td>+ 6.44</td>
+</tr>
+</tbody>
+</table>
+
+For the third consecutive month rainfall was below normal among the central hills, the aggregated deficits for the three months June to August at some stations exceeding 30 inches. Elsewhere, too, rainfall in August was below normal, except in the southern and south-western low-country, in the neighbourhood of Trincomalee, and to east of the hills.
+
+The largest deficits were from the central hills and include 16.96 inches at Norton Bridge, 14.80 inches at Abergeldie Group and 14.27 inches at Watawala, with several other stations in this area recording deficits over 10 inches. The highest excesses were irregularly distributed and include 10.51 inches at Baddegama Estate, 8.08 inches at Stratheden Estate and 7.75 inches at Unichchai. Excesses over five inches were reported from a number of other stations besides these.
+
+Rainfall was heaviest in the south-western low- and mid-country where the monthly totals ranged from 10 to 20 inches, the highest being 23.30 inches at Weweltalawa Estate, 20.86 inches at Kottawa and 20.64 inches at Kumbaduwa Estate.
+
+There was no rain at all in the coastal belt from Puttalam to Mannar, while a few other limited areas in this neighbourhood and in the south-eastern low-country also sent in nil returns.
+
+The only daily fall over 5 inches was 5.08 inches at Udugama on the 10th.
+
+The weather during the month was mainly of the settled south-west monsoon type. Thunderstorm activity was more pronounced than is usual for August, and accounted for most of the rain outside the south-west quarter.
+
+Temperatures were above average. The highest recorded shade temperature was 97.4° at Batticaloa on the 17th, a close second (96.9°) occurring at Anuradhapura on the 24th. The lowest air temperature was 47.0° at Nuwara Eliya on the 3rd. Humidities were generally above average by day, and on the whole about average by night. Winds were a little above average strength, the direction being predominantly south-westerly.
+
+Three hailstorms were reported: at Ella on the 11th, and at Diyatalawa and Ekiyankumbura on the 23rd.
+
+D. T. E. DASSANAYAKE,  
+Superintendent, Observatory.
+
+3—J. N. A 45856 (1/45)
+
+71------------------------------------------------
+
+208METEOROLOGICAL REPORT, SEPTEMBER, 1944
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta ..</td>
+<td>85.0</td>
+<td>-0.5</td>
+<td>72.6</td>
+<td>-0.7</td>
+<td>88</td>
+<td>98</td>
+<td>8.1</td>
+<td>28.02</td>
+<td>25</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura ..</td>
+<td>90.7</td>
+<td>-0.7</td>
+<td>74.8</td>
+<td>-0.2</td>
+<td>72</td>
+<td>90</td>
+<td>7.4</td>
+<td>5.30</td>
+<td>14</td>
+<td>+ 1.54</td>
+</tr>
+<tr>
+<td>Badulla ..</td>
+<td>84.0</td>
+<td>-1.7</td>
+<td>64.4</td>
+<td>+0.1</td>
+<td>75</td>
+<td>97</td>
+<td>5.6</td>
+<td>7.24</td>
+<td>14</td>
+<td>+ 2.75</td>
+</tr>
+<tr>
+<td>Batticaloa ..</td>
+<td>89.4</td>
+<td>-0.3</td>
+<td>75.7</td>
+<td>-0.4</td>
+<td>73</td>
+<td>86</td>
+<td>7.5</td>
+<td>6.85</td>
+<td>11</td>
+<td>+ 4.46</td>
+</tr>
+<tr>
+<td>Colombo ..</td>
+<td>85.5</td>
+<td>+0.3</td>
+<td>76.7</td>
+<td>+0.1</td>
+<td>78</td>
+<td>86</td>
+<td>8.2</td>
+<td>7.83</td>
+<td>20</td>
+<td>+ 0.99</td>
+</tr>
+<tr>
+<td>Diyatalawa ..</td>
+<td>76.8</td>
+<td>-1.1</td>
+<td>60.4</td>
+<td>-0.5</td>
+<td>72</td>
+<td>86</td>
+<td>7.7</td>
+<td>8.09</td>
+<td>13</td>
+<td>+ 3.68</td>
+</tr>
+<tr>
+<td>Galle ..</td>
+<td>83.2</td>
+<td>+0.4</td>
+<td>77.4</td>
+<td>+0.5</td>
+<td>82</td>
+<td>84</td>
+<td>7.4</td>
+<td>11.10</td>
+<td>19</td>
+<td>+ 2.29</td>
+</tr>
+<tr>
+<td>Hakgala ..</td>
+<td>69.5</td>
+<td>-0.7</td>
+<td>57.3</td>
+<td>+0.8</td>
+<td>82</td>
+<td>89</td>
+<td>8.6</td>
+<td>6.91</td>
+<td>20</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hambantota ..</td>
+<td>86.4</td>
+<td>-0.2</td>
+<td>75.9</td>
+<td>-0.2</td>
+<td>80</td>
+<td>88</td>
+<td>6.6</td>
+<td>3.41</td>
+<td>12</td>
+<td>+ 0.65</td>
+</tr>
+<tr>
+<td>Jaffna ..</td>
+<td>87.2</td>
+<td>+1.1</td>
+<td>79.2</td>
+<td>+0.1</td>
+<td>80</td>
+<td>85</td>
+<td>7.0</td>
+<td>3.74</td>
+<td>8</td>
+<td>+ 1.21</td>
+</tr>
+<tr>
+<td>Kandy ..</td>
+<td>86.0</td>
+<td>+1.9</td>
+<td>69.4</td>
+<td>+0.1</td>
+<td>75</td>
+<td>90</td>
+<td>7.8</td>
+<td>3.39</td>
+<td>20</td>
+<td>+ 3.05</td>
+</tr>
+<tr>
+<td>Kurunegala ..</td>
+<td>88.0</td>
+<td>+0.6</td>
+<td>74.4</td>
+<td>+0.2</td>
+<td>76</td>
+<td>90</td>
+<td>7.8</td>
+<td>5.20</td>
+<td>17</td>
+<td>+ 0.35</td>
+</tr>
+<tr>
+<td>Lunuwila ..</td>
+<td>85.8</td>
+<td>-0.2</td>
+<td>75.8</td>
+<td>-0.4</td>
+<td>82</td>
+<td>91</td>
+<td>8.4</td>
+<td>12.11</td>
+<td>17</td>
+<td>+ 6.81</td>
+</tr>
+<tr>
+<td>Mannar ..</td>
+<td>88.0</td>
+<td>+0.2</td>
+<td>78.5</td>
+<td>+0.2</td>
+<td>77</td>
+<td>86</td>
+<td>7.2</td>
+<td>1.27</td>
+<td>6</td>
+<td>+ 0.03</td>
+</tr>
+<tr>
+<td>Nuwara Eliya ..</td>
+<td>66.5</td>
+<td>-0.5</td>
+<td>53.8</td>
+<td>+0.8</td>
+<td>84</td>
+<td>91</td>
+<td>8.6</td>
+<td>3.94</td>
+<td>21</td>
+<td>+ 4.30</td>
+</tr>
+<tr>
+<td>Puttalam ..</td>
+<td>87.3</td>
+<td>+0.6</td>
+<td>77.8</td>
+<td>0</td>
+<td>76</td>
+<td>86</td>
+<td>7.0</td>
+<td>2.07</td>
+<td>8</td>
+<td>+ 0.49</td>
+</tr>
+<tr>
+<td>Ratnapura ..</td>
+<td>86.5</td>
+<td>-0.5</td>
+<td>73.5</td>
+<td>-0.1</td>
+<td>82</td>
+<td>95</td>
+<td>7.5</td>
+<td>20.42</td>
+<td>25</td>
+<td>+ 5.90</td>
+</tr>
+<tr>
+<td>Talawakele ..</td>
+<td>73.2</td>
+<td>+1.1</td>
+<td>58.7</td>
+<td>+0.3</td>
+<td>84</td>
+<td>94</td>
+<td>8.0</td>
+<td>5.23</td>
+<td>19</td>
+<td>+ 4.52</td>
+</tr>
+<tr>
+<td>Trincomalee ..</td>
+<td>90.3</td>
+<td>-1.5</td>
+<td>76.5</td>
+<td>-0.5</td>
+<td>74</td>
+<td>86</td>
+<td>6.9</td>
+<td>3.99</td>
+<td>10</td>
+<td>+ 5.56</td>
+</tr>
+</tbody>
+</table>
+
+For the fourth consecutive month rainfall was below normal over the greater part of the central hill region, and although this deficiency was not so marked in September as it was in the preceding month, the cumulative effect was considerable. The largest deficits were 8.76 inches at Abergeldie Group, and 7.56 inches at Sena Wickrema Group, with several other neighbouring stations recording deficits over five inches.
+
+Elsewhere, rainfall was generally above normal, the largest excesses occurring in the south-western mid-country, where Labugama had 16.63 inches above average, Keragala Estate 16.03 inches and Franklands Estate 15.59 inches.
+
+Highest monthly totals occurred in the south-western mid-country, Keragala Estate totalling 32.99 inches for the month, Labugama 31.05 inches, Gona Penigala Estate 29.99, Kalatuwawa 29.05 inches and Halwatura Estate 29.02 inches.
+
+Outside the south-west quarter, the monthly totals were mostly below ten inches. Rainfall was least in a coastal belt between Puttalam and Mannar and in the southern parts of Uva and Eastern Provinces, monthly totals being below two inches. No rain was reported from Veppankulam and Naula Tank.
+
+Altogether 26 daily falls of five inches and over were reported, two-thirds of them occurring on the 16th, or the 17th. The highest was 9.80 inches at Weerapana on the 17th.
+
+The weather during the month clearly showed the effects of a weakening south-westerly gradient. Up to the 11th, a certain amount of monsoonal rains were experienced in the south-west, while thunderstorms were prevalent elsewhere. On the 12th, a low pressure area developed in South-west Bay of Bengal, particularly over Ceylon and neighbourhood, and resulted in markedly unsettled weather. Although the low did not concentrate into depression, its effect was nevertheless felt until the 20th. Heavy rains occurred in the south-west on the 16th and 17th, particularly on the 17th. Settled weather prevailed during the last week.
+
+Temperatures were on the whole about normal. The highest recorded shade temperatures were 94.8° at Anuradhapura on the 1st, and 94.6° at Batticaloa on the 8th. The lowest air temperature was 49.0° at Nuwara Eliya on the 28th. Humidities were above average, and cloud amounts in excess. Winds were above average strength in the south-west, and below normal elsewhere. The general direction of wind was south-westerly.
+
+D. T. E. DASSANAYAKE,  
+Superintendent Observatory.

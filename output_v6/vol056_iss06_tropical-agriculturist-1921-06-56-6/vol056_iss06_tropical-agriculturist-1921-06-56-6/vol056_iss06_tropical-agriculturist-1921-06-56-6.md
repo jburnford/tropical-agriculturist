@@ -1,0 +1,4713 @@
+THE  
+**TROPICAL AGRICULTURIST:**  
+JOURNAL OF THE  
+**CEYLON AGRICULTURAL SOCIETY.**
+
+---
+
+---
+
+VOL. LVI.
+
+PERADENIYA, JUNE, 1921.
+
+No. 6.
+
+---
+
+---
+
+**THE CULTIVATION OF COCONUTS.**
+
+---
+
+Within recent years in Ceylon very considerable attention has been given to the cultivation of coconuts and it has been clearly demonstrated that cultivation pays. In passing through coconut-growing districts it is observed that larger areas are yearly brought under the plough, and it is now possible to draw some general conclusions from the experience of coconut growers.
+
+In the early days ploughing was done at intervals of two years, one year or even six months, and disc-harrowing carried out regularly every month throughout the year. The crops tended to go up as the result of this treatment and it became more and more popular. It was subsequently found, however, that these increased crops were not maintained and at the present time the general consensus of opinion is against continuous clean cultivation.
+
+In the wetter districts more frequent ploughings may be generally favoured, and growths of weeds and grass ploughed in at these times. If after ploughing green manure seed is scattered better results are obtained and the condition of the soil improved. Disc-harrowing in the wetter districts is practised to keep down weeds, but frequent discing and perfectly clean cultivation does not find general favour amongst a large number of growers.
+
+1------------------------------------------------
+
+330[JUNE, 1921.
+
+In the dry districts, the conditions are different. Here, the conservation of soil moisture is one of the most important factors that has to be considered by the grower, and the maintenance of a dust-mulch during the dry months is advantageous and to be recommended. Ploughing at intervals of one year or even of two years in the lighter soils is common, and frequent disc-harrowing in the dry periods of the year advocated. The growing of green manures has also been attempted and has attained some success upon a few estates.
+
+It will be seen from the above that systems of cultivation must vary in the different districts according to the differences in the soil and climatic conditions. The maintenance of a proper tilth is essential, and deeper rooting can be induced when the upper layers of the soil are broken up at frequent intervals. The maintenance of the humus-content of the soil has to be carefully kept in view and there is some evidence which shows that this may suffer in hot dry localities if too frequent disc-harrowing is resorted to. In these dry localities, however, the moisture-content of the soil must be maintained during the dry periods by the provision of a dust-mulch.
+
+In general, coconut growers are now in favour of ploughings at good depths at not too frequent intervals, and frequent disc-harrowing in the dry months of the year. The growing of green manures in coconuts is also extending gradually and appears to be giving satisfactory results.
+
+With the desire for deep and satisfactory ploughing the use of Tractors has been given a trial. Satisfactory results have been obtained and it is possible that there is a prospect of greater employment of this form of power in the near future. The Competitive Tractors Trials which are being arranged in coconut districts should produce valuable information for growers and will doubtless be watched with interest by all connected with the coconut industry of the colony. In the light sandy soils of the coastal regions it is probable that cultivation with heavy types of disc-harrows may be sufficient, but in all of the harder soils deeper ploughing appears to be essential.
+
+2------------------------------------------------
+
+JUNE, 1921.]331
+
+# TEA.
+
+## TEA GROWING IN THE DUTCH EAST INDIES.\*
+
+C. BERNARD,
+
+*Director of the Tea Experiment Station at Buitenzorg, Java.*
+
+In statistics dealing with the growing of and world's trade in tea, in most cases considerable space is given to British India and Ceylon, China and Japan, but Java either is not mentioned or is only occasionally indicated amongst the "other producing countries." The author finds no justification for this, considering the importance acquired by tea production and the great progress made by it, within a comparatively short space of time in the Dutch Colony.
+
+The quantities of tea exported in 1915 reached the following figures:—
+
+<table>
+<tr>
+<td>British India</td>
+<td>...</td>
+<td>...</td>
+<td>over 154 million kg.</td>
+</tr>
+<tr>
+<td>Ceylon</td>
+<td>...</td>
+<td>...</td>
+<td>about 97 " "</td>
+</tr>
+<tr>
+<td>China</td>
+<td>...</td>
+<td>...</td>
+<td>over 177 " "</td>
+</tr>
+</table>
+
+In that year, Java produced 46 million kg. whereas in 1903, for example, her exports of tea came to only 10 million kg. (in 1910, a little over 18 million, and in 1914, about 32 million). In 1915 there were in Java nearly 30 plantations, with a total area of about 75,000 hectares.
+
+During the last few years, as land for tea growing has become scarcer there, it has become necessary to look to other islands of the Dutch Indies Sumatra in particular, where large stretches of land are still available. At the end of 1915 there were already over 20 plantations in Sumatra, covering some 6,000 hectares.
+
+Plantations are generally of 350 to 700 hectares in extent, and the production in most cases is from 300 to 1500 kg. per hectare. These figures, it will be seen, stand comparison with the results obtained in Ceylon and British India, where tea growing is carried out on an intensive scale, backed by powerful financial assistance (while in China and in Japan it is in the hands of the small cultivator). It should be added also that in Java the native population grows tea as well, and that the importance of the cultivation is in no wise negligible; the tea gardens are of 1 to 10 hectares and over in extent (sometimes up to 20 hectares and over) and in 1919 covered a total area of nearly 20,000 hectares, yielding over 16 million pounds of tea, which means to the native population a gross gain of 260,000 Dutch *florins* (7,488,000 francs *at par*).
+
+Java tea is of very good quality, as shown by the prices obtained on the London and Amsterdam markets; in the last few years many consignments have fetched 1 shilling and above per pound at London.
+
+---
+
+\* As the Dutch East Indies belong to the Middle East, it may be useful, to complete the tea question in this vast zone, to refer the reader to what has been published on tea in Indo-China (the subject of tea in British India and Ceylon being well-known):—See *R.*, November, 1918, No. 1,243, *R.*, April, 1919, No. 467 and *R.*, June, 1919, No. 601.—(Ed.)
+
+3------------------------------------------------
+
+332[JUNE, 1921.
+
+The tea plant grows best in a warm moist climate. During the whole growing period, (and consequently, producing period) it needs constant rains alternating with short dry periods. Bright mornings followed by wet afternoons constitute very favourable conditions for the tea plant. This means that districts suited for tea growing are on the whole fairly limited; in Java these conditions appear best for the crop in the western part of the island, but it has been possible, often with some success, to establish tea plantations also on the mountain slopes of the centre and east.
+
+The tea plant is not very exacting with regard to soil; recent volcanic soils, however, rich in humus and containing a sufficient proportion of sand and clay appear to suit it best.
+
+As to altitude, it has long been admitted that between 600 and 1,000 metres is best for tea planting, but plantations established in the last decades up to 1,800 metres and above have given excellent results, both as regards the quantity and quality of the product.
+
+At present only good types of Assam tea are planted. The old China tea gardens have been mostly cleared out and replanted with broad-leaf types. The vigour of the plants, and the size and colour of the leaves differ according to the variety adopted. Seed gardens are being more and more established in Java where the plants have undergone strict selection and produce descendants of a pure type possessing the properties required for a given plantation, but the production of the existing seed gardens in Java is not sufficient to meet the ever-growing demand for the crop, and large quantities of seed have to be imported every year from British India.
+
+The seeds are generally sown in nurseries and put in about 15 cm. apart at a depth of 2—3 cm. In some districts, if climatic conditions are suitable, the seed may be sown directly in the cleared gardens. In places where prolonged periods of drought are to be feared, the nurseries are covered over with temporary shades to protect the young plants against the heat of the sun.
+
+When the seedlings in the nurseries are of one or two year's growth, they are transplanted to the gardens, which have been previously cleared out (trees removed and soil cleaned of weeds and ploughed). The lines have been determined in advance, following the level on the slopes and leaving a space of about 120 cm. between them, and it is along these horizontal lines that the young plants are put at distances of 90 cm.
+
+Cultivating and weeding must be regularly done; a system of terraces, drains, and ditches to hold the water and so prevent erosion is established; the manures considered necessary are applied; and leguminous crops are planted for green manure. In short, all the necessary steps are taken for the judicious working of an intensive cropping system.
+
+Tea plants in Java are attacked by certain enemies and diseases. The worst trouble is caused by an insect (*Helopeltis* sp.) which by piercing the young leaves totally destroys them; plants thus affected often fall prey to numerous parasites of animal or vegetable origin; an orange coloured mite (*Brevipalpus* sp.), though on the whole less injurious than the *Helopeltis*, nevertheless in some districts, especially on high plantations, causes fairly serious damage, of more importance than that due in British India to "red
+
+4------------------------------------------------
+
+JUNE, 1921.]333
+
+spider" (*Tetranychus* sp.), which in Java is of little account. The roots are often attacked by fungi of different species, which grow on all kinds of decomposing vegetable refuse and pass from there to the tea plant roots. Plants thus damaged die off and the disease spreads to neighbouring bushes. Caterpillars, plant lice and various fungi often attack the leaves of tea plants; against these, early and energetic measures must be taken to avoid serious damage being done.
+
+When the plants are 2 or 3 years old they are pruned for the first time, and this operation is repeated every 18-24 months according to circumstances. It is mostly owing to judicious pruning that the bushes come to have their characteristic shape:—Single stem, branched more or less near the ground, with plenty of small branches which at a height of 1 or  $1\frac{1}{2}$  metres form a flat or convex surface of large diameter from which the twigs will spring which will provide the leaves to be picked.
+
+The author then remarks on methods of picking and preparing the tea leaves; Java tea never undergoes any process of mixing which affects its purity, and it is not scented artificially.\*
+
+It would be impossible to establish, even roughly, any rule for the outlay necessary to establish a tea plantation in the Dutch Indies, and consequently it is very difficult to say how much capital is required to work 700-800 hectares, for example. Everything depends on local conditions, the lie of land, the nature of the soil, the vegetation covering it before clearing, facilities for communications, setting up the factory and, above all, the supply of labour. A well situated plantation can be worked with a capital of 200,000 to 300,000 *florins* (about 46,000 to 625,000 francs *at par*), while another of the same area will hardly have enough with 600,000 *florins* (about 12,050, 520 francs *at par*).
+
+The experiment station attached to the Department of Agriculture at Buitenzorg is studying many of the questions that arise in connection with the growing and treatment of tea. The result of these investigations is published in a series of pamphlets, *Mededelingen van het Proefstation voor Thee* (Communications of the tea experiment station). There exists also a tea-examination bureau which examines tea samples from the commercial point of view and gives advice as to modifications which should be introduced into the treatment.—INTERNATIONAL REVIEW OF SCIENCE AND PRACTICE OF AGRICULTURE, Year XI, No. 2.
+
+---
+
+## INTERNATIONAL TEA CONGRESS AND EXHIBITION IN JAVA.
+
+---
+
+The above exhibition which was to have been held from 6th to 21st May, 1922, has been postponed until the general economical situation will be much improved.
+
+---
+
+\* Regarding the preparation of Java tea, the observations and experiments made on this subject are described in *R.*, Oct., 1917, No. 955 (Ed.).
+
+5------------------------------------------------
+
+334[JUNE, 1921.
+
+# RUBBER.
+
+---
+
+## ON THE URGENCY OF WASHING FRESHLY PREPARED RUBBER SHEETS IN STREAMING WATER.
+
+IR. JHR. F. C. VAN HEURN.
+
+When rubber prices fall brokers and traders in rubber become more discriminating. Minimal defects in the appearance of rubber, small deviations from the normal, to which no attention is paid under ordinary circumstances, are now enlarged to serious grievances. If the planter wishes to suffer no loss he has to redouble his activity in order to be sure that nothing might be claimed against his rubber.
+
+An example may be seen in the following:—
+
+When looking over a collection of sheet samples and cutting them, some of the thicker ones will be found to have a white or a light coloured stripe in the cross sectional area. This phenomenon is very common and known in the rubber trade. Though many judged it to be of no significance and it was often overlooked, sometimes it was observed, especially since it is associated with a lack of transparency of the sheets. This phenomenon was characterized, often in trade, by more or less phantastic names such as "immature" or "undercured." To more initiated persons it is known to be due to the presence of moisture in the rubber. The development of this stripe can be described as follows:
+
+The drying process of sheets takes place in the smoke houses. The outer surfaces of the sheets will dry first and become transparent.
+
+In the middle a non-transparent water containing area remains and if sheets in that state are cut they show the white stripe in a high degree. Gradually the water will evaporate until in normal cases no water will remain. The stripe gets smaller and fainter and finally disappears.
+
+Microscopical examination shows no condensation drops in the stripe. It is evident that when such samples were sent to the Proof station the diagnosis was: "Insufficiently dried, either by working off the sheets too thick or due to the inefficiency of the smoke house." From what follows it has appeared to us that this judgment cannot have been always reasonable. In order to prove the statement mentioned above we returned a part of the original sample, that had been fully dried by us in a stove and in which the stripe had disappeared.
+
+Nevertheless some time ago MR. VAN ALTENA, Secretary of the S.I.P.E.F., drew our attention to the fact that the stripe, which had disappeared by heating the rubber in a stove, came back within a few days and that the same phenomenon had been observed on one of the estates of that company. Sheets that came fresh from the smoke house without stripe showed it distinctly some days afterwards.
+
+At first we thought that perhaps the high temperature in the stove or the smoke house could have played a rôle in this optical phenomenon. It is known, that not transparent crepe gets more transparent when heated. More
+
+6------------------------------------------------
+
+JUNE, 1921.]335
+
+probable however was the suggestion that the defect should be traced to the presence of hygroscopic moisture attracting serum substance in the rubber. In the hot smoke house they lose their moisture and afterwards when brought into the fresh air they attract enough moisture to make the white stripe appear. The correctness of this suggestion can be proved by the following test.
+
+At first the difference in moisture content was estimated between the moist inner layer of a sheet and the dryer outer part by means of a simple moisture determination in a stove. The sample showed the stripe distinctly. It was cut into strips of several mm. thickness and each of these strips divided in three parts along their lengths: The middle of these three strips represented the moist layer. In this way we got 9,824 grs. from the outer and 8,338 grs. moist inner rubber. After heating in a stove for +2 hours at 80° Cent. a constant weight was obtained and this figure noted. The moisture content of the dry outer layer appeared to be 0.50%, that of the moist inner layer 0.70%. The difference, two-tenths of a per cent is very small. Really this may be a little larger as some moist rubber may have been cut with the dry strips or the reverse and in both cases the difference in moisture content will be decreased.
+
+The dried rubber was kept in the open air and had during the night the opportunity of absorbing moisture from the atmosphere.
+
+The next morning the samples were weighed, and this was repeated every day. From these weights the new moisture contents could be derived. They are shown in table I.
+
+TABLE I.
+
+*Moisture contents of inner and outer layer of smoked sheet rubber and the recovery of the moisture content after drying.*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Inner layer<br/>( White Stripe )</th>
+<th>Outer layer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Original moisture content</td>
+<td>0.70 %</td>
+<td>0.50 %</td>
+</tr>
+<tr>
+<td>Moisture content after drying</td>
+<td>0.00 ,,</td>
+<td>0.00 ,,</td>
+</tr>
+<tr>
+<td>" " after one day</td>
+<td>0.42 ,,</td>
+<td>0.45 ,,</td>
+</tr>
+<tr>
+<td>" " after two days</td>
+<td>0.48 ,,</td>
+<td>0.43 ,,</td>
+</tr>
+<tr>
+<td>" " after four days</td>
+<td>0.58 ,,</td>
+<td>0.45 ,,</td>
+</tr>
+<tr>
+<td>" " after six days</td>
+<td>0.53 ,,</td>
+<td>0.40 ,,</td>
+</tr>
+</tbody>
+</table>
+
+It is apparent that, while the outer layer showed a constant moisture content in one day, the inner rubber continued for several days longer to absorb moisture from the atmosphere. This is due to the presence of hygroscopic serum substances. On the sixth day both moisture contents are slightly decreased. Since the weather had been very dry on that and the preceding day, this may show how close a relationship exists between the moisture content of rubber and the state of the weather. Though in neither of the samples the original moisture content was reached again, that of the inner rubber remained markedly higher than that of the outer rubber.
+
+It is evident from these tests that there is a recovery of the moisture content in rubber after drying and that is especially true, and in a higher degree, for the rubber from the inner parts of a sheet. Hence in the inner layers the moisture content can rise so high, that the rubber becomes opaque while the outer layers remain transparent, and thus we have the origin of the stripe.
+
+That the disappearance of the stripe has not been caused by the heat in the stove, but by the drying process can be proved by drying the rubber
+
+7------------------------------------------------
+
+336[JUNE, 1921.
+
+over lime in a vacuum desiccator. The stripe disappears in the same way, as can be seen from the behaviour of four samples tested. The results of these tests are to be found in Table II.
+
+**TABLE II.**
+
+*Disappearance of the phenomenon of the white stripe in sheet rubber, when dried under different circumstances.*
+
+<table border="1">
+<thead>
+<tr>
+<th>Sample I.</th>
+<th>Sample II.</th>
+<th>Sample III.</th>
+<th>Sample IV.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dried in heated stove :</td>
+<td>Dried in heated stove :</td>
+<td>Dried in desiccator at a low temperature :</td>
+<td>Dried in desiccator at a low temperature :</td>
+</tr>
+<tr>
+<td>Stripe disappears</td>
+<td>Stripe disappears</td>
+<td>Stripe disappears</td>
+<td>Stripe disappears</td>
+</tr>
+<tr>
+<td>Cooled and left in desiccator for some days :<br/>No stripe</td>
+<td>Cooled and left in desiccator for several weeks :<br/>No stripe</td>
+<td>Kept in the open air :<br/>The stripe comes back after several days</td>
+<td>Kept in desiccator for several weeks :<br/>No stripe</td>
+</tr>
+<tr>
+<td>Kept in the open air :<br/>The stripe comes back in a few days</td>
+<td>Kept in the open air :<br/>The stripe comes back in a few days</td>
+<td></td>
+<td>Kept in the open air :<br/>The stripe comes back in a few days</td>
+</tr>
+</tbody>
+</table>
+
+After these results the direct proof, that it is the enclosed serum substances, which cause the appearance of the stripe, by absorbing moisture from the atmosphere is lacking. That the serum substances are very hygroscopic is generally known. When a small scale with the serum, left after coagulation, is evaporated until it has passed over into a varnish-like layer, this will be dissolved again when kept in the open air for several hours. The water has been absorbed from the atmosphere.
+
+It is evident that during the drying process of sheet these serum substances are concentrated into the middle layer where the rubber remains moist for the longest period. To make sure however that they afterwards cause the white stripe, further proof was needed.
+
+We chose therefore a sample of thick smoked sheet, that showed the stripe distinctly. It was dried in a stove and after it had been cooled, the stripe, that had disappeared during the drying process returned in a few days. Then the same sample was placed for a number of days in a glass filled with water, that was changed several times thus giving the serum substances sufficient time to dissolve out and after several days one can assume that the rubber is free from serum. The rubber was dried again in a stove and the stripe did not return then, nor afterwards many days.
+
+These tests by themselves would not be valuable, if they did not prove that the defect can be avoided by thoroughly removing the serum substances, i.e. by sufficiently washing the freshly prepared sheets. There is no doubt that longer washing would be the most efficient way, but we know on the other hand that loss of time at this period of the preparation of rubber should be avoided in order to keep fungi and bacteria from developing before the rubber is fully disinfected by smoke and thus prevent the appearance of air bubbles, moulds or rustiness. Washing therefore should not be prolonged but rather intensified.
+
+8------------------------------------------------
+
+JUNE, 1921.]337
+
+Two hours of rinsing are sufficient in most cases, if the machines spray plenty of water and the sheets are kept in water during the intervals between the passing through the different machines. One should not rinse in a Shanghai jar, packed tight with sheets, but in a wide tank with streaming water.—ARCHIEF VOOR DE RUBBERCULTURE, April, 1921.
+
+## SPONTANEOUS COAGULATION.
+
+The results of investigations at Buitenzorg to determine the accelerating effect of soluble lime salts on the spontaneous coagulation of Hevea latex in the absence of air are recorded in *Arch. Rubber Cultuur, Ned.—Ind.* (1920, 4, 273). It was found that 0.5 to 1.0 gram of calcium chloride per litre of latex caused complete coagulation in closed vessels within twenty-four hours, a result in agreement with the previous work of BARROWCLIFF. Latex obtained during the wintering of the trees in the months of July and August exhibited a reluctance to coagulate. It did not coagulate completely in twenty-four hours in the absence of calcium chloride, but when this was present complete coagulation was effected within that time. The results in this section of the work indicate a close relation between wintering and the completeness of coagulation under these conditions. Vulcanisation tests with rubber prepared with lime salts showed the influence of the coagulant on the properties of the finished rubber to be negligible. In common with rubber prepared by spontaneous coagulation with other agents, the time of cure was less than that of rubber prepared by coagulation with acetic acid. The ash content of rubber prepared with lime salts was slightly higher than that of rubber coagulated with acetic acid but no harmful influence could be traced to the ash constituents.
+
+Further experiments on spontaneous coagulation in the presence of air are recorded on page 308 of the same *Archief* in comparison with the result already published on coagulation in the absence of air, including experiments on the effect of sugar as an accelerating agent. The last-mentioned method has been found by many investigators to be much more satisfactory than spontaneous coagulation in the presence of air without addition of accelerants.
+
+The first series of experiments now recorded gave the following proportionate average yields of air-dry crepe : latex coagulated with acetic acid and creped next day, 100.0 ; latex spontaneously coagulated in the presence of air and creped after two days, 98.8 ; latex to which 3 grams of sugar per litre had been added, coagulated spontaneously in the presence of air and creped next day, 100.0 ; latex coagulated spontaneously in the absence of air and creped next day, 99.5. The tensile strength and slope of the vulcanised products were practically the same, and were satisfactory for all samples. The time required for vulcanisation was least in the case of the latex spontaneously coagulated in the presence of air, and greatest in the case of the latex coagulated with acetic acid, whilst the latex spontaneously coagulated in the presence of air with sugar as an accelerant and the latex coagulated in absence of air required equal time to cure, and less than the latex coagulated by acetic acid, the proportionate time being 91, 106, 102.5 and 102.5 respectively.
+
+In a further series of experiments it was shown that heavy tapping causes a diminution in the latex of those substances which play an important part in the process of spontaneous coagulation, coagulation becoming slower and less complete. It is suggested that the sugars of the latex are the influencing factor in this case. The substances, however, that have an influence on the rate of cure, decomposition bodies formed by maturation, are not sufficiently affected by heavy tapping for the effect to be noticeable in the properties of the spontaneously coagulated rubber, light and heavy tapping giving the same rate of cure.—BULL. OF IMP. INST., Vol. XVIII, No. 3.
+
+9------------------------------------------------
+
+338[JUNE, 1921.
+
+# COFFEE.
+
+## THE VARIABILITY OF YIELD OF INDIVIDUAL COFFEE BUSHES.
+
+RUDOLPH D. ANSTEAD,
+
+*Deputy Director of Agriculture, Planting Districts.*
+
+We published in the PLANTERS' CHRONICLE, Volume XV, page 164, the results of an experiment carried out at the Coffee Experiment Station at Sidapur in 1919-20, with the object of throwing light upon the yielding power of individual coffee bushes.
+
+It was then pointed out that, even on the best estates in a good year, a large number of bushes bear a small crop, and that such bushes probably never bear much crop, and that the average yield would be raised if these bushes were replaced. This problem bears on the wider one of when rejuvenation methods for old coffee estates should be begun, either by replanting altogether, or by a system of collar pruning.
+
+As explained last year, a small plot of old coffee containing 110 trees, obviously of low vitality, was chosen, and the crop was harvested off each bush separately, the berries being counted and weighted and recorded for each individual bush.
+
+This experiment has been repeated this year with the same bushes which were numbered for future reference. Three pickings were made, the final one being a stripping.
+
+The yields have been collected into groups, as shown in the following table:—
+
+<table border="1">
+<thead>
+<tr>
+<th>Group.</th>
+<th>Number of Trees.</th>
+<th>Per cent. of Total Trees.</th>
+<th>Number of Berries.</th>
+<th>Per cent. of Total Berries.</th>
+<th>Weight. Green Crop. lb. oz.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0- 100 fruits</td>
+<td>44</td>
+<td>50</td>
+<td>1,921</td>
+<td>8.9</td>
+<td>6 11</td>
+</tr>
+<tr>
+<td>101- 200 "</td>
+<td>13</td>
+<td>14.8</td>
+<td>1,832</td>
+<td>8.5</td>
+<td>6 6</td>
+</tr>
+<tr>
+<td>201- 300 "</td>
+<td>12</td>
+<td>13.6</td>
+<td>2,882</td>
+<td>13.4</td>
+<td>10 0</td>
+</tr>
+<tr>
+<td>301- 400 "</td>
+<td>3</td>
+<td>3.4</td>
+<td>1,000</td>
+<td>4.6</td>
+<td>2 14</td>
+</tr>
+<tr>
+<td>401- 500 "</td>
+<td>3</td>
+<td>3.4</td>
+<td>1,331</td>
+<td>6.2</td>
+<td>4 10</td>
+</tr>
+<tr>
+<td>501- 600 "</td>
+<td>2</td>
+<td>2.3</td>
+<td>1,124</td>
+<td>5.2</td>
+<td>3 15</td>
+</tr>
+<tr>
+<td>601- 700 "</td>
+<td>2</td>
+<td>2.3</td>
+<td>1,226</td>
+<td>5.7</td>
+<td>4 4</td>
+</tr>
+<tr>
+<td>901-1,000 "</td>
+<td>3</td>
+<td>3.4</td>
+<td>2,851</td>
+<td>13.4</td>
+<td>9 14</td>
+</tr>
+<tr>
+<td>1,001-1,100 "</td>
+<td>2</td>
+<td>2.3</td>
+<td>2,148</td>
+<td>10.0</td>
+<td>7 7</td>
+</tr>
+<tr>
+<td>1,101-1,200 "</td>
+<td>1</td>
+<td>1.1</td>
+<td>1,157</td>
+<td>5.4</td>
+<td>4 0</td>
+</tr>
+<tr>
+<td>1,201-1,300 "</td>
+<td>1</td>
+<td>1.1</td>
+<td>1,260</td>
+<td>5.9</td>
+<td>4 6</td>
+</tr>
+<tr>
+<td>1,301-1,400 "</td>
+<td>2</td>
+<td>2.3</td>
+<td>2,763</td>
+<td>12.8</td>
+<td>9 10</td>
+</tr>
+<tr>
+<td></td>
+<td>88</td>
+<td>—</td>
+<td>21,495</td>
+<td>—</td>
+<td>74 1</td>
+</tr>
+</tbody>
+</table>
+
+Twenty-two trees have been removed from the plot since last year. These have either died of borer, or have been killed by other causes. The
+
+10------------------------------------------------
+
+JUNE, 1921.]39
+
+fall of a large branch from a dead shade tree also smashed some trees so that they had to be removed.
+
+The total crop from 88 trees examined was 21,495 berries weighing 74 lb., an average of 244 berries per tree. Three trees had no crop at all, and many gave only a few berries. The highest yield was one of 1,393 berries, so that there was, as last year, an enormous variation.
+
+If now we draw a line below the group in the table containing 201 to 300 berries, that is about the average, we can divide the trees into two main groups, those bearing below the average and those bearing above it.
+
+When we do this, we find that 69 trees fall into the first group and 19 in the second. That is to say, 69 trees out of 88, or 78 per cent. bear only 30.8 per cent. of the total crop, while the bulk of the crop, 69.2 per cent. is borne on 19 trees, or 22 per cent. of the total.
+
+These figures show a remarkable similarity to those obtained last year, as will be seen from the following table:—
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>1919-1920</th>
+<th>1920-1921</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of trees experimented with</td>
+<td>... 110</td>
+<td>88</td>
+</tr>
+<tr>
+<td>Number of trees with no crop</td>
+<td>... 2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Average number of berries per tree</td>
+<td>... 270</td>
+<td>244</td>
+</tr>
+<tr>
+<td>Highest yield of berries on one tree</td>
+<td>... 1,752</td>
+<td>1,393</td>
+</tr>
+<tr>
+<td>Number of berries in the total crop</td>
+<td>... 29,755</td>
+<td>21,495</td>
+</tr>
+<tr>
+<td>Green weight of total crop</td>
+<td>117 lb. 6 oz.</td>
+<td>74 lb.</td>
+</tr>
+<tr>
+<td>Number of berries in one pound</td>
+<td>... 253</td>
+<td>288</td>
+</tr>
+<tr>
+<td>Number of trees bearing below the average</td>
+<td>... 77</td>
+<td>69</td>
+</tr>
+<tr>
+<td>Percentage of total number of trees</td>
+<td>... 70</td>
+<td>78.4</td>
+</tr>
+<tr>
+<td>Number of trees bearing above the average</td>
+<td>... 33</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Percentage of total number of trees</td>
+<td>... 30</td>
+<td>21.6</td>
+</tr>
+<tr>
+<td>Percentage of total crop on trees below average</td>
+<td>... 31</td>
+<td>30.8</td>
+</tr>
+<tr>
+<td>Percentage of total crop on trees above average</td>
+<td>... 69</td>
+<td>69.2</td>
+</tr>
+</tbody>
+</table>
+
+Of the 77 trees which last year yielded less than the average of 300 berries, 18 have been removed, having died or been badly broken. Of the 59 left, it is significant that 43, or 75 per cent., again gave less than the average of 300 berries this year.
+
+This tends to show that a coffee bush which has fallen below a certain standard of vigour and become a bad bearer will remain a bad bearer, if nothing is done to it. It is not simply a matter of season that such bushes do not bear: they never will bear till rejuvenated, and the question arises, as stated last year, can we not distribute better the soil, the moisture, and the plant food, so as to take it from these poor trees and give it to the good ones? It is evident that some 70 per cent. of the trees on this particular plot should be replaced by better bearers. Were they all removed, the crop would only be reduced by 31 per cent.
+
+This experiment will be repeated with the same trees once more this year, and then they, and the neighbouring plot which they represent, will be used for a rejuvenation experiment, to demonstrate the benefits of collar pruning on old worn out coffee.—PLANTERS' CHRONICLE, Vol. XVI, No. 21.
+
+11------------------------------------------------
+
+340[JUNE, 1921.
+
+# COCONUTS.
+
+## MANNING COCONUT TRIAL GROUND, NEGOMBO.
+
+**GATE MUDALIYAR A. E. RAJAPAKSE.**
+
+Experiments on this were started in 1914 and are being conducted with the co-operation of the Department of Agriculture on ten experimental plots of young coconuts, of one acre each, planted in June 1917, 25 × 25 or 69.7 palms to an acre.
+
+The soil is a sandy loam common to most cinnamon land and when planted had been recently cleared from this product was more or less in scrub and small trees. This was cleared in 1913.
+
+The growth of the young trees is very even and there are no vacancies.
+
+The amount of manure applied varies in each plot, but the object was to apply 15 lb. of each constituent per acre each year for the first two years then to increase it every two years by 5 lb. until 30 lb. per acre is reached.
+
+The following is the treatment given and the results obtained :—
+
+First two years 15 lb. of each constituent per acre per annum.
+
+<table>
+<tr>
+<td>Second</td>
+<td>20</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+<tr>
+<td>Third</td>
+<td>25</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+<tr>
+<td>Fourth</td>
+<td>30</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+</table>
+
+### No 1.
+
+#### Complete General Mixture applied Annually.
+
+<table>
+<tr>
+<td>Ground nut cake</td>
+<td>360 lb.</td>
+<td>containing</td>
+<td>Nitrogen</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Steamed Bone Meal</td>
+<td>138</td>
+<td>"</td>
+<td>Phos. acid</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Sulphate of Potash</td>
+<td>60</td>
+<td>"</td>
+<td>Potash</td>
+<td>30</td>
+</tr>
+</table>
+
+#### Height of Palms.
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914 June</td>
+<td>60-29 ins.</td>
+<td>-</td>
+<td>3</td>
+</tr>
+<tr>
+<td>" December</td>
+<td>78-85 "</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1915 June</td>
+<td>107-62 "</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>" December</td>
+<td>132-52 "</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1916 June</td>
+<td>153-83 "</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>" December</td>
+<td>183-54 "</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1917 June</td>
+<td>204-86 "</td>
+<td>-</td>
+<td>1</td>
+</tr>
+<tr>
+<td>" December</td>
+<td>217-45 "</td>
+<td>-</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1918 June</td>
+<td>228-81 "</td>
+<td>-</td>
+<td>3</td>
+</tr>
+<tr>
+<td>" December</td>
+<td>236-93 "</td>
+<td>-</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+#### 6 Palms Flowered.
+
+Ploughed once a year up to the end of 1917 since January 1918, twice a year.
+
+### No. 2.
+
+#### General Mixture without Nitrogen.
+
+<table>
+<tr>
+<td>Degalatinized Bone Meal</td>
+<td>100 lb.</td>
+<td>containing</td>
+<td>Phos. acid</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Sulphate of Potash</td>
+<td>60</td>
+<td>"</td>
+<td>Potash</td>
+<td>30</td>
+</tr>
+</table>
+
+12------------------------------------------------
+
+JUNE, 1921.]341**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>61-64 ins.</td>
+<td>1</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>74-19 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>100-61 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>125-78 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>147-25 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>182-26 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>188-32 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>212-25 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>216-35 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>236-39 "</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+**11 Palms Flowered.**
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+**No. 3.****General Mixture without Phosphoric Acid.**
+
+<table>
+<tbody>
+<tr>
+<td>Ground nut cake</td>
+<td>428 lb. containing</td>
+<td>Nitrogen</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Sulphate of Potash</td>
+<td>60 "</td>
+<td>Potash</td>
+<td>30 "</td>
+</tr>
+</tbody>
+</table>
+
+**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>60-99 ins.</td>
+<td>2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>74-10 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>102-58 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>128-90 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>144-76 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>177-55 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>181-86 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>214-64 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>218-27 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>231-87 "</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+
+**5 Palms Flowered.**
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+**No. 4.****General Mixture without Potash,**
+
+<table>
+<tbody>
+<tr>
+<td>Ground nut cake</td>
+<td>414 lb. containing</td>
+<td>Nitrogen</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Degalatinized Bone Meal</td>
+<td>100 "</td>
+<td>Phos. acid</td>
+<td>30 "</td>
+</tr>
+</tbody>
+</table>
+
+**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>55-75 ins.</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>72-58 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>101-58 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>123-61 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>142-99 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>166-98 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>176-45 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>197-58 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>205-39 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>220-01 "</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+
+**11 Palms Flowered.**
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+**No. 5.****No Manure.**
+
+Ploughed about 3 to 4 inches deep once a month, about 6 inches deep once a year.
+
+13------------------------------------------------
+
+342[JUNE, 1921.**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>50-93 ins.</td>
+<td>5</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>65-83 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>97-29 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>121-52 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>143-90 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>168-70 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>188-88 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>227-54 "</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>233-86 "</td>
+<td>2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>238-04 "</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+
+**18 Palms Flowered.****No. 6.**
+
+Green manure, *Tephrosia Candida* or *purpurea* sown between the rows cut and dug in circle 3 ft.—4 ft. from the palm with Basic slag 150 lb., Sulphate of potash 60 lb., Increasing the circle 1 ft. annually.
+
+**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>47-36 ins.</td>
+<td>7</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>62-90 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>86-97 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>107-17 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>120-65 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>149-51 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>153-54 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>207-50 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>204-62 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>221-10 "</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+**5 Palms Flowered.**
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+**No. 7a.**
+
+Soluble manures applied 4 times annually in a circle 3 ft. — 4 ft. from the palm.
+
+**Half Plot.**
+
+<table>
+<tbody>
+<tr>
+<td>S. Ammonia</td>
+<td>150 lb. containing</td>
+<td>Nitrogen</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Kainit</td>
+<td>250 "</td>
+<td>Potash</td>
+<td>30 "</td>
+</tr>
+<tr>
+<td>C. Superphosphate</td>
+<td>72 "</td>
+<td>Phos. acid</td>
+<td>30 "</td>
+</tr>
+</tbody>
+</table>
+
+**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>42-64 ins.</td>
+<td>11</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>54-46 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>80-94 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>117-29 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>136-65 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>160-80 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>186-48 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>215-00 "</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>239-00 "</td>
+<td>4</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>246-26 "</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+**8 Palms Flowered.**
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+**No. 7b.****Half Plot—(Soluble Manures)**
+
+<table>
+<tbody>
+<tr>
+<td>Nitrate of Potash</td>
+<td>86 lb. containing</td>
+<td>Nitrogen</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Nitrate of Soda</td>
+<td>143 "</td>
+<td>Phos. acid</td>
+<td>30 "</td>
+</tr>
+<tr>
+<td>C. Superphosphate</td>
+<td>60 "</td>
+<td>Potash</td>
+<td>30 "</td>
+</tr>
+</tbody>
+</table>
+
+14------------------------------------------------
+
+JUNE, 1921.]343**Height of Palms**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>44-07 ins.</td>
+<td>10</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>57-71 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>91-44 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>108-12 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>125-56 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>145-76 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>171-49 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>213-15 "</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>209-67 "</td>
+<td>6</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>223-50 "</td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+
+**3 Palms Flowered.**
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+**No. 8.**
+
+Control kept in grass, all large weeds being removed monthly.
+
+**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>46-97 ins.</td>
+<td>6</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>58-88 "</td>
+<td>7</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>80-53 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>94-91 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>105-99 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>119-71 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>136-82 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>151-23 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>156-89 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>170-10 "</td>
+<td>11</td>
+</tr>
+</tbody>
+</table>
+
+**1 Palm Flowered.****No. 9.**
+
+Kept clean weeded monthly.
+
+**Height of Palms.**
+
+<table>
+<thead>
+<tr>
+<th colspan="3"></th>
+<th>Comparative order.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>45-53 ins.</td>
+<td>9</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>56-48 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>79-70 "</td>
+<td>11</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>95-91 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>112-36 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>133-93 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>154-62 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>181-44 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>182-93 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>191-48 "</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+**6 Palms Flowered.**
+
+This plot was clean weeded monthly until July, 1916. But its appearance was so unsatisfactory that this treatment was discontinued and an application of Potash given.
+
+Clean weeded until July, 1916. Ploughed twice a year since 1918.
+
+**No. 10.****General Mixture with Lime.**
+
+<table>
+<tbody>
+<tr>
+<td>Nitrolim</td>
+<td>168 lb.</td>
+<td>containing Nitrogen</td>
+<td>30 lb.</td>
+</tr>
+<tr>
+<td>Basic slag</td>
+<td>150 "</td>
+<td>Phos. acid</td>
+<td>30 "</td>
+</tr>
+<tr>
+<td>Sulphate of Potash</td>
+<td>60 "</td>
+<td>Potash</td>
+<td>30 "</td>
+</tr>
+<tr>
+<td>Lime</td>
+<td>222 "</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+15------------------------------------------------
+
+344[JUNE, 1921.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="3">Height of Palms.</th>
+<th>Comparative order</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>June</td>
+<td>45.85 ins.</td>
+<td>8</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>56.56 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>June</td>
+<td>81.83 "</td>
+<td>8</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>97.71 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>June</td>
+<td>116.78 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>134.55 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>June</td>
+<td>150.06 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>174.99 "</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>June</td>
+<td>186.53 "</td>
+<td>9</td>
+</tr>
+<tr>
+<td>"</td>
+<td>December</td>
+<td>225.60 "</td>
+<td>6</td>
+</tr>
+</tbody>
+</table>
+
+#### 4 Palms Flowered.
+
+Ploughed once a year till the end of 1917. Twice a year since 1918.
+
+#### Rainfall.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1914.</th>
+<th>1915.</th>
+<th>1916.</th>
+<th>1917.</th>
+<th>1918.</th>
+<th>1919.</th>
+<th>1920.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January ...</td>
+<td>0</td>
+<td>5.14</td>
+<td>0.03</td>
+<td>1.00</td>
+<td>2.58</td>
+<td>3.85</td>
+<td>.81</td>
+</tr>
+<tr>
+<td>February...</td>
+<td>0</td>
+<td>2.81</td>
+<td>1.19</td>
+<td>6.38</td>
+<td>1.29</td>
+<td>19</td>
+<td>1.03</td>
+</tr>
+<tr>
+<td>March ...</td>
+<td>0</td>
+<td>10.29</td>
+<td>5.14</td>
+<td>12.96</td>
+<td>2.80</td>
+<td>4.21</td>
+<td>6.29</td>
+</tr>
+<tr>
+<td>April ...</td>
+<td>0</td>
+<td>7.99</td>
+<td>6.41</td>
+<td>5.91</td>
+<td>5.65</td>
+<td>4.77</td>
+<td>16.08</td>
+</tr>
+<tr>
+<td>May ...</td>
+<td>0</td>
+<td>14.33</td>
+<td>26.75</td>
+<td>8.41</td>
+<td>12.10</td>
+<td>16.93</td>
+<td>2.40</td>
+</tr>
+<tr>
+<td>June ...</td>
+<td>7.66</td>
+<td>16.88</td>
+<td>9.90</td>
+<td>3.79</td>
+<td>5.19</td>
+<td>4.88</td>
+<td>15.31</td>
+</tr>
+<tr>
+<td>July ...</td>
+<td>1.81</td>
+<td>15.96</td>
+<td>3.75</td>
+<td>1.19</td>
+<td>2.30</td>
+<td>2.55</td>
+<td>—</td>
+</tr>
+<tr>
+<td>August ...</td>
+<td>.71</td>
+<td>.88</td>
+<td>5.13</td>
+<td>1.03</td>
+<td>.79</td>
+<td>5.07</td>
+<td>—</td>
+</tr>
+<tr>
+<td>September</td>
+<td>1.98</td>
+<td>7.77</td>
+<td>4.02</td>
+<td>14.52</td>
+<td>1.11</td>
+<td>12.87</td>
+<td>2.79</td>
+</tr>
+<tr>
+<td>October ...</td>
+<td>18.97</td>
+<td>8.96</td>
+<td>3.51</td>
+<td>4.24</td>
+<td>10.96</td>
+<td>7.05</td>
+<td>13.68</td>
+</tr>
+<tr>
+<td>November</td>
+<td>11.76</td>
+<td>31.77</td>
+<td>7.51</td>
+<td>9.13</td>
+<td>7.65</td>
+<td>10.34</td>
+<td>16.64</td>
+</tr>
+<tr>
+<td>December</td>
+<td>9.03</td>
+<td>2.48</td>
+<td>3.22</td>
+<td>3.02</td>
+<td>9.08</td>
+<td>8.81</td>
+<td>5.19</td>
+</tr>
+</tbody>
+</table>
+
+51.92 125.26 76.56 71.58 61.50 81.52 80.22
+
+#### Rainy days.
+
+<table border="1">
+<tbody>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>139</td>
+<td>...</td>
+<td>..</td>
+<td>4.85</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>153</td>
+<td>...</td>
+<td>..</td>
+<td>7.18</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>...</td>
+<td>131</td>
+<td>...</td>
+<td>..</td>
+<td>5.60</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>...</td>
+<td>115</td>
+<td>..</td>
+<td>..</td>
+<td>5.36</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>...</td>
+<td>108</td>
+<td>...</td>
+<td>..</td>
+<td>4.06</td>
+</tr>
+<tr>
+<td>1920</td>
+<td>...</td>
+<td>90</td>
+<td>...</td>
+<td>..</td>
+<td>3.36</td>
+</tr>
+</tbody>
+</table>
+
+#### Highest fall
+
+### CENSUS OF PALMS.
+
+#### January, 1921.
+
+<table border="1">
+<thead>
+<tr>
+<th>Plots.</th>
+<th>Bearing</th>
+<th>Palms in Flower.</th>
+<th>Palms about to flower.</th>
+<th>Young.</th>
+<th>Total Palms.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>24</td>
+<td>14</td>
+<td>25</td>
+<td>6</td>
+<td>69</td>
+</tr>
+<tr>
+<td>2</td>
+<td>30</td>
+<td>9</td>
+<td>21</td>
+<td>9</td>
+<td>69</td>
+</tr>
+<tr>
+<td>3</td>
+<td>34</td>
+<td>8</td>
+<td>20</td>
+<td>7</td>
+<td>69</td>
+</tr>
+<tr>
+<td>4</td>
+<td>18</td>
+<td>25</td>
+<td>17</td>
+<td>9</td>
+<td>69</td>
+</tr>
+<tr>
+<td>5</td>
+<td>32</td>
+<td>15</td>
+<td>16</td>
+<td>6</td>
+<td>69</td>
+</tr>
+<tr>
+<td>6</td>
+<td>32</td>
+<td>7</td>
+<td>23</td>
+<td>7</td>
+<td>69</td>
+</tr>
+<tr>
+<td>7A</td>
+<td>20</td>
+<td>5</td>
+<td>7</td>
+<td>3</td>
+<td>35 half plot</td>
+</tr>
+<tr>
+<td>7B</td>
+<td>12</td>
+<td>7</td>
+<td>8</td>
+<td>7</td>
+<td>34 do</td>
+</tr>
+<tr>
+<td>8</td>
+<td>5</td>
+<td>2</td>
+<td>11</td>
+<td>51</td>
+<td>69</td>
+</tr>
+<tr>
+<td>9</td>
+<td>15</td>
+<td>6</td>
+<td>23</td>
+<td>25</td>
+<td>69</td>
+</tr>
+<tr>
+<td>10</td>
+<td>13</td>
+<td>8</td>
+<td>26</td>
+<td>22</td>
+<td>69</td>
+</tr>
+<tr>
+<td colspan="6">Extra Plots.</td>
+</tr>
+<tr>
+<td>(A)</td>
+<td>15</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>16</td>
+</tr>
+<tr>
+<td>(B)</td>
+<td>15</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>16</td>
+</tr>
+</tbody>
+</table>
+
+A. Manured with the full compost as No. 1, and the manured area mulched with coconut husks.
+
+B. Manured with the full compost and mulched with fibre dust.
+
+16------------------------------------------------
+
+JUNE, 1921.]345
+
+**Coconut Crops of 1920.**
+
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="text-align: left;">Plots.</th>
+<th style="text-align: center;">Nuts.</th>
+<th style="text-align: left;">Plots.</th>
+<th style="text-align: center;">Nuts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 ...</td>
+<td style="text-align: center;">146</td>
+<td>6 ...</td>
+<td style="text-align: center;">205</td>
+</tr>
+<tr>
+<td>2 ...</td>
+<td style="text-align: center;">329</td>
+<td>7A ...</td>
+<td style="text-align: center;">256</td>
+</tr>
+<tr>
+<td>3 ...</td>
+<td style="text-align: center;">213</td>
+<td>7B ...</td>
+<td style="text-align: center;">158</td>
+</tr>
+<tr>
+<td>4 ...</td>
+<td style="text-align: center;">144</td>
+<td>8 ...</td>
+<td style="text-align: center;">30</td>
+</tr>
+<tr>
+<td>5 ...</td>
+<td style="text-align: center;">269</td>
+<td>9 ...</td>
+<td style="text-align: center;">169</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>10 ...</td>
+<td style="text-align: center;">180</td>
+</tr>
+<tr>
+<td>Extra Plot A.</td>
+<td style="text-align: center;">...</td>
+<td>...</td>
+<td style="text-align: center;">344 nuts.</td>
+</tr>
+<tr>
+<td>do B.</td>
+<td style="text-align: center;">...</td>
+<td>...</td>
+<td style="text-align: center;">264 nuts.</td>
+</tr>
+</tbody>
+</table>
+
+**CONCLUSIONS.**
+
+Coconuts could be grown very successfully on sandy soils in the Negombo district on which cinnamon had been grown.
+
+By proper attention palms could be made to flower from the 5th year and brought to full bearing from the eighth year.
+
+A complete mixture is necessary to be applied from the beginning and the soil should be cultivated twice a year during the first five years and then once a year.
+
+The soil is deficient in Potash. Excellent results could be obtained by mulching the manured area with coconut husks.
+
+Cultivating the soil once a month without manuring is very beneficial at the commencement but exhausts the soil in three or four years and the palms collapse owing to the poverty of the soil. Clean weeding is not beneficial. For the early growth of palms all the three ingredients, nitrogen, phosphoric acid and potash are necessary. It has to be determined by the continuation of these experiments in what proportion they are necessary for nut production.
+
+**AN EXPERIMENT TO DETERMINE IF THE FERTILITY OF A COCONUT LAND AND ITS PRODUCTIVITY COULD BE MAINTAINED IF ITS PRODUCTS BE RETURNED TO IT.**
+
+The experiment was started on the 15th of February, 1917. The extent of the land is about half an acre with 35 trees in full bearing
+
+The entire land is surrounded by a narrow trench about 2 feet deep to intercept the roots.
+
+The trees are numbered from one to thirty-five (1-35).
+
+The crops are gathered once in two months.
+
+The number and weight of bunches, branches or leaves and nuts of each tree, on the picking day are carefully recorded.
+
+Two months after picking, the nuts are re-weighed and converted into copra.
+
+The weight of the husks, water, kernel, shells and copra are also recorded.
+
+All the fallings are buried after each picking. As the husks take a long time to decompose an equivalent weight of dry fibre dust was returned to the soil.
+
+The copra is turned into oil and the poonac is returned into the soil once a year.
+
+The land is ploughed twice a year, in January and July; ploughing alternately deep and shallow.
+
+17------------------------------------------------
+
+346[JUNE, 1921.
+
+The results have been as follows :—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1917</th>
+<th>1918</th>
+<th>1919</th>
+<th>1920</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bunches</td>
+<td>406</td>
+<td>404</td>
+<td>367</td>
+<td>368</td>
+</tr>
+<tr>
+<td>Branches or leaves</td>
+<td>410</td>
+<td>500</td>
+<td>477</td>
+<td>551</td>
+</tr>
+<tr>
+<td>do do weight</td>
+<td>2,644 lb.</td>
+<td>2,145 lb.</td>
+<td>2,015 lb.</td>
+<td>2,007 lb.</td>
+</tr>
+<tr>
+<td>Fallings—weight</td>
+<td>759 "</td>
+<td>776 "</td>
+<td>575 "</td>
+<td>540 "</td>
+</tr>
+<tr>
+<td>Nuts</td>
+<td>2,165 nuts</td>
+<td>2,161 nuts</td>
+<td>2,068 nuts</td>
+<td>2,052 nuts</td>
+</tr>
+<tr>
+<td>do weight (green)</td>
+<td>7,935 lb.</td>
+<td>7,693 lb.</td>
+<td>7,511 lb.</td>
+<td>7,311 lb.</td>
+</tr>
+<tr>
+<td>do do after 2 months</td>
+<td>5,903 "</td>
+<td>5,655 "</td>
+<td>6,131 "</td>
+<td>5,503 "</td>
+</tr>
+<tr>
+<td>Husks—weight</td>
+<td>2,728 "</td>
+<td>2,797 "</td>
+<td>2,926 "</td>
+<td>2,904 "</td>
+</tr>
+<tr>
+<td>Water—weight</td>
+<td>577 "</td>
+<td>485 "</td>
+<td>510 "</td>
+<td>378 "</td>
+</tr>
+<tr>
+<td>Kernel and Shells</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    before drying</td>
+<td>2,674 "</td>
+<td>2,364 "</td>
+<td>2,383 "</td>
+<td>2,314 "</td>
+</tr>
+<tr>
+<td>Shells—weight</td>
+<td>743 "</td>
+<td>745 "</td>
+<td>745 "</td>
+<td>725 "</td>
+</tr>
+<tr>
+<td>Copra—weight</td>
+<td>1,015 "</td>
+<td>943 "</td>
+<td>919 "</td>
+<td>910 "</td>
+</tr>
+</tbody>
+</table>
+
+**Weight of the Product returned to the soil.**
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1917</th>
+<th>1918</th>
+<th>1919</th>
+<th>1920</th>
+</tr>
+<tr>
+<th></th>
+<th>lb.</th>
+<th>lb.</th>
+<th>lb.</th>
+<th>lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Branches or leaves</td>
+<td>2,644</td>
+<td>2,145</td>
+<td>2,015</td>
+<td>2,007</td>
+</tr>
+<tr>
+<td>Other fallings</td>
+<td>759</td>
+<td>776</td>
+<td>575</td>
+<td>540</td>
+</tr>
+<tr>
+<td>Husks</td>
+<td>2,728</td>
+<td>2,797</td>
+<td>2,926</td>
+<td>2,904</td>
+</tr>
+<tr>
+<td>Water</td>
+<td>577</td>
+<td>485</td>
+<td>510</td>
+<td>378</td>
+</tr>
+<tr>
+<td>Shells</td>
+<td>743</td>
+<td>745</td>
+<td>745</td>
+<td>725</td>
+</tr>
+<tr>
+<td>Poonac</td>
+<td>338</td>
+<td>314</td>
+<td>306</td>
+<td>303</td>
+</tr>
+<tr>
+<td></td>
+<td><hr/></td>
+<td><hr/></td>
+<td><hr/></td>
+<td><hr/></td>
+</tr>
+<tr>
+<td></td>
+<td>7,789</td>
+<td>7,262</td>
+<td>7,077</td>
+<td>6,857</td>
+</tr>
+</tbody>
+</table>
+
+**Total Weight of the Products Produced by the 35 Trees:**
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Tons.</th>
+<th>Cwt.</th>
+<th>Qrs.</th>
+<th>Lb</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(<math>\frac{1}{2}</math> an acre) in 1917</td>
+<td>3</td>
+<td>15</td>
+<td>2</td>
+<td>12</td>
+</tr>
+<tr>
+<td>do in 1918</td>
+<td>3</td>
+<td>10</td>
+<td>1</td>
+<td>24</td>
+</tr>
+<tr>
+<td>do in 1919</td>
+<td>3</td>
+<td>8</td>
+<td>2</td>
+<td>17</td>
+</tr>
+<tr>
+<td>do in 1920</td>
+<td>3</td>
+<td>6</td>
+<td>2</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+
+Average nuts per tree in 1917 61'86
+
+" " " " 1918 61'74
+
+" " " " 1919 59'08
+
+" " " " 1920 58'63
+
+The largest annual crop of a single tree in 1917 is 94 nuts.
+
+" " " " " " 1918 is 112 "
+
+" " " " " " 1919 is 112 "
+
+" " " " " " 1920 is 91 "
+
+The smallest annual crop of a single tree in 1917 is 23 nuts.
+
+" " " " " " 1918 " 20 "
+
+" " " " " " 1919 " 15 "
+
+" " " " " " 1920 " 5 "
+
+The largest quantity of copra produced by one tree in 1917 41 lb. 13 oz.
+
+" " " " " " 1918 51 " 13 "
+
+" " " " " " 1919 32 " 8 "
+
+" " " " " " 1920 29 " 7 "
+
+The smallest quantity of copra produced by one tree in 1917 11 lb. 10 "
+
+" " " " " " 1918 9 " 4 "
+
+" " " " " " 1919 7 " 10 "
+
+" " " " " " 1920 2 " 4 "
+
+18------------------------------------------------
+
+JUNE, 1921.]347
+
+# FIBRE.
+
+## CAMBODIA COTTON (*GOSSYPIUM HIRSUTUM.*)\*
+
+G. R. HILSON, B.Sc.
+
+*Dy. Director of Agriculture, Madras.*
+
+Cambodia Cotton is an Upland American variety of cotton. It was first brought to the notice of cultivators in Madras Presidency in 1907, when a small quantity of unselected seeds was distributed. From the beginning its cultivation spread rapidly until, when the Indian Cotton Committee made their report in 1919, the area under this crop in this Presidency alone was estimated at 200,000 acres.
+
+During the first few years the reports received from buyers regarding the quality of the lint were very favourable. Later, however, after the cotton had been in the hands of the cultivator for about ten years and had been exposed to the full effects of climate and careless methods of cultivation, less favourable reports began to come in. It was definitely asserted that the lint was shorter, weaker and much more stained than was the case at first. The plant was stated to have deteriorated.
+
+The charges made were true enough, but to say that the crop had deteriorated was merely to express a fact in a conveniently short manner, without correctly realizing what causes were involved.
+
+A similar reaction on the part of the crop, differing only in type, would have given a result which, with equal looseness of expression would have been termed acclimatization. We may estimate correctly the causes of the change which occurred by considering the charges made under two heads.
+
+First. Weakness and staining.
+
+There was only one factor at work here, namely the boll-worm. When first grown in this Presidency, Cambodia cotton was no more able to withstand the attack of the boll worm than it is at the present time. In this respect it has neither deteriorated nor improved. What really happened, then, was that the cultivator unwittingly set to work vigorously to breed boll-worms. Desire to reap a large profit from the crop led him to adopt the practice of leaving it standing for several years in succession. Thereby he over-reached himself. For by so doing he ensured a steady supply of food all through the year for the boll-worm population. The natural result was that the boll-worm increased rapidly in numbers, and in consequence the number of bolls attacked also increased. Thus a large proportion of the 1918 crops was stained and weak than was the case with the crop of 1908. If the boll-worm can be reduced in numbers, then the loss in yield and deterioration due to this cause can be reduced.
+
+Second. Shortness of staple.
+
+---
+
+\* Paper read at Coimbatore Agricultural Conference, December, 1920.
+
+19------------------------------------------------
+
+348[JUNE, 1921.
+
+Here there is an entirely different question to be dealt with. The first seed distributed was unselected, and was a mixture of types. Plates A, B, C, D,\* etc., show some of the types to be found in the Cambodia cotton crop at the present day. All the possible types are not represented. There are others intermediate between the shortest and the longest. Probably not all of these types were present in the original mixture, and not all would breed true if isolated and sown separately. The others have arisen by cross-fertilization within the Cambodia population, and possibly, latterly, by contamination with Dhawar-American cotton.
+
+Now, when a mixture of types is given out for cultivation, the plant population so raised does not remain staple. New types arise by cross fertilization, and all the types do not re-act to their environment in exactly the same way. If the bulk of the seed first issued was from the types, D, E, F, as it probably was, and if the conditions of their environment has been such that they favoured these types, they would have continued to form a major proportion of the population. Cambodia cotton would not then have deteriorated in respect of the length of lint, but would have remained very much the same all through. It would, in fact, have become acclimatized.
+
+Conditions, however, in this country, when allowed full sway are not generally favourable to the growth of the best qualities of exotic cottons. The poorer, medium quality, early, more vigorous types are better suited to the climate and careless methods of cultivation, than are the better quality types. When, therefore, the mixture was distributed and then left to itself, the poorer types gradually replaced the better and usurped their position as chief ingredients of the mixture. Thus, after a time, the larger proportion of the lint obtained from the crop was of poorer quality than was the case at first, with the result that the plants were accused of having deteriorated. Fortunately the good types are not lost, they have merely receded into the background. They can be brought into prominence again by the artificial aid of selection. There are two main lines which crop improvement work usually proceeds. The first is more or less a rough and ready method termed plant to plant selection, which in a refined form works as follows:—
+
+*First Season.*—A sample of unselected seed as ordinarily used by the cultivators is obtained and sown. In the case of Cambodia cotton, the resulting crop would consist of a medley of types giving produce similar to A, B, C, D, etc. In this population a number of plants are selected and numbered. The produce of each of these plants is harvested separately, and only such lots as approach nearest to a certain standard are retained.
+
+*Second Season.*—Separate plots are sown with the seed of the selected plants. When the crop is old enough, each plot is examined to determine whether the culture is pure in respect of habit of plant. If impure, representative plants of each type noted are marked. If pure, a number of the best looking plants are marked. The flowers on these marked plants are selfed. Early in the harvesting season each plot is gone over again, and the produce of each plant is examined. The object here is to determine whether, in the impure lots, there are any plants worth keeping which have been overlooked, and whether the lots pure for habit appear pure as regards type of produce.
+
+---
+
+\* Plates not reproduced.
+
+20------------------------------------------------
+
+JUNE, 1921.]349
+
+If any of the latter prove impure the fact is noted, and the selfed plants are examined to see that the different types are all represented. At harvest the produce of each marked plant is gathered separately, and put through a further critical examination in the laboratory. As a result of this examination, some plants may be discarded. Single plants from impure lots are kept separate, as in the beginning, but the selfed seed from the marked plants, in such lots as prove to be pure, is mixed.
+
+*Third Season.*—In this season there will probably be enough selfed seed of the pure type to permit of two sets of plots being sown one to produce pure seed and the other to test the yielding qualities of the pure cultures against one another and local mixture. The seed plot is a quarter of an acre or more in area, and is placed as far from other cottons as possible, to minimise the risk of cross-fertilisation. At harvest the produce of the plants in the centre of the plot is gathered separately and set aside, to provide seed for the next season's sowing. The test plots are in the form of long strips from 2 to 4 cents in area, and are sown side by side in series. The series is repeated as many times as the quantity of seed at disposal will permit, e.g., local, 1, 2, 3, 4, local 1, 2, 3, 4, and so on. The produce of each strip is harvested, weighed and ginned separately, and the results are recorded. This process of growing pure seeds in large plots and of testing yield is carried on for three or four years so as to eliminate the effect due to variation and season. As it proceeds, if possible, some of the types are discarded. The seed plots of those remaining are increased in size until sufficient lint of each is obtained for a spinning test to be carried out. On the results of the spinning and yield tests, the final selection of one type for distribution for the cultivator is made.
+
+This method has a disadvantage, that it may limit the range of improvement. For, whatever the standard set up, types which do not conform to this standard but which may nevertheless possess useful characteristics are liable to be lost. If the type selected for distribution has been judiciously selected and well tested, its cultivation will spread rapidly. And if, as should be the case, a steady stream of pure seed flows from the selecting body to the cultivator, the selected type will soon occupy the whole area on which the plot is grown. Moreover, if the standard set up is a high one, this method affords no definite evidence of the possible existence of the type desired except actual discovery. Failure to find the type aimed at does not prove that it does not exist. At the same time the ideal might be an impossible one, and continued search by the method described might merely result in waste of time.
+
+The second line of procedure is, in its first stage, similar to that outlined. It differs from it in that, instead of picking out a limited number of likely plants, the crop is gone through until all the different types have been secured. Single plant selection and self-fertilization are carried on until all these types have been obtained in pure cultures. From these a few of the best are selected, and tested in the field and in the mill. The best of these is then given out for cultivation, as before. This constitutes the first stage of improvement.
+
+The next step consists in taking all the types which possess one or more useful characters in the highest degree and, by judicious cross-fertilization,
+
+21------------------------------------------------
+
+350[JUNE, 1921.
+
+endeavouring to produce a type which combines in itself all the useful characters in the highest degree. This is, of course, the most difficult part of the whole scheme. It involves the careful study of the inheritance of all the various characters met with, even though some of them may have no apparent economic significance. This second method, *i.e.*, isolation of types and hybridization is the one which it is proposed to follow.
+
+So far we have been dealing in general terms, it is now necessary to go into more detail.
+
+The whole aim of the work on Cambodia cotton is to make it possible for the cultivator, following reasonable methods of cultivation to obtain per acre the heaviest possible yield of lint of one inch, or more in length. Yield per acre can be increased in two ways, by reducing the loss caused by pests and by the production or discovery of a more productive type.
+
+The two main pests from which Cambodia cotton suffers at present are stem-weevil and boll-worm. Exactly how much damage these two pests do singly or together is not definitely known. It is certain that together they do a considerable amount of damage, and that the boll-worm is more destructive than the stem weevil. The most hopeful methods of combating these pests are (1) growing a type of plant wholly or partially immune from their attack, and (2) uprooting the whole crop as early as possible each year, and leaving as long an interval as possible before sowing the next crop. There seems some likelihood that the first method will be successful in the case of the stem-weevil, but in the meantime starvation appears to be the best method of dealing with the boll-worm. At present the interval between the uprooting of one crop and the sowing of the next is generally not more than two months.
+
+Now Cambodia cotton yields twice in the year, once in the season *i.e.*, before the beginning of May, and once in the summer, *i.e.*, from about the middle of June. The second crop is not nearly so good as the first, and is very badly infected with boll-worm. If, therefore, a type could be found which would give practically all its yield in the season and as much then as is now obtained from both summer and season pickings, there would be very little point in keeping the crop standing after the beginning of June. This would permit of a very much longer interval being maintained between successive crops, and would result in the return of the boll-worm to its original status, *viz.*, that of a minor pest. So much, then, for the first method of increasing the yields.
+
+The production of a heavier yielding type is a little more complicated, and involves the study of the following characters among others, the size and shape of the plant, which affects the number of plants which can be grown per acre, the number of bolls set, the size and shape of the boll, the number of locks, in the boll, the number of fully developed seeds in the lock, the weight per seed, and the weight of lint per seed. The scope of this paper does not permit of all these characters being considered, and only the two last mentioned will be dealt with, *viz.*, seed weight and weight of lint per seed.
+
+Bolls, working with Egyptian, and Harland with Sea Island cotton found a positive correlation between seed weight and weight of lint per seed. From the table\* shown here it will be seen that a similar correlation holds
+
+---
+
+\* Table not reproduced.
+
+22------------------------------------------------
+
+JUNE, 1921.]351
+
+good with Cambodia cotton. It will be seen that, as the weight of the seed increases, the weight of lint per seed increases. The lighter seeds give a lower, minimum and maximum weight of seed than the heavier, and do not carry really heavy weights of lint. The explanation of this relationship appears to be this. A heavier seed is a bigger seed. It therefore has a bigger surface area and can carry more fibres. A seed cannot carry more fibres than its surface area will hold, but may carry fewer. A light seed, therefore, cannot carry a heavy weight of fibre, but a heavy seed may carry anything from a light weight, to heavy weight of fibre. Consideration of this feature brings out an interesting point in regard to ginning percentage. The maximum weight of fibre per seed appears to be about  $\frac{3}{4}$  of the weight of the seed. The ginning percentage for any given weight of seed with the maximum weight of fibre is therefore practically the same all through, about 42%. A small seed, carrying the maximum quantity of fibre possible, will therefore give a higher ginning percentage than a heavier seed carrying less than its maximum, although the actual weight of fibre carried by the heavy, seed is more than that carried by the lighter seed. HARLAND found that in Sea Island Cotton there is a positive correlation between weight of fibre per seed and weight of lint per acre. If this holds good with Cambodia cotton, the figure obtained for weight of fibre per seed will be a better indicator of the value of a cotton than ginning percentage, unless ginning percentage is used as an indicator of weight of fibre per seed. Ginning percentage is, in fact, a very minor consideration compared with yield of lint per acre.
+
+Much more might be said about the other character mentioned above, but this paper is already long enough. It has only to be said, in conclusion, that the attempt to combine all the useful characters in the highest degree in one plant may fail at some particular point, owing to incompatibility between certain characters. If, however, anything like this should occur, we shall have the satisfaction of knowing exactly where we stand and up to what limits improvement is possible.—MYSORE ECO. JOURN., Vol. 7, No. 2.
+
+---
+
+## SISAL.
+
+---
+
+T. D. WALKER.
+
+The valuable cordage fibre called Sisal or Sisal Hemp, is a structural, fibre obtained from the leaves of *Agava rigida sisalana*, *A. rigida elongata*, *A. contula*, *A. Lechenilla*, *A. univittata*, *A. laphantha*, *A. lurida*, *A. teguilang*, *A. zupupe*. *Fourcroya gigantea*, *F. geminispina*, and *F. foetida* also yield fibre, but the quality is inferior to that of Sisal.
+
+The genus *Agava rigida sisalana* belongs to the N. O. Amaryllidaceæ, which besides giving us fibre, and many flowers of great beauty such as the Snowdrop, Daffodil, and Narcissus yields pulque, the national drink of Mexico : distilled from the fermented sugary juice of the flowering poles of *Agava Americana*.
+
+The successful cultivation of Sisal is not restricted to any particular country, such as Jute is to India. Sisal is cultivated in East Africa, Java and
+
+23------------------------------------------------
+
+352[JUNE, 1921.
+
+America, and is assuming an increasingly important position in the manufacture of cordage. The premier fibre in the manufacture of cordage is, of course, Abaca, the cultivation and manufacture of which is exclusively confined to the Philippine Islands.
+
+Probably on account of the expensive plant required in the decortication of Sisal, a large quantity of the leaves are retted, which system of cleaning results in an inferior quality of fibre. When however the leaves are decorticated in an up-to-date machine, the fibre produced is a dangerous rival in respect to strength and lustre to the best Abaca.
+
+Just like other things, Sisal requires certain climatic and soil conditions for its successful cultivation. A fibrous loam possessing a high percentage of lime, and having a porous subsoil is suitable for Sisal culture. Sandy soils, clay soils, wet soils, previously cultivated land and land on which sungrass is prevalent are unsuitable. The climate of North Eastern India is ideal for Sisal cultivation. If there is adequate drainage, either natural or constructed, Sisal will flourish in the heavy rainfall of this district and besides thriving in the rains, Sisal will stand the continued drought of the long cold weather excellently. There is an ample manufacturing season lasting from the middle of October to, the middle of April.
+
+Nurseries should be completed 18 months before the plants are required for planting out. For a nursery, clear a piece of virgin soil, and free it from roots, etc., to the depth of a foot. Make the beds four feet wide with one foot paths between; plant with bulbils or suckers 9 inches apart. Plant to the depth of the bulb, and form the soil well around the bulb. Keep each plant perfectly erect, so as to avoid future twisted leaves. Shading is not much required, and very little watering is needed, but at no time must weeds get the ascendancy.
+
+Suckers are obtained from the roots of old plants, and bulbils are produced on the flowering poles which appear after the 11th year. Sisal flowers only once in a life time, when it shoots up a pole 16 feet high bearing several thousand yellowish flowers. When the flowers drop off, miniature plants appear called bulbils. Bulbils take the place of seed, which is rather strange. The absence of seed is probably due to some departure from the normal conditions of growth, Sisal being a native of tropical America.
+
+Suckers and bulbils may be transported a long distance, if packed in a dry airy condition. The packing may be done in baskets between layers of clean dry straw. The bulbils may be collected after they have attained a length of 3 or 4 inches, and the suckers may be taken up at any time.
+
+In clearing land for a Sisal plantation cut the jungle as closely to the ground as possible, leaving valuable timber trees, but do not leave any trees for shade. Sisal likes light and sunshine. After the jungle has been well dried, burn it. If this operation has been done successfully, much additional expenditure will be avoided in collecting and re-burning the jungle. Plan carefully, and cut roads so that they will converge on the factory. If the land is hilly use a road tracer, and cut the roads to gradients of not more than 1 in 6 for foot paths, and 1 in 30 for cart roads, always keeping as much of the roading as possible on the level. Then commence staking. Stake in rows 7 feet apart, and 4 feet apart in the rows. Make the rows to
+
+24------------------------------------------------
+
+JUNE, 1921.]353
+
+run on the level across the slope, if the land is hilly. After this operation has been completed, cut pits, one at each stake,  $1\frac{1}{2}$  foot wide, and a foot deep. After pitting has been completed mix the soil and refill the pits. Plant after the middle of April when the showery weather sets in. In transplanting cut off the old roots closely, and remove a few of the bottom leaves from the plants. Plant to the depth of the bulb, firm the soil carefully, and keep the plants upright so as to avoid twisted leaves, and a future loss of fibre. Inspect the newly planted area frequently, and should any of the plants get blown over by wind have them put right at once.
+
+Fence the cultivation against cattle, as it is scarcely fair to impose the ceaseless vexation on your labour force of guarding their cattle against trespassing upon an open cultivation.
+
+During the first two years after planting, hand fork the soil around the plants to a depth of a few inches, so as to free the plants of weeds, and to mix the feeding salts that get drawn up to the surface by evaporation in dry weather. Sickle the intervening space. After the second year hand forking may be discontinued. No other cultivation than this is required on hilly or sloping land, but on flat land some extra expenditure will be incurred in keeping the drainage open. By this system of cultivation, there will be no deterioration of the soil. Each round of cultivation should yield over 100 mds. of green mulching per acre, and by the end of the season when five or six rounds of cultivation have been done, the soil will have been enriched considerably by these repeated applications of green mulching.
+
+Always allow the plants to reach full size before starting to crop: for after cropping has been commenced the plants will not increase in size. If two year old plants have been put out, having attained a height of two feet, cropping may start after the second year of planting, when the plants will be fully developed. In cropping, the leaves are cut off as closely as possible by a large medium pruning knife, and 12 or 13 of the central leaves are left on each plant. The plant will suffer if a less number of leaves are left, and if more leaves are left the fibre in the additional leaves, when decorticated next season will be of an inferior quality. Each plant will yield about 20 to 25 leaves annually, and the harvest may be completed in one cutting.
+
+The edges of the Sisal leaves are smooth, and free from spines, but there is one large spine at the end of the leaf, which is snipped off at the time of cutting—these horny substances, if left on the leaves, would wear out the cylindrical bronze plates of the decorticator. The leaves are tied up into bundles of 50. A woman will cut twelve of such bundles, and a man will cut 16 for a full day's work. Good workers can earn double pay, but this is fair task. The coolies will also place the bundles within reach of the carters who transport the leaf to the factory.
+
+Leaf should be decorticated within 24 hours of the time of cutting. If the decortication is delayed beyond this period there will be a loss of lustre, a reduced percentage of fibre, and little loss in strength, but the loss in lustre will be most marked.
+
+The Corona Decorticator is an excellent machine for decorticating the fibre, and as much as 40 mds. of fibre may be produced by one machine in a working day of 10 hours, and by an application of water to the scutchers
+
+25------------------------------------------------
+
+354[JUNE, 1921.
+
+the fibre may be delivered washed. After decorticating the fibre is hung up on bamboos, spread evenly, and not too thickly, and dried in the sun for two days. It is then ready for bailing, and despatching to the market. When drying the fibre may be looked over, and any discoloured pieces removed.
+
+A large drying ground adjacent to the factory, capable of accommodating two days manufacture is required. It is fitted up with rows of posts, 10 feet apart and 6 feet apart in the rows. Nails are driven in the posts to support two bamboos bearing the fibre, one above the other.
+
+The factory should be constructed of iron, with an enclosed engine and boiler room, and having a godown capable of containing several 10 ton lots of fibre. The decorticating room may be protected by panels of expanded metal, and having doors that can be locked. The position of the factory should be central, and near a constant supply of water.
+
+The power required for driving a machine of the class indicated here, will be found in a steam engine of 24 inch stroke, 13 inch diameter cylinder, running at 90 revolutions per minute, and carrying a driving pulley of 6½ feet in diameter. A No. 3 Pulsometer is desirable in washing the fibre, and in supplying water for the boiler. The consumption of fuel should be about ½ maund coal to the maund of fibre.
+
+Nearly 10 per cent of fibre may be obtained from the leaves, the rest is pulp, and watery juice. Tipping trucks on a tramway economise labour in removing the refuse. Probably even this labour might be avoided if the factory were placed in an elevated position, and channels constructed whereby the refuse could be conveyed to heaps lower than the factory. Of course, water power would reduce the cost of production.
+
+A labour force of half a coolie per acre should suffice. During the rains some of the men could be spared for other works, but all hands would be required at harvest time, and in addition to the full labour force a few extra people could be employed.
+
+One European could superintend several Sisal plantations, placed under efficient native management.
+
+Hoes last for a long time. Pruning knives serve for several seasons, but a fair number of sickles are used : many of them break. In addition to these chief items of expenditure, a few hundred yards of 1 inch rope is required in maintaining the rope system of the decorticator.
+
+The weed *Eupatorium* should be encouraged in the cultivation, as it yields better mulching than other weeds give. Two leaves per plant may be taken as equal to about one maund of fibre per acre, and 2,400 leaves will give one maund of fibre.
+
+Sisal is fairly free from blight, but it is damaged by severe hail and by cattle.
+
+Coolies after some time improve greatly in Sisal work, when they do not care to engage in any other class of labour.
+
+When Sisal poles all the strength of the plant is absorbed in production of bulbils and it then dies. In order to maintain a succession of plants, replant in the 8th year, with suckers of young plants, putting one to each plant where there is not already a sucker. Fill in vacancies as they occur, and keep free from weeds until these young plants are well established.
+
+The large quantity of pulp produced, when well rotted, is an excellent manure, and it is improved by the addition of lime.
+
+With Sisal selling at £ 35 per ton, and fibre produced under favourable circumstances, the profits should be about double the working expenses,
+
+—INDIAN SCIENTIFIC AGRICULTURIST, Vol. 2, No. 4.
+
+26------------------------------------------------
+
+JUNE, 1921.]355
+
+# FOODSTUFFS.
+
+## EXPERIMENTS WITH OATS AT NUWARA ELIYA.
+
+T. B. DUMBUKALA,
+
+*Forest Office, Nuwara Eliya.*
+
+The vast region of land, which lies between the Pidurutalagala and the Hakgala mountains and which was in olden days known as Asokawana, probably due to its numerous Asoka trees (*Rhododendron Artoreum*), is supposed to be the place where the Indian Queen Sita (the wife of Prince Rama the hero of the Legend called Ramayana compiled by the famous Valmiki) had been kept in concealment by Rawana the Demon King of Ceylon whose capital was evidently Nuwara Eliya or its vicinity. There is no reason to disbelieve this story as a part of this forest is now known as Sita Eliya after the name of Queen Sita and as there are various other theories to prove that in the remote past Nuwara Eliya was a thickly populated station.
+
+This region is now known by four principal names, viz :Nuwara Eliya, Sita Eliya, Maha Eliya, and Hawa Eliya, the chief of which is Nuwara Eliya, the present fascinating Sanatorium of Ceylon. Hundred years ago Nuwara Eliya was a thick jungle and was exclusively inhabited by wild beasts. It was only in 1819 that DR. DAVY rediscovered Nuwara Eliya which was then known as Nuwara Eliya patana.
+
+As paddy, the staple food of the people did not grow at Nuwara Eliya owing to its intense cold and unsuitableness of the soil, the Ceylonese had not made it their habitation until its rediscovery by Europeans.
+
+At present Nuwara Eliya is famous for its English vegetables, which grow very luxuriantly, but no cereals are being cultivated either in the town or in the neighbourhood. Experimental trials had however been made in 1903 by MR. W. NOCK of the Agricultural Department who has pronounced that oats are among the best and most profitable fodders to grow on the black soil in Nuwara Eliya.
+
+During the recent food crisis an experiment on a small scale with oats was tried at Hawa Eliya, which is about one and a half miles away from the Town of Nuwara Eliya on the Kandapola Road.
+
+The experiment was based on the different series as detailed below :—
+
+(a) A plot was sown on the 29th August, 1920, in lines 6 inches apart and about 1 inch deep at the rate of two seeds per hole after digging the land about 8 inches deep and without using any manure whatever.
+
+(b) Another plot was sown on 7th October, 1920, in the same manner as plot (a).
+
+(c) The third plot was sown broadcast and was intended as a nursery as well.
+
+27------------------------------------------------
+
+356[JUNE, 1921.
+
+The plot (a) referred to above has proved extremely successful and therefore it will be dealt with first. A few seeds germinated on the 7th day after sowing. The germination was over on the 9th day.
+
+At this stage it was found that the tender seedlings were being cut down in the night by a kind of migratory cutworms which are very prevalent in vegetable gardens in the Nuwara Eliya District. These nocturnal visitors hide themselves under the soil during the day-time and come out in the night. On the advice of DR. J. C. HUTSON, Government Entomologist, these caterpillars were collected and removed early morning daily and ash was put round the plot every evening to prevent their getting into it. Subsequently as the plants became stronger the insects disappeared gradually save an occasional visit in search of delicate suckers. It is understood that an application of leyes' fluid to the soil about a fortnight before sowing would kill the insects which are already in the soil and prevent those from other places coming in. Besides this, when there is a large extent under cultivation the damage by these insects would naturally be on the decrease.
+
+In the middle of October 1920, it was found that the plants were well developed but owing to bad germination and damage by insects there were about 35% vacancies; which, however, were soon substituted by flourishing suckers at an average of 12 per bush.
+
+By the end of November the plants were about  $2\frac{1}{2}$  feet in height and the appearance of the plantation was exquisite and very attractive. In December the plants were fully grown and it was on 24th December, 1920, after a period of nearly 4 months they began to show flowers. Oats, unlike paddy, take a considerable time to finish earing and there is no uniformity either in earing or in ripening. On 28th February, 1921, a few ears matured while some plants were yet in the early stage of earing. It was only on 28th March, 1921, after a period of full seven months, the final reaping was done.
+
+The plot (b) referred to in paragraph 6 was not successful as the ripening period fell within the month of May when there was usual South West Monsoon rain which was unfavourable for ripening. The plot (c) was altogether a failure as the seedlings withered at the very outset.
+
+After careful study of the subject it was found that the best season for sowing is latter part of July or early part of August to ripen in February or March. The advantages being that in July and August there is rain for the easy germination of seed and the growth of young seedlings and in the months of February and March there is usually a fine spell of weather and sufficient sunshine to ripen the grain. The best method of sowing is in lines 6 inches apart and about 1 inch deep and subsequent rolling. Though this method appears to be rather tedious yet it produces the best results. After some practice and by devising easy methods of working this system of sowing will no doubt prove very satisfactory.
+
+On the whole it can be said without any hesitation whatsoever that oats grow very luxuriantly at Nuwara Eliya. The plants grow to the height of  $6\frac{1}{2}$  feet. Plants and seeds in different stages were exhibited at the Nuwara Eliya Agri-Horticultural Show in 1921 and samples were sent to the Director of Agriculture who was highly satisfied with them.
+
+There was some fear that frost would do some harm to the experimental plot, but in spite of severe frost in the latter part of February, 1921, the
+
+28------------------------------------------------
+
+JUNE, 1921.]357
+
+plantation was not affected in the least. If any manure such as superphosphate and nitrate of potash, which the Director of Agriculture recommends, is used and when the grain is acclimatized, it would yield excellent crop.
+
+At this time when the country is clamouring for self support in respect of its food stuffs, it would be a great boon if the Government will take some interest in this matter and encourage the people to cultivate oats at Nuwara Eliya and its vicinity where there are large areas of arable land available.
+
+Oats can be used not only as a food for human consumption but also as a fodder for cattle and horses. As the popularity of the town is daily increasing and consequently the horses, Australian cattle, etc., are also on the increase this fodder will be extremely useful.
+
+In conclusion the writer has to thank the Director of Agriculture for his kind advice on different matters and his encouraging attitude, the Assistant Government Agent, Nuwara Eliya, for giving him a free grant to cut timber from Crown Forest for fencing the plot and MESSRS. MILLER & Co., for supplying him with seed free of charge.
+
+---
+
+## THE GROWING OF GREEN VEGETABLES.
+
+---
+
+The following extract is taken from a lecture delivered during the agricultural course at Hope by MR. A. P. HANSON, and reproduced in the Journal of the Jamaica Agricultural Society, Vol. XXV. No. 2 :—
+
+### SOIL.
+
+The ideal soil for vegetable growing is a light one—well balanced supplies of clay, sand, and vegetable mould—known as Loam. The dark colour in soil suggests the presence of that valuable ingredient, humus, and is evidence of fertility. The soils that are not typical must be improved—clayey soil by trenching and lime applied at the rate of about 1 cwt. per sq. chain; sandy soil by liberal supplies of manure, and mulch. Peat is the accumulation of decayed matter, from successive generations of vegetable growths in moist places, and to rid it of its sourness needs deep trenching and lime. It must be borne in mind that thorough tillage improves all soils, increasing fertility, preparing plant food, multiplying organisms which make the soil a living thing, circulating air and conserving moisture.
+
+### MANURE.
+
+In this connection I shall avoid the use of such chemical terms as Nitrates, Phosphates and Potash even though these may well be termed the gardener's manurial trinity, and proceed to observe those names, etc., which are familiar to all. The horse, cow, sheep, goat, pig, rabbit, etc. supply us with valuable farm-yard manure. Woodashes furnish us a valuable and quickly assimilated form of plant food. The hen manure, and the pigeon are among the richest, but are twice their manurial value when used dry. Apply the former 1 to 2 lb. per sq. yard, and the latter  $\frac{1}{2}$  to  $1\frac{1}{2}$  lb. Fresh manure as a rule does more harm than good, and all manures should be stored in dry places. Make it a rule to use farm-yard manure well rotted. The best results are obtained by imbedding it in the soil.
+
+29------------------------------------------------
+
+358[JUNE, 1921.
+
+### SEEDS.
+
+There should be the most careful selection of all seeds, preference being given to those of the last harvest, such as melons, and cucumbers being exceptions to this rule. Sow in ordinary, even sandy soils. Manure is no help to germination, and may prove harmful. Each seed is provided with a store of food to serve it during the germination period. Moisture is needed, but not constant watering. Once the shell of the seed is soaked, growth will follow. Sow in drills, and remember the seed needs air to germinate, consequently half an inch or so of covering soil is sufficient. Press the soil down. Except in the case of radish, and a few others that do not stand transplanting well, sow in seed boxes then transfer to the seed beds when the seedlings are two or three inches high. Aim at producing a hardy seedling with healthy fibrous roots, and vigorous leaves. Such a plant will do as well as any other under favourable conditions and be better able to fight against hardships. In transplanting remember you are handling a living thing which suffers if injured. Take up after watering. Plant with the fingers firming the soil around each plant, and leaving the stem above the surface, having manure well mixed with the soil. This work should be done in the cool of the afternoon, and the young plants given the advantages of the night's dew. Shade in the mornings but shake the bits of branches in water to avoid introducing insect pests to the plant. Work the soil so as to have always a loose surface. No amount of watering can make up for this, and a hard cake on the surface is fatal at all stages.
+
+### AILMENTS AND PESTS
+
+In order to keep down ailments and pests adopt the best methods of culture. Aim at producing healthy plants; see to the early preparation of the soil; if practicable let go the domestic animals in advance of the plants. Pigs and fowls will search out slugs, crickets, cutworms, etc.; birds, lizards, etc., are the friends of the gardener; prevent the wanton destruction of such useful creatures.
+
+Use preventive measures.—Spray and bait ahead of the fungus, and the insect. Certain plants are attacked by fungus below the surface of the soil. Draw these out and burn, liming the affected area. Tomatoes and Irish potatoes are frequently attacked by fungus. Spray tomatoes just before the time of flowering and up to about a month before harvest. Apply two good sprayings to Irish potatoes beginning before the blight starts. This will result in an increase of even two tons per acre of healthy potatoes, whereas the entire crop may be lost if the precaution is delayed. Use Bordeaux Mixture:—Copper Sulphate (Blue Stone) 8 ozs., Quicklime 5 ozs.; Water 5 gallons. Prevent ants destroying seeds, let fall a few drops of kerosene oil in a handful of ashes. Stir till the ashes appear permeated, then rub the seeds among the ashes before sowing. Against slugs, crickets, cut worms, mix one quart of cornmeal or middling with molasses and stir to a paste; add two teaspoonfuls of Paris Green or London Purple. Place half teaspoonful near each plant on the cleared surface of the earth as a night bait. Both Paris Green and London Purple contain arsenic, and must be kept from the domestic animals. Where biting insects attack the leaves, either of the last named insecticides may be applied with a dusting bag very sparingly and in the proportion of one part to twenty parts of ashes, or powdered lime while the dew is on the leaves. This remedy should not be applied to eatable leaves within a month of the harvest, and as already stated *very sparingly*.
+
+30------------------------------------------------
+
+JUNE, 1921.]359
+
+## THE CULTIVATION AND MANUFACTURE OF ARROWROOT ON THE FARM.
+
+In the dim past, arrowroot was grown on a small scale for home consumption, and it is surprising that while there are many farm products largely made use of for household purposes, and which do not require the aid of expensive machinery, arrowroot, the safest of semi-tropical crops and the least expensive to manipulate, should be neglected. There are two varieties of arrowroot which are grown in this State—viz., *Maranta arundinaceæ* and *Canna edulis*, known to growers as White and Purple Arrowroot. Both are bulbous plants, but the purple sort is a far heavier bean than the white. It is from the bulbs that the arrowroot of commerce is obtained. The bulbs of the purple variety vary in size from 6 in. to 12 in. in circumference.
+
+The smaller bulbs are used for plants. Wide furrows, about 6 in. deep, are run out about 4 ft. apart, and the bulbs are dropped in from 2 ft. to 3 ft. apart and covered by the plough or hoe. Planting time is about the months of September and October. The plants grow rapidly and in about three months attain a height of 5 to 6 ft. Meanwhile the bulbs are growing in a cluster around the base of the stem, to which they are firmly attached. From six to eight months bring the crop to maturity. A touch of frost aids it by shrivelling up the tops and concentrating the starch in the bulbs. When the tops wilt without frost the crop is ripe. The mass of bulbs to be dug up is so heavy that strong forks are needed for the purpose.
+
+The only preparation for extracting the starch is to first thoroughly wash the bulbs, after which they are grated into pulp under water. The grater is a primitive affair made of a side of a kerosene tin, or a stronger one is made out of galvanised iron into which holes have been punched, with the rough grating side outward. The operator then grates the bulb against this, allowing pulp and starch to go into the water. The bulb is then quickly reduced to a dark brown mass of fibry-looking pulp. The starch being heaviest sinks to the bottom. The pulp, being lighter than the starch, floats almost to the surface of the water, and is easily removed. A good plan is to cover the tub or tin with porous linen and to grate the bulbs over this. The pulp remains on the linen, whilst the starch passes through it. When a certain quantity of bulbs have been grated (always into the water), one or more tubs are made ready to receive the starch from the first. This is worked by hand until the starch, further cleansed, has passed through the linen. If then not sufficiently cleansed, it is worked through another receptacle until no more feculencies are seen. When the starch, which always keeps at the bottom, is perfectly clean it is spread out in the sun or in a dry room upon cloth, and thus freed of the last remnant of moisture. When perfectly dry, it may be put into bags or boxes, and will keep even for years in good condition. For production on a large scale as to-day practised by arrowroot growers, special ingenious machinery is employed, reducing the expense of the cost of production, while the quality is improved, as it is scarcely handled from the time of leaving the field.
+
+The yield of bulbs of the purple variety varies from 10 to 15 tons per acre, and 1 ton of bulbs gives rather more than 1 cwt. of manufactured
+
+31------------------------------------------------
+
+360[JUNE, 1921.
+
+arrowroot. The white variety (Bermuda arrowroot) is grown and manufactured in the same way as the purple, but the yield is much less. All this is very simple. Enough arrowroot can be produced on a very small plot of land to supply a family for a year or more, and the manufacture can be carried out during wet weather when rainy weather prohibits work on the farm. A simple machine was made by the writer some years ago, which accelerated the process of grating.
+
+The primitive machine which we used for arrowroot production was home-made, and answered the purpose admirably. First, a log of about 2 ft. in diameter and 8 ft. long was hollowed out by axe and adze into the form of a trough. At the head of this trough was fixed a framework much like the wooden stand of a grindstone, only, of course, much taller. A large wheel was then cut from a perfectly sound gum log, 3 ft. in diameter and 1 ft. wide. Tin plates, turned into graters (requiring frequent renewal), by punching holes in them with a flat, wrought-iron shingle nail were nailed on to the edge of the wheel, to which a stout wooden axle and windlass handle were attached. The wheel was fixed so as to revolve in the water with which the trough was filled.
+
+On top of the framework was a wooden hopper, in which the washed bulbs were placed, falling on the grating wheel. One man turned this with ease, and the bulbs, thus rapidly grated, fell into the trough in the shape of pulp and starch. The former was removed by a scoop, and the latter subsided to the bottom. The water was then gradually drawn off by removing successive pegs inserted into the lower end of the trough. The starch was then dug out and washed in the usual way. Such a machine is quite good enough for making arrowroot for home use. A consignment of arrowroot thus produced we sent to London and sold it at 2s. per lb.
+
+Such a machine would answer equally well for grinding cassava.
+
+—QUEENSLAND AGRI. JOURN. VOL. XV, PART 4.
+
+## GROWING CORN IN THE SOUTH-EASTERN STATES.
+
+The following extracts are taken from the FARMERS' BULLETIN, 1149 of the United States Department of Agriculture :—
+
+### PREPARING LAND FOR CORN.
+
+*Conservation of Rainfall.*—Although the average annual rainfall in the South-eastern States ranges from 46 to more than 60 inches and is comparatively well distributed, the most common need of the corn crop is more moisture at some time in its development. Preparation of the land so that it will retain larger quantities of water for longer periods is therefore very important and will give greater returns on the investment than any other one part of the crop's culture. The capacity of a soil for moisture depends largely on the depth to which the land is plowed and the quantity of humus (decaying vegetable matter) incorporated with it.
+
+32------------------------------------------------
+
+JUNE, 1921.]361
+
+*Drainage.*—Poor drainage is indicated in many fields by the irregular patches in which little or no corn grows. Even if actual drowning does not occur in these places, the growth is so weakened and retarded that worms commonly destroy the stand. Besides the usual means of draining, applications of coarse stable manure are recommended.
+
+*Plowing.*—Land should be broken from 8 to 10 inches deep. If it is in a poor state of cultivation this is best accomplished by turning only that part which previously has been broken and loosening the rest of the depth with a subsoil plow. This plow will be most efficient when it follows in the furrows of the turnplow. In succeeding seasons the land may be turned deeper, the increased depth varying with the quantity of vegetable matter incorporated during the last preparation. When a soil of the required depth has been established the turnplow may be run from 6 to 8 inches deep at each preparation and the subsoil plow only as often as seems necessary to prevent the formation of a compact layer just below the depth of the turnplow.
+
+In order that the plows may accomplish the greatest amount of pulverizing, plowing should be done when samples of the soil crumble most readily in the hand. The period when the best work may be done frequently passes before all the land can be prepared. If the surface of the land is thoroughly pulverized with a disk harrow or other implement as soon as it is sufficiently dry, the period for efficient work will be greatly extended.
+
+Harrows and other types of tools well adapted for pulverizing and smoothing the soil after it has been broken are now common in every community. Frequently, however, the land is not worked until its surface has dried. The closer the breaking plows are followed by the surface tools the less time and labor it will require to do the work.
+
+*Humus.*—Nothing will do more to economize the labor of tilling the land and to prolong the good effects of tillage than the presence of an ample quantity of humus in the soil. All land intended for the profitable growing of corn should be stocked with such material as soon as possible. The best preparatory crops for corn are the legumes some of which are cowpeas, velvet beans, vetch, the clovers, and beggarweeds. These crops may be made to supply much vegetable matter and, in addition, a part or all of the necessary nitrogen.
+
+Manure produced in connection with the raising of live stock always has been associated with the highest type of agriculture. An inconsiderable quantity of it is at present produced on most farms, because there are so few animals. In the South-eastern States, where live stock run on pasture most of the year, manure does not accumulate as it does where the stock are fed in yards or stables for several months. Its great value, however, in connection with the production of corn and other crops should command careful consideration.
+
+33------------------------------------------------
+
+362[JUNE, 1921.
+
+## MAKE PLAN ON PAPER BEFORE PLANTING THE GARDEN SEEDS.
+
+A definite plan for the garden should be drawn on paper before any planting is done, suggest garden specialists of the United States Department of Agriculture. First determine the exact dimensions of the available land : then ascertain which parts of the garden will be best adapted to certain crops, especially those that require a large amount of sunshine. Outline the garden plan on paper and sketch in the crops that are to be planted upon each part.
+
+In planting the garden it should be borne in mind that certain crops, such as lettuce, radishes, and early beets, can frequently be grown in the same rows with other crops and be removed before the main crop attains sufficient size to require the entire space. It should also be remembered that carrots, beets, salsify, early turnips, parsnips and all crops of that type may be grown in rows 12 to 18 inches apart and will occupy a comparatively small amount of space if grouped together. The taller growing crops, such as pole beans, tomatoes trained to stakes, and sweet corn, should be planted at one side of the garden where they will not shade the smaller crops.
+
+### ARRANGE ROWS FOR CONVENIENCE.
+
+It is generally conceded that the rows should run north and south however, it is more important to arrange the rows for convenience of cultivation than for exposure to the sunshine.
+
+Due consideration should be given to both companion and succession cropping. By companion cropping, the plan of planting two or more crops together and removing those that mature first is followed. By successive cropping one crop follows another, keeping the land fully occupied all the time. Thus, early cabbage may be followed by celery or late tomatoes ; early corn or early Irish potatoes may be followed by turnips, late beans, late beets, or late cabbage. The arrangement of crops, however, depends somewhat upon the locality and length of the season.
+
+Detailed directions for locating and planning gardens are contained in free bulletins of the United States Department of Agriculture which will be sent upon application to the department.—*WEEKLY NEWS LETTER U.S. DEPT. OF AGRIC.*, Vol. VIII, No. 36.
+
+## YAMS GROWN ON STAKES.
+
+Recently concluded trials with yams grown on stakes, reported from Montserrat by MR. W. ROBSON, Curator of the Botanic Station, show that yams grown in this way in Montserrat give better results than without stakes. Although no control plots without sticks were included in the experiments, the yield for the staked plots are sufficiently high to indicate the influence of the stake factor. The yields obtained, calculated in pounds per acre, varied from 31,707 lb. to 12,397 lb. These yields are exceptionally high, and it is safe to recommend the more general use of stakes in the growing of at least most varieties of yams. In Jamaica the use of stakes is general, and their value for increasing the yield of yams is widely recognized. It is presumed that in the Montserrat trials, single stakes were employed ; in some countries for instance in Central America, three stakes, arranged in tripod fashion, are usually employed. It would be interesting if an experiment were conducted to compare no staking with one stake and three stakes respectively, giving consideration at the same time to the effect of this cultivation practice on different varieties of varying habits.—*AGRIC. NEWS*, Vol. XX, No. 492,
+
+34------------------------------------------------
+
+JUNE, 1921.]363
+
+Protect yourself from the bites of  
+MOSQUITOES, GNATS, FLIES, etc.
+
+TRADE MARK **'SKETOFOX'** BRAND
+
+## Antiseptic Cream
+
+Smeared on the skin, it acts as a powerful  
+deterrent to the attacks of mosquitoes, flies,  
+gnats and midges.
+
+Used after an attack, it relieves irritation  
+and reduces inflammation.
+
+Has no discolouring or staining effect.
+
+*Issued in convenient collapsible tubes; of all Chemists*
+
+![Small logo of a horse and rider, the trademark for Sketofax.](acad37bd1b4438cf42e186b8cf79bf7e_10_img.webp)
+
+**BURROUGHS WELLCOME & CO., LONDON**
+
+xx 2904
+
+COPYRIGHT
+
+![Illustration of a collapsible tube of Sketofax Antiseptic Cream. The tube is labeled 'MOSQUITOES, GNATS, MIDGES, ETC. BURROUGHS WELLCOME & CO., LONDON, ENGLAND. SKETOFOX BRAND'.](acad37bd1b4438cf42e186b8cf79bf7e_14_img.webp)
+
+# FRUITS.
+
+## THE LIME INDUSTRY IN DOMINICA.
+
+The lime crop for the past five years, calculated in barrels of fruit is recorded below:—
+
+<table>
+<tbody>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>...</td>
+<td>390,000</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>...</td>
+<td>384,000</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>...</td>
+<td>...</td>
+<td>396,000</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>...</td>
+<td>...</td>
+<td>318,000</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>...</td>
+<td>...</td>
+<td>402,000</td>
+</tr>
+</tbody>
+</table>
+
+The following table, calculated on the usual basis, \* shows the disposal of the crop under the various heads:—
+
+<table>
+<thead>
+<tr>
+<th>Product</th>
+<th>Barrels of fruit</th>
+<th>Approximate percentage of total crop.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Concentrated juice</td>
+<td>250,077</td>
+<td>62</td>
+</tr>
+<tr>
+<td>Raw juice</td>
+<td>39,774</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Fresh limes</td>
+<td>21,361</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Citrate of lime</td>
+<td>90,068</td>
+<td>22</td>
+</tr>
+</tbody>
+</table>
+
+\* *Note.*—Fifty gallons of concentrated juice represent 75 barrels of lime fruits; 7½ gallons of raw juice represent 1 barrel of lime fruits; 1 ton of citrate of lime is equivalent to 266 barrels of lime fruits.
+
+35------------------------------------------------
+
+364[JUNE, 1921.
+
+Comparisons with the figures of last year's disposal of crop shows the following changes. The proportion shipped as concentrated juice declined from 70 to 62 per cent., and that shipped as raw juice from 24 to 10 per cent. Fresh limes showed an improvement, having risen from 2 to 5 per cent. The great change of the year occurred in connection with citrate of lime, which rose from 3 to 22 per cent. The business in lime juice cordial and pickled limes was again on a small scale, the requirements under both heads being met by 643 barrels of limes.
+
+The weather conditions may be accounted generally favourable. Torrential rains fell on the Leeward Coast on September 1, and again on November 29 and 30, but from an agricultural standpoint no great harm was done on either occasion. Reports from the Inland and Windward Districts indicated normal conditions of weather.
+
+### LIME JUICES.
+
+#### Concentrated Juice.
+
+The shipment of this product was the highest recorded, and totalled 166,718 gallons, of which 72,424 gallons went to the United Kingdom, and 94,294 gallons to the United States. Market conditions were generally good, there being a fair demand at remunerative rates throughout the year.
+
+The shipments during the past five years were as follows:—
+
+<table>
+<tbody>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>153,292 gallons</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>152,603 "</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>149,775 "</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>148,939 "</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>...</td>
+<td>...</td>
+<td>..</td>
+<td>166,718 "</td>
+</tr>
+</tbody>
+</table>
+
+#### RAW JUICE.
+
+The heavy shipments of raw juice to London, which have been such a feature in this trade during the war, have now ceased. The total export was 298,321 gallons, of which 116,591 gallons went to London, 57,717 gallons to Canada, 122,392 gallons to New York, and 1,612 gallons to other countries.
+
+The following table shows the export of raw juice since 1915:—
+
+<table>
+<tbody>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>777,064 gallons</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>574,109 "</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>778,133 "</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>575,985 "</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>298,312 "</td>
+</tr>
+</tbody>
+</table>
+
+#### CITRATE OF LIME.
+
+There was a considerable demand for this product at good rates, and the quantity exported constitutes a record. Of the three factories which are equipped for making citrate of lime, one only is entirely devoted to its manufacture; the other two can turn out either concentrated juice or citrate of lime as desired, and the line of work in these instances is determined by market conditions.
+
+The output of this product, which fell to a very low figure during 1918, has now reached the highest point since the industry was started in 1906. It is unlikely that production will increase much beyond the present point, unless other factories are equipped for this purpose. Here, as under other
+
+36------------------------------------------------
+
+JUNE, 1921.]365
+
+heads, the United States has been the greatest purchaser, no less than 4,213 cwt. having gone to New York, against 2,559 cwt. to London. The exports during the past five years are as follows:—
+
+<table>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1,102</td>
+<td>cwt.</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>2,959</td>
+<td>"</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1,960</td>
+<td>"</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>800</td>
+<td>"</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>6,772</td>
+<td>"</td>
+</tr>
+</table>
+
+#### GREEN OR FRESH LIMES.
+
+Shipments since 1915 were as follows:—
+
+<table>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>41,494</td>
+<td>barrels</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>39,916</td>
+<td>"</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>41,243</td>
+<td>"</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>7,670</td>
+<td>"</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>21,361</td>
+<td>"</td>
+</tr>
+</table>
+
+Of the number of barrels of fruit exported in 1919, no less than 20,810 went to New York.
+
+The heavy falling off in exports during 1918 was due to the United States embargo on green limes, which was in force over a considerable part of that year. Some improvement in the position was brought about during 1919, but the exports are still much below those of the several years previous to that of the embargo. No doubt this is largely due to the effect of prohibition in the United States.
+
+As a good deal is heard from time to time of the production of limes in Florida, and the effect on the New York trade in this fruit, the following information, culled from the Biennial Report of the Department of Agriculture of the State of Florida, regarding output, may be of interest to planters in this island:—
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Output of green limes in Florida,<br/>expressed in cubic feet.</th>
+<th colspan="3">Green limes shipped from<br/>Dominica, expressed in<br/>cubic feet.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914</td>
+<td>-</td>
+<td>107,968</td>
+<td>-</td>
+<td>1914</td>
+<td>- 203,773</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>-</td>
+<td>31,164</td>
+<td>-</td>
+<td>1919</td>
+<td>- 34,515</td>
+</tr>
+</tbody>
+</table>
+
+The number of lime trees growing in Florida is stated in the Report to be 75,950. As the number of non-bearing trees and stock in nurseries is not given in this instance, as in other citrus industries, such as grape fruits and oranges, it would appear that lime growing is at a standstill, and is by no means the developing industry as we are sometimes led to believe by visitors to this island. Further, the lime in Florida is grown for shipment and use as fresh limes, the production of raw and concentrated juice being unknown. The output stated above therefore represents the total of the industry, while in Dominica the green limes shipped during 1918 amounted to only 2 per cent. of the crop of that year. The above information will afford planters some idea of the relative position of the lime industries in the respective countries.
+
+#### LIME OILS.
+
+The business in lime oils also constitutes a record. These products are used chiefly in perfumery, and for soap making, etc. Latterly it has become
+
+37------------------------------------------------
+
+366[JUNE, 1921.
+
+customary to add a few drops of lime oil to many of the 'soft drinks' in vogue in the United States, this addition imparting a flavour to the beverage which is much appreciated.
+
+The shipments of these products over a five-year period are detailed below :—
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Otto of limes</th>
+<th colspan="2">Essential oil of limes</th>
+</tr>
+<tr>
+<th></th>
+<th>lb.</th>
+<th></th>
+<th>lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1915</td>
+<td>8,557</td>
+<td>1915</td>
+<td>35,945</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>5,950</td>
+<td>1916</td>
+<td>48,160</td>
+</tr>
+<tr>
+<td>1917</td>
+<td>10,004</td>
+<td>1917</td>
+<td>45,141</td>
+</tr>
+<tr>
+<td>1918</td>
+<td>13,676</td>
+<td>1918</td>
+<td>25,096</td>
+</tr>
+<tr>
+<td>1919</td>
+<td>16,964</td>
+<td>1919</td>
+<td>68,787</td>
+</tr>
+</tbody>
+</table>
+
+The total value of lime products exported during 1919 was £196,401.
+
+—REPT. ON AGRIC DEPT., DOMINICA, 1919-20.
+
+## MANGOS, PAPAWS, AND AVOCADO PEARs.
+
+### NOTES ON THEIR CULTIVATION BY I. TRIBOLET,
+
+*Chief, Division of Horticulture.*
+
+#### MANGOS.
+
+The mango, like most other fruit trees, thrives best on a deep, fertile loamy soil. Notwithstanding this, it is one of the trees that can be grown successfully over a big range of ground, one of the essentials being that it be well drained. It stands exposure to winds better than most fruit trees, and on suitable soil and under good conditions becomes a huge tree, reaching 20 to 30 feet in height in ten or twelve years, assuming that the area is frostless.
+
+Some types such as Cambodian and others, produce fruit very similar to the parents. When definite varieties are required, they should be worked on to seedling stocks. In growing seedlings, either for stock or fruiting purposes, the seed should be removed from the ripe fruit, and not held over too long before planting, and when planted should have the outer shell carefully removed. This is to ensure prompt germination and even-growing plants. Those seeds producing only the one shoot are preferable as stocks to those producing a number of shoots. In the latter case, the weaker shoots should be removed. When about pencil thickness they may be budded or grafted in the ordinary way. The scion should be less advanced in growth than the stock. Waterproof paper is usually tied round the place operated on and lapped right over the scion to prevent atmospheric moisture entering. When the scion starts to grow, remove the paper. In-arching is sometimes used where scions are scarce or valuable. Old trees may be top-worked.
+
+In the orchard they should be planted 25 to 40 feet apart, according to fertility of soil—twenty-five is usually sufficient in this country.
+
+#### PAPAWS.
+
+Set out seed in beds; transplant when 4 to 10 inches high; plant 15 to 18 feet, or even less, apart. They must be in a sheltered spot. Do not give too much water when planted out, as they are subject to damping off. They bear in about a year's time.
+
+38------------------------------------------------
+
+JUNE, 1921.]367
+
+### AVOCADO PEARS.
+
+These are easily grown from seed, but the plants are exceedingly variable in growth, variety, and productive qualities. Worked trees are recommended for commercial planting. Seeds are usually planted with pointed end up in 4 to 5 inch pots or either receptacles containing sandy soil, and about one-fourth of the seed uncovered. They germinate in about a month, if bottom heat is used; about three to four months in the open. When the seedlings are 6 to 8 inches high, they are planted into nursery rows.
+
+Avocados are ordinarily budded in the usual way. Use large shield buds, but young wood of current season's growth is mostly used for scions in grafting. Budded or grafted trees are left one year in the nursery, and then planted out about 25 feet apart.
+
+Worked trees begin to bear in the fourth or fifth year. The tree grows well on anything from a sandy loam to a heavy soil, with plenty of manure. The first season or two they should have abundance of water to keep the tree in active growth. Later, water should be reduced in autumn to check the growth and allow the tree to make its wood for winter. It requires about the same amount of water as a lemon tree. Old trees may be top-worked and produce fruit two years after. A good average yield is about 500 fruit from a ten or fifteen years old tree.—JOURN. OF DEPT. OF AGRIC., UNION OF SOUTH AFRICA, VOL. 11, No. 4.
+
+---
+
+### THE LOQUAT.
+
+C. B. USHER, *Dept. of Agriculture.*
+
+The Loquat (*Eriobotrya japonica*) is considered to be a native of China and Japan and is cultivated in most warm countries for its small oval yellow fruits which have a sweetish acid flavour and are especially suited to stewing. The tree thrives up to 7000 ft. elevation in British East Africa. It is successfully grown on a wide range of soils. For orchard plantings a piece of well drained land should be chosen, and the trees set 20 to 25 ft. apart. The cultivation presents few difficulties. In fact the loquat will thrive and produce good crops with less care than many other fruit trees. It does not require a great amount of fertiliser on reasonably good soils, but leguminous cover crops have been found highly beneficial. Occasional pruning is required to admit light to the centre of the tree and to keep the branches somewhat thinned out. To obtain fruit of good size and best commercial value it may be desirable to thin the crop as soon as the young fruits have set leaving more in a cluster than the tree can properly mature. Picking for the market should be done when the fruit has lost its acidity and is fully ripe. If picked too soon the loquat is quite sour. For jelly, only acid fruit is used. When packed in boxes holding about thirty pounds the fruit can be shipped successfully to near markets, but for distant markets smaller packages and great care in packing are necessary. While in many countries the loquat is usually propagated by seed there is much variation among the seedlings as with other tree fruits, and good varieties can be perpetuated only by some vegetative means of propagation. Both budding and grafting are practised and usually employed when trees are desired for commercial planting. In budding and grafting seedling loquats are generally used as stocks. When budded on quince the tree is considerably dwarfed, this stock is sometimes used however because its fibrous root system readily permits of transplanting. Seeds should be planted as soon as removed from the fruit, either singly in pots or in plots from which they can be potted off later.—FARMERS' JOURNAL, Vol. 2, No. 47.
+
+39------------------------------------------------
+
+368[JUNE, 1921.
+
+# CEYLON AGRICULTURE.
+
+## MINUTES OF MEETING OF ESTATE PRODUCTS COMMITTEE.
+
+*Minutes of the Second Meeting of the Estate Products Committee of the Board of Agriculture, held at the Experiment Station, Peradeniya, at 2.30 p.m. on May 12th, 1921.*
+
+*Present.*—The Director of Agriculture (Chairman), the Government Entomologist, the Government Agricultural Chemist, the Government Botanist and Mycologist, Messrs. Graeme Sinclair, W. R. Matthew, George Brown, J. B. Coles, H. D. Garrick, W. Coombe, John Horsfall, A. W. Beven, T. A. De Mel, Graham Pandittasekere, Oswald Tillekeratne, F. R. Dakeyne, C. E. A. Dias, F. R. Senanayake, G. W. Bruce Foote, D. S. Cameron, J. P. Blackmore, Major J. W. Oldfield, Gate Mudaliyar A. E. Rajapakse, Dr. C. A. Hewavitarne, and T. H. Holland (Secretary).
+
+*Visitors.*—Messrs. F. P. Jepson (Asst. Entomologist), G. Bryce and C. H. Gadd (Asst. Botanists and Mycologists), E. C. Villiers, H. S. Cameron, G. E. J. Hulugalle and A. W. L. Samarasingha (Clerk).
+
+Letters and telegrams of regret of inability to attend were read from Messrs. N. G. Campbell, N. D. S. Silva, James Peiries, Lt.-Cols. T. Y. Wright and T. G. Jayawardene, the Hon'ble the Colonial Secretary, the Government Agent, C. P., the Government Agent, N.P., the Controller of Revenue and Hon'ble Dr. H. M. Fernando.
+
+THE CHAIRMAN announced the nomination by the Planters' Association of the following gentlemen to act as members during the absence of Messrs. E. W. Keith, A. S. Long Price, R. G. Coombe and R. Garnier :—Messrs. J. P. Blackmore, G. W. Bruce Foote, John Horsfall and F. R. Dakeyne
+
+THE CHAIRMAN mentioned that MR. C. P. DE SILVA had left the Island but the Low-country Products Association had as yet not nominated a member in his place.
+
+### **Agenda Item 1.—Progress Report of the Experiment Station, Peradeniya.**
+
+The report was read and commented on by the CHAIRMAN. MR. A. W. BEVEN enquired whether the coconut diseases referred to in the report were the same as those prevalent in the Kurunegala district.
+
+THE CHAIRMAN replied that they were believed to be so. MR. G. W. BRUCE FOOTE enquired whether Guinea grass was really injurious to horses and cattle as was asserted by some.
+
+THE CHAIRMAN replied that the grass was supposed to be heating and might produce sores if fed in excessive quantity to horses, but was the chief fodder grass in Jamaica where good cattle was raised.
+
+MR. JOHN HORSFALL enquired whether Alfalfa had been tried. THE CHAIRMAN replied that it was grown in Madras but he believed in Ceylon after one crop the plants died out. He intended experimenting with Alfalfa in Jaffna.
+
+40------------------------------------------------
+
+JUNE, 1921.]369
+
+DR. HEWAVITARNE referring to coffee asked whether Hybrid coffee was liable to disease. THE CHAIRMAN replied that all the coffees grown on the Experiment Station, Peradeniya, were affected by *Hemeleia* to a slight extent.
+
+MR. C. E. A. DIAS asked if coffee under Rubber had been tried. THE CHAIRMAN replied that in Malaya coffee had been grown under Rubber as a catch crop. He promised by next meeting to report as to what could be tried in this connection on the Experiment Station.
+
+**Agenda Item 2.—Rubber Manurial Experiments, Peradeniya.**
+
+MR. M. KELWAY BAMBER read and commented on the report. MAJOR J. W. OLDFIELD enquired if any reason could be given for the apparently deleterious effect exercised by Potash in this Experiment both in yield, girth of trees and caoutauchoc content of Latex.
+
+MR. BAMBER replied that he could not give a reason.
+
+MR. W. COOMBE suggested that an excess of any ingredient by upsetting the balance of a mixture might prove injurious.
+
+It was contended that "excess" was not an apt term since it remained to be proved what proportion of an ingredient formed an excess. It appeared that the extra dose of Phosphoric acid had produced beneficial results.
+
+THE CHAIRMAN enquired if the meeting were in favour of changing the present method of applying the manures in trenches. After a short discussion it was decided in future to broadcast the manures between the two rows of trees forming each plot and to fork the whole of the ground on which the manure had been applied.
+
+**Agenda Item 3.—Cacao Manurial Experiment, Peradeniya.**
+
+MR. M. KELWAY BAMBER read and commented on the report. He remarked on the difficulty of making any deduction from the figures furnished by the experiments.
+
+THE CHAIRMAN suggested that the meeting should consider the advisability of discontinuing these experiments. The cacao was of mixed varieties; it was planted at irregular distances and the results had given no information commensurate with the time, trouble and money expended. He suggested continuing the "B" experiment comprising  $4\frac{1}{2}$  acres of young cacao all planted from seed of the same tree and cutting out portions of the remainder as required for other crops.
+
+MR. J. B. COLES favoured cutting out all the old Cacao but the CHAIRMAN replied that Cacao was the chief revenue-producing crop of the Experiment Station.
+
+The meeting finally agreed that the manurial experiment should be discontinued and that old cacao should be cut out as land was required for other experiments.
+
+**Agenda Item 4.—Coconut Manurial Experiment, Chilaw.**
+
+At the commencement MR. A. W. BEVEN made some remarks on the experiments and pointed out the high yield of plot No. 4 which was manured with Bone meal compared with the others. The CHAIRMAN alluded to the yield of plot 14 which was ploughed and harrowed only. Cultivation only without manuring, usually had the effect of producing a temporary but not a permanent increase of yield.
+
+41------------------------------------------------
+
+370[JUNE, 1921.
+
+MUDALIYAR RAJAPAKSE thought that frequent disc-harrowing did no harm on heavy soils but was not advisable on light sandy soils. On these it was better to allow the weeds to grow and plough in later.
+
+MR. C. E. A. DIAS objected that the experiment ground was uneven, and unsuitable and the results were inconsistent.
+
+MR. M. KELWAY BAMBER while agreeing that the first 6 plots were uneven said that it had been very difficult to get any ground at all.
+
+MUDALIYAR RAJAPAKSE stated that though reluctant to do so he felt bound to make a few remarks. He knew the full history of the experiments. The site originally chosen had to be abandoned as it was required by the Railway Extension Department. The present site was selected hurriedly and without due consultation by the late Director of Agriculture. The soil and planting were uneven and the soil was different from the ordinary coconut soils of the district. The results were valueless. He suggested that experiments be abandoned.
+
+MR. TILLEKERATNE enquired when the experiments were started.
+
+The CHAIRMAN replied in 1914.
+
+MR. C. E. A. DIAS enquired the annual cost of the experiment.
+
+The CHAIRMAN replied that it was about Rs. 2,000/. MR. A. W. BEVEN said that he had objected to the selection of the land at the commencement. It was a mistake to carry out the experiments on good land.
+
+MR. T. A. DE MEL suggested 2 sets of experiments one on good land and one on poor land.
+
+MR. GRAEME SINCLAIR said that part of the land was good and part poor, it therefore supplied both requisites.
+
+MUDALIYAR RAJAPAKSE said that this was the only experiment started by Government to help the coconut industry and if they, the coconut planters, did not want it he did not see the use of maintaining it. MR. DIAS suggested a more even land giving an average normal crop of 30 or 40 nuts per tree. Good land was useless for the purpose.
+
+After some further discussion the CHAIRMAN enquired the feeling of the meeting on the abandonment of the experiments. It was finally decided that it might be advisable to stop the experiments at the end of the Financial year if a fresh site could be selected.
+
+For the latter purpose the following sub-committee was formed :— Mr. C. E. A. Dias, Mr. A. W. Beven, Mudaliyar A. E. Rajapakse, Mr. G. Pandittasekera, Mr. F. R. Senanayake and Mr. Kelway Bamber.
+
+MR. C. E. A. DIAS further suggested that if the present experiments were to be abandoned the proprietors of the estate should be asked to continue the experiments on two plots using Bone meal only.
+
+The CHAIRMAN promised to approach the proprietors on the subject.
+
+#### **Agenda Item 5.—Coconut Experiments, Negombo.**
+
+GATE MUDALIYAR A. E. RAJAPAKSE read a report of Coconut Manurial Experiments carried out on the Manning Coconut Trial Ground, on Jaela estate. The conclusions based on the results of these experiments were as follows :—
+
+Coconut can be successfully grown on old Cinnamon soils of a sandy nature in the Negombo district. With proper care palms will flower from the 5th year and be in full bearing by the 8th. A complete mixture is necessary from the first and the soil should be cultivated twice a year during the first five years and subsequently annually.
+
+The soil is deficient in Potash. Mulching with husks is beneficial.
+
+Monthly cultivation without manuring is at first beneficial but exhausts the soil if continued. For young growing palms a complete mixture with
+
+42------------------------------------------------
+
+JUNE, 1921.]371
+
+Nitrogen, Potash and Phosphoric acid in the proportion of 1, 1 and  $\frac{1}{2}$  respectively is required. For nut production the continuation of the experiment will show the requirements. MR. A. W. BEVEN suggested that the information read out should be published in the TROPICAL AGRICULTURIST.
+
+MUDALIYAR RAJAPAKSE intimated that he would be glad to show any members of the Committee round the Trial ground.
+
+The CHAIRMAN suggested fixing a date for the visit and thanked MUDALIYAR RAJAPAKSE for the experiments he had carried out in the interests of the industry.
+
+#### **Agenda Item 6.—Proposed Arrangements for Tractor Trials.**
+
+The CHAIRMAN said that he had arranged for competitive trials and the Government had authorised the award of a gold medal to the winner. He stated that MR. C. E. A. DIAS had kindly provided 20 to 25 acres of land on Clovis estate, Kurunegala for the purpose. He had inspected the land and found it suitable. It was, however, 5 miles from Kurunegala. It would be divided into 5 blocks. The trials would consist of ploughing and cross ploughing, disc-harrowing and cross disc-harrowing. The depth of the ploughing should be at least 6 in. and the Discing 4 in. The following firms had entered :—HOARE & Co. (Cletrac), COLOMBO STORES LTD. (Avery), BROWN & Co. (Fordson), MESSRS. HARRISON & CROSFIELD had also entered with a Clayton Tractor, but were doubtful as to taking part. In the trials fuel consumption, oil consumption, time of work, cost of work, and initial cost of machine would be taken into account.
+
+MR. D. S. CAMERON proposed that in addition, a record of repairs and replacements if any be kept.
+
+After a short discussion the meeting agreed that there should be no restrictions as to the implements used.
+
+The CHAIRMAN suggested fixing a date and appointing judges.
+
+June 17th and 18th was fixed upon and the following were appointed as Judges :—The Director of Agriculture, MR. C. E. A. DIAS, MR. GRAEME SINCLAIR, MR. M. KELWAY BAMBER and LT. COL. T. G. JAYAWARDENE.
+
+#### **Agenda Item 7.—Brown Bast.**
+
+MR. G. BRUCE FOOTE asked for information in this connection.
+
+MR. T. PETCH read some extracts from a Dutch Journal and made some remarks on the subject. The mere resting of a tree could not result in recovery.
+
+In Java and Malaya where daily tapping is in vogue Brown Bast was far more prevalent than in Ceylon. In Java 3,300 trees had been divided into 2 blocks, one block tapped daily and the other every 2 days. The daily tapping showed 36 cases against 4 in the two day tapping.
+
+Brown Bast appeared to attack the best yielding trees. Thus manuring might be improving the trees and tend to increase Brown Bast rather than otherwise. In Java the Tar method of treatment was now popular. This consisted of scraping off the bark to about half the thickness and applying hot tar. It was difficult to find a scientific reason for any benefit derived, but was claimed that the irritation caused by the hot tar helped the renewal of healthy bark.
+
+MR. BRUCE FOOTE wished to know whether it was the general opinion that Brown Bast was on the increase. He had found liming to be beneficial. He remarked that affected trees always gave an increased flow of latex before going dry and this was possibly the origin of the idea that the best yielders were affected. Again the so-called Brown Bast trees did not always show the same symptoms. He enquired whether it would be possible to carry out any experiment at Peradeniya.
+
+MR. PETCH replied that the number of affected trees was insufficient.
+
+43------------------------------------------------
+
+372[JUNE, 1921.
+
+It was suggested that the Dutch article on the subject should be translated into English.
+
+MR. PETCH said that it was difficult to find a Dutch scholar who could cope with the technical terms.
+
+The CHAIRMAN agreed to get extracts translated and published in the TROPICAL AGRICULTURIST.
+
+#### Agenda Item 8.—Latex tubes of Hevea.
+
+MAJOR J. W. OLDFIELD enquired whether any fresh information was available on the subject of the change of direction of latex tubes in *Hevea Brasiliensis*.
+
+MR. PETCH stated that no further work had been done. It was a fact that a change in direction of the wood fibres did take place. The first change was usually after about 7 years. In view of this fact the V cut should theoretically give the best results.
+
+#### Agenda Item 9.—Cultivation of Pine-apples.
+
+DR. HEWAVITARNE brought up this subject. The Director stated that a Bulletin was in the course of preparation. He had as yet no figures of pines grown on a large scale. From a small area at Anuradhapura the calculated yield per acre was 5 tons.
+
+DR. HEWAVITARNE asked what was the best time to plant.
+
+MR. DIAS said that he found that at whatever time the planting was done the first crop would appear in May or June.
+
+The CHAIRMAN stated that the average weight of an Anuradhapura Pine-apple was 8 to 10 lb.
+
+MR. C. E. A. DIAS offered to record results from an acre of pine-apples he had planted. MR. G. PANDITTASEKERA suggested referring for information to FATHER JULIEN of St. Joseph's College who was an expert on pine-apple cultivation.
+
+#### Agenda Item 10.—Brown bug in Haputale district.
+
+This subject had been brought up at the last meeting. Following a visit to the Haputale district DR. J. C. HUTSON made the following remarks: On one estate a number of pests of the piercing and sucking variety were found including the Brown bug, the Green bug, and another soft scale (*Saissetia Oleae*) which was unusual on tea.
+
+The bushes affected by Brown bug were conspicuous on account of a black sooty fungus which is not parasitic on the scales but develops on the sweetish secretions given off by the scales. After the death of the scale the fungus disappears in time. This fungus is only of secondary importance though it disfigures the bushes.
+
+No parasitism of the Brown bug by minute wasps was observed, though the fungus, *Cephalosporium Lecanii*, which forms an efficient enemy, was present.
+
+*Saissetia Oleae* appeared to be doing little or no damage. Tea mites were very noticeable on these estates and the Red Spider seemed to be doing more damage than the scales.
+
+A field which had been allowed to run up had thrown off a bad scale attack.
+
+On another estate visited, the Green bug was very bad in patches but the Brown bug could rarely be found and tea mites were much less in evidence.
+
+It was noticeable in general that the scales appeared in patches. Lack of vitality of the bushes due to poor soil, inadequate manuring, insufficient drainage and other such causes appeared to be the predisposing factors for
+
+44------------------------------------------------
+
+JUNE, 1921.]373
+
+an attack of scale or tea mites. An excess of Nitrogen in a mixture might produce this lack of vitality. Smaller doses of manures at more frequent intervals than usually given would probably keep the bushes in a more even state of health and therefore render them less liable to these pests.
+
+Cultural methods are likely to have far more permanent results than direct methods such as spraying.
+
+It was agreed that the report should be published.
+
+### SHOT-HOLE BORER INVESTIGATIONS.
+
+MR. GRAEME SINCLAIR then read a letter from the Badulla Planters' Association to the Planters' Association of Ceylon on the subject of the Shot-hole Borer investigations.
+
+The letter enquired what was the Vote for the year for the purpose and what steps were being taken to bring the investigation, which had reached an advanced stage, to maturity.
+
+The CHAIRMAN replied that Mr. F. P. JEPSON had been obliged to relinquish the Sarnia Bungalow on the return of Lt. COL. DICKSON to the Island. It had been impossible to obtain another bungalow in the neighbourhood of Sarnia but arrangements had been made for MR. JEPSON to pay periodical visits to the manurial experiments which were now being carried out. The burial of pruning experiments had been concluded before Mr. JEPSON left the estate. He could assure the Badulla Planters' Association that the Department had no intention of relinquishing Shot-hole Borer investigations.
+
+The cost was defrayed out of block votes; there was no separate Vote. Grants of manure had been received for the manurial experiments.
+
+---
+
+## PROGRESS REPORT OF THE EXPERIMENT STATION, PERADENIYA.
+
+---
+
+*From 1st March, 1921 to 30th April, 1921.*
+
+### TEA.
+
+The yield of green leaf for March was 1,529 lb. and for April 3,621 lb. from 11 acres. A large number of young bushes in the new clearing succumbed to the severe drought. Over 11,000 supplies are needed for the 8 acres of clearing. In the old tea, the superiority of the two dadap plots both in yield and appearance during the drought was most marked. At the end of March the tea drains were given a rough cleaning.
+
+The young tea in plots 163 and 164 has been cut down to 18%.
+
+Holing for supplying the new clearing is in progress.
+
+### RUBBER.
+
+On April 1st Plots 14 and 15 of rubber planted in 1912 from seed of No. 2 tree Heneratgoda were brought into tapping for the "Individual tree yield" experiment. The experiment includes 161 trees. The dry rubber and scrap from each tree is kept separate.
+
+In the Hill top rubber the repairing of terracing has been completed.
+
+The four double rows of old rubber under manurial experiment were manured in March according to the method adopted in previous years. The young rubber under Lime and manurial experiment was similarly manured in April. The young rubber at Bandarattenne where weeds are always troublesome has been sown with Horse gram, green gram, Sunnhemp, Dhall, Sesbania, Indigo and Cassia hirsuta with the double object of providing green manure and a cover to keep down weeds.
+
+45------------------------------------------------
+
+374[JUNE, 1921.
+
+### CACAO.
+
+The pruning which was moderately severe, was completed in April. Topping of dadap shade has also been completed less the area under "B cacao experiment."
+
+The manuring of the 1st and 3rd series of plots under manurial experiment was carried out in April. The "B" experiment area was also limed and manured.
+
+A round of canker treatment was started after pruning and is still in progress.
+
+Sales of A quality cacao were effected at Rs. 37.00 per cwt.
+
+### COCONUTS.
+
+6,527 nuts were picked in March.
+
+Thieves have been troublesome but two have been caught by the station watchers and convicted in Court.
+
+Nutfall is still in evidence in the young coconut plot at Bandarattenne. Certain trees have been marked and the fallen nuts from these trees are examined and counted under the direction of the Mycologist.
+
+The plot has suffered from Leaf droop. The affected leaves have been collected and burnt.
+
+A further 180 nuts of the 19 varieties sent by GATE MUDALIYAR A. E. RAJAPAKSE have been received and planted in nursery beds in the Fruit plots.
+
+### COFFEE.
+
+Leaf disease was apparent to some extent during the drought but disappeared with the advent of rains. One plot was experimentally sprayed with Burgundy mixture.
+
+All branches affected with "Die back" were cut off and burnt.
+
+The following are the average yields in lb. per tree for 12 months ending March 31st, 1921 of the varieties in full bearing :—
+
+<table>
+<tbody>
+<tr>
+<td>Robusta</td>
+<td>...</td>
+<td>3.45 lb.</td>
+</tr>
+<tr>
+<td>Hybrid</td>
+<td>...</td>
+<td>3.67 "</td>
+</tr>
+<tr>
+<td>Canephora</td>
+<td>...</td>
+<td>3.01 "</td>
+</tr>
+<tr>
+<td>Quillon</td>
+<td>...</td>
+<td>3.57 "</td>
+</tr>
+<tr>
+<td>Uganda</td>
+<td>...</td>
+<td>3.37 "</td>
+</tr>
+</tbody>
+</table>
+
+### PADDY.
+
+The harvesting of all varieties except Jeera samba was completed in March giving the following calculated yields per acre :—
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Bush.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Village Hatiel</td>
+<td>63<math>\frac{3}{4}</math></td>
+</tr>
+<tr>
+<td>Muttusamba</td>
+<td>56<math>\frac{1}{4}</math></td>
+</tr>
+<tr>
+<td>Dr. Lock's Hatiel</td>
+<td>46<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>Hill paddy (under irrigation)</td>
+<td>36<math>\frac{3}{4}</math></td>
+</tr>
+<tr>
+<td>Indrasail</td>
+<td>24<math>\frac{3}{4}</math></td>
+</tr>
+<tr>
+<td>Macan Pina Manila</td>
+<td>20<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>Giza samba</td>
+<td>5<math>\frac{3}{4}</math></td>
+</tr>
+</tbody>
+</table>
+
+The failure of the Giza samba plots was partly due to the presence of springs in those plots. Jeera samba was transplanted very late and was a failure from the start.
+
+The plots which were under their first crop, showed a marked inferiority of growth on the side on which soil had been removed to a considerable depth for purposes of levelling.
+
+For the coming Yala season four plots (which had rain fall during the Maha) are being sown with Heenati, Ilankalayan and Murugan. Water was insufficient to flood a larger area,
+
+46------------------------------------------------
+
+JUNE, 1921.]375
+
+### FIBRES.
+
+All sisal bulbils have been collected and planted in nursery beds.
+
+### FODDER GRASSES.
+
+The water grass plot was cut for the first time in March. In April the Natal grass was divided and replanted to form  $\frac{1}{2}$  acre.
+
+The Rhodes grass has been divided and replanted, there is still insufficient to form  $\frac{1}{2}$  acre. The plot will be replanted again later.
+
+A supply of roots of *Paspalum Dilatatum* sufficient to plant half an acre have been booked.
+
+Cattle manure was forked into the *Paspalum Virgatum* plot.
+
+### FOOD PRODUCTS.
+
+The following seeds have been received for trial and sown in the Show plots :—
+
+- 5 varieties of Sudan Millets.
+- 4 varieties of Millets from Bureau of Plant Industry U. S. A.
+- 4 varieties of Cow pea from Fiji.
+- 1 variety of Cow pea from St. Lucia.
+- The Sudan millets appear very liable to a form of smut.
+
+20 out of the 21 varieties of *Dioscorea* yams in the Fruit plots are doing well.
+
+An additional two varieties of *Tannias* from Trinidad and eight from Fiji have been planted in the Fruit plots.
+
+The eight varieties of sweet potatoes recently received from Mauritius and planted in the Fruit plots have all done well.
+
+The maniocs received from Royal Botanic Gardens, Peradeniya, in February have done well.
+
+### ECONOMIC PLOTS.
+
+Illuk and couch has been forked out of the whole area but will still need much attention and labour.
+
+Four plots have been holed for coffee.
+
+One plot has been planted with three varieties of oil grasses.
+
+Preparations for the planting up of the permanent Economic products is proceeding as labour is available.
+
+### GENERAL.
+
+A culvert has been put in in the new road running past the fodder grass plots.
+
+The following exhibits were sent to the forthcoming Rubber exhibition in London :—
+
+- 7 Rubber tree trunks illustrating various methods of tapping.
+- 20 lb. Ferastero Cacao.
+- 20 lb. Old Ceylon Red Cacao.
+- 20 lb. Hill paddy.
+- Preserved Rubber Latex.
+- Selected coconuts.
+- 5 Varieties of Robusta types of coffee.
+
+Shortage of funds has prevented the employment of village labour in addition to the resident labour force, during the period under review.
+
+T. H. HOLLAND,
+
+Manager, Experiment Station,
+
+47------------------------------------------------
+
+376[JUNE, 1921.
+
+# SHOWS.
+
+---
+
+## THE AGRICULTURAL AND INDUSTRIAL SHOW, BATTICALOA.
+
+N. THAMBIAH,
+
+*Agricultural Instructor.*
+
+The above Show was opened at the Batticaloa Court-house on the 29th April, 1921, at 11 a.m. by MR. C. V. BRAYNE, Government Agent, in the presence of a large gathering, and continued the following day. The arrangements were better than the last year.
+
+Section 1—Vegetables.—This section was represented in all classes and there were splendid exhibits but the quantity was poor, chiefly due to the recent cyclone which had affected the crops and the hot weather prevailing at present. Manioc and tomatos were the best exhibits.
+
+Section 2—Vegetable Produce.—The exhibits were fair. Twelve varieties of flour were exhibited in the class where collection of flour was required.
+
+Section 3—Currystuffs.—There were some entries in this section but the district is unfavourable for most of the crops under this head.
+
+Section 4—Grains and Pulses.—Much could have been exhibited, but those exhibited were poorer than last year.
+
+Section 5—Fruits.—There were no entries for a few classes in this section. Of those exhibited the Pine-apples and Melons were good. The district could produce better fruits.
+
+Section 6—Foliage plants in pots.—This section was represented in all but caladiums.
+
+Section 7—Palm (coconut) products.—Copra and Coconut oil were the best among those exhibited.
+
+Section 8—Bread, Preserves, etc.—All classes in this section were very well represented. This kept the visitors attracted until the close of the Show. There were some splendid national cakes.
+
+Section 9—Dairy Produce.—Much could have been exhibited under this head from this district. The exhibits too were very poor.
+
+Section 10—Dyed Cloth.—Exhibits under this head were good.
+
+Section 11—Needle Work.—This section was fully represented by the girls of the Girls' School and by outsiders, the Catholic Convent alone carrying 10 prizes.
+
+Section 12—Industries (Weaving).—The exhibits under this head were full, as this is a district where weaving is carried on as an industry from a long time.
+
+Sections 13, 14, 15 and 16.—Industries, Iron, Brass, Tin and Earthen.—These sections were fairly well represented except under the head earthen, which was poor.
+
+48------------------------------------------------
+
+JUNE, 1921.]377
+
+Section 17—Industries.—Rattan.—This was fairly good. There were some exhibits (boxes) exhibited by the Inspector of Industries which deserve every encouragement in the district.
+
+Section 18—Industries, Jewellery.—This section was fair.
+
+Section 19—Industries, Wooden.—Few classes of this section were only represented. An altar in flowered teak done by a local carpenter was exhibited and much admired.
+
+Section 20—Live Stock.—This section was very poorly represented.
+
+Section 21—Miscellaneous.—This section had the large number of exhibits. Cotton, Gingelly oil, Castor oil, Mats (plain and fancy) and few other exhibits being very good.
+
+Two Veddas with their veddic dances kept the whole audience attracted.
+
+The Inspector of Industries who came down from Colombo had a separate shed where he had his own looms and turned out some very fine mats.
+
+There was a separate shed under the management of MR. JOHN JOSEF where all the people tried their luck in Hoopla.
+
+The special features of this year's show were demonstrations by a Fordson Tractor of MESSRS. BROWN & Co., LTD., under the supervision of MR. KELLY and in weaving by the Education Department.
+
+The demonstrations by the Tractor took place on a paddy field at Shammanthurai pattu and in the town. The one at Shammanthurai took place in the presence of a large gathering including the Government Agent, other officials and many landed proprietors. The soil selected was of a wet loamy nature. After ploughing with Oliver plough No. 7 and disc plough No. 72, the sods were disc-harrowed. The demonstration was highly successful. A similar demonstration in the town on the esplanade where the soil is of a loamy nature took place. At places the soil was very hard.
+
+Weaving by the old Indian pit loom, Rajagiriya loom, improved frame loom and improved pit loom were demonstrated.
+
+The last mentioned is the local antiquated pit loom with fly shuttle arrangements contrived by MR. ISAAC, the Government Inspector of Weaving. This improvement will only cost a sum of Rs. 7'50 and is within the means of the local weavers. It could put forth thrice as much as the old pit loom. These demonstrations were witnessed by many with interest, among them being the Government Agent, HON'BLE MR. E EVANS, the Director of Education, HON'BLE MR. E. R. Thambimuttu, MR. RODRIGO, the District Judge, MR. KANNANGARA, the Extra Office Assistant and MR. NICHOLAS Mudaliyar, the Office Assistant and many others.
+
+The Agricultural Show this year was well organised and was more an educative one, the poorer classes being much benefitted.
+
+I expect that this Show, which is the second one in this district, will in future be an annual event as much improvements can be effected through this in this district which is purely agricultural.
+
+The Department of Agriculture was represented by myself.
+
+49------------------------------------------------
+
+378[JUNE, 1921.
+
+# PESTS AND DISEASES.
+
+## SCALE INSECTS AND MITES UPON TEA.
+
+J. C. HUTSON, B.A., Ph.D.,
+
+*Government Entomologist, Ceylon.*
+
+The following notes have been written as the result of a visit to two up-country estates where scale insects and mites are fairly prevalent, and some general suggestions for control measures are included.
+
+There were a number of pests of the piercing and sucking type on both estates. These included the Brown bug (*Saissetia hemispherica*) the Green Bug (*Coccus viridis*) and another soft scale (*Saissetia oleæ*) which is not usually found on tea. In addition to these scale insects there were at least three species of tea mite, namely the red-spider, (*Tetranychus bioculatus*), the purple mite (*Phyloptus carinalus*) and the yellow mite (*Tarsonymus translucens*).
+
+The brown bug was the most important of the scale pests on one estate while the green bug was sometimes present in smaller numbers on the same bushes.
+
+The infested bushes were quite conspicuous owing to the presence of the black fungus, sometimes known as "sooty mould" (*Meliola* sp.). This fungus is not known to be parasitic on the plants or to cause disease. It sometimes forms such a thick film over the leaf surface as to shut out a considerable portion of the sunlight and thereby prevents the leaves performing their natural functions. It does not appear to be parasitic on the scales but it develops in the sweetish liquid secretions given off by the scales wherever such secretions happen to fall. After the death of the scales and the consequent stoppage of the secretions this fungus either dries up and peels off or is washed off by heavy rains. The presence of this fungus on the bushes gives them a dirty and unhealthy appearance and may give the planter an impression that the bushes are going to lose all their leaves when in reality the leaves are quite green under the black film and the bush is fairly vigorous. Since this black fungus is usually the most conspicuous feature of an attack of brown or green bug it is sometimes regarded by the planter as the worst feature, although it is only of secondary importance as compared with the scale.
+
+There were apparently no indications of parasitism by minute wasps either in the field or in the scale material which was collected and kept in culture. There were a few lady-bird beetles about, but hardly enough to be an important factor in the control of the scales.
+
+There was present however quite an efficient enemy to the scales, and this was the greyish-white fungus (*Cephalosporium lecanii*) which was much in evidence at the time of my visit. This fungus is parasitic on some of the soft scales or Lecanium group to which both the brown and green bug belong. This fungus does not attack the bush, but only kills the scales and is therefore distinctly beneficial.
+
+50------------------------------------------------
+
+JUNE, 1921.]379
+
+Some young specimens of *Saissetia oleæ*, another soft scale, were found on some young and vigorous shoots in a field where there was neither brown nor green bug, but these scales apparently had no appreciable effect on the shoots. As only a few shoots were found to be infested by this scale, which is not a regular tea pest, all such shoots were removed for destruction.
+
+The tea mites were very noticeable on this estate, the red spider being the most prevalent and at the time of my visit appeared to be doing more damage than the scales. In some instances the bushes were infested by the two common scales and by at least one species of mite, usually the red spider.
+
+One field of 94 acres had been allowed to run up for several months and the bushes were looking clean and vigorous and had thrown off a bad scale attack.
+
+*Estate B.*—On the other estate the relative prevalence of scale and mite pests were quite different. Here the green bug was very bad in small patches of a few fields while the brown bug could rarely be found. Tea mites were also much less in evidence.
+
+On one area which had been pruned last year and the prunings of which had been burnt, the bushes were being re-infested by green bug, indicating that the bushes were still in a condition which rendered them liable to attack.
+
+*General Remarks.*—It is noticeable on infested estates that the scales occur often in distinct patches sometimes in slight hollows, sometimes on wind swept slopes, and often in strips along the edges of estate roads. Tea mites are sometimes prevalent in the same areas.
+
+Now an attack of scale insects, or tea mites is usually regarded as an indication that the infested bushes are weak. This weakness may be due to poor soil conditions resulting from inadequate drainage, or perhaps some deficiency in manuring, or it may be due to some individual lack of vitality in the bushes themselves. Insufficient drainage produces water logging which in turn encourages the development of a shallow root-system, and bushes growing under such conditions are unable to stand a drought and have no reserve of vitality to enable them to resist scale and mite attacks.
+
+Again, a general manure mixture may possibly contain an excess of nitrogenous manures which produce very fine vigorous looking bushes, but the vitality of such bushes is not necessarily high enough to enable them to withstand the attacks of such pests as scale insects or mites.
+
+Within recent years the control of certain kinds of piercing and sucking pests of tea by improving the general condition of the plants has been receiving special attention in Assam and India. The recent investigations of ANDREWS in Assam in the control of *helopeltis* appear to indicate that where the ratio of available potash to available phosphoric acid is low, there is a greater liability to attack than where this ratio is high, and experiments are being continued to try and ascertain the best method of applying potash to the soil so it may be available to tea bushes in sufficient quantity to make them resistant to *helopeltis* attack.
+
+This opens up a new line of control for one important sucking pest of tea, and it is quite possible that other sucking pests of this crop, such as
+
+51------------------------------------------------
+
+380[JUNE, 1921.
+
+scale insects and mites, may be susceptible to control by similar methods. Meanwhile, I would emphasize the importance of paying special attention to the drainage of tea estates, and to the systems of manuring. In this connection I have often observed that tea mites are especially prevalent in poorly drained hollows. Such pockets tend to become water logged during the wet seasons and a shallow root system is developed. This results in a general weakening of the bushes, as pointed out above, and a consequent liability to attack by scales and mites. Again, it does not necessarily follow that tea bushes are well drained because they happen to be growing on natural slopes, unless such slopes are well provided with contour trenches so arranged that they do not merely serve as water catchers and so produce water-logging, but are efficient parts of the general system of drainage.
+
+It is suggested, therefore, that in areas where tea mites and scale insects are found to be prevalent year after year that the question of drainage should receive a special attention.
+
+Then there is the question of manuring.
+
+On many estates the tea bushes usually receive a good application of some general manure mixture just after pruning and this dose has to carry them through until after the next pruning which may not take place for 2 or 3 years.
+
+Under such conditions it seems reasonable to assume that towards the end of this two or three year period the bushes will tend to lose their vitality and become liable to the attacks of such pests as scale insects and tea mites which appear to thrive on bushes of low vitality.
+
+It is suggested, therefore, that manures should be applied in smaller doses and at shorter intervals. Such a measure would tend to keep the bushes in a more even state of health instead of their being perhaps over-stimulated at one time and under-nourished at another. This is a measure which is being recommended for shot-hole borer and is, I think, worthy of consideration in connection with scale and mite infested areas.
+
+The above methods of indirect control of sucking pests by improving the general health of the tea bushes tend to have a more permanent effect than the method of direct control by spraying with some insecticide. In the case of a severe attack of scale over a comparatively small area it is sometimes very useful to top the infested bushes, burn the prunings, and then spray the bushes with a good contact insecticide, such as kerosene emulsion. The effect of such a spray is at best only temporary unless it can be followed up by good cultural methods and judicious manuring.
+
+Such insects can also be periodically checked at the regular pruning time if the prunings are burnt, but the effect of pruning on the infestation of scale will only be temporary since the bushes tend to become re-infested unless their resistance to attack is strengthened by cultural methods and manuring.
+
+I have only been able to indicate in a general way the lines along which I consider that the control of scale and mite pests might be carried out, and I would emphasize the importance of special attention being paid to drainage on tea estates and also to the composition of the manures which are applied and to their method of application.
+
+52------------------------------------------------
+
+JUNE, 1921.]381
+
+## THE "FIJI DISEASE" OF SUGAR-CANE.
+
+R. J. HASKELL,
+
+*Plant Disease Survey, Washington, D. C.*
+
+The name "Fiji disease" has been applied to this serious malady because it was first reported from the Island of Fiji. Further study of the disease will doubtless lead to a better and more appropriate name.
+
+The disease has been known in Fiji since 1905 at least. Although observed by many people it has not been thoroughly investigated, and the only published accounts that we have thus far been able to find, by men who have studied the disease first-hand, are those of H. L. LYON and F. MUIR, both of the Hawaiian Sugar Planters' Experiment Station. Their articles are published in the HAWAIIAN PLANTERS' RECORD, a journal that is not widely distributed. An account has also been given recently by OTTO A. REINKING (Diseases of Sugar-cane in the Philippines Fiji Disease, SUGAR NEWS: 1 17-19. Nov. 1920), who used the published matter of LYON as a basis for his note.
+
+This disease occurs in the Fiji Islands, New Guinea, New South Wales, and has just been discovered in the Island of Mindoro of the Philippine Islands. The disease was found in Fiji by F. MUIR in the early part of 1910, and reported on by him (*Ha. Pl. Rec.* 3: 197, 1910). It was also reported on from Fiji by H. L. LYON (*Ha. Pl. Rec.* 4: 230-232, 1911) who made a special study of the disease as it occurred in that locality. The disease was reported on from New Guinea, by MR. D. S. NORTH of the Colonial Sugar Refinery Company of Australia, who wrote to LYON that one of the Sugar Company's men had found the disease to be very prevalent in parts of New Guinea (LYON, H. L., Fiji Disease in New Guinea, *Ha. Pl. Rec.* 12: 200, 1915) on native cane. In view of this discovery LYON expressed the opinion that the original home of the disease was very likely New Guinea, from which place it had spread to Fiji and Australia.
+
+The occurrence of the disease in Australia is indicated by LYON (*Ha. Pl. Rec.* 2: 200, 1915) and has been reported by D. S. NORTH as appearing on experimental plots of New Guinea cane, and by H. A. HAYWOOD AGR. GAZ. NEW SOUTH WALES, Nov. 1920, pp. 773-780) who states that it is now a problem with which growers will have to contend.
+
+The presence of the Fiji disease in Mindoro, P. I., has been suspected for the last three years. W. H. WESTON, of the U. S. Department of Agriculture in 1919-20 learned of this suspicion from C. W. HINES of the Bureau of Agriculture at Manila and a published note of the possible occurrence of the Fiji disease in Mindoro has appeared in the report of the Pest Control Section of the Bureau of Agriculture (PHIL. AGR. REV. 12: 93 1919.) During the Christmas vacation (1920-21) PROF. OTTO A. REINKING of the College of Agriculture at Los Baños, went to Mindoro and found the Fiji disease there doing great damage. According to one of the planters it was present on the island as early as 1916. PROF. H. A. LEE of the Bureau of Agriculture at Manila reports that MR. MEDALLA, his assistant, also visited the Island and returned with specimens of the Fiji disease. Letters from both REINKING and LEE telling of the discovery
+
+53------------------------------------------------
+
+382[JUNE, 1921.
+
+reached Washington too at the same time. These are the first authentic reports by pathologists of the presence of the Fiji disease in the Philippines. Just how widely the disease occurs in the Philippines will have to be determined, but it probably does not occur in Negros, the most important cane-producing island.
+
+#### IMPORTANCE OF THE DISEASE.
+
+Regarding the seriousness of this trouble, F. MUIR (*Ha. Pl. Rec.* 3, 197 1910) writes as follows: "The worst disease in the Fijian cane fields is one known as Fiji disease..... This disease has spread over the whole island but is worst on the northern side, especially on rich soils. This disease is strongly hereditary; when the stool looks perfectly healthy and the galls are seen only on one stalk and in very small numbers every stalk from that root will produce diseased cane if used as 'seed.'" Again H. L. LYON (A New Cane Disease now Epidemic in Fiji. *Ha. Pl. Rec.* 3: 205 1910) writes: "It is certain that the Fiji disease is one of the most serious diseases yet recorded on sugar-cane.
+
+The report of the Experiment Station Committee of the Hawaiian Sugar Planters' Association, October 14, 1911, says (*Ha. Pl. Rec.* 5, 323, 1911): "Dr. LYON's researches say that the so-called Fiji disease is the most to be dreaded of all known maladies of the sugar cane." In Mr. REINKING's letter he says: "The disease is one of the most destructive plant diseases that I have ever observed in the Philippine Islands." In view of the above quotations and also from other reports on the importance of this disease, it seems that this is one of the most serious of sugar-cane diseases and one to be feared in sugar areas where the disease does not now occur.
+
+#### SYMPTOMS.
+
+MR. F. MUIR (l. c.) states the most constant symptom of the disease as pointed out to him by MR. NORTH of the Sugar Refinery Company, is the presence of small galls on the undersides of the leaves and in the softer tissues of the cane tops, sometimes extending a long way down the stalk. A more noticeable character is the dying of the tops and the growth of lateral branches, the tops of which also sometimes die, and in turn, give off lateral growths.
+
+H. L. LYON (*Ha. Pl. Rec.* 4: 300, 1911) describes the disease as follows: "The most conspicuous symptom of Fiji disease to be noted in the fields is the shortening and crumpling of the last leaves to unfold from the spindle. This peculiarity will attract the attention when one is still a considerable distance from the affected cane. The shoot may have attained considerable length and be clothed with many healthy looking leaves of the usual length and colour, but all of a sudden it loses the power to produce normal leaves, throws out a few bent and twisted stems and then ceases to grow altogether. Some of the eyes may start, but the resulting 'Lalas' soon repeat the antics of the main stem. The stalk may also remain alive for months or it may die soon." He also mentions the characteristic galls usually to be found on most of the healthy-looking leaves and on all of the deformed and blighted ones. The appearance of these
+
+54------------------------------------------------
+
+JUNE, 1921.]383
+
+galls is the first outward symptom by which the disease may be detected, but the cane may be infected for months before any gall appears. In other words, the galls mark a well advanced stage of the disease. According to LYON's photographs, affected plants are very much stunted and dwarfed and die early.
+
+#### CAUSE.
+
+The Fiji disease is apparently caused by a Myxomycete somewhat similar to *Plasmodiophora brassicae*, the cause of the club root of cabbage. A study of the etiology of the disease was made by H. L. LYON and a preliminary report given out by him (*Ha. Pl. Rec.* 2: 200-205, 1910). LYON found what appeared to be the plasmodium of an organism in the cells of the leaf galls but apparently has not proved the pathogenicity of such organism. He thinks that the swarm spores may gain entrance to the cane tissue by penetrating the roots and then following up the vascular bundles to the leaves. He also thinks that the organism can live over in the soil for a considerable length of time, as does the organism of the club root of cabbage. Plants grown from cuttings taken from diseased cane are sure to be infected. The organism is also readily carried from field to field by the transfer of bits of trash.
+
+#### VARIETAL SUSCEPTIBILITY
+
+According to LYON and MUIR the disease shows marked differences in varietal susceptibility in Fiji and New Guinea. On account of this fact and because of the danger of the appearance of the disease in Hawaii, the Hawaiian Sugar Planters' Experiment Station sent a large number of cuttings of various Hawaiian varieties to Fiji to be propagated there and to ascertain their relative resistance to the Fiji disease.
+
+---
+
+## QUARANTINE ON IMPORTED FRUITS AND VEGETABLES INTO THE UNITED STATES OF AMERICA.
+
+---
+
+#### PRECAUTION AGAINST THE INTRODUCTION OF CITRUS BLACK FLY (*ALEUROCANTHUS WOGLEMI* ASHBY).
+
+The Government of the United States of America by Notice of Quarantine No. 49 have prohibited with effect from April 1, 1921, the importation or entry into the United States from Cuba, the Bahamas, Jamaica, Canal Zone, Costa Rica, India, Philippine Islands, Ceylon, and Java, of fruits and vegetables in the raw or unprocessed state and of plants or portions of plants used as packing material in connection with shipments of such fruits and vegetables or otherwise, except as provided in the rules and regulations supplemental hereto.
+
+Definitions and Regulations :—
+
+1. Citrus Black Fly : The insect known as the black fly of citrus and other subtropical plants, variously referred to as the black fly, the citrus black fly, the blue fly, the citrus blue fly, and the mosca prieta (*Aleurocanthus woglumi* Ashby).
+
+2. Fruits and Vegetable : The edible, more or less succulent portions of food plants in the raw or unprocessed state, such as bananas, oranges, grape fruits, pine-apples, tomatos, peppers and lettuce.
+
+55------------------------------------------------
+
+384[JUNE, 1921.
+
+3. Plants or Portions of Plants: Leaves, twigs, or other portions of plants, or plant litter or rubbish as distinguished from clean fruits and vegetables, or other commercial articles.
+
+4. Port of First Arrival: The first port within the United States where the shipment is (1) offered for consumption, entry or (2) offered for immediate transportation in bond.
+
+All plants or portions of plants as defined in definition 3 are prohibited entry.
+
+Clean fruits and vegetables, other than those subject to special quarantine, may be imported from the countries and localities named in this quarantine under permit upon compliance with these regulations. No restriction is placed on entry of processed fruits and vegetables.
+
+Persons contemplating the importation of fruits or vegetables shall first make application to the Federal Horticultural Board for a permit, stating in the application the country or locality of origin of the fruits or vegetables, the port of first arrival, and the name and address of the importer in the United States to whom the permit should be sent.
+
+A separate permit must be secured for shipments from each country and for each port of first arrival in the United States.
+
+---
+
+## THE MANGO TREE BORER (VIOLIN) (*BATOCERA RUBUS*)
+
+---
+
+The Longicorn beetle, *Batocera rubus*, known locally as the mango tree borer, or violin on account of the peculiar sound it produces when irritated, does considerable damage to mango and other trees in Mauritius, and its partiality for kapok appears to be responsible for the discontinuance of the cultivation of that useful tree in the Colony.
+
+Brief notes on the structure of the adults and larvæ are given. The eggs are deposited singly in cracks in the bark, in which the young larvæ remain for the greater part of their life. Their mines are irregular, narrow and sinuous. When they are 40-45 mm. long, they bore large circular galleries in the wood; when these finally reach the outer surface immediately under the bark, the larvæ pupate. Though concealed in the trunk and branches, their presence is betrayed by the brownish fluid trickling from the wound. When they are under the bark the tree can be saved, but when they are in the wood there is no practical means of destroying them. There is ground for believing that the life of the larva is not less than one year. The adults are found all the year round, but more abundantly in summer, at which period the attacks of the larvæ are first noticed.
+
+The beetles may be captured and killed. Trees severely infested with the larvæ should be felled and split into pieces and all the larvæ destroyed. Logs should not be left on the ground. If a tree is slightly infested the larvæ may be cut out. A trained man can in less than a day clear a tree of all its larvæ.
+
+This pest also occurs in Madagascar, Reunion and elsewhere.—
+
+REVIEW OF APPLIED ENTOMOLOGY. SERIES A. AGRIC. VOL. IX, April, 1921.
+
+56------------------------------------------------
+
+JUNE, 1921.]385
+
+# SOILS AND MANURES.
+
+## INDIAN SALTPETRE.
+
+Much interesting information regarding the production of, and trade in, saltpetre in India is furnished by MR. C. W. E. COTTON, I.C.S., in his *HANDBOOK OF COMMERCIAL INFORMATION FOR INDIA*, from which the following material is abstracted.
+
+### AREA AND PRODUCTION.
+
+Saltpetre (potassium nitrate) is in considerable demand for industrial purposes, *e.g.*, in connection with the manufacture of glass, for food preservation, and for manurial purposes, in addition to its importance as a constituent of gunpowder. The production of saltpetre in India is practically confined to the areas covered by the three provinces of Bihar, the United Provinces and Punjab in all of which places the manufacture is controlled under a system of licenses by the Northern India Salt Revenue Department. Farrukhabad, in the United Provinces, may be cited as the main centre of manufacture, though the refined saltpetre produced in the Punjab excels that of any other province. Small quantities, sufficient only for local consumption, are obtained in Madras as well, and in a few Native states in the north. With the outbreak of the war the Indian output was stimulated by a reduction of license fees for crude manufacture and the opening of fresh areas for the production, and other concessions to encourage manufacture. Later on, the export of saltpetre exceeding 10 per cent. refraction (impurity) was prohibited, and the export of saltpetre of lower refraction restricted to the United Kingdom, at prices subject to fixed maxima. The number of refineries increased from 327 in 1913-14 to 453 in 1917-18, while the number of licenses in the three provinces rose from 31,191 to 51,830. 72 per cent. of the licenses for preparing crude saltpetre were granted in Bihar, in which province 55 per cent. of the refineries are situated. The production of refined saltpetre in factory maunds (of 74.67 lb. each) may be indicated by the following statement :—
+
+**Production of Refined Saltpetre in Factory Maunds of 74.67 lb.**
+
+<table border="1">
+<thead>
+<tr>
+<th>Year</th>
+<th>Bihar</th>
+<th>United Provinces</th>
+<th>Punjab</th>
+</tr>
+<tr>
+<th></th>
+<th>Factory maunds.</th>
+<th>Factory maunds.</th>
+<th>Factory maunds.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1913-14</td>
+<td>185,375</td>
+<td>169,756</td>
+<td>87,010</td>
+</tr>
+<tr>
+<td>1914-15</td>
+<td>222,123</td>
+<td>188,396</td>
+<td>106,176</td>
+</tr>
+<tr>
+<td>1915-16</td>
+<td>219,565</td>
+<td>236,658</td>
+<td>152,301</td>
+</tr>
+<tr>
+<td>1916-17</td>
+<td>241,038</td>
+<td>300,566</td>
+<td>245,976</td>
+</tr>
+<tr>
+<td>1917-18</td>
+<td>230,431</td>
+<td>258,838</td>
+<td>156,058</td>
+</tr>
+</tbody>
+</table>
+
+The fall in 1917-18 is due to abnormal rainfall during the manufacturing season.
+
+57------------------------------------------------
+
+386[JUNE, 1921.
+
+### MANUFACTURE.
+
+Crude saltpetre is extracted from nitrous earths scraped during the dry season from the roads, walls, etc., in and around villages where a large quantity of nitrogen is derived from the excreta of men and animals and decayed vegetable matter. This earth is laid in shallow filter beds of clay and water poured over it, and the resulting liquor after setting is concentrated in large open pans over a slow fire (as in the United Provinces and Bihar) or evaporated by solar heat (as in the Punjab), crystallising out in the form of crude saltpetre which contains a considerable admixture of common salts. The terms of the license issued to the nooniah (crude saltpetre licensee) do not allow him to carry the process any further. Refining is carried out in licensed premises either by continuing the process applicable to the manufacture of crude saltpetre, or by heating to boiling point a solution of crude saltpetre, when the potassium nitrate dissolves and the common salt contained in it crystallises out. By evaporating the remaining solution, fairly pure saltpetre may be obtained. The process chiefly in vogue in the Bihar refineries is the former, and the product so obtainable is known as kuthia. It has a refraction of from 20 to 40 per cent, and a good demand for it exists for manurial purposes and for the manufacture of fertilizers. A much more highly refined article is produced in the Punjab with a refraction in the neighbourhood of 4 per cent., while in Bihar anything better than 8 per cent. is seldom achieved. The crude product of the United Provinces and Bihar yields as a rule from 40 to 50 per cent. refined saltpetre, but the percentage in the Punjab is no more than 30.
+
+### EXPORTS.
+
+Up to the year 1860 India enjoyed a monopoly in the saltpetre trade, when artificial manufacture from the nitrate deposits of South America and German potash knocked the bottom out of the export trade which fell from 35,000 tons in 1859 to 13,400 tons in the last pre-war year. India's chief customers were the United States of America, China, the United Kingdom, Mauritius and Ceylon. The two last-named require high refraction saltpetre for manurial purposes and China better quality Farrukhabad and Punjab refined saltpetre for fireworks.
+
+With the outbreak of the war, the trade was mainly diverted to the United Kingdom, whose chief sources of supply, Germany and Belgium, had been cut off, and the Ministry of Munitions looked to India to meet its constantly increasing demands. Whereas the share of the United Kingdom was 55 per cent. in 1914-15, it was 80 per cent. in 1915-16, and in 1916-17, when the new restrictions on export became effective, 87 per cent. Small quantities were permitted to go to Australia and New Zealand for meat preservation and Mauritius and Ceylon for manurial purposes, but with this exception India's whole output of saltpetre has been secured for the use of British or Allied manufacturers of munitions.
+
+58------------------------------------------------
+
+JUNE, 1921.]387
+
+### PRICES.
+
+The following table illustrates the range of prices for saltpetre of 5 per cent. refraction from 1897.
+
+#### Price of Saltpetre of 5 per cent. refraction from 1897 to 1916.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Year</th>
+<th colspan="4">January</th>
+<th colspan="4">July</th>
+</tr>
+<tr>
+<th>Rs.</th>
+<th>as.</th>
+<th>s.</th>
+<th>d.</th>
+<th>Rs.</th>
+<th>as.</th>
+<th>s.</th>
+<th>d.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1897</td>
+<td>6</td>
+<td>1</td>
+<td>8</td>
+<td>1</td>
+<td>6</td>
+<td>4</td>
+<td>8</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1902</td>
+<td>6</td>
+<td>11</td>
+<td>8</td>
+<td>11</td>
+<td>7</td>
+<td>0</td>
+<td>9</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1907</td>
+<td>8</td>
+<td>4</td>
+<td>11</td>
+<td>0</td>
+<td>9</td>
+<td>8</td>
+<td>12</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1912</td>
+<td>11</td>
+<td>4</td>
+<td>15</td>
+<td>0</td>
+<td>11</td>
+<td>8</td>
+<td>15</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1913</td>
+<td>11</td>
+<td>12</td>
+<td>15</td>
+<td>8</td>
+<td>11</td>
+<td>8</td>
+<td>15</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1914</td>
+<td>12</td>
+<td>13</td>
+<td>17</td>
+<td>1</td>
+<td>11</td>
+<td>4</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>11</td>
+<td>12</td>
+<td>15</td>
+<td>8</td>
+<td>11</td>
+<td>4</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>13</td>
+<td>14</td>
+<td>17</td>
+<td>8</td>
+<td>15</td>
+<td>8</td>
+<td>20</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+Early in 1916, owing to a marked rise in prices as a result of market manipulation for the benefit of the middlemen rather than of the manufacturer, the Government of India intervened and fixed maximum rates for exports, viz., Rs. 13 12 (18s. 4d.) for a factory maund of 5 per cent. (or less) refraction and Rs. 12-14 (17s. 2d.) for 10 per cent. refraction *f.o.b.*, the refraction values being determined by the Chemical Examiner, Calcutta Custom House, upon samples drawn from the consignments which were under Customs control; but there is reason to believe that there was a good deal of evasion practised in order to defeat these restrictions.
+
+The revision of these rates was under consideration when the armistice was declared, and with it the United Kingdom's demand for munition purposes ceased. All restrictions on the export of saltpetre of all grades to non-prohibited destinations have since been removed. Practically all the shipments have been made from the port of Calcutta. The local unit of sale is the factory maund, but sterling quotations to the United Kingdom are per ton c.i.f. The unit of shipment in Calcutta is the bag of 244 lb. nett, but shipment is made from Bombay in bags of 168 lb. gross also.—INDIAN AND EASTERN DRUGGIST, Vol. II, No. 5.
+
+### FERTILISERS FOR FRUIT.
+
+When it is considered that the yearly production of fruit in an orchard is a continuous system of cropping, and is even more exhaustive than ordinary mixed farming, the need for fertilisers can be easily understood. Artificial manures are necessary to restore fertility, and it must also be borne in mind that the stimulus given to growth by judicious manuring enables fruit plants to withstand disease and adverse conditions.
+
+With the extension of fruit growing within recent years, more attention has now to be given to the production of a larger proportion of first-grade fruit. On soils which are naturally suited for fruit cultures, normal crops of average quality may be grown without fertilisers, but consistent yields of fruit of superior quality can only be got by liberal manuring.
+
+59------------------------------------------------
+
+388[JUNE, 1921.
+
+To get the best results the application of fertilisers must be co-ordinated with thorough cultivation. Land intended for fruit growing ought to be deeply cultivated previous to planting; and to ensure good drainage it is advisable to have the subsoil broken up. The trees and bushes should not be crowded closely together. If well set apart there will be a better distribution of air and light around each plant when the orchard reaches maturity. During the growing season the surface under the trees and bushes should be frequently stirred to prevent evaporation, and the intervening space ought to be dug or cultivated at least twice a year.
+
+The fruit-grower must find out for himself the fertilisers which give the best returns under his own particular set of conditions. The essential constituents—nitrogen, potash, phosphoric acid, and lime—have to be applied in amounts suitable for the special requirements of the different fruit crops, and in accordance with the variations of soil and climate. Without an adequate supply of each of these elements of fertility, the best results cannot be expected.
+
+#### **NITROGEN.**
+
+Nitrogen promotes a healthy growth of foliage, and this in turn gives rise to a stronger and more extended root system. It induces an early and vigorous development of the buds and young wood. Nitrogenous fertilisers should be used in conjunction with potash and phosphates to ensure a full crop. Stable manure and nitrogenous fertilisers supplying organic matter are very beneficial for young orchards on light soils.
+
+#### **POTASH.**
+
+Potash is pre-eminently the fertiliser which produces quality. It forms a large part of the ash of fruit trees, and is really the dominant plant food for the production of fruit crops. It plays an important part in the ripening of the wood and in the setting of the buds and blossoms, and is most essential for the formation of sugar in the fruit. Where potash manures are regularly applied to fruit crops, they grow a stronger and healthier foliage and give a heavier yield of large-sized fruit of exceptionally fine taste, colour, and aroma. It is frequently observed that wine from vineyards manured with potash is of a superior quality.
+
+The different grades of potash salts produced by the Alsatian mines, now under French control, can be relied upon to give good results on all fruit crops. Muriate of potash and French manure salts, 20 per cent., and 30 per cent., are the grades of potash principally used by the viticulturists in France. Applied in this form in the autumn or winter, along with phosphates and organic manures, potash gives a very profitable return.
+
+#### **PHOSPHORIC ACID.**
+
+Phosphates exert a considerable influence on the formation of the seed, and subsequently on the ripening of the fruit. They prevent exuberant growth of wood and foliage, and promote development of the buds and flowers.
+
+#### **LIME.**
+
+Lime counteracts acidity in the soil and helps to break down organic manures. As a base it sets free plant food and furthers the action of the fertilisers. It improves the texture of the soil and thereby gives better
+
+60------------------------------------------------
+
+JUNE, 1921.]389
+
+drainage. Lime is required in considerable quantities by all fruit plants, and more especially by stone fruits. Good results will be got by applying a heavy dressing of lime (12 cwt. to 15 cwt. per acre) every few years.
+
+The productiveness of an orchard depends on so many factors that no hard-and-fast rules can be laid down with regard to manuring and other treatment. Under average conditions, however, the following quantities of fertilisers have given consistently good returns :—
+
+Potash.—1½ cwt. muriate of potash or 3-4 cwt. French manure salts, 20 per cent., per acre.
+
+Phosphates.—2 cwt. superphosphates or 3-4 cwt. basic slag per acre.
+
+Nitrogen.—1-2 cwt. sulphate of ammonia per acre.
+
+#### FERTILISERS FOR APPLES AND PEARS.
+
+Both apples and pears may be grown successfully on any average soil if it is well drained, but generally the better the soil the heavier the yields. They readily exhaust the available plant food in the soil, and consequently often deteriorate into bearing a crop only every other year. To obtain successive crops of apples and pears it is necessary to apply complete well-balanced manures. Green manuring, or an application of well-rotted dung, 10 to 15 tons per acre, along with a dressing of phosphates and potash in the autumn after pruning, will prove very beneficial.
+
+The following proportions of artificial manures are recommended :—
+
+Per acre (distributed broadcast).—2 cwt. of superphosphates, 4 cwt. French manure salts, 20 per cent.
+
+Per tree, for young orchards (distributed round the trees).—1½ lb. of bone meal, 1 lb. muriate of potash, 1 lb. sulphate of ammonia. Stone Fruits (Plums, Peaches, Cherries, Damsons, Apricots, etc.)
+
+These fruits do best on rich, deep loam, overlying calcareous sandstone. They require a soil which is neither too wet nor too dry. Stone fruits are readily damaged by dry conditions. To prevent this, the surface soil should be kept loose by constant hoeing. As a good deal of lime is required for the formation of the stone, regular dressings of lime should be given if the soil is not naturally calcareous.
+
+The following manures give good results on stone fruits :—
+
+Per acre.—3 cwt. of bone meal, 3-4 cwt. French manure salts 30 per cent.
+
+Per tree, for young orchards (distributed round the trees).—2 lb. bone meal, 1 lb. muriate of potash.
+
+Stable manure at the rate of 15 tons to the acre should be given in the autumn in addition to the above fertilisers.
+
+#### BUSH FRUITS (CURRANTS, GOOSEBERRIES, RASPBERRIES, ETC.)
+
+These bush fruits flourish best on good fertile land. They are gross feeders and require an abundance of nitrogenous manure. The application of farmyard manure at the rate of 20 tons to the acre, and liquid manure at the rate of 3 gallons to the square yard, will give excellent results. A liberal dressing of potash and phosphates at the following rates is also necessary :—
+
+Per acre applied in the autumn or early winter.—4 cwt. of French kainit, 14 per cent., or 3 cwt. French manure salts, 20 per cent., 4 cwt. superphosphate, 30 per cent., or 5 cwt. basic slag.
+
+61------------------------------------------------
+
+390[JUNE, 1921.
+
+### STRAWBERRIES.
+
+The best soils for strawberries is a rich, sandy loam, provided it does not dry up too readily. In spring they should receive a dressing of lime between the rows to check insect pests, and afterwards a heavy mulch of cow dung. The fertilisers advised for bush fruits give good results on strawberries.
+
+### CITRUS FRUITS (ORANGES, LEMONS, GRAPEFRUIT, ETC.)
+
+The ideal soil for citrus fruits is a light retentive loam with good natural drainage. A very sandy soil is unsuitable because it does not retain moisture very well, and fertilisers become washed out of it too readily. As citrus trees are deep-rooted, it is necessary that the soil should be free and open so that the roots can penetrate downwards.
+
+In order to prevent the too rapid evaporation of moisture, every effort should be made to keep the surface soil round the trees in a loose, pulverised condition. It is also advisable to plough in cover crops to maintain the humus content of the soil, as the wastage of organic matter is very rapid in the warm districts where citrus fruits are grown.
+
+Of the fertilisers required for citrus fruits, potash is by far the most important. It is of the highest value for the proper growth and health of the trees and for the formation and ripening of the fruit. Light soils are generally deficient in potash, and heavy soils do not as a rule contain it in a very suitable form.
+
+Young trees on light soils should receive a complete manure containing the following percentages:—
+
+3 per cent. nitrogen, 5 per cent. phosphoric acid, 5 per cent. potash. At the rate of 1 to 3 lb. per tree.
+
+For trees over six years:— $1\frac{1}{2}$  cwt. sulphate of ammonia,  $1\frac{1}{2}$  cwt. superphosphate, 2 cwt. muriate of potash, per acre.
+
+### VINES.
+
+The grape vine requires a good deal of moisture under ground, but it does not do well on cold, water-logged soils. The best vineyards are on well-drained slopes where the soil is rich in lime. A deep, free loamy soil is most desirable for grape vines.
+
+Vines respond well to good treatment, but require complete, well-balanced manures. The excessive use of nitrogenous manures without a sufficiency of phosphates and potash will readily produce insipid fruit, which will not keep well. Grapes are rich in sugar, and as potash is essentially the element required for the production of sugar, it is of prime importance as a fertiliser for vines.
+
+Farmyard manure has a very beneficial effect on vines, and it can be applied at the rate of 10 tons per acre along with the following fertilisers:—
+
+$\frac{1}{2}$  cwt. sulphate of ammonia, 3 cwt. basic slag, 4 cwt. French potash salts, 30 per cent., per acre.
+
+Insufficient manuring is a common cause of unfruitfulness in orchards and plantations. To make fruit-growing a paying concern, it is most essential to have regular and early crops of good marketable fruit. These requirements can only be met by applying liberal dressings of organic manure supplemented by artificials:—QUEENSLAND AGRIC. JOURN. Vol. XV, Part 4.
+
+62------------------------------------------------
+
+UNE, 1921.]391
+
+## THE EFFECT OF CONTINUOUS CROPPING UPON THE MAJOR SOIL NUTRIENTS.
+
+GUY R. STEWART,
+
+*California Agricultural Experiment Station.*
+
+Thirteen samples of California soils from sections of the state as widely separated as the grain lands of the Northern Sacramento Valley and the orange groves of Riverside were collected and brought to the Agricultural Experiment Station at Berkeley in 1915. For six seasons these have been the basis for a series of intensive studies of the changes that occur in soil nutrients as the result of the growth of successive crops of cereals.
+
+The first criterion in the choice of these samples was similarity of texture. Six of the thirteen were silty clay loams, collected from different areas, but all, according to the maps of the United States Bureau of Soils, members of the same soil series. These six, then, displayed similarity not only in the texture of the soil, but in their color and general appearance as well. The remaining seven were fine sandy loams. The members of this group were chosen so that each of them represented a different soil series, derived from a different geological formation. While their texture was similar, there was considerable variation in their color and general appearance.
+
+In order to avoid the differing seasonal and climatic influence to which they would have been subjected in their normal environments, the soils were brought to Berkeley in 2-ton samples. Here each sample was divided between duplicate containers holding approximately 1,800 pounds.
+
+For the first season, all the containers were planted to Beldi barley. In the succeeding years, one container of each soil has been cropped with this same grain, while the other has been left unplanted. During this time the soils have been quite removed from the leaching effect of rainfall or of excessive irrigation. During the growing season the moisture content of the planted and unplanted containers alike has been maintained at the optimum by the daily addition of distilled water.
+
+We have had available then, under the condition of continuous cropping and that of continuous fallowing, these two sets of soils, of which the members of one set were united by the closest possible relationship, while the members of the other were of exceedingly diverse origin. It has been possible, therefore, to draw between the members of each set, conclusions as to chemical differences in composition and in crop production.
+
+Elsewhere there have been reported the earlier portions of the work dealing with seasonal studies of the water extract (4), and of the freezing-point depression (2), as well as comparisons of the chemical composition (1). For the purposes of this article it will be sufficient to state that differences of productivity in either set of soils were not associated with corresponding differences in the total chemical composition as estimated by any of the usual methods; that the most adequate criteria of such differences appeared to be the seasonal studies of the water extract, reflecting as they do the changes the soil solution, and the expression of the total of these changes by the freezing-point depression of the soil.
+
+63------------------------------------------------
+
+392[JUNE, 1921.
+
+By means of these methods of procedure striking differences were observed between the planted and unplanted soils, and also between the individual soils. It was clearly shown that the water-soluble nitrates, calcium, potassium, and magnesium present in the soil were notably reduced by the growing crop. Great dissimilarities in the phosphate content of the different soils were observed, although the water-soluble phosphates did not at first show appreciable changes resulting from the growth of the crop.
+
+The details of these results are given in the papers previously issued.
+
+Under continuous cropping, these soils, as might be expected, have notably decreased in crop production. They have not yet reached a constant level. The average decrease of the total crop amounts to 34.9 per cent., that of the straw to 35.2 per cent., and that of the grain to 34.4 per cent.
+
+The study of the soil nutrients in the continuously planted soils has developed certain interesting facts. Observations of the phosphates, during the earlier seasons, did not reveal an appreciable reduction of this constituent as a result of the growing of a crop. But a comparison of the results of five years discloses the fact that in five of the seven sandy loams there has been a reduction of 30 per cent. or more in the content of soluble phosphates, while only two of the silty clay loams have begun to show a decrease in this nutrient. There is no indication, so far, that the lowering of the phosphates content accounts for the first decrease in the crop yield; for most of the soils whose soluble phosphates have been reduced are at the present time producing the best crops both of grain and of straw.
+
+Determinations made before the soils were planted showed that the fine sandy loams contained from 0.05 to 0.09 per cent., and the silty clay loams from 0.13 to 0.18 per cent. of total nitrogen. Of this nutrient there has been a continual loss. At the close of the season of 1919 all of the soils, both planted and fallow, showed a reduction of from 14 to 38 per cent. of their original total nitrogen content.
+
+Investigations of nitrogen losses have generally been made under humid conditions, where drainage has been a large factor in the disappearance of nitrate. SHUTT (3) and a few other workers have studied the decrease of nitrogen in prairie soils subjected to little excess rainfall. Their results show that the crop removed only one-third of the nitrogen lost.
+
+In the experiment here described, where the soils have never been subjected to leaching from rainfall or over-irrigation, each season's crop removed about 17 gm. of nitrogen from each container, while the annual loss from the same soil amounted to about 60 gm. It should be noted, also, that the nitrogen loss from the uncropped soils was almost as great as was that from the planted containers. This constitutes an interesting example of the decrease of our most valuable soil constituent through the ordinary processes of cultivation and tillage. It illustrates, too, the decrease in soil productivity, resultant upon a one-crop system of grain farming.
+
+#### REFERENCES.
+
+1. (1) BURD, J. S. 1918. Chemical criteria crop production and physical classification in two soil classes.—In *Soil Sci.*, v, 5. p. 405-419.
+2. 2) HOAGLAND, D. R. 1918. The freezing point method as an index
+
+64------------------------------------------------
+
+JUNE, 1921.]393
+
+of variations in the soil solution due to season and crop growth. In *JOUR. AGR. RES.*, v. 12 p. 369-395.
+
+(3) SHUTT, F. T. 1910. Some characteristics of the western prairie soils of Canada.—In *JOUR. AGR. SCI.*, v. 3, p. 335-357.
+
+(4) STEWART, G. R. 1912. Effect of season and crop growth in modifying the soil extract.—In *JOUR. AGR. RES.* v. 12, p. 311—368 *SOIL SCIENCE* Vol. XI, No. 4.
+
+## THE INFLUENCE OF HEATED SOILS ON SEED GERMINATION AND PLANT GROWTH.
+
+J. JOHNSON.
+
+The method of sterilising soils by the action of heat is more and more appreciated : the phenomena met with in this method of treatment are complex and form the subject of an extensive scientific literature.
+
+Besides the phenomena which have been noted in the soil itself, the author deals with the changes which take place in heated soil; he regards them from the standpoint of their effect on seed germination and on plant growth and he endeavours to draw from them conclusions on the subject as to the probable natures of these changes. It appears from observations made that generally, when heated to 100°-115°C., all soils retard both seed germination and plant growth ; but this retardation is followed by increased vigor of growth the degree of these actions varies according to the soil, seed, and plants used and the conditions under which the experiments are carried out. In a series of trials made with 7 different soils heated to temperatures varying from 115° to 500° C. and using various seeds and plants, a general and gradual toxic effect was noticed on germination and first stages of the growth of the plants ; the toxicity reached its maximum in soil heated to 250°C., then decreased at higher temperatures and became practically nil at 350°C. or above. At any rate, the soils cease to be toxic after a time and do so sooner when the intensity of toxicity is less ; on the other hand, the final beneficial action of heating is greater when the toxicity is more intense at the commencement of growth.
+
+The toxic action caused by heating soils and the subsequent beneficial action that results, vary in a marked manner according to the nature of the soils ; these differences appear to be correlated with the balance of all the various factors which affect the soil tested.
+
+Seed of different plants also vary in a marked manner in their resistance to the toxic action of heated soils, which depends largely on the family to which they belong :—the Grammeæ and the Cucurbitaceæ are usually resistant, while for Leguminosæ and the Solanaceæ are more sensitive. However, seeds classed as sensitive may show accelerated germination in soils which do not become highly toxic or which have been only slightly heated. Like the seeds, the plants themselves differ much in their sensitivity to the toxic action of heated soils although there may not always be parallelism with the influence of toxicity on germination even in the same species.
+
+65------------------------------------------------
+
+394[JUNE, 1921.
+
+In certain heated soils the growth of fungi, especially those of the genus *Pyronema* is similar, as regards toxicity to germination and plant growth, to that of higher plant species; fungi, and apparently, bacteria grow very well in soil previously heated to 250°C., that is to say, in soils most toxic to seeds and plants. The ammonia content and the concentration of the soil solution of a soil heated to various temperatures are highest at about 250°C., and they diminish gradually with an increase or decrease in the temperature of heating; both are correlated with the initial toxic action, caused by heating the soils, on germination and early growth, with the later beneficial action which follows, and with the growth of lower micro-organisms in the soil. This correlation is only true for a given soil and not for all soils. The absorptive capacity of a soil appears to have an influence on its toxicity, for it has been noticed that the toxicity to germination of water extracts of various heated soils is more directly proportional to the ammonia content. The author considers that the toxic action in heated soils is mainly due to the ammonia produced during the heating from ammonium carbonate which, in normal conditions, would be gradually decomposed; as a matter of fact the addition of ammonia in varying amounts to a soil produces effects on germination and plant growth in many respects similar to those caused by heating. Similar effects of high toxicity on the germination of certain seeds can be obtained with heated soils or their extracts and equally with certain strengths of ammonia, and these effects cannot be reproduced except with ammonia, or ammoniacal salts.
+
+At any rate, the toxic substance produced by heating the soil is recovered or transformed into non-toxic compounds in soils kept under normal conditions of cultivation, and this is caused by the activity of the ordinary soil flora; however, this flora may, at least apparently, increase the ammonia present, which, according to the author, is not, however, found in the free state but in the form of transition compounds which are decomposed in the analytic processes.
+
+The temperature at which the soil is kept after heating has great importance so far as the permanence of toxicity and the commencement of beneficial action are concerned the toxic action being more persistent and destructive below 25°C.
+
+It should be noted that all the above mentioned conclusions apply particularly to soils heated to high temperatures and in a dry state, but the author believes that there are no fundamental differences between partly sterilised by steam and soils heated to higher temperatures and reinoculated with normal soil flora.
+
+It should not be overlooked that the destructive action noted, should not diminish the value of sterilising the soil by heating both for research and practical purposes; it is even a treatment to be recommended (especially steam sterilisation) whenever it is necessary to eliminate certain organisms from the soil; but in that case a slight retardation in growth must be expected (which will always be followed by benefit) and in these special cases (relating to both the soil or plant or in certain environments) marked changes in the normal course of growth are to be reckoned with.—INTERNAL REVIEW OF SCIENCE AND PRACTICE OF AGRICULTURE, YEAR XI, No. 2.
+
+66------------------------------------------------
+
+JUNE, 1921.]395
+
+# GENERAL.
+
+## HOW TO KEEP SEED CORN.
+
+The following simple method of treating corn against infestation, may interest growers in places where there are no corn-granary facilities. The extract is taken from Circular No. 18, Porto Rico Experiment Station, on the selection of seed corn in Porto Rico :—
+
+"Among the great many samples of corn received in this office during the last eighteen months, none was in better condition than those which had been dried in the kitchen and subjected to smoke from the charcoal stoves. This is a thoroughly practical method, and should be more widely applied, but is now used to only a limited extent. In most places it would be not at all practical to turn the kitchen into a corn-drying establishment, yet anyone can dry and smoke a large number of ears in a home-made contrivance.
+
+"For this purpose use two barrels, after knocking the heads out of both ; also a box which must be slightly longer and wider than the diameter of the barrels, and from 12 to 18 inches in depth. After removing the cover of the box, cut a hole slightly smaller than the diameter of the barrels in the bottom, then another hole about 12 inches square in one side of the box close to the top. Place the box, bottom up on the ground, with one of the barrels on the top, covering the hole previously made. Put the second barrel on top of the first one, and secure the two in an upright position with braces. Now place a charcoal burner in the box, using for fuel, charcoal with corn cobs and other such material as will produce considerable smoke without blaze.
+
+"Hang in the upper barrel the ears of corn which have been tied in a long string by a series of slip knots and suspended from stout sticks laid across the top. The drying and smoking process should be continued for about a week, care being taken never to let the fire blaze. A temperature of 135° F. is perfectly safe, but 145°F may cause some injury. The germ in all the kernels will be killed by a temperature above 160°F. continued for any length of time.
+
+"After the ears have been well dried in this manner, all insect eggs will be killed, the smoky condition acting as a repellent against further infestation. As indicated below, the ears may then be packed in a tight barrel or box. On the bottom of the barrel place about 2 inches of air-slaked lime, next a layer of ears, filling in the space between the ears with lime. When this container has been filled in this manner, finish with a few inches of lime to cover the upper layer of corn. Packed in this way, corn may be kept perfectly safe from one season to another, the lime absorbing surplus moisture, and preventing weevil from entering."—*AGRIC. NEWS*, Vol. XX, No. 491.
+
+67------------------------------------------------
+
+396[JUNE, 1921.
+
+## MANAGEMENT OF THE "DRY" COW.
+
+### THE DISADVANTAGE OF CONTINUOUS MILKING (FARM AND HOME).
+
+Not all cows are allowed to go dry for a sufficient length of time to put them in good shape for another long period of milk production. In most large herds and in pure-bred herds the cows are given a good chance to rest and flesh up before freshening, but less experienced dairymen often allow the cows to milk continuously, under which method they have no chance to recuperate, and are thus handicapped at calving time. Authorities state that a cow will give more milk if she is dried up for a period of six weeks before calving than if she is milked continuously.
+
+#### MILK PRODUCTION HARD WORK.
+
+The explanation of this lies in the fact that milk production is hard work, and the cow gets no rest from calving to calving unless it is provided for her by drying her off. It is sometimes said that the effect of milking continuously is to weaken the calf, but ECKLE'S observations do not, he says, bear out this statement. Injury to the cow rather than the calf is likely to follow. Probably if a cow is very thin and in poor condition the calf may be weakened to some extent but the maternal instinct and the nature of the cow's body is to take care of the foetus first at the expense of the dam. It is too much to expect that the double burden of milk production and the foetus can be undergone by the average cow up to the time of freshening without injury to herself.
+
+#### DISADVANTAGE OF CONTINUOUS MILKING.
+
+The disadvantage of continuous milking without drying off is that when freshening has occurred the cow will start off on a lower level of production and will maintain a lower level than would otherwise be the case. Her body does not get a chance to flesh up, and the lack of a rest does not give her a chance to get into condition for heavy milking again. The result is that she does the best she can under the circumstances. Under average conditions the cow should be dry at least six weeks, and if she is run down in flesh two months will not be too long. Some cows are much more persistent milkers than others, and are, therefore, more difficult to get dry. Ordinarily by milking only once a day for a time and then once every two days the yield can be decreased so that after two weeks it will decline to about a pound per day, and milking may be omitted entirely. For a few days the udder will fill up, but if the milk is not drawn it will be re-absorbed into the system again and no harm will result. With more persistent milkers that are yielding more heavily, the amount of feed should be reduced, cutting off all grain or meal, and if necessary feeding nothing but timothy hay until less milk is given. When the yield gets down to about 10 lb. daily milking may be stopped.
+
+#### TREATMENT OF THE "DRY" COW.
+
+Good pasture is about all the dry cow needs if she is in good flesh. Her condition should guide the owner as to what to feed. The principal point to consider, apart from her general health, is that she should be in
+
+68------------------------------------------------
+
+JUNE, 1921.]397
+
+good flesh calving, so that she may have some reserve with which to begin at a high level of production. Exercise should accompany good feeding, and if she is on good pasture she will, without extra care, get best kind of exercise. If a cow is in poor condition she will need a generous grain ration to put her in good flesh, and when feeding one should remember that she is carrying a calf which will require extra feed. A few days before calving she should be put on a more laxative feed if she is in the stable, but if she is on pasture no special laxative is usually necessary. Milking before calving is not generally considered advisable except with the heaviest milkers that are likely to suffer from distension of the udder.—FARMERS' JOURNAL.—VOL. 2, No. 48.
+
+## TONKA BEANS.
+
+These beans are the fruit of a tree—*Dipteryx odorata*—the habitat of which is the forests on the banks of the Orinoco and other rivers in Venezuela. The trees are also to be found in Trinidad, and specimens of them may be seen in the Botanic Gardens at Dominica and other West Indian islands.
+
+The tonka, tonga, or tonquin—for so is the name variously spelt—beans are used by tobacco and perfume manufacturers. They contain a large percentage of coumarin. According to a note in the PERFUMERY AND ESSENTIAL OIL RECORD, October 1920, Trinidad is the place from which the beans are exported after having been brought from Venezuela, because the curing process is carried out in that island. The beans are soaked in rum for a few days, and spread out to dry for a short period, during which they develop a frosted appearance.
+
+The chief market for the beans is in the United States, where they are used extensively by various tobacco companies for perfuming smoking tobacco. There is also a limited market for the beans in Europe in connection with the manufacture of various perfumes. In 1917 Trinidad exported to the United States 752,601 lb. of tonka beans valued at \$ 472,055, while in 1919 only 171,500 lb. were exported, valued at \$ 167,221. It is stated that Trinidad possesses a practical monopoly of these beans in the world's markets.—AGRIC. NEWS, Vol. XIX, No. 487.
+
+## THE CORRECT METHOD OF PLANTING BANANA AND PLANTAIN SUCKERS.
+
+C. HUMPHRYS,
+
+*District Agricultural Instructor, British Guiana.*
+
+The majority of the farmers on the East Bank, Demerara River, have a fair knowledge of the proper depth at which banana and plantain suckers should be planted both in the presence and absence of water in the proximity of the surface of the soil. They pay, however, but little attention to the correct method of planting these suckers so as to minimise destruction by wind when they commence to fruit.
+
+69------------------------------------------------
+
+398[JUNE, 1921.
+
+Banana or plantain suckers should be planted at least 12 feet apart and with as light a "bottom" as possible. In digging the holes for the reception of the suckers the earth that is removed should not be utilized for filling in the hole after the sucker has been placed in position. A supply of surface soil should be used and it is better to expose the original soil to the action of sun and air before it is again used.
+
+When the plant is about five months old the surface of the soil as far as the leaves shade should be lightly forked. This practice causes the plant to thrive better and attain a large girth with consequent productiveness.
+
+The "hallow arch" portion of the sucker should, when the sucker is planted, be turned in the direction of the prevailing wind. This should especially be done when no wind break is present or on pegass lands. This practice causes the plant to put out its branches towards the wind which gives increased stability and consequently saves the expense and work entailed in bracing.—JOURNAL OF BOARD OF AGRIC. BRITISH GUIANA, Vol. XIV, No. 1.
+
+---
+
+## GRAFTING THE GRAPE-VINE.
+
+H. V. GOLE.
+
+Among the advantages of grafting the grape-vine, VIALA and RAVAZ claim that the effect of grafting is to produce a constant weakening of the scion with increased fructification, a greater number of closely set bunches with large berries, more juicy and frequently richer in saccharine matter, and earlier ripening. HUSMANN also believes that grafting increases fruitfulness, the temporary obstruction seeming to have the effect upon the graft of making it produce more and finer fruit than on its own roots.
+
+The author, considering the matter to be worthy of investigation, undertook experiments to throw light on the problem, in his plantations at Nasik (Bombay Presidency).
+
+Only four varieties of grapes are grown at Nasik:—Bhokari, a good cropper, much in favour and largely grown; Fakari, Sahibi and Hafsi or Kali, very vigorous growers, producing abundant foliage, but very shy bearers, less widely grown and with few vines in a plantation, though these varieties are decidedly superior. If grafting produced increased fruitfulness the problem, according to the author, was to ascertain whether some of these shy bearers could be made to yield more and better fruit by grafting them on other stock.
+
+The author thought that Bhokari, being very prolific, might exert a favourable influence upon the scion. Also as Takari, Sahibi and Kali are very vigorous growers, producing abundant foliage—perhaps at the expense of fruit—he thought he should be able to check this habit of vigorous growth by selecting a stock which was a moderate grower by habit, such as Bhokari. On these considerations he made experiments using Bhokari as stock.
+
+From these experiments it appears that grafting the grape-vine does increase fruitfulness. The grafts give larger and closely set bunches. In some bunches the berries attain normal size, while in others they are undersized. The quality of the fruit is not changed appreciably. The experiments were not conducted on a large enough scale to support the assertion, as a general proposition, that grafting produces fruitfulness, but the indications are that it does produce increased fruitfulness. More experimental work is necessary to establish the facts and the author intends to continue such work next season.—INTERNATIONAL REVIEW OF SCIENCE AND PRACTICE OF AGRICULTURE YEAR X, Nos. 10-11-12.
+
+70------------------------------------------------
+
+JUNE, 1921.]399
+
+## PRICKLY PEAR AS FODDER FOR MILCH CATTLE.
+
+In India, prickly pear is not ordinarily used as a cattle food, but only during periods of famine when no other fodder is readily available. The cactus is roasted over a village forge and chopped fine before being given to the cattle in combination with *kadbi* (dry *Sorghum* stalks) or cotton seed. It will be remembered that during the last fodder famine in 1919 in the Bombay Presidency at one time as many as 34,000 cattle were feeding on this preparation in the district of Ahmednagar alone. In reviewing the work of cactus "kitchens" maintained by Government for famishing cattle, LIEUT.-COL. G. K. WALKER, Superintendent, Civil Veterinary Department, Bombay, remarked that "there can be no doubt that cattle can be maintained on prickly pear, when necessary, without harm." It, however, appears from the following extract taken from the "JOURNAL OF THE DEPARTMENT OF AGRICULTURE, UNION OF SOUTH AFRICA" (Vol. 1, No. 9), that prickly pear is not merely an emergency fodder, but is considered a valuable foodstuff for milch cattle which increases the "quantity while maintaining the quality of the milk." "In Corsica and Sardinia, a daily ration of about 50 or 60 lb. per cow, comprising prickly pear finely cut up, mixed with bran or dry grass, was fed to impoverished cows, which had almost ceased their supplies, with good results. MR. MARTIN, whose experience in feeding prickly pear to oxen has been quoted above, found his milk supply greatly augmented by utilizing prickly pear as a feed for his milch cows. In Mexico, milch cows maintained their yields, in spite of the increasing coldness of the season when fed on prickly pear, this minimizing the need of purchasing expensive winter fodders" (EDITOR).—*AGRIC. JOUR. OF INDIA*, Vol. XVI, Part II.
+
+## MULCHING OF CACAO IN DOMINICA.
+
+In his Annual Report for 1919-20, MR. JOSEPH JONES, Superintendent of Agriculture, Dominica, says: It can only be regarded as unfortunate, in view of the excellent results obtained by mulching, that in a country like Dominica, where there is an abundance of this material, so little use is made of it. However near these supplies may exist to fields greatly in need of manure, planters usually hold that the material is too far away, and that it is too expensive to cut and apply to the land. Even in places where a supply is not easily available, there are always odd corners, such as banks of rivers and streams and steep hillsides, where grasses and leguminous plants could be easily grown for this purpose, at a cost per acre below that needed to purchase a complete concentrated manure. In the meantime, owing to the small amount of imported fertilizers used, to their irregular application—probably once in four or five years, instead of every year—and to the fact that larger areas are not manured, it may be stated truly, that 90 per cent. of the cultivated land in this island are being allowed to decline in fertility, while in the majority of cases, there lies close at hand an abundance of material provided by Nature for soil renovation. But the will to use it is absent, and thousands of lime and cacao trees continue to starve for want of a supply of humus.—*AGRIC. NEWS*, VOL. XX, No. 492.
+
+71------------------------------------------------
+
+400
+
+[JUNE, 1921.
+
+METEOROLOGICAL.
+
+MAY, 1921.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Station</th>
+<th colspan="2">Temperature</th>
+<th rowspan="2">Mean amount of cloud</th>
+<th rowspan="2">Mean Wind Direction during month</th>
+<th rowspan="2">Daily Mean Velocity.</th>
+<th colspan="2">Rainfall</th>
+<th rowspan="2">Difference from Average</th>
+</tr>
+<tr>
+<th>Mean Daily Shade</th>
+<th>Difference from Average</th>
+<th>Amount</th>
+<th>No. of Rainy days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Miles.</td>
+<td>Inches</td>
+<td>Inches</td>
+<td></td>
+</tr>
+<tr>
+<td>Observatory</td>
+<td>83.8</td>
+<td>+1.3</td>
+<td>7.8</td>
+<td>SW</td>
+<td>173</td>
+<td>5.09</td>
+<td>21</td>
+<td>- 7.70</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>84.8</td>
+<td>+1.6</td>
+<td>5.6</td>
+<td>SW</td>
+<td>275</td>
+<td>0.37</td>
+<td>2</td>
+<td>- 2.99</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>86.8</td>
+<td>+1.0</td>
+<td>6.5</td>
+<td>SW</td>
+<td>225</td>
+<td>0.00</td>
+<td>0</td>
+<td>- 2.10</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>86.0</td>
+<td>+0.8</td>
+<td>84</td>
+<td>SW</td>
+<td>489</td>
+<td>0.00</td>
+<td>0</td>
+<td>- 1.81</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>87.4</td>
+<td>+1.2</td>
+<td>68</td>
+<td>SW</td>
+<td>250</td>
+<td>0.00</td>
+<td>2</td>
+<td>- 2.49</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>86.4</td>
+<td>+1.8</td>
+<td>70</td>
+<td>SE</td>
+<td>136</td>
+<td>0.06</td>
+<td>2</td>
+<td>- 1.64</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>83.4</td>
+<td>+1.2</td>
+<td>79</td>
+<td>NW</td>
+<td>416</td>
+<td>0.50</td>
+<td>4</td>
+<td>- 2.69</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>81.9</td>
+<td>0</td>
+<td>82</td>
+<td>WNW</td>
+<td>286</td>
+<td>11.42</td>
+<td>23</td>
+<td>+ 0.09</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>82.2</td>
+<td>+0.4</td>
+<td>82</td>
+<td>—</td>
+<td>—</td>
+<td>12.93</td>
+<td>27</td>
+<td>- 5.09</td>
+</tr>
+<tr>
+<td>Anupura</td>
+<td>84.4</td>
+<td>+1.0</td>
+<td>75</td>
+<td>—</td>
+<td>—</td>
+<td>0.01</td>
+<td>1</td>
+<td>- 3.43</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>83.0</td>
+<td>+0.2</td>
+<td>80</td>
+<td>—</td>
+<td>—</td>
+<td>4.82</td>
+<td>11</td>
+<td>- 1.63</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>79.8</td>
+<td>+1.2</td>
+<td>81</td>
+<td>—</td>
+<td>—</td>
+<td>0.94</td>
+<td>10</td>
+<td>- 4.71</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>76.4</td>
+<td>+0.4</td>
+<td>78</td>
+<td>—</td>
+<td>—</td>
+<td>1.17</td>
+<td>6</td>
+<td>- 3.38</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>71.4</td>
+<td>+0.8</td>
+<td>75</td>
+<td>—</td>
+<td>—</td>
+<td>2.44</td>
+<td>8</td>
+<td>- 2.64</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>64.8</td>
+<td>+1.2</td>
+<td>81</td>
+<td>—</td>
+<td>—</td>
+<td>4.90</td>
+<td>6</td>
+<td>- 2.11</td>
+</tr>
+<tr>
+<td>N. Eliya</td>
+<td>63.3</td>
+<td>+1.6</td>
+<td>84</td>
+<td>—</td>
+<td>—</td>
+<td>3.02</td>
+<td>19</td>
+<td>- 3.80</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall totals for the month can be summarised in the one word—deficit. There were however a few stations in the Kelani Valley above their average and one or two further south including Carney Estate near Ratnapura) 34.24 inches, Hiniduma 21.92 inches and Galle 11.42 inches but the area in which the normal total was reached did not extend Eastward up the slopes or include Maskeliya or Ambegamuwa.
+
+In the Central Province, and Uva, figures were consistently low though deficits of less than 5 inches were rather more common than deficits of more than 5 inches.
+
+North of a line from Puttalam to Batticaloa but few stations have recorded anything, and the smallness of the deficit is only limited by the smallness of the average May rainfall in the North.
+
+Looking at the daily distribution through the month the chief rainfall was on the 25th—26th when the rain occurred which was mainly responsible for the reference made above to Kelani Valley figures (e.g. Avisawella Estate 12.36 inches, Avisawella 11.20 inches, Ruwanwella 10.86 inches, etc.). Next to this the days with heaviest falls were the 15th—16th and 5th—6th while Hiniduma's and a few other stations had heavy rain on the 2nd—3rd. As in last month the number of rainy days was not so consistently in deficit as the amount of rain.
+
+The pressure gradient for the month was a little steeper than usual and the general consequences of this are brought out by the rest of the table. Thus the wind velocities given above are all higher than normal and this fact coupled with the lack of rain shows up in the column of temperature variations from normal which are all in excess except the one station (Galle) whose rainfall is not in deficit.
+
+The Humidity figures are below average at all the low-country stations but are a trifle above it at Nuwara Eliya, Diyatalawa and Kandy.
+
+A. J. BAMFORD,  
+Supdt. Observatory
+
+ANIMAL DISEASE RETURN FOR THE  
+MONTH ENDED 31st May, 1921.
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease.</th>
+<th>No. of Cases up to date since Jan. 1st, 1921.</th>
+<th>Fresh Recoveries.</th>
+<th>Deaths.</th>
+<th>Bal- ance Ill.</th>
+<th>No. Shot.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Western</td>
+<td>Rinderpest</td>
+<td>81</td>
+<td>1</td>
+<td>80</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>88</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Cattle Quarantine Station</td>
+<td>Rabies</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>47*</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Central</td>
+<td>Rinderpest</td>
+<td>9</td>
+<td>8</td>
+<td>1</td>
+<td>8</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Southern</td>
+<td>Rinderpest</td>
+<td>35</td>
+<td>—</td>
+<td>23</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Northern</td>
+<td>Rinderpest</td>
+<td>Free</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Eastern</td>
+<td>Rinderpest</td>
+<td>141</td>
+<td>15</td>
+<td>141</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">North-Western</td>
+<td>Rinderpest</td>
+<td>36</td>
+<td>10</td>
+<td>23</td>
+<td>2</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">North-Central</td>
+<td>Rinderpest</td>
+<td>Free</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Uva</td>
+<td>Rinderpest</td>
+<td>392</td>
+<td>96</td>
+<td>376</td>
+<td>6</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Sabaragamuwa</td>
+<td>Rinderpest</td>
+<td>Free</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+\* 7 cases occurred amongst sheep and goats. † 4 occurred amongst sheep and goats.
+
+G. W. STURGESS, G.V.S.
+
+Colombo, 9th June, 1921.

@@ -1,0 +1,2389 @@
+# The Tropical Agriculturist
+
+August 1930
+
+---
+
+## EDITORIAL
+
+---
+
+### THE COCOA INDUSTRY
+
+---
+
+**A**N interesting Memorandum upon the production and trade in Cocoa has recently been issued by the Empire Marketing Board. Its perusal can be recommended to those interested in this commodity. Like those of almost all other agricultural products the prices obtainable for cocoa have in the last few years shown a decline and the question is naturally asked whether this crop, similar to others, is feeling the influence of overproduction. It is in some measure, therefore, satisfactory to be informed that the world seems capable of absorbing considerably larger supplies of cocoa. Its further introduction to nations not largely using it is to be desired. The consumption of cocoa, as is well known, takes place largely in two forms, as a beverage and in confections of which chocolate is the chief. It is interesting to note the mutual relationship between these two forms, whilst cocoa for drinking purposes requires the removal from the natural article of a large portion of its fatty content, cocoa butter, chocolate on the other hand requires an addition of cocoa butter in its composition. This peculiar interdependence between cocoa and chocolate really requires a much larger consumption of cocoa in beverage form than in chocolate form in order to dispose of the cocoa powder from which the fatty butter has been removed. The reverse however would seem to be the case in most countries. A recent falling off in the world's consumption of chocolate is said to be the result of the tobacco habit amongst women and the generally increased consumption of fruit, amongst other things.
+
+1------------------------------------------------
+
+62
+
+Cocoa is essentially a product of the tropics. The cocoa tree does not flourish where the temperature falls below  $60^{\circ}\text{F}$  nor at an altitude above 1,800 feet. The area capable of producing cocoa is thus strictly limited. The area capable of growing cocoa in Ceylon, in consequence of temperature and humidity requirements, has to lie between 500 feet and some 1,800 feet elevation. At present about 35,000 acres are estimated to be under cocoa here. The Gold Coast is the greatest cocoa exporting country, its present day production being over two hundred thousand tons. Next comes Brazil with some seventy thousand, then Nigeria with about half the quantity of Brazil. Ecuador, Trinidad, San Domingo, and France's African Colonies each produce about a tenth of the quantity of that of the Gold Coast. Although Ceylon comes a long way down in the list with some four thousand tons, yet she shares with the West Indian Islands and Western Samoa the reputation of producing a finer grade of cocoa than other lands. Whilst these fine cocoas have to compete with the cheaper products of countries yielding ordinary cocoas it is satisfactory to note that those manufacturers of chocolate who use the fine grade of cocoa are able to maintain their trade by virtue of so doing. Scientific research which would lead to an increase in the yield of our cocoa trees, and thereby enable us to produce our fine cocoa more cheaply, is predicted as a likely line from which help may come. Ceylon is already contributing for this purpose to a scheme of joint research with other Colonies and some of the more prominent cocoa and chocolate manufacturing firms. As with tea, so with cocoa, there would seem to be possibilities for a much greater consumption. Whilst cocoa is a popular beverage amongst the working classes in France, Germany and Belgium, yet there is ample scope for it to become more so amongst many other nations. The consumption of chocolate too would appear to have by no means reached its maximum.
+
+Before the War the United Kingdom was by far the largest buyer of Ceylon cocoa but to-day much the greatest quantity is taken by the Philippine Islands. In 1913 the United Kingdom took some 2,200 tons and the Philippine Islands some 400 tons, whilst in 1928 the United Kingdom took 550 tons and the Philippine Islands 1,500 tons. There do not appear to be any other reasons than proximity, and we trust an appreciation of the high quality of our produce, to account for this increasing consumption of our cocoa by the Philippine Islands which apparently consume all they import and export none.
+
+2------------------------------------------------
+
+63
+
+XVIII, 193.
+
+PRESENT POSITION IN REGARD TO  
+THE CONTROL OF PRICKLY-PEAR  
+(*OPUNTIA DILLENII*, HAW) IN CEYLON  
+BY THE INTRODUCED COCHINEAL  
+INSECT *DACTYLOPIUS TOMENTOSUS*,  
+LAMK
+
+F. P. JEPSON, M.A.,  
+ASSISTANT ENTOMOLOGIST,  
+DEPARTMENT OF AGRICULTURE, CEYLON
+
+**T**HE cochineal insect *Dactylopius tomentosus* Lamk, was first introduced into Ceylon from Australia in August 1924 through the agency of the Australian Commonwealth Prickly-pear Board and was successfully established from the first cultures received. The introduction was made with the object of controlling *Opuntia dillenii*, one of the local species of prickly-pear which had been, for many years, a troublesome weed in the Northern districts of the Island.
+
+An account of this introduction and the progress of the experiment up to October 1926 has already been given by Hutson<sup>(1)</sup> and the object of the present note is to continue this account from that date to the present time.
+
+The original material received from Australia was retained at Peradeniya until the insects had become acclimatised and until a sufficient number of them had been bred from the original parents to insure supplies being available for distribution. The descendants of this introduction are still being bred from in the insectary of the Entomological Laboratory at Peradeniya and are available for distribution as required.
+
+It is desirable, at this stage, to make brief reference to the local distribution of the two recognised species of prickly-pear which are classed as weeds in Ceylon.
+
+From information now available it would appear that many years ago the prevalent species throughout the drier coastal districts of Ceylon was *Opuntia monocantha* Haw., although Trimen<sup>(2)</sup> states this to be *O. dillenii* Haw., and makes no mention of *O. monocantha*. At the time of writing (1894) he states that *O. dillenii* was the only naturalised species of prickly-pear in the Island. A very extensive area of the Northern Province was, at one time, infested by *O. monocantha* but, about
+
+XV, 180  
+XVII, 292
+
+3------------------------------------------------
+
+64
+
+XVI, 100  
+ XIV, 292
+
+the middle of last century, was practically exterminated by the wild cochineal insect *Dactylopius indicus*, <sup>cochinese, 1900</sup> believed to have been derived from Madras. At the present time *O. monocantha* is extremely rare in the Northern Province and only occasional isolated plants are to be found.
+
+Although *D. indicus* also occurred on *O. monocantha* in the Southern Province its establishment does not appear to have met with the same marked success as in the north as this species of pear still persists in parts of the Southern Province but under some degree of control by this insect.
+
+Following the disappearance of *O. monocantha* from the Northern Province its place appears to have been rapidly taken by another species *Opuntia dillenii*, and there is every reason to believe that this plant was an introduction from Southern India where it is still established over a vast extent of territory. So far as is known this species does not appear to have made much progress in a southerly direction. The limits of its advance along the coast appear to be Mannar on the west and Foul Point on the east. In 1912 it was cultivated in the Colombo district as a hedge plant to some extent and, although botanical records are not available, it is said to occur, also, in the Hambantota district of the Southern Province.
+
+Several attempts were made in the past, and as recently as 1904, to cope with the recrudescence of pear in the northern parts of the Island by introducing from the Southern Province the cochineal insect which was exercising a controlling influence upon the species of pear growing in the Tangalla district. All of these attempts met with failure and it was found impossible to induce this insect to settle down on the variety of pear which had now taken possession of the northern districts. The reason for this failure was not understood at the time but in the light of more recent knowledge it was clearly due to the fact that the species of pear in the two districts were not the same. This fact does not appear to have been recognised until the visit to Ceylon in 1913 of the Queensland Prickly-pear Travelling Commission<sup>(3)</sup>
+
+The differences between the two common species of *Opuntia* established in Ceylon are quite marked but are not generally appreciated. The failure to recognise these differences has led to consignments of *D. tomentosus* being sent, on request, to districts where *O. dillenii* does not occur and, consequently, attempts to establish the parasite on *O. monocantha* have failed. Although *O. monocantha* is now so scarce in the Northern Province as to be only rarely encountered requests for supplies
+
+4------------------------------------------------
+
+65
+
+of *O. dillenii* from this province for the propagation of *D. tomentosus* at Peradeniya have resulted, on two occasions, in consignments of *O. monocantha* being sent.
+
+It is important that the differences between the two species should be recognised as *D. tomentosus* confines its attention in nature to *O. dillenii*. It has been, with difficulty, transferred to *O. monocantha* in the laboratory at Peradeniya but it does not thrive on this species and all attempts to establish this insect on *O. monocantha* in the wild state have met with failure.
+
+Illustrations to show the main differences between the leaves of the two local species of *Opuntia*, together with a table showing other distinctive characters, have already appeared in a previous number of *The Tropical Agriculturist* (1) but the characters by which the two species may be readily recognised may be briefly recapitulated here.
+
+*Opuntia monocantha* bears spines which are straight and usually solitary and dark at their apices. The segments are bright-green and the petals of the flowers, reddish externally. *O. dillenii*, on the other hand, bears yellowish spines, mostly curved and associated in groups of from 2-5. The segments are grey-green and the flower petals yellow externally. Both species are known to the Sinhalese as "Katu-patuk" and to the Tamils as "Naha-kalli."
+
+The inability of the established cochineal insect, *D. indicus*, to exercise any controlling influence on *O. dillenii* in the Northern Province was one factor which led to the introduction of *D. tomentosus* into Ceylon in 1924 and since that time the work of propagating this insect has been confined to parts of the Island in which *O. dillenii* is now established as a troublesome weed, particularly in the districts of which Jaffna, Mannar and Trincomalee are the centres.
+
+A consignment of the first brood derived from the original importation of *D. tomentosus* from Australia was forwarded to Trincomalee in March 1925. A very large area of Fort Frederick was infested by this weed and the initiation of the experiment was undertaken by the Irrigation Department which had its headquarters in Trincomalee at that time. The insect was soon established and rapidly spread through the areas infested by pear. At the end of 1926 the Director of Irrigation reported that the last area of pear in Fort Frederick was being dealt with and indicated that if it was desired to make any further use of this acclimatised insect in other parts of the Island it would be necessary to collect and distribute it at an early date. Otherwise there was a danger of it disappearing with the last survivals if its host plant in this locality. At this time he also reported as
+
+5------------------------------------------------
+
+66
+
+follows: "There now remains practically no unaffected pear in an area of 30 acres where formerly the pest was rampant. The infestation has been carried out by merely throwing an infested leaf into a healthy clump of pear. The experiment appears to have been entirely successful." On receipt of this report action was at once taken to collect infested leaves and transport them to Jaffna, Mannar and the island of Delft.
+
+In 1927 steps were also taken to establish the insect on pear at Foul Point where the weed was becoming a nuisance in the vicinity of the lighthouse. The Inspector of Coast Lights, Trincomalee district, has recently reported that this introduction has been a complete success. When the insect was first established the pear bushes were 8-10 feet high and were encroaching on the lighthouse buildings. About 75% of the original infested area has now been cleared by the agency of these insects which are still active and are destroying the remainder of the pear. This officer also stated that the beneficial action of the insect is very much more noticeable in the dry season and suggests that this may possibly be accounted for by the action of the salt-spray on the normal development of the insects during the N. E. monsoon, the affected area being liable to receive this spray from the sea during this season of the year.
+
+In November 1929 the writer visited the Trincomalee district and although he was not personally acquainted with the original area covered by the weed it was evident from the testimony of those who possessed this knowledge that a very considerable elimination of pear had taken place in the district as a result of the agency of this insect. A few large isolated plants were still to be seen in the immediate vicinity of Fort Frederick but in all cases were infested with the parasite and their destruction was only a matter of time. It was observed, in certain extensive areas which had obviously been previously covered by pear, that a few single leaves were making their appearance above the soil in isolated spots. As the cochineal insects had disappeared with the last of the pear plants which they had destroyed, there was a danger of the weed again becoming established from these foci unless steps were taken to remove these occasional solitary small plants or to infest them with the parasite. The importance of reaping the full benefit of the useful work performed by this insect by completing the work where necessary, was impressed on the agricultural officer in the district and he agreed to deal with all small isolated patches of new pear as soon as they appeared.
+
+Such complete success has attended the establishment of this insect in pear-infested regions that there is a tendency to rely solely on the agency of the parasite to maintain the position which it has brought about, but as the insect has no ready means
+
+6------------------------------------------------
+
+67
+
+of dispersal the destruction of its host must inevitably lead to its own extermination. Under such circumstances reliance cannot be placed upon the insect to establish itself, unaided, on small isolated patches which arise after the original heavy growth has been disposed of. The insect can be relied upon to perform, successfully, the initial heavy task of clearing the land from this encumbrance but it is necessary that continued attention should be directed to the comparatively simple duty of completing this good work where required. The eradication of new growth in small and isolated centres from which new infestations may arise is, therefore, a very necessary operation and it can be performed either by digging out the plants or by inoculating them with the parasite. If this policy is pursued in a systematic manner there is no reason why the weed should not, eventually, be completely eradicated from the extensive area of country of which it has been in undisputed possession for so many years.
+
+Other centres in the Trincomalee district to which cultures of this insect have been transported and successfully established are Niroddumunai, Nilaveli and Kuchchaveli. The officer responsible for the distribution work in this district is the Agricultural Instructor who is under the direction of the Agricultural Officer in charge of the Northern Division with headquarters at Jaffna. This Officer, Mr. W. P. A. Cooke, has taken a great personal interest in this interesting and important experiment and its success in the northern districts of the Island, is very largely due to his initiative and influence.
+
+The first introduction of the insect into the extreme north of Ceylon was made in May 1925 and, in view of the extensive area occupied by pear on the island of Delft, it was decided to liberate the first cultures on this island. Great difficulty was experienced in establishing the insect in this place and several consignments were despatched from Peradeniya before the experiment was finally successful in April 1926. Two years later the Government Agent, after visiting this island, reported that "the spread of the cochineal insect on *Opuntia dillenii* was noted as being quite remarkable." In another portion of his report he stated that "isolated bushes were found infected all over the island of Delft, and in many cases these bushes were at a considerable distance from any other infected bush."
+
+The first cultures established on the mainland of the Jaffna peninsula were from material sent from Peradeniya in June 1925. Propagation was carried out at the Farm School, Tinneveli. To supplement these cultures, which had been successfully developed, further material was sent in August of the same year and again in July 1926. In October of the latter year, the
+
+7------------------------------------------------
+
+68
+
+Divisional Agricultural Officer was requested to establish a nursery for the propagation of the parasite for further distribution in the peninsula and, in the same month, the Jaffna material was augmented by further supplies from Trincomalee.
+
+One year later, that is in November 1927 a report was received from the Agricultural Officer to the effect that the insect had been distributed and established in the following centres of his division: Experiment Station, Farm School and town of Jaffna, Kirimalai, Kankesanturai, Anaikkoddi, Vannarponnai West, Chunnakam, Mayiliddi, Kondavil, Avarangal, Tavadi, Kokuvil, Point Pedro and Achchuveli as well as on the islands of Allaipiddi and Eluvaitivu as well as Delft which has already been referred to. In October 1928, it was further reported that distributions had been made to Chankanai, Punnakam North and Urelu. In all cases favourable accounts of the work of the insect were received and a very large area of pear was said to have been destroyed by its agency.
+
+All of the above centres, with the exception of Chankanai and the islands of Allaipiddi, Eluvaitivu and Delft were visited by Mr. W. C. Lester-Smith, Plant Pest Inspector, Central Division, in March and April 1930 and he reported that "In many of these places there is little and in some no evidence of the existence of this pest *Opuntia dilleni*. In certain areas, however, unless the pest is carefully watched a recrudescence will occur as in a few areas, chiefly those which were not heavily infested originally, there are many small plants coming up. Very many of these appear to be uninfested by the parasite and their regeneration and the introduction of the parasite will require attention in the near future. It is of particular interest to note the following fact of which I was informed by the Divisional Agricultural Officer, Northern Division. In some areas several acres of land are now under cultivation which, previous to the introduction of the parasite, were all in *Opuntia* scrub some 6-10 feet high." The reference to the appearance of young plants in areas which had been cleared of the main infestation and the need for their eradication are of interest in view of the remarks already made on the same subject in regard to the position at Trincomalee.
+
+Mr. Lester-Smith also learnt that there is now some reluctance, on the part of cultivators, in this quarter of the island to encourage the further distribution of the parasite on account of the fear that it might turn its attention to cultivated plants. As he pointed out there is no foundation for this fear which appears to have arisen owing to the superficial resemblance of this insect to some of the injurious mealy-bugs and it should be the duty of the agricultural officers in this division to relieve the minds of the
+
+8------------------------------------------------
+
+69
+
+cultivators on this point. *D. tomentosus* was not introduced into Ceylon before the most careful inquiries had been made regarding its habits and behaviour and there is no danger of this beneficial introduction becoming a pest of cultivated plants. It is most important that this fact should be realised in this locality, otherwise there is a grave danger of this successful campaign against *Opuntia dillenii* receiving a severe set-back.
+
+Useful work has been done in distributing *D. tomentosus* in Mannar, which is also within the agricultural division administered by Mr. Cooke. The first cultures were sent to Mannar from Trincomalee in October 1926 for propagation and distribution by the Agricultural Instructor at Mannar and the Rev. Father S. J. Stanislaus at Pesalai. The insects were soon established at these centres and in February 1928 it was reported that further distributions had been made to Kuddiruppu, Uppukulam, Panankaddikottu and Periyakadai in the same district. It was further reported that the insects had multiplied and were spreading very satisfactorily and that they had destroyed a large number of bushes in these areas.
+
+When visiting the Mannar district in April of this year Mr. W. C. Lester-Smith found that excellent progress had been made at Pesalai through the interest and enthusiasm of Father Stanislaus and that very little pear remained in the area which had received attention. He observed, however, as in the cases already quoted at Jaffna and Trincomalee, that young plants were making their appearance. The campaign does not appear to have been prosecuted with the same degree of zeal in other parts of Mannar and there is ample scope for further distribution work in the island. The pear in the Mannar district was, in Mr. Lester-Smith's opinion, more luxuriant in growth than at Jaffna and there were large areas free from infestation by the parasite. Where established, however, the reproduction of the insect appeared to be most vigorous and the degree of infestation very high though its extent was not as great as that noted in the Jaffna District. The insect is thoroughly established in this neighbourhood and its further distribution rests with the agricultural officer stationed at Mannar.
+
+Cultures of *D. tomentosus* were sent, on request, to Weragama, in the Matale district, and to Balangoda in 1927. The original material could not be established on the pear growing at Weragama and the same applied to several subsequent consignments. Finally an entomological officer visited this district to ascertain the cause of these repeated failures and found that the prevalent species of *Opuntia* in this district was *monocantha* and not *dillenii*. The failure of the Balangoda experiment was attributed to the same fact.
+
+9------------------------------------------------
+
+70
+
+Although this article is intended to summarise the present position in regard to the progress of prickly-pear control in Ceylon by *D. tomentosus* it may be of passing interest to mention that cultures, derived from the original importation from Australia, have been exported to, and successfully established in, Mauritius and Southern India.
+
+In January 1927 a request for a supply of *D. tomentosus* material was received from the Director of Agriculture, Mauritius. The first consignment of infested pear was despatched in March of the same year but was reported to have arrived in poor condition with no surviving insects. A second consignment was accordingly sent in June, followed by a third in March 1928. This last consignment was also a failure but information was received in May 1928 that the insect had been established from a few survivals of the second consignment. It was mentioned, at the same time, that attempts were being made to establish this species of *Dactylopius* on *Opuntia tuna* which occurred in Mauritius and closely resembled *O. dillenii* but the success of this undertaking has not been ascertained. It was of interest to learn, from the same source, that *Coccus cacti* (*Dactylopius coccus* Costa) had been introduced from South Africa and was exercising a very efficient degree of control in Mauritius on *Opuntia monocantha*, the species which is common in the Southern Province of Ceylon.
+
+In December 1926 an application was received from the Entomologist, Department of Agriculture, Mysore State, India, for a supply of *D. tomentosus*. This request was immediately complied with and the consignment was followed by a second one in January 1927. Both consignments arrived safely and the insects commenced to breed on the fresh pear to which they were transferred.
+
+About the same time a similar application was received from the Manager of the Madura Co., Ltd., Tuticorin, South India and consignments were despatched to him in December 1926, January 1927 and a third in the following month, all of which yielded living material from which a very successful undertaking has developed. Recent information has been received which indicates that the progeny of the original cultures obtained from Peradeniya have now been established over an area of 40,000 square miles, that very large tracts of land in the southern portion of the Madras Presidency have been cleared of pear through the agency of this insect and that the land so liberated was now under cultivation for the first time for many years. In the opinion of one landowner an area of country, valued at one lakh of rupees, had been set free for cultivation in the Tuticorin district alone. Further, it was estimated that by the year 1940
+
+10------------------------------------------------
+
+71
+
+an area of 114,000 square miles of country, now occupied by pear, would be liberated for cultivation by the agency of this introduced insect.
+
+If there is any prospect of this prediction materialising this exploit promises to become a classic example of the control of weeds by biological methods.
+
+A recent official report<sup>(4)</sup> states that this insect has become firmly established in Madras but some doubt is expressed as to the desirability of further assisting its dissemination in view of the value of the plant as a live hedge and for manurial purposes.
+
+#### SUMMARY
+
+1. *Dactylopius tomentosus* was introduced into Ceylon, through the agency of the Australian Commonwealth Prickly-pear Board in August 1924 for the purpose of controlling *Opuntia dillenii* a species of prickly-pear which had taken possession of a large tract of country in the north of the Island.
+
+2. The two common pest pears in Ceylon are *Opuntia dillenii*, chiefly prevalent in the north, and *O. monocantha* more common in the south. The latter has been under control in Ceylon for many years by the wild cochineal insect *Dactylopius indicus*, believed to have been derived from Madras about the middle of last century. This species is not a parasite of *O. monocantha*. The essential differences between these two species of *Opuntia* are mentioned.
+
+3. The introduced parasites were acclimatised at Peradeniya and propagation was continued until sufficient material was available for distribution.
+
+4. The first cultures were liberated in March 1925 at Fort Frederick, Trincomalee, where a large area of pear scrub was cleared in eighteen months. Further distribution in this district was also successful. At the present time only occasional isolated plants are to be seen and the large ones are infested by the parasite.
+
+5. The insect was established on the island of Delft in April 1926 after several unsuccessful attempts extending over one year. The spread was rapid and by April 1928 colonies were to be found all over the Island.
+
+6. In June 1925 the insect became established at Jaffna and the local supply of the parasite was augmented, periodically, from Peradeniya and also from Trincomalee. Extensive distribution has been made in the Jaffna peninsula, all the principal centres having received supplies of infested material. The experiment has been most successful in this region and the pear has been completely eliminated from certain areas. Land which
+
+11------------------------------------------------
+
+72
+
+was previously occupied by *Opuntia* scrub, 6-10 feet high, is now under cultivation.
+
+7. The Mannar supplies of the parasite were obtained from Trincomalee in October 1926 and successful establishment was effected at Mannar town and Pesalai. The results of the introduction to this quarter are particularly striking at Pesalai where a large area of land has been reclaimed from the pear. There is scope for considerable extension of the work of distribution in other districts of this island where the pear is of particularly vigorous growth.
+
+8. Distribution to certain other centres has failed owing to the prevalent pear in these localities being *O. monocantha* and not *O. dillenii*. The importance of recognising the difference between these two species is emphasised.
+
+9. Cultures from Peradeniya have been forwarded to, and established in, Mauritius and South India. An area of 40,000 square miles is said to have been already reclaimed from this weed in the Madras Presidency entirely by the agency of this insect and an area nearly three times this size is expected to be cleared in ten years' time. A large extent of country has now been made available for cultivation for the first time for many years. Land valued at a lakh of rupees has been freed of pear in the Tuticorin district alone.
+
+10. In conclusion, it is considered that this introduction has been amply justified by the results obtained. The necessity for aiding the parasite by disposing of isolated leaves which appear in the cleared areas is apparent in Mannar, Jaffna and Trincomalee and the attention of agricultural officers, in the districts concerned, to this important matter is required. Another important point which should be impressed upon the cultivators in the districts where the insect has been established is that they have nothing to fear from this introduction so far as their crops are concerned. The difference between this beneficial Coccid and the injurious types requires to be pointed out to them as unless their complete confidence in the utility of the campaign can be secured, and maintained, there is a danger of much valuable land again reverting to pear scrub in certain districts of the Island.
+
+#### REFERENCES TO LITERATURE QUOTED
+
+1. (1) Hutson, J. C., (1926). "Prickly-pear and Cochineal insects."—*Trop. Agric.* Vol. LXVII, No. 5 pp. 290-292.
+2. (2) Trimen, H., (1894).—*Handbook of the Flora of Ceylon*, 11, p. 267.
+3. (3) Johnston, T. H. and Tyron, H., (1914). "Report of the Prickly-pear travelling Commission; 1st November, 1912-30th April, 1914." pp. 3-8.—*Govt. Printer, Brisbane, Queensland*.
+4. (4) Government Entomologist, Coimbatore. Admn. rept. 1928-1929.
+
+12------------------------------------------------
+
+73
+
+## POD ROT IN COCOA\*
+
+WITH cocoa running down the hill because of low prices many of the standard precautions, we regret to say, have been neglected in cultivations that in the days gone by were among the best.
+
+One of the primary causes of pod rot in cocoa is the propagation of the fungus on the rotting shells from which the beans have been extracted, which are left lying on the surface without any treatment.
+
+One of the best means of getting rid of these shells is to open up several holes according to the quantity of pods reaped and drop each shell in the hole immediately after it is emptied. A dash of lime or woodashes helps to prevent any trouble. The hole need not be closed immediately; indeed, it is better to leave it open until the pods have shrunken a bit. In any case cocoa shells should never be left on the surface to rot.
+
+Pod rot is more frequent in damp places, and in case of extraordinary humidity the attack may sometimes assume serious proportions. This fungus is very troublesome and attacks the pod at almost any stage of its growth. It is the same trouble that causes that shrivelling of the small pods. In big pods it is very distinctly noticed. It begins either at the top or the bottom of the pod. Pods that are attacked do not last very long and the trouble is one that we should make every effort to control.
+
+All diseased pods should be removed as soon as possible and either buried with lime or burned, seeing that they continue to breed the spores of the fungus which may remain in the soil for a long time until damp weather gives them the conditions for rapid spread so that even a well cared, healthy tree may get infected from rotting, infected material left lying carelessly on the surface or from diseased pods nearby.
+
+Added to that, this fungus is the cause of the well-known canker in cocoa, which attacks the cushion of the tree and also the bark and the wood.
+
+In the days of high prices, as we mentioned before, sanitary measures, of the kind referred to above for the protection of the trees, were very common, but with low prices and indifferent cultivation as a result many of the cultivators have begun to be careless.
+
+Another bit of carelessness that we notice in moving about cocoa cultivations is the destruction of the cushion by improper methods of reaping the pod. The pod should be removed with a knife and the cushion should not be injured in any way; otherwise canker is likely to attack and destroy not only the cushion itself but may extend to the limb and cause it to rot altogether. If left alone the whole tree may perish as a result of the canker. Pruning and lightening the cultivation in very damp locations and seasons might help in keeping down the loss to a minimum.
+
+In the days of low prices we want high production and every means should be exercised to keep our trees in good health and production.
+
+---
+
+\* From *The Journal of the Jamaica Agricultural Society*, Vol. XXXIV, No. 5, May 1930.
+
+13------------------------------------------------
+
+74
+
+## COCONUT RESEARCH IN MALAYA\*
+
+UP to the time of the formation of the Rubber Research Institute of Malaya, the main activities of most of the research divisions of the Malayan Department of Agriculture were necessarily confined to the investigation of rubber problems. Coconut investigations, however, formed a main line in the Divisions of Economic Botany and Entomology long before the inauguration of the Rubber Research Institute and since 1920 much work has been done on coconut research by the officers of these Divisions. When the rubber work of the Department was taken over by the Rubber Research Institute, other Divisions devoted more time to coconut problems, so that at the present time this crop is receiving a considerable amount of attention as regards research necessities.
+
+In 1920, the Division of Economic Botany commenced taking individual yield records with a view to studying variation in individual palms. In 1922, an Experimental Coconut Plantation of 50 acres was started between Klang and Port Swettenham and planted up with seed nuts of known origin.
+
+The study of variability in coconuts by the Division of Economic Botany up to date has shown that as regards fruiting qualities, the co-efficient of variation in the number of nuts produced per annum is as high as 34% of the mean production per palm under average estate conditions. The study of variation has also revealed the fact that 19% of the palms on the average estate are unprofitable. Fruiting characters of individual palms have been found to be definitely constant over a period of eight years and no doubt this constancy also exists as regards the oil content of copra from individual palms within the range of seasonal variation. Investigations on this point are already in hand by the Chemical Division.
+
+The entomological work from 1920 onwards included investigations into the life history of the more important pests of coconut palms and the following special bulletins have been issued:
+
+1. (1) The Two-coloured Coconut Beetle (*Plesispa reichei*).
+2. (2) Red-Stripe Weevil of Coconut (*Rhynchophorus schach*).
+
+Further considerable work on the Black Beetle (*Oryctes rhinoceros*) and the influence of *Tirathaba rufivena* (Greater Spike Moth) on immature nut-fall has been undertaken.
+
+The study of diseases of coconut palms was under investigation during the days of intensive rubber work but after 1926 this work was considerably accelerated. The work was mainly concentrated on the elucidation of the so-called "Bud-Rot" problem. In 1922, a paper was published in the Annals of Botany describing inoculation experiments which led to the conclusion that the problem had not been finally settled and that, as far as Malaya was concerned, the whole subject needed reinvestigation. Numerous articles on coconut diseases have since been published and in 1928 a special double number of *The Malayan Agricultural Journal* was published giving the results of the work up to date. The important results may be summarised as follows:
+
+---
+
+\* By A. Sharples in *The Malayan Agricultural Journal*, Vol. XVIII, No. 2, February 1930.
+
+14------------------------------------------------
+
+75
+
+1. (1) No evidence has been found to support the suggestion that a form of epidemic Bud-Rot, caused by parasitic organisms, exists in Malaya.
+2. (2) That Lightning is of primary importance in the question of so-called Malayan Bud-Rot and probably of other affections.
+3. (3) That *Merasmius palmivorus* n.s. plays a rôle of some importance in so-called Bud-Rot manifestations in Malaya.
+
+In 1928, a report entitled Copra Manufacture, by H. C. Sampson, was received in which he reviewed the present Empire position with regard to quality of copra and the possibility of improving the quality, with suggestions as to the relevant lines of research and the place where the work could be best undertaken. The report suggested *inter alia* that "Malaya seems to offer the best scope for carrying out this work for not only is copra becoming of increasing importance as an export from there, but the country probably has better facilities in the way of staff and equipment than is possessed by other colonies interested in this matter. It would be a much better country than Ceylon since the climatic conditions in the main coconut growing districts of that island much more closely resemble those of the West Coast of India where sundrying is largely practised.
+
+As the matter was of considerable (Imperial) importance economically, the Empire Marketing Board, after consultation, expressed their willingness to provide a contribution towards the cost of the Research, an offer which the local administration accepted. The more immediate work on copra research obviously demanded study from the chemical point of view, and arrangements for the special appointment of an Assistant Chemist for Copra Research were made on the initiative of the Empire Marketing Board. The appointment was filled, and this officer assumed duties in October, 1929.
+
+The question of the appointment of a Copra Research Chemist was under discussion when the Director of Agriculture arrived in Malaya in 1929. The Director of Agriculture suggested the formation of a Departmental Copra Research Committee, with the object of correlating the various lines of work in progress, and making suggestions for its extension on properly co-ordinated lines, the Head of Divisions to sit as members with the Government Mycologist as Chairman. This Committee held its first meeting on April 14th, 1929, and made a number of recommendations relative to the desirability of collecting information on the subject of copra manufacture in Ceylon and the marketing of copra in England. As a result, the Government on the recommendation of the Director of Agriculture approved:
+
+(a) Of an officer being deputed to obtain information as to the market standards required by copra dealers in England and data concerning other factors in influencing the price of copra on the English markets. A report on this subject has been lately submitted by the officer in question (Mr. D. H. Grist, Agricultural Economist).
+
+(b) Of an officer being deputed to visit Ceylon with a view to obtaining information relative to manufacture of copra in Ceylon, for purposes of comparative study. Subsequently, a schedule was submitted by the Committee to the Director of Agriculture indicating various additional lines of work which appeared to offer prospects of yielding useful information.
+
+A considerable amount of useful research work on copra had already been achieved by the Chemical Division. This work comprised particularly:
+
+1. (a) Analytical comparison of the composition of Malayan copra with Ceylon and Malabar copra.
+
+15------------------------------------------------
+
+76
+
+(b) Studies of variations in oil content of copra from selected palms. This work was being carried on in collaboration with the Economic Botanist.
+
+With reference to (a) the work so far performed appears to indicate that commercial Malayan copra is of lower oil content than copra from Ceylon and Malabar, but this result required confirmation by further analyses. In the opinion of the Acting Agricultural Chemist the alleged inferiority of Malayan copra may be largely due to climatic causes. Efforts, will, therefore, be made to obtain further information on this point by importing seed nuts from Ceylon and Malabar, and by making enquiries in this country to ascertain whether any seed nuts have ever been imported from Ceylon, in addition to those at Klang Experimental Station, the trees from which are not yet in bearing. As a result, a provisional outline programme of work on copra research was formulated as follows. This programme may be subject to modification as experience is gained.
+
+(a) The Assistant Chemist for Copra Research on arrival in Malaya should in the first place undertake a series of tours through the Malayan coconut districts with the object of obtaining a general knowledge of the various conditions associated with the coconut industry. These have already been commenced.
+
+(b) After the preliminary survey, a detailed study of the production of copra stage by stage would be commenced. The following items indicate the more important lines to be followed :
+
+1. 1. Systematic comparative analysis of native and estate copra from different districts in Malaya, Borneo and Sarawak.
+2. 2. Examination of further samples of copra from other countries, *e.g.*, Ceylon and Malabar and a detailed comparison of actual nuts from Ceylon, Malabar and Malaya . . . also microscopic comparison.
+3. 3. Laboratory experiments on the colour of soap produced, and the bleaching properties of coconut oil derived from copra from different sources . . . these tests are used in the soap and edible oil industry for grading oils.
+4. 4. Structural examination, radially and tangentially, of nuts of various shapes, sizes and states of ripeness in order to determine the best sampling position to be adopted in the succeeding work.
+5. 5. An elaborated examination including tangentially sectioning of under-ripe, ripe and over-ripe nuts derived from two high-yielding and two low-yielding palms.
+6. 6. The same from a palm yielding uniformly small nuts, and one yielding uniformly large nuts.
+7. 7. The same from palms of different ages, and also of different types. . . in conjunction with chemical analysis of soils and fruits.
+8. 8. Thinning out the flowers or young fruit to note the effect on the yield and oil per cent. of copra.
+9. 9. A study of tapping for toddy, noting its effects on yield and oil per cent. of copra.
+10. 10. An elaborated study of the structure and growth of coconuts obtained by dating individual nuts, immediately the spathe opens, and by picking individual nuts daily between 200 days and until natural nut fall commences, including microscopic examination and free fatty acid determination.
+
+16------------------------------------------------
+
+77
+
+The basis of comparison between the individual nuts will be the "ripeness factor" or "total oil per unit area of meat." (Oil % Wet  $\times$  Thickness of Meat  $\times$  Sp. Gr. Meat) which will, it is anticipated, effectively overcome individual differences in shape, size, meat thickness and erratic development of the nuts examined. In this connection, neither total oil nor oil percentage (dry) is considered here an effective method for studying nut development.
+
+1. 11. Bulk determination of the total oil derived from 100 ripe ungerminated nuts and 100 partially germinated nuts and 100 young nuts, and the same for nuts kept one, two and four months longer before opening.
+2. 12. The preparation of a comparative statement of the picking systems in vogue on different plantations and the copra obtained (quality copra and oil yield per 1,000 nuts).
+3. 13. An examination of the working costs of different methods of collection and estate transport and the effect, if any, on the copra obtained.
+4. 14. The preparation of a comparative statement of the Capital Cost, Maintenance and Repair Charges, Life of Plant, Labour Costs, Capacity, Speed and Efficiency of existing driers and of the proprietary driers at present on the market.
+5. 15. A comparison of the working temperature and humidity conditions; and of the colour, structure and quality of the copra obtained by the existing methods: Sun-drying, smoke-drying, simple hot air drying, and chulu drying and also of perfect copra obtained on a small scale under laboratory conditions.
+6. 16. The effect of washing the meat in water, 2% formaldehyde, hypochlorite or sulphurous acid before drying.
+7. 17. The effect of 'sulphuring' during drying.
+8. 18. The effect of the size of coconut meat on the rate of drying and subsequent mould formation.
+9. 19. Small-scale experiments in burning coconut shell, using forced draught . . . consideration of the use of a gas producer as a source of heat.
+10. 20. Small-scale laboratory experiments under varying conditions of drying, noting structure and physical condition of resulting copra.
+11. 21. The effect on mould formation, of chopping the copra after drying.
+12. 22. A study of the storage of the different types of copra from different sources under warehouse conditions, noting variation in oil, free fatty acid and moisture.
+13. 23. A study of the maintenance of low moisture content, or its fluctuation under conditions of varying humidity for copra of different physical structure.
+14. 24. A study of mould, free fatty acid formation and insect attack under varied conditions of temperature and humidity.
+15. 25. A comparison of clean and mouldy copra from the same source.
+16. 26. The effect of mixing (on a 25%, 50% and 75% basis) of estate with native copra, noting results.
+17. 27. A study of the temperature and humidity conditions in a copra cargo boat with a view to possible improvements.
+
+17------------------------------------------------
+
+78
+
+28. The actual preparation on a large scale of copra containing 72% oil and a comparison between it and that derived from Ceylon and Malabar, and the working oil and copra yield per 1,000 nuts.
+
+In addition to the above, a considerable programme of research work on coconuts is in hand in the various Divisions of the Department. The following may be mentioned :
+
+- (a) The selection and breeding of improved strains of coconuts.
+- (b) Manurial and cultivation experiments.
+- (c) Pests and diseases of coconuts.
+- (d) Catch crops and cover crops in coconut cultivation.
+
+The preliminary work on the structure of the coconut fruit has been started and although only a few months have been spent on the work, important subsidiary indications have been obtained.
+
+Variation in oil content has been studied in (a) for different nuts and (b) for different parts of the same nut.
+
+The results for (a) show that a considerable variation exists in oil percentage (D.B. = dry basis) in pieces of meat derived from nuts normally picked on Malayan estates as shown by a range from 45% to 75%. The copra resulting, from which the individual pieces were picked, will probably show the same variation; this indicates that there is considerable room for improvement if a more uniform product with a higher average oil content can be produced.
+
+The results for (b) show considerable difference in oil percentages in pieces of meat from different parts of the same nut, most particularly in nuts not fully ripe. This throws considerable doubt on the utility of any nut sampling which has been done in previous experimental work when the state of ripeness has not been specified and when the sampling has been done at random.
+
+Experiments in the selection of the best sampling position have shown that it is desirable to take samples near the middle of the nut and not from the ends where extreme differences are found. Further, when tangential slices are examined, and oil gradient has been determined, with the lowest oil percentage on the inside face of the meat gradually increasing in value as slices are taken nearer the shell. In these preliminary experiments, the difference in oil percentage of a 1/10 inch slice of meat from the inside face as against a similar piece nearest the shell seems to show a fairly constant difference of 38%-40%. This applies only for a ripe ungerminated nut; the meat from nuts containing a germinating embryo does not show this oil gradient.
+
+The effect of ripeness on oil yield has been studied fairly extensively and the results show that there is an increase in oil percentage as the nuts germinate and become over-ripe. In the samples examined, an average increase in oil percentage was found, from 63% when the nuts were considered to be ripe, up to 72% when the nuts held a germinating embryo  $3\frac{1}{2}$  inches in diameter. This result confirms the studies made by analysing tangential and radial slices of meat. This finding may have some significance in the question of the apparent superiority of Malabar and Ceylon as compared with Straits copra, if it is correct that, in Malabar, the nuts are allowed to fall naturally, while in Ceylon there is a longer ripening period and the nuts are kept for a considerable period after plucking. The question of whether the total oil in the nut continues to increase after the nut is considered to be ripe has still to be determined, but it appears that the best plucking age will be an important economic factor, if copra should ever be valued according to oil content.
+
+18------------------------------------------------
+
+79
+
+Further work on copra deterioration has been done and it has been shown that badly deteriorated samples of native manufactured copra may show the remarkably high average oil content of 67.2% which is 2% in excess of the average for large good quality samples of Malayan estate copra.
+
+During deterioration it may be accepted that the total oil content is diminished owing to the degradation of the actual oil containing meat, which will result in a nett loss in weight of copra, by agencies, such as moulds, insects and heat. But it is a fact that such copra when analysed may show a high oil percentage content with usually a high development of free fatty acid.
+
+The preliminary experiments have provided very interesting results and confirmatory and extensional experiments are being carried out.
+
+A comprehensive scheme of research work on coconuts has been proposed in Ceylon, and a special research station for this crop is being organised in that country. Copra research work is also being undertaken at the Biological Station, Slough, attached to the Imperial College of Science and Technology, London, Malaya and these stations. Every effort will be made to maintain touch with all research stations undertaking coconut research work, as lack of such co-operative effort often leads to unnecessary duplication of effort.
+
+It is proposed that a half-yearly report on the progress of the copra research work will be published and so soon as sufficient experience has been obtained and the work of the Copra Research Chemist has become established along sound lines, definite proposals for the erection of one or more experimental driers will be put forward. The results of completed pieces of research will be published as bulletins of the Department of Agriculture, while summaries thereof will appear from time to time in *The Malayan Agricultural Journal*.
+
+19------------------------------------------------
+
+80
+
+## SOME OBSERVATIONS ON THE MILDEW LEAF DISEASE OF HEVEA BRASILIENSIS DUE TO OIDIUM HEVEA\*
+
+WITH two exceptions viz. *Fusicladium macrosporium*, and Abnormal Leaf-fall due to *Phytophthora* sp. mature rubber trees have until comparatively recently been singularly free from any serious leaf disease and more especially does this apply to the Eastern tropics.
+
+The former (*Fusicladium macrosporium*)—a most destructive enemy of the rubber tree—is fortunately still confined to the Amazon Valleys, Trinidad, British Guiana and Surinam, while the latter—Abnormal Leaf-fall due to *Phytophthora*—has so far not proved serious in Malaya if it has appeared at all. This leaf disease is however a source of considerable trouble in South India and also perhaps to a lesser extent in Ceylon and Burmah.
+
+The appearance of the Oidium Mildew dates from 1918 and was first noted by Arens in the Malang district of West Java. As the following quotation will show, Arens realised the possible capabilities of this fungus and warned the industry to keep a sharp lookout for it. In his account the following occurs: "It is not confined to the Malang country, but is present over the whole of Java. The disease is apparently a new one. Nowhere in the literature on diseases of Hevea has Mildew been recorded as growing on Hevea, neither from Java, from Sumatra, the Federated Malay States, Ceylon or other rubber-growing countries. But since the disease is easily overlooked if not attacking many trees, it seems not impossible that it may already be present in other rubber-growing countries."
+
+The truth of the last suggestion has been fully borne out during the last ten years for now the Oidium leaf disease has been reported from Sumatra, Ceylon and Malaya.
+
+In Java and also in Ceylon it has already assumed the character of a serious leaf disease requiring active combative measures on a large scale and at considerable cost. Its steady spread and increase in intensity must be regarded seriously, even though it has not yet caused any considerable damage in some of the rubber-growing areas. The fact should not be lost sight of that once it appears in a rubber-growing area, it is very liable to recur under suitable conditions, and that each recurrence usually means a more virulent attack as well as an increase in area affected. The appearance of the Oidium Mildew on Hevea in Ceylon was first noted in 1925, and since then the area and intensity of attack have both steadily increased. The disease was first noted in Malaya in 1925, and has appeared again in 1929, but the fact that so far no great damage has resulted in Malaya, should not lull one into a feeling of false security. The outbreak of this disease on an extensive scale is always a by no means remote possibility. The fact that the fungus is in the country and can carry on from one season to the next favourable time is, to say the least, disconcerting.
+
+---
+
+\* By A. R. Sanderson in *The Quarterly Journal of the Rubber Research Institute of Malaya*, Vol. 12, No. 1, March 1930.
+
+20------------------------------------------------
+
+81
+
+Reydon, in a report dealing with the Mildew Disease in East Java, 1927, states as follows:
+
+1. (1) "The Mildew disease has become considerably worse during the last few years, as compared to previous years."
+2. (2) "Mildew has appeared on nearly all East Java estates."
+3. (3) "The attacks of the disease have been severe on 48 per cent. of the total Mildew infected estates."
+4. (4) "Mildew has appeared on the budding beds or nurseries of 17 per cent. of the estates."
+5. (5) "Decrease of production was accounted to Mildew attacks on 6.4 per cent. of the Mildew estates."
+6. (6) "The rainfall on Mildew estates during the East Monsoon was less than on healthy estates."
+7. (7) "Mildew is considerably worse on low-lying than on high-lying estates, and again more severe on the south than on the eastern slopes of the fields."
+
+Schweizer writing of the Erysiphaceae from Java, mentions that the largest number of the said Mildew (Erysiphaceae) host plants are especially virulently attacked in the dry season (the wintering season of the rubber tree) and further states that on some plants the *Oidium* is found through the whole year. He considers that the variation of the water supply is more especially to be considered and that the better the water supply the less the various plants suffer from Mildew attack. This explanation is in agreement with the experimental results obtained by Rivera. It is highly probable that many factors are concerned in causing infection and also in determining its intensity and spread, but although the great variability of these combinations is generally admitted, two conditions must be satisfied viz., the young leaf formation and weather conditions favourable for attack. It is clear then that the time of wintering is all important.
+
+Variability of combination of factors for successful inoculation by another species of *Oidium* is well shown by the investigations of Miss Schwarz who found the same species of *Oidium* in West Java on *Physalis minima* and on tobacco, but infection experiments in East Java with *Physalis* which is infected the whole year through with the Mildew gave no results with tobacco. The explanation is probably that the necessary combination of factors is not present.
+
+Gadd writing of the conditions obtaining in Ceylon when the first outbreak was noticed in 1925, states: "Normally at the time when Hevea is putting forth its new leaf, weather conditions in Ceylon are dry and not favourable for fungus growth. In 1925 there was more rain and the number of wet days was greater than usual during February and March in the rubber districts, and it is probable that these wetter conditions favoured the fungus and helped the process of adaptation to its new host. If so, given normal climatic conditions at the time new leaves are next produced it is unlikely that the trees will be severely attacked as what infectious material has persisted on the old leaves will be shed with them in wintering."
+
+Sharpley comments on this as follows:
+
+"This year—1926—wintering was even and normal. Up to date (4-4-26) not a single case of leaf-fall has been reported this year. Thus Gadd's conclusion can be emphasised. ("Consequently given dry climatic conditions at the times of production of new leaves, it is not expected that the disease will recur to any extent.")"
+
+21------------------------------------------------
+
+82
+
+Murray writing on the occurrence and significance of *Oidium* leaf disease in Ceylon remarks on the differing characteristics of the disease in the different districts. A dry district like Matale and a wet one like Kalutara are contrasted. Of the former district (Matale) the abundant superficial growth of mycelium and spores on the surface is a notable feature, whereas in the latter (Kalutara) district it is comparatively rare to find an affected leaf on which the fungus is visible to the naked eye. In the Matale district the leaves are sometimes so white as to appear to have been splashed with white wash. He suggests that this difference is probably related to difference in atmospheric conditions and more specially the difference in average humidity which is lower in Matale than in Kalutara.
+
+*Occurrence.*—In general once the *Oidium* leaf disease has appeared, the spread has been certain and fairly rapid throughout the area where the host plant has been well distributed. The severity of attack has not necessarily been coincident with, or proportional to, rate of spread, because this depends so much on conditions which may not be continuous throughout any particular district. There is at present however a general consensus of opinion amongst the various investigators, that dry conditions even to drought are favourable to a maximum intensity of attack, if such conditions obtain during or immediately after the wintering season, *i.e.*, before the new leaves have reached maturity. Murray states the *Oidium* is not so severe in the low-country as in certain districts at higher elevations, while Reydon writing of conditions in East Java states that Mildew is worse on low-lying than on high-lying estates. It would appear then that the necessary favourable conditions may occur at different altitudes in the different rubber-growing countries.
+
+In connection with this Rivera states:—"Everything which tends to decrease the turgency of a leaf, *e.g.*, drought, sudden differences of temperature etc. makes the leaf more sensitive to Mildew attack."
+
+A diminished cell vitality also increases its susceptibility to attack by the Mildew fungus.
+
+*Effect of Mildew attack on Yield of Hevea.*—At present no reliable figures appear to be available as to the effect of Mildew attack on yield of Hevea, but there can be little doubt that repeated defoliations must be harmful. The effect on yield of Abnormal Leaf-fall due to Phytophthora has already been noted, and that due to Mildew disease can scarcely be expected to be less harmful. Ashplant quotes yield figures in the case of Phytophthora leaf-fall for Southern India, showing that the sprayed blocks in some cases yielded 18 lb. per acre more than unsprayed blocks and in other cases 9 to 18 lb. more per acre. A second effect on the tree is a general reduction in vitality following the depletion of food reserves. This may in some cases occur to such a degree that comparatively weak parasites can gain entry which would be impossible with a tree in full vigour. Stoughton Harris writing on the spraying of rubber as a means of control for abnormal leaf-fall mentions that there is definite evidence that the sprayed trees have a greater girth increment, hold their leaf longer at the normal wintering period, and give a yield estimated conservatively at 10 lb. per acre greater each year than unsprayed rubber, and further remarks, "the control of a leaf disease should be looked on not from the point of view of possible immediate yield response but as a prevention of the future general debilitation caused by the disease."
+
+Murray writing of the attacks in Ceylon, states, that "in consequence of a continual depletion a physiological die-back of twigs is a characteristic feature of badly attacked areas."
+
+22------------------------------------------------
+
+83
+
+So far as the writer knows this has not been noticed in Malaya perhaps because the attacks up to the present have not been sufficiently severe.
+
+*Recurrence.*—The Hevea Mildew is known only in the *Oidium* stage, *i.e.*, the conidial stage. In this it agrees with most tropical Mildews, the ascospore stage of which is not known. Spread must therefore be by the conidia or by the mycelium or by movement of infected material. This cannot always account for recurrence in the same areas year after year, and since no ascus stage is known, there is no spore stage known, capable of carrying over from one wintering period to another. The inactive period in the life history of the fungus has been discussed by Bally and Bobiloff. The latter states that the fungus hibernates on the few young shoots which are always produced by some trees throughout the year, or on infected spots of mature leaves. In an affected field there are always at any given time a few trees whose young shoots are infected and these are the sources of infection when the conditions are suitable for an outbreak of the disease.
+
+Murray commenting on this states, "In the main, observation on the life history of the fungus in Ceylon confirm Bobiloff's statement, except that in badly affected areas in certain districts the fungus never becomes wholly inactive, so that the disease is present at all times of the year." This agrees with Schweizer's account of the *Erysiphaceae* of Java.
+
+It would be of considerable interest to have particulars of the distribution and amount of rainfall in these districts.
+
+Although the various investigators are more or less in accord that diseases due to powdery mildew *Oidium* attain their maximum severity under dry weather conditions, and that attacks in general whether severe or mild, are coincident with dry weather even to drought conditions, this is probably not the whole truth.
+
+Reydon states that "to conclude herefrom that more rain means less mildew is in our opinion rash, because we do not know exactly the nature of the influence of the rains on mildew attacks, and we must first find out when the young leaf period falls. The mildew attack is indeed in the first place dependent on this last factor." With the last sentence all investigators will agree but it would seem that periods of heavy rain may do much to check the spread by spores (conidia) since these would be washed off and fall to the ground; the fungus being an obligate parasite, and the conidia not capable of retaining vitality long under adverse conditions, *i.e.*, unless on a suitable living host, thus germinating power is soon lost.
+
+It would appear however that, in conformity with Reydon's statement, any tree producing new foliage, when the spores are active, will be liable to infection. The period of activity of the spores may to a considerable extent be limited by the weather conditions, since spore production is usually much more rapid and continuous during dry weather.
+
+Another factor of importance is that this condition according to Rivera is an optimum one for infection so that the condition favouring spore formation is also the condition favourable for attack. The rapid spread noted on many occasions may thus be accounted for.
+
+*Mites and Mildew.*—Whilst it is true that mites have been found on some occasions in association with the *Oidium* it by no means follows that the attack by the fungus must be preceded by mite attack. The *Oidium* fungus is an obligate parasite and requires only the presence of the host plant and the necessary favourable conditions as regards the cell turgidity to make a successful attack. One reason for finding the two together is the fact that both show their greatest development under the same climatic conditions. It is fortunate perhaps that the most effective treatment for mildew is also the chief means of combating mite attack.
+
+23------------------------------------------------
+
+84
+
+*The Causal Fungus.*—*Oidium Hevea* belongs to the "Powdery Mildews" (Erysiphaceae) many of which cause destructive disease of plants. The delicate, hyaline cobweb-like mycelium usually develops on the surface of leaves forming a more or less complete superficial covering. In the case of *Oidium Hevea* in Malaya a complete covering is not common. This agrees with Murray's observations in the Kalutara district of Ceylon. From this mycelium special haustoria or sucking organs are formed which penetrate the cell walls and draw their food supplies from the cell contents. Although these fungi are mainly leaf parasites they may occur on flowers, fruits and stems.
+
+Spores (conidia) are usually produced in abundance on short erect conidiophores, and are chiefly responsible for the powdery appearance which is characteristic. The spores are distributed by wind, insect or other agency, but are usually short lived, so that if conditions are unfavourable the spread of the disease is soon checked. By destruction of the cell tissues of the leaves this type of fungus may prepare the way for the entry of other and weaker parasites which may quickly complete the destruction started by the *Oidium*. It is probably because of this that such fungi as *Gloeosporium* and *Fusarium* are so frequently found associated with *Oidium* attack.
+
+*Symptoms.*—The attack of mildew in mature rubber is always most pronounced on young leaves, during and immediately after the wintering season. The young leaves in the bronze, greeny bronze, and later, pale green state, are particularly liable to attack. It may, however, attack leaves of all ages.
+
+In the case of young foliage the leaves usually become more or less dull in appearance, as contrasted with the shining appearance of healthy leaves, crinkled from the tip and later a portion commencing at the tip becomes bluish or purplish black in colour. These changes apply to the leaves both in the bronze stage and early green stage. The leaflets soon fall to the ground and become shrivelled in appearance. The mycelium and spores can be seen best near the midrib on the under sides of the leaves. In cases of severe attack the ground may be covered with a carpet of decaying leaves and the retention of the more or less bare leaf stalks on the trees almost denuded of leaflets is a striking characteristic. The next flush of leaves may be attacked in the same way and fall to the ground long before they mature. It seems fairly obvious that several repetitions of such a leaf-fall during any one season may have serious consequences. Recurrence in successive years must have a cumulative effect. The attack on mature leaves is usually not nearly so severe as on the younger leaves, and frequently the mature leaves remain attached to the leaf stalks. The attack on the flowers if at all severe is followed naturally by a poor seed season. This has been very marked in some cases both in Malaya and in Java.
+
+*Control Measures.*—Control measures fall naturally under three heads :
+
+- (a) Measures applied to the plant direct to enable it better to withstand, to recover from, or to ward off attack, *e.g.*, application of manures, general improvement of soil conditions.
+- (b) Breeding of more or less immune strains.
+- (c) Direct attack on the parasitic fungus.
+
+(a) These measures should be used, if used at all, in conjunction with (c). Any attempt, *e.g.*, manuring etc. alone, to keep the plant vigorous which still leaves the fungus free play can scarcely be considered the most efficient. Further, unless some form of manuring could be applied which
+
+24------------------------------------------------
+
+85
+
+would render the plant completely resistant either by increasing the thickness of the cuticle—the outer covering of the leaf—or affecting the constitution of the cell would be of doubtful efficacy. The fact that in any case the young leaves are the most susceptible complicates matters considerably. The combination of manuring and spraying, *i.e.*, (a) and (c) has had good effects in the case of abnormal leaf-fall due to Phytophthora.
+
+Vollema describes manuring experiments as a possible means of combating mildew attack of Hevea.
+
+Three aspects are considered :
+
+1. 1. "Influence of manuring on the power of resistance of the young leaf to mildew.
+2. 2. "Influence of manuring and other cultivation measures on the time and existence (duration ?) of wintering.
+3. 3. "Influence of manuring and other cultivation measures on the recuperative powers of affected trees."
+
+"As regards (1) the conclusion arrived at was that the manures in use applied shortly before wintering cannot in any important degree increase the powers of resistance of the young leaf against mildew."
+
+(2) The conclusion arrived at is :
+
+"Appropriate manuring and other cultural measures by their delaying influence on wintering make the chance of attack by mildew greater."
+
+And as regards (3) "the last year's deductions were confirmed that recuperation of manured trees is better."
+
+Vollema finally states, "making up the profit and loss account, we must conclude that little is to be expected of an indirect attack on mildew by manuring. As apart from conclusions with the effective and cheap sulphur dusting, manuring as a rule merely keeps the attacks in hand by postponing wintering. Although recovery is certainly better, prevention is better than cure" counts in this case to the utmost."
+
+(b) Breeding of immune or highly resistant strains offers obvious advantages but at present must go hand in hand with control measures as (c). Little is known at present regarding immunity of Hevea to disease either generally or specifically, and the raising of immune strains would be a long and tedious process. In any case it would not help present plantations. Direct attack on the fungus must at any rate for the present be regarded as the best line of control and sulphur or sulphur compounds are at once indicated.
+
+The use of sulphur in the control of *Oidium* of the vine dates back to 1846 and it is estimated that at present, France alone consumes 80,000 to 100,000 tons of sulphur per annum for the work. The fungus is still present and active but the damage is negligible.
+
+*Use of Sulphur.*—It may be said that the value of sulphur in spraying mixtures or dusting powders is proportional to the percentage of "free" sulphur and to the fineness of the particles. The adherence of the sulphur depends largely upon the size of the particle; sulphur with particles 5 microns to 15 microns can now be obtained. A considerable amount of experimental work with the use of sulphur and sulphur mixtures and compounds against the *Oidium* fungus has already been carried out chiefly in Java, in those districts where the disease has appeared annually with increasing virulence.
+
+25------------------------------------------------
+
+86
+
+Gandrup and S' Jacob describe the results of the experiments in the control of Mildew using Bordeaux mixture, Burgundy mixture, Sulfinette—a lime sulphur preparation—and sulphur. They demonstrated experimentally the effectiveness of Sulfinette and of sulphur in a vaporous form, *i.e.*, without the fungicide actually coming into contact with either the fungus or the infected material.
+
+They also discovered that the resin-soda adhesive medium often causes fungicides of standard strength to burn the young leaves and suggest that Sulfinette must be used at 0.25 per cent mixture to prevent burning. The final conclusion of these investigators is that the expenditure necessitated for control work would only be justified by the loss of production being proportionately large, or if capital loss caused by depreciation of the estate through Mildew permits such expense.
+
+Bobiloff carried out observations on *Oidium* attack during 1929, and concludes as follows:
+
+“Sulphur and sulphur preparations have a fungicidal effect on *Oidium*. When experimenting with different preparations it is not possible to differentiate conclusively between the effectiveness of these preparations. However when dusting gardens it appears that the sulphur from the sulphur works Kawah Poetih gives promising results in comparison with other preparations. On the fungicidal action of sulphur several experiments were carried out, with the following results.”
+
+- (a) “The sulphur is effective ten days after dusting.”
+- (b) “Sulphur destroys *Oidium* when applied to the leaf even when there is no immediate contact with the leaf spot. Dusting one side of the leaf is sufficient to destroy the fungus situated on the other side.”
+- (c) “An influence of sulphur at a distance was not observed, but this point still wants confirmation.”
+- (d) “A prolonged residual effect of sulphur does not exist. When dusted trees after a certain time produce new leaves, these are attacked by *Oidium*.”
+- (e) “The effectiveness of sulphur on *Oidium* spots is not absolute. From the boundary of the destroyed fungus spots the fungus may develop again. On once treated leaf new *Oidium* spots may occur. The effect of sulphur is however not imperfect to such an extent that this is of practical influence on the *Oidium* control by dusting with sulphur.”
+
+“When combating *Oidium* in rubber gardens we made the following observations.”
+
+- (a) “The *Oidium* attack is checked by sulphur. The treated gardens have practically speaking a normal appearance and have nice foliage.”
+- (b) “An extraordinary blossoming was observed in the treated gardens more than 90 per cent. of the trees were in bloom.”
+- (c) “*Oidium* first decreased between ten applications of sulphur (after 10 days) to increase again later on (after 17 days).”
+- (d) “The influence of rain on the effectiveness of sulphur is of little importance and *Oidium* decreased in the ordinary manner.”
+- (e) “The chance of infection of treated gardens by neighbouring non-treated plots is relatively small. Thus it is possible to dust badly attacked parts without it being necessary to dust the whole plantation or division.”
+
+26------------------------------------------------
+
+87
+
+## CONTROL
+
+For control purposes some form of spraying or dusting is a necessity. The material to be used is as previously indicated sulphur or sulphur compounds or preparations which will act like sulphur and become effective in a vaporous form. There are advocates of both spraying and of dusting and each method may have its advantages or disadvantages.
+
+*Spraying.*—For this purpose the choice has to be made of a hand-spraying outfit or of some form of power sprayer. In either case to be really effective the apparatus must be capable of delivering a spray to a height of 50-70 feet, *i.e.*, if the tops of mature trees are to be reached without climbing.
+
+Ashplant discussing the spraying of rubber in connection with the *Phytophthora* Leaf-fall in South India and comparing power and hand sprayers states as follows :
+
+“The maximum height that can be reached with a fine spray operated from the ground is from 30 to 40 feet and is not much greater with a power than with a hand sprayer. With both, climbing has to be resorted to in order to reach the tops of the trees. It is this necessity for climbing that limits the possible task and takes so much time and labour. Could means be devised whereby the tops of 70 to 100 feet Hevea trees could be reached by a ground operated spray, or rather by a battery of sprays the full resources of power driven sprays would be capable of utilization. The greater speed and labour saving then made possible would alter the position entirely to the advantage of power sprayers.”
+
+If some form of petrol motor is employed one at least of the attendants would need to possess the necessary skill and training to manage the apparatus.
+
+Sundquist discusses the use and advantages of stationary plants with spray guns for the spraying of orchards. Amongst the advantages are saving of time and labour, more efficient work and avoidance of damage to trees by hauling. This system—a permanent one—is now established in the apple-growing districts of the Pacific North-West.
+
+Tengwall describes experiments with sulphur dusting from aeroplanes and states as follows :
+
+“Technically the dusting was a complete success ; on each leaf sulphur could be recognised even on the trees at the utmost limit of the estate. On the old leaves sulphur occurred principally on the top side ; on the young leaves, still hanging, sulphur was observed on both sides.”
+
+“An evident smell of sulphur remained in the gardens many days after dusting was finished.”
+
+“On September 12th it was observed that all the young leaves which had grown out during or after the first dusting (in August) were perfectly healthy. Even young leaves, on the trees which had been badly infected and lost most of their foliage, were healthy.”
+
+As a result of the 1928 experiments Tengwall observes that the following conclusions can be drawn :
+
+1. 1. “Dusting sulphur powder from an aeroplane on Hevea plantations is possible.”
+2. 2. “Sulphur powder is able to kill *Oidium* or at least its conidia.”
+3. 3. “A dose of 50 kg. of sulphur per hectare . . . 45 lb. per acre . . is sufficient to keep the young leaves healthy for at least 14 days.”
+
+“The dusting experiments were reported in 1929 on a larger scale in order to get figures concerning the cost of dusting by means
+
+27------------------------------------------------
+
+88
+
+of aeroplanes. This was found to be approximately 6 florins per hectare equivalent to about 1.7 dollars per acre, an amount which could probably be appreciably reduced."
+
+Altogether the operation of power spraying on a large scale, under present conditions must of necessity be expensive and the *pros* and *cons* for its installation require careful consideration. The urgent necessity, should it arise, would however, be the deciding factor.
+
+The following account of spraying apparatus and equipment is taken from the R. G. A. Bulletin Vol. 8, No. 7, 1926, and is a report by R. H. Stoughton-Harris, Mycologist, Rubber Research Scheme, Ceylon.
+
+"In Ceylon and S. India the apparatus is used for control of abnormal leaf-fall due to Phytophthora. There are at present in use in South India several makes of spraying machines, but of these two have proved most successful and one in particular. Attention will be confined to this one only as it is understood that some 50 or more of these outfits have already been sent to estates in Ceylon. The machine referred to is the D. S. P. "Headland" Pump."
+
+"This is a double-barrelled force pump, with a large inlet hose with strainer, and steel pressure-chamber, and two  $\frac{1}{2}$ -in. outlets with stop-cocks. The machine is sent out unmounted, but should be fixed to a small wooden platform, with four projecting handles for carrying. Spares for the pump are supplied but may usefully be augmented. A list of the more useful spares may be obtained from the Research Scheme. Two lengths of hose are required, each 75-120 feet long. If more than this length is used, undue wear and many bursts and other troubles are probable. The only hose that has so far proved capable of standing up to the rough usage is the "Armada" Hose. To the end of each length of hose is attached either a bamboo "lance" (a long bamboo with a screwed metal pipe within it), or a light 15 feet steel pipe. To the end of this is attached the nozzle. Many types of nozzle have been tried, but the most successful are the "Mistifier Junior," and the "Jumbo" nozzle. A new type of combined lance and adjustable nozzle has been put on the market at the instigation of Mr. Ashplant. This is called the Drake & Fletcher "Armada" Spray Gun, and seems likely to prove very successful. With this instrument the type of spray produced is varied by turning the stop-cock at the handle end."
+
+"Besides the actual spraying apparatus there will be required for each machine :
+
+Four 40-50 gallon wooden barrels.
+
+Two half barrels.
+
+Two wooden buckets.
+
+Two galvanised iron buckets.
+
+Two fine mesh latex strainers.
+
+Two old coagulating dishes.
+
+Six empty kerosene tins for carrying water.
+
+One spring balance, weighing to about 30 lb. or
+
+One household scales."
+
+*Labour.*—"The number of coolies required for each machine will vary according to the distance of the point of operation from a water supply. The labour is best apportioned as follows :
+
+Two coolies working the pump.
+
+One coolie stirring Bordeaux mixture and relieving pumpers in rotation.
+
+28------------------------------------------------
+
+.89
+
+Four coolies spraying, two on each line.
+
+Two to six coolies carrying water, and mixing the Bordeaux."
+
+**Dusting.**—The operation of dusting, *i.e.*, the use of a fungicide or insecticide in the form of a very finely divided dry powder possesses certain advantages as compared with spraying, and more especially in the case of tall trees like mature rubber trees.
+
+The operation is in no way dependent on the proximity of a water supply. The material used is easily transported. A fine dust may remain suspended in the air for an appreciable time and this is an important factor in distribution.
+
+With certain materials the operators have to exercise the greatest care if eye, nose and lung troubles are to be avoided, but precautions involving the use of masks etc., can be taken.
+
+In the case of mixed plantation, *e.g.*, rubber and tea, the deposition of sulphur on the tea leaves might reasonably be objected to as possibly leaving an objectionable taint. Recent experiments described in the Mycologist's Report for January, 1930, Rubber Research Scheme, Ceylon, suggest that even the maximum amount of sulphur per acre which may be expected to fall on tea adjacent to dusted rubber will not taint the tea.
+
+A further experiment showed that although there was a recognisable smell of sulphur on the green leaf and during manufacture the finished tea showed no taint.
+
+Dusting with sulphur by use of a power duster requires considerable care. With some types of apparatus there is always the possibility of the finely divided sulphur becoming ignited and the danger with a petrol engine is obvious. It was at first considered essential that in order to be effective the leaves should be more or less covered with the spray fluid or dusting powder, and that the fungicide must remain attached for a considerable time. Recent work should appear to show that this is not so necessary since in the case of both Sulfinette and of sulphur the vapours have proved successful. A new form of power duster named the Bjorklund Duster has recently been tested against the *Oidium* leaf disease in Java.
+
+The apparatus consists of a special type of 6 H.P. motor combined with a specially designed "dusting" apparatus to form a single unit. The complete duster weighs about 180 lb. ready for use and can be carried by four coolies. An automatic feeding device allows the quantity of sulphur used to be regulated. A capacity of about 260 acres per day is claimed for this apparatus.
+
+For application to nursery plants or young plants in the field which do not exceed say 8 to 10 feet in height some form of hand sprayer or duster would probably fulfil all requirements. It would appear that the time is approaching when each large estate or group of estates will have to consider the question of installing efficient spraying and dusting equipment with the necessary chemicals as part of the ordinary estate requirement so as to be prepared for emergencies. In doing this the rubber industry would only be following the example of other large crop industries.
+
+## SUMMARY
+
+1. It has now been definitely established that *Oidium* leaf disease is present throughout the rubber-growing areas of the Eastern tropics excepting South India and Burmah.
+
+2. There is a general tendency, in all the areas affected for the disease to increase in intensity in successive years.
+
+29------------------------------------------------
+
+90
+
+3. The fungus can continue in an inactive state from one favourable season to another.
+
+4. The repeated defoliations in a single season which is a marked characteristic of *Oidium* attack must have an appreciable adverse effect on latex yield, as well as affecting the general vigour of the tree.
+
+5. Original infection and rapid spread of the disease favoured by dry weather conditions during the wintering season.
+
+6. Control can be established by the use of sulphur or sulphur compounds sprayed or dusted over affected areas.
+
+7. Repeated sprayings or dusting are necessary at somewhat short intervals during the wintering season.
+
+8. The use of power sprayers or dusters or possibly the use of aeroplanes is indicated for the more or less immediate future.
+
+9. The *Oidium* has been found to be capable of attacking rubber of all ages from nursery plants upwards.
+
+10. The spread of the fungus is by spores (*conidia*) probably wind borne.
+
+11. The *conidia* are produced most abundantly during dry weather, *i.e.*, under weather conditions such as are experienced during a normal wintering season, and when the leaves are presumably most susceptible to attack.
+
+30------------------------------------------------
+
+91
+
+## REJUVENATION AND REPLANTING OF RUBBER AREAS\*
+
+THE terms "rejuvenation" and "replanting" are both frequently used to indicate the problem of replacement of old low-yielding rubber trees with material of superior yielding qualities. The word "rejuvenation" is more strictly applicable to the improvement of existing areas in which a certain amount of supplying in addition to treatment of soil is to be carried out. The term "replanting" should be applied if all trees are to be completely removed and the area is to be replanted with new seedling or buddings.
+
+In view of the high-yielding material now available in the form of budded rubber trees, the problem of replanting of old areas of rubber is being seriously considered by companies who have no available jungle reserves.
+
+The important factors in this problem are three:
+
+1. (1) The probability of yields from "proved clones" amounting to 1,000 to 1,500 lb. per acre.
+2. (2) Poor yields from old areas due to soil erosion, soil impoverishment from previous crops, or to bad tapping causing poor bark renewal.
+3. (3) The incidence of root disease in old rubber, which is considered by most plant pathologists to be the limiting factor in the life of a considerable proportion of the oldest rubber.
+
+It is not proposed in this article to consider the problem of supplying, since in old rubber the supplying of small patches on which the old trees have been removed on account of disease or for other reasons cannot be considered satisfactory on account of the shade and root competition of the surrounding old trees.
+
+There appears little doubt that the most satisfactory method is the complete removal of the old trees, so that a block can be entirely replanted with the high-yielding material available.
+
+### TREATMENT OF OLD TREES
+
+A programme must be carefully laid down, so that all the possible latex can be obtained from the trees, on the areas to be planted, before these trees are removed.
+
+No hard-and-fast rules can be laid down, since the tapping system, in respect of the number of cuts and height of tapping will depend on the bark available and on the period which will elapse before it is decided to remove the trees.
+
+Methods such as the scraping of the bark to induce a greater flow of latex over a short period will be found useful. In some cases, by intensive tapping, it is possible to obtain the previous annual crop within a period of three or four months.
+
+---
+
+\* By B. J. Eaton, Acting Director, Rubber Research Institute of Malaya, in *The Malayan Agricultural Journal*, Vol. XVIII, No. 3, March, 1930
+
+31------------------------------------------------
+
+92
+
+## REMOVAL OF OLD TREES
+
+The cost of removal of the old trees will depend on a number of factors: (1) the size of the tree, (2) the method of removal, by hand labour or mechanical stumpers, (3) the possibility of sale of the wood from the old trees, (4) the conversion of the old wood into charcoal for sale.
+
+These factors will depend entirely on local circumstances. On an area of 200 acres in Malacca, visited by the writer a few years ago, the felling, clearing and planting of the new material cost practically nothing, since the manager was able to arrange a contract for the conversion of all the old wood into charcoal.
+
+On the site on which the charcoal pits were constructed, the subsequent growth of the rubber was excellent and stated to be in advance of the general growth of the trees on the rest of the area. An addition of superphosphates was found to be of benefit.
+
+The chief disadvantage of the removal of all the wood is that valuable fertilising material, especially potash, is removed from the area. In any case, if the wood is burnt on the spot, it should be stacked and burnt in big heaps, preferably if possible, on paths, roads or land not suitable for replanting since the burning of the wood causes soil sterilisation and further destruction of valuable humus. The ash, however, which contains valuable potash, should be distributed over the land.
+
+## CULTIVATION
+
+On areas on which the trees have been removed on account of root disease, the complete removal of all laterals and stumps is very desirable, while the soil should be cultivated to a depth of 1 to  $1\frac{1}{2}$  feet. On areas which have suffered from soil erosion or soil impoverishment, it is extremely doubtful whether immediate replanting with high-yielding material is advisable. In such cases, a leguminous cover crop should be established by the addition, if necessary, of artificial fertilisers—especially potash and phosphates. There is little doubt that one of the most suitable plants for this purpose is the Giant-Mimosa (*Mimosa invisa*). Although there is considerable prejudice against this plant in Malaya, the writer has seen excellent rejuvenation and regeneration of poor soils with this cover plant both in Java and Sumatra. In order, however, to keep the cover in check, periodic rolling is advisable to flatten the growth. In Sumatra, the coolies are provided with boots and carry out this operation successfully with an old oil drum. This applies, of course, only to flat or very gently undulating land.
+
+It is also certain that, in most old areas in Malaya, a manuring programme from the commencement is desirable, and on this point the advice of the Rubber Research Institute should be sought.
+
+Previous to planting, unless there is a special reason for hastening this, the area according to its configuration should be banded or terraced.
+
+On even absolutely flat land, when the soil is of loose texture (this does not apply to the heavy coastal alluvial clay soils) bunding should be adopted in order to conserve rainfall and to prevent soil movement. In Sumatra, at the present time, the most intensive bunding is being adopted on most rubber estates. The material from the bunds is derived from the digging of pits. These pits are similar to the ordinary silt-pits, but are dug only to provide soil for the bunds.
+
+Where it can be established, it would appear that the most satisfactory "permanent" cover crop at present is *Centrosema pubescens*. This should be established as early as possible on the bunds in order to protect them from erosion.
+
+32------------------------------------------------
+
+93
+
+The problem of cover crops *versus* clean weeding on areas to which fertilisers are applied is still a debatable point owing to the competition for the fertilisers of the cover crop with the rubber plant. In the long run, however, any fertiliser applied in the presence of a cover will become available for the rubber tree.
+
+In any case, the permanent cover crop should be planted in strips between the rows. Small quantities of fertiliser can then be used in the planting holes by thoroughly mixing the fertiliser with the soil used for filling the holes, so that the young rubber plant will receive an early stimulus. If applied in this manner, the rubber plant will be able to absorb the fertiliser.
+
+The establishment of a cover crop is of great importance in providing additional humus and also in maintaining the soil at a lower temperature.
+
+On areas on which root disease has been prevalent, it is also advisable to dig in  $1\frac{1}{2}$ -2 tons of lime per acre when the cultivation of the soil is carried out.
+
+### PLANTING MATERIAL AND SPACING
+
+At this date, the only suitable material for replanting areas which have suffered from soil impoverishment, due to erosion or other causes, and to root disease, is buddings of "proved" clones. A few years ago the close planting of seedlings or stumps from ordinary seed or from seed from a high-yielding area, with subsequent thinning out, based on early test tappings, would have been recommended. Even more recently, the planting of alternate budding and plants from so-called "selected" seed would have been advised.
+
+At the present stage of our knowledge, however, mixed buddings only are recommended, using material from the best "proved" clones that is, budwood obtained from clones which have the highest yield records over the lowest tapping period, provided that no undesirable characters have developed in such clones.
+
+Possibly at a later stage, pure plantings of buddings of one clone on definite areas may be recommended for replanting programmes.
+
+At the present time there are about six clones available which have a fairly long tapping record and which have not developed any undesirable characteristics. Other promising clones with a shorter tapping record are available. On account of our knowledge of the yielding capacity, growth and bark renewal of buddings, it is not recommended at this date to replant with "selected" seed so that a much smaller number of buddings per acre can be planted than in the case of "selected" seed, since the subsequent thinning out of the replanted area will be on a low scale.
+
+It is not advised to mix too many clones—a selection of six of the best clones recommended is advised as a maximum. A spacing of 20 feet by 20 feet is suitable.
+
+### COST OF REPLANTING
+
+No definite figures can be given to cover all cases, owing to the number of factors involved. It should, however, be possible on most areas to replant at a cost of £25/- per acre and to bring the area into bearing for £35/- to £40/- per acre. It is not a difficult problem therefore to estimate the period during which the loss of yields from the old area will be covered by the yield from the new planting. The rate at which replanting is carried out will depend on the material available for replanting, *i.e.*, the establishment of nurseries for stock and the establishment of multiplication nurseries for the supply of budwood. It would be uneconomic to
+
+33------------------------------------------------
+
+94
+
+purchase budwood at high prices for planting the areas. It is preferable to establish multiplication nurseries for the supply of such budwood. On this account, a scheme should be worked out in detail before being put into operation so that the necessary amount of budwood is available for the area to be replanted in any year. Advice and information on this can be obtained from the Rubber Research Institute.
+
+### GENERAL
+
+At the present time, large areas both in Malaya and in the Netherlands East Indies are being planted with buddings which are expected to yield in the eighth to tenth year at the rate of about 1,000 lb. per acre. It will be impossible for many of the old areas at present in existence to compete with such yields. The old areas will also progressively decrease in production, due to disease and other factors while the new areas, planted under modern conditions with high-yielding material will progressively increase in production. On all estates, therefore, on which the trees are definitely known to be a wasting asset, the problem of replanting must be considered. Even where a company has reserve jungle on which to plant high-yielding material, it is advisable to adopt a progressive replanting scheme, since with proper treatment the replanted areas will soon more than repay for the treatment adopted. Only on a few areas, on which the surface soil has practically disappeared due to erosion, is a replanting scheme not advised. The only possible treatment for such areas is a rejuvenation or reconditioning of the soil by the planting of a cover crop such as *Mimosa invisa*. It is not possible to state definitely how long it will be necessary to allow such areas to remain under a cover crop before they will be of value for replanting.
+
+We are only concerned here, however, with the replanting of areas which are becoming uneconomic on account of the following factors :
+
+1. 1. Early methods of planting without selection of planting material.
+2. 2. Late thinning out.
+3. 3. Bad methods of tapping and poor bark renewal.
+4. 4. Root diseases due to lack of suitable treatment in the early stages of growth of the plant.
+
+The planting of high-yielding material combined with modern methods of soil conservation, the cultivation of a suitable cover crop and a system of manuring, renders the replanting of such areas an economic and commercially practicable proposition.
+
+34------------------------------------------------
+
+95
+
+## TAPPING RESULTS AND OTHER OBSERVATIONS ON SEEDLING CROSSES OF HEVEA IN SUMATRA\*
+
+**A** long and interesting paper by Dr. C. Heusser in the September number of the *Archief voor de Rubbercultuur* contains the results of three years' tapping of a large group of seedling crosses with observations on the inheritance of a number of secondary characters, and also throws light on a number of points on the development of seedlings in general.
+
+In the following summary it is possible to quote particulars only of the crosses that best illustrate the main points. Details of the remainder must be sought in the original by those who have a special interest in any individual clone or cross.
+
+The crosses were made in 1920 and the seeds planted in nurseries. From October 1921 to January 1922 the seedlings, roughly one year old, were planted out as stumps at Soengei Pantjoer after most have been marcotted. In addition a few seedlings of 1919 crosses were transplanted, making a total of 1691 stumps belonging to 30 different combinations of 17 mother trees (which gave from 30 to 80 gms. per tapping in 1919 at about 12 years old).
+
+Owing to root disease and partly on account of unsuccessful plants 15 per cent. were lost in the first year. At the end of the second tapping year 1450 plants were left and 1393 or 96 per cent. of these were in tapping.
+
+The plantation when taken over was overgrown with lalang and is reported to have grown tobacco 20 years before.
+
+After cleaning, *Mimosa invisa* was planted between the rows and later the area was silt-pitted and *Vigna* and *Centrosema pubescens* planted and ring-weeding was carried out.
+
+The crosses were planted in blocks at a distance of 7 metres (23 feet) square to allow the trees to develop freely.
+
+Tapping was started in November 1925, four years after planting out the stumps, on trees with a girth of 40 cm. at one metre. Others were added later as they reached this size and so the comparison of merely the best trees of the family was avoided. The first tapping panel was opened with a 30° left-handed cut over half the circumference at 50 cm. (20 inches), and at the beginning of the second year all trees were changed to a  $\frac{1}{3}$  cut at 75 cm. The trees were tapped in alternate months . . . some rows of trees in the odd months, and the others in the even. With no Sunday tapping there were 150-155 tapping days a year. Bark consumption was limited to  $1\frac{3}{4}$  inches per tapping period and amounted to about 10 inches per year.
+
+The latex was coagulated in the cups and the biscuits for the month creped, dried, and weighed, and the average yield per tapping calculated.
+
+As the yield recording gave additional work the tapping task was set at 150-200 trees and the tappers were moved from task to task in regular succession each day.
+
+---
+
+\* By L. E. M. in *The Quarterly Journal of the Rubber Research Institute of Malaya*, Vol. 2, No. 1, March 1930.
+
+35------------------------------------------------
+
+96
+
+## II. TAPPING RESULTS
+
+The following table (extracted from Heusser's Table II) summarises the yields of all the crosses, and gives a rough comparison with normal estate yields for Sumatra.
+
+Table I
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Tapping Years</th>
+<th colspan="3">Crosses</th>
+<th colspan="3">Normal Estate Seedlings</th>
+</tr>
+<tr>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+<th>1st</th>
+<th>2nd</th>
+<th>3rd</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Yield per acre</td>
+<td>119</td>
+<td>371</td>
+<td>433</td>
+<td>112</td>
+<td>224</td>
+<td>313</td>
+</tr>
+<tr>
+<td>No. of trees tapped per acre</td>
+<td>58</td>
+<td>61</td>
+<td>65</td>
+<td>69</td>
+<td>81</td>
+<td>93</td>
+</tr>
+<tr>
+<td>Yield per tapping gms.</td>
+<td>7.8</td>
+<td>18.6</td>
+<td>20.2</td>
+<td>5.7</td>
+<td>7.8</td>
+<td>9.5</td>
+</tr>
+</tbody>
+</table>
+
+The yields of 28 unselected stumps in the experimental garden were less than one-half those of the crosses.
+
+Thus even allowing for greater care and the wider planting distance "the higher yield per hectare is so great that the beneficial influence of selection cannot be disregarded." (It must be remembered however that both parents were selected.—L.E.M.)
+
+The decrease in the monthly yields due to wintering was less pronounced in the first two years than in the third year.
+
+The reduction in yield due to changing to the new tapping panel is estimated at 37 per cent.
+
+*Yield of the Various Families.*—There are big differences between the yields of the various families.
+
+One striking result is that all the families with tree 157 as one parent, either male or female, are amongst the best: they averaged 28.5 grammes per tapping in the third year. The 145 families are the poorest with a mean yield in the third year of 15.9 grammes.
+
+From a mathematical comparison of yield between groups of families with a common parent the mother trees can be arranged in order of value. Of those on Bandar Klippar 157 is the best; 161, 164, 151 and 165 are almost equal; 166 and 142 are not so good. The best Tjinta Radja tree is 138; 38, 146, and possibly 49 are almost equally good; and 149, 139 and 146 are bad.
+
+Marked differences are shown between the annual percentage increases of yield. For example the yield of 166 × 164 increased by 200 per cent. from the 1st to the 2nd tapping year and then by 49 per cent. from the 2nd to the 3rd, 138 × 146 showed an increase of 154 per cent. and a decrease of 4 per cent. respectively, and 157 × 151 increased by 118 per cent. and then by 10 per cent. These differences probably are due to a different development of yielding power with age, and also to variation in the dependence of yield on the height of the tapping cut. Heusser concludes that "for selection purposes therefore the first tapping year cannot give a true aspect of the quality of the families, and true conclusions must be based upon several years' observations."
+
+As the object of artificial pollination is eventually to get pure strains, the study of variation is important. With Hevea yielding ability probably is determined by a number of hereditary factors and therefore low variation can be taken as an indication of the purity of the family.
+
+The degree of variation varies from family to family, for example the coefficient of variation (*i.e.*, the standard deviation expressed as a percentage of the mean) for the three years' average yield is 34.5 per cent. for
+
+36------------------------------------------------
+
+97
+
+family  $145 \times 138$  and only 19.0 per cent. for  $138 \times 139$ . All the 157 families are noteworthy of the symmetrical distribution of the individual tree yields about the mean.
+
+It is not possible to make a strict comparison between the relative yields of mother trees and their clones and seedling families but it does appear that the best clones and seedling families do not necessarily come from the same mother trees, owing to the action of environment on the expression of hereditary characters. Dominant characters and environment determine the yield of the mother tree and its buddings, but the recessive (latent or dormant) characters can appear in the hybrid seedlings and give very different results. A mother tree may give bad buddings and good seedlings or *vice versa*, and both may be good or bad.
+
+The monthly tapping figures of the 70 (5 per cent.) best individual seedlings given in Heusser's Table 8 show that considerable changes took place in the relative performance in the three tapping years. In illustration of this the yields of the seedlings that gave the highest yields in the first, second and third years are set out in Table II below:
+
+Table II
+
+<table border="1">
+<thead>
+<tr>
+<th>Best Tree<br/>in</th>
+<th>No.</th>
+<th>Cross</th>
+<th>———</th>
+<th>1st yr.</th>
+<th>2nd yr.</th>
+<th>3rd yr.</th>
+<th>Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1st year</td>
+<td>274</td>
+<td><math>49 \times 26</math></td>
+<td>Yield gms.<br/>Order</td>
+<td>24.5<br/>1</td>
+<td>48.8<br/>8</td>
+<td>34.4<br/>145</td>
+<td>35.9<br/>22</td>
+</tr>
+<tr>
+<td>2nd year</td>
+<td>275</td>
+<td><math>142 \times 157</math></td>
+<td>Yield gms.<br/>Order</td>
+<td>19.5<br/>9</td>
+<td>58.4<br/>1</td>
+<td>43<br/>59</td>
+<td>40.3<br/>8</td>
+</tr>
+<tr>
+<td>3rd year<br/>(&amp; all 3)</td>
+<td>317</td>
+<td><math>165 \times 161</math></td>
+<td>Yield gms.<br/>Order</td>
+<td>11.7<br/>*</td>
+<td>50.4<br/>7</td>
+<td>91.9<br/>1</td>
+<td>51.3<br/>1</td>
+</tr>
+</tbody>
+</table>
+
+\* = below best 10 per cent.
+
+Thus for individuals as for families, changes occur from year to year and the saying "good trees remain good" cannot be used in selection work, although it applies for practical thinning out.
+
+### III. SECONDARY CHARACTERS
+
+Although the production of rubber is the principal consideration in judging the trees, the secondary characters such as growth vigour, bark thickness, etc., cannot be ignored. It has been shown that these are largely hereditary but it is necessary to wait for at least a second generation to understand the method of transmission, which characters are dominant and so on.
+
+*Girth.*—Measurements of girth give a good comparison of growth development of the trees. It appears generally speaking that the more strongly growing families were obtained from the better developed mother trees. The crosses  $49 \times 26$  and  $138 \times 49$  show the thickest trees, and most of the offspring of 164, 166 and 140 are of small girth.
+
+Within the families the correlation between girth and yield is very slight, and even in the uniform family  $157 \times 164$  the coefficient is only  $0.305 \pm 0.014$ . Even so a well-grown tree is to be regarded as more desirable than a feeble or thin one.
+
+37------------------------------------------------
+
+98
+
+*Bark Thickness.*—Bark thickness appears to be hereditary, and the trees with the thickest bark belong principally to the families of 161 and 49, the bark measurements of which were above the average for the mother trees.
+
+There appears to be a fair correlation between bark thickness and yield but it has not been evaluated so far.
+
+*Brown Bast.*—At the end of the 2nd and 3rd years 4 per cent. of the trees were found to be suffering from brown bast, which is the same proportion as found in actual practice with the same tapping system. Only 6 trees were taken out of tapping owing to heavy attacks.
+
+With one exception the highest-yielding families suffered most severely from brown bast. The families with 164 and 161 as one parent were all badly diseased and, in  $164 \times 161$ , 21 per cent. of the trees were attacked. In this family considerable wood formation took place in the affected bark.
+
+Other families of 36, 138, 146 also showed the disorder but it cannot be said which parent has the greater tendency. As brown bast did not appear in trees 161, 164 and 36 until 1921 and 1922, that is after pollination was carried out, it can be stated that susceptibility to brown bast is hereditary. Thus though there is a danger of cultivating seedlings or clones with this character there is also the possibility of eliminating it by careful breeding.
+
+*Tree Shape and Tendency towards Breaking.*—In order to permit free development of their characteristic branching the crosses were widely spaced. Usually the seedlings of a family display striking uniformity of habit, and sometimes the peculiar characters of the parents are recognisable in their offspring. For example, the offspring of 49 in their second year form small crowns with right-angled branches, which later often become as strong or stronger than the main stem and this frequently ceases to grow. Thus the trees develop the typical bowl-shaped crown and irregular branching characteristic of the mother tree and clone 49.
+
+The seedlings of 36 are more liable to wind damage than the others owing to the acute-angled branching, the heavy crown and brittle wood. The influence of the strength of the wood apart from the branching habit is shown in the family  $145 \times 36$  by some seedlings that are subject to wind damage in spite of the ideal lamp post branching they have inherited from 145.
+
+*Bark Renewal.*—Bark renewal is very satisfactory for all the crosses and particularly so with the well-developed trees.
+
+*Leaf-fall and Flowering.*—The families show a striking coincidence in the time of wintering and flowering, and they can be arranged in the following groups :
+
+1. 1. Early wintering : 157.
+2. 2. Average early wintering : 164, 165, 166, 36, 140, 141.
+3. 3. Late wintering : 151, 142, 138, 139, 26, 145, 161.
+4. 4. Flowering, but no complete wintering so far : 49.
+
+*Fertility.*—Strong evidence that fertility, subject to external influences, is hereditary is given by the crosses between 164, a prolific seed bearer, and 161, which so far has produced very little seed. Except for the cross  $164 \times 161$  all the other seedlings of 164 are good seed producers. As the number of seeds per tree is comparatively small in Hevea, the fertility character is important in breeding work.
+
+*Seed and Leaf Shape.*—The leaves and seed of the seedlings are often strikingly similar to those of their parents, some resemble more closely the father and some the mother.
+
+The seed of some of the trees of  $138 \times 49$  are very difficult to distinguish from those of 49. The seeds of  $49 \times 26$  mainly possess the colour and markings of 49 with the large round shape of 26.
+
+38------------------------------------------------
+
+99
+
+The leaves of most of the seedlings of the family 164 × 161 have the round broad tip of 161, whilst among the offspring of 151 its long pointed shape predominates.
+
+No relationship could be found between yield and the quantity of leaves and seeds.
+
+*Backward Trees.*—At the end of 1927, 20 per cent. of the trees of the family 138 × 146 were backward. The leaves are yellowish green, wintering was premature and the stems mainly are crooked. As the trees are spread through the whole block this cannot be attributed to their situation and can be regarded as a character inherited from 138. The crosses of 145 were also backward to a smaller extent.
+
+*Formation of Cork.*—The formation of an abnormally thick layer of cork must also be regarded as an hereditary character. It is particularly common in the progeny of 145, 138 and 164. In the family of 145 × 138, 82 per cent. of the trees have coarse bark and both the mother trees and their buddings also display this character. Other families from these parents show from 26 to 43 per cent. of cork bark trees, which appear only sporadically in the remaining crosses.
+
+*Yellow Foliage.*—The family 166 × 161 contains a number of trees with golden yellow to greenish yellow foliage. This character however is not detrimental to yield, and two trees of the family are amongst the best 2 or 3 per cent. of all the crosses.
+
+*Germinating Plants with no Green Leaves.*—Several germinating seedlings of 145 × 139 and 138 × 139 had white leaves and died off on planting out. This character apparently comes from 139.
+
+*Fasciations.*—A number of 164 seedlings developed fasciations when about one year old.
+
+#### IV. DISCUSSION
+
+Although the results show that higher yielders have been obtained in the first generation the selection problem has not been simplified, and one cannot prophesy the behaviour of the seedlings from the yield of the mother trees.
+
+Further seed selection will be carried on from families that are uniform as well as high-yielding. New clones will be started from those families with high individual yields and a high family average, although for this purpose uniformity is secondary it should be considered as well, for the new clones may be valuable for seed as well as yield.
+
+The most promising type for continued selection is 157. Already new crosses have been made to introduce more growing power and resistance to brown bast in addition to increasing the production both from the old mother trees and from various members of the families of crosses that possess the desired characteristics.
+
+The 161 families are a promising group for clonal selection but their variability is rather great for seed selection.
+
+As one is limited to a small number of trees for seed selection and breeding, it is apparent that an endeavour must be made to increase the number of trees per family, for the results of experiments on a small number of seedlings can be regarded only as preliminary.
+
+#### V. CONCLUSION
+
+On an average the seedlings have not yielded as well as the best clones, but as the yield of an area of seedlings can be increased by selective thinning then seed from crosses of 157 can be regarded as equal in value to buddings. In time when seed from seed gardens becomes available the slogan "buddings *versus* seedlings" will be changed into "seedlings and buddings."
+
+39------------------------------------------------
+
+100
+
+## SEED TESTING\*
+
+### ITS VALUE TO THE FARMERS
+
+**O**WING to the extent of the development of world-wide competition in agricultural production during the past few years, the farmer has to eliminate every element of chance in farming practices to strengthen his position in this struggle.
+
+The modern farmer cannot, today, use the out-of-date methods which were excusable in the early days, for then the cost of production was less while competition was negligible. Those obsolete methods should no longer be practised—conditions are different, prices of seed higher and labour more expensive; in fact the cost of production is greater in almost every respect, and consequently profits tend to diminish. An important factor in ensuring an increase of profits is the use of agricultural seeds of only good quality. This implies seed testing previous to buying or sowing.
+
+The testing of seed before sowing is by no means an innovation in the history of agricultural progress. As early as 1869 the first *Seed Control Station* was initiated by Dr. Nobbé in Saxony, and since that time similar stations have gradually extended over Europe. Two of the most outstanding are at Zurich (Switzerland) and Copenhagen (Denmark). These are regarded as the world's leading establishments in seed testing and much valuable research work has been done at both. Great Britain, Ireland, Canada, U.S.A., New Zealand and Australia have also been testing seed to a greater or less extent for many years. They each have established one or more seed-testing stations.
+
+Before the introduction of seed testing, farmers knew very little about the quality of the seed they bought for sowing. Scientific methods for ascertaining their value were unknown, consequently they had to rely on simple unorthodox tests, such as appearance, smell, size and taste. The doubtful means of discrimination did not, however, satisfactorily demonstrate their value, as that can only be accurately determined by scientific testing.
+
+It is essential for the farmer to understand that a good sample of seed should contain the largest possible quantity of the seed of the plant desired for growing, and consequently freedom from seeds of undesirable plants and inert matter such as chaff, soil particles, etc.—in other words *as high a percentage of purity as can be obtained*; combined with this the seed should be capable of vigorous growth, *i.e.*, should give *a high percentage of germination*.
+
+It frequently occurs (and the explanation often troubles the farmers) that, after spending much time and money they obtain very disappointing crops, accompanied by a good stand of weeds many of which may be new to their areas. They do not always realise that the fault may be in the seed sown, and that the only way to safeguard against this is to have all the seed which is bought tested, or only to buy guaranteed tested samples. The introduction of new weeds on to a farm is serious, and should be avoided if possible. Unfortunately most weeds are free seeders (thereby producing a further heavier infestation next season) and loss in time and money eventually occurs in eradicating them.
+
+---
+
+\* By H. G. Eliott, Dip. Agric., in *Journal of the Department of Agriculture, Western Australia*, Vol. 7, (Second Series) No. 1, March 1930.
+
+40------------------------------------------------
+
+101
+
+The following points with respect to the purchase of seed should be considered by all farmers :
+
+1. 1. Suitability for district, particularly as to kind and variety.
+2. 2. Freedom from, and resistance to, diseases.
+3. 3. Quality.
+4. 4. Purity.
+5. 5. Germination.
+
+It is very probable that most growers consider the first before buying, but with regard to the others, it is certain that they are frequently overlooked. Progressive farmers, who recognise the importance of better and more profitable crop production, must realise, however, that the careful selection of seed under the points above enumerated is worthy of their attention.
+
+This article is written with the purpose of encouraging farmers to buy and use the best seeds, also to convince them that they have no justification whatever for buying and using cheap and inferior seeds with a higher proportion of weed seeds. The main points to be borne in mind are :
+
+1. 1. Seeds of some crops are unavoidably mixed with seeds of some undesirable weeds, which, when sown may gain the upper hand and reduce the stand of the main crop, consequently they will necessitate labour and expense in eradication to prevent permanent injury to the farm.
+2. 2. Old seed, which may have a low germination capacity, results in a poor crop, the field having throughout only scattered plants.
+3. 3. Seeds may have low germinating capacity due to :
+   1. (a) Unfavourable conditions during the development, harvesting, and storage of the seed ; or
+   2. (b) Seed that has been kept too long, *i.e.*, old age.
+4. 4. Seeds of certain crops such as lucerne, clovers, grasses, etc., found for sale, usually come from overseas countries which may have a vastly different climate to that under which they would be grown in this State, the ultimate results being reduction in yield of crop and carrying capacity of the pastures.
+
+In the selection of seeds the following points should be looked for : size, colour, plumpness, brightness (and occasionally smell), but it is not always easy to judge by the eye. Something more than good appearance is needed, and that is *high percentage purity and germination*.
+
+In conclusion, the following points should be given careful consideration :
+
+*Buy on tested samples and obtain a statement as to percentage purity and germination*, which will tell what proportion of the bulk of the seed is true to name ; note the nature of the impurities and especially the amount of weed seeds present. The germination will show the percentage of pure seeds which are capable of growth.
+
+*Avoid cheap seeds* unless there is definite proof to show they are good, as *cheapness and inferiority* generally go together.
+
+41------------------------------------------------
+
+102
+
+## SOME PINEAPPLE PROBLEMS\*
+
+### SLIPS AND SUCKERS
+
+**T**HE practical problems in pineapple growing are stated to be: to secure (1) a large per cent of plants that will fruit at an age of 12 to 18 months; (2) large size fruit; (3) fruit of good quality free from blemishes; (4) a large number of slips and suckers; (5) slips and suckers that are potentially capable of achieving the results mentioned above. This article deals with slips and suckers.
+
+*Parts used for Propagation.*—It is well known that the pineapple plant is propagated mainly by means of slips and suckers, and growers in Puerto Rico generally know what offshoots these names apply to. Ratoons are left in the field to produce a crop but they are seldom transplanted and they are not usually considered desirable for that purpose. Occasionally the old stalk of the mother plant is used for propagation and the ratoon from that generally produces a satisfactory plant. Crown-slips are not planted because they are too small. Crowns have not, so far, been planted extensively in Puerto Rico, but when the fruit is canned there is no reason why well-developed crowns from large fruit should not be utilized, for experiments have shown that they produce satisfactory results. Seeds are not used for commercial planting, but they are not difficult to handle and propagation from seed is a very promising method for the production of new varieties.
+
+*Quality of Slips and Suckers.*—The term quality, as here used, denotes the capability of the slip or suckers to reproduce the characteristics of the mother plant. This may be fixed to the extent that one or more characteristics are inheritable throughout many generations regardless of environments, which is illustrated by the condition locally termed macho. The quality may also be temporary, due to the environments under which the mother plant developed, which is illustrated by the starved spindly slip from a starved reddish coloured spiny plant. This will be further elucidated in a later chapter.
+
+*Selection.*—Several growers have practised systematic selection during the past few years and the results show that some improvement can be obtained by having the most intelligent workers go through the field, before the fruit is picked, and daubing a leaf on each of the most desirable plants with paint. From these plants the slips are gathered when large enough for planting. The points usually considered as a basis for selection are: large stocky plant, large size fruit, and an abundance of slips and suckers. Other points such as time of fruiting, shape of fruit and quality of fruit have not yet been extensively considered in commercial plantations and it is not yet definitely known to what extent these characteristics are reproducible by the progeny of the Red Spanish plant.
+
+Selection can, of course, be further developed by always being on the lookout for outstanding types of plants. There are very frequently such but they are not always readily recognized. If the type appears to be undesirable it is well to pull the plant up and destroy it for if it remains the slips are liable to be planted and some types increase very fast as did the macho some years ago.
+
+---
+
+\* By Henry C. Henricksen in *Agricultural Notes*, No. 51, May, 1930, published by the Porto Rico Agricultural Experiment Station, San Juan.
+
+42------------------------------------------------
+
+103
+
+*Rejection.*—Although a grower may not practise selection he always rejects some planting material. Most rejections are for size, but that differs according to personal views. Some growers reject all slips less than 5 inches long and others plant none less than 8 inches long. The reason for rejecting the smaller slips is that they are difficult to handle, and they are liable to become buried or uprooted which necessitates much replanting. Also the time from planting to fruiting is much longer for a 4-inch slip than for one 8 inches long.
+
+The upper limit of size is also of some importance for a very large slip is liable to produce a plant that blooms prematurely. But regardless of size a slip should never be left on the mother plant after it stops growing. A slip that is partly dried up before it is picked always gives unsatisfactory results.
+
+The statements regarding slips apply to suckers as well, especially in regard to large size. A sucker more than 10 inches long is liable to bloom in 8 to 10 months and when it does the fruit will be undersized. Premature blooming of large slips and suckers may be very much lessened by heavy fertilization of the young plants, and of course by irrigation when water is the limiting factor.
+
+A slip or sucker should be stout with broad firm leaves. If it is slim and the leaves are narrow and flacid it should be rejected.
+
+*The Macho.*—The so-called macho (male) or riñón (kidney) type of plant is characteristically vegetative, being usually large and producing an abundance of slips. The fruit is small, knobby and often kidney-shaped, hence the name. This type was called to the writer's attention 10 or 12 years ago by Mr. Bert E. Stevenson of the Palo Seco Plantation who suggested that the unfavourable characteristics might be inheritable. This has proved to be the case. Experiments with plants carried through several generations have shown that such plants always produced small misshaped fruit. This type of plant has been rogued out in most plantations during the past 5 to 6 years, but it is still in evidence. It appears to be a spontaneous development, but that has not yet been proved.
+
+*Effect of Environments.*—Several million plants were imported from Cuba in 1921-1923. These proved to be generally superior to the majority of the plants then grown in Puerto Rico, and the progeny has continued to produce desirable plants and fruit under favourable soil and cultural conditions. This naturally suggested the possibility that the strain or strains of Red Spanish grown in Cuba might be superior to those grown in Puerto Rico.
+
+With that theory in view investigations have been conducted during the past few years and the following conclusions may be drawn from the results obtained: (1) The characteristics of the Cuban plant may be reproduced from generation to generation, under soil and cultural conditions favourable to the pineapple plant. But this habit is not fixed to the extent that it can withstand extreme unfavourable conditions; (2) the same applies to plants grown in Puerto Rico before the introductions from Cuba. This was proved by the following experiment: slips from Cuban plants and from selected Puerto Rican plants were set in adjacent beds of extremely poor sandy soil which was only lightly fertilized. The two lots of plants behaved similarly, they were small, with narrow reddish leaves and they produced small-sized fruit. The slips from these plants were set in medium good soil and given the usual care. The two lots of plants again behaved similarly, they were undersized and produced small size fruit. The experiment was not continued and it is not known how many generations might have been required for bringing the plants back to their former productivity. It is unquestionable, however, that unfavourable environments may cause damage to one generation of plants which may not be overcome in several succeeding generations under favourable environments.
+
+43------------------------------------------------
+
+104
+
+The most important environmental factors are soil, fertilizer, moisture, planting and cultivation which have all been discussed in previous articles. But the characteristics produced by those environments are not always reproducible under different environments. For instance the low, spreading habit of growth of the plant on some clay soils does not persist beyond the first generation when plants are transferred to sandy soils; nor does the upright habit of growth on the latter soils persist when the plants are transferred to the former soils. Likewise the prevailing shape and colour of fruit in some plantations, or part of a plantation, may be maintained in those locations, but the habit is lost by changing the plants to different locations. Colour and often shape of fruit are due to soil constituents, normally present or supplied, which is provable by the potassium nitrate results reported in Article 17 of this series.
+
+The method of planting has a very decided effect upon the general development of the plant. For instance the plants in a two-row bed or in the outside rows of a four-row bed are better developed and produce larger fruit than those in the two middle rows of a four-row bed, especially when the soil is not entirely suitable.
+
+Of other environmental factors altitude and temperature have been considered. Slips originating at about sea level, with a mean annual temperature of 80°F. and a mean monthly temperature of 75°F. for the winter months, were interchanged with others originating at an elevation of 1,400 feet with a mean annual temperature of 73°F. and a mean monthly of 70°F. for the winter months. The results did not show variations that could be attributed to differences in altitude or temperature.
+
+It is not improbable that more prolonged observation may show that an interchange of propagation material from one soil type to another or from one district to another may be beneficial, but the fact remains that with suitable soil, proper fertilization and cultivation a grower can improve his strain of plants and maintain it for a long time. If undesirable characteristics are produced due to local soil conditions interchange is of course desirable, even necessary. If on the other hand such characteristics are desirable they should be maintained by planting the same type or strain of plant on the same type of soil continuously.
+
+44------------------------------------------------
+
+105
+
+## THE SCLEROTIUM DISEASE OF COFFEE\*
+
+### SOME NOTES ON THE ORIGIN OF THE DISEASE, ITS OUTBREAK, AND CONTROL
+
+**I**F an examination be made of any collection of dead leaves on coffee grants of the North-West District affected with Sclerotium Disease (*S. coffeicolum* Stahel), the orange sclerotia and feathery white mycelium of the fungus will be found occurring plentifully on the damp underlying leaves. The fungus was readily found in this stage in April, when little or no infection of the coffee bushes was visible. At the same time, in the forests west of the Aruka River and the cultivated area, the writer found upon decaying leaves sclerotia and mycelium similar to those found beneath the coffee bushes. Later in the year, when it was possible to compare cultures obtained from the bristles of *S. coffeicolum* on diseased coffee berries, with those from sclerotia collected both in the forest and on the coffee grants, an apparently identical fungus was obtained in each case.
+
+This suggested that the fungus in question occurred normally as a saprophyte on decaying leaf tissues, but was also a potential weak parasite, which under suitable circumstances was able to obtain a foothold on living plants. In the case of Liberian coffee Stahel has pointed out that the parasitic action of the fungus on leaves is confined to the penetration of the stomata and cuticle, the hyphae then entering the dead cells. Further cells are killed in advance of penetration by the action of toxic substance, probably Oxalic acid, and the fungus continues its life on the plants as a saprophyte.
+
+Hitherto, apart from Liberian coffee and one or two other varieties, the fungus has only been observed as a leaf parasite upon young plants of *Cecropia peltata* L. (Congo Pump). Last September, however, the white bristles characteristic of this fungus were found upon leaf spots on a number of other common weeds growing in the coffee grants. On *Commelina nudiflora* L. (Cana or Zeb grass) they occurred plentifully, and were easily found on *Vitis sicyoides* Miq. (Snake Bush), the leaves of both plants showing spots to a quarter of an inch in diameter, with typical concentric rings. On an unidentified Melastomaceous weed, small brown spots were occasionally found on the leaves, with one or two bristles on each. On *Blechnum serrulatum* (Rich.) L., a fern growing extensively beneath the coffee bushes, a number of pinnæ showed brown, dried patches, and in a few cases one or two bristles were to be seen on these.
+
+These observations were made on the Aruka River, but a case was seen elsewhere in the North-West District (at Baramanni Police Station) in which typical pots and bristles occurred on the lower leaves of some ornamental bushes of *Gardenia ? jasminoides* Ellis (Christmas Rose). In this instance a few bushes of Liberian coffee which occur nearby showed no signs of the disease at the time of observation, which was September.
+
+In every case so far, however, the appearance of the fungus on living plants had always been in the immediate neighbourhood of coffee bushes. It was of interest then, when the unmistakable bristles were found (in October) on the leaves of a shrub or young tree near the first falls on the Essequibo River, far removed from any cultivation. The plant, some 10
+
+\* By E. B. Martyn, B.A., in *The Agricultural Journal of British Guiana*, Vol. III, No. 1, March 1930.
+
+45------------------------------------------------
+
+106
+
+feet high, was unidentifiable. It was growing near the water's edge, in a rather open situation, where a small area of the immediately surrounding forest had been cleared some time previously, and had reverted to a state of secondary bush. On the large palmate leaves were small white spots, with a brown border, about one-tenth of an inch in diameter, which increased in size to large patches, with a maximum breadth of one inch, and from which the dead central tissue had in many cases fallen away. No definite concentric rings appeared, but the bristles occurred plentifully. On decaying remains of fruits and leaves below the plant, orange sclerotia and the typical white mycelium were also to be found. Cultures prepared from the sclerotia in every way resembled those of *S. coffeicolum*. In addition, the sclerotia of the fungus were found upon dead leaves in the forest in this same neighbourhood.
+
+### INOCULATION EXPERIMENTS
+
+To establish the identity of the fungus found on the coffee bushes with that occurring saprophytically on dead leaves in the forest, it was desirable to carry out inoculation experiments with cultures obtained from both sources. No mature trees of Liberian coffee being readily available, an attempt was made with seedlings. These were put under bell jars, and portions of mycelium placed on the leaves and stems. Provided the atmosphere was kept sufficiently damp, the mycelium made some superficial growth on the surface of the leaves, but no penetration took place. Even when leaves were wounded by pricking, the fungus did not attack them. Possibly better results would have been obtained with bristles, although young leaves and seedlings are seldom attacked even under natural conditions. Repeated attempts to produce the bristles in culture, however, on finely cut and sterilised Liberian coffee leaves, as advocated by Stahel, were unsuccessful, and they never appeared on the Corn Meal Agar media which was otherwise employed.
+
+Inoculation of seedlings having failed, a number of ripe berries of Liberian coffee were obtained, and sterilised by immersion in dilute Mercuric Chloride, after which they were washed in sterile water. Sixteen of these were placed in each of two glass chambers in which a damp atmosphere was maintained, and were inoculated respectively with the mycelium of the fungus obtained from the two sources, half of them being wounded first. A number of uninoculated berries, some also wounded, were kept under similar conditions as a control. After a week to ten days, four of the inoculated wounded berries in both chambers had turned brown over the greater part of the surface, the latter being covered with the mycelium of the fungus. A number of aerial rhizomorphs arose, which, however, lacked the rigidity and uniformity of the true bristles. On placing attacked berries in a drier atmosphere, these rhizomorphs shrivelled, and no bristles were formed. If the berries remained in a damp atmosphere, sclerotia developed after about a fortnight from the time of inoculation. The unwounded berries were not attacked.
+
+### ESTABLISHMENT OF THE FUNGUS UPON LIVING PLANTS
+
+It would appear from the above observations that *Sclerotia coffeicolum* is a fungus which is of quite common occurrence as a saprophyte upon decaying vegetable matter, but which under favourable circumstances is able to gain a foothold on the leaves of living plants. The difficulty of securing successful inoculations, and the rarity with which living plants are found attacked, outside a few cultivated areas (even in regions where the sclerotia and rhizomorphs are of comparatively common occurrence) suggests that the fungus is not only a very weak parasite, but is also unable to attack the aerial parts of plants, as lacking any means of dispersal.
+
+46------------------------------------------------
+
+107
+
+The only means by which the fungus can spread itself effectively above ground is by the formation of bristles. From the scarcity with which these are found, apart from the small areas where the fungus has established itself on coffee, and the difficulty of producing them in the laboratory, it would seem that the conditions suited to their appearance are strictly limited. The bristles when formed, however, contain a high percentage of Calcium Oxalate (to crystals of which they owe their rigidity) and apparently when they fall on the green leaves of plants, these may suffer the initial penetration of the fungus under suitably moist conditions. This results in leaf spots of varying dimensions, according to the ability of the plant to form a callus limiting the action of the fungus, or to the continuation or otherwise of those conditions suited to its development. For active growth of the fungus needs continual moisture, and it is only when such prevails to an extreme degree, that the rhizomorphs appear on infected coffee bushes.
+
+Liberian coffee, when seldom topped or pruned, and growing so close that neighbouring trees often overlap, gives a mass of thick foliage amongst the lower branches of which conditions are peculiarly suitable for the establishment and development of the fungus. The large fleshy berries seem too, when ripening, to form a particularly favourable substrate on which enormous numbers of bristles may be produced. These then spread the infection on coffee and on the leaves of other neighbouring plants.
+
+### OUTBREAK OF THE DISEASE ON COFFEE
+
+The occurrence of the Sclerotium disease on coffee is confined in British Guiana, so far as is known, to a comparatively small area in the North-West District, where the coffee grants are closely surrounded by forest. Liberian coffee is grown, on the Pomeroon River, but the disease has never been reported in that locality. The cultivated land there, however, is not so closely surrounded by forest as in the North-West, the neighbouring country being more of the nature of swamp savannah, in which it is probable that the saprophytic stage of the fungus does not occur, at any rate commonly. The non-appearance of the disease, here, and in some other small coffee-growing localities, must be ascribed either to the absence of the fungus, or more probably to the non-occurrence of those conditions most suited to the development of the bristles.
+
+In the North-West District, the disease invariably becomes prevalent in August or September, when the long wet season ends, being worst when there is less rain at this period than usual. Last year's outbreak for instance was very mild compared with that of 1928, and it is noteworthy that the rainfall at Hosororo during what may be described as the critical period for the disease (namely the second dry season) was considerably higher in 1929 than it had been in the preceding year, the total for September being nearly double that of 1928. Neither in 1926 or 1927 was the disease serious, and in both years the September rainfall was high compared with that of 1928, when a bad outbreak occurred. Normally the disease persists for two or three months, getting less towards the end of the year. In the 1925-26 drought however, when the December rainfall was considerably below normal, the attack was prolonged in the following year.
+
+The disease does not spread though during the first dry season of the year. An examination of the daily rainfall records at Hosororo since 1925 reveals the fact that the average daily precipitation from the latter half of August to the beginning of November, taken in fortnightly periods, lies very regularly between an approximate minimum of 0.15 inches and maximum of 0.41 inches, whereas from mid February to mid April the
+
+47------------------------------------------------
+
+108
+
+average, over the same period, though in one year reaching a maximum of 0.40 inches lies for the most part between 0.0 and 0.23 inches. It would appear from this, that the formation of bristles is favoured by drier, but not too dry conditions. During the dry season heavy mists hang over the rivers and the adjoining coffee grants, and these provide the necessary moisture for the fungus if rain is lacking. It is possible that sudden changes in the degree of humidity provide the conditions suited to formation of bristles, but a certain minimum humidity is necessary for the further development of the fungus.
+
+### CONTROL OF THE DISEASE
+
+It is apparent that control measures should primarily be aimed at avoiding as far as possible those conditions which favour the development of the fungus. Proper pruning and spacing of the trees, allowing of better ventilation, is therefore to be advocated. It is obvious also that every effort should be made to remove dead leaves, etc., taking particular care to avoid the collection of these in heaps, such becoming thickly infested with the sclerotia and rhizomorphs of the fungus.
+
+In years when the attack is of a minor degree, the amount of damage done is small, and very little loss is sustained from the fungus. In bad outbreaks, however, considerable loss is caused at the time, in addition to which more far-reaching damage is done to the trees. As an instance of this, several trees were noted in 1929, which though little affected by the disease, bore branches almost bare of fruit, the after-effects of the fungus which had been observed as being especially plentiful on these same trees in the preceding year.
+
+In order to estimate what benefits are likely to accrue from spraying with Bordeaux mixture, and whether this will produce a sufficient increase in crop to justify the expense entailed, a series of experimental spraying were carried out last September. The results must await the completed picking of the crop, and the experiment will have to be repeated for more than one season before reliable information can be obtained. As the outbreak last year was slight, it will not be possible to obtain a fair estimate of benefit of spraying to counteract the disease, but data as to cost have been secured. Should spraying prove to be not economically worth while in normal years, though justifying the expenditure when the outbreak of the disease is serious, it should be possible for farmers to foretell when a bad attack is impending, and spray their crops accordingly. The inference at present seems to be that a sudden falling off in rainfall at the end of August, followed by a dry September, are conditions presaging an abnormal attack. In considering the benefits of spraying, however, factors other than the direct increase in crop must be considered, such as cases in which an increase in yield might be negatived owing to inability to harvest the whole of the augmented crop. Loss due to shortage of labour is not uncommon in the district.
+
+### DETAILS OF EXPERIMENTAL SPRAYING
+
+Experiments have been inaugurated upon two grants to test the efficacy of varying strengths of Bordeaux mixture. On one grant the trees are topped and seldom exceeds a height of 8-10 feet, whereas on the other they are untopped, and are sometimes 20 feet high or more. The general scheme has been to spray alternate beds, leaving the intermediate beds as controls. The total areas sprayed on the two grants were approximately ten and sixteen acres respectively. Bordeaux mixture of 1%, 1.6% and 2% consistency was used on different sets of beds, and on one grant resin was used as an adhesive, this effect being obtained on the other by use of a double quantity of lime. The machines employed were compressed air sprayers of the knapsack type.
+
+48------------------------------------------------
+
+109
+
+The contrast in cost of spraying topped as opposed to untopped trees was very marked. In the case of the untopped trees, the rate of application of the mixture was between 200 and 250 gallons per acre, the cost of labour (not inclusive of supervision) being \$3.50 per acre, and the total cost per acre, inclusive of materials, but not including the initial cost of the machines, was between \$6.50 and \$7.00 per acre, according to the materials used. Where the trees were topped low, the spray was applied at an average rate of 70 gallons per acre, the labour costing \$1.15 per acre and the total cost, reckoned as above, varying between \$2.20 and \$2.50 per acre.
+
+### CONCLUSION
+
+It appears that *S. coffeicolum* is a species of *Sclerotium*, living normally as a saprophyte upon the decayed vegetable matter, which is able under certain circumstances to attack the tissues of living plants. To enable it to do this extensively, however, it is necessary for the motile organs of the fungus to be produced, namely the peculiar rigid bristles, but conditions suited to the formation of these are limited, and apparently in the natural environment of the fungus are seldom attained.
+
+It is of interest to compare *S. coffeicolum* with *S. rolfsii* of which Nakata in his studies in the latter fungus, regarded it as a strain. *S. coffeicolum* differ from *S. rolfsii* in the fact that it is a weaker parasite, and attacks the aerial portions of plants and not the roots and base of the stem. Its comparatively wide range of hosts is a point in common with the other fungus, although conditions suitable for its attack are less generalised. By a combination of suitable circumstances, this species of *Sclerotium* has established itself upon Liberian coffee in certain localities, and finds in this plant, as grown under cultivation, a well-adapted host. But normally at only one season of the year do conditions occur suited both to the production of bristles and the further development of the fungus. When the conditions are especially favourable, the fungus may spread on the coffee to an alarming extent. These major outbreaks, however, are apparently of irregular occurrence, the damage done by the fungus in normal years being comparatively slight.
+
+### SUMMARY
+
+(1) Sclerotia and rhizomorphos of *S. coffeicolum*, similar to those found on debris beneath coffee bushes, were discovered upon dead leaves in the neighbouring forests in the North-West District, and also elsewhere.
+
+(2) The unmistakable bristles of the fungus were seen on the leaves of a number of plants other than coffee in the North-West District, and in one case were found upon a wild plant in another part of the Colony.
+
+(3) Similarity of appearance both in nature and in artificial culture, together with results of inoculation experiments, showed the fungus found on dead leaves in the forests to be identical with that causing the disease of coffee bushes.
+
+(4) Observations point to the fungus being a fairly common saprophyte, which is able under suitable circumstances to attack living plants, the essential factor in this attack being the formation of the bristles.
+
+(5) The periodic outbreaks of the disease are discussed, and it is suggested that optimum conditions for the latter only arise in the dry spell following the long wet season, a certain minimum humidity, however, being necessary for the development of the fungus.
+
+(6) Control measures are indicated and spraying experiments outlined, together with details as to cost.
+
+49------------------------------------------------
+
+110
+
+## ANIMAL HUSBANDRY
+
+### CATTLE BREEDING AND ITS PROBLEMS\*
+
+**I**T is twenty-six years since, through the discovery of Gregor Mendel's work, the foundations of the science of genetics were laid.
+
+In two respects these years have been very fruitful. The theory of genetics has been quickly built upon the rock of Mendel's discovery, and to-day it is a tolerably complete and, so far as one can tell, a thoroughly sound structure. It is, of course, true that the simple Mendelian hypothesis has had to be amplified and modified, and that the mechanism of heredity has turned out to be a good deal more complicated than was at first foreseen. Nevertheless, genetics is now an exact science, whereas the pre-Mendelian books on breeding contain only a mass of uncoordinated facts and observations. The breeding of plants for economic purposes has also made immense progress. The species which provide the easiest material have been taken in hand with notable and even brilliant results, and the most troublesome are being tackled with new and reasonable hope of success.
+
+In another respect these years have proved comparatively barren. The practical business of stock-breeding stands today very much where it did twenty-six years ago; indeed, it is difficult to maintain that much real progress has been made since Bakewell worked out his system in the latter half of the eighteenth century.
+
+At the moment it is possible to argue for either of two points of view with regard to the future of animal breeding. On the one hand, it can be maintained that the heredity of our farm animals presents so complex a problem, and that the number of individuals that can be handled is so small, that Mendelian analysis is quite beyond the bounds of practical possibility. It can be pointed out that Morgan's Fruit-fly (which is presumably a simple organism compared, say, with the dairy cow) possesses at least two hundred pairs of Mendelian factors, and probably a good many more; that it is a species which can be bred literally in millions, and which produces a generation in a few weeks; and yet it has taken a decade and more for a large team of brilliant scientific men to work out a somewhat incomplete picture of its heredity. At the same relative rate of progress, it would require centuries of experimental work on a vast scale to analyse the germ-plasm of a large and slow breeding species like the ox.
+
+There is another side to the argument which I shall try to put before you presently; but in the meantime let us examine our existing methods of breeding and consider wherein and how far they succeed or fail.
+
+There are, of course, certain old established and generally accepted principles that are very good so far as they go. In essence these are reducible to two, which are both as old as Bakewell. Nothing could be better, as a general guide to the first steps of live-stock improvement, than the advice that we should "breed the best to the best." The great early breeders started by selecting the choicest specimens that they could find, or that they could afford to buy, among the general stock of the country, and their subsequent procedure amounted to a severe culling of females and a careful selection of sires. The result was that, for the first few generations, there was marked improvement in the general merit of their herds.
+
+---
+
+\* Reprinted from *The Journal of the University College of Wales*, Vol. XVI.
+
+50------------------------------------------------
+
+111
+
+But with such a method a stage is soon reached when progress slows down and even ceases, and the only further result of our labours is to prevent deterioration. If we start with a herd of cows having an average yield of four-hundred gallons, it is usually an easy business to raise the average, by selection, to six or seven-hundred gallons. But it is very hard, by the same methods, to reach eight or nine-hundred gallons, and even more difficult to maintain such a level from year to year. Again it is comparatively easy (if one has the money) to collect a herd of thousand gallon cows, but it requires rigorous selection to maintain an average of eight or nine-hundred gallons among their progeny. This is what Galton meant by his law of filial regression, this tendency among the progeny of any selected group to regress towards the mean of their race. The explanation, as far as milk production is concerned, is probably that the thousand gallon cow is the result of a happy accident in the way of a combination of Mendelian factors; and partly too that milk production is a fluctuating character, determined by other influences than heredity.
+
+Mass selection then is like swimming against the stream; at first the swimmer makes good progress, but this becomes progressively slower until at last he must exert all his efforts to avoid being swept backwards. It is my belief that, in the more highly improved of our flocks and herds, mass selection is already played out. With the best judgment in the world and with a purse as long as need be, the owner of such a herd who sets out to buy a young sire is about as likely to do himself harm as good.
+
+The more one sees of the best herds, the more one is driven to the conviction that further progress is only to be made by what the genetics call genotypic selection—the principle of breeding from the proven sire. It is sometimes claimed, and it is possibly true, that there are men who are able, by some kind of instinct, to recognize a great sire before he has been tried; personally I have never met a breeder of wide experience who did not freely admit that he had made big mistakes. It is a commonplace that a really good sire can make, and that a really bad one can ruin a herd, yet, on the whole, surprisingly little trouble is taken to distinguish, by actual trial, the one from the other.
+
+It must, of course, be admitted that genotypic selection presents difficulties. In a dairy herd it involves postponing judgment on a sire until his daughters come into milk, by which time he is probably five years old. But if breeding is to be anything more than a gamble, it is the only system to follow. Bakewell found the practical solution on many of its difficulties when he began his scheme of letting out (instead of selling) his bulls and rams, and thus ensured for himself a wide choice of tested sires.
+
+Even genotypic selection has the drawback that it does not help us to achieve finality. We must keep on testing out sires, one after another indefinitely, always facing the risk that sooner or later we shall not find the animal we require. The lot of the plant breeder, in many cases, is a far happier one. If he produces a Yeomen Wheat or Victory Oat, he has got something tangible and permanent, a landing place where he can escape the current of regression. Is it not possible, by some imitation of his methods, to secure the same advantage?
+
+In plant breeding the principle that has been most fertile of results is that of the pure line; if the animal breeder could, by intensive in breeding, produce completely homozygous strains, he too would secure the advantage of complete fixity of type; it is true that he might inadvertently or unavoidably fix a certain number of undesirable factors, but by crossing one pure-line with another, and by fixing and re-selecting new pure-lines from among the progeny, he might hope ultimately to eliminate these.
+
+51------------------------------------------------
+
+112
+
+But in plant breeding the pure-line system is not universally applicable. Working admirably with species like wheat and peas, which are normally self-pollinated, it breaks down with grasses and clovers, chiefly because of the phenomenon of self-sterility the plant refuses to allow itself to be inbred to the necessary extent.
+
+It is then a question of some importance whether or not pure lines, or strains approaching to the pure-line conditions, are possible in farm livestock. It is conceivable that the answer may vary from species to species. Pure lines have actually been produced in certain species, *e.g.*, in *Drosophila*, the Guinea Pig, and the Rat; but there is the possibility that there may exist in other cases a state akin to self-sterility in plants. The answer can only be discovered by trial, and experiments are now being undertaken, for example that with Welsh sheep at Bangor. These experiments will necessarily be tedious and costly, but the point that they are designed to settle is of fundamental importance for the future of the breeding industry.
+
+If pure-line breeding should be possible, the stock breeder will be in a sense more favourably situated than the plant breeder, because not only will he be able to perpetuate his fixed types, but he will also have the possibility of producing first crosses between these types, and thus securing, for commercial purposes, the added advantage of hybrid vigour.
+
+This, of course, is taking a long view, and in the meantime let us return for a little to the questions of more immediate practical concern.
+
+Practical methods for the further improvement of our cattle must necessarily be confined, for the most part, to measures dealing with bulls. In the main, although there are exceptions, good females are retained for breeding and poor specimens are slaughtered, and on this side little more can be done.
+
+The bull problem has two aspects; the bull breeder should try to produce a good article, an animal that will leave, in an ordinary herd, a lot of uniformly good progeny. On the other hand, the breeder for commercial purposes should be helped in every possible way to secure the use of good sires and should, in my opinion, be prevented from using definitely bad ones.
+
+52------------------------------------------------
+
+113
+
+## MEETINGS, CONFERENCES, ETC.
+
+### BOARD OF AGRICULTURE
+
+#### ESTATE PRODUCTS COMMITTEE
+
+**Minutes of the Forty-eighth Meeting of the Estate Products Committee of the Board of Agriculture held at the Head Office of the Department of Agriculture, at 2-30 p.m. on Tuesday, July 8th, 1930.**
+
+**Present.**—The Director of Agriculture (*Chairman*), the Acting Entomologist, the Acting Agricultural Chemist, the Acting Mycologist, the Director of the Tea Research Institute, the Chief Technical Officer of the Rubber Research Scheme, the Government Veterinary Surgeon, the Chairman Planters' Association of Ceylon, Sir Solomon Dias Bandaranaike, Gate Mudeliyar A. E. Rajapakse, Mudaliyar S. M. P. Vanderkoen, Messrs. H. L. de Mel, J. Forbes, R. G. Coombe, J. Horsfall, J. Titterington, J. Carson-Parker, J. B. Coles, J. Ferguson, F. H. Griffiths, C. A. M. de Silva, S. Pararajasingham, C. Drieberg, F. R. Dias, J. Sheridan-Patterson, L. F. Roundell, A. W. Warburton-Gray, W. S. Burnett, R. Murdoch, G. Pyper, J. P. Blackmore, D. J. Malcomson, C. H. Wilkinson, Wace de Niese, G. Pandithasekera, and T. H. Holland (*Secretary*).
+
+**Visitors.**—Messrs. R. N. Searancke, S. J. F. Dias, J. C. Drieberg, V. Canagaratnam, T. Sathasivam, J. I. Gnanamuttu, N. V. W. Pieris and G. Harbord.
+
+Letters or telegrams regretting inability to attend were received from the Government Agent, Southern Province, the Hon. Mr. D. H. Kotalawela, the Hon. Mr. C. E. Hawes, Messrs. A. T. Sydney-Smith, A. W. Reid, L. G. Byatt, N. D. S. Silva, C. Bouchier, A. W. Ruxton, R. de Zoysa, and H. W. Roy Bertrand.
+
+Before the business of the meeting started Mr. H. L. de Mel, on behalf of the Low-Country Products' Association, spoke a few words of welcome to Dr. Youngman.
+
+Mr. A. G. Baynham, on behalf of the Planters' Association of Ceylon, also welcomed Dr. Youngman and at the same time expressed the appreciation of the Association he represented of the services rendered by Dr. Small while acting as Director.
+
+Dr. Youngman spoke briefly in reply and identified himself with the expressions of appreciation of Dr. Small's work.
+
+#### AGENDA ITEM 1. CONFIRMATION OF MINUTES
+
+The minutes of the last meeting having been circulated to members were taken as read and confirmed.
+
+#### AGENDA ITEM 2. CO-OPTING OF MEMBERS
+
+The names of following new members of the Board of Agriculture were put before the meeting to be co-opted as members of the Estate Products Committee:
+
+Lt.-Col. G. O. Hunt, Messrs. L. G. Byatt, D. J. Malcomson, J. Carson-Parker, R. Smerdon, and G. Pandithasekera.
+
+53------------------------------------------------
+
+114
+
+At a later stage in the proceedings Mr. C. A. M. de Silva proposed and Mr. G. Pandithasekera seconded that Messrs. C. Rasanayagam and T. Sathasivam be co-opted as members of the Committee.
+
+All the above were co-opted as members.
+
+At this stage the Chairman said that quarterly returns of the collection of tortrix egg masses had been tabled and invited comments on these returns.
+
+Mr. J. P. Blackmore suggested that the pest had greatly decreased. He asked for information as to the state of affairs in Maskeliya and Dickoya.
+
+Mr. A. G. Baynham said that he had had the worst attack for some years in Dickoya.
+
+On the other hand members from Maskeliya, Dimbula, and Dickoya considered that the pest had considerably decreased.
+
+Mr. J. Forbes considered that it might now be definitely stated that the collection of egg masses had been beneficial.
+
+Dr. Norris said that the evidence of district planters' associations had been to the effect that collection was beneficial and he thought the present figures confirmed that view.
+
+The Chairman asked for an expression of opinion from the meeting as to the desirability of continuing the regulations.
+
+Mr. Wilkinson proposed and Mr. Coombe seconded that the regulations should remain in force.
+
+The meeting agreed to this course, no period of duration being specified.
+
+At a later stage Mr. R. G. Coombe questioned the accuracy of the figures for the Haputale district.
+
+The Chairman undertook to have these verified.
+
+### **AGENDA ITEM 3. PROGRESS REPORTS OF THE EXPERIMENT STATION, PERADENIYA, FOR THE MONTHS OF MARCH AND APRIL, AND MAY AND JUNE 1930**
+
+Mr. Holland reviewed both these reports.
+
+Mr. R. G. Coombe made an enquiry about the proposed pruning experiment which had been abandoned.
+
+Mr. Holland explained the circumstances that had led to the abandonment of the proposal.
+
+Mr. Coombe asked if the same style of pruning was being continued.
+
+Mr. Holland drew Mr. Coombe's attention to a section of the Progress Report in which it was stated that the pruning done in April this year was much lighter than the former practice.
+
+Mr. Titterington asked if there had been any signs of *Phytophthora* disease on budded rubber.
+
+Mr. Holland replied that this disease had not occurred at Peradeniya.
+
+Mr. O'Brien said that Mr. Murray had been successful in controlling the disease by spraying with Bordeaux mixture. In the case of a severe attack the only course was to cut off the affected part.
+
+54------------------------------------------------
+
+115
+
+Referring to the experiments in tapping rubber to death Mr. Burnett asked how the yield figures compared with those of Mr. Taylor.
+
+Mr. Holland replied that Mr. Taylor had only suggested a scheme of tapping to death, he had not quoted yields, but that even with the difficulties described it seemed possible that Mr. Taylor's estimated figure of two and a half times the normal yield would be achieved in a full year.
+
+Mr. Carson-Parker enquired if any difficulty had been found in controlling the height of *Indigofera endecaphylla* in tea; he expressed some apprehension on this point. He also remarked on the danger of snakes and said that he had found coolies were nervous of entering a field where a thick cover existed.
+
+Mr. Holland replied that he was never quite able to see the need for apprehension as to the height to which *Indigofera* would grow. His experience was that it grew to a height of perhaps eighteen inches and then remained stationary. He had a plot outside his office which was planted in 1923 and had not been touched since; the creeper had not increased in height since it first attained full growth. He admitted that snakes were a danger. Some time ago coolies on the Experiment Station had been averse to entering a field of *Indigofera* on account of snakes but this fear seemed now to have died down.
+
+Mr. R. N. Searancke, speaking of his experience with *Indigofera* on low-country tea, said he had found no trouble at all owing to the creeper growing too large and was perfectly satisfied with the creeper.
+
+Mr. J. P. Blackmore expressed apprehension of the danger of *Indigofera* growing up through the bushes and getting mixed with the tea leaf.
+
+Mr. Holland replied that the creeper certainly did grow up through the bushes but as it did not twine round or cling to the bush it was the easiest thing in the world to remove it by hand. On the Experiment Station the removal of the creeper from the bushes was the principal duty of weeding contractors and presented no difficulty whatever.
+
+Mr. Horsfall corroborated all that Mr. Holland said. He had found no difficulty in removing the creeper from tea bushes and found that contracts in fields under *Indigofera* were always the most popular. He alluded to an experiment he had tried at Mr. Stockdale's request. All the surface soil was scraped away from a patch and *Indigofera* cuttings planted in specially prepared holes. A few years later the whole patch was a mass of *Indigofera* and a thick layer of rich organic matter was found on the surface under the creeper. He was surprised to hear no member mention the cultural treatment of *Indigofera* which he considered of great importance.
+
+Another member suggested that *Indigofera* encouraged the growth of grasses.
+
+Mr. Holland said that couch grass certainly grew freely through *Indigofera* but this was one of the few weeds that would come through a thick cover.
+
+Other members were of the opinion that *Indigofera* was favourable to the growth of grasses.
+
+#### AGENDA ITEM 4. THE DECLARATION OF THE KALUTARA SNAIL AS A PEST
+
+The Chairman reviewed the history of this question. Mr. H. L. de Mel, at whose instance the matter had been put on the agenda, stated that he did not now wish to press for the declaration of the Kalutara snail as
+
+55------------------------------------------------
+
+116
+
+a pest. He said that in the latter part of last year snails had been particularly bad in the northern part of the Kurunegala district. Large numbers had undoubtedly been brought down by streams from the direction of North Matale and very serious damage had been done to cover crops established with imported seed at considerable expense. Concerted action, however, between planters and villagers in collecting the snails had produced satisfactory results.
+
+Dr. Norris enquired how the snails had been destroyed.
+
+Mr. de Mel said that they had been put into pits, smashed, and burnt.
+
+The Chairman mentioned that in countries where there was no objection to the taking of life snails could be dealt with to some extent by poisoned baits. Paris green, dusted on to any material attractive to snails, was largely used. He believed that Mr. Roy Bertrand had had some success with lime poisoned with Atlas preservative.
+
+Members from Galle and Kalutara gave it as their opinion that the pest was distinctly on the decrease.
+
+Mr. Warburton-Gray said that he had effected a marked improvement by removing all branches and other material which formed hiding places for snails.
+
+The Chairman remarked that it appeared advisable to leave individual estates to devise their own measures for combating the pest.
+
+#### **AGENDA ITEM 5. REPORT ON THE RAJAPAKSE KUMARA WANNIYAYA COCONUT TRIAL PLOTS**
+
+Reports on these trials, conducted by Gate Mudaliyar A. E. Rajapakse, had been circulated to members.
+
+Mudaliyar Rajapakse explained the objects of the trials and said that it was at present too early to form any definite conclusions. It was, however, indicated that manuring and cultivation resulted in palms coming into bearing earlier.
+
+The Chairman said he was sure the Committee were grateful to Mudaliyar Rajapakse for the information given and hoped he would continue these trials.
+
+Mudaliyar Rajapakse assured the meeting that the trials would be continued.
+
+Mr. Warburton-Gray suggested that it would add to the value of the experiments if records of the actual weight of copra from each plot were kept.
+
+Mr. C. A. M. de Silva asked Mudaliyar Rajapakse to include plots in which green material brought in from outside was buried.
+
+Mudaliyar Rajapakse undertook to do this.
+
+The Chairman then introduced the subject of the length of time taken from pollination to maturity in coconuts. This point seemed of great importance in estimating the results of manuring or green manuring. There appeared to be differences of opinion on the subject.
+
+Mr. Warburton-Gray said that the period was 12 to 13 months.
+
+Mr. Park said that Copeland in his book on the coconut gave the period as 13 months.
+
+Mr. Haigh said that Sampson's book gave one year as the period.
+
+56------------------------------------------------
+
+117
+
+Mr. Wace de Niese suggested that Mudaliyar Rajapakse, as a pioneer of coconut planting, would be able to give information from his records.
+
+Mudaliyar Rajapakse undertook to do so.
+
+#### **AGENDA ITEM 6. THE GREEN MANURING OF COCONUTS AND THE APPLICATION OF MANURES TO COCONUT PALMS**
+
+Mr. C. A. M. de Silva, at whose instance this subject was placed on the agenda, said that he wished to gather the experience of his fellow planters on the subject. He was personally of the opinion that the growing of green manures on coconut land had a definite retarding action on the palms and suggested that the bringing in of green materials from outside was preferable.
+
+Mr. Warburton-Gray said that he had grown green manures in coconuts for the past 10 years and had found that if the green crop was left alone there might be a slight depressing effect on crop but if the green manures were systematically ploughed in an increased crop resulted.
+
+Mr. H. L. de Mel disagreed with Mr. de Silva's view and said he had found that the growing of green manures resulted in increased vigour to the palms. He said that he could speak for a long time on the subject of green manuring of coconuts but hoped at some future date to submit a paper to the Committee on the subject.
+
+Mr. Wace de Niese suggested that Mr. de Mel should read his paper at the forthcoming Agricultural Conference. This suggestion met with general approval.
+
+#### **AGENDA ITEM 7. PUBLICATION OF RESULTS OF EXPERIMENTAL CULTIVATION OF TOBACCO**
+
+This item was included in the agenda at the request of Mr. H. L. de Mel and the Chairman asked Mr. de Mel to speak on the subject.
+
+Mr. de Mel dwelt on the enormous amount of money which was going out of the country to pay for imported tobacco. Many people were not aware that in Colombo cigarettes were being manufactured with imported tobacco. He suggested that this tobacco could be grown in the country. He was glad to note from the figures which were tabled, the large expansion of the growing of White Burley tobacco which had taken place in the Jaffna Peninsula. He thought that there was a possibility of White Burley having deteriorated and suggested the importation of fresh seed.
+
+The Chairman called attention to the samples of White Burley which were exhibited. The last crop was reported to be one of the best from the point of view of quality that had ever been grown in the Island and the Department would shortly have twenty thousand pounds of this tobacco for disposal. He did not agree with Mr. de Mel on the question of deterioration and thought that the quality of the last crop showed the value of acclimatised seed. He explained the economic factors which governed the tobacco industry in Jaffna. The chewing tobacco grown was mostly exported to Travancore and the Travancore Government, in the interests of their own cultivators, restricted the quantity which was allowed to be
+
+57------------------------------------------------
+
+118
+
+imported to 5745 candies per annum. The growing of White Burley acted as a safeguard since if the Jaffna cultivators saw that the crop of chewing was likely to be in excess of the quantity allowed to be exported more White Burley was sown. It was therefore essential that the growing of White Burley should be continued. He quoted extracts from a letter from the Divisional Agricultural Officer, Northern Division, who held the opinion that the continuation of the subsidising of White Burley cultivation was essential to the well-being of the Jaffna tobacco industry. The Chairman was of the opinion that it would be desirable to attempt to negotiate with the Travancore Government to secure a modification of the import regulations. These regulations operated unfairly against the Ceylon cultivators since the free importation of chewing tobacco from the Madras Presidency seemed to be allowed.
+
+Mr. de Mel spoke on the possibility of the establishment of a cigarette manufacturing industry in Ceylon from locally-grown tobacco.
+
+The Chairman assured Mr. de Mel that the Department would give all possible help and encouragement.
+
+Mr. Burnett enquired if the White Burley samples shown were suitable for wrappers.
+
+The Chairman replied in the affirmative and said that the only objections to the tobacco so far raised were its rather high chlorine content and its liability to absorb moisture.
+
+T. H. HOLLAND,  
+Secretary,  
+Estate Products Committee.
+
+58------------------------------------------------
+
+119
+
+## DEPARTMENTAL NOTES
+
+---
+
+### KURUNEGALA TOWN PADDY WEEDING COMPETITION, MAHA SEASON, 1929-30
+
+---
+
+A paddy weeding competition was held in Kurunegala Town. There were 15 entrants. Each competitor was required to weed one pela sowing extent of field and supply all vacancies. Most of the cultivators ploughed their fields twice, and some thrice and even four times. Cattle manure, green leaves and ash were applied by some competitors. On the whole the work done by the competitors was very satisfactory.
+
+The following were adjudged prize winners :
+
+<table>
+<tbody>
+<tr>
+<td>1st prize</td>
+<td>Galagedera Horatala</td>
+<td>...</td>
+<td>Rs. 20.00</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>„ J. P. Horatala</td>
+<td>...</td>
+<td>„ 12.50</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>„ K. H. Dingira</td>
+<td>...</td>
+<td>„ 10.00</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>„ K. H. Sasira</td>
+<td>...</td>
+<td>„ 7.50</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+### DEMALA HAT PATTU AND PUTTALAM PATTU PADDY CULTIVATION COMPETITION, MAHA SEASON, 1929-30
+
+---
+
+HERE were thirty entrants to the above competition. In Puttalam Pattu the competition was limited to cultivators of Rajakumara Wanni Pattu.
+
+Some competitors ploughed their fields thrice and others twice, while some applied cattle and green manure.
+
+The preliminary judging was done in February when eight names were selected for the final judging.
+
+The following were adjudged prize winners :
+
+<table>
+<tbody>
+<tr>
+<td>1st prize</td>
+<td>C. P. Gunasekera</td>
+<td>...</td>
+<td>Rs. 30.00</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>„ Menikrala Vithanelage Herathhamy</td>
+<td>„</td>
+<td>20.00</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>„ Punchi Banda Arachchi</td>
+<td>...</td>
+<td>„ 15.00</td>
+</tr>
+</tbody>
+</table>
+
+59------------------------------------------------
+
+120
+
+## MEDICINAL HERBS CULTIVATION COMPETITION, NORTHERN DIVISION
+
+**T**HE above competition for prize offered by Veda Mudaliyar W. D. Fernando Vaidyasekera of Panadure, organized in the North-Central Province among registered school gardens was judged by the Manager, Experiment Station, Anuradhapura, assisted by the Agricultural Instructor, North-Central Province.
+
+12 out of 63 registered school gardens entered the competition. Six of these gardens took a keen interest, and grew more than a hundred varieties of herbs. The plots had been well arranged and maintained in a satisfactory condition.
+
+### JAFFNA DISTRICT
+
+Of the eleven registered school gardens in the district four entered the competition. All of them took a keen interest and grew more than 50 varieties of herbs, and the Kopay Training School had over 300 varieties grown. The plots were maintained in a satisfactory condition, and the children were able to identify the varieties and explain their uses. The final judging was carried out by the Divisional Agricultural Officer, Northern Division, assisted by the Agricultural Instructor, Jaffna East.
+
+The judging resulted as follows :
+
+### NORTH-CENTRAL PROVINCE
+
+1. 1. A/Maha Elagamuwa, V.M.S.
+2. 2. A/Comboddannawa, V.M.S.
+3. 3. A/Eppawela, V.M.S.
+
+### JAFFNA DISTRICT
+
+The Kopay Training School, Jaffna.
+
+The prizes of Rs. 50/- each will be awarded to J/Kopay Training School in the Jaffna District and to A/Maha Elagamuwa, V.M.S. in the North-Central Province.
+
+60------------------------------------------------
+
+121
+
+## BRITO-BABAPULLE GOLD MEDAL FOR PLANTAIN CULTIVATION IN THE KURUNEGALA DISTRICT
+
+**T**HE competition for the Gold Medal offered by Dr. Brito-Babapulle for Plantain Cultivation was organised in May, 1929, and was restricted to members of registered Co-operative Societies in the Kurunegala District, when 29 cultivators took part.
+
+Each competitor was required to cultivate at least half an acre with such varieties of plantain as would yield the largest return, if sold.
+
+In most cases the bushes were vigorous in growth. Great enthusiasm was displayed at the outset and some competitors began by penning cattle and buffaloes as is done on coconut estates.
+
+The final judging was done by the Divisional Agricultural Officer, North-Western, at which Mr. H. M. D. Banda, Head Teacher of the Medamulla, Government Vernacular School, was adjudged the winner of the Gold Medal.
+
+## MEDICINAL HERBS CULTIVATION COMPETITION, NEGOMBO DISTRICT
+
+**T**HE above competition for prizes to the value of Rs. 100/- offered by Veda Mudaliyar Daniel Fernando Waidyasekera of Panadura, was organised for the first time towards the end of last year among school gardens in the Negombo District with the object of encouraging the cultivation of medicinal herbs, when there were 13 entrants. Much enthusiasm was shown by practically all the schools, some cultivating as many as three hundred varieties of both terrestrial and aquatic herbs.
+
+The final judging was done early this year by the Divisional Agricultural Officer, South-Western, when the following schools were adjudged prize winners :
+
+<table style="width: 100%; border-collapse: collapse;">
+<tbody>
+<tr>
+<td style="width: 25%;">First prize</td>
+<td style="width: 10%;">...</td>
+<td style="width: 30%;">Denewita</td>
+<td style="width: 10%;">...</td>
+<td style="width: 25%;">Rs. 40/-</td>
+</tr>
+<tr>
+<td>Second ,,</td>
+<td>...</td>
+<td>Vigoda</td>
+<td>...</td>
+<td>,, 30/-</td>
+</tr>
+<tr>
+<td>Third ,,</td>
+<td>...</td>
+<td>Heendeniya</td>
+<td>...</td>
+<td>,, 20/-</td>
+</tr>
+<tr>
+<td>Fourth ,,</td>
+<td>...</td>
+<td>Horampella</td>
+<td>...</td>
+<td>,, 10/-</td>
+</tr>
+</tbody>
+</table>
+
+61------------------------------------------------
+
+122
+
+## PADDY CULTIVATION COMPETITION, MULLAITIVU DISTRICT
+
+**A** paddy cultivation competition was organised by the Food Products Committee, Mullaitivu, during the Kalapokum Crop, 1929-30. It was decided to award ceres ploughs to the winners instead of cash prizes with a view to improve tillage conditions of the Wanni districts by the introduction of iron ploughs.
+
+A large number of cultivators took part in the competition. The fields were well cultivated and manured and the competitors showed keen interest in the cultivation, and obtained good yields.
+
+The final judging was carried out by the Assistant Government Agent, Mullaitivu, the Divisional Agricultural Officer, Northern, and Mr. N. D. Swaminathan, Proctor, when the following were adjudged prize winners:
+
+### MARITIME PATTU
+
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 25%;">1st prize</td>
+<td style="width: 10%;">...</td>
+<td style="width: 65%;">Velupillai Supramanium</td>
+</tr>
+<tr>
+<td>2nd ,,</td>
+<td>...</td>
+<td>S. M. Eliyathamby</td>
+</tr>
+</table>
+
+### VAVUNIYA NORTH
+
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 25%;">1st prize</td>
+<td style="width: 10%;">...</td>
+<td style="width: 65%;">Velupillai Kandiah</td>
+</tr>
+</table>
+
+### VAVUNIYA SOUTH
+
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 25%;">1st prize</td>
+<td style="width: 10%;">...</td>
+<td style="width: 65%;">K. Thambirajah</td>
+</tr>
+</table>
+
+Sinniah Ramasamy and S. D. Hin Banda highly commended.
+
+62------------------------------------------------
+
+123
+
+## ANIMAL DISEASE RETURN FOR THE MONTH ENDED 31st JULY, 1930
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to Date since Jan. 1st 1930</th>
+<th>Fresh Cases</th>
+<th>Recoveries</th>
+<th>Deaths</th>
+<th>Balance III</th>
+<th>No. Shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Western</td>
+<td>Rinderpest</td>
+<td>627</td>
+<td>32</td>
+<td>121</td>
+<td>428</td>
+<td>2</td>
+<td>76</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>262</td>
+<td>8</td>
+<td>252</td>
+<td>10</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>443</td>
+<td>...</td>
+<td>430</td>
+<td>12</td>
+<td>...</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>8</td>
+<td>7</td>
+<td>...</td>
+<td>8</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Cattle Quarantine Station</td>
+<td>Rabies (Dogs)</td>
+<td>9</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>361*</td>
+<td>65</td>
+<td>...</td>
+<td>361</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Central</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>648</td>
+<td>5</td>
+<td>646</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>2</td>
+<td>1 †</td>
+<td>...</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>4</td>
+<td>...</td>
+<td>1</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+<td>4</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td rowspan="4">Southern</td>
+<td>Rinderpest</td>
+<td>149</td>
+<td>27</td>
+<td>21</td>
+<td>126</td>
+<td>2</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>269</td>
+<td>...</td>
+<td>263</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Northern</td>
+<td>Rinderpest</td>
+<td>4</td>
+<td>...</td>
+<td>3</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>2975</td>
+<td>...</td>
+<td>2905</td>
+<td>70</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>182</td>
+<td>56</td>
+<td>...</td>
+<td>182</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>3</td>
+</tr>
+<tr>
+<td rowspan="3">Eastern</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>100</td>
+<td>...</td>
+<td>98</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">North-Western</td>
+<td>Rinderpest</td>
+<td>4136</td>
+<td>275</td>
+<td>216</td>
+<td>3129</td>
+<td>31</td>
+<td>760</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>130</td>
+<td>60</td>
+<td>128</td>
+<td>...</td>
+<td>2</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Pleuro-Pneumonia (in Goats)</td>
+<td>50</td>
+<td>...</td>
+<td>...</td>
+<td>50</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">North-Central</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>1069</td>
+<td>...</td>
+<td>1045</td>
+<td>24</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Uva</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>72</td>
+<td>...</td>
+<td>72</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Sabaragamuwa</td>
+<td>Rinderpest</td>
+<td>63</td>
+<td>3</td>
+<td>7</td>
+<td>54</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>1367</td>
+<td>72</td>
+<td>1324</td>
+<td>10</td>
+<td>33</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>9</td>
+<td>...</td>
+<td>...</td>
+<td>9</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>12</td>
+<td>3</td>
+<td>...</td>
+<td>4</td>
+<td>...</td>
+<td>8</td>
+</tr>
+</tbody>
+</table>
+
+\* 1 case in a buffaloe.
+
+† A suspected case.
+
+G. V. S. Office,  
+Colombo, 12th August, 1930.
+
+G. W. STURGESS,  
+Government Veterinary Surgeon.
+
+63------------------------------------------------
+
+124
+
+# METEOROLOGICAL REPORT
+
+JULY, 1930
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Station</th>
+<th colspan="4">Temperature</th>
+<th colspan="2">Humidity</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="4">Rainfall</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Inches</th>
+<th></th>
+<th>Inches</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo</td>
+<td>84.9</td>
+<td>+0.4</td>
+<td>77.9</td>
+<td>+1.5</td>
+<td>76</td>
+<td>84</td>
+<td>7.8</td>
+<td>1.12</td>
+<td>11</td>
+<td>- 5.16</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>86.5</td>
+<td>+1.4</td>
+<td>78.3</td>
+<td>+1.2</td>
+<td>74</td>
+<td>85</td>
+<td>5.6</td>
+<td>0.00</td>
+<td>0</td>
+<td>- 0.81</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>88.2</td>
+<td>+0.4</td>
+<td>79.2</td>
+<td>+0.5</td>
+<td>72</td>
+<td>85</td>
+<td>7.2</td>
+<td>0.23</td>
+<td>2</td>
+<td>- 0.15</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>86.8</td>
+<td>+1.8</td>
+<td>79.6</td>
+<td>+0.1</td>
+<td>78</td>
+<td>85</td>
+<td>4.4</td>
+<td>0.16</td>
+<td>1</td>
+<td>- 0.71</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>92.5</td>
+<td>+1.3</td>
+<td>77.5</td>
+<td>+0.3</td>
+<td>61</td>
+<td>80</td>
+<td>5.8</td>
+<td>3.00</td>
+<td>7</td>
+<td>+ 0.94</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>92.6</td>
+<td>+0.6</td>
+<td>76.3</td>
+<td>+0.4</td>
+<td>64</td>
+<td>82</td>
+<td>5.1</td>
+<td>0.17</td>
+<td>1</td>
+<td>- 1.04</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>88.8</td>
+<td>+1.5</td>
+<td>76.6</td>
+<td>+1.2</td>
+<td>71</td>
+<td>86</td>
+<td>3.5</td>
+<td>0.10</td>
+<td>2</td>
+<td>- 1.68</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>83.3</td>
+<td>+0.4</td>
+<td>77.7</td>
+<td>+1.2</td>
+<td>83</td>
+<td>86</td>
+<td>6.4</td>
+<td>2.22</td>
+<td>16</td>
+<td>- 3.88</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>87.6</td>
+<td>+2.5</td>
+<td>75.0</td>
+<td>+0.2</td>
+<td>70</td>
+<td>91</td>
+<td>6.2</td>
+<td>3.06</td>
+<td>22</td>
+<td>- 9.63</td>
+</tr>
+<tr>
+<td>A'pura</td>
+<td>92.0</td>
+<td>+1.4</td>
+<td>75.8</td>
+<td>0</td>
+<td>61</td>
+<td>91</td>
+<td>5.8</td>
+<td>0.00</td>
+<td>0</td>
+<td>- 1.31</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>87.7</td>
+<td>+1.8</td>
+<td>75.7</td>
+<td>+0.8</td>
+<td>70</td>
+<td>86</td>
+<td>7.6</td>
+<td>0.36</td>
+<td>10</td>
+<td>- 3.75</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>84.7</td>
+<td>+4.0</td>
+<td>71.4</td>
+<td>+0.9</td>
+<td>69</td>
+<td>85</td>
+<td>6.4</td>
+<td>1.06</td>
+<td>10</td>
+<td>- 6.49</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>86.9</td>
+<td>+1.4</td>
+<td>63.0</td>
+<td>-0.9</td>
+<td>58</td>
+<td>91</td>
+<td>4.8</td>
+<td>0.26</td>
+<td>1</td>
+<td>- 1.77</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>78.7</td>
+<td>+1.3</td>
+<td>60.0</td>
+<td>-2.3</td>
+<td>55</td>
+<td>75</td>
+<td>5.4</td>
+<td>0.60</td>
+<td>3</td>
+<td>- 1.39</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>70.8</td>
+<td>+3.3</td>
+<td>57.3</td>
+<td>+1.1</td>
+<td>72</td>
+<td>86</td>
+<td>5.0</td>
+<td>2.20</td>
+<td>13</td>
+<td>- 4.72</td>
+</tr>
+<tr>
+<td>N'Eliya</td>
+<td>67.8</td>
+<td>+3.8</td>
+<td>54.3</td>
+<td>+1.2</td>
+<td>74</td>
+<td>88</td>
+<td>7.0</td>
+<td>5.63</td>
+<td>15</td>
+<td>- 6.35</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall of July was consistently in deficit throughout. The stations on the windward side of the main hills that recorded the most, were also the ones that showed greatest deficits below their own averages, *e.g.*, Watawala, with 15.29 inches, had the highest total, but was only half way to its July average of 30.60.
+
+Deficits of more than ten inches were general in the districts of Pussellawa, Ambegamuwa, Dickoya and the upper part of the Kelani Valley, while deficits of at least 5 inches were common in the Western Province, Sab., and the western half of the Southern Province.
+
+Small deficits were also the general rule in the parts of the island where the July averages are low. Stations at which no rain was recorded throughout the month were chiefly located in the N.C.P., the Jaffna Peninsula, the northern parts of the N.W.P. and Uva, and the southern half of the Eastern Province.
+
+The highest total reported in a day was 3.62 inches at Watawala on the 24th. The few stations that reached their average were chiefly in the Trincomalee district.
+
+Temperatures, and the duration of Sunshine, were above average in nearly all cases, and Humidities as consistently below theirs, the only exceptions being on the east coast.
+
+Pressure was above average. Total wind movement was slightly below average in the north, though some of the up-country stations experienced some very strong wind.
+
+A. J. BAMFORD,  
+Superintendent, Observatory.

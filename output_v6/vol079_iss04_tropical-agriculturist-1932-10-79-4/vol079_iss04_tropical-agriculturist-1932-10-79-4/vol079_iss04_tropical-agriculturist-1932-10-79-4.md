@@ -1,0 +1,3258 @@
+The
+
+# Tropical Agriculturist
+
+VOL. LXXIX
+
+PERADENIYA, OCTOBER, 1932.
+
+No. 4
+
+<table><thead><tr><th></th><th style="text-align: right;">Page</th></tr></thead><tbody><tr><td>Editorial ... ..</td><td style="text-align: right;">201</td></tr></tbody></table>
+
+## ORIGINAL ARTICLES
+
+<table><tbody><tr><td>The Cultivation of Fruits in Ceylon with Cultural Details—V.<br/>By T. H. Parsons, F.L.S., F.R.H.S. ....</td><td style="text-align: right; vertical-align: bottom;">203</td></tr><tr><td>A Rubber Manurial Experiment. By T. H. Holland, Dip. Agric.<br/>(Wye), and A. W. R. Joachim, Ph.D., B.Sc. (Lond.),<br/>F.I.C., Dip. Agric. (Cantab.) ... ..</td><td style="text-align: right; vertical-align: bottom;">210</td></tr></tbody></table>
+
+## SELECTED ARTICLES
+
+<table><tbody><tr><td>The Forestry System of Rubber Planting ... ..</td><td style="text-align: right;">220</td></tr><tr><td>The World Rice Situation ... ..</td><td style="text-align: right;">228</td></tr><tr><td>Tropical Agriculture then and now ... ..</td><td style="text-align: right;">236</td></tr><tr><td>Mosquito Remedies and Preventives ... ..</td><td style="text-align: right;">243</td></tr></tbody></table>
+
+## MEETINGS, CONFERENCES, ETC.
+
+<table><tbody><tr><td>Minutes of Meeting of the Board of Management of the Coconut<br/>Research Scheme (Ceylon) ... ..</td><td style="text-align: right;">250</td></tr><tr><td>Minutes of Meeting of the Board of the Tea Research Institute<br/>of Ceylon ... ..</td><td style="text-align: right;">253</td></tr></tbody></table>
+
+## DEPARTMENTAL NOTES
+
+<table><tbody><tr><td>Progress Report of the Experiment Station, Peradeniya, for the<br/>Months of July and August, 1932. ... ..</td><td style="text-align: right;">257</td></tr></tbody></table>
+
+## RETURNS
+
+<table><tbody><tr><td>Animal Disease Return for the Month ended September, 1932.</td><td style="text-align: right;">260</td></tr><tr><td>Meteorological Report for the Month ended September, 1932. ...</td><td style="text-align: right;">261</td></tr></tbody></table>
+
+1------------------------------------------------
+
+*Of great interest to those engaged in the  
+cultivation of plantation crops.*
+
+# A MANUAL OF GREEN MANURING
+
+Being a reprint of articles published in  
+*The Tropical Agriculturist* by the  
+Staff of the Department of  
+Agriculture, Ceylon.
+
+*34 Illustrations and Figures*
+
+Price Rs. 5/-
+
+— • • • —
+
+*Obtainable from:*
+
+**THE MANAGER, PUBLICATION DEPOT,  
+PERADENIYA.**
+
+2------------------------------------------------
+
+# The Tropical Agriculturist
+
+October, 1932
+
+---
+
+## EDITORIAL
+
+---
+
+### LIVE-STOCK IMPROVEMENT IN CEYLON
+
+---
+
+ONE of the outstanding features in Ceylon agriculture is the small amount of attention given to live-stock. The villager makes no attempt to stall his animals at night and rarely to herd them by day. There is little or no attempt at the production of dairy produce. There is a very wide complaint about the absence of village pasture and very laborious operations are yearly undertaken to fence the paddy fields against nomadic cattle. In the neighbourhood of some of our towns there is a little effort to maintain stall-fed milking herds on rice straw, and watergrass, but the plough buffalo in the villages is rarely fed except perhaps at harvest time, at other times he having to fend for himself. There is no provision in such system of agriculture as exists for any adequate accessory ration for the peasants' cattle. Our coconut plantations provide opportunity for enclosed grazing grounds for large numbers of cattle and goats, scrub jungle exists in many parts suitable for browsing, the poonac of our oil mills is here in large quantity, and much of our dry land could be made to produce its quota of fodder. In spite of these opportunities the neglect of animal husbandry is amazing. Possibly this is due in large measure to the ample supply of coconut oil having diverted attention from butter fats.
+
+In almost all other agricultural countries the provision of fodder for his stock is an operation in the farmer's calendar second only in importance to that of harvesting the source of domestic food. Unlike the peasant in other lands, the Ceylon villager has become accustomed to do without any milk supply. Milk, curds, cheese, or butter fat do not enter universally into the diet here and for this in large measure the reason is to be found in the coconut. Milk usually such an essential sustenance for the sick is substituted in Ceylon by a gruel or "congee".
+
+3------------------------------------------------
+
+202
+
+Beef, goat flesh, and even mutton are in many Eastern countries only secondary by-products as it were to the domestic milk supply.
+
+In Ceylon there is no herd winding homeward o'er the lea to the milking sheds in the evening where it will find the provision of some fodder awaiting it and being the true cause of its return home. The buffalo, we are often told, prefers to roam at large because it *must* wallow in the mire, as though this latter performance by day were incompatible with stall feeding and shelter at night. Our forests are simply roaming places for cattle, they serve no function of the supply of grass for cut fodder which can be stored at a suitable season and used in time of fodder scarcity.
+
+The sole support of cattle at present is by grazing and yet good grazing land is the more scarce because of this sole method of support. In only a few parts of the Island, such as Tamanakaduwa is the pasturage of a nature that will produce good neat stock.
+
+With this roaming at large is associated the spread and terrible devastations of disease such as rinderpest amongst our cattle. Live-stock improvement and multiplication in Ceylon is thus handicapped with difficulties almost peculiar to the Island. The first thing that must be done is to inculcate the practice of stall feeding, perhaps with this would come an increasing use of milk in the villages. Improved feeding would alone go a long way to effect improved breeding. It would probably demonstrate that our indigenous live-stock are not entirely bereft of good points provided they be brought out.
+
+Colonization schemes under large tanks may offer opportunity for such improvement in animal husbandry. The demand for milk and meat is at present from the towns. An increased appreciation of the value of milk by the country people themselves is an essential to the meeting of this demand. Advance, anyhow, will be slow but this is an opportunity for the advocates of infant welfare, rural reconstruction societies and the education imparted in our schools to aid in the development of the country side and incidentally the food supply of our towns.
+
+4------------------------------------------------
+
+203
+
+## THE CULTIVATION OF FRUITS IN CEYLON WITH CULTURAL DETAILS—V
+
+T. H. PARSONS, F.L.S., F.R.H.S.,
+
+CURATOR,
+
+ROYAL BOTANIC GARDENS, PERADENIYA
+
+### GROUP E
+
+#### UP-COUNTRY (4,000 FEET AND OVER)
+
+(1) CHERIMOYA (*Anona Cherimolia*).—A superior member of the Sugar apple, Soursop, and Custard apple group and appears so little known in Ceylon as to be almost non-existent, yet the fruit is probably one of the most delicious that could be grown in mid- to up-country regions.
+
+As a dessert fruit it has few equals and from a horticultural point of view the fruit has great possibilities provided, as in all other good fruits grown commercially, due attention is given to cultivation and the selection for propagation of only the best varieties.
+
+The Cherimoya is a small, erect, and often a spreading tree attaining a height when fully grown of 20 feet, with leaves 4 to 6 inches long, the under surface being soft and hairy, a character distinguishing it from most other Anonas. The flowers are fragrant, hanging in clusters of twos and threes and are greenish to pale-yellow. The fruit varies in shape but is mostly heart shape and irregular in form and 4 to 5 inches in diameter, choice individual fruits often weighing 3 lb. or more. The surface of the fruit is smooth in some cases and in others covered with conical protuberances and is light-green in colour. The skin is thin, necessitating care in the handling of the ripe fruit, whilst the flesh is white in colour, sub-acid, juicy and delicate, suggestive of the Pineapple and the Banana and is of butter-like texture. The seeds are deep brown to black and embedded in the pulp from which they are easily separated in the ripe fruit.
+
+The localities where this fruit is grown on any scale comprise the Canary Islands, Madeira, the central plateau of Mexico, the highlands of Central America, Argentine and latterly in South California. It is apparent, therefore, that mid- to up-country conditions in Ceylon are required for its cultivation and little success with the Cherimoya can be expected below 3,000 feet. It thrives best where the climate is comparatively dry
+
+5------------------------------------------------
+
+204
+
+but grows well also in the wet zone where monsoon conditions are not too extreme and many districts up-country are suited to its cultivation.
+
+The tree prefers a rich loamy soil but can be grown in soil of many different types and a gravelly soil, if of any depth, is also well suited to it. As with other fruits good drainage is essential and this particularly applies if grown in the up-country wet zones.
+
+Propagation in many regions is by seed but when grown on any large scale budding and grafting methods are employed. The scarcity of this fruit in general cultivation at the moment is doubtless due, not to any fault in the fruit, nor to any difficulty in adaptation to particular soil but to the perpetration of inferior seedlings whereby its true quality is not attained or realized. It cannot be too strongly emphasised that the multiplication of so many of our fruits from seed cannot be recommended.
+
+In the regions where it has reached a high state of perfection as in Madeira and the Canary Islands, the methods employed of selective propagation by budding and grafting can be termed the main contributive factor to such success, and it is only by these or similar means of propagation that desirable forms of the best quality can be perpetuated.
+
+In South California the Cherimoya is budded on to its own seedlings and because of the hardness of the species this method should be employed at elevations of 4,500 feet and over in Ceylon. Under this elevation the tree would in all probability do better when budded on a more tropical stock such as the Soursop or Bullock's heart, such having been budded successfully at Peradeniya, and are most vigorous and satisfactory. At the minimum, the stock plant should be half-an-inch in diameter at the base at the time of budding—the seedling takes from one to one and a half years to attain these dimensions—and buddings at 6 to 8 inches from the ground and on the inverted "T" method have proved very successful, care being taken to rebind the bud shield after the bud has taken, but leaving the bud itself exposed, otherwise the bark of the stock is apt to curl back and dry and the new bud shield is thereby too exposed, and a number will die back.
+
+Good healthy shoots of about one year's growth and from which the leaves have dropped are most desirable for budwood, and bud shields of at least one inch in length should be used.
+
+When the intention is to propagate by seedlings, only the largest and plumpest seed from selected fruit should be sown. Though the Cherimoya seed retains its vitality over a long period it is always advisable to sow at once after extracting from the
+
+6------------------------------------------------
+
+205
+
+fruit if possible, single seeds being planted at a depth of three-quarter of an inch in bamboo pots or baskets, in a well-prepared sandy soil. Germination takes place at from 4 to 5 weeks and the plant can be put into its permanent position when the seedling attains 12 to 18 months of age.
+
+Planting distances vary from 15 feet by 15 feet to 20 feet by 20 feet, the latter for seedling plants since these reach larger dimensions at maturity than budded or grafted plants, and holes 3 feet by 2 feet should be dug and well-rotted cattle manure incorporated with the soil in refilling the holes.
+
+A standard form of tree should be encouraged and regular pruning and manuring is required, the former in the removal of all unnecessary growth where such is thick and the latter by good dressings of well-rotted cattle manure just prior to the monsoons. Though not immune from attacks by insects and diseases the tree is more free from such than most other fruit trees.
+
+The first crop of fruits in any favourable locality can be expected at 4 to 5 years of age and the main season for fruiting in Ceylon is October-November but this should be extended as the scope of its cultivation to milder areas and varying elevation is attained. The tree is not at the best a heavy fruiter and many seedlings fruit so poorly as to scarcely warrant the room they occupy and these could with advantage be cut back hard and the young offshoots budded with superior material since there are known good yielders of excellent quality already in Ceylon.
+
+There are few definite horticultural varieties of this fruit at present, the "Mammillate" form which is already represented in Ceylon and the "Golden Russet" being the best known. The former is grown on a large scale in Madeira and here and there in the Nilgiri Hills.
+
+Of recent years hybridisation has been undertaken with the various other species of *Anona* and a successful hybrid between the *Cherimoya* and the Sugar or Custard apple has been obtained in Florida by the late Mr. P. J. Wester and designated the "Atamoya". This hybrid was procured by the late Ceylon Agricultural Society through Mr. C. Drieberg and trees of this should be existent in Ceylon. It is reported by Wester to give fruits very similar to the *Cherimoya* but smaller, being sweet, juicy, sub-acid, and of excellent quality, but a shy bearer, and that the tree is of rapid growth, adapted to low and medium elevations where the dry season is pronounced.
+
+(2) PEACH (*Prunus Persica*).—A well-known fruit common to temperate and sub-tropical countries but has not in general been given much attention in the highlands of the tropics. The
+
+7------------------------------------------------
+
+206
+
+present Ceylon variety bears at best a poor fruit, due principally to poor cultivation and the lack of any form of selection.
+
+The tree is a small one, indigenous to China, of handsome foliage and a particularly pretty tree when in flower. The fruits are varyingly shaped, from flattened to roundish or beaked, often 3 inches in diameter, yellowish to red when ripe and of delicious flavour, being fleshy, juicy, and sub-acid when grown in a suitable environment.
+
+Although this standard is doubtful of attainment in up-country regions of Ceylon yet much improvement is possible by acclimatisation of better varieties than we at present possess and by grafting such on stocks already established and suitable to this fruit in Ceylon.
+
+The tree grows well at elevations of 4,000 feet and over, the best results being attained in the drier areas than in the wet and when protected from the South-West winds. Past experiments at Hakgala show that good varieties of Peach grow well and bear heavy crops but that the ripening season coinciding as it does with the burst of the South-West monsoon most of the fruit is blown off and the trees damaged. Protection from strong winds is, therefore, a very essential point to be borne in mind and choice of site in areas beyond the scope of the South-West monsoon, or protection from it is an advantage gained.
+
+The Peach succeeds on a wide range of soils but thrives best on a gravelly to sandy loam. Good drainage is essential and any heavy and poorly drained soil should always be avoided.
+
+Where the tree is grown commercially propagation is, practically without exception, by budding on seedling stock, though occasionally buddings on to the Plum and Cherry stocks have been made, but this has on certain varieties been found to dwarf the tree and render it susceptible to various stock troubles. The Up-Country peach possesses all the qualities required for a stock and can with advantage be used to establish the better quality varieties. The Up-Country Cherry (*Prunus puddum*) grows remarkably well around Nuwara Eliya, forms a robust tree and fruits at periods, usually February-March, but is by no means an edible fruit. Seedlings of this tree should, however, prove an additional stock on which to experiment in budding and grafting members of the plum tribe.
+
+The peach presents little difficulty in propagation either by seed or by cuttings and the latter is the means generally adopted in Ceylon. With a poor type of fruit tree, however, propagation by cuttings cannot improve but merely perpetuate the variety and, since the quality of the Ceylon Peach is poor, an improvement is certainly called for.
+
+8------------------------------------------------
+
+207
+
+The nursery procedure when these fruits are grown on any scale is to select the best viable seed and sow in drills, later thinning out to 6 inches to 9 inches apart and allowed to grow with good cultivation till they attain a height of 2 feet to  $2\frac{1}{2}$  feet when they are in a condition for budding. Both the "T" and inverted "T" methods are used, buddings being at 9 inches to one foot up the stem, and as the new bud sprouts the head of the seedling is cut back just above the inserted bud and all shoots developing from buds on the stock itself are kept rubbed off. When the budded plant attains a height of 3 feet, transplanting to a permanent site can be undertaken, planting distances of 18 feet by 18 feet being sufficient for most varieties. If planted on any large scale vegetable crops may be grown between the rows of young peach trees for the first and second year after which the practice is of doubtful economy.
+
+Good cultivation pays, and a large proportion of vegetable matter in the soil is an important factor in the production of large fruit, especially during the dry season. Liberal supplies of cattle manure and all residues of catch crops, if any, should be periodically dug in.
+
+With regard to pruning, nothing will more quickly bring a peach tree to a premature end than not to prune. Low-headed trees are the rule in most countries, the main stem rarely exceeding 18 inches to 20 inches from the ground. To attain this the young budded plant on being transplanted to a permanent site should be cut back to about 24 inches from the ground. The following year the branches forming the head should be confined to not more than four or five, the ends of these shortened and all laterals removed, no central leader being allowed to eventually shut out light from the centre of the tree. By this means a sturdy and a stocky branch system is obtained and subsequent prunings consist of sufficient cutting to maintain an open centre, and the shortening of the leading shoots to maintain a uniform shaped tree.
+
+Peach trees, both budded and seedling, can be expected to fruit in their fourth year. A point to remember in Peach growing is that rate and character of growth has much to do with fruit production. Good growth should always be encouraged, hence the suggestion of ample manure and humus to the soil. The Peach produces its fruit buds upon the one year old growth of the most vigorous shoots, and all such should be encouraged.
+
+Crops vary according to soil, elevation, and the amount of attention given them in cultivation, but normally the Peach tree is a heavy cropper and a regular thinning out of small fruits is practised where grown for market purposes.
+
+9------------------------------------------------
+
+208
+
+Each country has its own favourite varieties of both the cling and freestone types, those common to most including Japan and Australia, being the "Royal George", "Hale's Early", "Early Imperial", "Early Red", "Briggs Red May", and "Tuscan", all on seedling peach stocks.
+
+(3) BLACKBERRY (*Rubus fruticosus*).—The cultivated Blackberries are the progeny of several species of the genus *Rubus* and certain imported varieties have been grown most successfully at elevations of 4,000 feet and above in Ceylon. The Ceylon Blackberry (*Rubus moluccanus* var. *macrocarpus*) bears a fruit large and juicy and when ripe is of very good flavour but is not, in general, up to the standard of the improved varieties.
+
+The plant is a thorny and straggly to erect growing, perennial, bearing large black and juicy berries up to an inch or more in diameter. In nature the blackberry propagates itself from suckers and under cultivation this method is to be recommended, by division of the roots.
+
+A few types, however, and mostly of the more choice varieties, produce but few suckers and the progress in propagation of these is a slow process, but free suckering is the general rule. English Blackberries have been very successfully grown at Hakgala (*Rubus mucronatus*), among others, growing and fruiting well at that elevation, and as far back as 1890 the late Superintendent of Hakgala Gardens reported that they had borne a quantity of good-sized well-flavoured fruit, one panicle having 32 berries, the largest of which was nearly  $2\frac{1}{2}$  inches circumference, comparing very favourably with English grown fruit. The following year one panicle bore 72 berries and in 1897 he reports a panicle had no less than 107 berries and flowers at all stages, and in a later report, that "the English Blackberries seem now quite at home, have grown well, and borne a very good and regular crop of good-sized well-flavoured fruit." They begin to fruit in June and continue to bear for several months.
+
+If these results can be attained at Hakgala which is badly wind-swept at times of the year, it is obvious that the plant is very suited to the normal Up-Country garden and can be very profitably grown. The Uva district should be congenial to the fruit which in fact is already grown in many gardens there but not nearly to the extent it might be.
+
+10------------------------------------------------
+
+209
+
+In cultivation a good deep and rich soil of good humus content is required and a fence or trellis is necessary for their support. The treatment essentially required is to be well supplied with manure or manure water, the old shoots to be removed after fruiting and the soil kept well forked up around the plants.
+
+The plants should be set out in rows at 3 to 4 feet apart in the rows, and 6 feet between the rows, or closer if the smaller varieties are grown.
+
+The Evergreen and Himalaya are the main varieties of this fruit, of which there are numerous forms, generally designated as "Long Cluster", "Short Cluster", "Leafy Cluster", and "Loose Cluster", and there is also a spineless form.
+
+Imported plants of Himalaya can be obtained at very reasonable rates and limited numbers, of a good local variety are usually available Up-Country. Having once established a good variety, propagation is easy and fairly rapid as compared to tree fruits and an increase in area where this fruit is found to be successful is early attained.
+
+11------------------------------------------------
+
+210.
+
+## A RUBBER MANURIAL EXPERIMENT
+
+T. H. HOLLAND, DIP. AGRIC. (WYE),
+
+*MANAGER, EXPERIMENT STATION, PERADENIYA*
+
+AND
+
+A. W. R. JOACHIM, PH.D., DIP. AGRIC.
+
+(CANTAB.),
+
+*GOVERNMENT AGRICULTURAL CHEMIST*
+
+### INTRODUCTION
+
+THE experiment with which this paper deals was started in a block of rubber known as the "New Avenue Rubber" on the Experiment Station, Peradeniya in December, 1929, at a time when the rubber market was not at its present low ebb. It can lay claim to be one of the first rubber manurial experiments in Ceylon to be carried out on modern field experimentation lines. Although rubber manuring could not be expected to pay at the present market price, it is considered that in view of the very definite results obtained from this experiment, the information would be of interest and of some value to all rubber planters who may in the future be confronted with the problem of improving the yields of existing areas of unselected rubber.
+
+### DESCRIPTION OF THE EXPERIMENT
+
+The trees were planted in July, 1920, and were thus nine and a half years old at the start of the experiment. They had not previously been tapped. Planting was done on the "Avenue" system—that is, two closely planted rows in which the trees were spaced twelve feet by fifteen feet, with forty feet between the avenues. This method of planting gives 112 trees per acre as against 109 from square planting twenty feet by twenty feet. The origin of this planting system was the idea that the outside trees of a block usually show the best development; by this arrangement every tree had at least one side open to light and air in the early stages.
+
+12------------------------------------------------
+
+211
+
+The arrangement has proved a convenient one for the purposes of a manurial experiment—the forty-foot space with a drain in the middle forms an efficient barrier between avenues, while the separation of the plots has been effected by leaving two “buffer” pairs of trees and digging a cross drain between them.
+
+### TREATMENTS AND ARRANGEMENT
+
+Four treatments were included in the experiment. They may be briefly described as nitrogen, double nitrogen, complete mixture and control. The details are as follows:—
+
+<table>
+<tbody>
+<tr>
+<td>Single Nitrogen</td>
+<td>2 lb. sulphate of ammonia per tree<br/>= 40 lb. per plot = 40 lb. N per 100 trees.</td>
+</tr>
+<tr>
+<td>Double Nitrogen</td>
+<td>4 lb. sulphate of ammonia per tree<br/>= 80 lb. per plot = 80 lb. N per 100 trees.</td>
+</tr>
+<tr>
+<td>Complete Mixture</td>
+<td>2 lb. sulphate of ammonia per tree.<br/>= 40 lb. per plot = 40 lb. N per 100 trees<br/>+ 2.2 lb. superphosphate per tree<br/>= 44 lb. per plot = 40 lb. <math>P_2O_5</math> per 100<br/>trees + 8 lb. muriate of potash per tree<br/>= 16 lb. per plot = 40 lb. <math>K_2O</math> per 100 trees.</td>
+</tr>
+<tr>
+<td>Control</td>
+<td>Same cultural treatment as other plots but no manure.</td>
+</tr>
+</tbody>
+</table>
+
+Each treatment was allotted five plots of 20 trees each, there being thus twenty plots in all. The twenty plots were arranged in five blocks, the treatments being randomised in each block.
+
+### APPLICATION OF MANURES
+
+The manures were applied by broadcasting down the middle of the avenue and burying by “envelope” forking. The control plots were envelope forked in the same manner as the other plots. December was chosen as the month of application with the idea that the benefit of the manures would be felt about the time of wintering.
+
+The first application of manures was made in December, 1929, but tapping did not start till April 1st, 1930. For yield purposes, therefore, the year is April 1st to March 31st.
+
+### TAPPING SYSTEM
+
+Tapping was done on alternate days throughout the year (with no stop for wintering) on one cut on the half circumference. At the start the lower end of the cut was 24 inches from the ground and the bark allowance was six inches per year. The angle of the cut was  $22\frac{1}{2}^\circ$ , sloping from left to right. No change-over was to be made until the end of the panel was reached in three years.
+
+13------------------------------------------------
+
+212
+
+There were 169 tappings in the first year and 157 in the second year.
+
+### MANUFACTURE
+
+The latex was collected separately from each plot in cans marked with coloured bands representing the treatment (the trees were marked in the same way), and the number of the plot. The scrap was collected by the tappers in numbered bags. On arrival at the factory the latex from each plot was separately measured, coagulated, and rolled into biscuits which were marked with the number and treatment of the plot. These biscuits were not smoked but were air-dried on racks for a month and then weighed together with the scrap, which meanwhile had been kept in numbered pigeon holes.
+
+### SOIL
+
+The soil is a reddish sandy loam, consisting of 60·2 per cent sand and 29·3 per cent silt and clay. It is strongly acid in reaction, with a  $P_H$  value of 4·52.  $P_H$  determinations on soil samples taken from the different plots in August 1932, showed that the soils from the sulphate of ammonia plots were distinctly more acid in reaction with a  $P_H$  value of 4·08 than the sample from the control plots with a  $P_H$  of 5·18. There was no difference in reaction between the single nitrogen and double nitrogen plots.
+
+The soil is fairly well supplied with nitrogen (·0942 per cent) and organic matter. Its potash and phosphoric acid contents are fair. The sub-soil is a reddish gravelly loam extending to a fairly considerable depth. It contains 56 per cent sand and 32·4 per cent silt and clay. Its nitrogen content is ·0796 per cent and  $P_H$  value 4·57.
+
+### EFFECTS OF MANURING ON FOLIAGE
+
+At each wintering it was observed that the trees in the manured plots retained their old leaves longer than those in the control plots, but that the new foliage on appearance was darker and healthier. The tendency of manured rubber to winter later has been recorded by Dutch writers. The general appearance of the foliage of all the manured blocks is markedly superior to that of the controls, while the foliage of the trees in the double nitrogen plots is a slightly darker green than that of the single nitrogen plots.
+
+### EFFECTS OF MANURING ON RUBBER YIELDS
+
+The yields per tree in grams of dry rubber obtained from the different plots and blocks during the periods April 1st, 1930
+
+14------------------------------------------------
+
+213
+
+to March 31st, 1931, and April 1st, 1931 to March 31st, 1932 are shown in tabular form in tables I and II below:
+
+TABLE I
+
+*Yields per Tree in Grams (1930-1931)*
+
+<table border="1">
+<thead>
+<tr>
+<th>Treatments</th>
+<th>Block 1</th>
+<th>Block 2</th>
+<th>Block 3</th>
+<th>Block 4</th>
+<th>Block 5</th>
+<th>Totals of Treatments.</th>
+<th>Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single Nitrogen</td>
+<td>1151</td>
+<td>1123</td>
+<td>1554</td>
+<td>1273</td>
+<td>1304</td>
+<td>6405</td>
+<td>1281.0</td>
+</tr>
+<tr>
+<td>Double Nitrogen</td>
+<td>1071</td>
+<td>1247</td>
+<td>1304</td>
+<td>1226</td>
+<td>1230</td>
+<td>6078</td>
+<td>1215.6</td>
+</tr>
+<tr>
+<td>Complete Mixture</td>
+<td>1211</td>
+<td>1316</td>
+<td>1193</td>
+<td>1386</td>
+<td>1221</td>
+<td>6327</td>
+<td>1265.4</td>
+</tr>
+<tr>
+<td>Control</td>
+<td>1180</td>
+<td>981</td>
+<td>1152</td>
+<td>1210</td>
+<td>1211</td>
+<td>5734</td>
+<td>1146.8</td>
+</tr>
+<tr>
+<td>Totals of Blocks</td>
+<td>4613</td>
+<td>4667</td>
+<td>5203</td>
+<td>5095</td>
+<td>4966</td>
+<td>24544</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mean</td>
+<td>1153.3</td>
+<td>1166.8</td>
+<td>1300.8</td>
+<td>1273.8</td>
+<td>1241.5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td>General Mean</td>
+<td>1227.2</td>
+</tr>
+</tbody>
+</table>
+
+TABLE II
+
+*Yields per Tree in Grams (1931-1932)*
+
+<table border="1">
+<thead>
+<tr>
+<th>Treatments</th>
+<th>Block 1</th>
+<th>Block 2</th>
+<th>Block 3</th>
+<th>Block 4</th>
+<th>Block 5</th>
+<th>Totals of Treatments.</th>
+<th>Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Single Nitrogen</td>
+<td>1456</td>
+<td>1492</td>
+<td>1776</td>
+<td>1640</td>
+<td>1681</td>
+<td>8045</td>
+<td>1609.0</td>
+</tr>
+<tr>
+<td>Double Nitrogen</td>
+<td>1405</td>
+<td>1411</td>
+<td>1728</td>
+<td>1596</td>
+<td>1447</td>
+<td>7587</td>
+<td>1517.4</td>
+</tr>
+<tr>
+<td>Complete Mixture</td>
+<td>1583</td>
+<td>1561</td>
+<td>1614</td>
+<td>1776</td>
+<td>1643</td>
+<td>8177</td>
+<td>1635.4</td>
+</tr>
+<tr>
+<td>Control</td>
+<td>1427</td>
+<td>1168</td>
+<td>1427</td>
+<td>1613</td>
+<td>1476</td>
+<td>7111</td>
+<td>1422.2</td>
+</tr>
+<tr>
+<td>Totals of Blocks</td>
+<td>5871</td>
+<td>5632</td>
+<td>6545</td>
+<td>6625</td>
+<td>6247</td>
+<td>30920</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mean</td>
+<td>1467.8</td>
+<td>1408</td>
+<td>1636.2</td>
+<td>1656.2</td>
+<td>1561.8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+<td>General Mean</td>
+<td>1546 gm</td>
+</tr>
+</tbody>
+</table>
+
+These yield figures were examined statistically by Fisher's method of the "Analysis of Variance" (1) details of which are furnished in the Appendix to this paper. The average yield results for each period of twelve months are tabulated in tables III and IV respectively. Table V gives details of the results of the statistical examination of the mean differences obtained between treatment yields during the period 1931-1932. The figures in the "probability" column in this table indicate the odds on the yield differences not being due to chance.
+
+TABLE III
+
+*Mean Yields per Tree (1930-1931)*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Single Nitrogen</th>
+<th>Double Nitrogen</th>
+<th>Complete Mixture</th>
+<th>Control</th>
+<th>Mean</th>
+<th>Standard Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gm.</td>
+<td>1281</td>
+<td>1215.6</td>
+<td>1265.4</td>
+<td>1146.8</td>
+<td>1227.2</td>
+<td>48.9</td>
+</tr>
+<tr>
+<td>%</td>
+<td>104.4</td>
+<td>99.05</td>
+<td>103.1</td>
+<td>93.5</td>
+<td>100</td>
+<td>3.98</td>
+</tr>
+</tbody>
+</table>
+
+The yield data for the period April 1930 to March 1931, the first year of tapping after the application of the fertilisers, indicated that though the manurial treatments had not given
+
+15------------------------------------------------
+
+214
+
+significant differences, as revealed by the Z test (see Appendix), they had effected yields beneficially. It is probable that there had been insufficient time for the full effect of the manures to be felt. The single nitrogen treatment gave the largest mean increase over the control, the complete mixture the next largest, and the double nitrogen the smallest.
+
+TABLE IV  
+*Mean Yields per Tree (1931-1932)*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Single Nitrogen</th>
+<th>Double Nitrogen</th>
+<th>Complete Mixture</th>
+<th>Control</th>
+<th>Mean</th>
+<th>Standard Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Gm.</td>
+<td>1609</td>
+<td>1517.4</td>
+<td>1635.4</td>
+<td>1422.2</td>
+<td>1546</td>
+<td>41.76</td>
+</tr>
+<tr>
+<td>%</td>
+<td>104.1</td>
+<td>98.1</td>
+<td>105.8</td>
+<td>92.0</td>
+<td>100</td>
+<td>2.70</td>
+</tr>
+</tbody>
+</table>
+
+Significant difference between two means for probability { 1 in 100 is 128.7 gm. or 8.3%  
+1 in 20 is 180.4 gm. or 11.7%.
+
+TABLE V  
+*Summary of Results (1931-1932)*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Mean Difference Gms.</th>
+<th>Standard Error of Difference</th>
+<th>Significant Difference (Calculated)</th>
+<th>Probability</th>
+<th>Conclusion</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Single Nitrogen—Control</td>
+<td>186.8</td>
+<td>59.0</td>
+<td>180.4</td>
+<td>100:1</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>2. Double Nitrogen—Control</td>
+<td>95.2</td>
+<td>59.0</td>
+<td>128.7</td>
+<td>20:1</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>3. Complete Mixture—Control</td>
+<td>213.</td>
+<td>59.0</td>
+<td>180.4</td>
+<td>100:1</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>4. Single Nitrogen—Double Nitrogen</td>
+<td>104.8</td>
+<td>51.2</td>
+<td>111.5</td>
+<td>20:1</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>5. Complete Mixture—Single</td>
+<td>26.4</td>
+<td>59.0</td>
+<td>128.7</td>
+<td>20:1</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>6. All Nitrogens—Control</td>
+<td>165.1</td>
+<td>48.2</td>
+<td>147.8</td>
+<td>100:1</td>
+<td>Significant</td>
+</tr>
+</tbody>
+</table>
+
+The Z test carried out on the 1931-1932 figures shows that the effect of treatment is now definitely significant. From tables IV and V it will be seen that the single nitrogen and complete mixture treatments give definitely significant increases in yield over the controls, the odds being over 100 to 1 in each case that the increase is not due to chance but to the treatment. The double nitrogen treatment has resulted in a decrease in yield over the single dressing, which, though not significant, is striking. There would appear to be little reason, therefore, for applying more than 2 lb. of sulphate of ammonia per tree or 2 cwt. per acre to rubber at Peradeniya. The addition of phosphoric acid and potash to the single nitrogen dressing has produced no significant increase in yield, and their inclusion in mixtures for rubber at Peradeniya appears to be unnecessary.
+
+#### VARIATION OF YIELDS WITH SEASON
+
+The yield data for the two periods April 1930 to March 1931 and April 1931 to March 1932 have been pooled together and subjected to the analysis of variance with a view to determining the average yields over the two seasons and the effects of season on yields. The analysis is detailed in the Appendix. It shows that (1) the average yields for the two year periods
+
+16------------------------------------------------
+
+215
+
+are significantly different. The 1931-1932 mean yield is significantly higher than that of 1930-1931. This is primarily due to the fact that young trees produce more rubber as they increase in age; (2) the effects of the manurial treatments are definitely significant; (3) the standard error of the mean yield is 2.3 per cent, being lower than that for 1930-1931 or 1931-1932; (4) the treatments have given consistent results, i.e., they have not varied with the season. The mean yields are shown in table VI below:
+
+TABLE VI  
+*Mean Yields per Tree (1930-1932)*
+
+<table border="1">
+<thead>
+<tr>
+<th>Years</th>
+<th>Single Nitrogen</th>
+<th>Double Nitrogen</th>
+<th>Complete Mixture</th>
+<th>Control</th>
+<th>Mean</th>
+<th>Standard Error.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1930-1931</td>
+<td>Gm. 1281</td>
+<td>1215.6</td>
+<td>1265.4</td>
+<td>1146.8</td>
+<td>1227.2</td>
+<td></td>
+</tr>
+<tr>
+<td>1931-1932</td>
+<td>Gm. 1609</td>
+<td>1517.4</td>
+<td>1635.4</td>
+<td>1422.2</td>
+<td>1546.0</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Mean</td>
+<td>Gm. 1445</td>
+<td>1366.5</td>
+<td>1450.4</td>
+<td>1284.5</td>
+<td>1386.6</td>
+<td>31.86</td>
+</tr>
+<tr>
+<td>% 104.2</td>
+<td>98.5</td>
+<td>104.6</td>
+<td>92.6</td>
+<td>100</td>
+<td>2.3</td>
+</tr>
+</tbody>
+</table>
+
+Significant difference between two means for probability } 1 in 100 is 126 gm. or 9.16%  
+} 1 in 20 is 93 gm. or 6.75%
+
+Table VII gives details of the results of the statistical examination of the mean differences obtained between treatment yields during the whole period 1930-1932.
+
+TABLE VII  
+*Summary of Results (1930-1932)*
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Mean Difference Gms.</th>
+<th>Significant Difference</th>
+<th>Standard Error of Difference</th>
+<th>Probability</th>
+<th>Conclusion</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Single Nitrogen—Control</td>
+<td>160.6</td>
+<td>126</td>
+<td>45.1</td>
+<td>100 : 1</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>2. Double Nitrogen—Control</td>
+<td>82.0</td>
+<td>93</td>
+<td>45.1</td>
+<td>20 : 1</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>3. Complete Mixture—Control</td>
+<td>165.9</td>
+<td>126</td>
+<td>45.1</td>
+<td>100 : 1</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>4. Single Nitrogen—Double Nitrogen</td>
+<td>81.2</td>
+<td>80.5</td>
+<td>39.0</td>
+<td>20 : 1</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>5. Complete Mixture—Single Nitrogen</td>
+<td>5.4</td>
+<td>93</td>
+<td>45.1</td>
+<td>20 : 1</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>6. All Nitrogens—Control</td>
+<td>136.1</td>
+<td>103</td>
+<td>36.8</td>
+<td>100 : 1</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>7. Mean (1930-1931)—Mean (1931-1932)</td>
+<td>318.8</td>
+<td>89.1</td>
+<td>31.8</td>
+<td>100 : 1</td>
+<td>Significant</td>
+</tr>
+</tbody>
+</table>
+
+A glance at the above tables will indicate that (1) the application of a nitrogenous fertiliser (sulphate of ammonia) produces on the average a definitely significant increase in yield, the probability being greater than 100 to 1 that the increase is not due to chance. A single dose of the fertiliser (2 lb. per tree) gives a significant increase with a probability of at least 100 to 1 that the increase is due to the treatment. But a double dose of the fertiliser causes a decrease in yield on that obtained from a single dressing, with a probability of 20 to 1 that the decrease is not due to chance; (2) a mixture containing phosphoric acid, potash, and nitrogen gives an yield that is not significantly different to that of a dressing of nitrogen alone. The application of fertilisers containing phosphoric acid and potash to rubber trees at
+
+17------------------------------------------------
+
+216
+
+Peradeniya is, therefore, unnecessary if yield increase is the object in view.
+
+### GENERAL DISCUSSION
+
+These results bear out those obtained by Grantham <sup>(2)</sup> in Sumatra and at the Experiment Station, Peradeniya in a previous experiment <sup>(3)</sup>. Grantham found that on the poor white clay soils of Sumatra, the yield of rubber was doubled in a period of ten years by the use of sulphate of ammonia; on red soils the effects on yields were not so very marked. Applications of potash were found to have no appreciable effect on yield. These experiments also afford confirmation of Grantham's observation that the effect of nitrogenous manures on the colour of the foliage was very marked in a few months. The yield data of the "Old Rubber Manurial Experiment" at the Experiment Station, Peradeniya from 1914 to 1927 were examined statistically by Lord <sup>(4)</sup>. He concludes that "there is strong presumptive evidence that the statistically significant differences in the mean yields of the nitrogen and general mixture plots over the controls are in reality due to the treatments associated with these plots." Lord later showed by the method of the regression coefficient that the excess of nitrogen plot (80 lb. nitrogen per acre) gained over the control at the definitely significant rate of .1 lb. per tree per annum, the mean average increase over the control being .36 lb. <sup>(5)</sup>. This result is to be contrasted with that obtained in the experiment now described. The double nitrogen treatment (80 lb. nitrogen per acre) has in this instance given significantly lower yields than the single nitrogen treatment. Possibly with the growth of the rubber trees this depressing effect on yield may disappear.
+
+### THE ECONOMICS OF RUBBER MANURING
+
+Table VII shows that on the average an increase of 160.5 gm. or .35 lb. or 12.6 per cent of dry rubber per tree over the control is obtained by the application of 2 lb. of sulphate of ammonia per tree or 2 cwt. per acre during the period 1930-1932. On the basis of 112 trees per acre, the increased yield of rubber would therefore be about 40 lb. per acre. At the present low market price of sulphate of ammonia (Rs. 110.00 per ton f.o.r. Colombo), the cost of the fertiliser will be about Rs. 12.00 and of application Rs. 2.00 per acre, making a total cost of Rs. 14.00 per acre. In order therefore that rubber manuring should be an economic proposition under the conditions of this experiment, it is necessary that the product should fetch a price of not less than 35 cents per lb. It is likely, however, that as the trees increase in age, the nitrogen manured plots will give larger yield increases over the controls and the minimum economic price
+
+18------------------------------------------------
+
+217
+
+proportionately lowered. But it is doubtful whether a market price of less than 20 cents per lb. of rubber would make the manuring of this crop a paying proposition at Peradeniya.
+
+### SUMMARY AND CONCLUSIONS
+
+The New Avenue Rubber Manurial Experiment which was started at the Experiment Station, Peradeniya in December 1930 on previously untapped trees, consisted of four treatments each replicated in five randomised blocks. The treatments were as follows: single nitrogen, double nitrogen, complete mixture, and control. The statistical examination of the yield data obtained during the two year periods from April 1930 to March 1932 indicate that:
+
+(1) Significantly higher yield results are obtained in 1931-1932 than in 1930-1931. This is doubtless primarily due to the increased age of the trees.
+
+(2) The effects of the treatments during the period are definitely significant. The standard error of the mean yield is as low as 2.3 per cent, a figure which compares very favourably with that obtained in recent field experiments with other perennial crops.
+
+(3) The results of the manurial treatments have been consistent, i.e., they have not varied with the season.
+
+(4) The application of a nitrogenous fertiliser (sulphate of ammonia) produces on the average a definitely significant increase in yield, the probability being greater than 100 to 1 that the increase is not due to chance. A single dose of the fertiliser (2 lb. per tree) gives a significant increase with a probability of at least 100 to 1 that the increase is due to the treatment. But a double dose of the fertiliser causes a decrease in yield on that obtained from a single dressing, with a probability of 20 to 1 that the decrease is not due to chance.
+
+(5) A mixture containing phosphoric acid, potash, and nitrogen gives an yield that is not significantly different to that of a dressing of nitrogen alone. The application of fertilisers containing phosphoric acid and potash to rubber trees at Peradeniya is therefore unnecessary if yield increase is the object in view.
+
+### REFERENCES
+
+1. (1) FISHER, R. A.—Statistical methods for research workers.
+2. (2) GRANTHAM, J.—Manurial Experiments on *Hevea*.—*Arch. voor de Rubbercultuur*. VIII, 1924 and XI, 1927.
+3. (3) HOLLAND, T. H.—Report on Rubber manurial experiments.—*The Tropical Agriculturist*, LXXI, 1928.
+4. (4) LORD, L.—Manuring experiments and experimentation with rubber.—*The Tropical Agriculturist*, LXXI, 1928.
+5. (5) LORD, L.—The effect of nitrogen on the yield of rubber.—*The Tropical Agriculturist*, LXXII, 1929.
+
+19------------------------------------------------
+
+218APPENDIX*Analysis of Variance*
+
+1930-1931
+
+<table border="1">
+<thead>
+<tr>
+<th>Due to</th>
+<th>Degrees of freedom</th>
+<th>Sum of Squares</th>
+<th>Mean Square</th>
+<th><math>\frac{1}{2} \log e</math><br/>(Mean Square)</th>
+<th>Standard Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Blocks</td>
+<td>4</td>
+<td>67615.2</td>
+<td>16903.8</td>
+<td>4.8677</td>
+<td></td>
+</tr>
+<tr>
+<td>Treatments</td>
+<td>3</td>
+<td>54762.0</td>
+<td>18254.0</td>
+<td>4.9060</td>
+<td></td>
+</tr>
+<tr>
+<td>Error</td>
+<td>12</td>
+<td>143408.0</td>
+<td>11950.6</td>
+<td>4.6943</td>
+<td>109.3 gm. = 8.8%<br/>of mean.</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>19</td>
+<td>265785.2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+*Z test*
+
+*Treatments vs Error.*—For  $P = .05$ ,  $n_1 = 3$ ,  $n_2 = 12$ ,  $Z \left\{ \begin{array}{l} \text{Significant} = .6250 \\ \text{Calculated} = .2117 \end{array} \right.$
+
+The effects of manurial treatments are therefore not significant.
+
+*Analysis of Variance*
+
+1931-1932
+
+<table border="1">
+<thead>
+<tr>
+<th>Due to</th>
+<th>Degrees of freedom</th>
+<th>Sum of Squares</th>
+<th>Mean Square</th>
+<th><math>\frac{1}{2} \log e</math><br/>(Mean Square)</th>
+<th>Standard Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Blocks</td>
+<td>4</td>
+<td>182861</td>
+<td>45715</td>
+<td>1.9112</td>
+<td></td>
+</tr>
+<tr>
+<td>Treatments</td>
+<td>3</td>
+<td>140529</td>
+<td>46843</td>
+<td>1.9234</td>
+<td></td>
+</tr>
+<tr>
+<td>Error</td>
+<td>12</td>
+<td>104640</td>
+<td>8720</td>
+<td>1.0828</td>
+<td>93.4 gm. = 6.04%<br/>of mean.</td>
+</tr>
+</tbody>
+</table>
+
+*Z test*
+
+*Treatments vs Error.*—For  $P = .05$ ,  $n_1 = 3$ ,  $n_2 = 12$ ,  $Z \left\{ \begin{array}{l} \text{Significant} = .6250 \\ \text{Calculated} = .8406 \end{array} \right.$
+
+The effects of manurial treatments are therefore significant.
+
+Standard Error of single plot = 93.4 gm. or 6.04% of mean yield.  
+94.4
+
+„ „ mean of 5 plots =  $\frac{94.4}{\sqrt{5}}$  = 41.76 gm. or 2.7% „ „
+
+„ „ difference of means =  $41.76 \sqrt{2} = 59.0$  gm. or 3.82%
+
+For  $P = .05$ ,  $n = 12$ ,  $t = 2.179$
+
+$P = .01$ ,  $n = 12$ ,  $t = 3.055$
+
+For the difference between any two means to be significant it must be greater than  $59 \times 2.179$  gm. = 128.7 gm. or 8.3% for a probability of 1 in 20; or  $59 \times 3.055 = 180.4$  gm. or 11.7% for a probability of 1 in 100.
+
+20------------------------------------------------
+
+219Analysis of Variance
+
+1930-1932
+
+<table border="1">
+<thead>
+<tr>
+<th>Due to</th>
+<th>Degrees of freedom</th>
+<th>Sum of Squares</th>
+<th>Mean Square</th>
+<th><math>\frac{1}{2} \log e</math><br/>(Mean Square)</th>
+<th>Standard Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Seasons</td>
+<td>1</td>
+<td>1016334.4</td>
+<td>1016334.4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Treatments</td>
+<td>3</td>
+<td>183094.2</td>
+<td>61031.4</td>
+<td>2.0557</td>
+<td></td>
+</tr>
+<tr>
+<td>Interactions—</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    Treatment with Season</td>
+<td>3</td>
+<td>12196.6</td>
+<td>4065.6</td>
+<td>.7013</td>
+<td></td>
+</tr>
+<tr>
+<td>Blocks</td>
+<td>8</td>
+<td>250476.2</td>
+<td>31309.5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Error</td>
+<td>24</td>
+<td>243648.2</td>
+<td>10152.0</td>
+<td>1.1588</td>
+<td>100.75 gm. = 7.27% of mean.</td>
+</tr>
+<tr>
+<td></td>
+<td>39</td>
+<td>1705749.6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Z test
+
+*Season vs Error.*—The effect of season is definitely significant.
+
+*Treatments vs Error.*—For  $P = .05$ ,  $n_1 = 3$ ,  $n_2 = 24$ ,  $Z$   $\left\{ \begin{array}{l} \text{Significant} = .5106 \\ \text{Calculated} = .7757 \end{array} \right.$
+
+The effects of treatments are therefore definitely significant.
+
+*Interaction Treatment with Season vs Error.*
+
+$Z$  Calculated =  $-.4575$  (sub normal)
+
+There is no significant differential response of treatment to season.
+
+Standard Error of single plot = 100.75 gm. or 7.27% of mean yield  
+ ,, ,, mean of 10 plots = 100.75 = 31.86 gm. or 2.3% ,, ,,  
+ ,, ,, difference of means = 31.86  $\sqrt{2} = 45.05$  gm. or 3.25%
+
+For  $P = .01$ ,  $n = 24$ ,  $t = 2.797$
+
+$P = .05$ ,  $n = 24$ ,  $t = 2.064$
+
+For the difference between any two means to be significant it must be greater than  $45.05 \times 2.064 = 93$  gm. or 6.75% for a probability of 1 in 20; or  $45.05 \times 2.797 = 126$  gm. or 9.16% for a probability of 1 in 100.
+
+Standard Error of mean of 20 plots =  $\frac{31.86}{\sqrt{2}} = 22.52$  gm.
+
+,, ,, difference of means = 31.86 gm.
+
+Significant difference of seasonal means for  $P = .01$  is  $31.86 \times 2.797 = 89.1$  gm.
+
+21------------------------------------------------
+
+220
+
+## THE FORESTRY SYSTEM OF RUBBER PLANTING\*
+
+*Introduction.*—This article discusses the problem of rubber cultivation under so-called forestry methods of cultivation, with special reference to the experiments conducted by Mr. Birkemose on an estate in Pahang. The article has been compiled by the Head of the Soils Division, after a consultation with the Director and the Heads of the Botanical and Pathological Divisions, the appropriate section on diseases being contributed by the Head of the Pathology Division. It is hoped that the statement will meet the need expressed by many requests from managers, and agency houses for information on the subject.
+
+1. 1. General Theory.
+2. 2. Statement of Birkemose System.
+3. 3. Description of Birkemose Results.
+4. 4. Comments and Criticisms.
+5. 5. Summary.
+
+*General Theory.*—Before proceeding to any detailed discussion it will be well to get a clear idea of the problem by means of a short statement of the general theory which is involved. The natural habitat of Hevea is the tropical rain forest, of which the natural cover of the Malay Peninsula is a typical example. The soils most suited for forest growth are deep and well drained, and carry a tall close stand of deeply-rooted trees. Considered as a whole the forest is a stable and unchanging assemblage of most varied organisms, including plants and animals of all sizes down to the micro-organisms of the soil. The individual units of this assemblage are in a state of constant activity, so that the balance is like that of a top which remains steady while spinning with great speed and energy. The analogy is close, for on analysis the activities of a forest are found to repeat themselves in a revolving or cyclic fashion. Through their roots the plants draw water, and mineral and nitrogenous nutrients up from the soil, and, combining these with carbon dioxide taken from the air, build up great quantities of living organic tissue. In the course of time this tissue dies and falls back to the surface of the ground. Here, in conditions of high shading and high moisture, the various micro-organisms (fungi, bacteria) carry out the work of digestion and decay, releasing carbon dioxide again to the air and passing the mineral materials back to the soil. The most vital function associated with this activity is the fixation of nitrogen, the most important plant food, by certain species of soil bacteria. In consequence of this continuous cycle the soil has always a surface layer of open texture, aerated, active, and possessing plant food reserves, in spite of the fact that the soil is constantly depleted by the leaching of excessive rainfall. The nitrogenous food of the plants can only be elaborated if the micro-organisms can find organic material for their food and the other conditions of temperature and moisture favourable to them, so that nitrogen supply becomes the most pressing factor in the situation for crop growth when the forest cycle is broken. What might be called the rate of revolution of this forest cycle is high in
+
+\* From the *Journal of the Rubber Research Institute of Malaya*, Vol. 4, No. 1., July, 1932.
+
+22------------------------------------------------
+
+221
+
+such regions as Malaya, owing to the high temperature and the absence of the retarding effect of cold or dry seasons, and the appearance of great fertility is due to this rapid movement and not to any store of plant food supplies comparable with those associated with fertile soils in temperate climates. Speaking in terms of finance one might say that Nature is working, not on a large capital, but on a quick turnover.
+
+A high rate of decomposition of detritus means that there is little visible accumulation on the soil surface, which remains relatively bare. It is important that this should be appreciated, for it is sometimes wrongly assumed that accumulations of dead but undecomposed material over the soil indicate greatly improved conditions, whereas it represents one half of the process without its necessary complement. The proper balance is only attained when activity of growth is accompanied also by activity of decay. In this connection it may also be noted that the type of shade and freedom at the soil surface produced by erect covers show points which make them preferable (other things being equal) to low-growing creeping covers. The value of creeping legumes on new clearings may outweigh that consideration, as a rapid shading is the first advantage sought.
+
+Such is the natural balanced state of affairs in the primeval forest and it is in strong contrast with the situation after clearing and prolonged cultivation and exposure of the soil have done their work. We then find the surface layer of the soil depleted of its organic matter and other available reserves, compact, hard and dead. Only under very favourable circumstances has the forest condition become restored under mature rubber with the methods of cultivation followed in the past. The temperature of the exposed soil is much higher than under forest, especially by day, and it suffers violent drying out as a result of exposure in a way quite unknown in the original forest. In extreme cases nothing but the dead mineral skeleton of the soil remains. In varying degree most of the soils under mature rubber have suffered this deterioration. If left to herself, Nature will again clothe the soil skeleton with the original life and fertility during the course of years. This process is carried out by the growth of a succession of floral species, accompanied no doubt by changes in the micro-organic population of the soil as well. By gradual steps of restored shade, humus, soil aeration, and bacterial activity a state of affairs is built up which in most cases would be similar to the original, although without intelligent control the process is very prolonged. The first step is always the establishment of a few plant species only, which have special facilities for spreading or for utilising very poor and exposed situations. Most plants are not adapted to compete in these poor surroundings, so that a few species have it all their own way. Thus lalang, stag-moss, and bracken have all the advantage of profuse wind-borne seed or spores. Other advantages which certain plants possess may be derived from association with nitrogen bacteria (legumes), or with mycorrhiza (possibly stag-moss), or from structural resistance to high insolation and drought. Though these plants appear in adverse situations it should not be too readily assumed that they produce or even perpetuate these conditions. Actually they perform the first steps of improvement in regard to moisture, shade, organic matter, and soil texture, and pave the way for the gradually diversified flora which follows.
+
+Difference of feeding habit is a factor which contributes very much to the successful association of different plants together. It is normal, for instance, that forest trees feeding at great depths should be associated with other plants which feed at lesser depths and with ground covers of an entirely superficial feeding habit. Many of the latter are semi-saprophytic, that is, they feed on decaying matter directly rather than on the soil. They are, therefore, not competitors, though by too vigorous growth some of
+
+23------------------------------------------------
+
+222
+
+them may produce an unsatisfactory mat of surface roots. There can be no doubt that the rubber trees on many estates have developed a feeding habit much nearer the surface than would be natural to them under forest conditions. As already pointed out, nitrogen fixation is associated with the humus in the surface layers of soil, though it can be leached down to lower levels by water movements. When supplies of fixed nitrogen get scarce, and that is almost universally the case on estates, roots are encouraged to keep near the surface to be near the source of the meagre supply. This circumstance is undoubtedly one of the serious difficulties in the way of rapid success being attained by the forestry method of rejuvenation, making it inevitable that the rubber should be at first abnormally sensitive to the effects of competition.
+
+*Statement of Birkemose System.*—The Birkemose system is based upon treating a stand of Hevea as a natural balanced forest. The plan has been tried before (e.g., in Java), but it seems fair that Mr. Birkemose's name should be associated with it at the present time since his patience and initiative have been responsible for giving Malaya indubitable practical proof of the value of a new system of management. The following statement summarises the basic idea upon which his experiments have been carried out.
+
+1. "The principles of forestry are to control and regulate the amount of heat, light, wind, and (to some extent) the rain reaching the ground. These factors determine the success or failure of forestry." (Mr. Birkemose in "Straits Times" 19-2-32).
+
+2. Regulation is achieved primarily through the natural ground covers, of which Hevea seedlings form the natural predominant feature in mature areas. In new clearings considerations of shade lead to closer planting than the conventional systems.
+
+3. Careful selection is applied to the natural covers within the bounds set by the requirements of shade, etc. The system is, therefore, much more than a mere cessation of weeding, lalang control being of course taken for granted. Some plants are condemned on the type of root system, a close mat or tuft being considered harmful. Others are considered to maintain acid soil conditions by their root action (e.g., stag-moss). Plants with broad leaves and soft stems are encouraged. The formation of woody growth is not permitted, except in the seedling rubber which has a definite future as the dominant species and crop producer. The plants which appear are taken as an index of the stage of regeneration reached, the final improvement being indicated when the "nitrate feeders" appear—which are recognised by the greater softness and delicacy of tissue and the fresh green colour of the foliage.
+
+4. The selective weeding is carried out by hand, no tools being applied to the soil, for fear of root injury and soil erosion. Plants are either pulled out or cut off near the ground. All material is left to rot naturally, this being accelerated by breaking up and pressing close to the soil surface, so helping to keep both moist. The use of lime (say 6 lb. per tree) is considered to be of valuable assistance in hastening such decay and improving the seed-bed conditions for the new cover plants.
+
+5. No pitting or bunding is considered necessary, complete reliance being placed upon the protection from erosion afforded by the plant cover. Contour paths or narrow terraces are made for accessibility.
+
+6. In the main, root disease is viewed as an inevitable part of the forest complex, which will not get out of hand if natural stabilised conditions are maintained. Soil sanitation work is therefore omitted, except, perhaps,
+
+24------------------------------------------------
+
+223
+
+in preliminary stages in mature rubber. Reliance is placed upon a sufficient number of seedlings surviving owing to natural resistance even in old disease patches. Trees for removal are either ringed and left to decay or cut off close to the ground.
+
+7. The maintenance of the stand indefinitely depends upon replacement of successive generations of trees growing together. Constant selection goes on guided by appearance and test tapping, the best trees being brought on by judicious thinning in their neighbourhood. The gradual replacement of an old stand with buddings by these means is considered feasible.
+
+*Description of Birkemose Results.*—As an illustration of the good results achieved, one of Mr. Birkemose's experiments may be described in some detail. The area concerned is a hill-top, of just over 8 acres were selected for experiment. The original planting was carried out in 1918 from secondary jungle of some eight years' growth. The planting distance was at 15 feet intervals along contour paths which were 30 feet apart. This rather open spacing no doubt had considerable bearing on the subsequent history. *Tephrosia* was first planted as a cover, but when this proved unsuccessful clean weeding was adopted and carried on for the next five years. The soil became hard and baked from exposure and wash and the trees began to show signs of stagnation. From 1923 onwards natural cover was allowed to grow, and by 1928 stag-moss and ferns had formed a complete carpet. During this time the trees went from bad to worse. Although only ten years from planting they stood with bare and dying branches. Tapping took place between 1924 and 1927 but had to be stopped owing to bad bark conditions. The area was then abandoned.
+
+In November, 1928, Mr. Birkemose took the regeneration of the area in hand. The stag-moss, ferns, and bracken were pulled out and spread over the ground. Rubber seeds were then perseveringly sown at each seeding season. At first although the seeds germinated, the seedlings mostly failed to establish themselves, but gradually success was achieved and early in 1930 a full cover of seedlings was protecting the soil. Where dressings of lime were given the process of establishment was greatly assisted. Accompanying the establishment of this cover the soil texture gradually improved, and the trees started vigorous growth again. The area was inspected during 1931 and the original trees were found to be in an excellent condition of growth, the foliage being as heavy as if a nitrogenous fertiliser had been applied.
+
+Tapping was begun again and, in spite of the low stand of trees, good yields have been obtained with every prospect of being maintained. The figures reported for the latter part of 1930 and the beginning of 1931 give rates corresponding to 600-800 lb. of dry rubber per acre per annum. During the season at the end of 1931 the most vigorous seedlings were selected (average distance 6-8 feet) and budded. A slight clearing is made round each budded plant to give it enough light, and exceptionally vigorous growth is now (February, 1932) manifest in the new shoots. The intention is that finally the older stand will be replaced by this new budded stock. The forest conditions will remain through every step of the change, and the area, of course, remain in bearing.
+
+A control plot of three acres forming part of this hill has been left under a heavy growth of stag-moss, and bracken. The appearance of the trees in this plot remains poor, showing advanced and continuous dying back of the tops and a hard, white brittle and non-renewing bark.
+
+25------------------------------------------------
+
+224
+
+In another area of rubber on steep land (285 acres) Mr. Birkemose has a good example of stabilised natural conditions. The trees are just coming to maturity so that here seedlings are entirely absent from the ground cover. There appears to be no sign of soil wash in spite of the fact that no earthworks have been undertaken, except small contour paths. The trees carry dense foliage right up to the crowns of the hills, producing enough shade to put a severe check on the cover. This forms a light carpet from which stag-moss, bracken, *Melastoma*, and certain ferns and grasses are excluded by occasional hand weeding rounds. The soil is in an ideal soft, moist, and cool condition.
+
+A new clearing (109 acres planted in November-December, 1930) is being raised by similar methods. Felling, burning, and clearing up to 8 inches were done in the usual way, but no stumping and then a dense natural cover allowed to grow. The rubber is planted at close intervals along contours. Selective weeding is in force in which any lalang, creepers, and other undesirable growths are removed by hand pulling. This field is in excellent condition, both with regard to the soil and growth of the young rubber. It is as yet too early to give an opinion of the ultimate result. Since 1916 pest and disease patches have been regenerated by self-sown seedlings. Many groves of mature and healthy looking trees are in evidence all over the estate on such places.
+
+*Comments and Criticisms.*—The first point which needs to be emphasized in discussing the foregoing description is that there is no reason to assume that equally swift success can be looked for in every endeavour to repeat Mr. Birkemose's rejuvenation scheme. Indeed, as one considers the important factors of age of trees, duration of the period of deterioration, and nature of the soil profile, it is seen that most of our poor mature areas will have a much more uphill fight. In many cases it is likely that some essential factor for success is entirely missing. But the single success establishes the soundness of some, if not all of the underlined ideas, and it remains for re-duplication of the experiment to discover how far the application can be made general. The characteristics to be observed in this successful experiment are (1) the soil has a good deep profile (2) the trees were only ten years of age (3) the site had not been exhausted immediately before or after planting by cultivation of other crops. The chances of success are favourable in these circumstances, and remain good even in other cases where the age of the trees is greater. But the situation is very different for those areas which were planted originally on exhausted land. If the soil profile is deep the soil has always the possibility of restoration, but the recovery of old trees, starved since planting will often be problematical. In these situations, too, the competition of a natural cover is so intense that the trees suffer especially if no control is exercised. This is the main reason why natural covers have often been regarded as deleterious; the same cover in a less impoverished area will earn a better reputation. In many ways the problem offers the same difficulties as those discussed on former occasions in regard to manuring, for the main feature in the forestry rejuvenation is the restoration of activity to the natural process of nitrogen fixation in the soil, just as nitrogen supply has proved the main need in manuring. The same conclusion to which manuring results have led is therefore likely to hold for areas of prolonged stagnation in growth, namely, that if the soil seems capable of restoration it should only be undertaken in conjunction with a fresh stand of trees, i.e., replanting must be undertaken.
+
+The next feature for emphasis is the amount of thought and supervision which the earlier stages of the process require. The plan is very far from offering a quick saving by the simple elimination of weeding and
+
+26------------------------------------------------
+
+225
+
+supervision costs. It can now be seen that the older plan of clean weeding, having the utmost simplicity for statement and practice, was a constant fight against a natural order. As such it ultimates in an unstable state of affairs, shown, for instance, in a sheet of lalang taking possession if the weeding is stopped. The new method envisages a natural balance attained by working with the natural tendencies rather than against them. The balance is somewhat removed from the completely free or wild state, it is, true, but not so far that any serious disturbance takes place if there is temporary neglect. The return to these natural conditions needs careful watching and management. The situations which arise are very varied and require the same variation of detail in treatment. The old method was simple but has led to complications, the new one appears complicated at the start but should finally attain great simplicity. In the meantime it is to be realised that it definitely adds to the tasks of management to lay down areas for experiments with the method.
+
+Considered from the point of view of soil management the system under discussion is eminently sound. The Rubber Research Institute has always advised on cultivation with the same ends in view.
+
+It is from the point of view of crop management (latex collection and care of trees) that adverse or modifying criticisms will come. Certain suppositions may have been made as a basis for selective weeding without the solid support of scientific proof, which can only be provided as a result of close research work, but this is not of first importance. The outline given in section 2 can be taken as sufficient guidance for a practical start and knowledge will extend with practice accompanied by careful observations. It is certainly correct to say that the soil requires more shade and more organic matter than is given by the average stands of rubber. This should be attained at less expense by means of natural covers than by means of cultivated ones, with the added advantages that the position is a more stable one.
+
+The limiting factor with reference to the adoption of a forestry method for rubber cultivation in Malaya is the question of root disease. Forest conditions will provide an encouraging influence for the development of all the known stem and branch diseases and also for diseases of the tapping panel. These diseases, however, would not act as limiting factors to any degree, the requirements with reference to these diseases would be further research for control measures, if a forestry method was successfully established.
+
+In connection with root disease the position is stated above as follows: (a) In the main, root disease is viewed as an inevitable part of the forest complex, which will not get out of hand if natural stabilised conditions are maintained. (b) Reliance is placed on a sufficient number of seedlings surviving owing to natural resistance, even in old disease patches. (c) Trees for removal are either ringed and left to decay or cut off close to the ground.
+
+The term natural stabilised conditions should not be misunderstood. Natural stabilised conditions will disappear with the cutting down of the forest species and replacing the natural flora with rubber trees. It is after the planting-up of rubber trees that an attempt should be made to obtain stabilised conditions chiefly by non-interference, so that many of the cultural operations practised in past years will be dispensed with.
+
+The crux of the root disease situation lies in (c) above. The present disease position in old rubber areas is serious and the factor primarily concerned in the past was unscientific or careless thinning-out. The surplus trees were usually cut off at ground level, the tap roots and laterals
+
+27------------------------------------------------
+
+226
+
+being allowed to remain in the ground. In effect, the same results may be anticipated if forestry methods are adopted when the trees would be ringed and left to decay or cut off close to the ground, leaving tap roots and lateral roots *in situ*. Further, if no treatment is to be accorded to diseased trees, the whole effect would be cumulative, and serious trouble would be encountered in a much earlier stage of the plantations. It is difficult to conceive of natural disease resistance in connection with a disease such as "Wet-Root" rot of rubber trees, and the possibility may be ignored as an important factor in the problem. The success of the forestry method seems very problematical unless there is sufficient room left in the fabric of the scheme for the insertion of a systematic treatment of root disease. The basic forestry idea propounded in (a), (b), and (c) above, is diametrically opposed to the proposal of systematic root treatment and because of this, the disease position in rubber plantations raised under forest conditions would be as bad as, and probably considerably worse than, that in present day plantations as far as our knowledge and experience of root disease allows a judgment to be made. Finally, it may be stated that all recent discoveries made in connection with Wet-Root rot support the statements made above.
+
+The forestry system as applied to existing areas of rubber divides into two distinct branches on the question of the treatment of the self-sown seedlings. On the one hand the full application of forestry treats these as the new generation which will be reared as required for the replacing of the old. While it is of the highest interest to experiment with such proposals, it will not be possible to advocate their extensive adoption until it has been proved for a longer period and shown to surmount the difficulties expected in regard to supervision of tapping and collection, and in regard to the systematic treatment of root disease. If, on the other hand, the seedlings are regarded as part of the natural cover to be controlled before they grow large enough to interfere with supervision or to be dangerous from a pathological standpoint, then we have rubber growing in association with the ground cover in a way that can be entirely commended. The maximum growth permitted to the seedlings under such supervision would be about three-quarters of an inch diameter of stem.
+
+One small advantage of these covers which may be worthy of mention, is that the tread of the tappers is confined to paths. A special feature of many of our soils is the ease with which they compact and bind under pressure, and the ill-effect of the continual tread of the labour force is worthy of more attention than it has received.
+
+In regard to dispensing with earthworks to stop erosion, it is obviously impossible to generalise from one successful case and accept the proposal for all soils and situations. At present it is regarded as a wise and justifiable precaution to make contour bunds on all sloping land. In conjunction with a successful ground cover such a system can be regarded as practically permanent, so that the first cost is the only expense.
+
+*Summary.*—It would be a great mistake at the present juncture to attempt to lay down rule-of-thumb regulations by means of which rejuvenation under this system could be attained. The different situations vary far too much for this. It is essential to understand the elementary principles of what is aimed at and to adapt procedure to the existing situation as presented by each field of rubber. Thus it is necessary for managers to select or reject plants on simple general grounds rather than to provide lists of botanical names which might apply well to one situation but afford no help to another. Guidance may be found in the following summary:
+
+28------------------------------------------------
+
+227
+
+(1) Almost any cover must be welcomed at first to provide a beginning for shading and humus formation. No single species will, however, be left long enough to get out of hand. During this stage competition is likely to prevent the rubber from showing signs of improvement.
+
+(2) If the species appearing are mainly undesirable then they may be suppressed by slashing or pulling. Better still they should be weeded out and left to decay with a dressing of lime, when a renewed and diversified flora should succeed. There is evidence to show that a rubber seedling cover can be used successfully to bring about these changes. Slashing may be useful at first but finally must be abandoned in favour of hand pulling since it does not exercise the right selection.
+
+(3) Plants should be selected on their shading properties, root habit, and the rate of decay of their tissues when they die. Shrubs which tend to produce woody stems and roots (e.g., *Melastoma* (Singapore rhododendron) and rubber seedlings) should be cut down or pulled out before they become too large. Ferns and grasses whose roots form thick tufts or a close mat near the surface of the soil should be discouraged. Other ferns and grasses with light spreading root systems may be left. All creepers are kept down as they interfere with other plants. Stag-moss, and bracken are suppressed. All large leaf plants, and all those with soft easily-decomposed tissues are encouraged.
+
+To consider that a quick-acting cure-all has been found in a system of forestry is to take an unduly optimistic view of the agricultural position of old stands of rubber. In any case an appeal to natural methods is bound to be slow and sure rather than sudden in the results obtained. This is one feature in which the methods of management greatly differ. Forestry changes go by little and little, which is in contrast with cultivation operations conducted right through at once with concentrated labour forces. Estates should be encouraged to experiment along the lines suggested, not forgetting to leave a small block as control to afford scientific comparisons. As experience develops for various situations the detail will be filled in. Management problems of training labour, of costs, and supervision will all have to be examined by the test of experience before a final judgment can be reached. But with due regard to adaptations to meet the requirements of management and control of the root-disease situation, it may be said that the proposals have distinct possibilities of improving the results and cheapening the costs of rubber cultivation.
+
+29------------------------------------------------
+
+228
+
+## THE WORLD RICE SITUATION\*
+
+**F**ROM the data of production now available, covering countries that accounted in 1930-31 for about 93 per cent of the world total, excluding China, for which no reliable statistics exist, there is no doubt that world rice production in 1931-32 has been considerably smaller than in the previous season. Production in 1930-31 was, however, at 130,000 million pounds, about 7 per cent above the average of the five years ending 1929-30.
+
+While production in British India (excluding Burma), by far the world's greatest producer, with the possible exception of China, has increased in 1931-32, that of most of the other important producers, Japan, Java, Burma, Siam, and Korea, has fallen sufficiently to outweigh this considerably. In French Indo-China production has apparently as a whole changed little.
+
+Even without taking into account the statistically unknown production of China, all but 6 per cent of the world's total on the average of the five years ending 1930-31 was produced by the countries of monsoon Asia.
+
+By far the greatest proportion of the rice entering into international trade also originates in monsoon Asia, the principal surplus countries being Burma, French Indo-China (chiefly Cochinchina), Siam (almost entirely the seven inner circles), Korea, and Formosa. Since the two last-named countries supply principally Japan and form with that country practically an economic unit, the supply situation on the world market depends principally on the crops of Burma, French Indo-China, and Siam.
+
+### *Production and net export of major exporting countries*
+
+(Million pounds milled rice)
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="4">Production</th>
+<th colspan="5">Net export</th>
+</tr>
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Burma</th>
+<th rowspan="2">Indo-China</th>
+<th rowspan="2">Siam (seven inner circles)</th>
+<th rowspan="2">Year</th>
+<th colspan="2">Burma<sup>(1)</sup></th>
+<th rowspan="2">Indo-China</th>
+<th rowspan="2">Siam<sup>(2)</sup></th>
+</tr>
+<tr>
+<th>to foreign countries</th>
+<th>to Indian ports</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931-32</td>
+<td>9,368</td>
+<td>—</td>
+<td>3,840</td>
+<td>1932</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1930-31</td>
+<td>11,520</td>
+<td>8,557</td>
+<td>4,351</td>
+<td>1931</td>
+<td>4,323</td>
+<td>3,177</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1929-30</td>
+<td>11,169</td>
+<td>8,655</td>
+<td>3,697</td>
+<td>1930</td>
+<td>5,187</td>
+<td>2,015</td>
+<td>2,237</td>
+<td>2,026</td>
+</tr>
+<tr>
+<td>1928-29</td>
+<td>10,844</td>
+<td>8,498</td>
+<td>3,494</td>
+<td>1929</td>
+<td>3,930</td>
+<td>2,269</td>
+<td>2,883</td>
+<td>2,192</td>
+</tr>
+<tr>
+<td>1927-28</td>
+<td>10,945</td>
+<td>9,462</td>
+<td>4,406</td>
+<td>1928</td>
+<td>3,379</td>
+<td>2,856</td>
+<td>3,501</td>
+<td>2,864</td>
+</tr>
+<tr>
+<td>1926-27</td>
+<td>11,451</td>
+<td>8,827</td>
+<td>5,112</td>
+<td>1927</td>
+<td>4,383</td>
+<td>2,414</td>
+<td>3,309</td>
+<td>3,305</td>
+</tr>
+<tr>
+<td>1925-26</td>
+<td>10,624</td>
+<td>8,501</td>
+<td>3,713</td>
+<td>1926</td>
+<td>4,621</td>
+<td>1,457</td>
+<td>3,219</td>
+<td>2,498</td>
+</tr>
+<tr>
+<td>1924-25</td>
+<td>11,350</td>
+<td>8,341</td>
+<td>4,780</td>
+<td>1925</td>
+<td>4,305</td>
+<td>2,754</td>
+<td>2,943</td>
+<td>2,597</td>
+</tr>
+</tbody>
+</table>
+
+(1) The official data are for rice both in the husk and not in the husk, but as practically all the rice exported is milled, they have been taken to represent milled rice.
+
+(2) Exports from Bangkok, which in the five years ending 1928-29 made up 98 per cent of the value of the total rice exports from Siam. Data refer to the season 1 April—31 March.
+
+\* From *International Review of Agriculture*, Year XXIII, No. 5, May, 1932.
+
+Unless otherwise stated the data are in terms of milled rice and those of production refer to the year from 1 April to 31 March. Rice bran and rice polish are not included in the trade figures.
+
+30------------------------------------------------
+
+229
+
+## THE SITUATION IN THE THREE GREAT SURPLUS- PRODUCING COUNTRIES
+
+The rice crop in Burma fluctuates only slightly about 11,000 million pounds owing to the comparative stability of the area devoted to the crop and to the comparative reliability of the monsoon rains in that area. In 1931-32 there was, however, a larger change than usual in the area, which owing to the low prices, declined by 3.9 per cent to 12,511,000 acres, and this, with the weakness of the late rains, resulted in a production of 9,368 million pounds, as finally reported, that is, a decrease of 18.7 per cent on the production of 1930-31. The final estimate of the export surplus showed a reduction to 5,450 million pounds, 23 per cent less than the previous season's surplus. Thus, with the apparent absence of any carry-over from the previous crop, the supply situation in 1932 appears very much more favourable than in 1931. Arrivals of "five-parts cargo rice" by rail and boat at Rangoon from 1 January, 1932, which may be fairly taken as the commencement of the export season, to 23 April, 1932 were 2,061 million pounds against 2,003 million in the corresponding period of 1931, while exports from Rangoon to foreign ports and to Indian ports were respectively 1,528 million and 306 million pounds (against 1,308 million and 694 million in 1931) in all 1,834 million against 2,002 million pounds. These exports normally make up about three-quarters of the total export of Burma. Burma has had an advantage over Siam until the recent suspension of the gold standard by that country, and to a less extent over French Indo-China in the depreciation of sterling, to which its currency is linked.
+
+### *Production in Indo-China* (Million pounds milled rice)
+
+<table border="1">
+<thead>
+<tr>
+<th>Year</th>
+<th>Cochin-China</th>
+<th>Cambodia</th>
+<th>Tonkin</th>
+<th>Annam</th>
+<th>Lagos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931-32</td>
+<td>3,210</td>
+<td>—</td>
+<td>2,639</td>
+<td>1,289</td>
+<td>480</td>
+</tr>
+<tr>
+<td>1930-31</td>
+<td>2,698</td>
+<td>1,164</td>
+<td>2,911</td>
+<td>1,304</td>
+<td>480</td>
+</tr>
+<tr>
+<td>1929-30</td>
+<td>3,165</td>
+<td>947</td>
+<td>2,703</td>
+<td>1,360</td>
+<td>480</td>
+</tr>
+<tr>
+<td>1928-29</td>
+<td>3,165</td>
+<td>882</td>
+<td>2,634</td>
+<td>1,322</td>
+<td>495</td>
+</tr>
+<tr>
+<td>1927-28</td>
+<td>3,517</td>
+<td>1,151</td>
+<td>2,724</td>
+<td>1,503</td>
+<td>567</td>
+</tr>
+<tr>
+<td>1926-27</td>
+<td>3,260</td>
+<td>1,309</td>
+<td>1,999</td>
+<td>1,734</td>
+<td>524</td>
+</tr>
+<tr>
+<td>1925-26</td>
+<td>2,896</td>
+<td>1,066</td>
+<td>2,643</td>
+<td>1,388</td>
+<td>509</td>
+</tr>
+<tr>
+<td>1924-25</td>
+<td>3,239</td>
+<td>815</td>
+<td>2,225</td>
+<td>1,601</td>
+<td>461</td>
+</tr>
+</tbody>
+</table>
+
+The export from French Indo-China originates mainly in the delta of the Mekong in Cochin-China, a country which produces about one-third of the total and which, like Burma, has always a large surplus for export. Yields in Cochin-China fluctuate proportionately much more than those in Burma, however, and in 1931-32, despite a decrease of 9.7 per cent in area, production increased by 19 per cent. There were great variations in the rainfall as between different areas.
+
+In Cambodia, of which the rice area belongs geographically to the same region as that of Cochin-China, the crop situation has been reported to be satisfactory but statistical data are not yet available.
+
+Tonkin, though second to Cochin-China in the size of its crop, has, owing to the pressure on the means of subsistence of the dense population in the delta of the Red River, normally little or no surplus. The crop of the tenth month, that is, the summer crop mainly harvested in November and the most important in the country, was 8.2 per cent below the record of 1930-31, while the total production of Tonkin is estimated to be 9.4 per cent below that of 1930-31.
+
+31------------------------------------------------
+
+230
+
+In Annam, as in Tonkin, the crop of the tenth month is the more important. Despite a decrease of 22.8 per cent in area and drought at transplanting in the north, which is the chief producing area, the production of this crop is estimated to be 17.9 per cent greater than in 1930-31. The crop of the first semester, of which the area was also 22.8 per cent less, is estimated to be 30.1 per cent smaller than in 1930-31.
+
+In Lagos production has probably been about the same as last year as though area had increased somewhat, there was drought at the time of transplanting. Arrivals at Cholon and exports from Saigon in the early part of the year were larger than in the corresponding period of 1931.
+
+In the seven inner circles of Siam, which produce three-fifths of the total crop and generally practically all of the export, the low prices caused, as in Burma, a decline in the area sown and production was further decreased by the high percentage of damage. The production of these circles was finally estimated at 3,840 million pounds, a decrease of 11.7 per cent. The exportable surplus from the new crop is 1,960 million pounds against 2,940 million last year. It is expected that, thanks to greater household economy, there will be considerable quantity of rice available this year from the northern and north-eastern circles, which normally have little or no surplus. The carry-over from 1930-31 was 504 million pounds against 336 million at the beginning of the previous season.
+
+The difficulties of the trade situation induced the Siamese Government in the early part of May to suspend the gold standard; the tical is now reduced to its old rate of 11 to the pound sterling. The fact that the currency reserves are in sterling effectively links the tical to the pound. Siam's competitive power is thus greatly enhanced and the severity of its competition with Burma is likely to be accentuated.
+
+#### THE SITUATION IN THE MINOR EXPORTING COUNTRIES
+
+Amongst minor exporting countries the United States, Italy, and Spain are important as producers of high quality rices. Production in the United States has increased slightly with increased area and production in California, which outweighed a decrease in production in the three southern States (Arkansas, Louisiana, and Texas). There was a decrease in 1931 in United States exports of whole rice, which go principally to the United Kingdom and Germany. The leading European producers, Italy, and Spain have both had smaller crops, the former 2.9 per cent and the latter 14.8 per cent less than in 1930-31, the reduction in Spain being proportionately considerably greater than the decrease in area. Both countries experienced in 1931 a considerable decrease in their exports, which in the case of Italy go principally to Argentina and in that of Spain to the United Kingdom.
+
+#### *Production and net export of minor exporting countries*
+
+(Million pounds milled rice)
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="4">Production</th>
+<th colspan="4">Net export</th>
+</tr>
+<tr>
+<th>Year</th>
+<th>Italy</th>
+<th>Spain</th>
+<th>U.S.A.</th>
+<th>Year</th>
+<th>Italy</th>
+<th>Spain</th>
+<th>U.S.A.<sup>(1)</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931</td>
+<td>946</td>
+<td>471</td>
+<td>1,363</td>
+<td>1932</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>975</td>
+<td>482</td>
+<td>1,342</td>
+<td>1931</td>
+<td>300</td>
+<td>83</td>
+<td>178</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>1,010</td>
+<td>452</td>
+<td>1,230</td>
+<td>1930</td>
+<td>432</td>
+<td>125</td>
+<td>186</td>
+</tr>
+<tr>
+<td>1928</td>
+<td>947</td>
+<td>448</td>
+<td>1,316</td>
+<td>1929</td>
+<td>357</td>
+<td>86</td>
+<td>284</td>
+</tr>
+<tr>
+<td>1927</td>
+<td>1,043</td>
+<td>478</td>
+<td>1,355</td>
+<td>1928</td>
+<td>393</td>
+<td>131</td>
+<td>253</td>
+</tr>
+<tr>
+<td>1926</td>
+<td>1,019</td>
+<td>494</td>
+<td>1,159</td>
+<td>1927</td>
+<td>550</td>
+<td>118</td>
+<td>187</td>
+</tr>
+<tr>
+<td>1925</td>
+<td>962</td>
+<td>472</td>
+<td>925</td>
+<td>1926</td>
+<td>389</td>
+<td>142</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>886</td>
+<td>456</td>
+<td>902</td>
+<td>1925</td>
+<td>341</td>
+<td>99</td>
+<td>28</td>
+</tr>
+</tbody>
+</table>
+
+(1) In the figures for net export of the United States broken rice is not included.
+
+32------------------------------------------------
+
+231
+
+Egypt, though its production fluctuates greatly with the variations in area available for rice cultivation and in unit yields, both due to the variations in the amount of water in the perennial canals available for the *sefi* (summer) crop, has in recent years maintained an export surplus. Though water was on the whole adequate last summer, unit yields of the *sefi* crop were slightly below average. Yields of *nili* (winter) rice were normal. The market for Egyptian rice is mainly in Syria, Palestine, Rumania, and Greece. Imports consist almost entirely of cheaper rice from Burma.
+
+In South America, Brazil is the principal country with an export surplus. There has been a great increase in production in post-war years, though the amount available for export fluctuates considerably. Argentina, Uruguay, and Germany are the chief markets for Brazilian rice. British Guiana, where rice cultivation is being encouraged by the Government has, on a smaller scale, an increasing surplus which finds a market principally in the Caribbean.
+
+### CONDITIONS IN THE PRINCIPAL RICE-IMPORTING COUNTRIES
+
+By far the greatest countries of deficit are Japan, India, and China, followed on a much lower scale by the Netherlands East Indies, British Malaya, Ceylon, and the Philippines. As production in Korea, and Formosa has greatly increased in recent years and Japan takes by far the greater part of its imported supplies from these dependencies, which market almost their entire surplus in the mother country, the most important markets for the great exporters are India and China.
+
+For British India, where one-third of the population is estimated to consume rice, the principal source of outside supplies is Burma. In 1931 Indian imports of Burma rice rose to 3,177 million pounds the highest level of recent years. This year the coastwise exports of Burma to Indian ports had not up to 23 April attained the level of the corresponding date in 1931. According to the final estimate, the production of India, excluding Burma, for 1931-32 has been 64,037 million pounds, an increase of 5.7 per cent on that of 1930-31. There were increases in all provinces and States save Madras and Mysore. These, like the United Provinces, Assam and Bombay, had a decrease in area, while India as a whole, excluding Burma, increased the area under rice by 2.6 per cent to 71,523,000 acres.
+
+#### *Production in certain provinces of British India* (Million pounds milled rice)
+
+<table border="1">
+<thead>
+<tr>
+<th>Year</th>
+<th>Bengal</th>
+<th>Bihar and Orissa</th>
+<th>Madras</th>
+<th>All India<sup>(1)</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931-32</td>
+<td>21,276</td>
+<td>12,855</td>
+<td>11,782</td>
+<td>73,405</td>
+</tr>
+<tr>
+<td>1930-31</td>
+<td>20,621</td>
+<td>12,576</td>
+<td>12,042</td>
+<td>72,124</td>
+</tr>
+<tr>
+<td>1929-30</td>
+<td>18,372</td>
+<td>13,465</td>
+<td>11,771</td>
+<td>69,736</td>
+</tr>
+<tr>
+<td>1928-29</td>
+<td>21,692</td>
+<td>12,517</td>
+<td>11,641</td>
+<td>71,989</td>
+</tr>
+<tr>
+<td>1927-28</td>
+<td>14,544</td>
+<td>9,807</td>
+<td>11,386</td>
+<td>63,244</td>
+</tr>
+<tr>
+<td>1926-27</td>
+<td>16,475</td>
+<td>10,725</td>
+<td>10,622</td>
+<td>66,483</td>
+</tr>
+<tr>
+<td>1925-26</td>
+<td>18,408</td>
+<td>10,951</td>
+<td>11,921</td>
+<td>68,851</td>
+</tr>
+<tr>
+<td>1924-25</td>
+<td>17,273</td>
+<td>13,492</td>
+<td>10,994</td>
+<td>69,601</td>
+</tr>
+</tbody>
+</table>
+
+(1) The All-India statistics exclude the production of the Punjab, the North-West Frontier Province, Ajmer-Merwara, Manpur Pargana, and certain other Indian States, which together produced 2,388 million pounds on the average of the five years ending 1929-30; they also exclude the production of the feudatory states of Bihar and Orissa, for which no reliable data are available.
+
+33------------------------------------------------
+
+232
+
+The chief producers in India proper are Bengal, Bihar and Orissa and Madras. The first two have each a larger production than Burma. In Bengal the very favourable weather during reaping and threshing of the winter crop outweighed the effects of the floods in July and an increase in production of 3·0 per cent is estimated; autumn, winter, and summer rice are together estimated at 3·2 per cent above the total for the previous year. In Bihar and Orissa the winter crop was satisfactory and the total of autumn, winter, and summer crops is now estimated at 2·2 per cent above that for 1930-31. In Madras there was a decrease of 0·6 per cent in area and with unfavourable weather, production declined by 2·2 per cent.
+
+Given the increase of 5·7 per cent in the production of the area as a whole, the preference for home-grown qualities and the continuance of depression in the main export staples, the demand for Burma rice in India is not likely to approach the high level of 1931.
+
+The most outstanding feature of the rice situation in China is the effect of the great floods in the Yangtse and Hwai valleys, which affected areas producing probably at least half the total crop and not only destroyed the standing crop and prevented second crops being planted but must result in a serious diminution of this year's spring crop owing to the shortage of seed and the water-logging of the soil. A population of no less than 50 millions has been affected, the food supply of a large proportion of whom was during the past winter reduced below the usual "subsistence" level, famine having prevailed in some areas.
+
+The supply of the destitute population with imported food depends on the funds of the relief organisations and the extent to which these organisations can operate unhampered by the chaotic conditions created by war and brigandage.
+
+The fall in prices has enabled foreign supplies to be drawn upon despite the fall in the value of silver and, though ample stocks were known to exist in Shanghai at the beginning of the year and demand in that area was somewhat disorganised by military operations, there was a considerable revival in imports of Burma rice in February.
+
+While the total production in China both in 1931-32 and in the new season is undoubtedly greatly reduced by the floods and their after-effects and an unusually great absorptive capacity for imported rice undoubtedly exists, it remains doubtful how far political and financial conditions will allow the demand to be realized. The value of silver remains low though it has during the past year recovered from the minimum of 12*d* an ounce reached in February, 1931 and the silver market is still overshadowed by a considerable surplus; while the effects on China's imports of rice have been largely counteracted by the fall in rice prices, the low level of silver must cause the purchasing power to be still less than it would otherwise have been.
+
+The remarkable development of imports from Burma in 1930 was not maintained in 1931, when the large figure of the previous year was reduced by more than two-thirds.
+
+34------------------------------------------------
+
+233
+
+*Sources of supply of Japan*  
+(Million pounds milled rice)
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Year</th>
+<th colspan="3">Production</th>
+<th rowspan="2">Formosa Year<br/>(first<br/>crop,<br/>June-<br/>August)</th>
+<th colspan="3">Net import of Japan.</th>
+</tr>
+<tr>
+<th>Japan</th>
+<th>Korea</th>
+<th></th>
+<th>From<br/>foreign<br/>countries</th>
+<th>From<br/>Korea</th>
+<th>From<br/>Formosa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931-32</td>
+<td>17,346</td>
+<td>4,999</td>
+<td>1,140</td>
+<td>1932</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1930-31</td>
+<td>21,010</td>
+<td>6,048</td>
+<td>1,094</td>
+<td>1931</td>
+<td>(1) 142</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1929-30</td>
+<td>18,709</td>
+<td>4,305</td>
+<td>896</td>
+<td>1930</td>
+<td>272</td>
+<td>1,316</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1928-29</td>
+<td>18,945</td>
+<td>4,245</td>
+<td>1,004</td>
+<td>1929</td>
+<td>396</td>
+<td>1,437</td>
+<td>521</td>
+</tr>
+<tr>
+<td>1927-28</td>
+<td>19,510</td>
+<td>5,435</td>
+<td>1,022</td>
+<td>1928</td>
+<td>614</td>
+<td>1,814</td>
+<td>567</td>
+</tr>
+<tr>
+<td>1926-27</td>
+<td>17,465</td>
+<td>4,807</td>
+<td>890</td>
+<td>1927</td>
+<td>1,278</td>
+<td>1,438</td>
+<td>642</td>
+</tr>
+<tr>
+<td>1925-26</td>
+<td>18,757</td>
+<td>4,641</td>
+<td>997</td>
+<td>1926</td>
+<td>748</td>
+<td>1,457</td>
+<td>578</td>
+</tr>
+<tr>
+<td>1924-25</td>
+<td>17,961</td>
+<td>4,153</td>
+<td>868</td>
+<td>1925</td>
+<td>1,671</td>
+<td>983</td>
+<td>567</td>
+</tr>
+</tbody>
+</table>
+
+(1) Net export.
+
+The Japanese crop has fallen below the record of 1930-31 by 17.7 per cent to 17,346,000 pounds, 7.4 per cent below the average of the five years ending 1929-30. As the area sown was, as usual, slightly larger than in the previous year, the relatively small production has been due to bad weather, particularly to the cold wet weather at transplanting. The deficit in production is therefore this year larger than in the last four years. All rice imports are under Government control, the high and increasing costs of home production making competition of home-grown rice with rice from outside sources impossible, despite the preference of the population for the home-grown varieties. In Korea, by far the most important source of imports, the 1931-32 crop, though 6.7 per cent above the average for the five years ending 1929-30, has fallen from the record of 1930-31 by 17.3 per cent, a proportion almost identical to that in the case of Japan and due, as in the latter country, to unfavourable weather. Formosa which has normally a surplus from its first crop, is also an important source of supply, though Japan's imports from this dependency tend to decline. The rice from the source, though comparatively cheap, is of a quality that makes it less popular. Both the first and second crops of Formosa have been larger than in 1930-31. By far the greater part of the imports from foreign sources in the last few years have originated in Siam, in the form of broken and glutinous rice, the quantities taken from French Indo-China having become insignificant. The situation this year is thus on the whole favourable to increased foreign imports, available supplies within the Japanese territories being much smaller than last year, even allowing for the exceptionally large carry-over in Japan from the previous year, and the low world prices combined with the particularly marked inelasticity of Japanese rice consumption are probably sufficient to counteract the effects of the general depression of purchasing power.
+
+*Net imports into other principal Asiatic countries of deficit*  
+(Million pounds milled rice)
+
+<table border="1">
+<thead>
+<tr>
+<th>Year</th>
+<th>China</th>
+<th>Netherlands<br/>East Indies</th>
+<th>British<br/>Malaya</th>
+<th>Ceylon</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1931<sup>(1)</sup></td>
+<td>1,431</td>
+<td>—</td>
+<td>1,147</td>
+<td>1,003</td>
+</tr>
+<tr>
+<td>1930</td>
+<td>2,647</td>
+<td>1,370</td>
+<td>1,315</td>
+<td>1,064</td>
+</tr>
+<tr>
+<td>1929</td>
+<td>1,439</td>
+<td>1,596</td>
+<td>1,235</td>
+<td>1,102</td>
+</tr>
+<tr>
+<td>1928</td>
+<td>1,683</td>
+<td>1,234</td>
+<td>1,162</td>
+<td>1,093</td>
+</tr>
+<tr>
+<td>1927</td>
+<td>2,799</td>
+<td>1,013</td>
+<td>1,228</td>
+<td>1,053</td>
+</tr>
+<tr>
+<td>1926</td>
+<td>2,489</td>
+<td>1,320</td>
+<td>1,067</td>
+<td>1,033</td>
+</tr>
+<tr>
+<td>1925</td>
+<td>1,679</td>
+<td>1,109</td>
+<td>907</td>
+<td>972</td>
+</tr>
+</tbody>
+</table>
+
+(1) The figure for 1931 should be slightly larger since, while imports for re-export are not included, re-exports are included in the calculation.
+
+35------------------------------------------------
+
+234
+
+The importing countries of the second rank are all countries depending for their prosperity on the export of plantation crops, the slump in the values of which has on the one hand reduced the purchasing-power of the local population and on the other stimulated an increase in the local production of rice growing due to the unprofitability of the export crops.
+
+In British Malaya the depression is particularly acute owing to the very low prices for both rubber and tin, the staples on which the prosperity of the country depends. Cultivation of rice, formerly neglected in favour of rubber, is now being revived with Government encouragement. The 1931-32 crop is reported to be good. Increase in the local supply affects particularly Siam, and Burma, from which the imported rices are principally drawn. The former country has in recent years been losing some ground to the latter.
+
+The imports into the Netherlands East Indies are principally into the Outer Provinces, where increase of population has been most rapid and the concentration of the natives on export crops has been most marked and where comparatively few areas have a surplus. Factors similar to those in British Malaya are operating; in 1931-32, however, production in Java, where the greater part of the crop is produced, has been smaller and this, together with the lower prices, may maintain demand.
+
+In Ceylon the reduction in purchasing-power due to the reduced employment on rubber and tea estates, together with the fact that this is now enabling the attempts to encourage local rice production to meet with success, caused a further reduction in the import of rice in 1931, the decline in the imports of the more expensive qualities from British India outweighing the increase in imports of Burma rice, and may be expected to have a similar effect this year.
+
+In the Philippines, which import principally from French Indo-China and Siam, rice production has been further stimulated by the new tariff rates, while in Cuba there has been a tendency recently to decreased import of Oriental rices.
+
+### THE PRINCIPAL EUROPEAN IMPORTING COUNTRIES
+
+Of the total quantity of rice entering into international trade, European imports make up about one-fifth. A very large part of this import is however, destined for re-export, the greater proportion after being worked up in European mills. The principal European importers are Germany, France, the Netherlands, and the United Kingdom. Germany takes rough rice and milled rice in relative proportions varying from year to year, France by far the greater proportion milled, the Netherlands principally rough rice and the United Kingdom entirely milled rice. Imports into these four countries, especially into Germany, showed a further increase in 1931. As regards consumption of rice, whether for industrial or alimentary purposes, Germany takes the first place, followed by France and the United Kingdom. The Netherlands, while they import a larger quantity than the United Kingdom, have a proportionately very large re-export of milled rice. France has the largest re-export, followed by Germany. As a whole re-exports decline in 1931 being affected in the rice-consuming countries overseas by the same conditions as the direct exports from the rice-growing countries.
+
+Germany's imports of rough rice are mainly from Burma, its imports of milled rice from Burma, United States, Brazil, the Netherlands East Indies and Italy. In 1931 its imports of rough rice increased by 90 per cent over those of 1930 and in the first quarter of 1932 were over four times those in the first quarter of 1931; the corresponding increases for milled rice were 25
+
+36------------------------------------------------
+
+235
+
+per cent and 14 per cent. Re-exports of milled rice, which are very widely distributed, but destined mainly for Czechoslovakia, Columbia, and Portugal, declined by 14 per cent.
+
+The total rice imports of France increased in 1931 by 43 per cent. Rough rice is imported mainly from Italy, milled rice from French Indo-China. Re-exports, which are principally to the French Colonies, especially to those in West Africa, and consists largely of brokens, have declined steadily in recent years and in 1931, showed a further large decline.
+
+There was an increase in 1931 in the imports into the Netherlands, which consist in by far the greater part of rough rice from Burma. In the first quarter of 1932, however, imports of rough rice were only about one-third of those in the corresponding period of 1931. The Dutch rice trade, depending by its nature, much more on general world conditions than that of the other three great European importers, reflects the general economic depression more clearly. The re-exports, which are almost entirely of milled rice and until now had been increasing steadily, are very widely distributed, though Germany had been a predominant market.
+
+Imports into the United Kingdom in the last three years have been entirely of milled rice, chiefly from Burma, Spain, and the United States. A very great part of those from Burma are brokens. Imports in 1931 were larger than in 1930 and in the first quarter of 1932 show an increase of 30 per cent over those of the corresponding period of 1931. Re-exports of rice without further elaboration, which are mainly destined for the British West Indies and the Irish Free State, were almost exactly doubled in 1931; those of rice that has undergone further preparation in the United Kingdom, and which are almost entirely to West Africa, decrease by 35 per cent.
+
+### THE GENERAL OUTLOOK
+
+World production in 1931-32 appears to have been smaller than in 1930-31. On the one hand, production in the three great exporting countries has been much smaller, as also that in China, in Japan and its dependencies and in Java; on the other hand, in British India and probably also in several of the importing countries of the second rank it is larger and there were large carry-overs from the previous season in certain countries, particularly in Japan. While crop results are on the whole more favourable to international trade in the commodity than they were last year, when bumper crops were obtained in several important countries, there are factors of a more general character, such as the depression affecting the staple sources of income of many important countries, the persistent low value of silver, and the continuance of political and economic disturbances in China. Though prices have shown some recovery from the low levels to which they fell in the last quarter of 1931, the rise in January 1932, being accelerated in February, as the estimates of relatively small crops in several of the leading producing countries became known and demand from China and Japan increased, any notable recovery is not to be expected in the immediate future. The position is, in fact, that in the present year, the continuance of low rice prices appears to be a condition of maintaining trade in the commodity.
+
+37------------------------------------------------
+
+236
+
+## TROPICAL AGRICULTURE THEN AND NOW\*
+
+**W**HILST recently enjoying the hospitality of the Colonial Services Club, I rashly promised to contribute to the Magazine an article on the prospects or conditions of tropical agriculture. On subsequent cooler reflection the task seemed a formidable one. In many branches of tropical agriculture the present conditions are bad and the prospects, or rather the immediate prospects, no better. One seemed, therefore, likely to become involved in discussions of over-production *versus* under-consumption, increasing the yield per acre, restriction of output, tariffs, and the gold standard. These are all important and interesting subjects but their treatment, however superficially, seemed certain to involve the writer in much arduous work without bringing any commensurate advantage to the reader.
+
+Whilst turning over in my mind how I could best redeem my promise, I happened to listen-in to the speeches at the Royal Academy banquet. When towards the close Mr. Winston Churchill rose to propose the toast of The Academy, he opened with the remark that he "would be brief and not keep too closely to the point". Here seemed a way out of my difficulties. I, too, will be brief and not keep too closely to the point.
+
+Avoiding, therefore, the conditions of tropical agriculture let us glance at the conditions of the tropical agriculturist, now and a generation ago. The period is convenient for purposes of comparison and also personally appropriate as I have amongst the members of your Club this year a son entering the Colonial Agricultural Service. My first visit to the tropics was to Ceylon in 1896 as Private Assistant to Dr. H. Trimen, F.R.S., then Director of the Royal Botanic Gardens of that Colony. The staff included only two Europeans, Mr. H. F. Macmillan, Curator at Peradeniya and Mr. W. Nock, holding a similar position at Hakgala, the hill garden. Some time that year concern was aroused by the damage done by a fungoid disease of cacao. In those days the usual method of obtaining advice for the treatment of such troubles was to send specimens and information to Kew where the disease was diagnosed, reported on, and prescribed for by Mr. G. Massee, the Principal Assistant (Cryptogams) on the Herbarium Staff. Ceylon had already been well-nigh ruined by Coffee Leaf Disease to investigate which on the spot the services of Dr. Marshall Ward (later Professor of Botany at Cambridge) had been specially procured. The planters agreed to follow a similar course and I remember on my return in 1897 going across to the Natural History Museum to discuss conditions in Ceylon with Mr. J. B. Carruthers who had been selected for the task. Mycology had not as yet arrived at the position to warrant the appointment of a permanent Government officer. Carruthers, as Marshall Ward nearly twenty years previously, went out to conduct a special piece of investigation rendered necessary by exceptional circumstances.
+
+On the other side of the world, in December, 1898, as one of the recommendations of the West Indian Royal Commission, there was created the Imperial Department of Agriculture in the West Indies under the direction
+
+---
+
+\* By W. G. Freeman, B.Sc., A.R.C.S., F.L.S., Imperial Institute, London. late Director of Agriculture, Trinidad and Tobago. Reprinted from the Colonial Services Club Magazine.
+
+38------------------------------------------------
+
+237
+
+of Dr (now Sir) Daniel Morris. The Department was primarily concerned with the agricultural welfare of the smaller West Indian Islands, and mainly in an advisory capacity with Jamaica, Trinidad, and British Guiana which had their own Botanic Departments. Apart from the short-lived Department of the Leeward Islands, with Dr. C. A. Barber as Superintendent of Agriculture, and the little Department at Zanzibar, this was the first Department of Agriculture to be formed in our tropical Colonies. To those familiar, or soon to become familiar, with such Colonial Departments it will be of interest to compare its equipment with its modern counterparts. When I joined the Department early in 1900 the scientific staff at the head office in Barbados consisted of Dr. Morris, the Commissioner, H. Maxwell Lefroy, Entomologist, and myself as Scientific Assistant.
+
+There had been no provision for an Entomologist when the Department was formed and the reasons which led to the appointment of the first official Entomologist in the Colonies are best indicated by quoting from a Despatch written in 1899 by the Secretary of State.
+
+"Specimens of diseased plants or insect pests have occasionally been sent to this country for examination, but while such specimens are naturally on their arrival here not so suitable for examination as they would have been on the spot, the time lost in such a reference may be of serious consequence, nor would it be possible to meet the difficulty to any but a very small extent in this way".
+
+"I have therefore come to the conclusion that there should be some officer in the West Indies possessing the requisite expert knowledge, whose duty it should be to advise the Government as also individual planters and others, on this subject, and to deliver lectures from time to time under the direction of the Commissioner of Agriculture. It is accordingly proposed to appoint an Economic Entomologist. . . . The services of the officer will, in the first instance, be available for the West Indies generally, but, should the demands on his time hereafter prove more than he can meet, it will be necessary for the Governments of the larger Colonies, viz., British Guiana, Jamaica, and Trinidad, to provide for their own requirements in this respect".
+
+It is interesting to note that the necessity for such time being devoted to investigation was not apparently contemplated at first. Maxwell Lefroy being informed in his Colonial Office letter of appointment (November 28, 1899) that:—
+
+"Your principal duties will be to visit the various West Indian islands, to give lectures, and to recommend suitable measures for the treatment of the numerous insect pests which destroy cultivated crops in the West Indies. Your headquarters will be at Barbados, and *while not on tour and giving lectures* (italics are mine) you will be employed in preparing notes and recommendations for publication in the *Bulletin* of the Imperial Department of Agriculture and generally . . . etc., etc.
+
+That tropical economic entomology entailed more than field diagnosis and prescription was realized before the appointment of Maxwell Lefroy's successor when amongst his duties was included "to take charge of all investigations and operations in the various colonies".
+
+Modern laboratory accommodation was conspicuously absent in those days. The Head Office of the Department was a former private house with three small rooms on the upper floor. Two were allotted to Lefroy and myself, whilst the third provided quarters for the negro office messenger and his wife. The excellent work Lefroy accomplished in laying the foundations of economic entomology in the West Indies is an outstanding example
+
+39------------------------------------------------
+
+238
+
+of what can be achieved by a man with a natural bent for his subject, combined with exceptional zeal and industry, but without the help of what would be regarded nowadays as adequate preliminary technical training or of essential laboratory equipment. I doubt whether today the selectors for the post of Entomologist to a Colonial Department would regard as a strong candidate a young man whose experience since taking a First at Cambridge (at a time when Entomology was not an important subject of study) was limited to about one year as Assistant Master at Seaford College, Sussex. In 1903, Lefroy left to become the first Entomologist in the Imperial Department of Agriculture for India, where the post of Inspector General of Agriculture had been created in 1901. No suitable candidate was apparently available at home to succeed Lefroy in the West Indies and his post was filled by the appointment of Prof. H. A. Ballou, now the Commissioner of Agriculture in the West Indies, who had been Asst. Prof. of Botany and Entomology at the Connecticut Agricultural College.
+
+Entomology was, however, receiving some recognition in the Colonies and in 1899, Mr. E. E. Green, then a tea planter with a keen interest in insect life, was appointed Government Entomologist on the staff of the Royal Botanic Gardens, Ceylon, a part-time post if my memory be not at fault. Omitting India we see that at the beginning of this century there were two official Entomologists at work in the Colonies, in the West Indies, and Ceylon. Referring to the *List of Agricultural Research Workers in the British Empire, 1931*, we find eleven pages given up to the enumeration of over 300 Entomologists at home and overseas, of whom about sixty hold official appointments in the Colonies. Not only has the force at work in the Colonies been increased so greatly but it has the enormous advantage of help owing to close co-operation with the Imperial Institute of Entomology, dating from 1914, and other central organisations.
+
+Let us glance now at the position of Mycology in our Colonial Departments of Agriculture. As already indicated the staff in the West Indies did not at first include a Mycologist, but about two years later (November, 1900) we find the Commissioner urging on the Government of Barbados the need for such an appointment in these words:
+
+"It has been impressed upon me that a capable officer to deal with the various phases of the 'Rind' and 'Root' diseases in the sugarcane as well as diseases affecting Indian corn, sweet potatoes, and other plants is essential to promote the development of agricultural efforts in these Colonies".
+
+Similarly to the Government of the Windward Islands the necessity for qualified assistance to deal with the diseases at that time attacking cacao in Grenada was emphasized.
+
+As the outcome of the representations made the Colonial Office, in February 1901, sanctioned the appointment of a Mycologist and Agricultural Lecturer. He was to be an Honours Graduate well grounded in general science, a Botanist with a special knowledge of fungi. It was also stipulated that "he should be prepared to undertake investigations in Mycology, give lectures and addresses when required, visit and report on the work of the Agricultural Schools (in the various West Indian islands) and assist in editing the publications of the Department".
+
+With the recognition of "investigation" as part of his work it was agreed "that he was to have the use of a good laboratory with access to books of reference and to a fairly well-equipped library containing works relating to agriculture". A small extension was accordingly made to the Head Office providing two rooms, each some 15 ft. square, which were fitted up as laboratories for the Entomologist and the new Mycologist.
+
+40------------------------------------------------
+
+239
+
+The first holder of the new post was Mr. Albert Howard who was already in Barbados as Lecturer in Agricultural Science at Harrison College, an appointment under the local Government but at the cost of the Imperial Department. Howard, as might be anticipated, did much good work on the diseases of sugarcane, cacao, etc., during less than two years he held the appointment. But he was soon lost to the Colonial Service, becoming towards the end of 1902, Botanist at Wye, whence he proceeded to India as Imperial Economic Botanist.
+
+The subsequent holders of the appointment have been Messrs. L. Lewton-Brain, F. A. Stockdale, F. W. South, S. F. Ashby, and W. Nowell. Whilst these developments were taking place in the West Indies the subject of Mycology had also won official recognition in Ceylon where by 1900, although there was as yet no Department of Agriculture, J. B. Carruthers had become Mycologist and Assistant Director of the Royal Botanic Gardens. The position of Mycology in the Colonial Service now, compared with what it was in 1900, is very similar to that of Entomology already indicated.
+
+Leaving now these specialized branches it will be of interest to refer to the development of the modern Departments of Agriculture. It must be remembered that in early days official assistance in the introduction of new, or the improvement of existing, planting industries in the Colonies had been given through botanical establishments. The more advanced Colonies had Botanic Gardens usually under the control of a scientific Director or Government Botanist, with a Curator as chief of staff. Other Colonies had smaller establishments often styled Botanic Stations with usually a Curator in charge. All worked in close touch with the Royal Botanic Gardens at Kew, which served as a clearing house both for seeds and plants and also for knowledge relating to economic plant products. The Curators of the Colonial Botanic Gardens and Stations, were almost universally Kew trained men. The basis of all these establishments was entirely botanical. I well remember a West Indian Chief Justice, who took an interest in Colonial history telling me in Barbados in 1900 that when a Colony had reached a certain stage of development you might expect two appointments to be made—a Bishop, and a Government Botanist. I found later that he was remarkably accurate in the case of Trinidad where the foundation stone of the Roman Catholic Cathedral was laid in 1816 and of the Anglican Cathedral in 1818 in which same year the first Government Botanist was appointed some 22 years before the establishment of Kew Gardens as a national institution. When later the task of dealing with all phases of Colonial planting enterprises became more complex, the work was divided between Kew and the Imperial Institute (founded in 1887); the former dealing with botanical questions and the distribution of plants and seeds, the latter with questions relating to the properties and utilisation of colonial economic products. Although other bodies have since been formed to deal with special products, e.g., cotton, Kew and the Imperial Institute remain today the central clearing houses of information on the economic plants of the Colonies and the uses to which they can be put.
+
+I have strayed from the immediate point of the development of Colonial Departments of Agriculture and so will return. If you consult the list published annually in the *Kew Bulletin* of Colonial Botanic Establishments you will find in that for 1900 the position was as follows: In the West Indies, the Imperial Department with a Commissioner, Entomologist, and Scientific Assistant; two Lecturers in Agricultural Science (Jamaica and Barbados), five Agricultural Instructors in the small islands, one Agricultural School (Dominica) and an Agricultural Assistant in British Guiana.
+
+41------------------------------------------------
+
+240
+
+Zanzibar, a Director of Agriculture. Ceylon, an Entomologist, and Mycologist on the R.B.G. staff. A Superintendent of Plantations in the Federated Malay States, a Head of the Scientific Department in British Central Africa (now Nyasaland).
+
+In all the other Colonies the establishments were purely botanical, at any rate in name if not in work. One should also point out that in the West Indies chemical assistance was available from the Government Analysts in Jamaica, Trinidad, Barbados, and British Guiana, and also, in Barbados, Mr. J. K. Bovell was engaged on the production of seedling canes although his substantive post was that of Superintendent of Dodd's Reformatory. The position may perhaps be still more strikingly brought home, if we consider Africa. In 1900 the official staff available to deal with all matters affecting agriculture in the whole of British tropical Africa—West, Central, and East—comprised the Director of Agriculture in Zanzibar, and the Head of the Scientific Department in B.C.A.; seven Curators of Botanic Gardens or Stations, viz., Gambia, Sierra Leone, Gold Coast, Lagos, S. Nigeria, and Uganda; with three Assistant Curators in Gold Coast, Lagos, and S. Nigeria. A total of twelve, without one man amongst them possessing a university degree or equivalent qualification.
+
+Contrast the position in say, Nigeria to-day and in 1900. Then there were two Curators and two Assistant Curators. Today according to the 1931 List already mentioned, there are four Directors and Assistant Directors and their deputies, one Mycologist, two Entomologists, six Chemists, four Botanists, and thirty-six Superintendents of Agriculture. In addition the Department of Agriculture includes a Veterinary Department with a staff of sixteen, and a Medical Department with ten. Of the staff of fifty-three on the more strictly agricultural side, forty-one are science graduates, nine hold diplomas and only three have no "paper" qualifications.
+
+I have not selected Nigeria as an exceptional case but as illustrative of the far reaching change which has taken place as regards the official assistance given to agriculture in tropical Africa since the beginning of the century. In other parts of the tropical Empire development has proceeded along somewhat similar lines—mostly during the last quarter of a century.
+
+It will be evident therefore that our knowledge of scientific tropical agriculture is of quite recent growth. On the other hand what may conveniently be termed the art of agriculture in the tropics as practised by various native races, is based frequently on very long experience and very close observation.
+
+Take with respect to the latter point the discoveries made by native races on the properties of plants. They are indeed remarkable. The modern world uses large quantities of three beverages, tea, coffee, and cocoa, the first prepared from the leaves, the others from seeds, but all alike containing as their essential principle caffeine or a closely similar alkaloid. Two other plants of considerable but not such wide use for the sake of their stimulating alkaloids are cola (caffeine) and coca (cocaine). In these cases beverages are not prepared but the seeds or leaves respectively are chewed. The discoveries of the properties of these plants and the methods of utilization were made not only in widely separated parts of the world, tea in Indo-China, cola in tropical Africa, coffee in Arabia, cocoa in Central America, and coca in the Andean region, but so long ago that they are lost in the mists of antiquity. What is still more remarkable is that primitive man seems to have conducted his researches so thoroughly that all the resources of science have not as yet discovered any other plants containing important supplies of these alkaloids. I have often wondered when strolling through a tropical forest or through a botanic garden how primitive
+
+42------------------------------------------------
+
+241
+
+man made his discoveries, for casually chewing a cola nut or a coca leaf produces no appreciable stimulation. Similarly it would be a piece of very long range research to prepare and test infusions of all the available seeds or leaves.
+
+On a point of agricultural practice too we know that some tropical crops, e.g., coffee and cacao, are commonly grown under the shade of other trees, the practice having been handed down from remote times. When, by experiments, we endeavour to ascertain whether this is a desirable practice or not, it is very difficult to arrive at a definite conclusion even when we restrict our attention to the use of one particular kind of tree. We might expect that native races in Central America who shade their coffee do so as the result of observation and that they would use any trees which happen to be available—and they are many as shown, however, a good many years ago by O. F. Cook this is not so. In different districts they use different trees, but with one thing in common; they practically all belong to the *Leguminosae*. In other words the practice is a form of green manuring applied to permanent crops. These folks have not an ancient literature or we might have the advantage of being able to read their views on the use of these leguminous shade trees set down as precisely as those of the Chinese, the Greeks, and the Romans on the green manuring of annual crops.
+
+This extract from p. 10 of Dr. A. J. Pieters' *Green Manuring* must suffice. "In Ts'i Min Yao Shu of Chia Szu Hsieh, who lived about the fifth century B.C., there is a passage which reads: 'For manuring the field, lu tou (*Phaseolus mungo* L. var. *radiatus* Bak.) is best, and siao tou (*P. mungo* L. var.) and sesame rank second. They are broadcast in the fifth or sixth month, and ploughed under in the seventh or eighth month . . . Their fertilizing value is as good as silk worm excrement and well-rotted farm manure'."
+
+Plant breeding, or at any rate the selection and propagation of improved types must also have been pursued from very early times. Amongst tropical examples we may cite the countless varieties of rice in the Eastern tropics, the large number of edible seedless bananas in the Indo-Malayan region all necessarily propagated vegetatively, and the races of maize in tropical America "improved" out of all resemblance to any known wild plant.
+
+Early man often took great pains to conserve the fertility of the soil as so well described in F. H. King's *Farmers of Forty Centuries or Permanent Agriculture in China, Korea, and Japan*, a book which all should read. As a more tropical example there is the case of Ceylon where for some 1500 years the food supplies for a large population were grown in the arid northern region with the aid of an excellent system of irrigation works. The evidence of the by-gone civilisation of this district is indicated now by the famous Buried Cities. European man favoured the wet montane areas for his coffee and later tea plantings but was not so wise in his methods. As Mr. John Still says in his charming book on Ceylon entitled *The Jungle Tide*, "It is now about one century since coffee planters attacked the forests of the hills. They have at last begun to conserve the soil, but in the early days of planting they lived on nature's capital, and the humus laid in store by the leaf fall of millions of years was flayed off by the rain-fall of a few thousands of days when first the soil was denuded of its protecting forests, and carried down in spate to the sea; and now the older tea lives on fertilisers".
+
+43------------------------------------------------
+
+242
+
+“In time the jungle tide will swing once more, and then those who care for other things than wealth will wander back to the wet side of the monsoon line, and while elephants browse where tea is now plucked, antiquaries will unearth the ancient bungalows of the British period, or even of the Scottish which will lie beneath it, and classify the different kinds of bottles found among the ruins, and arrange them in museums. Having both planted tea *and* arranged the antiquities of a museum, I venture to prophesy that this picture will be realised in very much less than fifteen centuries, perhaps in one-fifth of that, or perhaps in one-tenth”.
+
+There are many other tempting topics to touch upon but I must not digress further. I have attempted to sketch, however cursorily, the development of our modern agricultural organisations in the tropical Colonies. Our own knowledge and experience of agriculture in those countries is as yet very limited, whilst in many countries our officials come into touch with, and have to serve as advisers to peoples whose agricultural practices are based on experience gained through many centuries. All I would urge now on the young agriculturist is to go out with an open mind prepared to admit that if a native people do not follow some recognized British practice it is not necessarily because they are foolish or obstinate. By study of their methods he may arrive at the reason for them and then with the modern resources at his command be able to lead them on to improvements.
+
+44------------------------------------------------
+
+243
+
+## MOSQUITO REMEDIES AND PREVENTIVES\*
+
+**M**OSQUITOES, as a whole group, utilize breeding places of the most diverse character. While some species, however, have general breeding places and their larvae will live in almost any chance accumulation of water, other species are restricted in the character of their breeding places. Certain forms breed only in holes in trees; others in accumulations of water in epiphytic plants; others, only in crab-holes on sea beaches. Some species breed only in salt marshes and lay their eggs on mud; others lay their eggs on the surface of water. Certain species breed only in pools formed by melting snow, and as such pools occur only at one time of the year there is but one generation, and the eggs are laid in midsummer or later in hollows in the earth that will be filled with water from melting snow in the ensuing spring. Another species, frequently very annoying, breeds only in certain permanent swamps, where the larva lives attached to the roots of certain aquatic plants. Still another breeds in the pitchers of pitcher plants.
+
+Where rain barrels and rain-water tanks are necessary they should be screened. The waste places in the immediate vicinity of a house should be carefully searched for tin cans, bottles, and wooden or tin boxes in which water can accumulate and all such receptacles should be destroyed or carried away. It is good practice to punch several holes in each can as it is emptied so that, wherever it may be finally deposited, water will not be held in it. The roof gutters of every building should be carefully examined to make sure that they are not clogged and allowing water to accumulate. Where the branches of tall trees overhang roofs this is especially likely to occur by the agency of falling leaves or twigs. The chicken pans in the poultry yard, the water in the troughs for domestic animals, the water cup of the grindstone, are all places in which these mosquitoes will breed, and water should not be allowed to stand in them for more than a day or so at a time.
+
+Water accumulating under water tanks should be treated or drained away. Urns in cemeteries have been found to breed mosquitoes abundantly. Holy-water fonts in churches, have been found to breed many mosquitoes. In slightly marshy ground a favourite breeding place is the footprints of cattle and horses. In one country village, which contained many small vegetable gardens in clay soil, during a rainy season mosquitoes were found breeding abundantly in the water accumulating in the furrows in the gardens.
+
+Even in the house these mosquitoes breed in many places where they may be overlooked. Water in vases or in the pitchers in guest rooms should be frequently changed, as otherwise mosquitoes may breed therein. They will breed in the tanks in water-closets, in pipes, and under stationary washstands where these are not frequently used. In warehouses and on docks they breed abundantly in the fire buckets and water barrels. Treatment of such places with borax will prevent mosquito breeding. The borax is used in the proportion of 2 ounces per gallon of water to be treated. Water so treated cannot be used for drinking or for watering plants.
+
+---
+
+\* From U. S. Department of Agriculture, *Farmers' Bulletin*, No. 1570.
+
+45------------------------------------------------
+
+244
+
+In country houses, where ants are troublesome, and where it is the custom to insulate the legs of the tables with small cups of water, mosquitoes will breed in these cups, unless a small quantity of kerosene is poured in. Where broken bottles are placed upon a stone wall, water accumulates in the bottle fragments after rains, and mosquitoes will breed there.
+
+Old, disused wells in gardens are frequent sources of mosquito supply, even where apparently carefully covered, and here the nuisance is easily abated by the occasional application of kerosene. The same thing may be said of cesspools. Cesspools are frequently covered with stone and cement, but the slightest break in the cement, the slightest crack, will allow the entrance of these minute insects, and unlimited breeding often goes on in these pools without the cause of the abundance of mosquitoes in the neighbourhood been suspected.
+
+Fountains and ornamental ponds are common breeding places, and here the introduction of fish, as indicated in another place, is usually all-sufficient. It frequently happens, however, that the grass is allowed to grow down into the edges of ornamental ponds, and mosquito larvae find refuge among the vegetation and so escape the fish. Broad-leaved water plants are also often grown in such ponds, and where broad leaves lie flat on the surface of the water, as they frequently do, one portion of a leaf may be submerged so that mosquito larvae may live undisturbed in the water above the submerged portion of the leaf, protected by the leaf itself from the fish rising from below. It is necessary, therefore, to keep the edges of such ornamental ponds free from vegetation and to choose aquatic plants whose growth will not permit mosquito-larvae protection.
+
+In these latter localities will be found not only the house mosquitoes, previously mentioned, and the rain-barrel mosquitoes, but also some of the other forms, and particularly the malaria-breeding mosquitoes of the genus *Anopheles*. Some of these breed in all sorts of water accumulations.
+
+In many small country towns, even where there is a water supply, tanks to supply bath rooms are built under the roofs. Such tanks should be screened since mosquitoes gain entrance to the tank room either through dormer windows or by flying up through the house from below, in search of places to lay their eggs.
+
+About a large old house or a public building there are so many of these chance breeding places that only the most careful and long continued search will find them all. As an example, in a State hospital, after a search which lasted for many days, and after treatment of all possible breeding places found, mosquitoes still continued to annoy the patients. Finally in the darkest part of a disused cellar was found a half-barrel containing water, which was giving out mosquitoes at the rate of hundreds per day. Frequent change of water or the use of kerosene will render all such breeding places harmless.
+
+In community work in cities all of the points mentioned must be borne in mind, and where the residences are for the most part villas, in the absence of swampy suburbs, the householders are in the main responsible for their own mosquitoes. There are, however, breeding places for which the municipality may be said to be responsible, and these entirely aside from public fountains, reservoirs or marshes. Open gutters or ditches on the roadside may breed a generation of any one of several species of mosquitoes, including malarial mosquitoes. On a pasture or common, where sod has been removed, water accumulating in the excavations thus formed may breed a generation of malarial mosquitoes. All such accidental breeding places should be filled in.
+
+46------------------------------------------------
+
+245
+
+It seems unlikely that in any general sewage system mosquitoes may breed in the sewers proper. That they do breed in the catch basins is well known. The purpose of the catch basin is to catch and retain by sedimentation sand and refuse which would otherwise enter the sewer and be deposited in it. It is intended to be water-tight and to hold a considerable body of water, which stands in it up to the level of the outlet pipe. Such catch basins are very commonly located in back yards and at street crossings. The water is removed only by rain or when the street or yard surfaces are washed. In dry seasons the period of stagnation may last several weeks, certainly, long enough for mosquito breeding. As a matter of fact, mosquitoes in midsummer do breed in such traps or catch basins by millions. These basins may be treated with fuel oil, or the municipal authorities may flush them once a week, carrying away such larvae as may be hatched. Oiling such places is best, however.
+
+Since many serious mosquito-breeding conditions have been brought about by railroad, highway, and other construction work, such operations should be well supervised and the contractors prevented from creating mosquito nuisances.
+
+Public dumps are great breeding places, because here accumulate old bottles, cans, boxes, bits of tin or iron vessels, and other objects in which water may stand for a time. Even a very small quantity of water will make a breeding place for very many mosquitoes. It is quite possible for half of a bottle to contain enough water to give out literally thousands of mosquitoes. The writers know of one instance in which a veritable plague of mosquitoes was traced to a case of empty bottles allowed to remain in a back yard for some weeks in midsummer. It is of great importance to have unburnable refuse from village and cities dumped in definite places, and the dumps properly cared for. It is usually possible to find a hollow in a convenient location where the dumping may be done systematically and where the unsightliness of the debris as well as the danger of mosquito breeding may be avoided, at reasonable expense, by keeping the freshly dumped material covered with earth.
+
+The suitability of such places for mosquito-breeding should be destroyed by carting away chance receptacles, by turning over vessels, by filling in excavations, or by treating other receptacles with a film of kerosene, or by introducing fish into fountains and artificial pools.
+
+Under certain circumstances mosquito may breed in water accumulating in the troughs of underground-conduit electric railways.
+
+### DRAINAGE MEASURES
+
+Drainage measures are one means of treating breeding places. The value of reclaimed swamp lands for agricultural and industrial purposes has been fully demonstrated, and the advantages of eliminating swamp areas in the vicinity of well-populated districts are manifold. The drainage of swamp areas primarily to improve sanitary conditions and to reduce the scourge of mosquitoes, which in itself often prevents the proper development of near-by regions, is being done. Drainage on a small scale to do away with mosquitoes has been practised for a long time, and in many parts of the country large-scale drainage for mosquito abolition is going on here. Methods of draining cannot be discussed here but it should be pointed out that in case of salt-marsh land the operation is comparatively inexpensive, and results of great value have been obtained in California, New Jersey, Florida, and other States.
+
+47------------------------------------------------
+
+246
+
+Mosquito breeding along small streams can often be prevented at small cost by straightening and cleaning the banks and cutting small ditches from pools and seepage areas to the stream. While ditching may not always eliminate all the pools, the ditches allow minnows to gain ready access to them, and these minnows can be relied upon to destroy all accessible mosquito larvae.
+
+Great numbers of mosquitoes breed in irrigation waters on meadows, in sloughs created by waste water, and in rice fields. These create problems that are difficult to handle, but the periodic drainage of rice fields and occasional cutting off of irrigation waters are possible methods of attack under certain conditions. Proper grading and the installation of drainage ditches or the tile drains often aid in reducing mosquito breeding in slough and marshes created by irrigation. The utilization of minnows and other control methods are usually necessary supplemental measures in rice fields and meadows.
+
+Where the abolition of mosquito-breeding places demands extensive drainage, it is most effective and economical to employ a drainage engineer to map out the entire programme before the work is actually begun.
+
+### OILS AND LARVICIDES
+
+While it is obviously best to abolish breeding places in the ways mentioned, it often happens that it is not possible to drain them and as a temporary expedient at least it becomes desirable to treat the water so as to kill the mosquito larvae. Many substances have been tried, and, aside from certain proprietary mixtures, nothing has given such good results as oils. Efforts to find oils that can be used to better advantage than petroleum have failed. Because of its general availability and low cost, ordinary low-grade kerosene is very satisfactory. For extensive oiling operations, however, one of the petroleum distillate fuel oils, known also as gas oils, is preferable to kerosene.
+
+In choosing the grade of oil two factors are to be considered: (1) It should spread rapidly; (2) it should not evaporate too quickly. The heavier grades of oil will not spread readily over the surface of the water, but will cling together in spots and the coating will be unnecessarily thick. The rapidity with which the film spreads is also important. If the water is still, an ounce of kerosene to 15 square feet of surface space is about the right proportion, and in the absence of wind such a film will remain persistent for 10 days or slightly longer. Even after the iridescent scum apparently disappears there is still an odour of kerosene about the water. Wind will frequently blow the film of kerosene to one side, but a change of wind will blow it back again, so the larvae are destroyed. Not only are larvae and pupae destroyed by the kerosene film, but many adult mosquitoes alighting on the surface of the water to drink or to lay their eggs are killed by it. In California, H. J. Quayle has used a combination of heavy oil of 18° gravity and a light oil of 34° gravity, in the proportion of 4 to 1, respectively. This mixture made an oil just thin enough to spray well from an ordinary spray nozzle and yet thick enough not to evaporate rapidly. It was applied from a barrel pump where this could be used, and from an ordinary knapsack pump in other regions. A single application was found to be effective sometimes as long as four weeks. The army of occupation in Cuba used oil every two weeks.
+
+In New Jersey much experimental work with various larvicides has been done. The authorities in charge of anti-mosquito work in that State have found very satisfactory distillate fuel oils of a specific gravity ranging between 28° and 38° Baumé with a minimum flash point of 150° F. J. M. Ginsburg, of the New Jersey Experiment Station, has also found that the
+
+48------------------------------------------------
+
+247
+
+addition of one gallon of crude cresylic acid containing 95 per cent of tar acids to 100 gallons of fuel oil increases the spreading of the oil on both salt and fresh waters covered with dead organic matter and vegetation.
+
+There is some objection to the use of the coloured petroleum oils and to kerosene on small ornamental pools on account of the discolouration effected by such oils and their adverse effects on plants. Where it does not seem feasible to utilize fish in such pools, the mosquito larvae can be destroyed by covering the surface with a film of gasoline, but the effect of this treatment is of short duration.
+
+In this connection mention should be made of the pyrethrum mosquito larvicide developed by workers of the New Jersey Experiment Station, which appears to be admirably suited for use in ornamental pools or wherever oil is objectionable. This larvicide is made up to contain 66 per cent kerosene, or a similar light petroleum oil, containing pyrethrum extract (equivalent to 1 pound of pyrethrum flowers to the gallon of oil) and 34 per cent of water containing from 3 to 5 per cent of soft soap. The ingredients are thoroughly mixed by violent agitation, thus forming an emulsion which mixes readily with water. For use in killing mosquito larvae and pupae, dilute this stock solution with from 10 to 15 times its bulk of water and spray it on the mosquito-breeding pools. Extensive tests by the New Jersey authorities have shown it to be efficient in mosquito control and harmless to water-fowl, fish, or ornamental plants.
+
+The use of a spray pump has been mentioned. Small ponds can be sprinkled with an ordinary watering pot with a rose nozzle, or pouring the liquid out of a dipper or cup will be satisfactory. In larger ponds, the pumps with straight nozzles may be used. A straight stream will sink and then rise and spread until the whole surface of the pond is covered without waste. The English workers in Africa advise mopping the kerosene upon the surface of the water by means of cloths tied to long sticks and saturated with kerosene.
+
+In many cities of the eastern States it has been found both economical and efficient to oil open breeding places regularly by means of a tank truck equipped with a good lead of hose and a spray nozzle. Catch basins along the streets can be expeditiously treated by means of an air pressure hand sprayer carried in a motor cycle side car, the stop at each basin consuming something less than a minute.
+
+In Panama a larvicide made as follows is being used: 150 gallons of carbolic acid is heated in a tank to a temperature of 212°F. Then 150 lb. of powdered or finely broken resin is poured in. The mixture is kept at a temperature of 212°. 30 pounds of caustic soda is then added and the solution is kept at the same temperature until a perfectly dark emulsion without sediment is formed. The mixture is thoroughly stirred from the time the resin is added, until the emulsion is made. One part of this emulsion to 10,000 parts of water is said to kill *Anopheles* larvae in less than half an hour, while 1 part to 5,000 parts of water will kill them in from 5 to 10 minutes. At a larvicide plant at Ancon, 4,600 gallons of this mixture was made at a cost of 0.1416 dollars per gallon. Although this mixture has been used to a large extent in Panama, crude oil was also used on streams having a fair velocity.
+
+It has been found that Paris green of standard quality mixed with fine dust and blown as a powder over the surface of water will kill the top-feeding larvae of *Anopheles* mosquitoes. This method has come into use in anti-malaria operations in many parts of the world. Paris green is mixed with road dust, fuller's earth, powdered soapstone, or something of the sort.
+
+49------------------------------------------------
+
+248
+
+in the proportion of about 10 per cent by weight of Paris green. This dust may be distributed over breeding waters in many ways. A very convenient and effective distribution over comparatively small bodies of water may be made from a boat by means of a hand or motor-driven dust gun such as is used for dusting cotton for boll-weevil control. On large areas of marsh the airplane has been found an expeditious and economical means. In malaria mosquito control operations at Quantico, Va., in 1927, under the joint auspices of the Public Health Service and the Medical Department of the Navy, the effective quantity of Paris green was found to be about 1 pound per acre of marsh and the cost of material 72 cents per acre.
+
+It has since been shown that Paris green may be used against mosquito larvae that feed below the surface of the water if it is mixed with moist sand which drags it below the surface film.
+
+### IMPOUNDING WATER TO CONTROL MOSQUITOES
+
+The breeding of mosquitoes, especially of those species which carry malaria, is greatly favoured by the presence, along the banks of streams, ponds, and bayous, of vegetative growths, shallow water, and irregular bank lines. In certain sections the drainage depends upon extensive systems of sluggish streams and bayous. By raising the water level in such bayous by means of dams, it is possible greatly to reduce the opportunities for mosquito breeding. Such a plan increases the wave action, reduces the quantity of vegetation growing in the water, and enables top minnows and mosquito-feeding insects to carry on their work more effectually. The shelter along the banks of the streams is also reduced, thus giving less protection for the adult mosquitoes and decreasing egg laying.
+
+### PRACTICAL USE OF NATURAL ENEMIES OF MOSQUITOES
+
+The common goldfish and silverfish destroy mosquito larvae and should be put in artificial ponds. Top minnows of several species have been introduced successfully in several localities and are great feeders upon mosquito larvae. Certain species introduced from Texas into Hawaii have been successful, and a small top minnow of the genus *Girardinus*, known in the Barbados as "millions," has been carried with success to other British West Indian Islands. In Rio de Janeiro another top minnow has been placed by the public health service in tanks and boxes where it was impossible to use petroleum. Top minnows are present in all parts of this country and are very useful in destroying mosquito larvae. One of the most effective mosquito-destroying top minnows, which occurs abundantly in the fresh or brackish waters of the Southern States, is known as *Gambusia patruelis*. This top minnow has been successfully introduced into most northern localities. The effectiveness of these minnows may be increased by clearing the water of any vegetation or debris which will prevent the minnows from free access to all parts.
+
+Many predatory aquatic insects feed upon mosquito larvae; others catch the adults. Certain birds prey upon the adults, and bats also eat them, but the erection of bat roosts in the hope that this action will bring about an appreciable reduction in the mosquito population is not recommended by this department.
+
+### LOCATION OF DWELLINGS IN RELATION TO MOSQUITO-BREEDING PLACES
+
+In the establishment of new town sites and of sites for camps the importance of choosing high, well-drained ground, well removed from mosquito-breeding areas is obvious.
+
+50------------------------------------------------
+
+249
+
+Since most mosquitoes do not travel great distances, (the salt-marsh mosquitoes are notable exceptions to this rule) especially in non-wooded areas, it is possible to avoid a great deal of mosquito annoyance by a proper choice of such sites.
+
+## RELATION BETWEEN LIVE-STOCK AND MOSQUITOES AND MALARIA
+
+In many parts of the country, especially along the coast where the salt-marsh mosquitoes breed, live-stock are greatly annoyed by the attack of these insects. In fact, when swamps of mosquitoes become especially large the cattle, which normally feed in the more or less wooded areas along the coast, are so beset that their flesh condition and vitality are reduced, and they are ultimately driven into the open country, where the mosquitoes are less numerous. In irrigated areas in the west, as well as in inland swampy areas, live-stock and poultry are often greatly annoyed by mosquitoes. No satisfactory method of protecting live-stock from mosquitoes has been found. Well-constructed dairy barns may be screened so as to give some protection and kerosene-pyrethrum extract sprays will kill great numbers of the mosquitoes and have a slightly repellent action on others. Smudges have also been found to give a certain degree of protection to live-stock, both in buildings and in pastures. The fact that mosquitoes will feed upon various animals and poultry apparently has some protective effect for man. It has been observed frequently that where domestic animals are in close proximity to human beings the mosquitoes will feed upon the former and neglect the latter. It is possible that this may be a factor in reducing the incidents of malaria under certain conditions. The statement has been made that when malaria-infested mosquitoes feed repeatedly upon domestic animals they soon lose their ability to carry the disease.
+
+## DETERRENT TREES AND OTHER PLANTS
+
+A great deal has been published about the properties of certain growing plants which are said to keep away mosquitoes. Among these may be mentioned several species of Eucalyptus, the castor-oil plant, the China-berry tree, and others. Although the evidence in regard to these plants is contradictory, all observations made by scientific men in different parts of the world negative their value as mosquito repellents; claims of such properties are made only by people who have not made thoroughly scientific tests. Evidence is accumulating, however, that certain algae of the genera *Chara* and *Nitelia* will render water pools distasteful to mosquitoes.
+
+51------------------------------------------------
+
+250
+
+## MEETINGS, CONFERENCES, ETC.
+
+### THE COCONUT RESEARCH SCHEME (CEYLON)
+
+#### BOARD OF MANAGEMENT
+
+Minutes of the seventeenth meeting of the Board of Management of the Coconut Research Scheme, held at Bandirippuwa Estate, Lunuwila, at 11.30 a.m. on Wednesday, September 7, 1932.
+
+*Present.*—Dr. W. Youngman (in the chair), Mr. J. Fergusson, Sir. H. Marcus Fernando, Messrs. J. L. Kotalawala, M.S.C., G. E. Madawela, M.S.C., G. Panditesekere, J.P., U.P.M., S. Pararajasingham, J.P., Gate-Mudaliyar A. E. Rajapakse, M.S.C., Mr. A. W. Warburton-Gray, J.P., U.P.M., and Mr. J. I. Gnanamuttu (*Secretary*).
+
+Dr. R. Child, Chief Technical Officer, was present by invitation.
+
+Explanation of inability to attend the meeting had been received from Mr. C. W. Bickmore, Deputy Financial Secretary.
+
+1. *Minutes.*—The minutes of the sixteenth meeting of the Board of Management, held on June 1, 1932, were confirmed.
+
+2. *Board of Management.*—The Chairman reported with regret the death of Mr. T. B. Madawela, R.M., one of the two members representing the small-holders, and moved that the sympathy of the Board be recorded.
+
+The Chairman welcomed Mr. S. Pararajasingham, who had been nominated by the Low-Country Products Association to take the place of Sir H. Marcus Fernando, now an ex-officio member of the Board in his position as Chairman of the same Association.
+
+3. *Technical Reports.*—With reference to paragraph 4 of the Chief Technical Officer's quarterly report to 30th June, a sum of Rs. 400 was voted for improvements to the superintendent's quarters, the details of expenditure being left to the Building Committee.
+
+With reference to the suggestion in the Geneticist's quarterly report to 30th June that a permanent nursery be established on Bandirippuwa Estate large enough to hold 2,000 to 2,500 seedlings for experimental work, the Chairman asked whether the proposed nursery on a separate piece of land should not be considered. Dr. Child reported that the site proposed near the paddy field on the western boundary of the estate would not involve the destruction of many trees. The existing trees were generally poor and might be cut down to the extent desired. The laying down of a nursery on the lines suggested by the Geneticist was approved. It was desired that the Geneticist should investigate the possibility of guaranteeing the male parent of a given seed nut.
+
+52------------------------------------------------
+
+251
+
+Mr. Warburton-Gray suggested the installation of batteries for the lighting of the bungalows to save the continuous running of the power engine. The proposal was referred to the Building Committee with instructions, if possible, to carry it out.
+
+The Board decided that any question of disease or pest affecting any plantation should be referred by the technical staff to the Department of Agriculture.
+
+4. *Private land for experimental purposes with selected seed nuts.*—The Chief Technical Officer reported difficulty in finding unplanted land for this purpose in the district. The Board desired that the Chairman should pursue this matter further with the Assistant Government Agent, Puttalam, and that every endeavour should be made to obtain a piece of Crown land in the neighbourhood of Bandirippuwa.
+
+5. *Estate.*—(a) With reference to the estate progress accounts for May, June, and July, 1932 which had been circulated to members, Mr. Pararajasingham desired a census of the trees. The following figures, as at August 25, 1932, were given by the Chief Technical Officer:
+
+<table border="1">
+<thead>
+<tr>
+<th>Block No.</th>
+<th>No. of trees<br/>in bearing</th>
+<th>Stems</th>
+<th>Young<br/>palms</th>
+<th>Vacancies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Block No. 1</td>
+<td>3541</td>
+<td>73</td>
+<td>50</td>
+<td>13</td>
+</tr>
+<tr>
+<td>" " 2</td>
+<td>4198</td>
+<td>41</td>
+<td>33</td>
+<td>23</td>
+</tr>
+<tr>
+<td>" " 3</td>
+<td>1497</td>
+<td>30</td>
+<td>19</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Geneticist's A.</td>
+<td>295</td>
+<td>3</td>
+<td>2</td>
+<td>—</td>
+</tr>
+<tr>
+<td>" B.</td>
+<td>299</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>9830</td>
+<td>148</td>
+<td>104</td>
+<td>59</td>
+</tr>
+</tbody>
+</table>
+
+Mr. Pararajasingham suggested that in future progress accounts a comparison with the previous year's crop and cost per 1,000 nuts be shewn. This was agreed to.
+
+(b) The Chairman pointed out that, for the purpose of clearing the building areas, re-surfacing the cart road and the transport of nuts, the provision of carts and bulls had become necessary and might prove more economical than hired carts. Mr. Warburton-Gray proposed the purchase of two carts and six bulls. Sir Marcus Fernando advised that the carts should be of the "three-quarter" type which was made at Madampe and its neighbourhood. He also suggested that one disc-harrow and one plough be purchased. Mr. Pararajasingham proposed that a sum of approximately Rs. 1,000 be voted for the purchase of the carts, bulls, and implements. This was seconded by Sir Marcus Fernando and carried.
+
+6. *Finance.*—(a) The statement of receipts and disbursements for the quarter ended June 30, 1932, which showed a cash balance at that date of Rs. 112,909.89, was passed.
+
+(b) The Board desired that the complete draft Estimates of Revenue and Expenditure for 1933 be circulated to members for their comments before submission to the State Council.
+
+(c) The Board endorsed certain payments made to the Contractor and the Architects in terms of their agreements.
+
+53------------------------------------------------
+
+252
+
+(d) The Chairman reported that two fixed deposits amounting to Rs. 30,800 had been transferred to current account and that one fixed deposit of Rs. 30,000 had been renewed for a further period of one year at  $3\frac{1}{2}$  per cent interest.
+
+He also reported that Rs. 100,000, being the first moiety of the Rs. 200,000 loan under the Coconut Research Ordinance No. 29 of 1928, would be drawn in the current month.
+
+Mr. Warburton-Gray proposed an experiment on the following lines:—
+
+Take 12,000 well-mixed newly-plucked nuts, leave 6,000 outside, and put 6,000 in a shed where they will get no sun or rain on them.
+
+After 14 days husk 1,000 from those in the shed and 1,000 from those outside and keep copra carefully apart.
+
+The balance to be treated in the same way every fortnight.
+
+Leave 3 per cent or even 4 per cent of extra nuts in each heap for bad nuts.
+
+A memorandum showing bad nuts at each husking to be kept.
+
+The Chief Technical Officer mentioned that he had put forward a scheme of experiments to be taken in hand upon the completion of the Laboratory; in the meantime he would give effect to Mr. Warburton-Gray's proposal.
+
+Mr. Pararajasingham urged the erection of an up-to-date copra kiln for the conversion of 20,000 nuts, to serve as a model to other estates. The Chief Technical Officer was instructed to submit an estimate for such a copra kiln with asbestos composition roofing.
+
+By order,  
+J. I. GNANAMUTTU,  
+Secretary,  
+The Coconut Research Scheme, (Celyon).
+
+54------------------------------------------------
+
+253
+
+## THE TEA RESEARCH INSTITUTE OF CEYLON
+
+Minutes of the Meeting of the Board of the Tea Research Institute of Ceylon, held in the Victoria Commemoration Buildings, Kandy, at 2 p.m. on Thursday, July 28th, 1932.
+
+*Present.*—Mr. G. K. Stewart, M.S.C., (Chairman), Dr. W. Youngman, Major J. W. Oldfield, C.M.G., M.C., O.B.E., Messrs. D. H. Kotalawela, M.S.C., A. G. Baynham, R. D. Morrison, I. L. Cameron, C. Huntley-Wilkinson, C. C. du Pré Moore, A. W. L. Turner (Secretary), Mr. R. R. Muras (Accountant) and by invitation, Dr. Roland V. Norris (Director, T. R. I.), and Mr. J. W. Ferguson (Visiting Agent).
+
+Letters and telegrams regretting inability to be present at the Meeting were received from Sir Wilfrid Woods, Mr. John Horsfall, Mr. C. H. Z. Fernando, and Mr. John A. Rogers.
+
+The Minutes of the Meeting of the Board of the Tea Research Institute of Ceylon, held on the 29th March, 1932, were confirmed.
+
+### 1. MEMBERS OF THE BOARD OF THE T. R. I.
+
+The Chairman announced that Mr. C. H. Z. Fernando had resigned his appointment from the Board, and the Low-Country Products Association would shortly appoint someone in his place.
+
+The Chairman welcomed Mr. R. D. Morrison and Mr. I. L. Cameron, who were acting for Mr. J. A. D. Finch Noyes, and Major H. Scoble Nicholson, O.B.E.
+
+### 2. FINANCE
+
+(a) The Statement of Accounts as at 30th June, 1932, was adopted.
+
+(b) *Finance Sub-Committee.*—The Chairman stated that it was the custom to appoint a Finance Sub-Committee for specific purposes as and when required. He had referred to all Members of the Board and the following Sub-Committee had been elected for the purpose of examining the financial position as at 30th June, and the estimates for the period July to December, 1932: the Chairman, T.R.I., the Chairman, P. A. of Ceylon, Mr. John Horsfall, Major J. W. Oldfield, and Mr. R. D. Morrison.
+
+The election of the above Sub-Committee was confirmed.
+
+(c) *Grants to the Imperial Entomological Institute and the Imperial Mycological Institute.*—Referring to Circular No. B. 1/32 of the 19th April, the Chairman said that it had been agreed to make contributions of Rs. 750 - to the Imperial Entomological Institute and the Imperial Mycological Institute and a cheque covering these payments had been sent to the Financial Secretary.
+
+### 3. TRAVELLING ALLOWANCES
+
+It was decided that the Secretary should go into the whole question of Travelling Allowances with the Director of Agriculture and check the existing rates and also investigate the proposal of a flat rate, and refer the matter to the Board by circulation of papers.
+
+### 4. JUNIOR STAFF PROVIDENT FUND
+
+It was recorded that approval under Section 9 (1) (g) of the Income Tax Ordinance had been obtained.
+
+The Director said that the Board had already approved certain alterations to the Rules whereby members could utilise two-thirds of their own contributions only for insurance purposes. He had called a General Meeting of the Members of the Junior Staff Provident Fund at which it had
+
+55------------------------------------------------
+
+254
+
+been decided to request the Board to reconsider this Rule with a view to allowing two-thirds of the Member's plus the Institute's contributions to be used for insurance purposes.
+
+The Chairman pointed out that the reason why two-thirds of the member's contributions alone had been allowed was because in the case of a member who used both contributions for insurance purposes, the Institute could not withhold any part of the balance standing to a member's credit when that member left the Institute's service.
+
+It was agreed that not more than two-thirds of both contributions could be used for the payment of insurance premia. The terms of all policies to be approved by the Trustees before the policy is taken out.
+
+### 5. SMALL-HOLDERS
+
+The Chairman read the following recommendations put forward by the Sub-Committee which had met the previous afternoon:
+
+1. 1. The Institute to appoint a Small-holdings Officer on a salary scale of Rs. 200-40-400 plus house allowance at Government rates so long as no house is provided.
+2. 2. A demonstration plot of about 10 acres to be leased in the Uda-Palata area and worked by the above Officer.
+3. 3. Subsidiary plots to be selected on small-holders' own land to be worked by the small-holder under the general direction of the T. R. I. Officer. The Committee stress the importance of selecting the right type of small-holder for this purpose as the success of the work will largely depend on the personality and influence of the persons chosen.
+4. 4. In view of the fact that the question is largely an economic one, the Co-operative Society should be approached with a view to help being afforded towards the purchase of manures and other necessities.
+5. 5. Leaflets in the vernacular to be prepared for issue after demonstration work has been started.
+6. 6. Lectures and demonstrations to be given in bought leaf factories.
+
+Mr. Kotalawela in supporting these proposals pointed out that there was a feeling among small-holders who, incidentally contributed according to estimates some Rs. 9,000 to Rs. 10,000 annually by way of the cess to the Institute's funds, were not receiving very much in the way of compensating benefit.
+
+The Director of Agriculture also spoke in support and intimated that the Minister for Agriculture and Lands attached considerable importance to the question of some special operations being undertaken to assist the small-holders.
+
+The Chairman remarked that the financial aspect must receive consideration in view of the Institute's finances and it should be the endeavour of the Board to ensure that such measures as are agreed upon will be of real practical help to the small-holders.
+
+Mr. Kotalawela and the Director of Agriculture were of the opinion that work on the lines suggested by the Sub-Committee should be carried out by the Institute and after general discussion it was decided that the financial provision be sanctioned forthwith and that the details be settled after the Board had studied Dr. Gadd's Memorandum and the conclusions of the Sub-Committee.
+
+It was also agreed that a special officer be appointed forthwith to work on behalf of small-holders as recommended by the Sub-Committee.
+
+56------------------------------------------------
+
+255
+
+In view of the delay which had already taken place in regard to this question of small-holders the Chairman gave his personal assurance that the matter would be proceeded with as soon as the Board had decided the details of the scheme.
+
+During the discussion mention was made of:
+
+- (a) *Demonstrations which had recently been held in Peradeniya.*—The Director of Agriculture pointed out that these were well attended and promised to notify the Director of the Institute when such demonstrations were to be held in future.
+- (b) *Bought Leaf Traders' Association.*—The Director said that on the formation of the Association, he had written and asked if the Institute could help it at all with lectures and demonstrations etc.
+
+## 6. MANUFACTURE OF MID AND LOW- COUNTRY TEAS
+
+(a) The Chairman intimated that a Conference had been held in Colombo on the 14th July, at which representatives of agency firms, buyers, brokers, planters, and Dr. Norris and Dr. Evans had been present. This Conference had been convened for the purpose of putting the scientific officers in direct touch with the requirements of the tea market.
+
+He considered that this Conference would have beneficial results and it was hoped to hold frequent conferences of this nature in future.
+
+The Director pointed out that he had arranged for Dr. Evans to attend Low and Mid-Country Planters' Association Meetings in order to initiate full discussions of manufacturing problems.
+
+In addition a special bulletin on the manufacture of mid and low-country teas would shortly be issued.
+
+The Board agreed that everything possible should be done with a view to improving manufacture, particularly of mid and low-country teas.
+
+(b) *Experimental work at St. Coombs Factory.*—The Chairman said that the Director's view had been forwarded under cover of Circular No. A. 10 32. The basis of the proposals was that the Board should authorise a more definitely experimental manufacturing policy in the factory. As this might to some extent interfere with the commercial routine, the superintendent could not be expected to take the responsibility of such a policy. The Director's proposal was that in order that such experiments should only be carried out on a systematic and carefully thought out plan, the experimental programme should be considered and sanctioned by the Experimental Sub-Committee. In this connection he thought it would be most useful to have on this Sub-Committee a Broker representative and he suggested the name of Mr. R. H. Horne of Messrs. Forbes & Walker.
+
+Mr. Huntley-Wilkinson said that the Experimental Sub-Committee should be given authority to initiate such experiment but the Board should take the responsibility for any fluctuation in prices which might result.
+
+The Board approved of the above proposals and decided to invite Mr. R. H. Horne to join the Experimental Sub-Committee.
+
+(c) *New Machinery.*—The Director said that it would be helpful if facilities could be granted to the Institute's staff to inspect new type of machinery installed on tea estates. They could then perhaps co-operate with superintendents in working out the best method of employing such plant. Such a procedure would be helpful to estates and also give the Institute much useful information.
+
+It was decided to refer this suggestion to the C.E.P.A., and to the P.A. of Ceylon,
+
+57------------------------------------------------
+
+256
+
+## 7. PUBLICATIONS
+
+The Chairman said that certain suggestions had been circulated to the Board under Circular No. B. 3/32 of the 18th May, with a view to standardising the procedure regarding publications and the majority of the members had wished the matter discussed at the Board Meeting.
+
+It was finally decided on the grounds of economy that in future:
+
+- (a) Estate Agency Firms to be limited to one free copy.
+- (b) The Ceylon Association in London to receive 70 free copies, as at present.
+- (c) One free copy to be sent to the Planters' Association of Ceylon.  
+  Two free copies to be sent to the C. E. P. A.  
+  One free copy to be sent to the L. C. P. A.
+- (d) Estates to receive a free copy for the superintendent and an additional copy for each assistant superintendent when requested.
+- (e) Teamakers are not eligible for free copies.
+- (f) The Director to continue to send free copies to other scientific bodies who place this Institute on their free list.
+- (g) Complimentary copies as hitherto to be sent to bodies and individuals.
+
+Mr. Huntley-Wilkinson referred to the question of secrecy with regard to results of experiments.
+
+The Board decided to adhere to the decision made at the meeting held on the 29th March, 1932.
+
+## 8. TEA SEED
+
+The Director stated that correspondence was in progress with Tocklai Station in regard to the original mother type of dark and light leaf variety of tea seed.
+
+In reply to a question by Major Oldfield, the Director said that estates with tea seed for sale could register their names with the Institute, giving full details of the seed and he would then be able to pass the information on when anyone requiring the seed applied to him. He added that he did not think it advisable for him to recommend any particular tea seed grower.
+
+## 9. BIRD LIFE AT ST. COOMBS
+
+This subject was the result of a letter written by Mr. John Still to Mr. A. G. Baynham, suggesting that efforts should be made to increase the breeding of insectivorous birds in tea districts with a view to combating disease.
+
+The Director stated that Mr. King already had the matter in hand.
+
+It was suggested that the Director should write to Mr. W. E. Wait, Mr. W. W. Phillips, and Mr. G. M. R. Henry on this subject.
+
+## 10. CONFERENCE OF THE T. R. I.
+
+It was decided that the next Conference should be held on January 27th and 28th and that papers should be limited to 3 subjects and should be dealt with on the first day, and the second day set apart for the inspection of the Laboratories, Factory, and Estate. It was also decided that the Chairman of the Planters' Association of Ceylon should be invited to preside at the morning session, and the Chairman of the Low-Country Products Association at the afternoon session.
+
+The Meeting terminated with a vote of thanks to the Chair.
+
+A. W. L. TURNER,  
+Secretary.
+
+58------------------------------------------------
+
+257
+
+## DEPARTMENTAL NOTES
+
+### PROGRESS REPORT OF THE EXPERIMENT STATION, PERADENIYA
+
+#### FOR THE MONTHS OF JULY AND AUGUST, 1932
+
+##### TEA
+
+**T**IPPING of the pruning experiment plots was carried out during the period under review and by the end of August all plots were under regular weekly plucking. Only one bush died after pruning in these plots. The remainder of the tea was all in plucking again by the middle of August.
+
+The general health of the tea is excellent and the advantage of (1) Lighter pruning and (2) Changing the pruning season from October to April appears in the reduced number of casualties after pruning.
+
+The application of 300 lb. per acre of Nicifos in May and June had the effect of almost completely killing the *Indigofera endecaphylla* in the rows in which the manure was applied. As the ground was full of seed a fresh cover from self-sown seed quickly appeared.
+
+All dadaps were uprooted in the old plots 144, 149, and 163. *Gliricidia* had previously been planted to take the place of the dadaps and a complete stand of *Gliricidia* now exists over the whole tea area.
+
+During July the planting up of the spaces between the old acre tea plots was completed and in spite of very intermittent monsoon rains most of these plants are doing well. The effect of this operation is to increase the total area of tea by about  $2\frac{1}{2}$  acres.
+
+A new road was cut in tea field No. 1.
+
+As previously reported the method of pruning adopted this year was a modification of the rim-lung system, that is, all side branches below the pruning level were left, but no branches above the level. It has always been found that a certain proportion of such "lungs" die back at a later stage and this year all these unpruned branches were, after tipping, cut back to where the first new shoot appeared.
+
+##### RUBBER
+
+The Agricultural Chemist and the writer have in collaboration completed an article giving full results of the New Avenue Rubber Manurial Experiment, and this has been submitted for publication.
+
+The uprooting of trees in the avenue rubber was begun. The fallen trees were sold by auction in advance and realised Re. 1-10 per tree. The buyer has contracted to remove all trees by the end of September.
+
+The tapping of plots 3 and 4 of the rejuvenation experiment was stopped at the end of August on completion of three years. Results will be included in the next report.
+
+##### CACAO
+
+Thirty more plants in the Economic collection were budded in August. The first examination showed 100 per cent successes.
+
+59------------------------------------------------
+
+258
+
+A new nursery has been established in the Panchikawatte grass area for the growing of stocks for selection work. The nursery is divided into three portions, each to contain seedlings from one tree.
+
+Some budwood from the selected trees on Rajawella and Pallekelley Estates was obtained in August and budded on to nursery stocks for multiplication.
+
+The gradual manuring of all cacao blocks with cattle manure is proposed. The greater part of the "B" cacao block was thus manured at the rate of five baskets per tree during August.
+
+### COCONUTS
+
+The growth of the young palms of nineteen different varieties obtained between 1921 and 1923 is still very disappointing. The majority of these palms have still not come into bearing.
+
+### COFFEE
+
+Another portion of the Panchikawatte grass area was converted into a nursery for the propagation of plants for distribution, while a piece of jungle and waste land of about half-an-acre in the middle of tea field No. 2 was cleared for the same purpose.
+
+### FRUIT
+
+The quality of the fruit gathered this year from the young grapefruit trees imported from South Africa in 1928 is, almost without exception, very disappointing. The fruits of all varieties are thick skinned, rather fibrous, lacking in juice and rather inferior in flavour. It is quite probable that this is due to the age of the trees and that an improvement may be looked for as the trees grow older since fruit of excellent quality is obtained at Peradeniya from certain old seedling trees.
+
+On the suggestion of the Assistant Mycologist all the sound fruits of one tree were enclosed in paper bags to see if this protection from drip from canker-infected leaves would result in immunity of the fruit. After rainy weather, however, where the wetted bag had adhered to the fruit, a severe scorching of the rind occurred which seriously disfigured the fruit, and the idea was abandoned for the time being.
+
+The old rubber area known as plots 151-154, which is to be used for a grapefruit experiment has been re-named "The Grapefruit Area".
+
+### PEPPER
+
+The growth of pepper vines planted against rubber trees in plots 78-82 is now fairly satisfactory.
+
+### FODDER GRASSES
+
+In plot 156 planted with guinea grass "A" the grass was uprooted in July and, after forking, *Centrosema pubescens* was sown. This guinea grass "A" has become a serious weed on the station and as it is inferior as a fodder grass to guinea grass "B" it was thought best to uproot it.
+
+### DRAINS
+
+The annual cleaning of drains was nearly completed by the end of August.
+
+In the tea area where a thick cover of *Indigofera* exists the drains were cleaned out for the first time for four or five years. It is now intended to let the *Indigofera* grow over them again.
+
+60------------------------------------------------
+
+259
+
+## SOIL EROSION EXPERIMENTS
+
+The full results of the experiment for the comparison of erosion in plots planted with *Indigofera endecaphylla* and with hedges of *Clitoria cajanifolia* have been incorporated in an article to be shortly submitted for publication.
+
+## THE IRIYAGAMA DIVISION
+
+Several more cases of brown root disease have occurred among *Gliricidia* and in two cases rubber trees have been affected. These cases emphasise the desirability of early eradication of stumps.
+
+Since no supplying is done after a year has elapsed from the time of planting it may be of interest to review the position in the areas planted in 1929 and 1930. In some cases the buds on 1931 supplies have still not shot and as these trees may therefore be too far behind the others to be included in comparative tapping trials, the percentages of both trees alive and trees with buds growing are given below:
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Percentage trees<br/>alive</th>
+<th></th>
+<th>Percentage trees<br/>with buds growing</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Area 1</td>
+<td>...</td>
+<td>97.9</td>
+<td>...</td>
+<td>97.3</td>
+</tr>
+<tr>
+<td>Area 2</td>
+<td>...</td>
+<td>97.9</td>
+<td>...</td>
+<td>97.2</td>
+</tr>
+<tr>
+<td>Area 3</td>
+<td>...</td>
+<td>95.1</td>
+<td>...</td>
+<td>94.7</td>
+</tr>
+<tr>
+<td>Area 6</td>
+<td>...</td>
+<td>98.9</td>
+<td>...</td>
+<td>98.9</td>
+</tr>
+<tr>
+<td>Area 7</td>
+<td>...</td>
+<td>95.9</td>
+<td>...</td>
+<td>93.7</td>
+</tr>
+</tbody>
+</table>
+
+In the scion on budded stock experiment it was found that the tree selected as an outstanding low yielder (P 107) had not produced sufficient budwood to bud half the available stocks. The available budwood was therefore multiplied in a nursery for use next year. Beyond the loss of a year there will be no disadvantage as a larger number of budded stocks will have reached buddable size next year.
+
+T. H. HOLLAND,  
+Manager,  
+Experiment Station, Peradeniya.
+
+61------------------------------------------------
+
+260
+
+## ANIMAL DISEASE RETURN FOR THE MONTH ENDED 30 SEPTEMBER, 1932
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to Date since Jan. 1st 1932</th>
+<th>Fresh Cases</th>
+<th>Recoveries</th>
+<th>Deaths</th>
+<th>Balance III</th>
+<th>No. Shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Western</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>124</td>
+<td>33</td>
+<td>89</td>
+<td>1</td>
+<td>33</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>21</td>
+<td>4</td>
+<td>...</td>
+<td>2</td>
+<td>...</td>
+<td>19</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>313</td>
+<td>100</td>
+<td>234</td>
+<td>11</td>
+<td>68</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>27</td>
+<td>3</td>
+<td>...</td>
+<td>27</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>18</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Cattle Quarantine Station</td>
+<td>Bovine Tuberculosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>285</td>
+<td>11</td>
+<td>274</td>
+<td>10</td>
+<td>1</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Central</td>
+<td>Anthrax (Sheep &amp; Goats)</td>
+<td>400</td>
+<td>11</td>
+<td>...</td>
+<td>400</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>1577</td>
+<td>10</td>
+<td>316</td>
+<td>1233</td>
+<td>...</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>207</td>
+<td>...</td>
+<td>203</td>
+<td>4</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>8</td>
+<td>...</td>
+<td>...</td>
+<td>8</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Southern</td>
+<td>Rabies (Dogs)</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>32</td>
+<td>...</td>
+<td>32</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Northern</td>
+<td>Rabies (Dogs)</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>145*</td>
+<td>...</td>
+<td>139</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Eastern</td>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>FREE</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">North-Western</td>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (a bull)</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>60</td>
+<td>...</td>
+<td>5</td>
+<td>46</td>
+<td>...</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>222†</td>
+<td>...</td>
+<td>207</td>
+<td>15</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">North-Central</td>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (a bull)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>5769</td>
+<td>422</td>
+<td>1010</td>
+<td>4548</td>
+<td>58</td>
+<td>153</td>
+</tr>
+<tr>
+<td rowspan="4">Uva</td>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Outbreaks</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Sabaragamuwa</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>526</td>
+<td>...</td>
+<td>519</td>
+<td>7</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>4</td>
+<td>...</td>
+<td>4</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>71</td>
+<td>1</td>
+<td>12</td>
+<td>59</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+\* 50 cases occurred among Goats.
+
+† 21 cases occurred among Goats.
+
+G. V. S. Office,  
+Colombo, 11th October, 1932.
+
+MARTIN WIJAYANAYAKA,  
+Acting Govt. Veterinary Surgeon.
+
+62------------------------------------------------
+
+261
+
+## METEOROLOGICAL REPORT
+
+### SEPTEMBER, 1932
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Station</th>
+<th colspan="4">Temperature</th>
+<th colspan="2">Humidity</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">Rainfall</th>
+</tr>
+<tr>
+<th rowspan="2">Mean Maximum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Mean Minimum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Day %</th>
+<th rowspan="2">Night (from Minimum) %</th>
+<th rowspan="2">Amount</th>
+<th rowspan="2">No. of Rainy Days</th>
+<th rowspan="2">Difference from Average</th>
+</tr>
+<tr>
+<th>Inches</th>
+<th>Inches</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo</td>
+<td>84.8</td>
+<td>-0.8</td>
+<td>76.6</td>
+<td>-0.2</td>
+<td>78</td>
+<td>86</td>
+<td>7.4</td>
+<td>7.16</td>
+<td>20</td>
+<td>+0.74</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>85.3</td>
+<td>-0.8</td>
+<td>77.7</td>
+<td>+0.1</td>
+<td>76</td>
+<td>86</td>
+<td>6.0</td>
+<td>0.27</td>
+<td>7</td>
+<td>-0.94</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>86.7</td>
+<td>-2.2</td>
+<td>79.5</td>
+<td>+0.8</td>
+<td>74</td>
+<td>80</td>
+<td>7.4</td>
+<td>0</td>
+<td>0</td>
+<td>-1.12</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>85.2</td>
+<td>-0.4</td>
+<td>78.8</td>
+<td>0</td>
+<td>—</td>
+<td>—</td>
+<td>4.4</td>
+<td>1.07</td>
+<td>2</td>
+<td>-1.74</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>90.7</td>
+<td>-1.1</td>
+<td>76.6</td>
+<td>-0.2</td>
+<td>64</td>
+<td>82</td>
+<td>5.8</td>
+<td>0.64</td>
+<td>3</td>
+<td>-3.76</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>89.8</td>
+<td>+0.1</td>
+<td>75.7</td>
+<td>+0.1</td>
+<td>64</td>
+<td>84</td>
+<td>4.4</td>
+<td>0.15</td>
+<td>2</td>
+<td>-2.58</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>84.0</td>
+<td>-2.3</td>
+<td>75.6</td>
+<td>+0.1</td>
+<td>81</td>
+<td>91</td>
+<td>5.6</td>
+<td>5.02</td>
+<td>13</td>
+<td>+2.47</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>83.1</td>
+<td>+0.4</td>
+<td>77.3</td>
+<td>+1.1</td>
+<td>82</td>
+<td>86</td>
+<td>4.6</td>
+<td>3.62</td>
+<td>15</td>
+<td>-4.66</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>86.8</td>
+<td>0</td>
+<td>73.8</td>
+<td>+0.4</td>
+<td>73</td>
+<td>93</td>
+<td>6.6</td>
+<td>8.78</td>
+<td>17</td>
+<td>-6.29</td>
+</tr>
+<tr>
+<td>A'pura</td>
+<td>88.3</td>
+<td>-2.6</td>
+<td>74.7</td>
+<td>0</td>
+<td>66</td>
+<td>90</td>
+<td>8.1</td>
+<td>0.06</td>
+<td>2</td>
+<td>-3.10</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>86.2</td>
+<td>-0.6</td>
+<td>74.2</td>
+<td>+0.1</td>
+<td>74</td>
+<td>81</td>
+<td>7.9</td>
+<td>3.65</td>
+<td>17</td>
+<td>-1.75</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>83.0</td>
+<td>-0.4</td>
+<td>69.6</td>
+<td>+0.4</td>
+<td>74</td>
+<td>87</td>
+<td>6.7</td>
+<td>3.25</td>
+<td>14</td>
+<td>-2.80</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>84.6</td>
+<td>-1.4</td>
+<td>63.7</td>
+<td>-0.2</td>
+<td>64</td>
+<td>94</td>
+<td>5.2</td>
+<td>0.89</td>
+<td>8</td>
+<td>-2.65</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>77.1</td>
+<td>-1.2</td>
+<td>62.7</td>
+<td>+2.2</td>
+<td>61</td>
+<td>76</td>
+<td>6.8</td>
+<td>2.34</td>
+<td>7</td>
+<td>-1.72</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>68.7</td>
+<td>-2.3</td>
+<td>56.8</td>
+<td>+0.3</td>
+<td>80</td>
+<td>88</td>
+<td>6.3</td>
+<td>4.40</td>
+<td>15</td>
+<td>-1.82</td>
+</tr>
+<tr>
+<td>N'Eliya</td>
+<td>66.3</td>
+<td>-0.9</td>
+<td>54.5</td>
+<td>+1.5</td>
+<td>79</td>
+<td>88</td>
+<td>7.6</td>
+<td>5.15</td>
+<td>18</td>
+<td>-3.32</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall for September was below average over by far the greater part of the Island, deficits being most marked in a comparatively small area, extending westward from the central hills, where several stations were between 5 and 10 inches below their average for the month, and a few stations more than 10 inches in deficit. The majority of stations in the Island were, however, between 0 and 5 inches in deficit.
+
+There was scarcely a station reporting an excess of as much as 5 inches, but slight excesses were reported at a few stations, generally forming a triangular group between Chilaw, Kegalle and Panadura, besides being distributed in the south-east of the Island.
+
+There were no falls of over 5 inches in a day, while a number of stations in the north and north-west of the Island report no rain at all for the month.
+
+Day temperatures were generally below their average, and night temperatures above theirs. Humidity and cloud were, on the whole, about normal.
+
+Winds were generally south-westerly and above average in strength at the majority of stations.
+
+D. T. E. DASSANAYAKE.
+
+Actg. Supdt., Observatory.
+
+63------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+![A blank page with a light beige or cream color, showing minor blemishes and faint horizontal lines near the top edge.](9e55e4a75c6c8d0a19d47a5099d768fd_1_img.webp)This image shows a blank page with a light beige or cream-colored background. There are some very faint, blurry horizontal lines near the top edge, which appear to be bleed-through from text on the reverse side of the paper. The surface has a slight texture and a few minor blemishes or discolorations, typical of aged paper.

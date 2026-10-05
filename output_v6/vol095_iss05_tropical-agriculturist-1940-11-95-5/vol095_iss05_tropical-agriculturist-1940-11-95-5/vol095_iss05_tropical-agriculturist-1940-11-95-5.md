@@ -1,0 +1,4516 @@
+# The Tropical Agriculturist
+
+VOL. XCV
+
+PERADENIYA, NOVEMBER, 1940.
+
+No. 5
+
+Page
+
+Editorial .. .. . 265
+
+## ORIGINAL ARTICLES
+
+<table><tr><td>Studies on Ceylon Soils—XIII. Some Forest and other Characteristic Soil Types of the Wet and Dry Zones. By A. W. R. Joachim, Ph.D., Dip. Agric. (Cantab.), F.I.C., and S. Kandiah, Dip. Agric. (Poona) ..</td><td>268</td></tr><tr><td>Water-logging of Irrigated Lands and Remedial Measures. By R. Kahawita .. .. .</td><td>278</td></tr></table>
+
+## DEPARTMENTAL AND OTHER NOTES
+
+<table><tr><td>Notes on Rubber Seedling Nurseries .. .. .</td><td>288</td></tr><tr><td>The Eradication of <i>Wel-marukku</i> from Paddy fields .. .. .</td><td>294</td></tr></table>
+
+## SELECTED ARTICLES
+
+<table><tr><td>A Study on Coconut Seed Selection for Germination .. .. .</td><td>295</td></tr><tr><td>The Banana in Relation to Human Nutrition .. .. .</td><td>307</td></tr><tr><td>Potato Crops on Small Areas .. .. .</td><td>313</td></tr><tr><td>Scour in Calves .. .. .</td><td>318</td></tr></table>
+
+## RETURNS
+
+<table><tr><td>Animal Disease Return for the Month ended October, 1940 .. .. .</td><td>321</td></tr><tr><td>Meteorological Report for the Month ended October, 1940 .. .. .</td><td>322</td></tr></table>
+
+1—J. N. 98816 (10/40)
+
+1------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+
+2------------------------------------------------
+
+265
+
+The
+
+# Tropical Agriculturist
+
+NOVEMBER, 1940
+
+---
+
+## EDITORIAL
+
+---
+
+### CENTRAL BOARD OF AGRICULTURE
+
+---
+
+THE meeting of the Central Board of Agriculture held on December 9 was the inaugural meeting of the third Board appointed since its re-constitution in 1934. The Central Board of Agriculture consists of representatives of District Agricultural Committees, of representatives of all associations connected with the agricultural industries of the Island, of representatives of Government Departments directly associated with agriculture, and of practical agriculturists conversant with all aspects of Ceylon agriculture. The Board has no executive functions, but its deliberations, being based on intimate knowledge of the problems under discussion, play their part in the direction of the agricultural policy of the Island.
+
+The Board consists of sixty members and an indication of the interest taken by members may be judged from the fact that the average attendance at the nine meetings of the outgoing Board was 43 members and 11 visitors.
+
+The public value of a body like the Central Board of Agriculture must be measured by the extent to which its deliberations influence public opinion on agricultural practice or induce special action by Government. It may therefore be of interest to consider some of the more important subjects which engaged the attention of the second Central Board of Agriculture and to assess the results achieved. The following may be cited :—
+
+Soil erosion.
+
+The improvement of the livestock industry.
+
+Measures for the stabilization of the price of paddy.
+
+Action regarding the control of the coconut beetle and red weevil pests of coconuts.
+
+Simple handbooks on the cultivation of crops.
+
+Composting.
+
+The stimulation of food products by the introduction of quotas.
+
+3------------------------------------------------
+
+266
+
+The subject of soil erosion, which had received considerable attention by the first Board, continued to take an important part in the deliberations of the second Board. The Board suggested to Government that it was necessary to introduce legislation to check the further denudation of Ceylon soils and to make the adoption of soil conservation measures an Island-wide practice. As a result, the Board has been entrusted with the task of framing a Soil Conservation Ordinance. In a more practical sphere, the publicity given by the Board to this subject has led to the increasing adoption by the public of soil conservation measures which cannot fail to have a progressively beneficial effect on the agricultural welfare of the Island. The report by the Board on the livestock industry in Ceylon had the almost immediate effect of leading to the formation of the Cattle Breeders' Association of Ceylon which has held two very successful annual All-Island Shows in Colombo. The Board pointed out the ill-effects on paddy cultivation of the indiscriminate slaughter of large numbers of buffaloes for meat, and this led to the segregation, in Colombo, of cattle and buffalo meat offered for sale and so to a marked reduction in the slaughter of buffaloes for meat. In other and less obvious ways the report of the Board has led to an increasing consciousness of the need to improve the standard and welfare of Ceylon livestock. There is no doubt that the new Board will continue the good work done by its predecessors.
+
+The second Board continued to draw attention to the need for the stabilization of the price of paddy in Ceylon with the object of stimulating paddy production and so of making the Island more nearly self-supporting in this important article of food. With the erection of Government rice mills in different parts of the Island, it is hoped that it will be possible to introduce the promised legislation to control prices. A recommendation of the Board has led to a vigorous enforcement of the regulations covering the control of the coconut beetle and red weevil pests of coconut in the North-Western Province, with good results. As a result of recommendations of the Board, the regulations in relation to tea tortrix were suspended and those relating to coconut beetle and red weevil were amended. The Board pointed out the need for simple handbooks in the vernaculars on the cultivation of individual crops, and handbooks are being prepared. The subject of composting was kept well before the public and it is felt now that we have arrived at a true appreciation of the value of composting and its appropriate place in agricultural practice. Perhaps one of the more far reaching recommendations of the Board was that a quota system should be introduced to stimulate food production. This recommendation played an important part in leading to the introduction of the Agricultural Products (Regulation)
+
+4------------------------------------------------
+
+267
+
+Ordinance in 1939. The value to Ceylon of this ordinance is already apparent in the marked increase in the local production of food crops, especially of red onions, dried chillies, ginger, and turmeric.
+
+A consideration of this record of achievements, which is by no means complete, leaves no doubt as to the value of the Central Board of Agriculture, and the outgoing Board has reason to be proud of its work. The thanks of the agricultural community and of the public of Ceylon in general are due to the members of the Board for their efforts in furthering the agricultural progress of the Island. There is no doubt that the third Board which held its inaugural meeting on December 9 will make further substantial contributions to the pursuit of a vigorous agricultural policy during the next three years.
+
+5------------------------------------------------
+
+268
+
+## STUDIES ON CEYLON SOILS
+
+---
+
+### XIII. SOME FOREST AND OTHER CHARACTERISTIC SOIL TYPES OF THE WET AND DRY ZONES
+
+---
+
+A. W. R. JOACHIM, Ph.D., Dip. Agric. (Cantab), F.I.C.,
+
+CHEMIST
+
+AND
+
+S. KANDIAH, Dip. Agric. (Poona),
+
+ASSISTANT IN AGRICULTURAL CHEMISTRY.
+
+---
+
+IN paper VI. of the Studies on Ceylon Soils (1), the analytical and profile characteristics of some forest soils of the wet low-country were dealt with. In a subsequent communication to this journal (2), de Rosayro described in greater detail the morphological and profile characteristics of seven groups of forest soils of the Matara, Galle, and Kalutara Districts. No analytical data in respect of these soils were furnished by him. At his request, however, analyses of the soils of four typical forest profiles within the same climatic zone were made in this laboratory. As the samples supplied were insufficient for a complete soil examination, only partial analyses were undertaken; but as they are representative of the soils of the districts specified, the results are included in this paper. The authors are indebted to Mr. de Rosayro for descriptions of the profile characteristics and other features of interest in regard to the soils. In contrast to these wet zone forest soils, are the soils of the dry zone jungle. Four such soils have been studied recently. They consist of (1) a typical dry zone red loam carrying high jungle from Sigiriya, (2) two alluvial sandy loams from areas adjoining the Mahaweli-ganga at Minipe and Manampitiya, and (3) a sandy soil from Kottukachchiya near Puttalam. Included in these studies are three vegetation or topographic soil types of the wet zone low-country, viz., a *bata* (S.) jungle soil, so designated because the *bata* bamboo (*Ochlandra stridula*) is a characteristic feature of the vegetation, and the soils of *deniya* (S.) and *owita* (S.) lands. The word *deniya* is very frequently used for low-lying, marshy ground which, when drained, is capable of growing yams and other annual crops. It is in this sense that the word is used in this paper and not in that indicated in the "Ceylon Glossary of Native, Foreign, and Anglicized words" (3) viz., "a stretch of moderately flat
+
+6------------------------------------------------
+
+269
+
+high ground, as distinguished from low or marshy ground". *Owita* lands, on the other hand, are defined in this publication as "low lands which may be used for the cultivation of paddy without irrigation and also of yams and fine grain". This definition corresponds to that of "*deniya*" land as popularly understood. In this paper the word *owita* refers to a fairly flat, comparatively low-lying, well-drained land, adjacent to, but on a higher level than the paddy field.
+
+In addition to the analytical determinations carried out in previous investigations, the base exchange capacity was determined in certain samples by the method of Olson and Bray (4).
+
+### The Wet Zone Forest Soils
+
+The descriptions of the four soil profiles studied are furnished below, and their analytical data presented in Table I. As these soils have a number of features in common as regards their analytical composition they will be considered together.
+
+#### KELANI VALLEY P. RESERVE
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Madawala, to the north-east of Kelani Valley P. R. a short distance south of Kitulgala</td>
+</tr>
+<tr>
+<td>Elevation and topography</td>
+<td></td>
+<td>700-800 ft. ; fairly flat</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td><i>Beraliya</i> (<i>Doona cordifolia</i>), <i>Dun</i> (<i>Doona zeylanica</i>)<br/><i>Katuboda</i> (<i>Cullenia excelsa</i>), <i>Kirihembiliya</i> (<i>Palaquium grande</i>).</td>
+</tr>
+</table>
+
+#### Profile
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-9 in.</td>
+<td>..</td>
+<td>Surface root matting and leaf litter ; very loose light-brown sandy loam ; nutty ; gravel absent ; roots frequent</td>
+</tr>
+<tr>
+<td>A 2</td>
+<td>9 in.-2 ft. 2 in.</td>
+<td>..</td>
+<td>Yellowish-brown gravelly loam ; granular with small gravel and occasional layer of concretions and fragments of decomposing rock ; roots fair.</td>
+</tr>
+<tr>
+<td>C 1</td>
+<td>2 ft. 2 in.-3 ft. 3 in.</td>
+<td></td>
+<td>Reddish brown gravelly loam somewhat clayey in pockets, with prolific fragments of decomposing rock-forming concretions ; roots fair to few</td>
+</tr>
+<tr>
+<td>C 2</td>
+<td>3 ft. 3 in.-4 ft.</td>
+<td>..</td>
+<td>Slightly heavier dark reddish loam ; roots scarce</td>
+</tr>
+</table>
+
+#### BAMBARABOTUWA P. RESERVE
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Gerandiella in Bambarabotuwa Reserve</td>
+</tr>
+<tr>
+<td>Elevation and topography</td>
+<td></td>
+<td>1800 ft. ; fairly steep</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td><i>Katuboda</i> (<i>Cullenia excelsa</i>), <i>Tiniya</i> (<i>Doona congestifolia</i>), <i>Diwana</i> (<i>Mesua thwaitesii</i>), <i>Dun</i> (<i>Doona zeylanica</i>)</td>
+</tr>
+</table>
+
+#### Profile
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-13 in.</td>
+<td>..</td>
+<td>Greyish-black light loam with occasional decomposing rock fragments ; no ironstone gravel ; roots prolific</td>
+</tr>
+<tr>
+<td>A 2</td>
+<td>13 in.-2 ft. 8 in.</td>
+<td></td>
+<td>Greyish-brown loam with gravel and decomposing rock fragments ; small lead shot gravel increasing with depth ; roots fair</td>
+</tr>
+<tr>
+<td>C</td>
+<td>2 ft. 8 in.-4 ft.</td>
+<td>..</td>
+<td>Brownish-red loam interspersed with decomposing rock fragments ; more clayey with depth ; roots scarce</td>
+</tr>
+</table>
+
+7------------------------------------------------
+
+270GILIMALE P. RESERVE
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Gilimale P. R. in Ratgama block</td>
+</tr>
+<tr>
+<td>Elevation and topography</td>
+<td>..</td>
+<td>800 ft. gradual slope</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td><i>Katuboda</i> (<i>Cullenia excelsa</i>), <i>Kina</i> (<i>Calophyllum tomentosum</i>), <i>Yakahalu</i> (<i>Doona trapezifolia</i>)<br/><i>Welipanne</i> (<i>Anisophyllea cinnamomoides</i>)</td>
+</tr>
+</table>
+
+Profile
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-10 in.</td>
+<td>..</td>
+<td>Brown loam ; little gravel or quartz accumulation ; irregular clod ; roots good</td>
+</tr>
+<tr>
+<td>A 2</td>
+<td>10-18 in.</td>
+<td>..</td>
+<td>Light-brown gravelly loam with high proportion of ironstone concentrations ; roots fair</td>
+</tr>
+<tr>
+<td>C</td>
+<td>18 in.-4 ft.</td>
+<td>..</td>
+<td>Yellowish-brown gravelly loam ; gravel characteristically shot-like in appearance ; occasional layer of concretions increasing with depth ; roots fair</td>
+</tr>
+</table>
+
+BAMBARABOTUWA P. RESERVE
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Owala Mahabage in the western corner of the proposed reserve</td>
+</tr>
+<tr>
+<td>Elevation and topography</td>
+<td>..</td>
+<td>600 ft. ; fairly steep slope</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td><i>Arida</i>, (<i>Campnosperma zeylanicum</i>), <i>Welipanne</i> (<i>Anisophyllea cinnamomoides</i>)</td>
+</tr>
+</table>
+
+Profile
+
+<table>
+<tr>
+<td>A</td>
+<td>0-20 in.</td>
+<td>..</td>
+<td>Dark-brown sandy loam, with thick root matting on surface ; cloddy ; no gravel ; occasional fragments of decomposing boulders ; root growth good</td>
+</tr>
+<tr>
+<td>C</td>
+<td>20 in.-4 ft.</td>
+<td>..</td>
+<td>Yellowish loam with occasional large ironstone concretions ; root growth good up to 24 in., poor below that.</td>
+</tr>
+</table>
+
+It will be noted that in no instance has a typical B horizon been observed in the soil profiles, unless, of course, the ferruginous gravelly horizons (A2 or C1) be considered so. The gravelly subsoil is a characteristic feature of these wet zone soil profiles (1). It governs, to a large degree, the drainage of and root development in these soils. Generally speaking the soils are well drained and carry good stands of forest, the dominant heights varying from 80 to 120 ft. The A 1 horizons of these soils vary in texture from light to medium loams. The C horizons are gravelly, but the soil matrix is generally more clayey in nature. All the soils have fairly high organic matter and nitrogen contents in the A 1 horizons, the former varying from 1.65 to 2.28 per cent. and the latter from 0.08 to 0.1 per cent. These constituents decrease with increasing soil depth and are very low in the C horizons. The carbon-nitrogen ratios vary from 10.3 to 16.8 in the A horizon. As would be expected, owing to the intense leaching, the soils are very poor in replaceable bases and strongly acid in reaction. The pH varies from 4.7 to 5.2, and the total base contents from 0.42 to 1.02 mgm. equivalent per cent. In the foregoing respects, these results agree very closely with what was found previously (1). An examination of the fundamental nature
+
+8------------------------------------------------
+
+271
+
+of the soils was not possible owing to the insufficiency of soil material, but there is little doubt that all the samples are lateritic or laterite in type. They will make only poor agricultural soils and are not normally recommended for the cultivation of annual crops, *e.g.*, grains. They are suitable for the production of such permanent crops as rubber, tea, cinnamon, and to a lesser degree, coconut.
+
+### The Dry Zone Soils
+
+The analytical characteristics of these soils are indicated in Table II. These and the profile characteristics of each soil will be considered in three separate groups.
+
+#### DRY ZONE RED LATERITIC LOAM.
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Sigiriya</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>800 ft.</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall : 76 in. ; temperature : 82°F.</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Bintenne gneiss</td>
+</tr>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Residual</td>
+</tr>
+<tr>
+<td>Topographic position</td>
+<td>..</td>
+<td>Very slightly undulating</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td>Low jungle</td>
+</tr>
+</table>
+
+#### Profile
+
+<table>
+<tr>
+<td>A</td>
+<td>0-10 in.</td>
+<td>..</td>
+<td>Dark-brown loam ; small accumulation of "mull" layer on the surface ; compact but friable ; root growth very good</td>
+</tr>
+<tr>
+<td>B</td>
+<td>10-42 in.</td>
+<td>..</td>
+<td>Reddish gravelly loam ; hard compact gravel with plenty of ironstone nodules—angular in shape ; yellow markings ; root growth good</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Below 42 in.</td>
+<td>..</td>
+<td>Reddish heavy loam ; free from gravel ; compact ; minute particles of shining mica present ; root growth good</td>
+</tr>
+</table>
+
+The Sigiriya red lateritic soil is a gravelly loam of about a foot depth, well supplied with organic matter and nitrogen if allowance for the gravel content is made, overlying an even more gravelly loam. This latter may be considered a typical B horizon in which hydrated iron and aluminium oxides from the C horizon below have been deposited. The two lower soil horizons are low in nitrogen and organic matter. The total replaceable base contents of the soils are high (10-15.3 mgm. equiv.) in all three horizons, and the soils are accordingly neutral or slightly alkaline in reaction. The readily available phosphoric acid is low in all three soil layers. In nature, the soil is lateritic, with a silica/alumina ratio of 1.72. This soil profile bears a resemblance, as would be expected, to the Habarana reddish brown loam described in paper X of this series (5). The latter soil discloses, however, the marked influence of limestone on its composition. These dry zone soils are well suited for annual crops, such as chillies, cotton, and dry grains, but manuring, particularly with nitrogenous manures, will have to be resorted to if continued good yields are to be secured.
+
+9------------------------------------------------
+
+272**MANAMPITIYA SANDY LOAM**
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Galela, near Manampitiya</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>About sea level</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall probably about 70 in. ; temperature 82°F</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Recent</td>
+</tr>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Sedimentary, alluvial</td>
+</tr>
+<tr>
+<td>Topographic position</td>
+<td>..</td>
+<td>Flat</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td>Jungle and tobacco</td>
+</tr>
+</table>
+
+**Profile**
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-5 in.</td>
+<td>..</td>
+<td>Brown sandy loam ; loose and friable</td>
+</tr>
+<tr>
+<td>A 2</td>
+<td>Below 5 in.</td>
+<td>..</td>
+<td>Light-brown sand ; single grain structure ; loose</td>
+</tr>
+</table>
+
+**THE MINIPE SANDY LOAM**
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Minipe</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>370 ft.</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall about 90 in. ; temperature 82°F</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Recent</td>
+</tr>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Sedimentary, alluvial</td>
+</tr>
+<tr>
+<td>Topographic position</td>
+<td>..</td>
+<td>Flat</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td>Jungle</td>
+</tr>
+</table>
+
+**Profile**
+
+<table>
+<tr>
+<td>A</td>
+<td>0-4 ft.</td>
+<td>..</td>
+<td>Brownish-yellow sandy loam ; compact but friable ; uniform ; granular to nut ; root growth good</td>
+</tr>
+</table>
+
+The Manampitiya soil sample was taken from land immediately adjoining the Mahaweli-ganga while the Minipe sample was taken at some distance inland. Both are deep sandy loams containing very high proportions of fine sand, *viz.*, 67 and 69 per cent. respectively. The Manampitiya top soil is of a darker colour and contains more organic matter, nitrogen, available phosphate, and replaceable bases than the Minipe sample. It is slightly alkaline, while the Minipe soil is somewhat acid in reaction. The base exchange capacities of the two soils are also very different, the Minipe soil being only about half as reactive as the Manampitiya soil in this respect. This may be explained partly by the higher organic matter and partly by the lower degree of maturity of the latter soil (7). Both soils are lateritic in nature. This is only to be expected considering their common origin. The Manampitiya soil is of higher fertility than the Minipe soil as it is enriched each year with deposits of silty material from the highlands during the monsoonic rains. The soil is mainly cultivated with cigar tobacco, but sugarcane and food crops could also be grown. The Minipe soil, because of its freedom from inundation will, in addition, be suitable for fruit. These soils are somewhat similar to the Kiliveddi sandy loams described in an earlier article (6).
+
+**KOTTUKACHCHIYA SAND**
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Kottukachchiya near Puttalam</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>Sea level</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall about 40 in. ; temperature 82°F</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Pleistocene or recent</td>
+</tr>
+</table>
+
+10------------------------------------------------
+
+273
+
+<table>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Aeolian or alluvial</td>
+</tr>
+<tr>
+<td>Topographic position</td>
+<td>..</td>
+<td>Flat</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td>High jungle</td>
+</tr>
+</table>
+
+Profile
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-72 ft.</td>
+<td>.. Light sandy loam; loose and friable; horizon boundary indistinct</td>
+</tr>
+</table>
+
+This is a light-brown sand, containing as much as 62 per cent. of fine sand. The top 5 inches of soil are well-supplied with organic matter (3.9 per cent.) and nitrogen (0.14 per cent.). The sub-soil has much lower percentages of these constituents. In reaction the soil and sub-soil are mildly alkaline and acid respectively. Despite its sandy nature, the soil carries a stand of good jungle. This is a good illustration of the fact that high jungle is not necessarily associated with soils containing large reserves of mineral and organic plant food. What is more important for its development is soil depth, good drainage and other favourable physical conditions. This soil is suited for a variety of crops, *e.g.*, fruit, tobacco, and food crops, but irrigation will be required for some of them.
+
+### The Wet Zone Vegetation and Topographical Soil Types
+
+The analytical data of the three soils included under this heading, *viz.*, the *bata* jungle, *deniya*, and *owita* soils, are presented in Table III.
+
+#### BATA JUNGLE SANDY LOAM
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Experiment Station, Horana</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>100 ft.</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall 96.8 in.; temperature 80°F</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Charnokite</td>
+</tr>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Residual</td>
+</tr>
+<tr>
+<td>Topographic position</td>
+<td>..</td>
+<td>Hilly—samples taken on hill slope</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td><i>Bata</i> (<i>Ochlandra stridula</i>), <i>Weraniya</i> (<i>Hedyotis fruticosa</i>), <i>Peratambala</i> (<i>Gaertnera koenigii</i>), <i>Godapara</i> (<i>Dillenia retusa</i>), <i>Goraka</i> (<i>Garcinia cambogia</i>), <i>Hedawaka</i> (<i>Chaetocarpus coriaceus</i>)</td>
+</tr>
+</table>
+
+Profile
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-7 in.</td>
+<td>.. Dark-brown loam; loose and friable; horizon boundary indistinct; root growth good</td>
+</tr>
+<tr>
+<td>A 2</td>
+<td>7-13 in.</td>
+<td>.. Light-brown loam; loose and friable; small boulders of rock; root growth good</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Below 13 in.</td>
+<td>.. Yellow brown to yellow loam, above decomposing rock; loose and friable; root growth good</td>
+</tr>
+</table>
+
+This type of vegetation is a feature of the low-country wet zone, *e.g.*, the Ratnapura and Kalutara districts, and is the ecological succession to high forest or *mukalana* cut down for *chena* cultivation. It derives its name from the fact that *bata* bamboo (*Ochlandra stridula*) is the characteristic vegetation species. The soils of these areas are fairly deep, well-drained
+
+11------------------------------------------------
+
+274
+
+sandy loams, which have been protected from erosion by the natural vegetation which is speedily established under the heavy rainfall and high temperature conditions prevalent. The A1 horizon has fair contents of organic matter and nitrogen; the lower horizons have lower percentages of these constituents. The soils are acid in reaction, the acidity increasing with depth. Their replaceable base contents are very low and they are also deficient in available phosphoric acid. The base exchange capacity of the surface soil is not high. This is only to be expected considering that, on the basis of the silica/alumina ratio of the clay fraction, it is of a laterite type. These soils are best suited for permanent crops such as rubber and cinnamon, but with cultivation, liming, and manuring, annual crops can be grown fairly successfully.
+
+#### THE DENIYA SOILS
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Near Ambalangoda</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>Sea level</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall 73 in.; temperature 80°F</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Recent</td>
+</tr>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Alluvial; cumulose</td>
+</tr>
+<tr>
+<td>Topography</td>
+<td>..</td>
+<td>Flat</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Bad; water at about one foot from surface</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td>Grass; ferns, &amp;c.</td>
+</tr>
+</table>
+
+#### Profile
+
+<table>
+<tr>
+<td>A 1</td>
+<td>0-10 in.</td>
+<td>..</td>
+<td>Dark grey humic sand; compact but loose and friable; root growth poor; water at one foot</td>
+</tr>
+<tr>
+<td>A 2</td>
+<td>10-15 in.</td>
+<td>..</td>
+<td>White sand</td>
+</tr>
+<tr>
+<td></td>
+<td>&gt;3 ft.</td>
+<td>..</td>
+<td>White clay; kaolinitic in nature</td>
+</tr>
+</table>
+
+The *deniya* soils are low-lying, ill-drained, dark-grey sands of shallow depth. The subsoil is bleached sand, which in turn overlies a kaolinitic clay. The soil is fairly well supplied with organic matter and nitrogen, but its replaceable base and phosphoric acid contents are low. As would be expected, the soil is very acid in reaction and of low base exchange capacity. On the basis of its silica/alumina ratio, it is lateritic. This is due, in some measure, to the leaching out of the iron and aluminium hydrated oxides by the organic acids formed under the water-logged conditions. The low iron oxide content of the clay fraction is striking. These soils with drainage and occasional liming will be suitable for vegetables, yams and other shallow-rooted crops.
+
+#### THE OWITA HEAVY CLAY LOAM
+
+<table>
+<tr>
+<td>Location</td>
+<td>..</td>
+<td>Nagoda, Galle district</td>
+</tr>
+<tr>
+<td>Elevation</td>
+<td>..</td>
+<td>Above sea level</td>
+</tr>
+<tr>
+<td>Climate</td>
+<td>..</td>
+<td>Rainfall 73 in.; temperature 80°F</td>
+</tr>
+<tr>
+<td>Geological origin</td>
+<td>..</td>
+<td>Recent</td>
+</tr>
+<tr>
+<td>Mode of formation</td>
+<td>..</td>
+<td>Sedimentary, alluvial</td>
+</tr>
+<tr>
+<td>Topography</td>
+<td>..</td>
+<td>Flat</td>
+</tr>
+<tr>
+<td>Drainage</td>
+<td>..</td>
+<td>Good</td>
+</tr>
+<tr>
+<td>Vegetation</td>
+<td>..</td>
+<td>Sugarcane, rubber, coconut and yams</td>
+</tr>
+</table>
+
+12------------------------------------------------
+
+275Profile
+
+A 0-8 ft. .. Deep, uniform, yellow-brown heavy clay loam; crumb structure; loose and friable; root growth good
+
+The sample of *owita* soil examined was taken from an area bordering a river and was, in consequence, regularly subjected to floods. It can therefore be considered a typical *alluvial silt* in respect of its origin and an *owita* soil in respect of its topographical position. It is a deep, heavy clay loam, which, in spite of its very high clay content (54 per cent.), is very well drained. This is due to the nature of the clay. Its organic matter and nitrogen contents are high, but it is low in available bases and phosphoric acid. In reaction it is acid, but not markedly so. Its base exchange capacity, considering its clay content, is low. This, again, is accounted for by the nature of the clay fraction, which, on the basis of the silica:alumina ratio, is of the laterite type.
+
+SUMMARY
+
+In this paper the morphological and analytical characteristics of eleven soil profiles, consisting of four wet zone forest soils, four dry zone jungle soils, and three vegetation and topographical soil types of the wet zone, are described. The data obtained in regard to the wet zone forest soils confirm what has been previously found (1). Apart from textural differences, these soils differ from the dry zone jungle soils in being markedly acid in reaction and having much lower exchangeable base contents. A comparison of the *bata*, *deniya*, and *owita* soils indicate that while they vary markedly in texture and, to a lesser degree, in their contents of organic matter and nitrogen, they are, in common with all wet zone soils, acid in reaction, of low available base content and capacity and lateritic or laterite in nature. The available phosphoric acid contents of all the soils examined except the Manampitiya sandy loam are low.
+
+REFERENCES
+
+1. 1. Joachim, A. W. R., and Pandittesekere, D. G.—Studies on Ceylon soils, IV., *The Tropical Agriculturist*, LXXXV., 1935, p. 146.
+2. 2. De Rosayro, R. A.—Soils of the wet zone forests of the Matara, Galle, and Kalutara districts. *The Tropical Agriculturist*, XCII., 1939, p. 264.
+3. 3. *Ceylon Glossary of Native, Foreign and Anglicized Words*, 1904.
+4. 4. Olson, L. C., and Bray, R. H.—The Determination of the organic base-exchange capacity of soils. *Soil Science*, LXV., 1938, p. 483.
+5. 5. Joachim, A. W. R., and Pandittesekere, D. G.—Studies on Ceylon soils, X. *The Tropical Agriculturist*, XC., 1938, p. 136.
+6. 6. Joachim, A. W. R., and Kandiah, S.—Studies on Ceylon soils, XII. *The Tropical Agriculturist*, XCII., 1939, p. 16.
+7. 7. Craig, N.—Base exchange relationships in Mauritius soils. *Dept. Agr. Mauritius, Sugar Res. Stn. Bul. No. 9*.
+
+13------------------------------------------------
+
+276
+
+TABLE I.  
+Forest Soils
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">Madawala</th>
+<th colspan="3">Gerandiella</th>
+<th colspan="3">Gilmale</th>
+<th colspan="3">Owala</th>
+<th colspan="3">Mahabage</th>
+</tr>
+<tr>
+<th>A1<br/>Per cent.</th>
+<th>A2<br/>Per cent.</th>
+<th>C1<br/>Per cent.</th>
+<th>C2<br/>Per cent.</th>
+<th>A1<br/>Per cent.</th>
+<th>A2<br/>Per cent.</th>
+<th>C1<br/>Per cent.</th>
+<th>A1<br/>Per cent.</th>
+<th>A2<br/>Per cent.</th>
+<th>C1<br/>Per cent.</th>
+<th>A<br/>Per cent.</th>
+<th>C<br/>Per cent.</th>
+<th>A1<br/>Per cent.</th>
+<th>A2<br/>Per cent.</th>
+<th>C<br/>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="16"><b>Mechanical Analysis</b></td>
+</tr>
+<tr>
+<td>Gravel and stones</td>
+<td>.. 3.1</td>
+<td>.. 26.6</td>
+<td>.. 23.6</td>
+<td>.. 15.6</td>
+<td>.. 12.7</td>
+<td>.. 37.4</td>
+<td>.. 8.8</td>
+<td>.. 9.6</td>
+<td>.. 66.3</td>
+<td>.. 60.9</td>
+<td>.. 3.2</td>
+<td>.. 22.6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Coarse sand</td>
+<td>.. 65.6</td>
+<td>.. 59.8</td>
+<td>.. 52.7</td>
+<td>.. 47.2</td>
+<td>.. 41.5</td>
+<td>.. 35.0</td>
+<td>.. 35.7</td>
+<td>.. 29.5</td>
+<td>.. 27.6</td>
+<td>.. 24.3</td>
+<td>.. 36.5</td>
+<td>.. 35.2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Fine sand</td>
+<td>.. 13.0</td>
+<td>.. 13.7</td>
+<td>.. 13.7</td>
+<td>.. 15.2</td>
+<td>.. 37.2</td>
+<td>.. 36.3</td>
+<td>.. 33.4</td>
+<td>.. 34.7</td>
+<td>.. 30.9</td>
+<td>.. 26.6</td>
+<td>.. 33.9</td>
+<td>.. 31.6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Silt ..</td>
+<td>.. 5.0</td>
+<td>.. 8.1</td>
+<td>.. 6.1</td>
+<td>.. 7.3</td>
+<td>.. 4.9</td>
+<td>.. 4.7</td>
+<td>.. 5.6</td>
+<td>.. 5.5</td>
+<td>.. 7.2</td>
+<td>.. 8.9</td>
+<td>.. 6.6</td>
+<td>.. 6.8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Clay ..</td>
+<td>.. 13.1</td>
+<td>.. 15.2</td>
+<td>.. 24.2</td>
+<td>.. 27.1</td>
+<td>.. 13.5</td>
+<td>.. 20.7</td>
+<td>.. 22.4</td>
+<td>.. 23.8</td>
+<td>.. 29.6</td>
+<td>.. 35.3</td>
+<td>.. 18.2</td>
+<td>.. 22.5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Undetermined</td>
+<td>.. 1.9</td>
+<td>.. 1.6</td>
+<td>.. 1.2</td>
+<td>.. 1.3</td>
+<td>.. 1.3</td>
+<td>.. 1.6</td>
+<td>.. 1.5</td>
+<td>.. 3.2</td>
+<td>.. 1.6</td>
+<td>.. 1.3</td>
+<td>.. 2.4</td>
+<td>.. 1.6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Moisture</td>
+<td>.. 1.4</td>
+<td>.. 1.6</td>
+<td>.. 2.1</td>
+<td>.. 1.9</td>
+<td>.. 1.6</td>
+<td>.. 1.7</td>
+<td>.. 1.4</td>
+<td>.. 3.3</td>
+<td>.. 3.1</td>
+<td>.. 3.6</td>
+<td>.. 2.4</td>
+<td>.. 2.3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Texture index number</td>
+<td>12.4</td>
+<td>.. 14.3</td>
+<td>.. 22.3</td>
+<td>.. 25.0</td>
+<td>.. 12.5</td>
+<td>.. 19.6</td>
+<td>.. 20.6</td>
+<td>.. 22.4</td>
+<td>.. 27.9</td>
+<td>.. 33.5</td>
+<td>.. 17.1</td>
+<td>.. 21.1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Soil type</td>
+<td>.. Light loam</td>
+<td>Gravelly light loam</td>
+<td>Gravelly loam</td>
+<td>Gravelly loam</td>
+<td>Light loam</td>
+<td>Gravelly loam</td>
+<td>Loam</td>
+<td>Loam</td>
+<td>Gravelly loam</td>
+<td>Gravelly light loam</td>
+<td>Light loam</td>
+<td>Gravelly loam</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="16"><b>Chemical Analysis</b></td>
+</tr>
+<tr>
+<td>Loss on ignition</td>
+<td>.. 6.98</td>
+<td>.. 11.0</td>
+<td>.. 11.14</td>
+<td>.. 11.65</td>
+<td>.. 7.24</td>
+<td>.. 7.98</td>
+<td>.. 11.40</td>
+<td>.. 11.36</td>
+<td>.. 11.16</td>
+<td>.. 12.08</td>
+<td>.. 8.13</td>
+<td>.. 7.33</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Combined water</td>
+<td>.. 4.70</td>
+<td>.. 9.54</td>
+<td>.. 9.88</td>
+<td>.. 10.53</td>
+<td>.. 5.59</td>
+<td>.. 7.35</td>
+<td>.. 10.91</td>
+<td>.. 8.88</td>
+<td>.. 9.80</td>
+<td>.. 11.30</td>
+<td>.. 6.41</td>
+<td>.. 6.20</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Organic matter</td>
+<td>.. 2.28</td>
+<td>.. 1.46</td>
+<td>.. 1.26</td>
+<td>.. 1.12</td>
+<td>.. 1.65</td>
+<td>.. 0.63</td>
+<td>.. 0.49</td>
+<td>.. 2.48</td>
+<td>.. 1.36</td>
+<td>.. 0.78</td>
+<td>.. 1.72</td>
+<td>.. 1.13</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Carbon</td>
+<td>.. 1.35</td>
+<td>.. 0.85</td>
+<td>.. 0.75</td>
+<td>.. 0.66</td>
+<td>.. 0.96</td>
+<td>.. 0.36</td>
+<td>.. 0.29</td>
+<td>.. 1.44</td>
+<td>.. 0.79</td>
+<td>.. 0.45</td>
+<td>.. 0.99</td>
+<td>.. 0.66</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nitrogen</td>
+<td>.. 0.080</td>
+<td>.. 0.048</td>
+<td>.. 0.032</td>
+<td>.. 0.031</td>
+<td>.. 0.093</td>
+<td>.. 0.047</td>
+<td>.. 0.038</td>
+<td>.. 0.099</td>
+<td>.. 0.082</td>
+<td>.. 0.068</td>
+<td>.. 0.089</td>
+<td>.. 0.074</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Carbon/nitrogen ratio</td>
+<td>16.8</td>
+<td>.. 17.6</td>
+<td>.. 23.5</td>
+<td>.. 21.1</td>
+<td>.. 10.3</td>
+<td>.. 7.7</td>
+<td>.. 7.5</td>
+<td>.. 14.5</td>
+<td>.. 9.6</td>
+<td>.. 6.7</td>
+<td>.. 11.2</td>
+<td>.. 8.9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Total replaceable bases (m.e. per 100 gm.)</td>
+<td>0.71</td>
+<td>.. 0.62</td>
+<td>.. 0.67</td>
+<td>.. 0.70</td>
+<td>.. 0.82</td>
+<td>.. 0.61</td>
+<td>.. 0.46</td>
+<td>.. 1.02</td>
+<td>.. 0.78</td>
+<td>.. 0.48</td>
+<td>.. 0.81</td>
+<td>.. 0.78</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Replaceable Calcium</td>
+<td>0.56</td>
+<td>.. 0.49</td>
+<td>.. 0.52</td>
+<td>.. 0.54</td>
+<td>.. 0.71</td>
+<td>.. 0.56</td>
+<td>.. 0.39</td>
+<td>.. 0.86</td>
+<td>.. 0.67</td>
+<td>.. 0.39</td>
+<td>.. 0.72</td>
+<td>.. 0.69</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Reaction (pH)</td>
+<td>.. 4.7</td>
+<td>.. 5.1</td>
+<td>.. 4.9</td>
+<td>.. 5.0</td>
+<td>.. 4.7</td>
+<td>.. 5.3</td>
+<td>.. 5.1</td>
+<td>.. 4.7</td>
+<td>.. 5.1</td>
+<td>.. 5.2</td>
+<td>.. 4.8</td>
+<td>.. 5.3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+14------------------------------------------------
+
+277
+
+**TABLE II.**  
+**Mechanical Analysis**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">Sigiriya.</th>
+<th>Minipe.</th>
+<th colspan="2">Manamipitiya.</th>
+<th colspan="2">Kottukachchiya.</th>
+</tr>
+<tr>
+<th>A<br/>Per cent.</th>
+<th>B<br/>Per cent.</th>
+<th>C<br/>Per cent.</th>
+<th>A<br/>Per cent.</th>
+<th>A<br/>Per cent.</th>
+<th>C<br/>Per cent.</th>
+<th>A<br/>Per cent.</th>
+<th>C<br/>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stones and gravel ..</td>
+<td>..20.2</td>
+<td>..67.3</td>
+<td>..8.5</td>
+<td>Nil</td>
+<td>Nil</td>
+<td>Nil</td>
+<td>3.7</td>
+<td>1.4</td>
+</tr>
+<tr>
+<td>Coarse sand ..</td>
+<td>..23.0</td>
+<td>..30.0</td>
+<td>..24.2</td>
+<td>4.5</td>
+<td>3.6</td>
+<td>7.1</td>
+<td>24.7</td>
+<td>27.2</td>
+</tr>
+<tr>
+<td>Fine sand ..</td>
+<td>..31.1</td>
+<td>..19.3</td>
+<td>..26.5</td>
+<td>66.5</td>
+<td>69.3</td>
+<td>75.4</td>
+<td>61.6</td>
+<td>59.9</td>
+</tr>
+<tr>
+<td>Silt ..</td>
+<td>..3.1</td>
+<td>..3.9</td>
+<td>..15.5</td>
+<td>5.4</td>
+<td>7.5</td>
+<td>4.8</td>
+<td>1.9</td>
+<td>2.2</td>
+</tr>
+<tr>
+<td>Clay ..</td>
+<td>..24.2</td>
+<td>..41.1</td>
+<td>..23.9</td>
+<td>17.2</td>
+<td>15.1</td>
+<td>10.3</td>
+<td>9.7</td>
+<td>9.2</td>
+</tr>
+<tr>
+<td>Loss by solution ..</td>
+<td>..5.9</td>
+<td>..1.5</td>
+<td>..0.6</td>
+<td>4.2</td>
+<td>0.7</td>
+<td>0.6</td>
+<td>0.3</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>Moisture ..</td>
+<td>..2.7</td>
+<td>..3.8</td>
+<td>..4.3</td>
+<td>2.2</td>
+<td>3.8</td>
+<td>1.8</td>
+<td>1.8</td>
+<td>1.3</td>
+</tr>
+<tr>
+<td>Texture index number ..</td>
+<td>..22.4</td>
+<td>..37.4</td>
+<td>..27.7</td>
+<td>16.5</td>
+<td>14.9</td>
+<td>10.1</td>
+<td>9.4</td>
+<td>8.9</td>
+</tr>
+<tr>
+<td>Soil type ..</td>
+<td>Gravelly loam</td>
+<td>Gravelly clay loam</td>
+<td>Heavy loam</td>
+<td>Sandy loam</td>
+<td>Sandy loam</td>
+<td>Sand</td>
+<td>Sand</td>
+<td>Sand</td>
+</tr>
+</tbody>
+</table>
+
+**Chemical Analysis**
+
+<table border="1">
+<tbody>
+<tr>
+<td>Loss on ignition ..</td>
+<td>..6.92</td>
+<td>..7.01</td>
+<td>..7.08</td>
+<td>..3.72</td>
+<td>..6.01</td>
+<td>..3.66</td>
+<td>..5.33</td>
+<td>..1.82</td>
+</tr>
+<tr>
+<td>Organic matter ..</td>
+<td>..3.41</td>
+<td>..0.75</td>
+<td>..0.56</td>
+<td>..1.61</td>
+<td>..2.89</td>
+<td>..1.72</td>
+<td>..3.91</td>
+<td>..1.59</td>
+</tr>
+<tr>
+<td>Combined water ..</td>
+<td>..3.51</td>
+<td>..6.25</td>
+<td>..6.52</td>
+<td>..2.11</td>
+<td>..3.12</td>
+<td>..1.94</td>
+<td>..1.42</td>
+<td>..0.23</td>
+</tr>
+<tr>
+<td>Carbon ..</td>
+<td>..1.97</td>
+<td>..0.44</td>
+<td>..0.323</td>
+<td>..0.93</td>
+<td>..1.68</td>
+<td>..1.09</td>
+<td>..2.26</td>
+<td>..0.92</td>
+</tr>
+<tr>
+<td>Nitrogen ..</td>
+<td>..0.159</td>
+<td>..0.048</td>
+<td>..0.031</td>
+<td>..0.087</td>
+<td>..0.108</td>
+<td>..0.060</td>
+<td>..0.141</td>
+<td>..0.067</td>
+</tr>
+<tr>
+<td>Carbon/nitrogen ratio ..</td>
+<td>..12.4</td>
+<td>..9.1</td>
+<td>..10.5</td>
+<td>..10.8</td>
+<td>..15.6</td>
+<td>..18.1</td>
+<td>..16.1</td>
+<td>..13.7</td>
+</tr>
+<tr>
+<td>Reaction (pH) ..</td>
+<td>..7.1</td>
+<td>..6.9</td>
+<td>..7.2</td>
+<td>..6.3</td>
+<td>..7.3</td>
+<td>..7.1</td>
+<td>..7.2</td>
+<td>..6.8</td>
+</tr>
+<tr>
+<td>Base exchange capacity (m.e. per 100 gm.) ..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..6.11</td>
+<td>..13.05</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Total replaceable bases (m.e. per 100 gm.) ..</td>
+<td>..14.57</td>
+<td>..9.97</td>
+<td>..15.28</td>
+<td>..5.36</td>
+<td>..12.55</td>
+<td>..8.08</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Replaceable calcium (m.e. per 100 gm.) ..</td>
+<td>..11.74</td>
+<td>..8.11</td>
+<td>..10.63</td>
+<td>..4.20</td>
+<td>..9.62</td>
+<td>..6.62</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Readily available phosphoric acid (mgm. per 100 gm.) ..</td>
+<td>..0.74</td>
+<td>..1.11</td>
+<td>..1.46</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+</tbody>
+</table>
+
+**Clay Analysis**
+
+<table border="1">
+<tbody>
+<tr>
+<td>Loss on ignition ..</td>
+<td>..20.33</td>
+<td>..</td>
+<td>..</td>
+<td>..21.35</td>
+<td>..29.29</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Silica (SiO<sub>2</sub>) ..</td>
+<td>..42.14</td>
+<td>..</td>
+<td>..</td>
+<td>..43.76</td>
+<td>..41.68</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Sesquioxides (R<sub>2</sub>O<sub>3</sub>) ..</td>
+<td>..53.57</td>
+<td>..</td>
+<td>..</td>
+<td>..51.02</td>
+<td>..54.85</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Alumina (Al<sub>2</sub>O<sub>3</sub>) ..</td>
+<td>..41.62</td>
+<td>..</td>
+<td>..</td>
+<td>..39.06</td>
+<td>..38.43</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Iron oxides (Fe<sub>2</sub>O<sub>3</sub>) ..</td>
+<td>..11.95</td>
+<td>..</td>
+<td>..</td>
+<td>..11.94</td>
+<td>..16.42</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> (molecular) ..</td>
+<td>..1.72</td>
+<td>..</td>
+<td>..</td>
+<td>..1.89</td>
+<td>..1.84</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>SiO<sub>2</sub>/Fe<sub>2</sub>O<sub>3</sub> (molecular) ..</td>
+<td>..1.45</td>
+<td>..</td>
+<td>..</td>
+<td>..1.58</td>
+<td>..1.45</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Soil type ..</td>
+<td>..Lateritic</td>
+<td>..</td>
+<td>..</td>
+<td>..Lateritic</td>
+<td>..Lateritic</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+</tbody>
+</table>
+
+**TABLE III.**  
+**Mechanical Analysis**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="3">Bata Jungle Sandy Loam.</th>
+<th colspan="2">Deniya Sand.</th>
+<th>Owita Heavy Clay Loam.</th>
+</tr>
+<tr>
+<th>A1<br/>Per cent.</th>
+<th>A2<br/>Per cent.</th>
+<th>C1<br/>Per cent.</th>
+<th>A1<br/>Per cent.</th>
+<th>A2<br/>Per cent.</th>
+<th>A<br/>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stones and gravel ..</td>
+<td>..3.1</td>
+<td>..8.4</td>
+<td>..19.8</td>
+<td>..Nil</td>
+<td>..Nil</td>
+<td>..Nil</td>
+</tr>
+<tr>
+<td>Coarse sand ..</td>
+<td>..52.7</td>
+<td>..53.3</td>
+<td>..52.8</td>
+<td>..58.6</td>
+<td>..60.7</td>
+<td>..1.8</td>
+</tr>
+<tr>
+<td>Fine sand ..</td>
+<td>..25.2</td>
+<td>..23.2</td>
+<td>..23.1</td>
+<td>..30.5</td>
+<td>..30.8</td>
+<td>..12.5</td>
+</tr>
+<tr>
+<td>Silt ..</td>
+<td>..2.9</td>
+<td>..4.2</td>
+<td>..4.1</td>
+<td>..2.5</td>
+<td>..2.6</td>
+<td>..20.7</td>
+</tr>
+<tr>
+<td>Clay ..</td>
+<td>..16.1</td>
+<td>..17.1</td>
+<td>..18.2</td>
+<td>..6.4</td>
+<td>..4.9</td>
+<td>..53.9</td>
+</tr>
+<tr>
+<td>Loss by solution ..</td>
+<td>..1.2</td>
+<td>..0.6</td>
+<td>..0.3</td>
+<td>..1.2</td>
+<td>..0.7</td>
+<td>..5.5</td>
+</tr>
+<tr>
+<td>Moisture ..</td>
+<td>..1.9</td>
+<td>..1.6</td>
+<td>..1.5</td>
+<td>..0.8</td>
+<td>..0.3</td>
+<td>..5.6</td>
+</tr>
+<tr>
+<td>Texture index number ..</td>
+<td>..15.1</td>
+<td>..16.0</td>
+<td>..16.8</td>
+<td>..6.2</td>
+<td>..5.0</td>
+<td>..50.5</td>
+</tr>
+<tr>
+<td>Soil type ..</td>
+<td>..Sandy loam</td>
+<td>..Sandy loam</td>
+<td>..Sandy loam</td>
+<td>..Sand</td>
+<td>..Sand</td>
+<td>..Heavy clay loam</td>
+</tr>
+</tbody>
+</table>
+
+**Chemical Analysis**
+
+<table border="1">
+<tbody>
+<tr>
+<td>Loss on ignition ..</td>
+<td>..5.15</td>
+<td>..4.61</td>
+<td>..4.43</td>
+<td>..3.39</td>
+<td>..0.90</td>
+<td>..11.68</td>
+</tr>
+<tr>
+<td>Organic matter ..</td>
+<td>..2.37</td>
+<td>..1.19</td>
+<td>..0.94</td>
+<td>..1.90</td>
+<td>..0.87</td>
+<td>..2.73</td>
+</tr>
+<tr>
+<td>Combined water ..</td>
+<td>..2.78</td>
+<td>..3.42</td>
+<td>..3.49</td>
+<td>..1.49</td>
+<td>..0.03</td>
+<td>..8.95</td>
+</tr>
+<tr>
+<td>Carbon ..</td>
+<td>..1.37</td>
+<td>..0.694</td>
+<td>..0.544</td>
+<td>..1.10</td>
+<td>..0.502</td>
+<td>..1.58</td>
+</tr>
+<tr>
+<td>Nitrogen ..</td>
+<td>..0.104</td>
+<td>..0.071</td>
+<td>..0.061</td>
+<td>..0.076</td>
+<td>..0.046</td>
+<td>..0.123</td>
+</tr>
+<tr>
+<td>Carbon/nitrogen ratio ..</td>
+<td>..13.1</td>
+<td>..9.7</td>
+<td>..9.0</td>
+<td>..14.5</td>
+<td>..10.9</td>
+<td>..12.8</td>
+</tr>
+<tr>
+<td>Reaction (pH) ..</td>
+<td>..6.2</td>
+<td>..5.7</td>
+<td>..4.9</td>
+<td>..5.6</td>
+<td>..5.1</td>
+<td>..6.3</td>
+</tr>
+<tr>
+<td>Base exchange capacity (m.e. per 100 gm.) ..</td>
+<td>..5.57</td>
+<td>..</td>
+<td>..</td>
+<td>..4.51</td>
+<td>..</td>
+<td>..7.47</td>
+</tr>
+<tr>
+<td>Total replaceable bases (m.e. per 100 gm.) ..</td>
+<td>..0.84</td>
+<td>..0.68</td>
+<td>..0.55</td>
+<td>..0.91</td>
+<td>..0.81</td>
+<td>..1.03</td>
+</tr>
+<tr>
+<td>Replaceable calcium (m.e. per 100 gm.) ..</td>
+<td>..0.76</td>
+<td>..0.49</td>
+<td>..0.46</td>
+<td>..0.81</td>
+<td>..0.53</td>
+<td>..0.91</td>
+</tr>
+<tr>
+<td>Readily available phosphoric acid (mgm. per 100 gm.) ..</td>
+<td>..1.06</td>
+<td>..1.03</td>
+<td>..0.94</td>
+<td>..1.08</td>
+<td>..0.83</td>
+<td>..1.01</td>
+</tr>
+</tbody>
+</table>
+
+**Clay Analysis**
+
+<table border="1">
+<tbody>
+<tr>
+<td>Loss on ignition ..</td>
+<td>..42.07</td>
+<td>..</td>
+<td>..</td>
+<td>..53.15</td>
+<td>..</td>
+<td>..24.36</td>
+</tr>
+<tr>
+<td>Silica (SiO<sub>2</sub>) ..</td>
+<td>..33.02</td>
+<td>..</td>
+<td>..</td>
+<td>..46.32</td>
+<td>..</td>
+<td>..38.14</td>
+</tr>
+<tr>
+<td>Sesquioxides (R<sub>2</sub>O<sub>3</sub>) ..</td>
+<td>..66.55</td>
+<td>..</td>
+<td>..</td>
+<td>..53.20</td>
+<td>..</td>
+<td>..51.35</td>
+</tr>
+<tr>
+<td>Alumina (Al<sub>2</sub>O<sub>3</sub>) ..</td>
+<td>..47.85</td>
+<td>..</td>
+<td>..</td>
+<td>..47.89</td>
+<td>..</td>
+<td>..43.99</td>
+</tr>
+<tr>
+<td>Iron oxides (Fe<sub>2</sub>O<sub>3</sub>) ..</td>
+<td>..18.70</td>
+<td>..</td>
+<td>..</td>
+<td>..5.31</td>
+<td>..</td>
+<td>..17.36</td>
+</tr>
+<tr>
+<td>SiO<sub>2</sub>/Al<sub>2</sub>O<sub>3</sub> (molecular) ..</td>
+<td>..0.84</td>
+<td>..</td>
+<td>..</td>
+<td>..1.47</td>
+<td>..</td>
+<td>..1.05</td>
+</tr>
+<tr>
+<td>SiO<sub>2</sub>/Fe<sub>2</sub>O<sub>3</sub> (molecular) ..</td>
+<td>..0.71</td>
+<td>..</td>
+<td>..</td>
+<td>..1.35</td>
+<td>..</td>
+<td>..0.89</td>
+</tr>
+<tr>
+<td>Soil type ..</td>
+<td>..Laterite</td>
+<td>..</td>
+<td>..</td>
+<td>..Lateritic</td>
+<td>..</td>
+<td>..Laterite</td>
+</tr>
+</tbody>
+</table>
+
+15------------------------------------------------
+
+278
+
+## WATER-LOGGING OF IRRIGATED LANDS AND REMEDIAL MEASURES
+
+R. KAHAWITA,  
+IRRIGATION DEPARTMENT
+
+**W**ATER-LOGGING and consequent increase of alkali salts in soils is a condition caused either by a rise of the subsoil water table or by inadequate draining of surface water or both. In most of the major irrigation schemes in Ceylon, drainage of asweddumized\* lands is left to the resources and understanding of the proprietor or his tenants. Annually large tracts are being alienated to poor peasants who are given limited aid by Government to establish farms according to their understanding. The peasant, in his eagerness to derive an income from the new possessions, with the minimum of labour within the shortest time, seldom gives any thought to drainage, nor does he prepare the lands according to any pre-determined plan to take irrigation water without surface waste. Knowing that new clearings are fertile and the yield is good he soon learns that, unless he has an abundant supply of water, he will miss his opportunity. Irrigation is not only his insurance against failure of crops but also his chance to gather a bumper harvest from a new clearing. Thus he feels that the more water he can apply to the land the more certain is he of his bumper harvest. Such misguided enthusiasm results in over-irrigation and finally spells disaster to crop production under irrigation. In the long run, these practices are attendant with dangers which will prove a menace to profitable agriculture. These dangers are water-logging, spread of aquatic plant pests, and increase of alkali salts in the soil. If these are not perceived early they may result in complete abandonment of large tracts or in heavy expenditure in attempting to overcome them.
+
+A study of soils that precedes all land development schemes may indicate its suitability for agricultural purposes both in texture and in chemical constituents. It may have all the desired qualities of a good soil. But with irrigation a change in these conditions must be expected. And this change may be
+
+---
+
+\* "Asweddumizing" means cultivation of paddy fields by puddling.
+
+16------------------------------------------------
+
+279
+
+caused by the method of applying irrigation water, or by the physical features of the land or by both. Hence the observations made at the time of the soil survey cannot be considered final and permanent, unless such methods as are necessary to conserve and rehabilitate the soil are adopted when the land is brought under cultivation. It is always well to study beforehand how a soil in a particular area will react to irrigation. Though it may be found that the depth, physical texture, and chemical constituents are favourable with the subsoil free from an excess of alkali salts, for crop raising, one must not forget that these conditions were established under natural influences. One could not say that these would continue to be so under altered conditions. Before a land is exploited for agriculture it is often under heavy jungle giving it impenetrable shade ; it has a periodical dry and wet season ; it receives a fairly regular rainfall during the monsoons which has carved out a natural drainage system to deal with the surface run-off. When the cultivator starts his operations for crop raising he denudes the land of its jungle and exposes it to the direct rays of the sun ; he constructs ridges to hold water and channels to deliver it ; he levels and cultivates the soil ; and he applies water year in year out. These are conditions quite different from what they were at the time of the soil survey, and if nature is what it is, there should take place radical changes in the soil under the new conditions. Such changes in the soil may be accelerated with poor subsoils, the presence of an impervious hard-pan close to the surface, lack of an effective drainage system and, last but not the least, continuous irrigation.
+
+Under this erratic method of irrigation, or what is called over-irrigation, the first change to expect is a variation of the subsoil water table. It may rise very close to the root regions, and with improper land preparation, it may even rise to the surface at depressions and low-lying areas which will be lost for crop production. This is what is known as water-logging.
+
+Such an artificial raising of the water table, specially in lands devoid of shade, usually aggravates the alkali condition of the soil which will, in course of time, render it entirely unsuitable for crops. This may happen under irrigation even in areas that had not a trace of alkali salts before. Its early appearance may be observed to a marked degree in low-lying areas. The reason for this and the occurrence of alkali salts in soils free from them before irrigation is that, with the continuous application of water, salts are leached out from higher to the lower lands, by seepage from irrigation channels, and by flushing of lands above due to excessive irrigation. This subsoil flow from higher to the lower regions often gathers large quantities of soluble
+
+17------------------------------------------------
+
+280
+
+materials which may get concentrated in low-lying and improperly-drained areas. As time goes on, under these conditions such areas may be rendered hopelessly barren. Another factor, often overlooked by irrigators, is that lands higher up in a water-shed are more porous than those lower down owing to heavy soil erosion under natural conditions. A light porous soil results in an excessive loss of irrigation water by deep percolation—which cannot be entirely avoided. If this fact is not borne in mind when issuing water to the lands lower down, over-irrigation is bound to occur with all its dangers. It is not always necessary for the water table to rise within the root regions to cause injury to plants. Owing to capillary attraction, water from the lower crust of soil is drawn to the surface and there evaporated leaving behind it all the harmful salts which had been dissolved in it. The quantities so left in the soil may not be in sufficient concentrations to cause immediate injury to crops. But this upward and downward movement of subsoil water results in the ultimate presence of salts in the effective soil strata. If this is followed by a prolonged dry season the appearance of salts on the surface soil in the form of efflorescence is not rare. This is a common occurrence in arid or semi-arid regions. It must be remembered that irrigation is essential only in such regions for crop production and one of the main characteristics of soils in arid areas is the presence of sodium salts. This is what causes alkalinity in soils, and irrigation causes this characteristic to vary to the detriment of plant life. The salts which occur most commonly in a natural state in soils are (1) carbonates, bicarbonates, sulphates, and chlorides of sodium, (2) carbonates, sulphates, and chlorides of magnesium, (3) carbonates, sulphates, and chlorides of calcium. Of these salts the most injurious to plant life is sodium carbonate. Though it may not be present in the soil in large accumulations at the commencement of a project there is a chance of its increasing under irrigation by a base exchange with other soluble salts. Also this danger may be present indirectly in the irrigation water if it contains large quantities of calcium carbonate in solution. According to Evershed, the limit of tolerance of vegetation to different alkali salts in the soil is roughly as follows:—
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(1) Sodium carbonate</td>
+<td>..</td>
+<td>0·1</td>
+<td>to 0·15</td>
+</tr>
+<tr>
+<td>(2) Sodium chloride</td>
+<td>..</td>
+<td>0·2</td>
+<td>to 0·3</td>
+</tr>
+<tr>
+<td>(3) Sodium sulphate</td>
+<td>..</td>
+<td>0·4</td>
+<td>to 0·6</td>
+</tr>
+</tbody>
+</table>
+
+If these percentages are increased owing to any external causes or causes inherent in the soil, lands become unprofitable for agricultural purposes. Therefore every precaution should be taken to keep these figures down. This only emphasizes the
+
+18------------------------------------------------
+
+281
+
+need for careful investigation of the soil behaviour before an irrigation project is undertaken. Also it is useful to study what changes may take place in the soil and ground water under irrigation. In summarizing, a soil may be said to be rendered alkali owing to the following causes :—
+
+1. (1) water-logging and blocking of natural drainages ;
+2. (2) want of sufficient rain to leach out any soluble salts present in the soil ;
+3. (3) excessive evaporation with high temperature ;
+4. (4) want of sufficient surface and subsoil drainage ;
+5. (5) over-irrigation under condition (4).
+
+It should be clear now why special attention should be paid to the correct preparation of lands before irrigation water is turned on to it. In poorly-prepared lands there will be excessive wastage necessitating over-irrigation. This surplus water and waste will collect in depressions and low-lying areas with inadequate drainage facilities. These are the first steps towards water-logging often of large tracts. Once these conditions have been definitely established the growth of aquatic plant-pests such as Bulrush (*Typha angustata*) and rushes (*Cyperus laevigatus*) follows and this may even gradually spread on to good arable lands. With water-logging, increase of alkali in the surrounding lands is a matter of time.
+
+One should expect to encounter these dangers in the dry zone much more than in the wet zone for the following reasons : In the wet zone, on account of the even distribution of rainfall over the year the natural drainage will have established itself to deal with a perennial flow. Under these circumstances there will be little chance of over-irrigation (if irrigation is necessary at all) and even if it occurs it has very little bearing on the subsoil water table. There will be no significant variations in its level. On the other hand rains are periodical in the dry zone, lasting for about four months at a time. Under these conditions the formation of drainage lines will not be so well defined. Consequently, a good deal of the run-off will collect in depressions and furrows of a rugged terrain. A rise of the water-table is inevitable. During the rest of the year drought conditions with extremely high temperatures and low humidity exist, resulting in heavy evaporation of soil moisture from the surface. A fall in the water-table follows. With this the surplus water collected in depressions, &c., disappears. Whenever an irrigation system is established in such an area without proper drainage ground-water rises, thus upsetting the balance maintained previously under natural conditions. A fluctuation of the water-table occurs which causes the drawing up of soluble salts to the root regions by capillary action—danger No. 1. As the ground-water approaches the surface deeper plant roots get
+
+19------------------------------------------------
+
+282
+
+surrounded with water containing a high percentage of mineral salts, assimilation of which is disastrous to plants. Apart from this, roots do not spread in soils where the moisture content is persistently above field capacity. This limits the feeding area of roots with permanent injury to plant—water-logging—danger No. 2. (Field capacity may be defined as the maximum moisture content to which a soil can be wetted under action of gravity in the field).
+
+When these points are considered the importance of efficient drainage in irrigation schemes cannot be overlooked. Partial abandonment of once fertile lands owing to bad drainage is not rare. Drainage of agricultural lands is as closely linked with it as irrigation. And it is impossible, in any irrigation project, to predict the adequacy of natural drainage of the area embodied within it. In this country where a survey of the subsoil water-table or observation of its behaviour under irrigation is considered to be of secondary importance in the preparation of a project, the question of artificial drainage to supplement the natural system must be studied with the channel layout. The effect of bad drainage on plant life will not be perceived during the early life of a project. The explanation of this is that, though the soil in the lower regions of a water-shed may be quite porous, underlaid with light soil and subsoil water far below the surface, yet with the introduction of irrigation and heavy cultivation weathering of soil particles and decay of organic matter will take place with a consequent increase in clay, humus, and organic contents of soil. The tendency of these changes in the soil is to change its permeability which in turn affects subsoil flow. Then excess application of water—an evil to which cultivators are often addicted to in new clearings—together with periodical rains will often render the drainage conditions inadequate and inefficient to deal with the increased water under new conditions. This means that a process of soil deterioration will set in and gradually a new regime will be established in the same way as one was established before irrigation was started. Unless the natural conditions are unusually favourable, water-logging is inevitable in continuously-irrigated lands. In the first instance it will appear in the low-lying areas and as time goes on it will spread to higher regions also.
+
+There are few irrigation systems where natural drainage should not be supplemented by artificial drainage, and the expansion of an irrigation system may ultimately require a complete drainage system. When much attention is not paid to proper land development, the necessity for effective drainage will be felt in a considerably short time. A complete drainage system is not going to overcome water-logging nor the alkalinity of soil entirely. Preparation of lands too
+
+20------------------------------------------------
+
+283
+
+must be done in such a way as to facilitate easy drainage when required. Sporadic clearing, ridging, and levelling and the non-observance of any approved plan or method can be considered as factors that accelerate the process of deterioration. Unscientifically prepared lands consume more water than those prepared according to a recognized method. The surplus water taken by the former must find an outlet and, if no drainage facilities are provided, unfavourable soil conditions will be established.
+
+*Methods of preventing water-logging.*—The first step to be taken in the prevention of water-logging is to discourage waste of irrigation water. It can be done by correct “asweddumizing” with substantial ridges following contours against “fall of land”. In partly-developed lands every effort should be made to keep waste water from flowing into the undeveloped areas as surface run-off. If it cannot be avoided then temporary drains must be cut to drain them or early steps taken to cultivate them. In preparing lands the method of applying water to each field depending on its configuration must be settled first and should precede all other operations. And into this method waste-water drains must be incorporated which should be capable of draining into a field channel lower down; if this is impracticable, into a natural drainage line. Surface waste should never be allowed to find its own outlet.
+
+Depressions and pockets that are always found in large tracts must be filled up in the process of levelling. If this is too expensive then they should be converted into receptacles for waste water linked with a natural drainage line by a drain connecting with an effective out-fall. This is very necessary to control its water level according to requirements. Below every block of fields, however small they may be, a waste drain must be provided. Any water flowing into this from its fields above can be directed into a field channel lower down for redistribution. Such a procedure will reduce wastage to a minimum.
+
+Over-irrigation should be discouraged. It could be done by adopting a system of rotational issues, *i.e.*, each block of fields should receive water for 3 or 4 days in the week only. Such a method of issues will help to drain any surplus water in the soil. Also it is a good practice to rest tracts of fields periodically during the dry season. This is a method practised by small cultivators under village tanks; though they may not know the scientific significance of it, yet they follow it regularly more or less by instinct.
+
+To help in the correct functioning of and guidance in the above methods there must be laid down a main system of drainage in the scheme which must be cut and maintained with the same efficiency and in the same condition as irrigation
+
+21------------------------------------------------
+
+284
+
+channels. Apart from natural *drains* there must be ditches to receive waste or surplus water from main channels, distributaries and field channels. Such channels may be either obvious drainage lines, cleared, graded, and maintained in good order, or natural water-courses, or a series of depressions used as small collecting ponds but linked to a natural stream so that their water level may be controlled. Where artificial channels are required they should be located between two parallel watersheds and led into the main drainage line. Such improvements are always necessary to supplement the natural drainage of an irrigation project. It is on the efficiency of the drainage system that the preservation of the soil conditions depends and not so much on the irrigation system. Irrigation is required only to help the plant to wrest its food from the soil.
+
+The local practice of putting in two crops of the same kind twice a year under intensive irrigation without rehabilitating the soil by the application of some kind of manure must also be discouraged. It is not only bad agriculture but also uneconomic expenditure of productive labour which if directed into other channels may give a better yield. If the natural factors are such that rotational crops cannot be raised in the area, then at least rotational resting of the fields must be adopted. In all cases this must be in the dry season. It must be remembered that of the water applied to a field only a fraction is used up in plant transpiration and evaporation compared to the amount absorbed by the soil. This water must be provided with an outlet so that by its prolonged "stay" it may not affect the soil condition.
+
+In the foregoing pages drainage of surface flow has been dealt with. The next problem is to deal with subsoil flow. Before any particular method is decided upon, a thorough knowledge of the soil profile of the affected area must be had as the subsoil flow is dependent on the substratum. If this is not pervious, water will collect dangerously too close to the feeding area of roots on the impervious soil and finally may form into a "secondary water table". On the other hand if the soil has a porous substratum within a reasonable depth the percolated water will pass this and finally flow beyond the reach of the roots. If the substratum is composed of sand or gravel fairly deep (of which the capillary power is low) there is no chance of the soil becoming alkali by this process. Soil profiles of this formation are easy to drain and reclaim. Seldom will these be subjected to water-logging or turn alkali. Light soils form a natural subsoil drain and also act as a cut-off preventing the soluble salts from coming up by capillary action. All the troubles arise when the substratum is impervious within an effective depth of about 3 to 4 feet. Such lands are difficult
+
+22------------------------------------------------
+
+285
+
+to drain and the necessity to provide an efficient system of drainage, if the area is to receive irrigation, cannot be over-emphasized. Generally speaking the subsoil water-table may be disturbed by the following causes (a) percolation from irrigation works and over-irrigated fields, (b) rainfall, (c) impervious subsoil formations, (d) perennial irrigation. Rain by itself is not harmful but with the other causes will alter the regime established under natural conditions.
+
+Subsoil flow too is dealt with by a system of drains, open or covered. Of necessity these drains must be sufficiently deep to keep the required depth of soil free from excess of water. It will be found that these drains are required much deeper than those excavated for surface drainage. There is no hard and fast rule whereby the depth could be fixed. This depends entirely on the individual characteristics of the area to be drained. However, the following points must be considered in deciding on the depth of drains: (a) soil formation, (b) depth to which injurious salts are present in the soil and their movement with irrigation, (c) method and type of irrigation to be adopted, (d) types and nature of crops to be grown, (e) possibility of clear out-falls.
+
+The need for covered drains depends on the cost of land to be reclaimed, cheapness of materials required for their construction, comparative costs of maintenance of open drains and covered drains, and finally the purpose for which the reclaimed land will be used.
+
+In this article I do not propose to give the constructional details of various types of drains but I hope to do so in a subsequent article.
+
+Lands already water-logged can be made arable by the provision of an effective system of drainage, both surface and sub-soil, as explained above. In a very short time paddy could be grown in lands so claimed even if the soil is not entirely free from salts which may have been formed with water-logging. According to Tamahane of the Department of Agriculture, Bombay, "Rice is almost the only crop which has sufficient resisting power against salts. Rice requires a clay soil and a large amount of water which dilutes the salts to a considerable extent, thus helping the successful growth of rice in such lands".
+
+Reclamation of alkali lands for crop production is very expensive, often beyond the resources of a local peasant. Methods of reclamation may be grouped into three classes (a) physical, (b) removal, (c) chemical. Under (a) where salt has appeared on heavy clay soils it could be removed by "washing the surface" by frequent flooding and then deep cultivation so as to bring the subsoil to the surface to be mixed
+
+23------------------------------------------------
+
+286
+
+up with the top soil. This will render the original heavy soil more workable and will improve its permeability. As time goes on surface salts will be dissolved and leached out.
+
+Another method is to give the soil an application of lime and heavy doses of farm yard manure followed by intensive cultivation. Dosage depends on the quality of the soil to be treated. The principle underlying this method is that farm yard manure and lime helps to convert the sodium salts into sodium bicarbonate which is easily leachable and can be drained off. Large areas of heavy clay soils in Hungary have been reclaimed by this method.
+
+A third method—which is more or less designed to preserve soil condition—is to prevent moisture evaporation from surface soils. Evaporation concentrates the soluble salt contents and this is further increased by the replacement of moisture from the subsoil by capillarity. This moisture often brings up with it soluble salts which accumulate on the surface. It could be prevented by shading, mulching or hoeing of the soil. This method is especially successful in orchards where, apart from preventing the deterioration of soil, it helps to conserve the moisture for the crop.
+
+Under (b), leaching of the salts into the subsoil and then draining it off is the most common practice. This is done by dividing the area into suitable checks by means of earth ridges, filling the checks with water and then allowing it to stand so that the water percolates to the subsoil. In its downward movement the salts will be dissolved and taken to the subsoil from where it can be removed by deep drains or below the limit of capillarity. This method to be successful the following conditions must be obtained:—(1) A certain degree of permeability, (2) adequate supply of water, (3) water table below limit of capillarity.
+
+A second method is to cut a system of drains so as to lower the subsoil water below the root regions and thus effectively drain the soil together with soluble salts in it. It is not always possible to restore soils to its original state by draining. However, it may improve with cultivation. If the injury to the soil had been caused by sodium salts (sodiumization) reclamation is difficult because, after a certain limit, the presence of sodium salts make the soil impervious and retards movement of water so that the salts cannot be removed entirely. In fact, based on this characteristic of sodium soils, a method has been evolved in India to stop seepage from irrigation channels—known as the sodium carbonate treatment.
+
+If it is further desired to reduce this limiting salt content (0.4 to 0.57 per cent.), heavy doses of farm yard manure should be given at the rate of about 10 tons per acre. The
+
+24------------------------------------------------
+
+287
+
+theory is that farm yard manure liberates free carbon-dioxide in the soil which combines with sodium carbonate to form sodium bicarbonate which is easily leachable. Then if the soil is flooded the sodium salt can be washed into the drains. According to Dr. Mackenzie Taylor of Punjab, if paddy is cultivated on soils so treated the soil further improves owing to the action of carbon-dioxide, liberated from the paddy roots, on sodium carbonate which is converted into leachable bicarbonate.
+
+In the chemical treatment of alkali soils the use of the following materials have been experimented upon with varying results: gypsum, bauxite decomposed with sulphuric acid, sulphur, hydrochloric acid, and acetic acid. These processes are expensive, and for us in Ceylon they are only of academical interest. Therefore it is proposed not to discuss them here.
+
+In conclusion it may be mentioned that alkalinity in soils is the worst enemy of agriculture. And unless early measures are taken either to prevent accumulation of salts where it has appeared in small quantities or where it is likely to appear in soils free from it, reclamation later on will prove extremely expensive and difficult. It is an "enemy of agriculture," which can be easily defeated by adopting simple tactics if its presence or its possible appearance is noticed early. It must be remembered that drainage helps the cultivator to get better crops which is the dominant factor contributing towards his prosperity and well being.
+
+#### REFERENCES
+
+1. 1. De Sigmond, Alexius A. J.—*Hungarian alkali soils and methods of their reclamation*. Budapest: Royal Hungarian University of Technical Science, 1923.
+2. 2. Tamahane, A. V.—Investigation into the salt lands of Sind. *Bombay Dept. Agric. Bulletin*, No. 96 of 1920.
+3. 3. Pickles, George W.—*Land drainage*. New York: Mc Graw-Hill Book Co.
+4. 4. Widtsoe, J. A.—*Success on irrigation projects*. New York: John Wiley & Sons.
+
+25------------------------------------------------
+
+288
+
+## DEPARTMENTAL AND OTHER NOTES
+
+### NOTES ON RUBBER SEEDLING NURSERIES\*
+
+#### LOCATION
+
+**T**HE nursery should be in a sheltered position but not overshadowed by trees, preferably on flat land with good soil. Deniya land is suitable if capable of being drained to a depth of 4 ft. If an old line site is selected for a nursery it is advisable to give the soil a preliminary dressing with sulphur or sulphate of ammonia to counteract alkalinity in the soil. The nursery should be within easy distance of a water supply.
+
+#### LAYOUT OF BEDS
+
+The suggested planting system is to space the rows alternately 1 ft. and 2 ft. apart and to plant the seed at 6 in. intervals in the rows. The 2 ft. passages provide access to the plants for budding. It is convenient to cut the beds 11 ft. wide (see Diagram No. 1).
+
+#### PREPARATION OF BEDS
+
+On average flat land there is no difficulty in lining out the beds. On sloping land they should be lined on the contour and levelled. It may be necessary to decrease the width of the beds on steep land. It is convenient to start levelling the beds from the top of the slope and work downwards. The edges of the banks should be sloped off and turfed. A drain 1 ft. by 1 ft. is cut at the back of each bed. On flat land the depths and frequency of drains will depend on local requirements to prevent water-logging. Paths should be provided at intervals in a large nursery, both to facilitate inspection and to allow for free movement of air through the area.
+
+All stumps and roots down to the thickness of a pencil should be removed from the beds to prevent the risk of root disease infection. Stones should also be removed. This operation will normally disturb the soil to a depth of about 2 ft. and no further forking will be necessary. If, however, the nursery is laid down in an area without any tree roots the soil should be dug out to a depth of 1 ft. and forked to a further depth of 1 ft. before final levelling. Areas with hard subsoil may be loosened by means of half charges of dynamite. In deniyas forking to a depth of 1 ft. is sufficient.
+
+#### GERMINATING BEDS
+
+Initial growth in a nursery depends largely on the quality of the seed used. It should be freshly collected and all small, light and unhealthy seed rejected. The seed should be
+
+\* Rubber Research Scheme (Ceylon) Advisory Circular No. 3.
+
+26------------------------------------------------
+
+289Diagram No. 1.
+
+germinated before planting. Germination is carried out in prepared beds of river sand (not necessarily sieved but not too coarse) about 3 ft. wide and 9-12 in. deep, protected by a cadjan roof. Several layers of seeds may be laid in the bed, each layer being covered with about 2 in. of sand.
+
+27------------------------------------------------
+
+290
+
+The seeds should be placed with the flat side downwards. The beds are kept moist by frequent watering but should not be allowed to become water-logged.
+
+Germination usually starts about the 8th day, distinguishable by the rupture of the seed coat at one end of the "scar" and the appearance of the young root. The germinated seeds are sorted out and used for planting. The remainder is replaced in the germinating beds and re-examined at intervals of 2-3 days. Seed not germinating within 14 days should be rejected. In handling the germinated seeds great care must be taken not to damage the young growing points.
+
+#### PLANTING
+
+Holes about 1 in. deep are made with a stick at the spacing indicated in an earlier paragraph. The seeds are planted in a horizontal position with the flat sides downwards and lightly covered with earth. The beds are then shaded with bracken or other green material. If dry weather occurs after planting it will be necessary to water the beds daily. Watering should be done in the late afternoon.
+
+#### WEEDING
+
+The nursery beds should be kept clear of grass and weeds. Weeding with scrapers should not be allowed.
+
+#### MANURING
+
+Manurial treatment will depend entirely on the growth of the plants and no hard and fast rules can be made. The aim should be to bring the seedlings to a suitable size for budding within two months. Animal meal (analysis N 7 per cent.  $P_2O_5$  10 per cent.,  $K_2O$  per cent.) is a safe fertilizer to use in nurseries and may be applied in quantities varying from  $\frac{1}{4}$  to 1 oz. per plant according to the stage of growth. An initial dressing at the rate of 500 lb. per acre can usefully be given when the beds are being prepared for planting. A mineral fertilizer mixture, such as Niciphos No. 2, 4 parts, muriate of potash 1 part, can safely be applied at the rate of  $\frac{1}{2}$ -1 oz. per plant after the seedlings have reached the age of six months. It should be mixed with four (or more) parts of black soil or compost and dibbled in between the rows. Manure should not be applied within three months of budding.
+
+#### PESTS AND DISEASES
+
+1. *Rats*.—These animals eat through the tap roots of young seedlings or gnaw them near the collar. An effective poison bait is prepared by mixing 1 part of barium carbonate with four parts of bread crumbs or grated coconut and putting out in the form of small pellets wrapped in paper. Rats may also be caught in traps or snares.
+
+2. *Hares*.—Hares eat off the top of young plants, but can be kept out by surrounding the nursery with wire netting.
+
+28------------------------------------------------
+
+291
+
+3. *Mites*.—These insects attack the young foliage causing distortion of the leaves and sometimes defoliation. They usually attack the poorest plants so that manuring and cultivation methods which ensure vigorous growth are to be recommended. Efficient control can be obtained by periodical dusting with sulphur powder. Several makes of hand dusters are on the market. On a small scale sulphur can be applied by beating with a stick on a linen bag in which the powder is loosely contained.
+
+4. *Cockchafer Grubs*. *Leucophilis* (*Lepidiota*) *pinguis*.—These larvae, which are large fleshy white grubs up to 3 in. in length, hatch out in the soil and eat off the roots of the young plants just below ground level. The most effective means of control is soil injection with Carbon Bisulphide, but this is a somewhat expensive chemical. It must be used with great care as it is highly inflammable and poisonous. It can best be applied with an instrument known as a Soil Injector, but if this is not available it is satisfactory to make small holes, 6 in. deep with a stick, pour in the liquid and then cover with earth. The minimum effective dose will depend on the number and size of the grubs present, but as a basis for trial it is recommended that  $\frac{1}{4}$  liquid oz. be injected every 15 ins. half way between the rows of seedlings.
+
+5. *Oidium* (*Oidium Heveae*).—This fungus may attack the young leaves and cause curling up and distortion or leaf-fall. In older leaves it leads to the formation of yellow translucent spots. The spots become purplish-brown in colour and eventually dry up, while the dead tissues in the centre may fall out, leaving irregular holes. The disease can be controlled by sulphur dusting at intervals of 7–10 days.
+
+6. *Bird's Eye Spot* (*Helminthosporium Heveae*).—This fungus causes minute circular purple spots which become white as they increase in size. Severely attacked leaves may fall. The most effective fungicidal preparation discovered to date is "Perenox," sold by Imperial Chemical Industries (India), Ltd. The powder is simply sprinkled on to water at the rate of 3 oz. per 10 gallons and stirred in. The nursery should be thoroughly sprayed with the mixture at weekly intervals. It has also been found that light shade reduces the intensity of attack. This may be provided by erecting thin cadjan shades several feet above the plants, or by planting shade trees such as Albizzia.
+
+#### THINNING OUT
+
+At intervals of two or three months the nursery should be thinned out by the removal of the weaker plants, with a view to reducing the stand by at least 50 per cent. before the stage of budding is reached.
+
+#### BUDDING
+
+Described separately in Advisory Circular No. 1 "Notes on budgrafting procedure."
+
+29------------------------------------------------
+
+292
+
+### SIZE OF NURSERY REQUIRED
+
+An acre of land, laid out in beds as described, will accommodate approximately 30,000 seedlings but the number is reduced to 15,000 by periodical thinning. Assuming a field stand of 150 budgrafts per acre, one acre of nurseries will just suffice for 100 acres of clearings. There is, however, the risk of a large proportion of casualties when transplanting the stumps and it will be prudent to allow a margin of 50 per cent. in the provision of nursery accommodation. Under present conditions surplus plants are not likely to be wasted as, if not required as supplies, they can be utilized for a subsequent clearing or sold.
+
+### ALTERNATIVE LAYOUT OF BEDS
+
+The following alternative layout of nursery beds is particularly useful if the plants are to be transferred to the field as stumped buddings or if it is necessary to establish a nursery on land with a hard subsoil. The rows are spaced 18 in. apart and planting points are marked at 18 in. intervals in the rows on the quincunx system, so that the position of the plants alternates in adjacent rows. In this case the beds are cut  $11\frac{1}{2}$  ft. wide. At each planting point a hole of about 8 in. diameter is cut to a depth of 2 ft. and the earth loosened with an alavango to a further depth of 1 foot. The holes are filled in with top soil. Three germinated seeds are planted at each point, at the corners of a 4-in. triangle, and the two weaker plants thinned out before the stage of budding is reached (see Diagram No. 2). This layout gives a theoretical stand of 19,000 points per acre, but the provision of drains and paths reduces the number to about 14,000. The capacity of the nursery is slightly less than is obtained on the other layout but the stand of plants is evenly spaced at the time of budding.
+
+Diagram No. 2.
+
+The diagram illustrates a rectangular nursery bed layout. The overall width is marked as  $11\frac{1}{2}'$  on the left. At the top, a hatched area represents a 'DRAIN 1' x 1''. Below the drain, the bed is divided into horizontal rows. The top row is labeled 'POINTS FOR HOLES 18" APART.' and contains a circle with three dots inside, labeled 'HOLE FOR 3 GERMINATED SEEDS'. The rows are separated by '2'' intervals. The bottom row is labeled 'BORDER' and is also '2'' wide. The rows are marked with 'x' symbols, and an arrow indicates 'POINT ALTERNATES IN ADJACENT ROW.'.
+
+30------------------------------------------------
+
+293COSTS
+
+The costs of opening and maintaining a nursery will naturally vary very substantially according to local conditions and the following figures should only be regarded as a rough guide. They are based on the assumption that the nursery will be made by clearing an area planted with mature Rubber :—
+
+ESTIMATED COST OF OPENING 1 ACRE OF NURSERY LAND
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Felling, burning and clearing .. ..</td>
+<td>30</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2. Dynamiting .. ..</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>*3. Planting (including cost of germinating beds, &amp;c.) ..</td>
+<td>75</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4. Weeding at 1.50 per acre for six months ..</td>
+<td>9</td>
+<td>0</td>
+</tr>
+<tr>
+<td>†5. Fencing 90 milla posts at 0.30 ..</td>
+<td>27</td>
+<td>0</td>
+</tr>
+<tr>
+<td>    1½ cwt. barbed wire at 22.50 ..</td>
+<td>33</td>
+<td>75</td>
+</tr>
+<tr>
+<td>    Staples and labour for mixing ..</td>
+<td>5</td>
+<td>25</td>
+</tr>
+<tr>
+<td>6. Paths and steps .. ..</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>7. Drains .. ..</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>8. Preparing beds and removing roots ..</td>
+<td>200</td>
+<td>0</td>
+</tr>
+<tr>
+<td>9. Pests and diseases .. ..</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td style="text-align: right;">Total ..</td>
+<td>440</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+UPKEEP (ASSUMING PLANTS ARE BUDDABLE AT 12 15 MONTHS)
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Weeding—12 months at 50 cts. ..</td>
+<td>6</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2. Thinning out backward plants and general upkeep ..</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3. Manure and application—15,000 seedlings at 2 oz.=</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    16¾ cwt. at 7.50† (excluding cost of carriage) ..</td>
+<td>125</td>
+<td>0</td>
+</tr>
+<tr>
+<td>    2 applications at 15 ..</td>
+<td>30</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4. Budding and attention 15,000 plants at 4½ cents, including cost of uprooting stumps for transplanting ..</td>
+<td>675</td>
+<td>0</td>
+</tr>
+<tr>
+<td>5. Uprooting for transplanting at 1½ cts. ..</td>
+<td>225</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6. Pests and diseases .. ..</td>
+<td>50</td>
+<td>0</td>
+</tr>
+<tr>
+<td style="text-align: right;">1,136</td>
+<td>50</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Add cost of budwood if not available on estate : 1,500 yards at 50 cts. Rs. 750.
+
+TOTAL COST
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Opening .. ..</td>
+<td>440</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Upkeep, &amp;c. .. ..</td>
+<td>1,136</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Budwood .. ..</td>
+<td>750</td>
+<td>0</td>
+</tr>
+<tr>
+<td style="text-align: right;">Total (for 15,000 stumps) .. ..</td>
+<td>2,326</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Cost per stump 15½ cts. .. ..</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+November, 1939.
+
+\* Assuming seed is available on the estate.
+
+† Delete cost of fence posts if cheaper material is available.
+
+‡ At pre-war prices.
+
+31------------------------------------------------
+
+294
+
+## THE ERADICATION OF WEL-MARUKKU FROM PADDY FIELDS
+
+---
+
+**W**EL-marukku is a very serious weed of paddy fields. It multiplies rapidly from mature stems and from seed, resulting in a great decrease in the yield of paddy.
+
+All the weed stools should be removed at once from the field and thrown into compost heaps elsewhere, or the field should be ploughed with a mould board plough so as to bury and destroy these plants. After about 10 days the field should be harrowed with a Burmese harrow or ploughed with a village plough to destroy the seedlings which germinate from fallen seed. This operation should be continued as often as possible at intervals of 10 days until the fields are to be sown or transplanted.
+
+Seed paddy from marukku infested fields should be cleaned so that no pest weed seeds are introduced. This can be easily done by immersing the paddy in water, and after stirring it by hand in the water for about half a minute and allowing it to settle, the marukku seeds and the empty paddy grains will rise to the surface of the water which can then be poured off. This operation should be done once more to remove any weed seed adhering to the sides of the vessel when the water is poured off on the first occasion. The paddy will then be completely free from any marukku seed. It can then be germinated or dried and sown later when required.
+
+32------------------------------------------------
+
+295SELECTED ARTICLESA STUDY ON COCONUT SEED SELECTION  
+FOR GERMINATION\*†
+
+THE germination referred to in this paper means the resumption of growth by the embryo in a seed nut from the time of planting to the time it becomes visible outside the covering husk. Poor growth or death of the shoot after its emergence from the husk is not considered a failure to germinate.
+
+Blackman (1918) states that the food stored in the seed is mainly responsible for the size and weight of seedling and that the annual growth of a plant, at least in its early stage, follows approximately the Compound Interest Law.
+
+In regard to size and shape of coconuts as indicators of their meat content, Lacson‡ and Novero§ found that the orbicular, ellipsoid, obovoid, and oblong nuts have less meat than the round ones. These authors further reported that other types than the round nut possess relatively thick husks.
+
+Munro and Brown (1920) state that seed should be taken from trees bearing well at the time of collection or from those showing by records that they have given good average yearly crops for a considerable length of time. Preference should be given to fair-sized, round nuts.
+
+Maceda (1933) found that with equal volume, round nuts germinated earlier than oblong ones. He also found that the seedlings of round nuts were heavier and had more leaves and roots than those of oblong.
+
+Patel (1938) reported that :
+
+(a) Progenies of high setting mother trees were distinctly superior in early germination to those of mother trees which yield heavily, produce many female flowers, and have large nuts with thick meat.
+
+(b) The percentage of germination of nuts from heavy bunches with a minimum of twelve nuts was higher than that of nuts from light bunches with a maximum of six.
+
+(c) With the same average ratio of diameter to length, the heavy nuts weighing above one and one half pounds or 0.68 kilogram gave a higher percentage of germination than the light ones weighing below one and one-half pounds.
+
+---
+
+\* Experiment Station contribution No. 1.372. Prepared in the Department of Agronomy under the direction of Assistant Professor Pedro A. David.
+
+† By Dioscorro L. Umali, in *The Philippine Agriculturist*, Volume XXIX, September 1940, Part 4.
+
+‡ Lacson, P. 1921. Size and shape of coconut as indicators of its meat content. (Unpublished.)
+
+§ Novero, T. F. 1922. Volume and shape of coconut as indicators of the meat content. (Unpublished.)
+
+2—J. N. 98816 (10/40)
+
+33------------------------------------------------
+
+296
+
+(d) The thin-husked nuts (0.55 to 0.84 in. thick) were superior to any thin-husked (below 0.55 in. thick) and thick-husked (above 0.85 in. thick) ones in both percentage of germination and early germination.
+
+(e) Though the progress of germination did not differ much in the nuts from the top, bottom, or middle of the bunch, the percentage of germination was poor in the top and bottom nuts. The dorsal and ventral nuts did not show any difference in germination.
+
+In order to determine the relation of the thickness of the husks, the percentage of setting of the bunches, the size of the bunches, the percentage of female flower-bearing rachillæ, the weight of the nuts, and the position of the nuts in the bunch to the germination of the nuts and growth of the seedlings, this study was made in the Department of Agronomy, College of Agriculture, Los Banos, Laguna, from July, 1938, to February, 1939.
+
+#### Materials and Methods.
+
+The Laguna type of coconuts borne in 301 bunches from seventeen-year old trees of the College of Agriculture Experiment Station was used in this experiment. These nuts were almost of the same maturity because the Department of Agronomy harvests them regularly every two months.
+
+The nuts were harvested two weeks before planting. Each mature bunch was lowered to the ground with a rope. Those which accidentally fell and those which did not contain water were discarded.
+
+Each bunch was marked heavy or light, and correspondingly numbered. The nuts that developed, the buttons, the female flower-bearing rachillæ, and the total rachillæ in each bunch were recorded. The percentage of setting for each bunch was determined by dividing the number of nuts that developed by the total number of nuts and buttons in the inflorescence and multiplying by one hundred. The term *buttons* refers to the female flowers that were shed. The percentage of the female flower-bearing rachillæ in the inflorescence was determined, the nuts in each bunch were marked, and the following data were taken :—
+
+##### (1) Position in the bunch—
+
+- (a) Top—nuts on spikes away from the crown.
+- (b) Bottom—nuts on the basal spikes in the bunch nearest the crown.
+- (c) Middle—nuts between the top and bottom nuts in the bunch.
+- (d) Dorsal—nuts facing away from the tree and exposed to the sun.
+- (e) Ventral—nuts facing the tree.
+
+##### (2) Percentage of setting and female flower-bearing rachillæ.
+
+##### (3) Number of nuts in the bunch.
+
+##### (4) Weight of each nut in kilograms.
+
+##### (5) The thickness of the husks. The thickness was determined by piercing the three protruding sides of the nut with a sharp pointed blade till it touched the shell. The average of the measurements of the three insertions was considered the thickness.
+
+34------------------------------------------------
+
+297
+
+(6) The ratio of the diameter to the length to determine whether the nut was oblong or spherical. The diameter is the distance across the nut, and the length is the distance between the two polar ends. When the ratio was above 0.80, the nut was considered spherical and when less than 0.80, oblong.
+
+The nuts for each treatment were selected within the limits of the different ranges given in table 1, for each definite character. In every two treatments the character of the nuts, whose effects were to be compared, had a very marked difference in range, whereas the range of the other characters was practically the same.
+
+Eight beds 8m.  $\times$  1m. and 1.5 m. apart were prepared. Two treatments in single rows 50 cm. apart were planted in each bed. The nuts were buried to about two-thirds of their volume with the germinating eye up and were distanced 10 cm. in the row. The different lots were given the same care.
+
+### EXPERIMENTS AND RESULTS
+
+Fifty nuts were used in each experiment and observed daily at the same hour. The following data were noted :—
+
+1. (1) The exact number of days from planting to the emergence of the horny apex of the shoot from the husk.
+2. (2) The daily percentage of germination.
+
+After 211 days from the date of planting, the following was determined from each seedling :—
+
+1. (1) The average height of the leaves.
+2. (2) The number of leaves developed.
+3. (3) The weight of the seedlings.
+4. (4) The number of roots.
+5. (5) The average length of the roots.
+
+These results and observations are given in tables 1 to 7.
+
+### DISCUSSION OF RESULTS
+
+#### Relation of the Thickness of Husk to Germination and Growth of Seedlings
+
+Table 1 shows that the mean differences of the different characters of the seed nuts used, such as the number of nuts in the bunch, shape (diameter divided by length), weight, percentage of setting of the bunch, and percentage of female flower-bearing rachillæ in the inflorescence, were insignificant with the exception of the thickness of husk, which showed a significant difference of  $1.6360 \pm 0.0657$  c.m. between the means of the two treatments.
+
+Seed nuts with husks 2.88 cm. thick and less were considered thin-husked and those with 3.98 cm. and more, thick-husked.
+
+The mean difference between the thin- and thick-husked nuts in number of days required for germination and percentage of germination was significant in favour of the thin-husked nuts. The husk of these perhaps offered less resistance to the emerging shoot. None of the shoots were deformed among the thin-husked nuts, whereas six shoots of the thick-husked nuts emerged with difficulty and became distorted.
+
+35------------------------------------------------
+
+298
+
+In general the seedlings of the thin-husked nuts grew better than the thick-husked; the mean differences of the average length and number of roots and number of leaves were statistically significant (table 2). The superior growth of the seedlings of the thin-husked nuts may have been influenced by the greater content of meat. These results are in conformity with those of Maceda (1933), who found that because of the greater amount of meat in the round nuts, the seedlings from them grew better than those from the oblong.
+
+The average height of leaves of the seedlings from the thin- and thick-husked nuts was nearly the same, the difference being insignificant. The lateral growth of the seedlings of thin-husked nuts, as shown by the diameter of shoot and breadth of leaves, was better than that of the thick-husked nuts.
+
+The weights of the seedlings in the two lots were nearly the same. This was contrary to expectation. Because of the superior growth of the seedlings of the thin-husked nuts, this lot should naturally have weighed much more than the thick-husked. The discrepancy, however, might have been caused by the frequent heavy rains that fell two days before the seedlings were dug up. The thick-husked nuts must have absorbed more water than the thin-husked and consequently weighed more.
+
+#### **Relation of Percentage of Setting of Bunches to Germination and Growth of Seedlings.**
+
+In this experiment (table 3) all characters studied that might have influenced the nature of the nut were the same except the percentages of setting, in which a very decided mean difference of  $26.3600 \pm 0.2107$  per cent. occurred.
+
+The lowest and the highest setting percentage of the bunches studied was taken to form a basis for classification. Nuts borne on bunches with a percentage of setting of 18.50 and below were considered low; and those with 35.50 and above, high.
+
+The mean difference between the low and high percentages of setting in earliness and percentage of germination, average height and number of leaves, and number and average length of roots of the seedlings was statistically significant in favour of the high percentage of setting in the bunch. The difference, however, in the weight of the seedlings in the two lots was not significant. Although the other characters showed significant increases in favour of the seedlings of nuts of the high percentage of setting, the average weights of the seedlings of nuts of the high and low percentages of setting did not show any significant difference. Examination of the nuts which germinated in both lots showed that the meat, a factor responsible for the weight of the seedlings, was almost used up in all the nuts from the bunches of high setting percentage. On the other hand only a small amount of the meat of nuts from the bunches of low setting percentage was consumed. Sampson (1923) reported that the length of time the seedling will absorb the endosperm (meat) depends upon its rate of development. Consequently the greater development of the roots and shoots of the nuts from the high percentage of setting resulted in the rapid consumption of the endosperm. Therefore the average weight of the seedlings in the two lots did not differ very much after 211 days.
+
+36------------------------------------------------
+
+299
+
+### Relation of the Size of Bunches to Germination and Growth of Seedlings
+
+The size of bunches referred to in this paper is the number of nuts borne by the spadix. A bunch with a minimum of ten nuts was considered heavy and that with a maximum of five nuts, light.
+
+Table 4 shows that the means of the two plots varied decidedly only in the number of nuts in the bunch. The difference was  $8.3200 \pm 0.0663$ . The results of the experiment showed that, as a general rule, nuts from heavy bunches germinated earlier than those from light. The mean difference, however, in the daily percentage of germination was not very marked.
+
+The mean differences of the average height and number of leaves, weight of seedlings, and number of roots per seedling were statistically significant in favour of nuts from heavy bunches. The average length of the roots did not show any significant difference. The seedlings grown from seed nuts of heavy bunches grew better than those from nuts of light bunches.
+
+### Relation of the Percentage of Female Flower-bearing Rachillae to Germination and Growth of Seedlings
+
+A spadix with 30.5 per cent. female flower-bearing rachillæ and below was considered low; and that with 50.5 per cent. and above, high. The seed nuts planted for this experiment were middle nuts taken from the dorsal side of the bunch. All characters considered in this experiment were the same except the percentage of female flower-bearing rachillæ. The mean difference between the low and high percentages of female flower-bearing rachillæ was  $33.00 \pm 1.05$  per cent. No significant differences in the means of the percentage of germination of the nuts, average height of leaves, weight of seedlings, and average length of roots in the two groups were found. The nuts in the high percentage of female flower-bearing rachillæ germinated earlier than those in the low, with a mean difference of  $2.600 \pm 0.715$  days. The seedlings grown from seed nuts of the low percentage, however, produced more leaves and roots than those from the high.
+
+The results seem to show that except for the earlier germination of the nuts in the high percentage of female flower-bearing rachillæ and the production of more leaves and roots of the seedlings in the low, the percentage of female flower-bearing rachillæ did not influence the other characters under study.
+
+### Relation of the Weight of Nuts to Germination and Growth of Seedlings
+
+Nuts weighing 1.35 kgm. and below were classed as light and those, 1.85 kgm. and above, as heavy.
+
+In this experiment the mean difference of the weights of nuts between the two treatments was significant ( $0.8060 \pm 0.0092$ ). The differences of the other characters considered were significant.
+
+Table 6 shows that the heavy nuts germinated earlier and had a higher percentage of germination than the light. The average height, number of leaves, and number of roots of the seedlings of the heavy nuts were significantly greater than those of the light. The difference, however, in the length of roots was not significant.
+
+37------------------------------------------------
+
+300
+
+The mean difference of the weight of seedlings was not taken into account because before planting a very marked difference existed in the weights of the nuts in the two plots. The difference, however, in the increase of weight of the seedling from a nut was statistically insignificant. Examination of the meat content showed that the meat consumed by the seedlings of light nuts after 211 days was much less than that consumed by those of heavy nuts.
+
+The roots of light nuts were much fewer than those of heavy nuts, the difference being highly significant.
+
+The results showed that in germination of the nuts and subsequent development of the seedlings, heavy nuts were much better than light. The difference in growth of the seedlings in the two lots was very apparent.
+
+#### **Relation of the Position of Nuts in the Bunch to Germination and Growth of Seedlings**
+
+The seed nuts used in these experiments differed only in their respective position in the bunch. In one experiment top nuts from the dorsal and ventral sides of the bunch only were used, and the germination of the nuts and the growth of seedlings were compared. In another experiment top, middle, and bottom nuts, dorsally located on the bunch, were used. The germination of the nuts and growth of the seedlings were similarly compared.
+
+Table 7 shows no significant difference exists in the means of the number of days, percentage of germination of the nuts, and the average height of leaves of the seedlings between the top nuts taken from the dorsal side and those from the ventral side of the bunch. The average number of leaves and the weight of the seedlings were slightly greater in the dorsal than in the ventral nuts. The number of roots per seedling from the dorsal nuts, however, was less than that from the ventral.
+
+Based on the results obtained, the dorsal and ventral positions of the nuts did not seem to have any influence on the germination of the nuts and on the subsequent growth of the seedlings.
+
+Table 8 shows that in the top and bottom nuts, no significant difference existed between the means with respect to earliness and percentage of germination, height and weight of the seedlings, and average length of the roots. More leaves, however, were produced by the seedlings grown from the top nuts.
+
+The middle nuts germinated earlier but showed a lower percentage of germination than the top and bottom nuts. No significant difference was found between the means of the two treatments in weight of seedlings and average length of roots. The seedlings of the top and bottom nuts were slender but slightly taller than those of the middle.
+
+The mean differences in the number of days from planting to germination and the percentage of germination of the middle and bottom nuts were significantly in favour of the middle nuts. The bottom nuts, however, produced taller but slightly more slender seedlings than the middle nuts. No significant difference was observed in weight of seedlings and average length of roots per seedling.
+
+38------------------------------------------------
+
+301
+
+The middle nuts germinated earlier than the top; the latter, however, had a higher percentage of germination and taller seedlings with more leaves.
+
+The results obtained in these experiments showed only one point in favour of the middle nuts; they germinated earlier than either the bottom or the top. The seedlings of the bottom and top nuts were taller.
+
+#### SUMMARY AND CONCLUSIONS
+
+1. Thin-husked nuts with an average of 2.9 cm. (thickness of husk) and below germinated earlier and produced more seedlings with more leaves and roots than thick-husked nuts of 3.0 cm. (thickness of husk) and above.
+
+2. Seedlings grown from nuts with a setting percentage of 35.5 per bunch and above germinated earlier and gave a higher percentage of germination. The seedlings produced had more leaves and longer roots than those from nuts obtained from bunches of a low percentage of setting, 18.5 and below.
+
+3. Nuts gathered from heavy bunches of ten or more likewise germinated earlier and produced seedlings which were taller, heavier and with a much better root system than those from light bunches.
+
+4. The nuts from bunches with a high percentage of female flower-bearing rachillæ (50.5 or more) required less time to germinate and produced slightly taller seedlings than those from bunches with a low percentage. Although the lengths of the roots in the two treatments were practically the same, the seedlings in the latter produced less roots and leaves than those in the former.
+
+5. Light nuts weighing 0.95 to 1.35 kilograms germinated much later than heavy nuts (1.85 to 2.45 kilograms) and produced shorter seedlings with less roots and leaves.
+
+6. The position of the nuts on the bunch, such as on the ventral and dorsal sides, had no influence on the time and percentage of germination. The seedlings of nuts from the dorsal side produced more leaves and were heavier than those from the ventral. The seedlings from the ventral side, however, were taller and developed more roots than those from the other lot.
+
+7. The seedlings from the top nuts produced more leaves and roots than those from the bottom. The middle nuts required less days to germinate but gave a much lower percentage of germination than either the top or the bottom.
+
+39------------------------------------------------
+
+302
+
+TABLE 1  
+Basis of Selection of Nuts for the Different Plantings\*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Lot Number and Treatments</th>
+<th colspan="6">Ranges</th>
+</tr>
+<tr>
+<th>Percentage of Setting</th>
+<th>Diameter divided by Length</th>
+<th>Thickness of Husk</th>
+<th>Weight of Nuts</th>
+<th>Percentage of Female Flower-bearing Rachillas</th>
+<th>Number of Nuts in the Bunch</th>
+<th>Position in the Bunch</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Low percentage of setting</td>
+<td>Per cent.</td>
+<td></td>
+<td>cm.</td>
+<td>kgm.</td>
+<td>Per cent.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2. High percentage of setting</td>
+<td>6.50-18.50</td>
+<td>0.77-0.94</td>
+<td>2.28-3.48</td>
+<td>1.35-1.85</td>
+<td>2.85-56.50</td>
+<td>5.00-10.00</td>
+<td>Dorsal top</td>
+</tr>
+<tr>
+<td>3. Thin-husked nuts</td>
+<td>35.50-55.50</td>
+<td>0.77-0.94</td>
+<td>2.28-3.48</td>
+<td>1.35-1.85</td>
+<td>2.85-56.50</td>
+<td>5.00-10.00</td>
+<td>Dorsal top</td>
+</tr>
+<tr>
+<td>4. Thick-husked nuts</td>
+<td>18.50-36.50</td>
+<td>0.81-0.96</td>
+<td>2.08-2.88</td>
+<td>1.35-1.85</td>
+<td>38.50-60.50</td>
+<td>5.00-10.00</td>
+<td>Ventral middle</td>
+</tr>
+<tr>
+<td>5. Nuts from heavy bunches</td>
+<td>18.50-36.50</td>
+<td>0.81-0.96</td>
+<td>3.98-4.78</td>
+<td>1.35-1.85</td>
+<td>38.50-60.50</td>
+<td>5.00-10.00</td>
+<td>Ventral middle</td>
+</tr>
+<tr>
+<td>6. Nuts from light bunches</td>
+<td>16.50-30.50</td>
+<td>0.75-0.90</td>
+<td>2.88-3.88</td>
+<td>1.35-2.05</td>
+<td>38.50-60.50</td>
+<td>10.00-16.00</td>
+<td>Ventral bottom</td>
+</tr>
+<tr>
+<td>7. High percentage of female flower-bearing rachilla</td>
+<td>16.50-30.50</td>
+<td>0.75-0.90</td>
+<td>2.88-3.88</td>
+<td>1.35-2.05</td>
+<td>38.50-60.50</td>
+<td>1.00-5.00</td>
+<td>Ventral bottom</td>
+</tr>
+<tr>
+<td>8. Low percentage of female flower-bearing rachilla</td>
+<td>10.50-24.50</td>
+<td>0.75-0.90</td>
+<td>2.88-3.88</td>
+<td>1.35-2.05</td>
+<td>50.50-80.50</td>
+<td>5.00-10.00</td>
+<td>Dorsal middle</td>
+</tr>
+<tr>
+<td>9. Dorsal nuts</td>
+<td>10.50-38.50</td>
+<td>0.75-0.90</td>
+<td>2.88-3.88</td>
+<td>1.35-2.05</td>
+<td>18.50-30.50</td>
+<td>5.00-10.00</td>
+<td>Dorsal middle</td>
+</tr>
+<tr>
+<td>10. Ventral nuts</td>
+<td>22.50-38.50</td>
+<td>0.75-0.90</td>
+<td>2.68-3.85</td>
+<td>0.95-1.45</td>
+<td>26.50-40.50</td>
+<td>10.00-16.00</td>
+<td>Dorsal top</td>
+</tr>
+<tr>
+<td>11. Light nuts</td>
+<td>22.50-38.50</td>
+<td>0.75-0.90</td>
+<td>2.68-3.85</td>
+<td>0.95-1.45</td>
+<td>34.50-60.50</td>
+<td>10.00-16.00</td>
+<td>Ventral top</td>
+</tr>
+<tr>
+<td>12. Heavy nuts</td>
+<td>16.50-32.50</td>
+<td>0.81-1.02</td>
+<td>2.48-3.48</td>
+<td>0.95-1.35</td>
+<td>26.50-50.50</td>
+<td>1.00-5.00</td>
+<td>Dorsal bottom</td>
+</tr>
+<tr>
+<td>13. Top nuts</td>
+<td>16.50-40.50</td>
+<td>0.81-1.02</td>
+<td>2.48-3.48</td>
+<td>1.85-2.45</td>
+<td>26.50-50.50</td>
+<td>1.00-5.00</td>
+<td>Dorsal bottom</td>
+</tr>
+<tr>
+<td>14. Bottom nuts</td>
+<td>26.50-40.50</td>
+<td>0.73-0.94</td>
+<td>2.28-3.48</td>
+<td>1.65-2.35</td>
+<td>32.50-60.50</td>
+<td>1.00-5.00</td>
+<td>Dorsal top</td>
+</tr>
+<tr>
+<td>15. Middle nuts</td>
+<td>26.50-40.50</td>
+<td>0.73-0.94</td>
+<td>2.28-3.48</td>
+<td>1.65-2.35</td>
+<td>32.50-60.50</td>
+<td>1.00-5.00</td>
+<td>Dorsal bottom</td>
+</tr>
+</tbody>
+</table>
+
+\* The two ranges in heavy type in each column are those of a certain character of the nut whose effects shall be compared.
+
+40------------------------------------------------
+
+303
+
+TABLE 2  
+Comparison of the Means of Thin-and Thick-husked Nuts.
+
+<table border="1">
+<thead>
+<tr>
+<th>Characters</th>
+<th>Thin-husked</th>
+<th>Thick-husked</th>
+<th>Difference</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>6.82 ± 0.0193</td>
+<td>6.82 ± 0.2030</td>
+<td>0.00 ± 0.0280</td>
+<td>Very insignificant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.89 ± 0.0018</td>
+<td>0.86 ± 0.0016</td>
+<td>0.02 ± 0.0023</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>2.54 ± 0.0059</td>
+<td>4.18 ± 0.0648</td>
+<td>1.64 ± 0.0657</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.55 ± 0.0068</td>
+<td>1.55 ± 0.0216</td>
+<td>0.00 ± 0.0215</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of setting</td>
+<td>28.86 ± 0.1247</td>
+<td>28.78 ± 0.3332</td>
+<td>0.08 ± 0.3550</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of female flower-bearing rachilla</td>
+<td>47.14 ± 0.1573</td>
+<td>48.02 ± 0.1289</td>
+<td>0.88 ± 0.2337</td>
+<td>Not very significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>51.90 ± 0.4585</td>
+<td>64.50 ± 0.2520</td>
+<td>12.60 ± 0.5540</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>51.90 ± 2.9116</td>
+<td>65.72 ± 0.1950</td>
+<td>13.82 ± 2.9180</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>61.90 ± 0.5940</td>
+<td>60.86 ± 0.5140</td>
+<td>1.54 ± 0.7110</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>4.78 ± 0.0108</td>
+<td>4.52 ± 0.0467</td>
+<td>0.26 ± 0.0427</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>1.70 ± 0.0074</td>
+<td>1.69 ± 0.0024</td>
+<td>0.00 ± 0.0081</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>6.92 ± 0.0151</td>
+<td>6.73 ± 0.0636</td>
+<td>0.19 ± 0.0657</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td>35.70 ± 0.3042</td>
+<td>29.09 ± 0.7404</td>
+<td>6.61 ± 0.8080</td>
+<td>Significant</td>
+</tr>
+</tbody>
+</table>
+
+TABLE 3  
+Comparison of the Means of Nuts from Bunches of High and Low Setting Percentage
+
+<table border="1">
+<thead>
+<tr>
+<th>Characters</th>
+<th>Low Setting Percentage</th>
+<th>High setting Percentage</th>
+<th>Difference</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>6.80 ± 0.0031</td>
+<td>6.30 ± 0.0880</td>
+<td>0.50 ± 0.0881</td>
+<td>Not very significant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.86 ± 0.0029</td>
+<td>0.86 ± 0.0020</td>
+<td>0.00 ± 0.0113</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>3.00 ± 0.0194</td>
+<td>3.00 ± 0.0186</td>
+<td>0.00 ± 0.0268</td>
+<td>Very insignificant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.61 ± 0.0262</td>
+<td>1.61 ± 0.0078</td>
+<td>0.00 ± 0.0099</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of setting</td>
+<td>14.94 ± 0.1533</td>
+<td>41.30 ± 0.1448</td>
+<td>26.36 ± 0.2107</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Percentage of female flower-bearing rachilla</td>
+<td>40.50 ± 0.6744</td>
+<td>40.54 ± 0.6717</td>
+<td>0.04 ± 0.0440</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>61.80 ± 0.6088</td>
+<td>57.90 ± 0.4398</td>
+<td>3.90 ± 0.7510</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>67.22 ± 0.4624</td>
+<td>71.10 ± 0.4620</td>
+<td>3.88 ± 0.6533</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>64.72 ± 0.0042</td>
+<td>74.94 ± 0.0361</td>
+<td>10.22 ± 0.0363</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>4.16 ± 0.0813</td>
+<td>4.54 ± 0.0392</td>
+<td>0.38 ± 0.0417</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>1.71 ± 0.0074</td>
+<td>1.72 ± 0.0051</td>
+<td>0.01 ± 0.0173</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>6.50 ± 0.0298</td>
+<td>6.73 ± 0.0341</td>
+<td>0.23 ± 0.0427</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td>32.05 ± 0.0904</td>
+<td>34.00 ± 0.0294</td>
+<td>1.95 ± 0.0948</td>
+<td>Significant</td>
+</tr>
+</tbody>
+</table>
+
+41------------------------------------------------
+
+304
+
+TABLE 4  
+Comparison of the Means of Nuts from Heavy and Light Bunches
+
+<table border="1">
+<thead>
+<tr>
+<th>Characters</th>
+<th>Light</th>
+<th>Heavy</th>
+<th>Difference</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>3.52 ± 0.0020</td>
+<td>11.82 ± 0.0329</td>
+<td>8.32 ± 0.0663</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.82 ± 0.0560</td>
+<td>0.82 ± 0.0012</td>
+<td>0.00 ± 0.0026</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>3.30 ± 0.0029</td>
+<td>3.33 ± 0.0247</td>
+<td>0.03 ± 0.0262</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.63 ± 0.0042</td>
+<td>1.62 ± 0.0051</td>
+<td>0.01 ± 0.0065</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of setting</td>
+<td>27.10 ± 0.3010</td>
+<td>27.02 ± 0.2474</td>
+<td>0.08 ± 0.3888</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of female flower-bearing rachillae</td>
+<td>47.70 ± 0.3440</td>
+<td>46.78 ± 0.3479</td>
+<td>0.92 ± 0.4880</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>67.20 ± 0.5833</td>
+<td>64.29 ± 0.4314</td>
+<td>2.91 ± 0.7240</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>67.22 ± 2.4668</td>
+<td>64.70 ± 0.0289</td>
+<td>2.52 ± 2.4460</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>64.73 ± 0.0245</td>
+<td>74.71 ± 0.0094</td>
+<td>9.98 ± 0.0262</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>3.62 ± 0.0323</td>
+<td>4.18 ± 0.0616</td>
+<td>0.56 ± 0.0697</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>1.73 ± 0.0046</td>
+<td>1.77 ± 0.0052</td>
+<td>0.04 ± 0.0069</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>5.52 ± 0.0112</td>
+<td>7.21 ± 0.0357</td>
+<td>1.69 ± 0.0375</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td>31.48 ± 0.0631</td>
+<td>31.84 ± 1.1998</td>
+<td>0.36 ± 1.1830</td>
+<td>Not significant</td>
+</tr>
+</tbody>
+</table>
+
+TABLE 5  
+Comparison of the Means of Nuts from Bunches of High and Low Percentage of Female Flower-bearing Rachillae
+
+<table border="1">
+<thead>
+<tr>
+<th>Characters</th>
+<th>Low Percentage</th>
+<th>High Percentage</th>
+<th>Difference</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>7.36 ± 0.0346</td>
+<td>7.54 ± 0.0612</td>
+<td>0.18 ± 0.0703</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.83 ± 0.0020</td>
+<td>0.83 ± 0.0028</td>
+<td>0.00 ± 0.0021</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>3.27 ± 0.0171</td>
+<td>3.27 ± 0.0017</td>
+<td>0.00 ± 0.0173</td>
+<td>Very insignificant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.54 ± 0.0012</td>
+<td>1.55 ± 0.0003</td>
+<td>0.01 ± 0.0012</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of setting</td>
+<td>18.98 ± 0.2102</td>
+<td>18.86 ± 0.1678</td>
+<td>0.12 ± 0.2880</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of female flower-bearing rachillae</td>
+<td>59.58 ± 1.0520</td>
+<td>26.58 ± 0.0116</td>
+<td>33.00 ± 1.0500</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>68.70 ± 0.9620</td>
+<td>66.10 ± 0.3222</td>
+<td>2.60 ± 0.7150</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>70.50 ± 0.1703</td>
+<td>66.12 ± 0.2682</td>
+<td>0.48 ± 0.3604</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>4.68 ± 0.0259</td>
+<td>71.47 ± 0.0413</td>
+<td>0.97 ± 0.4470</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>1.65 ± 0.1039</td>
+<td>4.23 ± 0.0209</td>
+<td>0.45 ± 0.0333</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>7.78 ± 0.0503</td>
+<td>1.67 ± 0.0194</td>
+<td>0.02 ± 0.1014</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>29.30 ± 0.7955</td>
+<td>6.68 ± 0.0542</td>
+<td>1.10 ± 0.0736</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td></td>
+<td>29.36 ± 0.8179</td>
+<td>0.06 ± 1.1803</td>
+<td>Not significant</td>
+</tr>
+</tbody>
+</table>
+
+42------------------------------------------------
+
+305
+
+**TABLE 6**  
+Comparison of the Means of Heavy and Light Nuts.
+
+<table border="1">
+<thead>
+<tr>
+<th>Characters</th>
+<th>Light</th>
+<th>Heavy</th>
+<th>Difference</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>3.68 ± 0.0889</td>
+<td>3.64 ± 0.8450</td>
+<td>0.04 ± 0.8496</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.95 ± 0.0041</td>
+<td>0.92 ± 0.6514</td>
+<td>0.03 ± 0.0950</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>3.19 ± 0.0140</td>
+<td>3.13 ± 0.0066</td>
+<td>0.06 ± 0.0154</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.26 ± 0.0013</td>
+<td>2.07 ± 0.0091</td>
+<td>0.81 ± 0.0092</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Percentage of setting</td>
+<td>23.04 ± 0.4580</td>
+<td>23.58 ± 0.4408</td>
+<td>0.54 ± 0.6392</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of female flower-bearing rachilla<sup>a</sup></td>
+<td>37.42 ± 0.3071</td>
+<td>37.86 ± 0.4510</td>
+<td>0.44 ± 0.5450</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>64.75 ± 0.0531</td>
+<td>56.50 ± 0.3816</td>
+<td>8.25 ± 0.3830</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>75.10 ± 1.9600</td>
+<td>56.50 ± 0.2724</td>
+<td>18.60 ± 2.1400</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>70.66 ± 0.1270</td>
+<td>74.10 ± 0.0283</td>
+<td>3.44 ± 0.1301</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>3.85 ± 0.0129</td>
+<td>4.64 ± 0.0322</td>
+<td>0.79 ± 0.0349</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>1.28 ± 0.0026</td>
+<td>2.21 ± 0.0634</td>
+<td>0.93 ± 0.0630</td>
+<td>Very significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>5.60 ± 0.0672</td>
+<td>7.76 ± 0.0415</td>
+<td>2.16 ± 0.0785</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td>35.00 ± 0.7517</td>
+<td>33.90 ± 0.3091</td>
+<td>1.10 ± 0.8112</td>
+<td>Not significant</td>
+</tr>
+</tbody>
+</table>
+
+**TABLE 7**  
+Comparison of the Means of Dorsal and Ventral Nuts in the Bunch.
+
+<table border="1">
+<thead>
+<tr>
+<th>Characters</th>
+<th>Dorsal</th>
+<th>Ventral</th>
+<th>Difference</th>
+<th>Significance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>13.10 ± 0.0202</td>
+<td>12.58 ± 0.0644</td>
+<td>0.52 ± 0.0675</td>
+<td>Not very significant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.82 ± 0.0154</td>
+<td>0.82 ± 0.0095</td>
+<td>0.00 ± 0.0060</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>3.16 ± 0.0211</td>
+<td>3.14 ± 0.0230</td>
+<td>0.02 ± 0.0312</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.25 ± 0.0021</td>
+<td>1.24 ± 0.0014</td>
+<td>0.01 ± 0.0010</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of setting</td>
+<td>31.10 ± 0.5220</td>
+<td>31.10 ± 0.2333</td>
+<td>0.00 ± 0.5715</td>
+<td>Very insignificant</td>
+</tr>
+<tr>
+<td>Number of female flower-bearing rachilla<sup>a</sup></td>
+<td>44.02 ± 0.1613</td>
+<td>44.30 ± 0.2111</td>
+<td>0.28 ± 0.2650</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>64.16 ± 0.0724</td>
+<td>64.07 ± 0.0250</td>
+<td>0.09 ± 0.0765</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>61.03 ± 0.9800</td>
+<td>59.63 ± 0.8397</td>
+<td>1.40 ± 1.2810</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>83.07 ± 0.0114</td>
+<td>84.29 ± 0.0140</td>
+<td>1.22 ± 1.2400</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>4.51 ± 0.0495</td>
+<td>4.41 ± 0.0350</td>
+<td>0.10 ± 0.0193</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>1.44 ± 0.0288</td>
+<td>1.40 ± 0.0106</td>
+<td>0.04 ± 0.0113</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>7.22 ± 0.0136</td>
+<td>7.57 ± 0.0809</td>
+<td>0.35 ± 0.0822</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td>31.17 ± 0.7651</td>
+<td>31.75 ± 0.0351</td>
+<td>0.58 ± 0.7707</td>
+<td>Not significant</td>
+</tr>
+</tbody>
+</table>
+
+43------------------------------------------------
+
+306
+
+TABLE 8  
+Comparison of the Means of Top, Bottom, and Middle Nuts in the Bunch
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Characters</th>
+<th rowspan="2">Top</th>
+<th rowspan="2">Middle</th>
+<th rowspan="2">Bottom</th>
+<th rowspan="2">Difference of Top and Bottom</th>
+<th rowspan="2">Significance</th>
+<th colspan="2">Difference of Middle and Bottom</th>
+<th rowspan="2">Significance</th>
+<th rowspan="2">Difference of Middle and Top</th>
+<th rowspan="2">Significance</th>
+</tr>
+<tr>
+<th>Top</th>
+<th>Bottom</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Number of nuts used</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Number of nuts in the bunch</td>
+<td>3.62 ± 0.0761</td>
+<td>3.26 ± 0.0357</td>
+<td>3.58 ± 0.0770</td>
+<td>0.04 ± 0.0591</td>
+<td>Not significant</td>
+<td>0.32 ± 0.0846</td>
+<td>Not very significant</td>
+<td>0.36 ± 0.0981</td>
+<td>Not very significant</td>
+</tr>
+<tr>
+<td>Diameter of nut over its length</td>
+<td>0.84 ± 0.0019</td>
+<td>0.84 ± 0.0012</td>
+<td>0.84 ± 0.0045</td>
+<td>0.00 ± 0.0192</td>
+<td>Not significant</td>
+<td>0.00 ± 0.0096</td>
+<td>Not significant</td>
+<td>0.00 ± 0.0091</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Thickness of husk in cm.</td>
+<td>3.01 ± 0.0220</td>
+<td>3.00 ± 0.0186</td>
+<td>3.00 ± 0.0205</td>
+<td>0.01 ± 0.0306</td>
+<td>Not significant</td>
+<td>0.01 ± 0.0245</td>
+<td>Not significant</td>
+<td>0.02 ± 0.0288</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Weight of nut in kgm.</td>
+<td>1.86 ± 0.0037</td>
+<td>1.88 ± 0.0048</td>
+<td>1.87 ± 0.0021</td>
+<td>0.01 ± 0.0042</td>
+<td>Not significant</td>
+<td>0.01 ± 0.0052</td>
+<td>Not significant</td>
+<td>0.02 ± 0.0060</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of setting bearing rachillæ</td>
+<td>31.22 ± 0.2703</td>
+<td>31.23 ± 0.2888</td>
+<td>31.18 ± 0.2417</td>
+<td>0.04 ± 0.0363</td>
+<td>Not significant</td>
+<td>0.05 ± 0.0618</td>
+<td>Not significant</td>
+<td>0.01 ± 0.0318</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Percentage of female flower-bearing rachillæ</td>
+<td>42.58 ± 0.0252</td>
+<td>43.30 ± 0.2394</td>
+<td>42.34 ± 0.7511</td>
+<td>0.24 ± 0.0911</td>
+<td>Not significant</td>
+<td>0.96 ± 0.3000</td>
+<td>Not significant</td>
+<td>0.72 ± 0.3610</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of days from planting to germination</td>
+<td>66.90 ± 0.5410</td>
+<td>60.80 ± 0.8350</td>
+<td>67.00 ± 0.5430</td>
+<td>0.10 ± 0.7660</td>
+<td>Not significant</td>
+<td>6.20 ± 1.0570</td>
+<td>Significant</td>
+<td>6.10 ± 1.0560</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Percentage of germination</td>
+<td>66.91 ± 0.3973</td>
+<td>58.50 ± 0.5807</td>
+<td>67.00 ± 0.4307</td>
+<td>0.06 ± 0.5860</td>
+<td>Not significant</td>
+<td>8.50 ± 0.7310</td>
+<td>Significant</td>
+<td>8.44 ± 0.7050</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Average height of leaves in cm.</td>
+<td>74.91 ± 0.0312</td>
+<td>69.10 ± 0.4100</td>
+<td>78.50 ± 0.0914</td>
+<td>1.32 ± 0.0965</td>
+<td>Not significant</td>
+<td>4.49 ± 0.4195</td>
+<td>Significant</td>
+<td>5.80 ± 0.4101</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Number of leaves</td>
+<td>4.49 ± 0.0141</td>
+<td>4.32 ± 0.0266</td>
+<td>3.93 ± 0.0171</td>
+<td>0.56 ± 0.0409</td>
+<td>Significant</td>
+<td>0.39 ± 0.0318</td>
+<td>Significant</td>
+<td>0.17 ± 0.0536</td>
+<td>Significant</td>
+</tr>
+<tr>
+<td>Weight of seedling in kgm.</td>
+<td>2.01 ± 0.0316</td>
+<td>2.07 ± 0.0150</td>
+<td>2.02 ± 0.0280</td>
+<td>0.01 ± 0.0424</td>
+<td>Not significant</td>
+<td>0.05 ± 0.0316</td>
+<td>Not significant</td>
+<td>0.06 ± 0.0352</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Number of roots per seedling</td>
+<td>6.37 ± 0.0680</td>
+<td>6.48 ± 0.0738</td>
+<td>5.34 ± 0.0531</td>
+<td>1.03 ± 0.0895</td>
+<td>Significant</td>
+<td>1.14 ± 0.0932</td>
+<td>Significant</td>
+<td>0.11 ± 0.1031</td>
+<td>Not significant</td>
+</tr>
+<tr>
+<td>Average length of roots in cm.</td>
+<td>33.13 ± 1.0281</td>
+<td>32.50 ± 0.9343</td>
+<td>30.80 ± 0.3860</td>
+<td>2.33 ± 1.1601</td>
+<td>Not significant</td>
+<td>1.70 ± 1.0049</td>
+<td>Not significant</td>
+<td>0.63 ± 1.4380</td>
+<td>Not significant</td>
+</tr>
+</tbody>
+</table>
+
+44------------------------------------------------
+
+307
+
+## THE BANANA IN RELATION TO HUMAN NUTRITION\*
+
+### WORLD TRADE IN BANANAS
+
+**T**HE banana export trade is of comparatively recent growth : the British market in particular has developed almost entirely within the present century ; the American market began developing earlier, towards the end of last century. The industry has been continuously expanding ; in the interval between the years immediately preceding the war of 1914-18 until 1937 the total world export in bananas more than doubled itself. The banana has risen to the status of a staple food in countries far removed from those in which it is grown.
+
+The world production of bananas for overseas export during 1937 was more than two and a half million tons. This was concentrated mainly in Central and South America and in the West Indies, with Jamaica the largest single producer (359,000 tons), Mexico the second largest (283,000 tons) ; many other countries in the neo-tropics contributed to a less extent. Total exports from British colonies were 459,000 tons. The internal trade in home-produced fruit within Australia and the Union of South Africa is not included in the figures considered here.
+
+The United States was easily the leading importing country taking about half of the total export supplies (1,332,000 tons in 1937) with the United Kingdom a poor second (329,000 tons). It is, perhaps, not unreasonable to regard the potential import market of the United Kingdom, in normal times, as of the order of half a million tons if adequate supplies of attractive fruit are made available. The possible introduction into the market of fruit from existing hybrid plants resistant to the epidemic diseases Panama and Leaf Spot, at a lower price than the Gros Michel (the present standard export banana) may increase the sale of the banana among that section of the public whose purchasing power is small, to their benefit as well as the planter's.
+
+### STORAGE OF BANANAS
+
+During wartime the import of bananas into Britain, as of all foodstuffs, must depend on the available shipping but the value of this fruit in human nutrition makes it desirable to exert every effort to maintain or even increase the supply.
+
+---
+
+\* By H. R. Barnell, Low Temperature Research Station, Trinidad, B. W. 1. in *Tropical Agriculture* Vol. XVII., No. 8, August, 1940.
+
+45------------------------------------------------
+
+308
+
+The refrigerated transport of bananas is a highly specialized trade and it is to be hoped that the specially-equipped banana vessels will not have to be diverted to purposes other than that for which they were designed.
+
+The banana, like most tropical fruits, has a relatively short commercial life and even with modern methods of refrigerated transport and controlled ripening it is not a simple matter to place a fruit of good quality and size in the British fruit seller's window. During wartime unavoidable irregularities and delays in the voyages of the banana-carrying ships will increase the difficulties and probably result in the selling of small-grade possibly "chilled" fruit. Such fruit may be both unpalatable and indigestible. It is desirable that improvements in storage methods be sought and applied as quickly as possible so that an adequate supply of well-ripened, digestible fruit shall reach the consumer.
+
+Scurti (1938) and Wardlaw (1940) have recently shown, by small-scale experiments, that ripening of the banana may be considerably retarded by refrigerated gas-storage, *i.e.*, storage in atmospheres of low oxygen and relatively high carbon dioxide concentrations. Although considerably more experimental work is still required it is evident that bulk refrigerated-gas-storage of bananas will become a practicable proposition. This will enable larger fruit to be carried for longer distances than hitherto without risk of chilling, giving a good quality fruit for marketing. Of some immediate importance, perhaps, is the possibility of carrying fruit from plants infected with *Cercospora* Leaf-spot without the present losses due to ripening under refrigerated conditions with consequent chilling.
+
+Fruit which has been successfully gas-stored has the eating qualities of well ripened fruit (*e.g.*, ripening at 68°F. with or without previous refrigerated storage). From unpublished data it can be stated that the carbohydrate composition of such gas-stored fruit is similar to that of normal refrigerated fruit. There are not yet any data concerning possible effects on the vitamin content.
+
+### COMPOSITION AND QUALITY
+
+The merits of any method of storage must be judged by the final eating quality of the fruit. Hence as a basis, it is necessary to have information concerning the composition of a good quality fruit and in particular of those constituents which can be shown to be of primary importance in establishing the flavour and digestibility of the fruit. Various storage methods may divert the "normal" sequence of metabolic changes during ripening but provided the final chemical composition is that of a good quality fruit such diversion will not be of importance. To ensure that this final composition shall be that of good quality fruit it is necessary to have knowledge not only of the good quality fruit but also of the effects of storage (*i.e.*, environmental) factors upon the metabolic reactions of ripening so that the desired composition may be assured in the fruit on the market.
+
+The composition of the "eating-ripe" banana is by no means constant and the quality of the fruit available to the consumer varies considerably.
+
+46------------------------------------------------
+
+309
+
+Eating-quality is indefinable but is judged by the flavour, aroma, and texture of the fruit pulp. Flavour depends on the chemical composition of the pulp ; texture depends on the physical state of the various constituents. The flavour is a complex of sweetness from the sugars, bitterness and astringency from the glycosides and tannins, sourness from acids together with various subtle contributions to the whole taste and bouquet from esters, aldehydes and organic acids. The texture depends upon the state of turgor of the pulp cells and upon the amounts of cellulose, hemicelluloses, starch, pectin and other semi-solid or colloidal materials present.
+
+Investigations of storage methods include investigations of the effects of external factors upon "quality". Inquiries into the nature of "quality" are being pursued side by side with storage trials and studies of general fruit metabolism under varied conditions. Some progress has been made with the analysis of quality in fruits of various storage histories but the complexity of the work is such that the present state of knowledge must be considered as merely the threshold to the subject.
+
+The final "eating-quality" of a banana depends on the initial condition of the fruit on cutting and on its subsequent treatment during storage and marketing. The grade or level of maturity at which it is harvested determine to a considerable extent the length of storage which is possible ; thus, heavy grade fruit given cold storage for a period suited to a lighter grade, when ripened are of inferior quality described as "chilled" (Wardlaw, Leonard and Barnell, 1939). Fruit from plants heavily infected with *Cercospora* Leaf-spot disease have a slightly astringent taste in which esters, particularly amyl acetate, are more noticeable than in healthy fruit ; but quality is lost more through the premature ripening of the fruit during cold storage with the appearance of "chilling" symptoms than directly from the disease symptoms. Fruit which has been subjected to refrigerated gas-storage after incipient ripening has already taken place has a poor eating quality. It is nearly flavourless, astringent and lacking in the characteristic bouquet of the banana, though from external observation the fruit may appear to be in perfect condition (Wardlaw, 1940).
+
+Table I. gives data representative of preliminary results obtained in the analysis of eating-quality in the banana. In this table the percentage amounts of various constituents of the pulps of good quality fruit and of poor quality "chilled" fruit are compared at, as nearly as can be judged, similar stages of eating ripeness. It will be observed that the slower ripening of the pulp of the chilled fruit will generally result in its being eaten while the starch content is relatively high and the sugar content relatively low compared with normally stored and ripened fruit. Sucrose tends to be low, glycosides and acid high compared with "normal" fruit. The difference in texture in "chilled" fruit gives rise to the characteristic "soggy" break as opposed to the "mealy" break of normal fruit ; the possibility that this difference may be related to the hemicellulose and pectin content is under investigation. It has been observed that hemicelluloses are of considerable importance in the metabolism of the ripening fruit.
+
+47------------------------------------------------
+
+310
+
+**TABLE I.**  
+**Composition of "Normal" and "Chilled" Bananas When  
+"Eating Ripe".**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Grade and Treatment</th>
+<th colspan="5">Percentage Fresh Weight</th>
+<th rowspan="2">Acid ml N/10<br/>NaOH<br/>per 100 gm.<br/>Tissue</th>
+</tr>
+<tr>
+<th>Eating<br/>Quality</th>
+<th>Starch</th>
+<th>Total<br/>Sugars</th>
+<th>Sucrose</th>
+<th>Glyco-<br/>sides</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Heavy <math>\frac{3}{4}</math>-full.<br/>8 days at 53°F<br/>Ripened at 68°F for<br/>8 days</td>
+<td>Excellent</td>
+<td>3.74</td>
+<td>11.52</td>
+<td>3.39</td>
+<td>0.35</td>
+<td>58.2</td>
+</tr>
+<tr>
+<td>As above. Ripened at<br/>68°F for 10 days</td>
+<td>Excellent</td>
+<td>1.71</td>
+<td>12.63</td>
+<td>3.82</td>
+<td>0.23</td>
+<td>59.4</td>
+</tr>
+<tr>
+<td>Heavy <math>\frac{3}{4}</math>-full. 14 days<br/>at 53°F. 5 days at<br/>68°C</td>
+<td>"Chilled"</td>
+<td>7.52</td>
+<td>6.59</td>
+<td>1.89</td>
+<td>0.24</td>
+<td>66.0</td>
+</tr>
+<tr>
+<td>As above. 7 days at<br/>68°F</td>
+<td>"Chilled"</td>
+<td>3.67</td>
+<td>10.21</td>
+<td>2.42</td>
+<td>0.63</td>
+<td>64.6</td>
+</tr>
+<tr>
+<td>As above. 10 days at<br/>68°F</td>
+<td>"Chilled"</td>
+<td>1.62</td>
+<td>11.25</td>
+<td>2.36</td>
+<td>0.66</td>
+<td>61.0</td>
+</tr>
+</tbody>
+</table>
+
+Both "chilled" fruit and severely infected "Cercospora" fruit, when ripe, have a somewhat astringent taste; this has been related to the tannin content. The green fruit as cut from the plant contains large amounts of tannins both in the pulp and skin; these disappear to a great extent during ripening, apparently being oxidized to non-astringent substances. A method has been evolved which, it is believed, provides an estimate of the free, astringent, tannic substances only. With this method the disappearance of free tannin during ripening has been followed in pulp and skin and the differences between fruits of different qualities estimated quantitatively. Both chilled fruit and fruit from *Cercospora*-infected plants have been found to contain higher percentages of tannin than healthy fruit ripened at tropical temperatures.
+
+### NUTRITIONAL VALUE
+
+The banana in the past has suffered from an unjustifiable belief held by many that it is an indigestible starchy fruit. In truth the well-ripened banana contains a small proportion of easily digestible starch, much sugar, some protein and a certain amount of hemicelluloses; the residual substance, mainly cellulose, is small.
+
+As long ago as 1890 H. M. Stanley in his book "In Darkest Africa" commented on the extreme digestibility of a banana product. During attacks of acute gastritis a native-prepared banana flour, made into a gruel, was the only food he could digest. In some cases of chronic indigestion very ripe bananas have been found to be the only source of carbohydrate that could be tolerated (Haas, 1924, quoted by Reynolds, 1927). Myers and Rose (1917) used bananas as a suitable easily digested and well tolerated food in cases of nephritis where the supply of nitrogenous substances in the diet must be small. Banana powder or flour has been used with success in the feeding of infants, Blanchard (1936), Meysenbug and Fine (1936).
+
+48------------------------------------------------
+
+311
+
+### CALORIFIC VALUE
+
+The banana is a rich source of energy, ranking higher than the potato: Banana 108 Cal. per 100 gm., Potato (old) 82, (new) 90. Excluding dry cereals it is amongst the cheapest energy providing foods available to the English market. The banana is a valuable crop for local consumption because of its high yield per acre of food and energy; it has been stated that this yield, during a year can exceed that of any other crop (Reynolds, 1927).
+
+Approximately 24 bananas will satisfy the energy requirement of an adult performing no manual labour (about 2,400 Calories). The relatively low amounts of protein and fat in the banana, however, render it unsuitable as a sole source of food. The addition of milk in suitable proportion to the banana provides a balanced ration adequate for all energy and tissue-building needs of the body.
+
+### VITAMINS
+
+In industrial and other areas where fresh fruit and vegetables are not always easily obtainable the banana may provide a cheap and convenient source of the accessory food factors necessary to maintain full health. While the banana cannot be considered rich in any particular vitamin it contains A, B<sub>1</sub>, B<sub>2</sub> (or G) and C in reasonable quantities; the antirachitic vitamin D is present in small amount only (DeCaro and Locatelli, 1937); there is little information available concerning vitamin E in the banana, though it has been reported present in small quantity (Evans and Burr, 1927, quoted in Hawk and Bergeim, 1938).
+
+Vitamin A, the anti-xerophthalmic vitamin, supplies of which are necessary for efficient use of foodstuffs in growth and to maintain resistance to disease, is present in greater amount than in the apple. The Gros Michel banana amongst fruit, may be considered a good source of this vitamin (0.8 I.U./gm., Coward, 1938); (2.50 to 3.36 I.U./gm., Harris and Poland, 1937); (1.30 I.U./gm., Leong, 1939). There is a wide range of values for vitamin A content amongst different banana varieties; some varieties, grown in Malaya, have much higher amounts present than the Gros Michel (Leong, 1939).
+
+B<sub>1</sub>, the anti-neuritic vitamin, is found in the banana in amounts considerably in excess of those in other fruits and in greater amount than in white bread. As a source of this vitamin the banana is equal to many brown and whole-meal breads (amount of B<sub>1</sub> in the banana:
+
+- (a) 0.5 I.U./gm., Baker and Wright, 1938;
+- (b) .14 to .18 I.U./gm., Harris and Poland, 1937).
+
+The vitamin B<sub>2</sub> complex includes the anti-pellagra vitamin. One determination of this vitamin for the banana is available and, in terms of Riboflavin (a constituent of the complex), is 0.0075 mgm, per 100 gm. (Kuhn, Wagner-Jauregg and Kaltschmidt, 1934, quoted by Fixen and Roscoe, 1938) and is higher than the amounts found in most fruits (see tables, Fixen and Roscoe, 1938).
+
+There have been numerous estimations made of the vitamin C content of the banana and a wide range of values has been obtained. While the banana cannot be classed with the citrus fruits in its anti-scorbutic properties it has a
+
+3—J. N. 98816 (10/40)
+
+49------------------------------------------------
+
+312
+
+useful amount of Vitamin C and if eaten in quantity would give a measure of protection against scurvy. The values for ascorbic acid (Vitamin C) in the banana given in Fixen and Roscoe's (1938) tables range from 0.01 to 0.15 mgm./gm.; the higher values probably being most accurate according to recent investigations into the technique of Vitamin C determination (Thorton, 1938). It is interesting to note that unripe bananas have a higher Vitamin C content than ripe. The plantain (in many respects similar to an unripe banana) may have a Vitamin C content ten times as great as a ripe banana (Rudra, 1936).
+
+#### Mineral Salts
+
+The banana in common with other fruits, yields an alkaline ash (0.6 to 0.8 per cent. of the fresh weight of the pulp) containing over 50 per cent. potash; the remainder includes such important nutritional elements as phosphorus, calcium, and iron. These elements are, in general, present in greater amount in bananas than in either apples or oranges. The importance of calcium and phosphorus in bone and tooth formation and general nutrition is well known. It has been stated that all the iron in the banana is in a completely available form and can be utilized in the formation of haemoglobin (Smith and Otis, 1936).
+
+The virtues of the apple in the diet have long been appreciated and much research work has been done to ensure a constant and ample supply of this fruit for the consumer. The banana is, on every account, a more valuable fruit. It is an unusually hygienic food due to its relatively thick and resistant skin; it has a higher mineral content and a higher calorific value, weight for weight, than the apple. Its protective food (vitamin) content is more diverse than that of the apple and is greater for those vitamins common to both fruits.
+
+50------------------------------------------------
+
+313
+
+## POTATO CROPS ON SMALL AREAS\*
+
+### DIRECTIONS FOR CULTIVATION, MANURING, PLANTING AND HARVESTING.
+
+IT is not surprising, with the potato forming such an important part of our diet, that so many gardeners apportion some part of their vegetable allotment to the growing of this crop. The crop fits in admirably with most gardening practices, and is not difficult to grow. It is good practice to plant at least a quarter of the vegetable garden in potatoes. It is an exhausting crop, and for this reason two potato crops should not follow one another on the same area; nor should potatoes be grown after an exhausting crop such as cabbages.
+
+When a new piece of land is taken into cultivation, potatoes may, with advantage, be the first crop grown. The generous cultivation given during the growing period cleans the ground of weeds and conditions it for subsequent planting. Besides this, the accumulated fertility of the pasture or scrub-covered land is beneficial to the development of the potato crop.
+
+#### PREPARATION OF THE SOIL
+
+While potatoes do best on well-drained, fertile, loam soils, the small allotment gardener must of necessity make the best use of the land he has. Varieties have been evolved which will suit most classes of soil, provided the soil has been suitably prepared. For the early planting of potatoes a light, friable soil is the most suitable.
+
+If heavy, the land should be ploughed or dug in the autumn or early winter and left exposed to the action of the winter weather to mellow it. In the spring it should be cultivated deeply before planting. With light soil which has already been in use for cropping, a deep cultivation several weeks before planting is all that is necessary.
+
+It is not essential to break the soil down to the same extent for potatoes as it is for many other crops. The surface may be left somewhat rough, as pieces of turf and clods will soon be broken down in the course of the cultivation which the crop receives after planting.
+
+#### MANURES AND MANURING
+
+On most soils the humus content may with advantage be increased. This may be accomplished by applying farm manure, compost, or by digging under a cover crop. Where the soil is very fertile additional humus should be added with caution, as too fertile conditions produce soft growth, which favours the development of late blight.
+
+\* By F. Sydenham, Assistant Horticulturist, Wellington. In the *Journal of Agriculture* issued by the New Zealand Department of Agriculture, Vol. 61, No. 4, October, 1940.
+
+51------------------------------------------------
+
+314
+
+The quantity of artificial manure which should be used varies with the fertility of the soil. The most suitable dressing consists of 3 parts of superphosphate and 1 part of sulphate of ammonia, applied at the rates of 4 to 5 cwt. per acre on light land and 6 to 7 cwt. on heavy land.
+
+The use of sulphate of potash has not always shown an increase in production. It may, however, be used with advantage on light soils and on those that show a definite response to potash. One cwt. per acre is generally sufficient.
+
+On certain soils, and contrary to general belief, it may be advisable to apply lime. On very sour, peaty soils lime should be used, and on these, in addition to phosphate, 2 to 3 cwt. of potash should be applied to the acre. Scabby tubers will not be produced, providing the addition of lime is made several months before planting and is thoroughly mixed with the soil.
+
+*Note.*—2½ cwt. of manure to the acre is approximately equivalent to 1 oz. to the square yard, or 1 lb. to 60 ft. of row 30 in. apart.
+
+### THE SEED
+
+The New Zealand grower is in the fortunate position of being able to obtain Government certified seed which is true to name and reasonably free from virus and other tuber-borne disease.
+
+The most suitable size of seed tuber is that weighing 2 to 3 oz. Whole seed is the safest to plant, but large tubers may be cut, provided each piece contains at least three strong "eyes" and is of a suitable size. Certain varieties, notably Auckland Short Top (Sutton's Supreme) and Majestic, will not stand cutting. As a precaution with cut seed the danger of loss is lessened if the sets are planted immediately or precautions taken so that the cut surface is not allowed to dry out.
+
+One chain of row with the tubers set 15 inches apart requires 7 to 10 lb. of seed. For an acre 20 to 30 cwt. are required.
+
+*Sprouting Seed for the Early Crop.*—The use of sprouted seed ensures an earlier and more vigorous crop. Set the tubers side by side, the rose end upwards, in shallow trays in a light airy shed. If this is done six to eight weeks before planting time, short thick sprouts will have developed by the time the seed is planted. Every care should be taken not to damage these sprouts at planting time.
+
+### PLANTING
+
+It is general to plant in rows 27 to 30 inches apart, and to space the sets at intervals of 12 to 18 inches. A covering of 3 to 4 inches of soil over the tuber should be sufficient.
+
+The most satisfactory method of planting is to set the tubers in furrows made during the final preparation of the land. Along the bottom of these the fertilizer should be distributed and mixed with the soil. This mixing is especially important where cut seed is used. The sets should be placed with the rose end facing upwards.
+
+The main crop should be planted as soon as the soil has warmed sufficiently to promote good growth. If the crop is planted early it should suffer less from
+
+52------------------------------------------------
+
+315
+
+summer drought and late blight. Where the young plants are nipped by an unseasonable frost, it is not likely that serious damage will result. The end of September and early October is a suitable time to plant in most districts.
+
+The early crop grown in districts free of frost may be planted in May. In other districts planting may be done as soon as the soil is in workable condition, from the end of July to the end of August. As the early crop is dug before it reaches maturity, 2 ft. between the rows and 12 inches between the sets is sufficient.
+
+#### CULTIVATION AFTER PLANTING
+
+Frequent and thorough cultivation is required after planting. The first cultivation, if shallow, may be made after seedling weeds appear and before the crop shows above ground. When the shoots appear the cultivation between the rows may be deep in the early stages, but shallower later. As the crop develops, a little soil should be worked towards the plants with each cultivation. By this means the crop is moulded gradually. This ensures that the underground stems will be covered with soil. At the same time many small weeds will be buried.
+
+The final moulding should be completed when the plants are developing rapidly and the foliage will keep most weeds in check. With efficient moulding the greening of tubers is eliminated and they are protected against potato moth.
+
+It is important that the crop should be earthed up as high as possible. In the final operation the soil should be brought from both sides of the row to form an inverted V with the plant growing out of the apex. Moulding to produce an M should be avoided, as by this method the spores of late blight may be washed down to the tubers.
+
+#### HARVESTING
+
+The early crop may be dug as soon as the tubers are large enough to use. Only sufficient for immediate requirements should be dug at one time, the remainder being left undisturbed to continue growth.
+
+The main crop is ready to dig when the skin of the potatoes is firm and will not rub off freely. In warm moist districts where re-growth is likely the crop should be dug promptly on reaching maturity.
+
+The tubers should be left on the ground only until they dry off. If too long exposed to the sun there is a danger of greening or sun scald occurring. At the time of digging all tubers should be removed from the ground.
+
+#### STORAGE
+
+The essential conditions of a store are that it be cool, clean, and well ventilated. It should also be dark to avoid greening of the tubers. The tubers should not be stored where the direct rays of the sun can strike them through a window. The crop may be stored in clean sacks, bins, or boxes.
+
+As with other stored crops, the tubers should be gone over occasionally, and any showing signs of decay removed. If the stored crop is well ventilated few sprouts should be produced later in the season.
+
+53------------------------------------------------
+
+316VARIETIES
+
+There are a great number of varieties of potatoes, many of which are suited to particular conditions of soil and climate. As a general recommendation, however, and regardless of soil and climatic variations, the amateur grower might well be advised to grow two varieties. These are Arran Banner as the early crop and Auckland Short Top (Sutton's Supreme) as the main crop. Only a few rows of the former should be grown, as the tubers are best used in a partially immature condition, and lose in quality as they ripen.
+
+The following list of varieties is given for those who desire to vary from this general recommendation.
+
+(a) *Early Crop* :
+
+Arran Banner, Early Rose, Epique, Jersey Bennes (suited to a moist, cool climate such as Southland and Otago), and Cliff's Kidney.
+
+(b) *Main Crop* :
+
+*Light Soil*.—Auckland Short Top and Dakota (in dry, blight-free areas).
+
+*Medium Soil*.—Auckland Short Top, Majestic, Dakota (in dry, blight-free areas), King Edward VII. (moist, cool climate such as Southland and Otago), and Up-to-date.
+
+*Heavy Soil and Peat*.—Auckland Short Top, Majestic, Arran Chief, Inverness Favourite (try in preference to Arran Chief), and Iron Duke.
+
+DISEASES
+
+Disease in potatoes is an important factor in reducing both the productivity of a crop and the keeping quality of the tubers. Control measures are recommended to be instituted before the disease appears, or when it is present in its earliest stages. Those which are tuber-borne are reduced if clean "seed" is planted, and the crop is grown on ground on which the potato crop has not been grown for several years.
+
+The mechanical condition and the fertility of the ground are also of importance. Where the condition of the soil is such that it does not permit the development of healthy and vigorous plants, the incidence of disease is likely to be greater. Where the soil is too fertile, a soft sappy growth which offers little resistance to invasion by fungous spores is produced.
+
+The following is a brief account of the two main potato diseases and their control :—
+
+(1) *Virus Diseases*.—There are a number of virus diseases affecting potatoes. These are described under various names, such as "leaf-roll", "mosaic", "spindle sprout", &c. They all have the effect of retarding the development of the plant, and as a result the tubers produced, while they may be plentiful, are small in size. The produce, while small, is quite suitable for culinary purposes, but the yield is low. The disease may be present in the seed tuber or it may infect the plant during the growing season. There is no known means of combating the different virus diseases once they are established in a stock, as
+
+54------------------------------------------------
+
+317
+
+tubers from a diseased plant are always infected. The grower, however, is able to purchase certified seed which, in addition to other qualities, is practically free of virus.
+
+(2) *Late Blight*.—This blight is caused by the fungus *Phytophthora infestans*. The disease appears as darkened patches on the leaves. On the lower surface of the leaf a white downy-like mildew may be seen with the naked eye. Under warm humid conditions these areas extend rapidly, and both leaves and stems may soon become infected. The fungus does not penetrate through the plant to the tubers. These latter, however, may be infected by spores washed from the aerial parts of the plant. If the crop is efficiently moulded so that one ridge is formed, and not two with a furrow between, there should be less likelihood of tuber infection. Where the infection is severe the tops should be removed and burnt. After this operation the tubers may be left in the ground for several weeks to harden and mature before digging.
+
+Control measures should be taken early. The crop should be sprayed with Bordeaux mixture at a strength of 3-4-50 when the plants are 6-8 inches high, and the spraying repeated at two-to-four-week intervals so that the whole plant, as it develops, may be covered with the spray. In wet seasons it is frequently an advantage to increase the strength of the Bordeaux mixture to 5-4-50. This strength of spray increases the amount of the mixture on the plant, and at the same time hardens the plant tissues and checks their development.
+
+#### PREPARATION OF BORDEAUX MIXTURE
+
+The strength at which to apply Bordeaux mixture in control of potato blight is 3-4-50—that is, 3 lb. of copper sulphate (bluestone), 4 lb., freshly-hydrated lime, and 50 gallons of water.
+
+For the preparation of 4 gallons of Bordeaux mixture at this strength use 4 oz. of copper sulphate and 5 oz. of hydrated lime.
+
+The following procedure should be closely followed when preparing 4 gallons of 3-4-50 Bordeaux mixture:—
+
+1. (1) Dissolve 4 oz. copper sulphate in about a gallon of water in a wooden, earthenware, glass, or copper container.
+2. (2) Add water to 5 oz. of fresh hydrated lime till it assumes the consistency of thick paste. Then dilute it with about a gallon of water.
+3. (3) The lime solution should now be poured into the copper sulphate solution (or *vice versa*), stirring vigorously while so doing, and while the stirring continues make the volume up to 4 gallons.
+
+The spray is then ready for use, and should be used immediately. When the crop requires a further spraying a fresh mixture should be prepared.
+
+Where 4 gallons of 5-4-50 Bordeaux mixture are required, use 6 oz. copper sulphate and 5 oz. of hydrated lime, and proceed as above.
+
+55------------------------------------------------
+
+318
+
+## SCOUR IN CALVES\*
+
+**P**ROBLEMS in the rearing of calves will arise now that spring is here, and the ills arising from faults in management will become apparent and cause serious loss. The outstanding trouble, both by virtue of its prevalence and its seriousness, is "scour", or diarrhoea, in the young stock, and a brief discussion of the cause and effect of this trouble is contained in this article.
+
+There are a variety of conditions which may cause scour in calves, and several separate factors may operate at the same time. In all cases, however, a common factor is involved—faulty feeding, either in the nature or the quantity of the food. The basic factor which leads to manifestation of the upset is some disturbance in the digestive tract, and the disease can be divided broadly into two conditions, namely, nutritional scours, and bacterial or "white scours."
+
+It is often difficult, or indeed impossible, to differentiate clinically between diarrhoea due solely to improper feeding and diarrhoea of an infectious type, but in the great majority of cases improper feeding and diet is the dominant cause. Once the scouring is established, however, infection may become the chief factor.
+
+### SOME CAUSES
+
+Some calves may scour through eating straw or foreign material or from eating coarse hay at too early an age, and, once started, this may be difficult to control, because the foreign material remains in the stomach for a long time. Scouring may even be induced by changing too early from colostral milk (first milk) to the milk of the herd, that is before the fourth or fifth day. This latter scour is more or less transient, and, provided infection does not become established, will clear up under treatment within a few days.
+
+The most prevalent cause, however, is the feeding of an excess quantity of milk at each meal, and it is the common factor involved in causing the so-called nutritional scour. Under the normal conditions a calf suckles at numerous occasions during the day, and the quantity taken each time is small. When the calf is pail-fed, however, the number of times of feeding is greatly reduced to three, or even two, feeds per day.
+
+### EXCESS FEEDING
+
+The result, if the quantity of food allowed is excessive, is obvious. Being hungry, the calf drinks to excess, with the result that a hard, indigestible curd is produced in the stomach and so irritates the stomach lining that it
+
+---
+
+\* By B. A. Taylor, Veterinarian, Dunedin. In the *Journal of Agriculture* Issued by the New Zealand Department of Agriculture Vol. 61, No. 4, October, 1940.
+
+56------------------------------------------------
+
+319
+
+leads to inflammation and increased activity of the intestine. The food is then forced through the intestinal canal at such a rapid rate that no absorption of food can occur. Outwardly, the disease is indicated by the diarrhoea, with thin, watery, foetid droppings, by the general depression, fever, thirst, and lack of appetite. Inwardly the effects revolve upon the inability of the calf to absorb nutriment and the feverish condition induced by the bowel inflammation.
+
+This condition is most likely to occur in calves from a few days old up to approximately three weeks, but it must be remembered that carefully controlled and systematic feeding is essential much longer than this period, as faulty diet can also give rise to digestive disturbance in older calves.
+
+#### VITAL FACTOR
+
+"White scours", "bacterial scours", or contagious diarrhoea are the terms employed to differentiate the type of diarrhoea caused by actual infection as distinct from nutritional scours. Again, however, it should be mentioned that the two frequently occur together, beginning as a simple dietetic diarrhoea to which the bacterial infection becomes superimposed.
+
+The vital factor in the establishment of this disease is the multiplication of certain disease-producing organisms within the bowel which rapidly overwhelm the calf, the diarrhoea being produced by the irritant action of the germs and their products on the bowel wall. Once this condition becomes established, thousands of the bacteria are poured out with increased virulence in the foetid droppings and rapidly infect other calves.
+
+#### TWO FAULTS
+
+The disease can arise through two faults in management:—
+
+(1) Improper feeding, leading to a digestive upset and enabling the bacteria to become established. The bacteria are present in the intestines of all calves, but normally are kept well in check. Should any conditions such as indigestion—due, for instance, to over-feeding—arise, the bacteria begin to multiply, increase in virulence, and establish themselves as disease-producing organisms.
+
+(2) The feeding of contaminated milk, by which the organisms are poured into the calf's stomach with the food. The latter fault is inexcusable; absolute cleanliness in food and utensils is of paramount importance.
+
+#### TREATMENT AND PREVENTION
+
+Treatment and prevention involve the same principles, and are intimately related to the management and feeding. Both nutritional and bacterial scours are responsible for heavy losses through fatalities and by the fact that surviving calves are frequently sickly and unthrifty. A knowledge of prevention and treatment is therefore essential.
+
+The first essential in treatment is the elimination of the factors concerned. A careful study of the dietetic influence in an epidemic of scours shows that consideration for this alone will aid largely in checking disease where other efforts fail. In cases with contaminated food, if the unhygienic conditions underlying are continued it is only a matter of time when heavy losses will occur.
+
+4—J. N. 98816 (10/40)
+
+57------------------------------------------------
+
+320
+
+To prevent or treat nutritional scour arising from over-feeding it is essential to reduce the amount of milk fed at any one feed and to feed three times a day for the first three weeks. In the first place, the calf should be fed for the first four or five days on the colostrum, or first milk, from the dam. For the first week feed two pints of milk per feed, that is, six pints per day ; in the second week increase to  $2\frac{1}{2}$  pints per feed, and in the third week to three pints.
+
+It is a wise plan in prevention to add about half a pint of water to each feed of milk. Feed whole milk for the first fortnight, and at the end of the second to third week the change to separated milk may be begun and completed within one further week. Feed then at the rate of one gallon per 100 lb. liveweight.
+
+Should scour develop for any reason, treat immediately by giving a dose of castor oil, 1 to 2 ounces in warm water, according to the age of the calf, and at the following feed allow only warm water which has been previously boiled. Then allow only half the normal quantity of milk (making up the volume with water) for a few days until the condition has cleared.
+
+58------------------------------------------------
+
+321
+ ANIMAL DISEASE RETURN FOR THE MONTH  
+ ENDED OCTOBER 31, 1940
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease.</th>
+<th>No. of Cases up to date since Jan. 1, 1940.</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Bal-<br/>ance<br/>ill</th>
+<th>No.<br/>shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Western .. {</td>
+<td>Foot-and-mouth disease</td>
+<td>237</td>
+<td>16</td>
+<td>8</td>
+<td>229</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>18</td>
+<td>5</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Contagious Mange</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo<br/>Municipal-<br/>ity {</td>
+<td>Foot-and-mouth disease</td>
+<td>410</td>
+<td>..</td>
+<td>2</td>
+<td>406</td>
+<td>..</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>44</td>
+<td>3</td>
+<td>44</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Cattle Quar-<br/>antine Station</td>
+<td>Anthrax</td>
+<td>54</td>
+<td>48</td>
+<td>54</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="6">Central .. {</td>
+<td>Foot-and-mouth disease</td>
+<td>192</td>
+<td>..</td>
+<td>1</td>
+<td>190</td>
+<td>..</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>4</td>
+<td>..</td>
+<td>4</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>28</td>
+<td>4</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>28</td>
+</tr>
+<tr>
+<td>Blackquarter</td>
+<td>7</td>
+<td>..</td>
+<td>7</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Contagious Mange</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>19</td>
+<td>..</td>
+<td>..</td>
+<td>19</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="2">Southern .. {</td>
+<td>Rabies</td>
+<td>23</td>
+<td>2</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Pleuro-pneumonia</td>
+<td>20</td>
+<td>..</td>
+<td>20</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="2">Northern {</td>
+<td>Foot-and-mouth disease</td>
+<td>141</td>
+<td>..</td>
+<td>15</td>
+<td>126</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>5</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Eastern ..</td>
+<td>Foot-and-mouth disease</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="4">North-West-<br/>ern {</td>
+<td>Goat Pox</td>
+<td>27</td>
+<td>10</td>
+<td>2</td>
+<td>15</td>
+<td>10</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>8</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septi-<br/>caemia</td>
+<td>13</td>
+<td>..</td>
+<td>13</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Contagious Mange</td>
+<td>15</td>
+<td>..</td>
+<td>1</td>
+<td>14</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>North-Central ..</td>
+<td>Haemorrhagic Septi-<br/>caemia</td>
+<td>35</td>
+<td>..</td>
+<td>35</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="4">Uva .. {</td>
+<td>Foot-and-mouth disease</td>
+<td>101</td>
+<td>..</td>
+<td>13</td>
+<td>88</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Goat Pox</td>
+<td>70</td>
+<td>..</td>
+<td>20</td>
+<td>50</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>10</td>
+<td>1</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Blackquarter</td>
+<td>30</td>
+<td>30</td>
+<td>25</td>
+<td>5</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="2">Sabara-<br/>gamuwa .. {</td>
+<td>Rabies</td>
+<td>9</td>
+<td>1</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septi-<br/>caemia</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+</tbody>
+</table>
+
+Department of Agriculture,  
+ Peradeniya, November 19/20, 1940.
+
+M. CRAWFORD,  
+ Deputy Director (Animal Husbandry)  
+ and Government Veterinary Surgeon.
+
+59------------------------------------------------
+
+322METEOROLOGICAL REPORT, OCTOBER, 1940
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th rowspan="2">Mean Maximum<br/>°</th>
+<th rowspan="2">Difference from Average<br/>°</th>
+<th rowspan="2">Mean Minimum<br/>°</th>
+<th rowspan="2">Difference from Average<br/>°</th>
+<th rowspan="2">Day<br/>%</th>
+<th rowspan="2">Night (from Minimum)<br/>%</th>
+<th rowspan="2">Amount<br/>Ins.</th>
+<th rowspan="2">No. of Rainy Days</th>
+<th rowspan="2">Difference from Average<br/>Ins.</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta ..</td>
+<td>86.1</td>
+<td>+0.4</td>
+<td>70.5</td>
+<td>-2.1</td>
+<td>82</td>
+<td>95</td>
+<td>6.6</td>
+<td>28.95</td>
+<td>24</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura ..</td>
+<td>88.4</td>
+<td>-0.5</td>
+<td>73.6</td>
+<td>+0.2</td>
+<td>78</td>
+<td>93</td>
+<td>6.6</td>
+<td>14.20</td>
+<td>19</td>
+<td>+ 4.43</td>
+</tr>
+<tr>
+<td>Badulla ..</td>
+<td>82.9</td>
+<td>-0.1</td>
+<td>65.7</td>
+<td>+0.3</td>
+<td>74</td>
+<td>92</td>
+<td>5.1</td>
+<td>7.77</td>
+<td>19</td>
+<td>- 1.95</td>
+</tr>
+<tr>
+<td>Batticaloa ..</td>
+<td>87.3</td>
+<td>+0.2</td>
+<td>74.9</td>
+<td>-0.3</td>
+<td>72</td>
+<td>90</td>
+<td>4.8</td>
+<td>8.35</td>
+<td>14</td>
+<td>+ 1.28</td>
+</tr>
+<tr>
+<td>Colombo ..</td>
+<td>85.7</td>
+<td>+1.0</td>
+<td>73.9</td>
+<td>-1.0</td>
+<td>78</td>
+<td>95</td>
+<td>7.8</td>
+<td>17.40</td>
+<td>22</td>
+<td>+ 4.15</td>
+</tr>
+<tr>
+<td>Diyatalawa ..</td>
+<td>76.1</td>
+<td>-0.4</td>
+<td>61.0</td>
+<td>+0.5</td>
+<td>72</td>
+<td>89</td>
+<td>6.9</td>
+<td>13.30</td>
+<td>23</td>
+<td>+ 3.79</td>
+</tr>
+<tr>
+<td>Galle ..</td>
+<td>84.1</td>
+<td>+1.2</td>
+<td>75.5</td>
+<td>+0.1</td>
+<td>76</td>
+<td>86</td>
+<td>5.5</td>
+<td>16.81</td>
+<td>21</td>
+<td>+ 5.18</td>
+</tr>
+<tr>
+<td>Hakgala ..</td>
+<td>70.8</td>
+<td>+0.8</td>
+<td>54.6</td>
+<td>-1.0</td>
+<td>80</td>
+<td>88</td>
+<td>6.9</td>
+<td>8.01</td>
+<td>21</td>
+<td>+ 4.79</td>
+</tr>
+<tr>
+<td>Hambantota ..</td>
+<td>87.4</td>
+<td>+1.3</td>
+<td>75.4</td>
+<td>+0.3</td>
+<td>74</td>
+<td>88</td>
+<td>6.2</td>
+<td>8.44</td>
+<td>15</td>
+<td>+ 3.62</td>
+</tr>
+<tr>
+<td>Jaffna ..</td>
+<td>87.0</td>
+<td>+1.5</td>
+<td>77.8</td>
+<td>+0.3</td>
+<td>75</td>
+<td>84</td>
+<td>5.6</td>
+<td>8.71</td>
+<td>18</td>
+<td>- 0.87</td>
+</tr>
+<tr>
+<td>Kandy ..</td>
+<td>85.1</td>
+<td>+1.2</td>
+<td>68.6</td>
+<td>0</td>
+<td>76</td>
+<td>92</td>
+<td>6.8</td>
+<td>11.10</td>
+<td>20</td>
+<td>+ 0.23</td>
+</tr>
+<tr>
+<td>Kurunegala ..</td>
+<td>87.6</td>
+<td>+0.2</td>
+<td>72.9</td>
+<td>-0.3</td>
+<td>75</td>
+<td>95</td>
+<td>7.0</td>
+<td>21.70</td>
+<td>23</td>
+<td>+ 5.86</td>
+</tr>
+<tr>
+<td>Lunuwila ..</td>
+<td>87.0</td>
+<td>+1.5</td>
+<td>74.5</td>
+<td>+0.2</td>
+<td>77</td>
+<td>95</td>
+<td>6.9</td>
+<td>13.72</td>
+<td>22</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mannar ..</td>
+<td>88.2</td>
+<td>+1.0</td>
+<td>77.9</td>
+<td>+0.6</td>
+<td>70</td>
+<td>82</td>
+<td>7.2</td>
+<td>2.87</td>
+<td>11</td>
+<td>- 4.12</td>
+</tr>
+<tr>
+<td>Nuwara Eliya ..</td>
+<td>69.1</td>
+<td>+1.3</td>
+<td>52.4</td>
+<td>+0.7</td>
+<td>80</td>
+<td>91</td>
+<td>8.3</td>
+<td>8.32</td>
+<td>20</td>
+<td>- 2.32</td>
+</tr>
+<tr>
+<td>Puttalam ..</td>
+<td>87.3</td>
+<td>+1.2</td>
+<td>75.5</td>
+<td>+0.1</td>
+<td>75</td>
+<td>91</td>
+<td>6.6</td>
+<td>8.33</td>
+<td>15</td>
+<td>+ 0.25</td>
+</tr>
+<tr>
+<td>Ratnapura ..</td>
+<td>90.4</td>
+<td>+3.3</td>
+<td>72.7</td>
+<td>0</td>
+<td>79</td>
+<td>93</td>
+<td>7.4</td>
+<td>26.49</td>
+<td>25</td>
+<td>+ 8.65</td>
+</tr>
+<tr>
+<td>Talawakele ..</td>
+<td>75.1</td>
+<td>+2.2</td>
+<td>57.4</td>
+<td>-0.3</td>
+<td>76</td>
+<td>94</td>
+<td>6.8</td>
+<td>6.45</td>
+<td>23</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Trincomalee ..</td>
+<td>87.8</td>
+<td>0</td>
+<td>75.5</td>
+<td>-0.1</td>
+<td>71</td>
+<td>88</td>
+<td>6.4</td>
+<td>10.42</td>
+<td>20</td>
+<td>+ 1.28</td>
+</tr>
+</tbody>
+</table>
+
+Rainfall departures from average were rather irregularly distributed in October. On the whole, deficits predominated in the central hill country, in the north-western coastal districts and in the north of the Island, while excesses outweighed elsewhere.
+
+The largest positive offsets were 21.27 inches at Kanana estate, 16.97 inches at Hiniduma and 15.14 inches at Geekiyanakanda, all in the south-west. Besides these, about a dozen other stations in the west and south-west and two stations south of Diyatalawa, Blackwood and Haputale, also recorded excesses of over 10 inches. Outstanding deficits during October were 7.68 inches at St. Martin's (Upper), 6.96 inches at Digalla and 6.51 inches at Oonoogaloya.
+
+The largest totals for the month were Kanana 37.77 inches, Hiniduma 36.27 inches, Geekiyanakanda 34.11 inches and Matugama 32.05 inches. Besides these, 4 other stations also received over 30 inches. All these were in the south-west. The lowest total was 1.80 inches at Silavaturai, on the north-west coast.
+
+There were altogether 37 daily falls of 5 inches and over reported, the largest being 7.90 inches at Newfoundland on the 26th.
+
+The predominant feature of the weather during October were the irregularly distributed local thunderstorms. The only comparative dry period in the month was the 18th to 23rd.
+
+Temperatures were above average again, particularly by day. The highest shade temperature recorded was 93.6° at Anuradhapura on the 4th, while the lowest temperature was 40.6° at Nuwara Eliya on the 22nd. Both humidity and cloud amount were distributed irregularly on either side of average. Surface winds were chiefly below average strength, the direction being variable.
+
+D. T. E. DASSANAYAKE,  
+Superintendent, Observatory.

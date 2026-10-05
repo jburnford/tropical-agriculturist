@@ -1,0 +1,7217 @@
+# THE TROPICAL AGRICULTURIST
+
+VOL. LXV.
+
+PERADENIYA, AUGUST, 1925.
+
+No. 2.
+
+## SOIL EROSION.
+
+This Journal must be pardoned if it returns to the question of soil erosion again in its editorial note. Nearly two years ago, this question was brought prominently to the notice of Ceylon's agriculturists, and it was pointed out that a country of the physical configuration of Ceylon was in danger of losing much of that valuable asset—its soil—unless agricultural operations were directed to the prevention of soil wash. This collection of articles was followed by a series dealing with those indigenous plants which might be tried as cover crops and by an editorial note in January of this year which advocated the establishment of contour belts of cover plants and the protection of drain sides by the planting of a creeping grass such as *Paspalum conjugatum*.
+
+The urgency of steps being taken to prevent further soil erosion is apparent to all interested in the welfare of Ceylon's planting industries, and although much has already been done much still remains, and the importance of bringing the matter constantly before the agricultural public cannot be denied.
+
+During the past two years, as the result of the greater attention paid to soil erosion by the Department of Agriculture, a number of queries has been received from estate proprietors, superintendents and visiting agents. A number of these related to trials of introduced cover crops and to the suitability or otherwise of indigenous plants. Others, however, required information regarding terracing, contour planting, draining, etc.
+
+With a view to placing before such enquirers the fullest details available, publication is made in this number of the *Tropical Agriculturist* of two papers issued by officers of the Agricultural Department in Java. The first has been specially
+
+1------------------------------------------------
+
+68[AUGUST, 1925.
+
+translated from the Dutch and then carefully revised. It deals with many questions of importance and the attention of those who contemplate contour planting is specially directed to those sections dealing with this question. The second is the substance of a lecture delivered by DR. KERKHOVEN before the Tea Congress which was held in Java last year. In this paper the various measures against soil wash are classified under the headings—contour drains, planting in rows on the contours, provision of silt pits, provision of contour hedges of cover crops and attention to general upkeep.
+
+The concluding remarks of this paper deserve the attention of Ceylon's agriculturists. They may be summarized as follows:—(1) Clean weeding is the principal cause of soil wash and it is hoped that in Java it is a *thing of the past*; (2) Green manuring always diminishes the wash.
+
+In Ceylon, where do we stand in regard to these two conclusions? Clean weeding still has its many advocates and few can tell with certainty what effect the non-adoption of this policy is likely to have on crop yields, particularly of tea. There are many others who have studied the yields of estates which have become infested in recent years with *Oxalis* and can find no diminution of yields. These naturally feel that the growing of certain plants as cover crops will not affect yields and there is considerable reason to support this belief except perhaps in areas which have a long dry period and where grasses are allowed to grow. The growing of leguminous cover crops is being tried by some and proposals have been approved by the Estates Products Committee for an extensive trial of *Indigofera endacaphylla* upon the Tea experiment plots of the Peradeniya Experiment Station.
+
+These experiments should produce information of value and should clearly demonstrate whether the growing of leguminous cover crops has any effect whatever upon the yields of the tea crop.
+
+Upon rubber estates *Vigna oligosperma* is making very satisfactory progress in some parts of the Island and an extension of its cultivation is looked for. Disease has appeared upon it in some localities and is at present under investigation. It is expected that this disease will not be serious but the Mycological Officers should shortly be able to make a pronouncement on this question.
+
+2------------------------------------------------
+
+AUGUST, 1925.]69
+
+# TEA.
+
+---
+
+## THE OPENING AND MAINTAINING OF A TEA ESTATE.
+
+A. R. W. KERKHOVEN,  
+DR. CH. BERNARD AND DR. J. J. B. DEUES.
+
+*Adapted from the Dutch by*
+
+H. L. LUDOWYK.
+
+It is extremely difficult to separate the question of the opening of a tea garden from that of its maintenance. It is noticed that they merge in every detail; the measures adopted for the maintenance of gardens will always be directly connected with those used in opening out. A piece of land opened out with care will always be easy to keep clean; the contrary with one that has been opened out on wrong lines. It is, therefore, well understood among planters that it is wrong to spare expenditure at the outset, for the initial outlay is amply rewarded in the future by the lower cost of upkeep and the better growth of the plants. It is then false economy to lay out a tea estate on land superficially opened out, *i.e.*, where the stumps of trees or injurious vegetation has not been removed or only partially removed, where the tillage has been very superficial, where no roads, catch-pits, and terraces have been laid out and where plant-holes have been made in an unsatisfactory manner.
+
+The greatest danger for a tea estate is wash, and faulty opening out is the surest way to encourage it. Within a few years, or even months—even before the plants are fully developed—the humus may disappear, and all work in the future may have to be concentrated upon the improvement of the soil rendered less valuable owing to the initial mistakes. The expenses that recur every year from bad opening out, with the resultant loss, prove considerably heavier than those required to open out on the right lines.
+
+It follows that consideration of the opening out of tea lands will be concerned mainly with the measures to be taken against wash.
+
+Although people desire to lay out a tea estate on virgin forest land, it often occurs that only secondary forest ground is available or plains where only illuk and underwood grow; or old coffee, cinchona or tea gardens have to be re-opened. It goes without saying that in each of these cases the process should vary.
+
+In the opening of heavy virgin forest a beginning is made with the cutting of some roads and paths for the purpose of survey and of facilitating control. Each division of the land to be cultivated is cleared by a separate set of work people. To begin with, the undergrowth is cut and left to dry. Then, suitable timber trees are marked; and these are felled, mostly at a height of from 3-4 feet above the ground. Stumps of large, heavy trees are generally very difficult and expensive to do away with, but it is necessary to uproot them as far as possible, in order to obtain a clean
+
+3------------------------------------------------
+
+70[AUGUST, 1925.
+
+plantation. If such large stumps were allowed to stand, the risk is entailed of root diseases, which may spread to the tea plants. This risk is great, especially on grounds rich in humus. Branches, shrubs and small trees are burnt; they must be stacked in small heaps, for there is loss of humus from the ground where the burning is done. Burning should be done as far as possible, on prospective roads. The large felled trees which are not sawn into timber or sold are laid in the direction of the slope in order to prevent them from rolling and causing damage to the plantation. The wood is cleared by rolling it down into the ravines.
+
+The clearing of secondary forest is naturally simpler and less costly; but, as a rule, the soil in such places is also less good.
+
+Lands with undergrowth and grasses are yet easier to clear; everything is cut and, after drying, burnt. After this the roots and root stocks, etc., are dug out, this process in the case of grasses is essential if it is desired to avoid trouble with them later.
+
+In the conversion of old coffee, cinchona and tea gardens, every growth is at first uprooted, and planting is done anew. It is not generally easy in practice to make the new plants strike root, and then, for some time, reafforestation has to be brought about by means of such Leguminosae as *Leucaena*, *Tephrosia* and *Crotalaria*. In this way it is possible after some years to open out these lands again in tea.
+
+In Java and in Preanger there occurs such a variety of soils that it is not possible to lay down a general procedure. On flat and very porous lands, as, for example, those that occur on the plateau of Pengalengan, precautions against wash will not be so urgent as on heavy clay soils mixed here and there with 'tjadas' and limestone, of Djampangs for example. Where there is a hard, firm lower layer the danger of earth slips has to be reckoned with. It is undesirable to let too much water be absorbed by the ground; therefore, the quick outflow of water should be provided for.
+
+After the land has been sufficiently cleared, tilling is commenced. It depends wholly on the conditions of the soil whether tilling should be heavy or not. Loose sandy soils and soils that contain heavy humus, such as those of Pengalengan, are easily cultivated; to these it is not always desirable to apply heavy cultivation, since this may strongly aid "dry wash." In clay soils the opposite is the case; these soils are remarkably responsive to heavy tilling.
+
+In opening out, the ground is generally tilled 12-18 inches deep; this is 2-3 mammoth strokes. The roots of grasses and harmful weeds are removed at the same time. Unless this is done with much care, there is risk of the growth of illuk, couch or other grasses which are very difficult to root out. Unremitting supervision is needed to ensure deep tilling and thorough weeding. Any weeds appearing after tilling should be promptly eradicated. It is a mistake to commence tilling when the planting has been done. This certainly raises the cost of upkeep.
+
+On very stony ground, boulders impeding growth must be blasted at any cost. It is desirable to remove any stone, as far as practicable, as part of the process of clearing. Suitable stone may serve in the building of the roads and drains, but if it is brittle, it had better be broken into pieces.
+
+4------------------------------------------------
+
+AUGUST, 1925.]71
+
+Deep tilling of the ground is necessary in stiff soils in order to enable air and water to penetrate. This causes quicker disintegration of the food reserves. On loose sandy soils the circulation of water and air is, of course, well regulated; these soils therefore need a less intensive tilling. Humus soils are generally loose.
+
+When a land has been cut open and partly cleared, it becomes very important to plan out a systematic network of roads. This is certainly not easy, and it is wrong to leave the setting out of the roads to inexperienced assistants. The land conditions are so different in the mountains that it is impracticable to give fixed rules for each type of land.
+
+Some main principles can, however, be stated :—
+
+First. — *Roads should never be made to serve as outlet drains as well.* On the contrary they ought to be protected from flowing water by means of special drains *above* the road, while the water that is bound to flow along the road must be led away as quickly as possible into the ravines or outlet drains lying *below* the road. From this it follows that *a network of roads should be set out before the setting out of the drains.*
+
+![A technical diagram illustrating the correct way to cross a road with a drain. A road, represented by a double line, runs diagonally from the bottom left towards the top right. A drain, represented by a single line, crosses the road at an angle. The drain is positioned above the road, and the road is shown crossing over it. The area between the road and the drain is shaded with diagonal lines, indicating the ground surface. The word 'Road' is written below the road line, and the word 'Drain' is written above the drain line.](94390456634f300b9d7b8c4f9e729dc4_7_img.webp)
+
+Fig I.—DRAIN CROSSING ROAD.
+
+From this it is seen that roads must be set out first—afterwards the drains.
+
+Second.—It is desirable on mountain land to make the roads not absolutely horizontal, but to give them a slope of, say, at least 1 in 40, so that water may never accumulate. It is best then, if the road runs along a slope, to make it highest at the ridges and thus allow it to slope towards the valleys, so that the drain along the road may be as short as possible.
+
+Third.—When the roads have a long and regular ascent or descent there must be made at distances of not more than 150 to 300 metres, cross drains or culverts in order to free the road drain from any overflow of water.
+
+Fourth.—It is desirable to lay the main roads in a sort of cobweb system, with the factory grounds as centre. It may be necessary to receive the product (tea leaf) several times a day and forward it to the factory. Either hard roads or light narrow rails will be required. This light narrow rail is not very much more expensive than hardened roads and costs much less in upkeep. Ropeways are generally more expensive, but they need not be discussed here.
+
+5------------------------------------------------
+
+72[AUGUST, 1925.
+
+In view of their possible use for narrow rails, the main roads ought not to be too steep; they must preferably be not more than 1 in 30 or 1 in 40. Once the planting is carried out, it will be very difficult to alter the road track; it is advisable to pay attention to this question at the outset.
+
+The main roads serve not only for the transport of the product to the factory, but also for the transport of timber and fire-wood, and therefore it may be recommended that the narrow rails be laid immediately after the clearing. The main roads should also serve later for the transport of manure by cart to the fields.
+
+It is advisable to take into account, beforehand, the direction traffic will circulate. It should be noted that the coolies always choose the shortest road, even though steep. If a short way be found through the plantation, whatever be the hindrance, they make a track.
+
+Where the system of "hectarewegen," or "hundred lines" exists (that is to say gardens divided by roads into portions of 100 by 100 metres or approximately 325 feet x 325 feet, the roads should be so planned as to prevent too much loss of land through the laying of roads. The obvious short cuts must place the pluckers in a position to reach the factory or the receiving sheds quickly.
+
+Along the slopes, parallel roads can be laid out in the same manner as has been said previously for the main roads, *i.e.*, not absolutely horizontal but sloping towards the ravines.
+
+Between the parallel roads steeper connecting roads can be laid with slopes of not more than 1 in 7 to 1 in 10.
+
+It is advisable, after the setting out of these roads with the road tracer, to examine all the tracings, once again, carefully, with the desire to do all the work over again if a better tracing is possible.
+
+For easy traffic it is advisable, to let the roads come together as much as possible on the ridges, thus forming junctions on the ridges.
+
+The system of outlet drains must be set up with reference to the heaviest rainfall to be expected. The rain observations in a neighbouring meteorological station may serve as a basis to some extent. The figure in inches per day does not say *for what duration of time* a heavy shower has fallen. It is clear that, say, a rainfall of 4 inches which is evenly divided over 24 hours will do less harm than a shower of, say, 3 inches that falls within a half hour. While, for example in Holland, in the most rainy months, not more than  $2\frac{1}{2}$  to 3 inches, and, at most, 8 inches of rain falls, a shower of 4 to 8 inches per day is no rare occurrence in the mountains of Java, and there occur also showers of even 10 inches. On heights above 4,000 feet, such heavy showers occur very seldom. It goes without saying that such showers can cause extraordinary damage to plantations, and that the absorbing capacity of the ground, aided by catch-pits, is yet insufficient to overcome wash. Besides, it happens that water is absorbed rather slowly and, thus, short heavy showers cannot be absorbed. In heavy showers succeeding long rainy periods, the ground is almost saturated with water and a part of the rain water will flow below, along the slope, and bring on wash thereby.
+
+In order to prevent the occurrence of larger streamlets by the accumulation of descending water, outlet drains must be laid at definite intervals on
+
+6------------------------------------------------
+
+AUGUST, 1925.]73
+
+the slopes. This is generally known, but the outlet drains are often unsuitable and, unsystematically laid, or are, sometimes wholly omitted. The following may be accepted as general principles:—
+
+First.—That *it is wrong to make drains that are too long*, since at the lower end the flow becomes too heavy and scourings and breakings through arise.
+
+In order to obtain relatively short drains the highest point of the drain must lie on the hill ridges and the drain, on both sides, slope towards the valleys that lie between, at a gradient of 1 in 25 to 1 in 40, or on an average, say 1 in 30, according to the nature of the land.
+
+The relative distance of the secondary drains may be taken at 50-100 feet. The drains are to be taken closer to each other, if:
+
+1. the rainfall is heavy;
+2. the ground is very loose or finely grainy;
+3. the land is very steep;
+4. the gardens are kept clean weeded
+
+Second. *Valleys are the natural outlet drains*; therefore the steeper main outlet drains must be laid therein with as few sharp curves as possible.
+
+As an objection to this it is urged that, often, the valleys contain the finest soil. But water travels to the valleys, and, besides, it is often desirable to drain the latter by means of deep main outlet drains. It is known that it is often very difficult to make tea grow in the valleys on account of ground water.
+
+![Diagram illustrating the systematic setting out of the Double Fish-Bone System of Drains. The diagram shows a cross-section of a landscape with alternating ridges and valleys. Drains are shown as lines sloping from the ridges towards the valleys. The main drains are deeper and more frequent. A tracing of the main road is also shown, just below the drain and sloping towards the valleys. The slope is indicated as 1 in 30.](e0d15686ae10b28d48be9b7931ed2ce0_10_img.webp)
+
+The diagram shows a cross-section of a landscape with alternating ridges and valleys. Drains are shown as lines sloping from the ridges towards the valleys. The main drains are deeper and more frequent. A tracing of the main road is also shown, just below the drain and sloping towards the valleys. The slope is indicated as 1 in 30.
+
+Legend:
+
+- Drains (solid line)
+- Main Drains (double line)
+- Tracing of Main Road just below the drain and like the latter sloping towards the valleys (dashed line)
+
+Fig 2.—SYSTEMATIC SETTING OUT OF THE DOUBLE FISH-BONE SYSTEM OF DRAINS.
+
+The main outlet drains, if they are steep, will perhaps be deeply furrowed; but it is better to localise the wash there than to have the burden of it over the whole land, and as a result lose by degrees the whole top layer.
+
+By means of small dams of wood, bamboo, or yet more preferably, live cuttings of dadap or such-like plants, and by planting the sides with various grasses, the scouring is overcome to some extent.
+
+7------------------------------------------------
+
+74[AUGUST, 1925]
+
+Where a sufficient number of valleys does not exist on a long mountain ridge, in order not to make the secondary drains too long (never more than 300-600 feet), main outlet drains should be provided at regular distances. It follows that a kind of *double fishbone system*, of the nature of the old tapping cuts of rubber trees, is desirable.
+
+![A topographic map showing a mountain ridge with contour lines. A central 'Saddle' point leads to a 'Summit'. A 'Main Drain' runs down the center of the ridge. Other 'Drain' lines branch off from the main drain. A 'Hill Ridge' is labeled on the left side. The map illustrates a drainage system designed to collect water from the slopes and ridges.](f056db5dda5ee3c892fb7f70b3a041ca_4_img.webp)
+
+Fig 3.—MAP SHOWING SITUATION OF DRAINS.
+
+On older estates there is a bad system of leading off the water of the valleys by outlet drains. This divides up the water, which, comes by zig-zag drains, right into the valleys, growing into heavy streams and deeply furrowing the drains.
+
+Another system consists in a sort of rhomboid form of roads on the slopes. In the first place the roads become denuded and by degrees, unserviceable for communication, and in the second place these are too steep for outlet drains and cause erosion. Heavy denudation occurs especially on the cross-ways.
+
+![A diagram showing a cross-section of a hillside. A 'Hill Ridge' is at the top, and a 'Ravine Floor' is at the bottom. A road is shown as a series of thick, zig-zagging lines descending the slope. A point 'A' is marked on the road near the top. Thin lines represent drainage paths flowing from the road down to the ravine floor.](f056db5dda5ee3c892fb7f70b3a041ca_8_img.webp)
+
+Fig 4.—DRAINS AND ROADS ACCORDING TO RHOMBOID SYSTEM.  
+(Wrong System)
+
+The thick lines show the long Zig-zag course water has to flow from A
+
+8------------------------------------------------
+
+AUGUST, 1925.]75
+
+As has been already remarked regarding roads, the road system should be held strictly separate from the outlet drain system.
+
+Yet another system that I have seen on paper, but not in practice, is the making of main outlet drains with a gradient of 1 in 25 to 1 in 40 sloping towards the ravines, and of steep secondary outlet drains. This system seems to me to be absolutely wrong, for according to it, all over in the gardens, steep drains that are difficult to maintain are brought into existence, while in the main outlet drain, on account of the low velocity of flow, a great volume of water accumulates. If such a main outlet drain gives way, then the damage can be very considerable.
+
+![Diagram of a drainage system on a hillside. A 'Hill Ridge' is shown at the top, sloping down to a 'Ravine Floor'. The drainage system consists of a main outlet drain with a slight slope and several smaller, steep secondary drains branching off it.](bb6593dbd537fcb37c41f2c0274685ce_5_img.webp)
+
+Fig 5.—MAIN DRAINS WITH SLIGHT SLOPE WITH SMALL STEEP FEEDING DRAINS.  
+(Wrong System)
+
+The main outlet drains in the valleys cannot break through, since they always follow the lowest portion of the land.
+
+The breaking of smaller drains can also cause damage. *They must therefore be regularly kept clean.* Since very heavy showers fall only a few times in the year, it is a good system, after each abnormally heavy shower, to set all the permanent workers on the cleaning of the outlet drains. Keeping drains in repair is very much easier if both sides of the drains are planted with grass. Planting the lower edge prevents breaking through and planting the upper edge prevents sand accumulating too quickly and the crumbling of the sides. Exceptionally suitable for this is the "Veti-vert" (*Andropogon muricalus* Retz). This grass grows easily and forms not only a thick hedge, but has, besides, an enormously wide-spread root-system that holds the ground together. This network of roots spreads underneath the floor of the outlet drain and forms with the ground a tough whole. Thereby the drains are well protected. The roots also prevent the crumbling of the ground during the dry season, which the planters of British-India appropriately call "dry wash."
+
+![Cross-section diagram of a hillside showing a drainage system. The diagram is labeled 'Average of 80 feet' at the top. It shows a slope with a main drain and several smaller drains branching off. The drains are shown with grass growing on their sides, and the ground is depicted with hatching to indicate soil and vegetation.](bb6593dbd537fcb37c41f2c0274685ce_9_img.webp)
+
+Fig 6.—SECTION OF LAND WITH DRAINS.
+
+9------------------------------------------------
+
+76[AUGUST, 1925.
+
+Other plants may be used but none have the wide-spread root-system of "Veti-vert," which is also suitable for planting on steep sides of roads. It seldom if ever produces seed, and never spreads in the tea garden.
+
+In *very flat lands*, such as occur in the lower tracts, water outlet is often very difficult because the land allows too small a slope in the drains and therefore the slope has to be obtained by making the drains deeper down-stream. These should also be carefully set out with a level.
+
+In these cases, draining is not required so much for dealing with wash as for lowering the ground water level. It is well known that ground water has a very prejudicial effect on plants if their roots reach it. Ground water is especially injurious if it is stagnant, *i.e.* if there are no outlet drains in the neighbourhood. If ground water is regularly drained away then it seems to be less injurious. Very deep main outlet canals with a large number of tributary canals exist in such tracts.
+
+One of the most useful inventions for mountain cultivation is certainly the system of catch-pits. Their advantages for improving the soil will not be discussed here, but rather their value in counteracting wash.
+
+In the first place, a catch-pit holds a certain quantity of water during a heavy shower of rain, so that water has time, to permeate the ground, and, in the second place, the pit catches up the soil that is washed away, which can be restored to the ground when the pit is deepened.
+
+It is important to make the catch-pits at least 18 inches deep. The breadth is generally only one mammoth stroke, but it is better, if there be room for it, to make the pits two or three mammoth strokes wide.
+
+![Diagram showing two rows of long catch-pits in an alternate pattern. Each row consists of a dashed line with small circles representing the pits, with rectangular catch-pits placed between them. The pits are arranged in two parallel rows, with the catch-pits alternating between the two rows.](26e72e42f81fbe62f51168af6ad60e89_9_img.webp)
+
+Fig 7.—LONG CATCH-PITS IN ALTERNATE ROWS.
+
+Pits.—6 inches long, 16 inches deep, 9 feet long, about 465 per acre.
+
+Contents.—2,760 Cubic feet per acre. equal to a shower of 0.75 Inch.
+
+Such deep and wide pits are, however (especially in hard ground), very
+
+10------------------------------------------------
+
+AUGUST, 1925.]77
+
+costly, hence their construction is often put off too long, and people are generally satisfied with shallow catch-pits, of one mammoth stroke's breadth.
+
+As has already been said, one cannot allow the soil to absorb too much water if there is a hard impervious layer under the top layer. In such cases it is better to omit catch-pits.
+
+It is best to make catch-pits not longer than, say, 10 feet since the plant rows do not always run horizontal. A pit that is not horizontal overflows at the lower edge and causes wash there.
+
+Fig 8.—LONG CATCH-PITS—ALTERNATE SYSTEM.
+
+Pits.—About 605 per acre.
+
+Contents.—3,630 Cubic feet per acre, equal to a shower of 1 inch.
+
+On older estates short pits of 3-6 feet are made in each row at equidistant intervals, but alternating in the rows.
+
+At present, longer pits are made, of 10-15 feet in length in alternate rows with but very small intervening spaces. If the terraces, however, are not absolutely horizontal, the terrace that has no pits may be converted into a flowing aqueduct.
+
+On the advantages of the making of terraces opinion is fairly divided. Much depends on the nature of the land and on the rainfall. If terraces and catch-pits be made, then the ground is made to absorb much more water than it normally would do.
+
+It is advisable to examine whether this large quantity of water is good for the growth of the cultivated plants and will not lead to lack of air in the ground. Water must be allowed to drain away. Where the land slopes gently and the rains are not heavy, catch-pits alone, or in combination with horizontal hedges of, say, Leguminosæ, are quite sufficient, if the ground be porous and can therefore absorb much rain. A good system is one row with long catch-pits and the other with a hedge of Leguminosæ.
+
+On steeper lands terraces and catch-pits are undoubtedly of great use.
+
+11------------------------------------------------
+
+78
+
+[AUGUST, 1925.
+
+The diagram illustrates a plan view of a hillside with contour lines. A vertical main line, labeled 'Vertical Main Line (Contour)', runs along the center of the slope. Two 'Main contour line.' labels are positioned above the contour lines. The slope is divided into terraces by horizontal lines. Distances between rows of plants are indicated: 4' between the main contour lines and 2' between the terrace lines. A note at the bottom left states '12-40 feet depending on the steepness of the slope.' Points A, B, C, D, and E are marked along the contour lines to show the sequence of planting rows.
+
+Fig 9.—PLAN OF A METHOD FOR TERRACING OR CONTOUR PLANTING.  
+ Distances Between rows of plants are set out from A to B, from C to D and from C to E — **Not from A to C.**
+
+12------------------------------------------------
+
+AUGUST, 1925.]79
+
+There are two kinds of terraces, namely the individual terraces wherein around each tree a nearly square, flat surface is made, and long terraces which follow contours of the land.
+
+The first kind is fit for crops with wide planting distances, such as rubber, coffee, etc., the second kind for narrow planting distances, for tea, cacao, etc.
+
+In order to work well, the long terraces must be set out very carefully and therefore the alignments should not lie too far from each other.
+
+![Diagram illustrating the process of protecting fertile top soil by means of terraces. The diagram shows a cross-section of a slope with terraces being built. The slope is labeled 'Slope of Land'. The top layer is 'Black earth' and the bottom layer is 'Red earth'. The diagram shows the sequence of operations: 1. Land that has been tilled but not yet terraced. 2. Black earth from the plant drain is strewn above. 3. Red sub-soil from the plant drain is strewn below. 4. Black earth above the drain is scraped into the next plant drain. 5. Red earth is spread above. 6. Terraces are made with red earths. The diagram also shows the distance between plant lines as 4 feet.](bdfcbe7e4ca0c9dae40947ceff09f02f_6_img.webp)
+
+The diagram illustrates the process of protecting fertile top soil by means of terraces. It shows a cross-section of a slope with terraces being built. The slope is labeled "Slope of Land". The top layer is "Black earth" and the bottom layer is "Red earth". The diagram shows the sequence of operations:
+
+- Land that has been tilled but not yet terraced.
+- Black earth from the plant drain is strewn above.
+- Red sub-soil from the plant drain is strewn below.
+- Black earth above the drain is scraped into the next plant drain.
+- Red earth is spread above.
+- Terraces are made with red earths.
+
+The diagram also shows the distance between plant lines as 4 feet.
+
+Fig 10.—PROTECTING THE FERTILE TOP SOIL BY MEANS OF TERRACES.
+
+This levelling is done with the road-tracer. The setting out of these lines is certainly not easy. It is best to set out at first arbitrarily, at not too distant intervals, a number of horizontal main lines in order to obtain thereby a survey of the lie of the land, and then draw lines perpendicular to these. On these then the common distances of the rows are set out, and from that again the horizontal plant-lines, and on these the common distance of the plants themselves.
+
+13------------------------------------------------
+
+80[AUGUST, 1925]
+![Diagram of terraces on very steep land.](23d1ae634eb8b39111f2661df159984a_3_img.webp)
+ A cross-sectional diagram of a steep hillside. The slope is divided into several terraces by horizontal lines. Small trees are planted on the terraces. A dashed rectangular box is drawn around the middle section of the slope, indicating the area where catch-pits are not feasible.
+
+Fig. 11.—TERRACES ON VERY STEEP LAND  
+Here catch-pits are impracticable.
+
+One of the greatest objections urged against terracing is that the young plants are planted out in the less fertile sub-soil, as these are planted somewhat behind on the terrace.
+
+![Diagram of wide catch-pits without terraces.](23d1ae634eb8b39111f2661df159984a_6_img.webp)
+ A cross-sectional diagram of a hillside showing a series of wide, rectangular catch-pits. The catch-pits are deep and wide, with the soil in the pits being shaded to represent fertile top-soil. Small trees are planted on the slope between the catch-pits.
+
+Fig. 12.—WIDE CATCH-PITS WITHOUT TERRACES.
+
+This is, however, easily prevented by, for example, *digging long deep trenches* along the lines of planting, and filling these trenches with fertile top-soil, which is thereby also preserved from wash. Also, the ground can be tilled so deep that loose fine soil is secured even at the back of the terrace.
+
+![Diagram of wide catch-pits in alternate rows.](23d1ae634eb8b39111f2661df159984a_9_img.webp)
+ A cross-sectional diagram of a hillside showing a series of wide, rectangular catch-pits. The catch-pits are deep and wide, with the soil in the pits being shaded to represent fertile top-soil. Small trees are planted in the rows between the catch-pits.
+
+Fig. 13.—WIDE CATCH-PITS IN ALTERNATE ROWS.  
+Interplanted with hedges of Leguminosae.
+
+Heer E. van Laump's method on Montaja has been to dig pits 3 feet deep and 3 feet wide with dividing walls also 3 feet broad. After these pits have been exposed some days to the air, they are closed up with the earth of the dividing walls, which therefore turn into pits. Later, these too are closed up, and so, the whole ground is cultivated to the depth of 3 feet.
+
+The objection against the Montaja method is its enormous expense. With the present scarcity of coolies it will hardly ever be possible to have sufficient labour for extensive opening out according to this system.
+
+14------------------------------------------------
+
+AUGUST, 1925.]81
+
+Another objection is that in an infertile sub-soil the plantation is thrown back a couple of years.
+
+![Diagram of terraces and catch-pits on moderately sloping land.](5804ba406021ef7537c6acbfabae2e46_4_img.webp)
+ A cross-sectional diagram showing a slope with four trees planted in rows. The trees are spaced 4 feet apart, as indicated by dashed lines and the label "4 feet" above the slope. The ground is terraced, with each terrace level being 4 feet wide. Small rectangular catch-pits are dug into the terraces, with the soil from these pits being spread back onto the terraces.
+
+Fig 14.—TERRACES AND CATCH-PITS ON MODERATELY SLOPING LAND.
+
+For the rejuvenation of long cultivated soils it is certainly a good system, but it is a question whether it is also profitable and whether the little humus which remains may not be dissipated. Experiments have shown that this system cannot always be recommended in every case and that on loose sandy soils it may give bad results.
+
+![Diagram of terraces alone.](5804ba406021ef7537c6acbfabae2e46_7_img.webp)
+ A cross-sectional diagram showing a slope with four trees planted in rows. The trees are spaced 4 feet apart, as indicated by dashed lines and the label "4 feet" above the slope. The ground is terraced, with each terrace level being 4 feet wide. No catch-pits are shown in this diagram.
+
+Fig. 15.—TERRACES ALONE.
+
+Terraces can be formed by laying down weeds in lines between the rows. The earth that is washed away is held up by the weeds and so, by degrees, self-formed terraces are made. If the catch-pits are dug later, and the earth from them is spread above the weeds, this formation is accelerated.
+
+![Diagram of terraces sloping backward with or without catch-pits.](5804ba406021ef7537c6acbfabae2e46_10_img.webp)
+ A cross-sectional diagram showing a slope with four trees planted in rows. The trees are spaced 4 feet apart, as indicated by dashed lines and the label "4 feet" above the slope. The ground is terraced, with each terrace level being 4 feet wide. The terraces slope backward. A small rectangular catch-pit is shown being dug into one of the terraces, with the label "Catch here (Optional)" pointing to it.
+
+Fig. 16.—TERRACES SLOPING BACKWARD.  
+With or without Catch-pits.
+
+15------------------------------------------------
+
+82[AUGUST, 1925.
+
+In the narrow space allowed at present between the rows of tea plants there is hardly room for both terraces and pits. With a spacing of less than 4 ft. there should be either pits alone or terraces alone. Some planters make covered terraces on steep slopes, without catch-pits, while on more even land they make catch-pits without terraces. Where stones occur, these are arranged to make parapets or the sides of terraces
+
+We come now to a very important question, namely, cover planting of steep sides of terraces.
+
+This can hardly be done if the gardens are cleared of all weeds, for, in digging them up, the cover plants will also be destroyed every time.
+
+For cover planting many kinds of plants are used but it is recommended that preference be given to such Leguminosæ as indigofera, tephrosia, clitoria, etc., since these bring nitrogen to the soil at the same time.
+
+As a rule on many kinds of soil, especially clayey and stiff soils, the planting of Leguminosæ immediately after clearing, is recommended. On this subject reference can be made to the special paper by Dr. Bernard on Green Manures.
+
+Clitoria makes a specially strong hedge which, however, must often be cut. The stems that are cut should be laid behind the trunks so as to form with it a close hedge.
+
+A system that has been successfully used is to let the usual weeds (consisting of hundreds of different kinds) remain on steep terrace sides, but regularly to cut them short. In this process, the grasses are got rid of. Grasses appear to cause a poisoning of the soil and should not be tolerated in the neighbourhood of cultivated plants,
+
+A very great factor in the determining of a system of cover planting is the labour question. Planters should ask themselves: "Can I keep the cover plants regularly cut short?" Where there is no regular labour supply, covered terraces may cause very much trouble by the gardens becoming "dirty."
+
+The even portions of the terraces must naturally be kept as clean as possible and tilled a few times a year. For nursery beds terraces are surrounded by small drains in order to protect the seeds or small plants from being washed away. These drains and all beds may be given a slope of, say, 1 in 30 or, in 40, and the small drains then allowed to discharge their water into main drains.
+
+This would not be such a bad system for the gardens themselves if one could at least be certain of being able to have the little drains regularly kept open by cutting down the weeds on their sides and emptying them of the earth that has been washed into it.
+
+16------------------------------------------------
+
+AUGUST, 1925.]83
+
+Fertile soil can be brought to the gardens from the unplanted valleys and scattered there. This has often given incredibly good results, but it is enormously expensive. In British India this top-dressing of old gardens is practised.
+
+Finally it should be remarked that even the best system of the lay-out of gardens cannot counteract wash if the outlet drains are not regularly deepened and the terraces not regularly repaired. Special attention has to be paid to repair after heavy downpours.
+
+In the upkeep of tea gardens in maturity, the measures adopted when opening out are repeated, *viz.*, tilling in order to make the soil loose again, mending of the roads, ditches, terraces and outlet drains, and especially weeding, which is done in various ways.
+
+Generally weeding is done at intervals of  $1\frac{1}{2}$  to 2 months, according to the rapidity of the growth of the weeds. Most planters in Java are not supporters of clean weeding as this aids wash. It should be recommended only on land where the growth of weeds is so vigorous that the development of the plants of the main crop are hindered by them, and where the control of injurious weeds, especially illuk, is too difficult. Clean weeding is the best method to be recommended where illuk exists.
+
+The system of weeding that gives good results, especially on loose forest ground rich in humus, is selective weeding, whereby all bad weeds are eliminated and the good ones retained. This system is more difficult, and requires specially strict control, but it is better than clean weeding because, from the good weeds that are retained, a return is made to the humus of the soil, and at the same time the prejudicial influence of grasses which have always to be done away with is eliminated. Besides, in the so-called "dirty" gardens, the good weeds give the advantage of shade to the ground.
+
+After pruning (generally about every  $1\frac{1}{2}$ —2 years) tilling takes place; it is then easy to till the tea rows. The ground is dug up as deep as possible with the "mammoty" (generally with the "mammoty fork"), the ditches are emptied or deepened, terraces and drains are put in order, manures are used as required, gaps are interplanted and Leguminosæ are planted as desired. In short all measures for aerating the ground are applied, whereby water easily percolates into the lower layer of the ground, and metabolism takes place freely, so that new quantities of food stores are made available to the plants.
+
+All the working methods spoken of above are very expensive; if however they are applied with care, gardens will be found satisfactory and their increased yields will cover the expenses incurred. Besides, with intensive preparation, the maintenance of gardens, as has already been stated, is rendered easier, and the cost of upkeep is lowered.
+
+17------------------------------------------------
+
+84[AUGUST, 1925.
+
+## WASH IN TEA GARDENS.
+
+Dr. A. R. W. KERKHOVEN.\*
+
+People who have never seen the serious consequences of a lack of proper measures against wash in old tea gardens, cannot imagine what proportions they may assume.
+
+Water that will *not* flow over the surface is :
+
+1. *That which is naturally absorbed by the soil.* This is a very variable amount, varying with the nature of the soil.
+
+In the Pengalengan district, for instance, where the soil is spongy and very porous to a great depth, a shower of, say, 40 to 60 m.m. will be easily absorbed in a very short time.
+
+When the rain has been falling every day for a long period the less porous soils get soaked to such an extent, that they cannot absorb any more water. Only in the very porous soils can the absorption and percolation be depended upon to prevent the water from flowing over the surface.
+
+It is not wise to let the soil absorb too much water. This point will be considered later on.
+
+2. *That which is retained by "water-holes" or "catch pits."* In the less porous soils the "water-holes" remain full of water sometimes for a day or longer.
+
+Consequently the capacity of these "water-holes" should not be depended upon.
+
+Moreover, the abnormally heavy showers are not always polite enough to wait until the Manager has dug his "water-holes" to the prescribed depth !
+
+The calculated water-capacity of the holes should therefore be divided by two at least.
+
+If we take, say, a system of water-holes of 0.15 M. (6") broad, 0.40 M. (16") deep and 2.70 M. (8' 10") long, with 0.90 M. (3') between the holes, these being made between alternate rows of tea bushes planted in rows of 1.20 M. (approximately 4') apart, we come to 1150 holes per Hectare and 0.162 cubic Metre per hole.
+
+The combined capacity of all the holes per Hectare is 186 cubic Metres which corresponds with the amount of water that a shower of only 19 m.m. would deposit on the soil.
+
+It is clear that this amount is unimportant, especially if we can count on one-half of it only say 10 m.m.
+
+3. *Evaporation.* This factor may be neglected during the short duration of a heavy shower.
+
+*Summa summarum* we can subtract very little in calculating the amount which probably will flow over the surface.
+
+This however is all theory. In practice we see how much soil is yearly carried away when we observe the roots of tea bushes showing above the level of the ground.
+
+In fact the wash will become worse every year, if no preventive measures are taken, the lower strata of the soil being less and less porous.
+
+The amount of earth carried away by tropical rivers is the five or tenfold of the corresponding amount in European rivers.
+
+The wash is not only caused by the heavier showers but also by the clayey nature of many soils. The clay is "churned" by the heavy rain drops and is easily carried away. When the soil is covered with grass, weeds or Leguminosæ this "churning" is prevented.
+
+---
+
+\* Lecture delivered in Dutch before the Tea Congress.
+
+18------------------------------------------------
+
+AUGUST, 1925.]85
+
+This is the reason why creeping, soil-covering Leguminosæ are so useful in preventing wash.
+
+To a certain extent the leaves of trees also prevent the "churning action" by breaking the force of the falling raindrops, but the drip usually increases it.
+
+The various measures against wash with regard to their importance may be classified as follows :
+
+I. Contour-drains.
+
+II. Planting the tea in horizontal rows, with or without horizontal terraces.
+
+III. "Water-holes" or "catch pits."
+
+IV. Horizontal hedges of some sort: preferably Leguminosæ, or ground covering Leguminosæ.
+
+V. Regular upkeep.
+
+Of course all these measures against wash are much more important where the land is steep.
+
+In very flat land the wash is generally not serious, but in some cases this may be quite different. For instance, in some of the very flat tea districts of Sumatra (Siantar) the wash is extraordinarily difficult to prevent, although the soil has rather a sandy than a porous appearance.
+
+Let us consider what can be done in future to prevent wash when opening up a new estate.
+
+Initial mistakes and deficiencies are as a rule very difficult to correct, if at all, and will entail considerably additional expense.
+
+It is therefore an absolute necessity to work on a pre-determined and systematic plan from the very beginning.
+
+After the land has been cleared and hoed once, one should immediately commence to lay out *a system of roads*, not only of cart-roads, but also of garden roads.
+
+Time prevents me from enlarging upon this very interesting subject, which I have treated fully on former occasions. I shall treat the subject only in its connection with the prevention of wash. The following rules should be observed :
+
+1. Roads should not be supposed to act as drains, because the water will soon render them useless.
+
+Every road of course will receive a certain amount of water, but this should be carried off as quickly as possible.
+
+2. Thus, if possible, a contour drain should be made just above the road, in order to protect it against too much water.
+
+3. The so-called horizontal roads should not be made absolutely horizontal but sloping gently towards the valleys or "main-drains." If the slope is only below 1 in 40 very little damage to the road gutters is to be feared.
+
+The reason, that the roads should be laid out first of all is, that the contour drains should be made in such a way, that they do not carry water to the roads. Where a contour drain crosses a road special measures should be taken. If possible, however, these crossings should be avoided.
+
+19------------------------------------------------
+
+86[AUGUST, 1925.
+
+*Contour drains.* I have always advocated the use of contour drains on the fish-bone system, which will be explained further on.
+
+The action of these contour drains is very often only imperfectly understood.
+
+The principal idea is that they should carry off the surplus water which flows *over* the ground during the heavy showers, and that they should carry this water to the nearest valley or "main drain." But they have a very important secondary action: they also carry off the under-ground water and therefore more or less prevent the flow over the surface.
+
+If the showers are not too heavy it may be observed (if the drains are deep enough) that they begin to carry water very soon after the commencement of the shower and that this water is clear, *i.e.*, does not carry away any earth.
+
+If the drains are close enough to each other, they carry away so much of this under-ground water that only a very heavy shower will cause a loss of earth by flowing over the surface.
+
+The deeper the drains, the stronger the action. Consequently, do not make shallow drains, even if they are close together.
+
+The walls of the drains should, of course, be planted with creeping Leguminosae, harmless weeds (for instance *Hydrocotyle*) or grass of some sort which does not spread too easily.
+
+*Andropogon muricatus* Retz, which we call "djoekoet wangi" is sometimes used; it has a very large number of roots, which keep the particles of earth together.
+
+In making drains on the fish bone system it should be kept in mind:
+
+(a.) *that it is wrong to make the contour drains too long because the lower part will carry too much water and will overflow, causing considerable damage.*
+
+In order to make the drains as short as possible, they should slope towards the valleys, or towards the lower parts of the "folds" in the land, where the "main-drains" should be made.
+
+(b.) *The slope of the contour-drains depends upon the nature of the soil.* Never give the drains a steeper slope than 1 in 25, as otherwise the velocity of the water becomes too great and the drain will be washed out.
+
+If the slope is less than 1 in 40 or 1 in 60 (depending upon the soils,) the velocity of the stream will be too small, deposits of earth, leaves, etc., will result, clogging the drain and causing overflows.
+
+In heavy, clayey soils 1 in 25 is advisable; in loose porous soils 1 in 40 and in *very* loose soils 1 in 60.
+
+To prevent earthing up, deep "catch-holes" may be made in the drain at frequent intervals; these should be dug out frequently.
+
+The earth from these holes may be spread out in the gardens.
+
+(c.) *The valleys are the natural drains* and therefore the "main-drains" should be made in the valleys.
+
+Some people object that valleys, as a rule, have the most fertile soil; this is true, but they should be drained, fertile soil when water-logged being useless for tea.
+
+20------------------------------------------------
+
+AUGUST, 1925.]87
+
+Water tends towards the valleys and if deep drains are made in the valleys there is no danger of a "break-through."
+
+Consequently it is wrong to make the "main-drains" on the ridges.
+
+The "main-drains" are usually rather steep, objections being sometimes raised that they are soon washed out and cause small landslides. This is true to a certain extent, but it is better to localise the "wash-outs" than to have them all over the garden (if no drains are made) and thus lose the fertile upper part of the soil.
+
+The sides and bottom of the main-drains should be kept covered with grass and if this alone cannot prevent the drains getting too deep, small dams of wood or bamboo, or better still, living branches of "dadap" (*Erythrina liliosperma* Miq.), "kirinjoeh" (*Eupatorium pallescens* D. C.), "handeuleum" (*Graptophyllum hortense* Nees) etc., can be made. Sometimes a stone-dressing may be used to advantage.
+
+Where no sufficient number of natural valleys or "folds" are available it is necessary to make the main-drains at distances of not more than 100 to 200 yards apart.
+
+This is the "herring-bone" system, which I have used in all my younger gardens and which has given complete satisfaction.
+
+Lack of time forces me to omit a description of other systems, which although very interesting, are in my opinion less effective.
+
+*Water-holes.* I have already mentioned their capacity. The advantages of the water-holes, which are used extensively in Java, are as follows:—
+
+(1) They collect a certain amount of rain-water, which will slowly percolate into the soil and therefore effectively prevent wash if the showers are not too heavy and if the holes are dug out at frequent intervals. In doing this, the earth should be spread *above* the hole, not below. Thus the earth is returned to the place it came from and there is no loss.
+
+(2) When making the holes a certain amount of earth from the lower strata is brought up and after sufficient weathering supplies reserve food.
+
+(3) The lower strata are brought into contact with the atmosphere and the soil is better aerated.
+
+I do not approve of the system of filling the holes with prunings and digging new holes every time the garden is pruned, because then too much damage is done to the roots.
+
+Water-holes should be made between every 2 rows of tea, not between 3 or 4 rows. They should not be too long, as otherwise the water will accumulate in the lower part and overflow, if they are not absolutely horizontal.
+
+In extremely stiff soils very deep and broad holes are useful, but they are very difficult to make and expensive. As they effectively prevent wash, they are not so soon filled with earth as the smaller holes and therefore the upkeep is relatively cheap.
+
+The improved aeration certainly *increases the yield* of tea gardens on very stiff soils.
+
+Formerly the water-holes were made short and in each row, but "staggered." This is a good system for obvious reasons, but it is rather
+
+21------------------------------------------------
+
+88[AUGUST, 1925.
+
+troublesome during plucking and it does not allow us to plant continuous hedges of Leguminosae.
+
+In order to make the use of water-holes possible, the rows of tea should not be too close together.
+
+*Too close planting is in any case a grave blunder* as every individual tea plant has insufficient room above and under the soil to develop properly and to obtain the necessary plant food, air, and sunshine.
+
+Wider planting is also necessary if we wish to make use of *terraces* and *hedges of Leguminosae*.
+
+The *hedges of Leguminosae* should be planted in the rows where no water-holes occur. *Leucaena glauca*, if frequently pruned fairly low, makes splendid hedges. The prunings should be laid behind the hedges, in order to catch the earth.
+
+This is not the place to enlarge upon the *advantages of Leguminosae* in tea gardens. It is sufficient to say that they improve the structure of the soil in many ways and therefore make it more porous, thereby preventing wash very effectively.
+
+*Terraces.* The opinions of planters on the adequacy of terraces are much divided.
+
+My opinion is that terraces are very useful on gently sloping land, but not absolutely necessary. The sides should be kept covered with good weeds or creeping Leguminosae like *Vigna oligosperma*; hedges of Leguminosae like *Leucaena glauca* may be planted on the edges of the terraces.
+
+They may be used in conjunction with contour-drains and water-holes, but in any case they should be made perfectly horizontal.
+
+Sloping terraces are worse than useless, as they carry water and increase wash.
+
+In very steep places contour-drains and water-holes are useless, and horizontal terraces with properly protected slopes are the only practical solution of the problem.
+
+When opening up new gardens on very steep soil it is a good system to dig fairly deep horizontal trenches and fill them with good fertile upper soil, in which the young tea plants are sure to thrive.
+
+The best system for keeping the slopes in repair is to plant them with some sort of creeping Leguminosae; *Vigna oligosperma* is very good and it improves the soil wonderfully.
+
+*Vigna*, however, requires a fine loose soil and sometimes it has to be aided with a little ashes or manure to make it grow.
+
+Green manuring will be treated so exhaustively at this Congress, that it is not necessary to say more about it here.
+
+I only wish to state here, that the extensive use of green manuring always diminishes the wash, the ground covering Leguminosae retaining a large amount of water or preventing too much percolation thus also preventing the "washing-out" of the soil, which, in some cases, is even worse than the surface-wash.
+
+The water percolating to the deeper strata carries away a lot of easily soluble plant food, of which only a small part comes back through the capillary action of the soil during the dry monsoon.
+
+22------------------------------------------------
+
+AUGUST, 1925.]89
+
+Therefore do not force the soil to absorb too much water by depending on water holes only.
+
+Let the surplus water flow away as much as possible, but prevent it doing damage by the means described above.
+
+"Clean weeding" in the past has been the principal cause of wash. Its disadvantages have been stated so often that I hope that now it is a thing of the past!
+
+Economization of the expenses for the upkeep of the various measures against wash leads to a rapid loss of soil capital!
+
+In choosing a preventive system of means against wash, the labour question is very important; time however does not permit this problem to be treated here.—Proceedings of the Tea Congress, Bandoeng, 1924.
+
+## PROPOSED SOIL EROSION EXPERIMENT AT THE EXPERIMENT STATION, PERADENIYA.
+
+T. H. HOLLAND, M.S.E.A.C.,
+
+*Manager, Experiment Station, Peradeniya.*
+
+There are two areas available, each capable of sub-division into a maximum of 6 plots 15 feet wide by 96 feet long, the length running down the slope. Both areas are planted in tea. In view of the fact that the slope in one area is steeper than in the other it is considered that the one set of 6 plots could not be used as duplicates of the other set. The proposal is therefore to duplicate two methods of treatment in one area and another two methods in the other area. The following treatments are proposed :—
+
+### *Area A (very steep)*
+
+<table border="0">
+<tbody>
+<tr>
+<td>Plot</td>
+<td>1.</td>
+<td>Continuous cover of <i>Indigofera endecaphylla</i>.</td>
+</tr>
+<tr>
+<td>"</td>
+<td>2.</td>
+<td>Control.</td>
+</tr>
+<tr>
+<td>"</td>
+<td>3.</td>
+<td>Thick contour hedges of <i>Clitoria cajanifolia</i>; about 4 feet between hedges; the tea bushes to be utilised to form part of these hedges where possible.</td>
+</tr>
+<tr>
+<td>"</td>
+<td>4.</td>
+<td>Duplicate of 1</td>
+</tr>
+<tr>
+<td>"</td>
+<td>5.</td>
+<td>" " 2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>6.</td>
+<td>" " 3</td>
+</tr>
+</tbody>
+</table>
+
+In this area the tops of the plots will coincide with the edge of a path. This path has a good drain on the upper side and no further precautions would be required to prevent entrance of wash from above the plots.
+
+### *Area B (not so steep)*
+
+<table border="0">
+<tbody>
+<tr>
+<td>Plot</td>
+<td>1.</td>
+<td>Envelope forking up every line once a year.</td>
+</tr>
+<tr>
+<td>"</td>
+<td>2.</td>
+<td>Control.</td>
+</tr>
+<tr>
+<td>"</td>
+<td>3.</td>
+<td>Silt pits in drains.</td>
+</tr>
+<tr>
+<td>"</td>
+<td>4.</td>
+<td>Duplicate of 1</td>
+</tr>
+<tr>
+<td>"</td>
+<td>5.</td>
+<td>" " 2</td>
+</tr>
+<tr>
+<td>"</td>
+<td>6.</td>
+<td>" " 3</td>
+</tr>
+</tbody>
+</table>
+
+In this area a low wall at the top of the plots will be required, to keep wash from above entering the plots.
+
+It is proposed to have contour drains in each plot, including the control plot. Area A would have five drains in each plot 20 ft. apart, the top drain to be 8 ft. from the top of the plot at its highest end and the bottom drain 8 ft. above the catch pits. These distances cannot be rigidly adhered to as it will be necessary to avoid existing tea bushes and *Gliricidia* trees.
+
+23------------------------------------------------
+
+90[AUGUST, 1925.
+
+Area B would have four drains 27 ft. apart, the top drain 7'6 in. from the top of the plot and the bottom drain 7'6 in. from the catch pit. Each drain would be led into a paved and cemented down drain leading into the catch pit at the bottom of the plot. The paving of the down drains will avoid the complication of erosion in the down drains themselves. With regard to the silt pits, it is proposed to locate these in the drains, as this is believed to be easiest and most commonly adopted method of using silt pits in tea. In drains only 15 ft. long however their arrangement is somewhat difficult. It is proposed to have only one silt pit 3 ft. long by 1 ft. deep in each drain at the lower end of the drain. If a second pit were inserted in such a short length of drain there would be no normal flow of water in the drain before the pit was reached. All the drains would be cleaned out periodically in the normal manner, and the silt pits should be cleaned out if possible before they overflow, otherwise their full value cannot be gauged. Clean weeding would be practised throughout, except in the *Indigofera* plot where hand weeding would be employed till a thick cover was established.
+
+The existing shade trees (*Gliricida maculata*) would be left standing in all plots.
+
+It is proposed to isolate each plot by a low wall on the edge of the down drain. The other edge of the down drain is also to be provided with a low wall to prevent direct entrance of water and silt at places other than the entrance of the drains. The plan of a plot in area A will therefore be as follows:—
+
+If the low walls at the side of the down drains are one brick wide (4 in.) the actual remaining width of a plot will only be 13 ft.
+
+It is proposed to occupy the remainder of 1925 with experimenting as to the necessary size of the catch pits and the best methods of measuring results; filling in the old drains and digging the new drains; building the catch pits, down drains and dividing walls. During 1926 the wash from each plot would be measured and yields recorded in its then existing condition; that is with the new drains dug, but no other treatment applied to the plots (the condition of the future control plots). In 1927 the treatments would be applied and wash and yields recorded both during the establishment of the new conditions and after.
+
+24------------------------------------------------
+
+AUGUST, 1925.]91
+
+## THE INTERPRETATION OF MANURING EXPERIMENTS ON TEA.
+
+N. M. MACGREGOR, D.Sc., B.Sc.,
+
+*Advisory Officer, Indian Tea Association.*
+
+Although a certain amount of information regarding the requirements of a soil may be obtained by studying the mechanical and chemical analysis, such information is necessarily very limited chiefly because chemical methods do not measure with any accuracy the food which is available to the plant. Chemical analyses can only be translated in the light of practical experiments but here again little reliable information is to be had with regard to tea.
+
+It is for instance known that an application of nitrogen in a tea soil will in most instances produce an increase in crop, but the optimum quantity to apply and the best form in which to apply it will depend on the nature of the soil and can only be found by experiment.
+
+With regard to the other two important plant foods, potash and phosphoric acid, very little knowledge indeed has been obtained by direct experiment on tea soils.
+
+In selecting a block of tea for experiment, we have first to choose plants in such a state that great variation in yield due to factors other than manuring may not be expected. For example, with either immature young tea, or with tea recently cut back, the yield increases so quickly that the small increase due to manuring is relatively small and difficult to detect. In any case mature tea is the better subject for experiment since it occupies the greatest portion of the area of most gardens, and one cannot be certain that results obtained on young tea would be true also for old tea.
+
+With single plot experiments there is always the possibility that an increase or decrease in yield may be due to some agency other than the fertilizer applied and unless the experiment is repeated two or three times there is no indication as to the accuracy of the result.
+
+The experiments quoted below have only been in progress for two years and it cannot be expected that a great deal of information will have been acquired. For this reason it is proposed to treat the subject rather from the point of view of the interpretation of results than from the results themselves.
+
+In every case the trials are repeated in triplicate and the plots,  $\frac{1}{10}$ th of an acre in area, are 6 bushes wide. This is a convenient size of plot as it can if necessary be plucked by one woman in a morning. The shape is convenient as the whole set of plots can be arranged parallel and near to a road whilst patches of bad soils are less likely to interfere and make one plot vary greatly from another than would be the case if square plots were used.
+
+In 1922 the plots were staked out and the leaf weighed every seven days to ascertain the initial fertility, that is, the initial differences existing between the plots being individually manured.
+
+25------------------------------------------------
+
+92[AUGUST, 1925.
+
+### INITIAL FERTILITY.
+
+In experiments with annual crops it has not been found that small differences in soil fertility previous to a manurial experiment have much effect on the result of the trial, because the germination of a seed is so entirely dependent upon the soil and weather conditions prevailing at the time of sowing. An area of soil which shows a poor fertility in a year of heavy rainfall may in the following year possess average fertility by reason of a smaller or better distributed rainfall.
+
+In the case of a tea bush the combined effect of many successive years masks the climatic variations from year to year and the resulting bush is, in comparison with its neighbours, a fair indication of the fertility of the soil on which it grows.
+
+The ideal piece of tea for experimental purposes would be an area which could be divided up into the required number of plots all giving equal yields. In practice this is never possible, and in spite of every care and consideration having been taken in choosing the areas now under experiment so that shade trees, drains, slopes and the general health of the bushes were as uniform as possible, it was disappointing to find that a variation of as much as 20 per cent, frequently existed in the mean yields of the plot-sets. The term plot-set is used to denote those three plots which receive the same manurial treatment. A difference as great as 20 per cent, would, in most cases, entirely mask the results of any manures which might subsequently be added during the first two or three years.
+
+As an example of this the figures of an experiment carried out on ten-year old tea, pruned to two or three inches of new wood each successive year, may be quoted. The initial fertilities as represented by the total year's yield, were as follows:—
+
+<table>
+<thead>
+<tr>
+<th>Plot letter</th>
+<th>A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Series 1</td>
+<td>- 174</td>
+<td>163</td>
+<td>129</td>
+<td>127</td>
+<td>145</td>
+<td>134</td>
+</tr>
+<tr>
+<td>Series 2</td>
+<td>- 120</td>
+<td>116</td>
+<td>157</td>
+<td>166</td>
+<td>99</td>
+<td>129</td>
+</tr>
+<tr>
+<td>Series 3</td>
+<td>- 123</td>
+<td>106</td>
+<td>93</td>
+<td>113</td>
+<td>102</td>
+<td>90</td>
+</tr>
+</tbody>
+</table>
+
+The average for each plot-set is—
+
+139 128 127 135 115 118 (i)
+
+Throughout the experiments detailed below, the A plots have been taken as the check plots. Then for E to show an increase on A, it will be necessary for it to give a comparative increase of more than 24 lb. which is over 20 per cent. on the yield.
+
+In the following year (1923) C, D, E and F were manured with increasing quantities of nitrogen whilst all but the check plot received equal dressings of potash and phosphoric acid. The resulting yields given by these plots were then as follows:—
+
+<table>
+<thead>
+<tr>
+<th>Plot letter</th>
+<th>A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Series 1</td>
+<td>- 201</td>
+<td>193</td>
+<td>188</td>
+<td>180</td>
+<td>227</td>
+<td>246</td>
+</tr>
+<tr>
+<td>Series 2</td>
+<td>- 133</td>
+<td>150</td>
+<td>197</td>
+<td>232</td>
+<td>152</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Series 3</td>
+<td>- 136</td>
+<td>141</td>
+<td>115</td>
+<td>165</td>
+<td>165</td>
+<td>160</td>
+</tr>
+</tbody>
+</table>
+
+The average for each plot-set is—
+
+157 161 167 192 181 202 (ii)
+
+26------------------------------------------------
+
+AUGUST, 1925.]93
+
+It happens in this case that the increase produced by the nitrogenous manure was so great that it has overcome the initial difference which existed between E and A, nevertheless the crop shown by plot E breaks the steady increase from A to F and the apparent depression at E could not be explained without the initial fertility records.
+
+The initial fertility curve and the curve showing the actual yields after manuring are shown on curve (i) and (ii) respectively in the diagrams.
+
+### THE CORRECTION OF RESULTS.
+
+In order to get a true measure of the effect of manures on these plots it is obvious that consideration must be given to the initial yields. However, the best method of estimating the influence of this yield is not easy to find. It is conceivable that the result of manuring might be an additive one. In that case the following correction to the plot-set E yield might be applied. Thus, in the initial fertility year the check plots A gave an average of 139 lb. whilst the average of the E plots was 115 lb. Here the A plot-set has a start of 24 lb. on the E plot-set and for a true comparison of the yield after manuring this 24 lb. start should be added to the crop given by the E plot-set. Then we say that the corrected yield for the E plot-set is  $181 + 24 = 205$  lb.
+
+Similarly if all the plots are corrected the following results are obtained :—
+
+<table>
+<thead>
+<tr>
+<th>A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>157</td>
+<td>172</td>
+<td>179</td>
+<td>196</td>
+<td>205</td>
+<td>223</td>
+</tr>
+</tbody>
+</table>
+
+A, being the check, does not change of course. It will be noticed that a steady increase is now shown from A to F as the amount of fertilizer increases. These values are shown on curve (iii) of the diagram.
+
+The difference in the initial yields are in the main due to the size and health of the bushes and only to a small extent to the actual plant food or soil condition maintaining during the experiment. It cannot therefore be expected that a plot on which the bushes are small will give the same numerical increase as one on which all the bushes are large; for, with a small bush, the root development is such that only a small part of the manures added can be assimilated by the plant.
+
+It is more reasonable to expect that the increase from manuring will be *proportional* to the initial fertilities and that for a given plot with a given manure a definite percentage increase will be obtained and not a purely additional one.
+
+This correction is made by expressing the manured yield of each plot as a percentage of the initial yield. Considering again the E plots we see that in the initial fertility year they gave an average yield of 115 lb. and in the manured year an average of 181 lb. of leaf. The manured yield therefore was 157.4 per cent. of the initial yield.
+
+Similarly for all the plot-sets the percentage increases in the second year were as follows :—
+
+<table>
+<thead>
+<tr>
+<th>A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>112</td>
+<td>127</td>
+<td>132</td>
+<td>142</td>
+<td>157</td>
+<td>172</td>
+</tr>
+</tbody>
+</table>
+
+The values show a slightly smoother gradation than when the additive increases were considered. Curve (iv) illustrates these values.
+
+27------------------------------------------------
+
+94[AUGUST, 1925.
+
+Of curves (iii) and (iv) we must determine which gives the truest interpretation of the experimental result without resorting to the dangerous method of choosing that curve which is most in line with expectations. This may be done by finding out which method gives the lowest percentage probable errors, provided as is here the case that each experiment has been repeated at least three times.
+
+#### PROBABLE ERROR.
+
+When an experiment is repeated a sufficient number of times the probable error of the mean result ( $PEm$ ) may be found from the formula :—
+
+$$PEm = .67 \sqrt{\frac{S d^2}{n(n-1)}}$$
+
+where  $S d^2$  is equal to the sum of the squares of the differences of each individual result in a given plot-set from the mean of that plot-set, and  $n$  is equal to the number of times that the experiment is repeated.
+
+If, however, as in the case considered, the experiment is carried out only in triplicate it is doubtful whether the figure arrived at from the above equation is of any real value as it stands ; but we may find that the average percentage  $PEm$  of a plot-set is considerably lower when one method is used for correcting results than another, or, if little or no correlation exists between the initial fertility and the manured yield, then we shall find that the  $PEm$  figure is raised and not lowered by any correction.
+
+Thus in the experiment already quoted we get the following result by considering the actual yields given by the check plots in 1923.
+
+The actual yields are 201, 133 and 136 lb. and the mean of these three values is 157. Then—
+
+<table>
+<thead>
+<tr>
+<th>Actual yields.</th>
+<th>Difference from mean (<math>d</math>).</th>
+<th>Square of difference (<math>d^2</math>).</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>201</td>
+<td>44</td>
+<td>1,936</td>
+</tr>
+<tr>
+<td>133</td>
+<td>24</td>
+<td>576</td>
+</tr>
+<tr>
+<td>136</td>
+<td>21</td>
+<td>441</td>
+</tr>
+<tr>
+<td>Mean=157</td>
+<td colspan="2">Sum of <math>d^2</math> (<math>S d^2</math>)=2,953</td>
+</tr>
+</tbody>
+</table>
+
+In the equation above we may substitute 3 for  $n$ , then  $n(n-1)$  becomes  $3 \times 2 = 6$ . We are now able to solve the equation and we find that—
+
+$$PEm = .67 \times \sqrt{\frac{2,953}{6}} = 14.9$$
+
+Then since the mean of the actual yields was 157 and the probable error of this figure is 14.9, the percentage probable error is 9.5.
+
+Similarly for all the plot-sets the following percentage probable errors are obtained.
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><math>PEm</math> %</td>
+<td>9.5</td>
+<td>6.6</td>
+<td>10.4</td>
+<td>7.0</td>
+<td>8.6</td>
+<td>8.2</td>
+</tr>
+</tbody>
+</table>
+
+So that the average  $PEm$  percentage for the uncorrected curve is 8.4. This means that any value of the series is liable to be on the average incorrect by 8.4 per cent.
+
+If we consider the values given by the additively corrected yields the probable error of the mean is 2.52 per cent. whilst that of the percentage corrected curves is only 1.73 per cent. These last figures hence are the truest of the three sets.
+
+28------------------------------------------------
+
+AUGUST, 1925.]
+
+95
+
+Diagram.
+
+Showing the actual increase in crop return due to manuring and the interpretation of this increase with regard to initial fertility
+
+![A complex diagram showing the relationship between crop yield, manuring, and fertility. It includes a graph with 'Plot Number' on the x-axis and 'Percentage increase over initial yield' on the y-axis. The graph shows 'Actual yield' and 'After manuring' lines, with 'Curve I' through 'Curve IV' representing different fertility levels. A secondary graph on the left shows 'lbs. green leaf' vs 'Percentage increase over initial yield'.](f05427c0641723121f5ce5a212e6d1f7_5_img.webp)
+
+The diagram consists of two main parts. The upper part is a line graph with 'Plot Number' (1 to 6) on the x-axis and 'Percentage increase over initial yield' (100% to 180%) on the y-axis. It shows two lines: 'Actual yield' and 'After manuring'. The 'After manuring' line is consistently above the 'Actual yield' line. Four curves are plotted: Curve I, Curve II, Curve III, and Curve IV, which represent different levels of initial fertility. The lower part of the diagram is a smaller graph with 'lbs. green leaf (in connection with curves I, II & III)' on the y-axis (100 to 240) and 'Percentage increase over initial yield' on the x-axis (100% to 180%). It shows a line labeled 'Initial yield' and a line labeled 'Correction'.
+
+<table border="1">
+<caption>Estimated data for the upper graph (Percentage increase over initial yield vs Plot Number)</caption>
+<thead>
+<tr>
+<th>Plot Number</th>
+<th>Actual yield (%)</th>
+<th>After manuring (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>100</td><td>100</td></tr>
+<tr><td>2</td><td>105</td><td>110</td></tr>
+<tr><td>3</td><td>110</td><td>115</td></tr>
+<tr><td>4</td><td>115</td><td>120</td></tr>
+<tr><td>5</td><td>120</td><td>125</td></tr>
+<tr><td>6</td><td>125</td><td>130</td></tr>
+</tbody>
+</table>
+
+<table border="1">
+<caption>Estimated data for the lower graph (lbs. green leaf vs Percentage increase over initial yield)</caption>
+<thead>
+<tr>
+<th>Percentage increase over initial yield (%)</th>
+<th>lbs. green leaf (in connection with curves I, II &amp; III)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>100</td><td>100</td></tr>
+<tr><td>110</td><td>110</td></tr>
+<tr><td>120</td><td>120</td></tr>
+<tr><td>130</td><td>130</td></tr>
+<tr><td>140</td><td>140</td></tr>
+<tr><td>150</td><td>150</td></tr>
+<tr><td>160</td><td>160</td></tr>
+<tr><td>170</td><td>170</td></tr>
+<tr><td>180</td><td>180</td></tr>
+</tbody>
+</table>
+
+29------------------------------------------------
+
+96[AUGUST, 1925.
+
+In another experiment conducted on the same lines as the above, the plots were manured with increasing quantities of potash. The results were not in accordance with expectation in that the curve presented a broken appearance and did not show a steady rise or fall with increasing quantities of potash applied as manure.
+
+On examination of the probable errors it was found that the corrected results were less reliable than the uncorrected ones, the reason being that the tea had received a heavy prune at the end of the initial fertility year and the factors influencing the speed with which the bushes came away were not the same as those which caused the initial differences in yield between the various plots. Therefore tea which is under experiment should only be top pruned so that the frame of the bush is preserved as far as is possible.
+
+The point which it is desired to emphasize is that any corrections may be applied which tend to lower the probable error of the experiment provided such corrections hold for the whole experiment.
+
+In both the above experiments the applications of manure were such that a smooth curve might be predicted and we should not be liable to any great error if we choose that curve which appears to be the smoother. But where it is desired to find out in what form a plant food is most beneficial, the form of the curve cannot be anticipated and the result deduced from the yields themselves may be entirely the reverse of those shown by a curve corrected for initial fertilities.
+
+Thus an experiment was made using five different forms of nitrogenous fertilizer, each plot receiving the same amount of Nitrogen, Potash and Phosphate. The Nitrogen being applied as follows:—
+
+<table>
+<thead>
+<tr>
+<th>Plot-Set A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No<br/>nitrogen</td>
+<td>Nitrolim</td>
+<td>Ammonium<br/>Sulphate</td>
+<td>Oil-<br/>cake</td>
+<td>Fish<br/>guano</td>
+<td>Animal<br/>meal</td>
+</tr>
+</tbody>
+</table>
+
+The yields from these plot-sets in 1923, the manured year, were:—  
+lb. of leaf—285      316      300      341      316      298
+
+It is seen that the greatest yield is given by the oilcake plot and the smallest by the animal meal.
+
+When these yields are expressed as percentage of the corresponding initial fertility yields the order of efficiency is entirely changed and the figures obtained are as follows:—
+
+<table>
+<thead>
+<tr>
+<th>A.</th>
+<th>B.</th>
+<th>C.</th>
+<th>D.</th>
+<th>E.</th>
+<th>F.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>149 %</td>
+<td>156 %</td>
+<td>160 %</td>
+<td>161 %</td>
+<td>161 %</td>
+<td>166 %</td>
+</tr>
+</tbody>
+</table>
+
+The probable error of the experiment deduced from the yields is 4.73 per cent. whilst that deduced from the percentage figures is only 1.8 per cent. A truer interpretation, therefore, is shown by the corrected curve than by the curve plotted from the yields themselves. Interpreted in this way it appears that animal meal has produced the biggest relative increase, although the animal meal plot is still giving less crop than any other manured plot. The average increase produced by one year's manuring is however only 8 per cent., an increase too small to be accurately measured when three plots only are used for each experiment, so that the actual increase calculated by the above method can only be regarded as approximate.
+
+It is certain however that these figures are a much truer index to the action of the manures than the crop yields themselves uncorrected for initial fertility.—Quarterly Journal of the Scientific Department of the Indian Tea Association, Part IV, 1924.
+
+30------------------------------------------------
+
+AUGUST, 1925.]97
+
+# RUBBER.
+
+## RUBBER TAPPING EXPERIMENTS, HENARATGODA.
+
+**F. A. STOCKDALE, C.B.E., M.A., F.L.S.,**
+
+*Director of Agriculture, Ceylon.*
+
+These experiments were started in April 1923, upon a block of rubber planted in 1913. The trees available were divided into three groups of 20 trees each. The average girths of the groups were as follows:—Group 1—36.25 inches, Group 2—36 inches, Group 3—36.75 inches. Group 1 was tapped on one-third circumference with a single cut to the left at an angle of  $16^\circ$  starting at its lowest point at a height of 24 inches from the ground. Group 2 was similarly tapped on one half circumference, and Group 3 on  $\frac{1}{4}$  circumference. The experiments were designed to test the relative values in yield of rubber from tappings on  $\frac{1}{2}$ ,  $\frac{1}{3}$ , and  $\frac{1}{4}$  circumferences.
+
+The tapping has been done by one tapper on alternate days throughout the year (Sundays included), and records for the individual tree yields have been kept. The results in grammes for the 21 months (April 1923 to December 1924) are given in the annexed tables.
+
+From these figures the following facts may be ascertained:—
+
+### Ratios Between Yields for Nine Months in 1923 and Yields for 12 Months in 1924.
+
+<table>
+<thead>
+<tr>
+<th colspan="2"></th>
+<th colspan="2">grammes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1923</td>
+<td>Half circumference</td>
+<td>24,944</td>
+<td>= 100</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>" "</td>
+<td>42,529</td>
+<td>= 170</td>
+</tr>
+<tr>
+<td colspan="4"><hr/></td>
+</tr>
+<tr>
+<td>1923</td>
+<td>Third circumference</td>
+<td>19,986</td>
+<td>= 100</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>" "</td>
+<td>33,484</td>
+<td>= 167.5</td>
+</tr>
+<tr>
+<td colspan="4"><hr/></td>
+</tr>
+<tr>
+<td>1923</td>
+<td>Quarter circumference</td>
+<td>13,129</td>
+<td>= 100</td>
+</tr>
+<tr>
+<td>1924</td>
+<td>" "</td>
+<td>24,765</td>
+<td>= 188.6</td>
+</tr>
+</tbody>
+</table>
+
+From these figures it is seen that the relative ratios for the quarters is somewhat in excess of those for the thirds and halves.
+
+### PROPORTIONATE YIELDS.
+
+<table>
+<tbody>
+<tr>
+<td>1923</td>
+<td><math>\frac{1}{2}</math></td>
+<td>:</td>
+<td><math>\frac{1}{3}</math></td>
+<td>:</td>
+<td><math>\frac{1}{4}</math></td>
+<td>=</td>
+<td>24,944</td>
+<td>:</td>
+<td>19,986</td>
+<td>:</td>
+<td>13,129</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>=</td>
+<td>100</td>
+<td>:</td>
+<td>76.5</td>
+<td>:</td>
+<td>52.7</td>
+</tr>
+<tr>
+<td>1924</td>
+<td><math>\frac{1}{2}</math></td>
+<td>:</td>
+<td><math>\frac{1}{3}</math></td>
+<td>:</td>
+<td><math>\frac{1}{4}</math></td>
+<td>=</td>
+<td>42,529</td>
+<td>:</td>
+<td>33,484</td>
+<td>:</td>
+<td>24,765</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>=</td>
+<td>100</td>
+<td>:</td>
+<td>78.7</td>
+<td>:</td>
+<td>58.8</td>
+</tr>
+</tbody>
+</table>
+
+These figures show an improvement in the yields secured from the tappings in the year 1924. They also show a marked superiority in the yields of the tappings of the thirds over what would have been expected. An analysis of the individual yields shows that this is due to abnormally high yields from one tree in 1923 and from two trees in 1924. If their yields are eliminated from the averages the ratios stand at 73.1 in 1923 and 68.8 in 1924.
+
+31------------------------------------------------
+
+98[AUGUST, 1925]
+
+### FREQUENCY OF YIELDS.
+
+If an examination is made of the frequency of yields, due allowance being given to the units of bark removed, the following figures are obtained :—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3"></th>
+<th rowspan="3"></th>
+<th rowspan="3"></th>
+<th rowspan="3"></th>
+<th rowspan="3"></th>
+<th colspan="6">Number of Trees.</th>
+</tr>
+<tr>
+<th colspan="4">1923</th>
+<th colspan="2">1924</th>
+</tr>
+<tr>
+<th><math>\frac{1}{4}</math></th>
+<th><math>\frac{1}{3}</math></th>
+<th><math>\frac{1}{2}</math></th>
+<th>1</th>
+<th><math>\frac{1}{3}</math></th>
+<th><math>\frac{1}{2}</math></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Under</td>
+<td>400</td>
+<td>532</td>
+<td>800</td>
+<td>grammes</td>
+<td>4</td>
+<td>4</td>
+<td>7</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Up to</td>
+<td>600</td>
+<td>798</td>
+<td>1,200</td>
+<td>„</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+<td>—</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>800</td>
+<td>1,064</td>
+<td>1,600</td>
+<td>„</td>
+<td>5</td>
+<td>6</td>
+<td>2</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td>1,000</td>
+<td>1,333</td>
+<td>2,000</td>
+<td>„</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>1,200</td>
+<td>1,596</td>
+<td>2,400</td>
+<td>„</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td>1,400</td>
+<td>1,862</td>
+<td>2,800</td>
+<td>„</td>
+<td>—</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>1,600</td>
+<td>2,128</td>
+<td>3,200</td>
+<td>„</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td>1,800</td>
+<td>2,394</td>
+<td>3,600</td>
+<td>„</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td></td>
+<td>2,000</td>
+<td>2,666</td>
+<td>4,000</td>
+<td>„</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>2,200</td>
+<td>2,926</td>
+<td>4,400</td>
+<td>„</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>above</td>
+<td>2,400</td>
+<td>3,132</td>
+<td>4,800</td>
+<td>„</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>2</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+These figures show that the group being tapped on  $\frac{1}{2}$  has the largest percentage of low yielders while the group being tapped on  $\frac{1}{3}$ rd has two outstanding yielders. The group tapped on  $\frac{1}{4}$  was more uniform in individual yields than the other two groups in 1923, but in 1924, the range of individual yields in this group widened considerably and this accounts for the relative increase in yield in favour of this group. Similarly, the relatively high yields in the group tapped on the thirds is due to the yields from two high yielders.
+
+### PROPORTION OF SCRAP.
+
+The percentage of scrap on total rubber is shown in the following table :—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1923</th>
+<th>1924</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quarters</td>
+<td>10.1%</td>
+<td>11.3%</td>
+</tr>
+<tr>
+<td>Thirds</td>
+<td>10.0%</td>
+<td>9.5%</td>
+</tr>
+<tr>
+<td>Halves</td>
+<td>14.2%</td>
+<td>14.5%</td>
+</tr>
+</tbody>
+</table>
+
+Although these percentages are fairly constant, an examination of the individual yields show that, whereas some trees give very low percentages of scrap, others give a very high percentage.
+
+### CONCLUSIONS.
+
+It would be unsafe to draw any definite conclusions from an experiment conducted for a limited period with a small number of trees in single groups showing markedly different individual yields. The group tapped on thirds shows the highest relative figures, but this is shown to be due to the presence in this group of abnormally high yielders. Tapping on two quarters instead of upon one half would be expected to give increased yields, but it is questionable whether this yield might not be in the form of scrap rather than in the form of first quality rubber. Such an increase—in the form of scrap—would not warrant the adoption of this method which involves greater labour unless it is found that bark renewal is very considerably better.
+
+These results clearly demonstrate the necessity of a very large amount of duplication in tapping experiments with rubber if the errors due to the individuality of the trees is to be eliminated.
+
+32------------------------------------------------
+
+AUGUST, 1925.]
+
+99
+
+**HENARATGODA RUBBER TAPPING RESULTS.**
+
+*April to December 1923.*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">No. of Tree.</th>
+<th colspan="2">April</th>
+<th colspan="2">May</th>
+<th colspan="2">June</th>
+<th colspan="2">July</th>
+<th colspan="2">August</th>
+<th colspan="2">Sept.</th>
+<th colspan="2">Oct.</th>
+<th colspan="2">Nov.</th>
+<th colspan="2">Dec.</th>
+<th colspan="2">Total for period</th>
+<th rowspan="3">Grand Total</th>
+</tr>
+<tr>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+</tr>
+<tr>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Scrap</th>
+</tr>
+<tr>
+<th></th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>1/3 Circumference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>65</td>
+<td>14</td>
+<td>75</td>
+<td>15</td>
+<td>63</td>
+<td>15</td>
+<td>48</td>
+<td>12</td>
+<td>62</td>
+<td>10</td>
+<td>93</td>
+<td>14</td>
+<td>109</td>
+<td>14</td>
+<td>99</td>
+<td>19</td>
+<td>177</td>
+<td>20</td>
+<td>791</td>
+<td>133</td>
+<td>924</td>
+</tr>
+<tr>
+<td>2</td>
+<td>275</td>
+<td>11</td>
+<td>326</td>
+<td>12</td>
+<td>274</td>
+<td>15</td>
+<td>208</td>
+<td>13</td>
+<td>184</td>
+<td>14</td>
+<td>235</td>
+<td>18</td>
+<td>396</td>
+<td>23</td>
+<td>357</td>
+<td>17</td>
+<td>311</td>
+<td>18</td>
+<td>2566</td>
+<td>141</td>
+<td>2707</td>
+</tr>
+<tr>
+<td>3</td>
+<td>38</td>
+<td>5</td>
+<td>88</td>
+<td>4</td>
+<td>56</td>
+<td>4</td>
+<td>39</td>
+<td>4</td>
+<td>41</td>
+<td>4</td>
+<td>61</td>
+<td>7</td>
+<td>77</td>
+<td>4</td>
+<td>99</td>
+<td>4</td>
+<td>131</td>
+<td>6</td>
+<td>560</td>
+<td>42</td>
+<td>602</td>
+</tr>
+<tr>
+<td>4</td>
+<td>35</td>
+<td>16</td>
+<td>61</td>
+<td>18</td>
+<td>39</td>
+<td>13</td>
+<td>35</td>
+<td>10</td>
+<td>41</td>
+<td>11</td>
+<td>71</td>
+<td>11</td>
+<td>78</td>
+<td>11</td>
+<td>120</td>
+<td>13</td>
+<td>134</td>
+<td>12</td>
+<td>614</td>
+<td>115</td>
+<td>729</td>
+</tr>
+<tr>
+<td>5</td>
+<td>138</td>
+<td>5</td>
+<td>66</td>
+<td>4</td>
+<td>66</td>
+<td>4</td>
+<td>75</td>
+<td>4</td>
+<td>68</td>
+<td>5</td>
+<td>100</td>
+<td>7</td>
+<td>125</td>
+<td>3</td>
+<td>128</td>
+<td>6</td>
+<td>125</td>
+<td>4</td>
+<td>891</td>
+<td>42</td>
+<td>933</td>
+</tr>
+<tr>
+<td>6</td>
+<td>83</td>
+<td>26</td>
+<td>124</td>
+<td>16</td>
+<td>142</td>
+<td>36</td>
+<td>120</td>
+<td>27</td>
+<td>97</td>
+<td>30</td>
+<td>146</td>
+<td>46</td>
+<td>171</td>
+<td>41</td>
+<td>205</td>
+<td>36</td>
+<td>109</td>
+<td>38</td>
+<td>1257</td>
+<td>296</td>
+<td>1553</td>
+</tr>
+<tr>
+<td>7</td>
+<td>13</td>
+<td>11</td>
+<td>25</td>
+<td>3</td>
+<td>14</td>
+<td>8</td>
+<td>15</td>
+<td>8</td>
+<td>15</td>
+<td>9</td>
+<td>25</td>
+<td>11</td>
+<td>58</td>
+<td>6</td>
+<td>72</td>
+<td>6</td>
+<td>84</td>
+<td>9</td>
+<td>321</td>
+<td>76</td>
+<td>397</td>
+</tr>
+<tr>
+<td>8</td>
+<td>56</td>
+<td>6</td>
+<td>83</td>
+<td>10</td>
+<td>69</td>
+<td>9</td>
+<td>87</td>
+<td>8</td>
+<td>78</td>
+<td>10</td>
+<td>100</td>
+<td>11</td>
+<td>138</td>
+<td>15</td>
+<td>172</td>
+<td>14</td>
+<td>134</td>
+<td>13</td>
+<td>937</td>
+<td>96</td>
+<td>1033</td>
+</tr>
+<tr>
+<td>10</td>
+<td>106</td>
+<td>9</td>
+<td>143</td>
+<td>12</td>
+<td>136</td>
+<td>12</td>
+<td>120</td>
+<td>10</td>
+<td>107</td>
+<td>12</td>
+<td>118</td>
+<td>4</td>
+<td>146</td>
+<td>9</td>
+<td>151</td>
+<td>11</td>
+<td>144</td>
+<td>15</td>
+<td>1171</td>
+<td>94</td>
+<td>1265</td>
+</tr>
+<tr>
+<td>12</td>
+<td>63</td>
+<td>9</td>
+<td>90</td>
+<td>6</td>
+<td>57</td>
+<td>6</td>
+<td>54</td>
+<td>5</td>
+<td>51</td>
+<td>5</td>
+<td>85</td>
+<td>7</td>
+<td>120</td>
+<td>6</td>
+<td>136</td>
+<td>6</td>
+<td>154</td>
+<td>6</td>
+<td>810</td>
+<td>56</td>
+<td>866</td>
+</tr>
+<tr>
+<td>13</td>
+<td>114</td>
+<td>9</td>
+<td>168</td>
+<td>6</td>
+<td>122</td>
+<td>7</td>
+<td>118</td>
+<td>7</td>
+<td>101</td>
+<td>8</td>
+<td>118</td>
+<td>4</td>
+<td>159</td>
+<td>7</td>
+<td>153</td>
+<td>6</td>
+<td>100</td>
+<td>8</td>
+<td>1213</td>
+<td>62</td>
+<td>1275</td>
+</tr>
+<tr>
+<td>14</td>
+<td>59</td>
+<td>3</td>
+<td>43</td>
+<td>4</td>
+<td>28</td>
+<td>4</td>
+<td>27</td>
+<td>3</td>
+<td>27</td>
+<td>4</td>
+<td>50</td>
+<td>4</td>
+<td>68</td>
+<td>4</td>
+<td>82</td>
+<td>4</td>
+<td>74</td>
+<td>5</td>
+<td>438</td>
+<td>35</td>
+<td>473</td>
+</tr>
+<tr>
+<td>16</td>
+<td>35</td>
+<td>13</td>
+<td>33</td>
+<td>12</td>
+<td>30</td>
+<td>9</td>
+<td>47</td>
+<td>20</td>
+<td>36</td>
+<td>9</td>
+<td>39</td>
+<td>4</td>
+<td>63</td>
+<td>10</td>
+<td>65</td>
+<td>11</td>
+<td>65</td>
+<td>14</td>
+<td>418</td>
+<td>102</td>
+<td>513</td>
+</tr>
+<tr>
+<td>21</td>
+<td>32</td>
+<td>7</td>
+<td>46</td>
+<td>8</td>
+<td>25</td>
+<td>7</td>
+<td>20</td>
+<td>8</td>
+<td>24</td>
+<td>7</td>
+<td>53</td>
+<td>4</td>
+<td>78</td>
+<td>7</td>
+<td>82</td>
+<td>9</td>
+<td>80</td>
+<td>11</td>
+<td>440</td>
+<td>68</td>
+<td>508</td>
+</tr>
+<tr>
+<td>22</td>
+<td>69</td>
+<td>6</td>
+<td>95</td>
+<td>6</td>
+<td>68</td>
+<td>4</td>
+<td>57</td>
+<td>4</td>
+<td>52</td>
+<td>4</td>
+<td>82</td>
+<td>4</td>
+<td>109</td>
+<td>4</td>
+<td>134</td>
+<td>4</td>
+<td>131</td>
+<td>5</td>
+<td>797</td>
+<td>39</td>
+<td>836</td>
+</tr>
+<tr>
+<td>28</td>
+<td>11</td>
+<td>6</td>
+<td>85</td>
+<td>4</td>
+<td>92</td>
+<td>6</td>
+<td>75</td>
+<td>5</td>
+<td>90</td>
+<td>7</td>
+<td>82</td>
+<td>4</td>
+<td>100</td>
+<td>6</td>
+<td>121</td>
+<td>6</td>
+<td>133</td>
+<td>6</td>
+<td>839</td>
+<td>52</td>
+<td>891</td>
+</tr>
+<tr>
+<td>24</td>
+<td>142</td>
+<td>14</td>
+<td>71</td>
+<td>20</td>
+<td>132</td>
+<td>22</td>
+<td>154</td>
+<td>14</td>
+<td>165</td>
+<td>24</td>
+<td>167</td>
+<td>25</td>
+<td>250</td>
+<td>26</td>
+<td>287</td>
+<td>25</td>
+<td>290</td>
+<td>12</td>
+<td>1658</td>
+<td>182</td>
+<td>1840</td>
+</tr>
+<tr>
+<td>25</td>
+<td>146</td>
+<td>12</td>
+<td>165</td>
+<td>4</td>
+<td>164</td>
+<td>4</td>
+<td>110</td>
+<td>8</td>
+<td>76</td>
+<td>5</td>
+<td>110</td>
+<td>4</td>
+<td>178</td>
+<td>4</td>
+<td>212</td>
+<td>6</td>
+<td>126</td>
+<td>6</td>
+<td>1287</td>
+<td>48</td>
+<td>1335</td>
+</tr>
+<tr>
+<td>26</td>
+<td>80</td>
+<td>16</td>
+<td>58</td>
+<td>13</td>
+<td>57</td>
+<td>9</td>
+<td>52</td>
+<td>8</td>
+<td>40</td>
+<td>9</td>
+<td>61</td>
+<td>11</td>
+<td>87</td>
+<td>11</td>
+<td>110</td>
+<td>13</td>
+<td>100</td>
+<td>14</td>
+<td>645</td>
+<td>104</td>
+<td>749</td>
+</tr>
+<tr>
+<td>29</td>
+<td>34</td>
+<td>14</td>
+<td>46</td>
+<td>20</td>
+<td>20</td>
+<td>24</td>
+<td>25</td>
+<td>20</td>
+<td>11</td>
+<td>30</td>
+<td>39</td>
+<td>25</td>
+<td>45</td>
+<td>27</td>
+<td>65</td>
+<td>26</td>
+<td>54</td>
+<td>80</td>
+<td>339</td>
+<td>216</td>
+<td>555</td>
+</tr>
+<tr>
+<td></td>
+<td><b>1,634</b></td>
+<td><b>212</b></td>
+<td><b>1,841</b></td>
+<td><b>202</b></td>
+<td><b>1,634</b></td>
+<td><b>218</b></td>
+<td><b>1,486</b></td>
+<td><b>193</b></td>
+<td><b>1,366</b></td>
+<td><b>217</b></td>
+<td><b>1,835</b></td>
+<td><b>225</b></td>
+<td><b>2,555</b></td>
+<td><b>238</b></td>
+<td><b>2,850</b></td>
+<td><b>242</b></td>
+<td><b>2,796</b></td>
+<td><b>252</b></td>
+<td><b>17,987</b></td>
+<td><b>1,999</b></td>
+<td><b>19,986</b></td>
+</tr>
+</tbody>
+</table>
+
+33------------------------------------------------
+
+100
+
+[AUGUST, 1925
+
+**HENARATGODA RUBBER TAPPING RESULTS.**
+
+*January 1924 to December 1925.*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">No. of Tree</th>
+<th colspan="2">January</th>
+<th colspan="2">February</th>
+<th colspan="2">March</th>
+<th colspan="2">April</th>
+<th colspan="2">May</th>
+<th colspan="2">June</th>
+<th colspan="2">July</th>
+<th colspan="2">August</th>
+<th colspan="2">September</th>
+<th colspan="2">October</th>
+<th colspan="2">November</th>
+<th colspan="2">December</th>
+<th colspan="2">Total for period</th>
+<th rowspan="3">Grand Total</th>
+</tr>
+<tr>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th rowspan="2">gms.</th>
+<th rowspan="2">gms.</th>
+</tr>
+<tr>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>gms.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>159</td>
+<td>26</td>
+<td>70</td>
+<td>34</td>
+<td>286</td>
+<td>19</td>
+<td>124</td>
+<td>27</td>
+<td>99</td>
+<td>26</td>
+<td>92</td>
+<td>23</td>
+<td>111</td>
+<td>26</td>
+<td>196</td>
+<td>44</td>
+<td>239</td>
+<td>38</td>
+<td>178</td>
+<td>35</td>
+<td>151</td>
+<td>32</td>
+<td>227</td>
+<td>28</td>
+<td>1,932</td>
+<td>358</td>
+<td>2,290</td>
+</tr>
+<tr>
+<td>2</td>
+<td>249</td>
+<td>26</td>
+<td>137</td>
+<td>25</td>
+<td>272</td>
+<td>24</td>
+<td>297</td>
+<td>23</td>
+<td>281</td>
+<td>16</td>
+<td>179</td>
+<td>10</td>
+<td>227</td>
+<td>17</td>
+<td>283</td>
+<td>18</td>
+<td>313</td>
+<td>24</td>
+<td>297</td>
+<td>17</td>
+<td>243</td>
+<td>20</td>
+<td>386</td>
+<td>21</td>
+<td>3,164</td>
+<td>241</td>
+<td>3,405</td>
+</tr>
+<tr>
+<td>3</td>
+<td>110</td>
+<td>7</td>
+<td>105</td>
+<td>5</td>
+<td>97</td>
+<td>4</td>
+<td>106</td>
+<td>4</td>
+<td>101</td>
+<td>4</td>
+<td>51</td>
+<td>2</td>
+<td>57</td>
+<td>7</td>
+<td>94</td>
+<td>6</td>
+<td>107</td>
+<td>12</td>
+<td>56</td>
+<td>12</td>
+<td>72</td>
+<td>7</td>
+<td>102</td>
+<td>7</td>
+<td>1,058</td>
+<td>75</td>
+<td>1,133</td>
+</tr>
+<tr>
+<td>4</td>
+<td>89</td>
+<td>5</td>
+<td>60</td>
+<td>12</td>
+<td>110</td>
+<td>10</td>
+<td>120</td>
+<td>12</td>
+<td>112</td>
+<td>13</td>
+<td>87</td>
+<td>8</td>
+<td>101</td>
+<td>13</td>
+<td>142</td>
+<td>13</td>
+<td>154</td>
+<td>14</td>
+<td>115</td>
+<td>15</td>
+<td>122</td>
+<td>13</td>
+<td>157</td>
+<td>22</td>
+<td>1,360</td>
+<td>152</td>
+<td>1,521</td>
+</tr>
+<tr>
+<td>5</td>
+<td>103</td>
+<td>5</td>
+<td>52</td>
+<td>6</td>
+<td>60</td>
+<td>5</td>
+<td>111</td>
+<td>5</td>
+<td>100</td>
+<td>4</td>
+<td>84</td>
+<td>5</td>
+<td>107</td>
+<td>4</td>
+<td>104</td>
+<td>5</td>
+<td>96</td>
+<td>4</td>
+<td>89</td>
+<td>4</td>
+<td>78</td>
+<td>3</td>
+<td>102</td>
+<td>6</td>
+<td>1,086</td>
+<td>56</td>
+<td>1,142</td>
+</tr>
+<tr>
+<td>6</td>
+<td>147</td>
+<td>27</td>
+<td>99</td>
+<td>37</td>
+<td>150</td>
+<td>41</td>
+<td>133</td>
+<td>29</td>
+<td>110</td>
+<td>27</td>
+<td>68</td>
+<td>16</td>
+<td>112</td>
+<td>27</td>
+<td>154</td>
+<td>31</td>
+<td>145</td>
+<td>36</td>
+<td>142</td>
+<td>30</td>
+<td>98</td>
+<td>37</td>
+<td>172</td>
+<td>42</td>
+<td>1,550</td>
+<td>380</td>
+<td>1,910</td>
+</tr>
+<tr>
+<td>7</td>
+<td>80</td>
+<td>9</td>
+<td>93</td>
+<td>12</td>
+<td>86b</td>
+<td>10</td>
+<td>75</td>
+<td>7</td>
+<td>68</td>
+<td>8</td>
+<td>54</td>
+<td>7</td>
+<td>78</td>
+<td>10</td>
+<td>121</td>
+<td>10</td>
+<td>110</td>
+<td>9</td>
+<td>103</td>
+<td>10</td>
+<td>115</td>
+<td>10</td>
+<td>142</td>
+<td>11</td>
+<td>1,125</td>
+<td>113</td>
+<td>1,238</td>
+</tr>
+<tr>
+<td>8</td>
+<td>157</td>
+<td>8</td>
+<td>149</td>
+<td>10</td>
+<td>193</td>
+<td>9</td>
+<td>167</td>
+<td>10</td>
+<td>149</td>
+<td>10</td>
+<td>121</td>
+<td>6</td>
+<td>158</td>
+<td>4</td>
+<td>185</td>
+<td>12</td>
+<td>173</td>
+<td>13</td>
+<td>133</td>
+<td>14</td>
+<td>152</td>
+<td>7</td>
+<td>179</td>
+<td>14</td>
+<td>1,916</td>
+<td>117</td>
+<td>2,033</td>
+</tr>
+<tr>
+<td>10</td>
+<td>109</td>
+<td>22</td>
+<td>59</td>
+<td>17</td>
+<td>160</td>
+<td>24</td>
+<td>167</td>
+<td>13</td>
+<td>138</td>
+<td>12</td>
+<td>102</td>
+<td>2</td>
+<td>133</td>
+<td>14</td>
+<td>161</td>
+<td>12</td>
+<td>132</td>
+<td>14</td>
+<td>132</td>
+<td>14</td>
+<td>113</td>
+<td>18</td>
+<td>123</td>
+<td>21</td>
+<td>1,529</td>
+<td>189</td>
+<td>1,718</td>
+</tr>
+<tr>
+<td>12</td>
+<td>127</td>
+<td>9</td>
+<td>108</td>
+<td>7</td>
+<td>102</td>
+<td>5</td>
+<td>129</td>
+<td>5</td>
+<td>117</td>
+<td>4</td>
+<td>70</td>
+<td>3</td>
+<td>89</td>
+<td>3</td>
+<td>117</td>
+<td>6</td>
+<td>117</td>
+<td>5</td>
+<td>110</td>
+<td>8</td>
+<td>138</td>
+<td>8</td>
+<td>165</td>
+<td>8</td>
+<td>1,389</td>
+<td>71</td>
+<td>1,460</td>
+</tr>
+<tr>
+<td>13</td>
+<td>169</td>
+<td>7</td>
+<td>152</td>
+<td>8</td>
+<td>149</td>
+<td>6</td>
+<td>156</td>
+<td>8</td>
+<td>144</td>
+<td>5</td>
+<td>108</td>
+<td>4</td>
+<td>160</td>
+<td>4</td>
+<td>190</td>
+<td>9</td>
+<td>195</td>
+<td>5</td>
+<td>171</td>
+<td>7</td>
+<td>170</td>
+<td>8</td>
+<td>219</td>
+<td>9</td>
+<td>1,977</td>
+<td>81</td>
+<td>2,058</td>
+</tr>
+<tr>
+<td>14</td>
+<td>82</td>
+<td>7</td>
+<td>40</td>
+<td>7</td>
+<td>64</td>
+<td>3</td>
+<td>58</td>
+<td>4</td>
+<td>52</td>
+<td>4</td>
+<td>44</td>
+<td>3</td>
+<td>57</td>
+<td>6</td>
+<td>89</td>
+<td>6</td>
+<td>85</td>
+<td>4</td>
+<td>75</td>
+<td>5</td>
+<td>83</td>
+<td>4</td>
+<td>107</td>
+<td>7</td>
+<td>836</td>
+<td>60</td>
+<td>896</td>
+</tr>
+<tr>
+<td>18</td>
+<td>52</td>
+<td>18</td>
+<td>45</td>
+<td>41</td>
+<td>44</td>
+<td>13</td>
+<td>38</td>
+<td>13</td>
+<td>51</td>
+<td>5</td>
+<td>47</td>
+<td>6</td>
+<td>59</td>
+<td>12</td>
+<td>69</td>
+<td>8</td>
+<td>72</td>
+<td>8</td>
+<td>67</td>
+<td>9</td>
+<td>64</td>
+<td>8</td>
+<td>87</td>
+<td>15</td>
+<td>695</td>
+<td>156</td>
+<td>851</td>
+</tr>
+<tr>
+<td>21</td>
+<td>44</td>
+<td>17</td>
+<td>57</td>
+<td>7</td>
+<td>78</td>
+<td>9</td>
+<td>80</td>
+<td>8</td>
+<td>73</td>
+<td>7</td>
+<td>61</td>
+<td>6</td>
+<td>72</td>
+<td>9</td>
+<td>70</td>
+<td>9</td>
+<td>61</td>
+<td>8</td>
+<td>60</td>
+<td>12</td>
+<td>76</td>
+<td>9</td>
+<td>92</td>
+<td>12</td>
+<td>830</td>
+<td>113</td>
+<td>943</td>
+</tr>
+<tr>
+<td>22</td>
+<td>128</td>
+<td>6</td>
+<td>146</td>
+<td>5</td>
+<td>103</td>
+<td>4</td>
+<td>92</td>
+<td>3</td>
+<td>78</td>
+<td>3</td>
+<td>55</td>
+<td>2</td>
+<td>66</td>
+<td>12</td>
+<td>107</td>
+<td>6</td>
+<td>106</td>
+<td>4</td>
+<td>147</td>
+<td>2</td>
+<td>161</td>
+<td>5</td>
+<td>233</td>
+<td>11</td>
+<td>1,422</td>
+<td>63</td>
+<td>1,485</td>
+</tr>
+<tr>
+<td>23</td>
+<td>98</td>
+<td>10</td>
+<td>68</td>
+<td>8</td>
+<td>71</td>
+<td>6</td>
+<td>94</td>
+<td>6</td>
+<td>93</td>
+<td>5</td>
+<td>59</td>
+<td>5</td>
+<td>84</td>
+<td>8</td>
+<td>103</td>
+<td>9</td>
+<td>83</td>
+<td>8</td>
+<td>83</td>
+<td>8</td>
+<td>92</td>
+<td>6</td>
+<td>119</td>
+<td>10</td>
+<td>1,047</td>
+<td>89</td>
+<td>1,136</td>
+</tr>
+<tr>
+<td>24</td>
+<td>239</td>
+<td>25</td>
+<td>223</td>
+<td>46</td>
+<td>511</td>
+<td>21</td>
+<td>344</td>
+<td>25</td>
+<td>295</td>
+<td>18</td>
+<td>244</td>
+<td>20</td>
+<td>235</td>
+<td>22</td>
+<td>307</td>
+<td>28</td>
+<td>256</td>
+<td>24</td>
+<td>231</td>
+<td>26</td>
+<td>236</td>
+<td>26</td>
+<td>300</td>
+<td>25</td>
+<td>3,421</td>
+<td>306</td>
+<td>3,727</td>
+</tr>
+<tr>
+<td>25</td>
+<td>201</td>
+<td>7</td>
+<td>152</td>
+<td>7</td>
+<td>204</td>
+<td>3</td>
+<td>187</td>
+<td>7</td>
+<td>160</td>
+<td>3</td>
+<td>12</td>
+<td>2</td>
+<td>163</td>
+<td>4</td>
+<td>305</td>
+<td>6</td>
+<td>247</td>
+<td>5</td>
+<td>238</td>
+<td>5</td>
+<td>214</td>
+<td>7</td>
+<td>245</td>
+<td>6</td>
+<td>2,418</td>
+<td>62</td>
+<td>2,480</td>
+</tr>
+<tr>
+<td>26</td>
+<td>89</td>
+<td>14</td>
+<td>70</td>
+<td>12</td>
+<td>66</td>
+<td>13</td>
+<td>68</td>
+<td>14</td>
+<td>73</td>
+<td>10</td>
+<td>76</td>
+<td>8</td>
+<td>76</td>
+<td>10</td>
+<td>94</td>
+<td>11</td>
+<td>88</td>
+<td>10</td>
+<td>87</td>
+<td>10</td>
+<td>84</td>
+<td>12</td>
+<td>95</td>
+<td>13</td>
+<td>966</td>
+<td>137</td>
+<td>1,103</td>
+</tr>
+<tr>
+<td>29</td>
+<td>36</td>
+<td>30</td>
+<td>31</td>
+<td>28</td>
+<td>25</td>
+<td>33</td>
+<td>22</td>
+<td>29</td>
+<td>37</td>
+<td>18</td>
+<td>39</td>
+<td>15</td>
+<td>54</td>
+<td>37</td>
+<td>64</td>
+<td>28</td>
+<td>63</td>
+<td>28</td>
+<td>65</td>
+<td>31</td>
+<td>58</td>
+<td>34</td>
+<td>100</td>
+<td>50</td>
+<td>594</td>
+<td>361</td>
+<td>955</td>
+</tr>
+<tr>
+<td></td>
+<td><b>2,468</b></td>
+<td><b>285</b></td>
+<td><b>1,916</b></td>
+<td><b>334</b></td>
+<td><b>2,831</b></td>
+<td><b>262</b></td>
+<td><b>2,562</b></td>
+<td><b>252</b></td>
+<td><b>2,331</b></td>
+<td><b>202</b></td>
+<td><b>1,743</b></td>
+<td><b>159</b></td>
+<td><b>2,199</b></td>
+<td><b>250</b></td>
+<td><b>2,955</b></td>
+<td><b>277</b></td>
+<td><b>2,842</b></td>
+<td><b>273</b></td>
+<td><b>2,585</b></td>
+<td><b>274</b></td>
+<td><b>2,520</b></td>
+<td><b>274</b></td>
+<td><b>3,553</b></td>
+<td><b>338</b></td>
+<td><b>30,304</b></td>
+<td><b>3,180</b></td>
+<td><b>33,484</b></td>
+</tr>
+</tbody>
+</table>
+
+34------------------------------------------------
+
+AUGUST, 1925.]
+
+101
+
+**HENARATGODA RUBBER TAPPING RESULTS.**
+
+*April to December, 1923.*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">No. of Tree</th>
+<th colspan="2">April</th>
+<th colspan="2">May</th>
+<th colspan="2">June</th>
+<th colspan="2">July</th>
+<th colspan="2">August</th>
+<th colspan="2">September</th>
+<th colspan="2">October</th>
+<th colspan="2">November</th>
+<th colspan="2">December</th>
+<th colspan="2">Total for Period</th>
+<th rowspan="3">Grand Total</th>
+</tr>
+<tr>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+<th rowspan="2">Biscuits</th>
+<th rowspan="2">Scrap</th>
+</tr>
+<tr>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>30</td>
+<td>125</td>
+<td>35</td>
+<td>165</td>
+<td>32</td>
+<td>125</td>
+<td>72</td>
+<td>163</td>
+<td>40</td>
+<td>158</td>
+<td>102</td>
+<td>256</td>
+<td>96</td>
+<td>245</td>
+<td>94</td>
+<td>247</td>
+<td>130</td>
+<td>256</td>
+<td>114</td>
+<td>1,740</td>
+<td>715</td>
+<td>2,455</td>
+</tr>
+<tr>
+<td>31</td>
+<td>97</td>
+<td>16</td>
+<td>139</td>
+<td>10</td>
+<td>117</td>
+<td>16</td>
+<td>119</td>
+<td>15</td>
+<td>90</td>
+<td>13</td>
+<td>160</td>
+<td>11</td>
+<td>221</td>
+<td>15</td>
+<td>201</td>
+<td>20</td>
+<td>243</td>
+<td>22</td>
+<td>1,477</td>
+<td>138</td>
+<td>1,615</td>
+</tr>
+<tr>
+<td>33</td>
+<td>29</td>
+<td>5</td>
+<td>29</td>
+<td>5</td>
+<td>24</td>
+<td>5</td>
+<td>22</td>
+<td>3</td>
+<td>19</td>
+<td>5</td>
+<td>39</td>
+<td>4</td>
+<td>45</td>
+<td>4</td>
+<td>55</td>
+<td>5</td>
+<td>52</td>
+<td>7</td>
+<td>314</td>
+<td>43</td>
+<td>357</td>
+</tr>
+<tr>
+<td>34</td>
+<td>157</td>
+<td>30</td>
+<td>166</td>
+<td>37</td>
+<td>140</td>
+<td>33</td>
+<td>143</td>
+<td>28</td>
+<td>155</td>
+<td>25</td>
+<td>199</td>
+<td>18</td>
+<td>225</td>
+<td>23</td>
+<td>286</td>
+<td>21</td>
+<td>294</td>
+<td>36</td>
+<td>1,705</td>
+<td>251</td>
+<td>2,016</td>
+</tr>
+<tr>
+<td>35</td>
+<td>26</td>
+<td>18</td>
+<td>31</td>
+<td>24</td>
+<td>36</td>
+<td>24</td>
+<td>34</td>
+<td>24</td>
+<td>40</td>
+<td>24</td>
+<td>135</td>
+<td>39</td>
+<td>367</td>
+<td>31</td>
+<td>487</td>
+<td>21</td>
+<td>291</td>
+<td>60</td>
+<td>1,457</td>
+<td>265</td>
+<td>1,722</td>
+</tr>
+<tr>
+<td>36</td>
+<td>35</td>
+<td>13</td>
+<td>36</td>
+<td>16</td>
+<td>52</td>
+<td>14</td>
+<td>34</td>
+<td>12</td>
+<td>27</td>
+<td>13</td>
+<td>68</td>
+<td>21</td>
+<td>87</td>
+<td>14</td>
+<td>73</td>
+<td>16</td>
+<td>77</td>
+<td>21</td>
+<td>489</td>
+<td>133</td>
+<td>622</td>
+</tr>
+<tr>
+<td>38</td>
+<td>19</td>
+<td>8</td>
+<td>32</td>
+<td>17</td>
+<td>39</td>
+<td>18</td>
+<td>57</td>
+<td>20</td>
+<td>55</td>
+<td>22</td>
+<td>71</td>
+<td>7</td>
+<td>107</td>
+<td>16</td>
+<td>110</td>
+<td>22</td>
+<td>120</td>
+<td>25</td>
+<td>610</td>
+<td>183</td>
+<td>793</td>
+</tr>
+<tr>
+<td>40</td>
+<td>18</td>
+<td>22</td>
+<td>54</td>
+<td>7</td>
+<td>41</td>
+<td>7</td>
+<td>23</td>
+<td>7</td>
+<td>32</td>
+<td>8</td>
+<td>82</td>
+<td>21</td>
+<td>76</td>
+<td>8</td>
+<td>102</td>
+<td>9</td>
+<td>60</td>
+<td>10</td>
+<td>488</td>
+<td>71</td>
+<td>559</td>
+</tr>
+<tr>
+<td>41</td>
+<td>55</td>
+<td>19</td>
+<td>76</td>
+<td>25</td>
+<td>81</td>
+<td>20</td>
+<td>64</td>
+<td>18</td>
+<td>62</td>
+<td>17</td>
+<td>118</td>
+<td>21</td>
+<td>161</td>
+<td>21</td>
+<td>161</td>
+<td>18</td>
+<td>146</td>
+<td>21</td>
+<td>924</td>
+<td>180</td>
+<td>1,104</td>
+</tr>
+<tr>
+<td>42</td>
+<td>59</td>
+<td>23</td>
+<td>135</td>
+<td>24</td>
+<td>178</td>
+<td>20</td>
+<td>146</td>
+<td>12</td>
+<td>130</td>
+<td>13</td>
+<td>192</td>
+<td>18</td>
+<td>195</td>
+<td>14</td>
+<td>198</td>
+<td>16</td>
+<td>145</td>
+<td>15</td>
+<td>1,378</td>
+<td>155</td>
+<td>1,533</td>
+</tr>
+<tr>
+<td>43</td>
+<td>77</td>
+<td>26</td>
+<td>133</td>
+<td>16</td>
+<td>125</td>
+<td>12</td>
+<td>89</td>
+<td>9</td>
+<td>82</td>
+<td>10</td>
+<td>128</td>
+<td>7</td>
+<td>145</td>
+<td>11</td>
+<td>334</td>
+<td>10</td>
+<td>336</td>
+<td>14</td>
+<td>1,549</td>
+<td>115</td>
+<td>1,664</td>
+</tr>
+<tr>
+<td>44</td>
+<td>9</td>
+<td>36</td>
+<td>16</td>
+<td>49</td>
+<td>18</td>
+<td>38</td>
+<td>13</td>
+<td>20</td>
+<td>11</td>
+<td>33</td>
+<td>32</td>
+<td>46</td>
+<td>60</td>
+<td>27</td>
+<td>84</td>
+<td>51</td>
+<td>68</td>
+<td>48</td>
+<td>311</td>
+<td>357</td>
+<td>668</td>
+</tr>
+<tr>
+<td>46</td>
+<td>70</td>
+<td>18</td>
+<td>89</td>
+<td>8</td>
+<td>98</td>
+<td>6</td>
+<td>80</td>
+<td>5</td>
+<td>81</td>
+<td>6</td>
+<td>100</td>
+<td>4</td>
+<td>126</td>
+<td>5</td>
+<td>174</td>
+<td>4</td>
+<td>135</td>
+<td>5</td>
+<td>954</td>
+<td>53</td>
+<td>1,006</td>
+</tr>
+<tr>
+<td>48</td>
+<td>86</td>
+<td>10</td>
+<td>82</td>
+<td>21</td>
+<td>103</td>
+<td>16</td>
+<td>116</td>
+<td>15</td>
+<td>115</td>
+<td>14</td>
+<td>178</td>
+<td>11</td>
+<td>317</td>
+<td>20</td>
+<td>415</td>
+<td>17</td>
+<td>375</td>
+<td>22</td>
+<td>1,787</td>
+<td>154</td>
+<td>1,941</td>
+</tr>
+<tr>
+<td>49</td>
+<td>71</td>
+<td>30</td>
+<td>65</td>
+<td>26</td>
+<td>63</td>
+<td>25</td>
+<td>50</td>
+<td>26</td>
+<td>77</td>
+<td>28</td>
+<td>278</td>
+<td>21</td>
+<td>403</td>
+<td>24</td>
+<td>483</td>
+<td>24</td>
+<td>337</td>
+<td>35</td>
+<td>1,827</td>
+<td>239</td>
+<td>2,066</td>
+</tr>
+<tr>
+<td>50</td>
+<td>58</td>
+<td>11</td>
+<td>64</td>
+<td>15</td>
+<td>106</td>
+<td>17</td>
+<td>79</td>
+<td>14</td>
+<td>89</td>
+<td>16</td>
+<td>157</td>
+<td>18</td>
+<td>127</td>
+<td>21</td>
+<td>169</td>
+<td>19</td>
+<td>134</td>
+<td>28</td>
+<td>953</td>
+<td>159</td>
+<td>1,113</td>
+</tr>
+<tr>
+<td>51</td>
+<td>66</td>
+<td>15</td>
+<td>66</td>
+<td>21</td>
+<td>81</td>
+<td>16</td>
+<td>119</td>
+<td>17</td>
+<td>100</td>
+<td>24</td>
+<td>128</td>
+<td>21</td>
+<td>177</td>
+<td>20</td>
+<td>216</td>
+<td>21</td>
+<td>181</td>
+<td>27</td>
+<td>1,185</td>
+<td>152</td>
+<td>1,367</td>
+</tr>
+<tr>
+<td>52</td>
+<td>32</td>
+<td>10</td>
+<td>53</td>
+<td>10</td>
+<td>77</td>
+<td>8</td>
+<td>88</td>
+<td>8</td>
+<td>83</td>
+<td>9</td>
+<td>135</td>
+<td>11</td>
+<td>147</td>
+<td>10</td>
+<td>182</td>
+<td>14</td>
+<td>192</td>
+<td>14</td>
+<td>993</td>
+<td>94</td>
+<td>1,087</td>
+</tr>
+<tr>
+<td>54</td>
+<td>52</td>
+<td>4</td>
+<td>69</td>
+<td>6</td>
+<td>77</td>
+<td>6</td>
+<td>59</td>
+<td>5</td>
+<td>46</td>
+<td>5</td>
+<td>57</td>
+<td>4</td>
+<td>71</td>
+<td>5</td>
+<td>71</td>
+<td>4</td>
+<td>80</td>
+<td>6</td>
+<td>582</td>
+<td>45</td>
+<td>627</td>
+</tr>
+<tr>
+<td>55</td>
+<td>29</td>
+<td>4</td>
+<td>85</td>
+<td>7</td>
+<td>67</td>
+<td>5</td>
+<td>41</td>
+<td>4</td>
+<td>46</td>
+<td>5</td>
+<td>71</td>
+<td>4</td>
+<td>67</td>
+<td>3</td>
+<td>125</td>
+<td>4</td>
+<td>57</td>
+<td>5</td>
+<td>588</td>
+<td>41</td>
+<td>629</td>
+</tr>
+<tr>
+<td></td>
+<td>1,170</td>
+<td>353</td>
+<td>1,585</td>
+<td>376</td>
+<td>1,665</td>
+<td>378</td>
+<td>1,549</td>
+<td>311</td>
+<td>1,507</td>
+<td>392</td>
+<td>2,584</td>
+<td>396</td>
+<td>3,469</td>
+<td>386</td>
+<td>4,263</td>
+<td>446</td>
+<td>3,579</td>
+<td>535</td>
+<td>21,371</td>
+<td>3,573</td>
+<td>24,944</td>
+</tr>
+</tbody>
+</table>
+
+→ Circumference.
+
+35------------------------------------------------
+
+102
+
+[August, 1925.
+
+**HENARATGODA RUBBER TAPPING RESULTS.**
+
+*January 1924, to December 1924.*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">No. of Tree</th>
+<th colspan="2">January</th>
+<th colspan="2">February</th>
+<th colspan="2">March</th>
+<th colspan="2">April</th>
+<th colspan="2">May</th>
+<th colspan="2">June</th>
+<th colspan="2">July</th>
+<th colspan="2">August</th>
+<th colspan="2">September</th>
+<th colspan="2">October</th>
+<th colspan="2">November</th>
+<th colspan="2">December</th>
+<th rowspan="3">Total for period</th>
+<th rowspan="3">Grand Total</th>
+</tr>
+<tr>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Biscuits</th>
+</tr>
+<tr>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+<th>gms.</th>
+<th>Scrap</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>30</td><td>145</td><td>142</td><td>123</td><td>144</td><td>176</td><td>140</td><td>206</td><td>147</td><td>251</td><td>91</td><td>161</td><td>86</td><td>172</td><td>120</td><td>236</td><td>104</td><td>262</td><td>110</td><td>231</td><td>104</td><td>227</td><td>158</td><td>209</td><td>145</td><td>2,399</td><td>1,491</td><td>3,890</td></tr>
+<tr><td>31</td><td>199</td><td>24</td><td>181</td><td>21</td><td>233</td><td>21</td><td>256</td><td>20</td><td>203</td><td>14</td><td>158</td><td>11</td><td>194</td><td>8</td><td>240</td><td>18</td><td>222</td><td>15</td><td>198</td><td>15</td><td>180</td><td>16</td><td>243</td><td>23</td><td>2,507</td><td>206</td><td>2,713</td></tr>
+<tr><td>33</td><td>40</td><td>8</td><td>39</td><td>6</td><td>42</td><td>4</td><td>35</td><td>5</td><td>33</td><td>3</td><td>25</td><td>3</td><td>34</td><td>3</td><td>56</td><td>6</td><td>53</td><td>5</td><td>62</td><td>33</td><td>58</td><td>6</td><td>91</td><td>8</td><td>568</td><td>90</td><td>658</td></tr>
+<tr><td>34</td><td>232</td><td>40</td><td>230</td><td>31</td><td>239</td><td>25</td><td>220</td><td>20</td><td>239</td><td>16</td><td>193</td><td>13</td><td>204</td><td>19</td><td>248</td><td>23</td><td>270</td><td>22</td><td>278</td><td>30</td><td>285</td><td>45</td><td>377</td><td>47</td><td>3,015</td><td>331</td><td>3,346</td></tr>
+<tr><td>35</td><td>235</td><td>53</td><td>259</td><td>50</td><td>201</td><td>42</td><td>239</td><td>31</td><td>221</td><td>28</td><td>218</td><td>21</td><td>190</td><td>30</td><td>304</td><td>24</td><td>334</td><td>42</td><td>351</td><td>39</td><td>360</td><td>30</td><td>384</td><td>41</td><td>3,296</td><td>431</td><td>3,727</td></tr>
+<tr><td>36</td><td>88</td><td>28</td><td>55</td><td>25</td><td>52</td><td>23</td><td>67</td><td>27</td><td>46</td><td>6</td><td>36</td><td>10</td><td>50</td><td>10</td><td>68</td><td>10</td><td>78</td><td>12</td><td>49</td><td>12</td><td>54</td><td>11</td><td>67</td><td>15</td><td>710</td><td>189</td><td>899</td></tr>
+<tr><td>38</td><td>29</td><td>68</td><td>68</td><td>51</td><td>47</td><td>28</td><td>62</td><td>13</td><td>65</td><td>9</td><td>78</td><td>13</td><td>110</td><td>18</td><td>100</td><td>28</td><td>78</td><td>21</td><td>65</td><td>26</td><td>93</td><td>29</td><td>155</td><td>33</td><td>1,013</td><td>298</td><td>1,311</td></tr>
+<tr><td>40</td><td>64</td><td>7</td><td>33</td><td>8</td><td>45</td><td>23</td><td>46</td><td>8</td><td>106</td><td>8</td><td>55</td><td>6</td><td>92</td><td>10</td><td>90</td><td>10</td><td>91</td><td>9</td><td>66</td><td>10</td><td>67</td><td>10</td><td>84</td><td>14</td><td>839</td><td>123</td><td>962</td></tr>
+<tr><td>41</td><td>60</td><td>19</td><td>108</td><td>26</td><td>90</td><td>27</td><td>99</td><td>19</td><td>103</td><td>14</td><td>66</td><td>12</td><td>97</td><td>12</td><td>122</td><td>10</td><td>119</td><td>19</td><td>129</td><td>20</td><td>137</td><td>24</td><td>186</td><td>30</td><td>1,316</td><td>241</td><td>1,557</td></tr>
+<tr><td>42</td><td>124</td><td>14</td><td>109</td><td>18</td><td>146</td><td>22</td><td>191</td><td>21</td><td>177</td><td>18</td><td>110</td><td>12</td><td>119</td><td>18</td><td>193</td><td>21</td><td>190</td><td>30</td><td>158</td><td>17</td><td>173</td><td>26</td><td>179</td><td>34</td><td>1,869</td><td>251</td><td>2,120</td></tr>
+<tr><td>43</td><td>273</td><td>22</td><td>124</td><td>33</td><td>275</td><td>19</td><td>240</td><td>15</td><td>269</td><td>19</td><td>216</td><td>8</td><td>268</td><td>13</td><td>244</td><td>13</td><td>347</td><td>18</td><td>317</td><td>17</td><td>347</td><td>19</td><td>444</td><td>25</td><td>3,364</td><td>221</td><td>3,585</td></tr>
+<tr><td>44</td><td>72</td><td>52</td><td>41</td><td>55</td><td>34</td><td>56</td><td>31</td><td>62</td><td>35</td><td>36</td><td>31</td><td>38</td><td>47</td><td>41</td><td>62</td><td>56</td><td>66</td><td>51</td><td>60</td><td>52</td><td>51</td><td>43</td><td>75</td><td>52</td><td>605</td><td>594</td><td>1,199</td></tr>
+<tr><td>46</td><td>122</td><td>5</td><td>80</td><td>3</td><td>120</td><td>3</td><td>138</td><td>4</td><td>139</td><td>3</td><td>107</td><td>4</td><td>144</td><td>23</td><td>194</td><td>8</td><td>198</td><td>6</td><td>197</td><td>6</td><td>189</td><td>6</td><td>208</td><td>7</td><td>1,836</td><td>78</td><td>1,914</td></tr>
+<tr><td>48</td><td>322</td><td>21</td><td>121</td><td>28</td><td>283</td><td>30</td><td>326</td><td>18</td><td>153</td><td>13</td><td>206</td><td>15</td><td>271</td><td>21</td><td>386</td><td>22</td><td>370</td><td>76</td><td>322</td><td>19</td><td>254</td><td>26</td><td>375</td><td>21</td><td>3,389</td><td>310</td><td>3,699</td></tr>
+<tr><td>49</td><td>271</td><td>49</td><td>119</td><td>74</td><td>199</td><td>52</td><td>190</td><td>45</td><td>179</td><td>24</td><td>82</td><td>24</td><td>185</td><td>27</td><td>274</td><td>36</td><td>316</td><td>31</td><td>258</td><td>5</td><td>239</td><td>30</td><td>292</td><td>51</td><td>2,604</td><td>448</td><td>3,052</td></tr>
+<tr><td>50</td><td>123</td><td>23</td><td>110</td><td>39</td><td>197</td><td>26</td><td>160</td><td>25</td><td>131</td><td>18</td><td>81</td><td>16</td><td>97</td><td>15</td><td>140</td><td>23</td><td>103</td><td>24</td><td>84</td><td>26</td><td>100</td><td>33</td><td>150</td><td>37</td><td>1,476</td><td>305</td><td>1,781</td></tr>
+<tr><td>51</td><td>161</td><td>21</td><td>167</td><td>20</td><td>216</td><td>19</td><td>125</td><td>20</td><td>118</td><td>12</td><td>135</td><td>12</td><td>136</td><td>15</td><td>159</td><td>12</td><td>173</td><td>14</td><td>167</td><td>13</td><td>187</td><td>17</td><td>257</td><td>22</td><td>1,901</td><td>207</td><td>2,108</td></tr>
+<tr><td>52</td><td>147</td><td>19</td><td>59</td><td>27</td><td>216</td><td>29</td><td>177</td><td>13</td><td>146</td><td>12</td><td>129</td><td>12</td><td>113</td><td>16</td><td>147</td><td>13</td><td>189</td><td>19</td><td>147</td><td>12</td><td>154</td><td>12</td><td>178</td><td>17</td><td>1,802</td><td>191</td><td>1,993</td></tr>
+<tr><td>54</td><td>67</td><td>7</td><td>40</td><td>6</td><td>81</td><td>5</td><td>103</td><td>6</td><td>105</td><td>4</td><td>69</td><td>5</td><td>91</td><td>6</td><td>115</td><td>6</td><td>108</td><td>6</td><td>94</td><td>4</td><td>117</td><td>6</td><td>122</td><td>8</td><td>1,112</td><td>69</td><td>1,181</td></tr>
+<tr><td>55</td><td>52</td><td>4</td><td>25</td><td>3</td><td>48</td><td>4</td><td>80</td><td>3</td><td>69</td><td>6</td><td>42</td><td>3</td><td>85</td><td>4</td><td>80</td><td>7</td><td>78</td><td>15</td><td>59</td><td>3</td><td>67</td><td>6</td><td>85</td><td>6</td><td>770</td><td>64</td><td>834</td></tr>
+<tr><td></td><td>2,889</td><td>587</td><td>2,091</td><td>668</td><td>2,840</td><td>598</td><td>2,991</td><td>522</td><td>2,788</td><td>354</td><td>2,198</td><td>324</td><td>2,699</td><td>429</td><td>3,458</td><td>459</td><td>3,645</td><td>545</td><td>3,292</td><td>463</td><td>3,339</td><td>553</td><td>4,161</td><td>636</td><td>36,391</td><td>6,138</td><td>42,529</td></tr>
+</tbody>
+</table>
+
+1/2 Circumference.
+
+36------------------------------------------------
+
+AUGUST, 1925.]
+
+103
+
+**HENARATGODA RUBBER TAPPING RESULTS**  
+*April to December 1923.*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">No. of Tree</th>
+<th colspan="2">April</th>
+<th colspan="2">May</th>
+<th colspan="2">June</th>
+<th colspan="2">July</th>
+<th colspan="2">August</th>
+<th colspan="2">Sept.</th>
+<th colspan="2">Oct.</th>
+<th colspan="2">Nov.</th>
+<th colspan="2">Dec.</th>
+<th colspan="2">Total for period</th>
+<th rowspan="3">Grand Total</th>
+</tr>
+<tr>
+<th colspan="2">Scrap</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Biscuits</th>
+<th colspan="2">Scrap</th>
+<th colspan="2">Biscuits</th>
+</tr>
+<tr>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>50</td>
+<td>22</td>
+<td>3</td>
+<td>45</td>
+<td>3</td>
+<td>68</td>
+<td>3</td>
+<td>67</td>
+<td>4</td>
+<td>109</td>
+<td>6</td>
+<td>125</td>
+<td>4</td>
+<td>134</td>
+<td>4</td>
+<td>167</td>
+<td>4</td>
+<td>130</td>
+<td>5</td>
+<td>867</td>
+<td>36</td>
+<td>903</td>
+</tr>
+<tr>
+<td>61</td>
+<td>94</td>
+<td>5</td>
+<td>55</td>
+<td>4</td>
+<td>55</td>
+<td>5</td>
+<td>49</td>
+<td>4</td>
+<td>52</td>
+<td>4</td>
+<td>68</td>
+<td>4</td>
+<td>137</td>
+<td>10</td>
+<td>200</td>
+<td>9</td>
+<td>181</td>
+<td>8</td>
+<td>891</td>
+<td>53</td>
+<td>944</td>
+</tr>
+<tr>
+<td>63</td>
+<td>28</td>
+<td>3</td>
+<td>37</td>
+<td>3</td>
+<td>26</td>
+<td>3</td>
+<td>20</td>
+<td>3</td>
+<td>20</td>
+<td>4</td>
+<td>39</td>
+<td>4</td>
+<td>46</td>
+<td>4</td>
+<td>54</td>
+<td>3</td>
+<td>59</td>
+<td>4</td>
+<td>329</td>
+<td>31</td>
+<td>360</td>
+</tr>
+<tr>
+<td>66n</td>
+<td>34</td>
+<td>5</td>
+<td>56</td>
+<td>4</td>
+<td>45</td>
+<td>4</td>
+<td>40</td>
+<td>3</td>
+<td>31</td>
+<td>3</td>
+<td>46</td>
+<td>4</td>
+<td>48</td>
+<td>3</td>
+<td>68</td>
+<td>3</td>
+<td>64</td>
+<td>3</td>
+<td>432</td>
+<td>32</td>
+<td>464</td>
+</tr>
+<tr>
+<td>69</td>
+<td>8</td>
+<td>8</td>
+<td>34</td>
+<td>9</td>
+<td>34</td>
+<td>9</td>
+<td>33</td>
+<td>9</td>
+<td>33</td>
+<td>11</td>
+<td>43</td>
+<td>4</td>
+<td>49</td>
+<td>3</td>
+<td>52</td>
+<td>12</td>
+<td>50</td>
+<td>17</td>
+<td>351</td>
+<td>84</td>
+<td>435</td>
+</tr>
+<tr>
+<td>70</td>
+<td>84</td>
+<td>6</td>
+<td>104</td>
+<td>4</td>
+<td>96</td>
+<td>5</td>
+<td>90</td>
+<td>4</td>
+<td>81</td>
+<td>4</td>
+<td>82</td>
+<td>4</td>
+<td>89</td>
+<td>4</td>
+<td>112</td>
+<td>3</td>
+<td>90</td>
+<td>4</td>
+<td>828</td>
+<td>38</td>
+<td>866</td>
+</tr>
+<tr>
+<td>71</td>
+<td>52</td>
+<td>4</td>
+<td>74</td>
+<td>5</td>
+<td>63</td>
+<td>3</td>
+<td>54</td>
+<td>4</td>
+<td>37</td>
+<td>5</td>
+<td>61</td>
+<td>4</td>
+<td>74</td>
+<td>6</td>
+<td>85</td>
+<td>5</td>
+<td>75</td>
+<td>5</td>
+<td>575</td>
+<td>41</td>
+<td>616</td>
+</tr>
+<tr>
+<td>72</td>
+<td>89</td>
+<td>8</td>
+<td>111</td>
+<td>6</td>
+<td>86</td>
+<td>0</td>
+<td>7</td>
+<td>7</td>
+<td>73</td>
+<td>6</td>
+<td>103</td>
+<td>4</td>
+<td>110</td>
+<td>6</td>
+<td>151</td>
+<td>2</td>
+<td>157</td>
+<td>11</td>
+<td>969</td>
+<td>30</td>
+<td>1032</td>
+</tr>
+<tr>
+<td>74</td>
+<td>25</td>
+<td>5</td>
+<td>25</td>
+<td>3</td>
+<td>20</td>
+<td>3</td>
+<td>22</td>
+<td>3</td>
+<td>20</td>
+<td>3</td>
+<td>25</td>
+<td>4</td>
+<td>36</td>
+<td>3</td>
+<td>52</td>
+<td>9</td>
+<td>54</td>
+<td>4</td>
+<td>279</td>
+<td>63</td>
+<td>309</td>
+</tr>
+<tr>
+<td>75</td>
+<td>15</td>
+<td>7</td>
+<td>22</td>
+<td>9</td>
+<td>23</td>
+<td>9</td>
+<td>19</td>
+<td>11</td>
+<td>16</td>
+<td>12</td>
+<td>25</td>
+<td>4</td>
+<td>31</td>
+<td>14</td>
+<td>51</td>
+<td>15</td>
+<td>51</td>
+<td>12</td>
+<td>253</td>
+<td>93</td>
+<td>346</td>
+</tr>
+<tr>
+<td>76</td>
+<td>38</td>
+<td>9</td>
+<td>40</td>
+<td>14</td>
+<td>35</td>
+<td>14</td>
+<td>30</td>
+<td>12</td>
+<td>34</td>
+<td>11</td>
+<td>43</td>
+<td>4</td>
+<td>74</td>
+<td>13</td>
+<td>103</td>
+<td>16</td>
+<td>89</td>
+<td>23</td>
+<td>486</td>
+<td>116</td>
+<td>602</td>
+</tr>
+<tr>
+<td>78</td>
+<td>46</td>
+<td>7</td>
+<td>73</td>
+<td>8</td>
+<td>78</td>
+<td>7</td>
+<td>58</td>
+<td>7</td>
+<td>36</td>
+<td>6</td>
+<td>39</td>
+<td>7</td>
+<td>64</td>
+<td>6</td>
+<td>79</td>
+<td>6</td>
+<td>96</td>
+<td>12</td>
+<td>569</td>
+<td>66</td>
+<td>635</td>
+</tr>
+<tr>
+<td>81</td>
+<td>26</td>
+<td>19</td>
+<td>42</td>
+<td>27</td>
+<td>35</td>
+<td>22</td>
+<td>24</td>
+<td>8</td>
+<td>43</td>
+<td>4</td>
+<td>93</td>
+<td>21</td>
+<td>108</td>
+<td>26</td>
+<td>109</td>
+<td>30</td>
+<td>118</td>
+<td>59</td>
+<td>598</td>
+<td>216</td>
+<td>814</td>
+</tr>
+<tr>
+<td>83</td>
+<td>46</td>
+<td>9</td>
+<td>52</td>
+<td>7</td>
+<td>85</td>
+<td>11</td>
+<td>44</td>
+<td>7</td>
+<td>49</td>
+<td>5</td>
+<td>85</td>
+<td>4</td>
+<td>124</td>
+<td>6</td>
+<td>109</td>
+<td>5</td>
+<td>117</td>
+<td>8</td>
+<td>699</td>
+<td>62</td>
+<td>761</td>
+</tr>
+<tr>
+<td>90</td>
+<td>34</td>
+<td>7</td>
+<td>45</td>
+<td>7</td>
+<td>43</td>
+<td>3</td>
+<td>27</td>
+<td>3</td>
+<td>26</td>
+<td>3</td>
+<td>50</td>
+<td>4</td>
+<td>61</td>
+<td>3</td>
+<td>79</td>
+<td>4</td>
+<td>77</td>
+<td>5</td>
+<td>454</td>
+<td>37</td>
+<td>491</td>
+</tr>
+<tr>
+<td>91</td>
+<td>64</td>
+<td>9</td>
+<td>90</td>
+<td>4</td>
+<td>87</td>
+<td>5</td>
+<td>90</td>
+<td>4</td>
+<td>90</td>
+<td>4</td>
+<td>114</td>
+<td>4</td>
+<td>149</td>
+<td>5</td>
+<td>196</td>
+<td>5</td>
+<td>151</td>
+<td>5</td>
+<td>1031</td>
+<td>45</td>
+<td>1076</td>
+</tr>
+<tr>
+<td>95</td>
+<td>41</td>
+<td>9</td>
+<td>65</td>
+<td>7</td>
+<td>60</td>
+<td>7</td>
+<td>56</td>
+<td>5</td>
+<td>50</td>
+<td>5</td>
+<td>71</td>
+<td>4</td>
+<td>69</td>
+<td>7</td>
+<td>89</td>
+<td>6</td>
+<td>83</td>
+<td>7</td>
+<td>584</td>
+<td>57</td>
+<td>641</td>
+</tr>
+<tr>
+<td>97</td>
+<td>13</td>
+<td>11</td>
+<td>18</td>
+<td>15</td>
+<td>35</td>
+<td>23</td>
+<td>35</td>
+<td>8</td>
+<td>35</td>
+<td>8</td>
+<td>43</td>
+<td>4</td>
+<td>53</td>
+<td>10</td>
+<td>52</td>
+<td>6</td>
+<td>39</td>
+<td>9</td>
+<td>323</td>
+<td>87</td>
+<td>410</td>
+</tr>
+<tr>
+<td>98</td>
+<td>7</td>
+<td>8</td>
+<td>11</td>
+<td>8</td>
+<td>11</td>
+<td>8</td>
+<td>12</td>
+<td>6</td>
+<td>12</td>
+<td>6</td>
+<td>21</td>
+<td>4</td>
+<td>32</td>
+<td>8</td>
+<td>44</td>
+<td>6</td>
+<td>40</td>
+<td>10</td>
+<td>190</td>
+<td>64</td>
+<td>254</td>
+</tr>
+<tr>
+<td>100</td>
+<td>78</td>
+<td>9</td>
+<td>108</td>
+<td>10</td>
+<td>95</td>
+<td>7</td>
+<td>99</td>
+<td>7</td>
+<td>98</td>
+<td>10</td>
+<td>121</td>
+<td>4</td>
+<td>138</td>
+<td>9</td>
+<td>178</td>
+<td>9</td>
+<td>180</td>
+<td>10</td>
+<td>1095</td>
+<td>75</td>
+<td>1170</td>
+</tr>
+<tr>
+<td></td>
+<td>659</td>
+<td>151</td>
+<td>1107</td>
+<td>154</td>
+<td>1080</td>
+<td>149</td>
+<td>958</td>
+<td>119</td>
+<td>945</td>
+<td>121</td>
+<td>1297</td>
+<td>100</td>
+<td>1626</td>
+<td>159</td>
+<td>2030</td>
+<td>161</td>
+<td>1901</td>
+<td>221</td>
+<td>11803</td>
+<td>1326</td>
+<td>13129</td>
+</tr>
+</tbody>
+</table>
+
+37------------------------------------------------
+
+104
+
+[AUGUST, 1925.
+
+**HENARATGODA RUBBER TAPPING RESULTS**  
+*January 1924 to December 1924.*
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">No. of Tree</th>
+<th colspan="2">January</th>
+<th colspan="2">February</th>
+<th colspan="2">March</th>
+<th colspan="2">April</th>
+<th colspan="2">May</th>
+<th colspan="2">June</th>
+<th colspan="2">July</th>
+<th colspan="2">August</th>
+<th colspan="2">September</th>
+<th colspan="2">October</th>
+<th colspan="2">November</th>
+<th colspan="2">December</th>
+<th colspan="2">Total for period</th>
+<th rowspan="2">Grand Total</th>
+</tr>
+<tr>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+<th>Biscuits</th>
+<th>Scrap</th>
+</tr>
+<tr>
+<th></th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+<th>gms.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>59</td>
+<td>106</td>
+<td>8</td>
+<td>114</td>
+<td>5</td>
+<td>74</td>
+<td>7</td>
+<td>117</td>
+<td>8</td>
+<td>103</td>
+<td>8</td>
+<td>84</td>
+<td>3</td>
+<td>140</td>
+<td>3</td>
+<td>155</td>
+<td>5</td>
+<td>182</td>
+<td>6</td>
+<td>187</td>
+<td>3</td>
+<td>193</td>
+<td>8</td>
+<td>152</td>
+<td>4</td>
+<td>1,607</td>
+<td>48</td>
+<td>1,655</td>
+</tr>
+<tr>
+<td>61</td>
+<td>152</td>
+<td>8</td>
+<td>80</td>
+<td>5</td>
+<td>189</td>
+<td>23</td>
+<td>133</td>
+<td>16</td>
+<td>150</td>
+<td>20</td>
+<td>104</td>
+<td>22</td>
+<td>121</td>
+<td>26</td>
+<td>158</td>
+<td>67</td>
+<td>89</td>
+<td>61</td>
+<td>93</td>
+<td>41</td>
+<td>73</td>
+<td>44</td>
+<td>75</td>
+<td>25</td>
+<td>1,417</td>
+<td>861</td>
+<td>1,778</td>
+</tr>
+<tr>
+<td>63</td>
+<td>55</td>
+<td>5</td>
+<td>35</td>
+<td>5</td>
+<td>39</td>
+<td>2</td>
+<td>38</td>
+<td>4</td>
+<td>45</td>
+<td>3</td>
+<td>35</td>
+<td>2</td>
+<td>44</td>
+<td>4</td>
+<td>64</td>
+<td>5</td>
+<td>63</td>
+<td>5</td>
+<td>56</td>
+<td>3</td>
+<td>61</td>
+<td>4</td>
+<td>81</td>
+<td>6</td>
+<td>616</td>
+<td>47</td>
+<td>664</td>
+</tr>
+<tr>
+<td>66</td>
+<td>62</td>
+<td>4</td>
+<td>38</td>
+<td>2</td>
+<td>37</td>
+<td>2</td>
+<td>54</td>
+<td>3</td>
+<td>56</td>
+<td>2</td>
+<td>47</td>
+<td>2</td>
+<td>48</td>
+<td>3</td>
+<td>71</td>
+<td>4</td>
+<td>72</td>
+<td>4</td>
+<td>58</td>
+<td>2</td>
+<td>65</td>
+<td>3</td>
+<td>73</td>
+<td>4</td>
+<td>681</td>
+<td>35</td>
+<td>716</td>
+</tr>
+<tr>
+<td>69</td>
+<td>41</td>
+<td>18</td>
+<td>84</td>
+<td>20</td>
+<td>50</td>
+<td>13</td>
+<td>58</td>
+<td>14</td>
+<td>54</td>
+<td>6</td>
+<td>41</td>
+<td>12</td>
+<td>44</td>
+<td>11</td>
+<td>58</td>
+<td>17</td>
+<td>54</td>
+<td>16</td>
+<td>56</td>
+<td>12</td>
+<td>55</td>
+<td>20</td>
+<td>75</td>
+<td>20</td>
+<td>620</td>
+<td>179</td>
+<td>799</td>
+</tr>
+<tr>
+<td>70</td>
+<td>72</td>
+<td>4</td>
+<td>93</td>
+<td>4</td>
+<td>79</td>
+<td>3</td>
+<td>124</td>
+<td>4</td>
+<td>123</td>
+<td>2</td>
+<td>85</td>
+<td>3</td>
+<td>94</td>
+<td>4</td>
+<td>120</td>
+<td>8</td>
+<td>132</td>
+<td>4</td>
+<td>99</td>
+<td>5</td>
+<td>120</td>
+<td>4</td>
+<td>109</td>
+<td>5</td>
+<td>1,255</td>
+<td>45</td>
+<td>1,300</td>
+</tr>
+<tr>
+<td>71</td>
+<td>82</td>
+<td>7</td>
+<td>45</td>
+<td>5</td>
+<td>67</td>
+<td>4</td>
+<td>20</td>
+<td>5</td>
+<td>66</td>
+<td>3</td>
+<td>44</td>
+<td>3</td>
+<td>52</td>
+<td>4</td>
+<td>80</td>
+<td>6</td>
+<td>90</td>
+<td>5</td>
+<td>62</td>
+<td>6</td>
+<td>60</td>
+<td>6</td>
+<td>91</td>
+<td>7</td>
+<td>819</td>
+<td>61</td>
+<td>880</td>
+</tr>
+<tr>
+<td>72</td>
+<td>188</td>
+<td>17</td>
+<td>75</td>
+<td>20</td>
+<td>109</td>
+<td>12</td>
+<td>126</td>
+<td>8</td>
+<td>169</td>
+<td>7</td>
+<td>112</td>
+<td>9</td>
+<td>117</td>
+<td>11</td>
+<td>167</td>
+<td>8</td>
+<td>184</td>
+<td>11</td>
+<td>143</td>
+<td>10</td>
+<td>143</td>
+<td>12</td>
+<td>173</td>
+<td>20</td>
+<td>1,656</td>
+<td>145</td>
+<td>1,801</td>
+</tr>
+<tr>
+<td>74</td>
+<td>51</td>
+<td>4</td>
+<td>20</td>
+<td>3</td>
+<td>29</td>
+<td>3</td>
+<td>24</td>
+<td>3</td>
+<td>22</td>
+<td>3</td>
+<td>28</td>
+<td>3</td>
+<td>51</td>
+<td>8</td>
+<td>71</td>
+<td>4</td>
+<td>62</td>
+<td>4</td>
+<td>77</td>
+<td>8</td>
+<td>68</td>
+<td>3</td>
+<td>77</td>
+<td>4</td>
+<td>580</td>
+<td>40</td>
+<td>620</td>
+</tr>
+<tr>
+<td>75</td>
+<td>58</td>
+<td>18</td>
+<td>22</td>
+<td>19</td>
+<td>24</td>
+<td>13</td>
+<td>31</td>
+<td>12</td>
+<td>84</td>
+<td>8</td>
+<td>29</td>
+<td>11</td>
+<td>46</td>
+<td>14</td>
+<td>70</td>
+<td>22</td>
+<td>49</td>
+<td>20</td>
+<td>59</td>
+<td>18</td>
+<td>56</td>
+<td>17</td>
+<td>66</td>
+<td>20</td>
+<td>544</td>
+<td>192</td>
+<td>736</td>
+</tr>
+<tr>
+<td>76</td>
+<td>104</td>
+<td>24</td>
+<td>72</td>
+<td>24</td>
+<td>101</td>
+<td>25</td>
+<td>124</td>
+<td>15</td>
+<td>88</td>
+<td>9</td>
+<td>67</td>
+<td>12</td>
+<td>92</td>
+<td>16</td>
+<td>122</td>
+<td>12</td>
+<td>116</td>
+<td>26</td>
+<td>109</td>
+<td>17</td>
+<td>118</td>
+<td>27</td>
+<td>156</td>
+<td>29</td>
+<td>1,289</td>
+<td>236</td>
+<td>1,505</td>
+</tr>
+<tr>
+<td>78</td>
+<td>103</td>
+<td>10</td>
+<td>74</td>
+<td>16</td>
+<td>72</td>
+<td>9</td>
+<td>73</td>
+<td>7</td>
+<td>77</td>
+<td>6</td>
+<td>70</td>
+<td>5</td>
+<td>78</td>
+<td>9</td>
+<td>96</td>
+<td>9</td>
+<td>91</td>
+<td>9</td>
+<td>102</td>
+<td>9</td>
+<td>108</td>
+<td>13</td>
+<td>119</td>
+<td>17</td>
+<td>1,063</td>
+<td>119</td>
+<td>1,182</td>
+</tr>
+<tr>
+<td>81</td>
+<td>118</td>
+<td>50</td>
+<td>38</td>
+<td>16</td>
+<td>94</td>
+<td>48</td>
+<td>130</td>
+<td>34</td>
+<td>126</td>
+<td>30</td>
+<td>84</td>
+<td>20</td>
+<td>112</td>
+<td>25</td>
+<td>201</td>
+<td>44</td>
+<td>204</td>
+<td>44</td>
+<td>141</td>
+<td>51</td>
+<td>146</td>
+<td>94</td>
+<td>162</td>
+<td>87</td>
+<td>1,582</td>
+<td>498</td>
+<td>2,025</td>
+</tr>
+<tr>
+<td>88</td>
+<td>116</td>
+<td>7</td>
+<td>92</td>
+<td>16</td>
+<td>188</td>
+<td>9</td>
+<td>139</td>
+<td>7</td>
+<td>181</td>
+<td>8</td>
+<td>131</td>
+<td>5</td>
+<td>156</td>
+<td>12</td>
+<td>170</td>
+<td>8</td>
+<td>228</td>
+<td>10</td>
+<td>179</td>
+<td>9</td>
+<td>177</td>
+<td>11</td>
+<td>160</td>
+<td>13</td>
+<td>1,869</td>
+<td>115</td>
+<td>1,984</td>
+</tr>
+<tr>
+<td>90</td>
+<td>97</td>
+<td>5</td>
+<td>77</td>
+<td>5</td>
+<td>44</td>
+<td>4</td>
+<td>50</td>
+<td>4</td>
+<td>57</td>
+<td>3</td>
+<td>40</td>
+<td>4</td>
+<td>58</td>
+<td>4</td>
+<td>69</td>
+<td>6</td>
+<td>66</td>
+<td>5</td>
+<td>80</td>
+<td>6</td>
+<td>77</td>
+<td>5</td>
+<td>114</td>
+<td>9</td>
+<td>829</td>
+<td>61</td>
+<td>890</td>
+</tr>
+<tr>
+<td>91</td>
+<td>120</td>
+<td>3</td>
+<td>60</td>
+<td>3</td>
+<td>101</td>
+<td>3</td>
+<td>146</td>
+<td>3</td>
+<td>137</td>
+<td>3</td>
+<td>114</td>
+<td>2</td>
+<td>125</td>
+<td>3</td>
+<td>161</td>
+<td>4</td>
+<td>173</td>
+<td>4</td>
+<td>173</td>
+<td>4</td>
+<td>143</td>
+<td>4</td>
+<td>152</td>
+<td>6</td>
+<td>1,605</td>
+<td>42</td>
+<td>1,647</td>
+</tr>
+<tr>
+<td>95</td>
+<td>97</td>
+<td>5</td>
+<td>53</td>
+<td>14</td>
+<td>49</td>
+<td>12</td>
+<td>68</td>
+<td>9</td>
+<td>69</td>
+<td>8</td>
+<td>61</td>
+<td>5</td>
+<td>55</td>
+<td>8</td>
+<td>116</td>
+<td>12</td>
+<td>106</td>
+<td>9</td>
+<td>77</td>
+<td>9</td>
+<td>104</td>
+<td>11</td>
+<td>94</td>
+<td>12</td>
+<td>949</td>
+<td>114</td>
+<td>1,063</td>
+</tr>
+<tr>
+<td>97</td>
+<td>50</td>
+<td>12</td>
+<td>20</td>
+<td>18</td>
+<td>38</td>
+<td>16</td>
+<td>37</td>
+<td>12</td>
+<td>35</td>
+<td>10</td>
+<td>28</td>
+<td>8</td>
+<td>45</td>
+<td>11</td>
+<td>57</td>
+<td>12</td>
+<td>59</td>
+<td>15</td>
+<td>45</td>
+<td>14</td>
+<td>49</td>
+<td>13</td>
+<td>74</td>
+<td>10</td>
+<td>537</td>
+<td>146</td>
+<td>688</td>
+</tr>
+<tr>
+<td>98</td>
+<td>37</td>
+<td>11</td>
+<td>14</td>
+<td>8</td>
+<td>11</td>
+<td>10</td>
+<td>21</td>
+<td>6</td>
+<td>16</td>
+<td>7</td>
+<td>25</td>
+<td>5</td>
+<td>41</td>
+<td>6</td>
+<td>64</td>
+<td>8</td>
+<td>42</td>
+<td>8</td>
+<td>52</td>
+<td>8</td>
+<td>58</td>
+<td>11</td>
+<td>77</td>
+<td>11</td>
+<td>458</td>
+<td>99</td>
+<td>557</td>
+</tr>
+<tr>
+<td>100</td>
+<td>172</td>
+<td>11</td>
+<td>128</td>
+<td>11</td>
+<td>129</td>
+<td>11</td>
+<td>125</td>
+<td>11</td>
+<td>157</td>
+<td>9</td>
+<td>151</td>
+<td>9</td>
+<td>167</td>
+<td>12</td>
+<td>197</td>
+<td>9</td>
+<td>189</td>
+<td>10</td>
+<td>208</td>
+<td>101</td>
+<td>218</td>
+<td>18</td>
+<td>224</td>
+<td>28</td>
+<td>2,045</td>
+<td>235</td>
+<td>2,280</td>
+</tr>
+<tr>
+<td></td>
+<td>1,831</td>
+<td>226</td>
+<td>1,182</td>
+<td>217</td>
+<td>1,474</td>
+<td>229</td>
+<td>1,698</td>
+<td>150</td>
+<td>1,770</td>
+<td>151</td>
+<td>1,360</td>
+<td>145</td>
+<td>1,686</td>
+<td>189</td>
+<td>2,267</td>
+<td>265</td>
+<td>2,251</td>
+<td>276</td>
+<td>2,056</td>
+<td>331</td>
+<td>2,092</td>
+<td>323</td>
+<td>2,284</td>
+<td>282</td>
+<td>21,951</td>
+<td>2,814</td>
+<td>24,765</td>
+</tr>
+</tbody>
+</table>
+
+38------------------------------------------------
+
+AUGUST, 1925.]105
+
+<table border="0">
+<tr>
+<td>Girth measurements of<br/>the <math>\frac{1}{3}</math> girth Expt.</td>
+<td>Girth measurements of<br/>the <math>\frac{1}{2}</math> girth Expt.</td>
+<td>Girth measurements of<br/>the <math>\frac{1}{4}</math> girth Expt.</td>
+</tr>
+<tr>
+<td>Group I</td>
+<td>Group II</td>
+<td>Group III</td>
+</tr>
+<tr>
+<td>3 ft. from ground.</td>
+<td>3 ft. from the ground</td>
+<td>3 ft. from ground</td>
+</tr>
+</table>
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Tree No.</th>
+<th colspan="2">Girth measurement</th>
+<th rowspan="2">Tree No.</th>
+<th colspan="2">Girth measurement</th>
+<th rowspan="2">Tree No.</th>
+<th colspan="2">Girth measurement</th>
+</tr>
+<tr>
+<th>Feet</th>
+<th>Inches</th>
+<th>Feet</th>
+<th>Inches</th>
+<th>Feet</th>
+<th>Inches</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+<td>30</td>
+<td>4</td>
+<td>2</td>
+<td>59</td>
+<td>3</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4</td>
+<td>—</td>
+<td>31</td>
+<td>4</td>
+<td>3</td>
+<td>61</td>
+<td>3</td>
+<td>8<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+<td>33</td>
+<td>2</td>
+<td>9<math>\frac{1}{2}</math></td>
+<td>63</td>
+<td>3</td>
+<td>2<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>34</td>
+<td>3</td>
+<td><math>\frac{1}{2}</math></td>
+<td>66</td>
+<td>3</td>
+<td>2<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>5</td>
+<td>3</td>
+<td>4</td>
+<td>35</td>
+<td>3</td>
+<td>7<math>\frac{1}{2}</math></td>
+<td>69</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>3</td>
+<td>9<math>\frac{1}{2}</math></td>
+<td>36</td>
+<td>3</td>
+<td>8</td>
+<td>76</td>
+<td>3</td>
+<td>6</td>
+</tr>
+<tr>
+<td>7</td>
+<td>4</td>
+<td>4</td>
+<td>38</td>
+<td>3</td>
+<td>2<math>\frac{1}{2}</math></td>
+<td>71</td>
+<td>4</td>
+<td>1<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>8</td>
+<td>2</td>
+<td>9<math>\frac{1}{2}</math></td>
+<td>40</td>
+<td>2</td>
+<td>9</td>
+<td>72</td>
+<td>3</td>
+<td>8<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>10</td>
+<td>3</td>
+<td>11<math>\frac{1}{4}</math></td>
+<td>41</td>
+<td>3</td>
+<td>7<math>\frac{1}{2}</math></td>
+<td>74</td>
+<td>3</td>
+<td>2<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>12</td>
+<td>4</td>
+<td>5<math>\frac{1}{2}</math></td>
+<td>42</td>
+<td>3</td>
+<td>2<math>\frac{1}{2}</math></td>
+<td>75</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>13</td>
+<td>4</td>
+<td>6<math>\frac{1}{2}</math></td>
+<td>43</td>
+<td>4</td>
+<td>2</td>
+<td>76</td>
+<td>4</td>
+<td><math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>14</td>
+<td>3</td>
+<td>6<math>\frac{3}{4}</math></td>
+<td>44</td>
+<td>3</td>
+<td>6</td>
+<td>78</td>
+<td>3</td>
+<td>9</td>
+</tr>
+<tr>
+<td>18</td>
+<td>3</td>
+<td>—</td>
+<td>46</td>
+<td>3</td>
+<td>4<math>\frac{1}{2}</math></td>
+<td>81</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>21</td>
+<td>3</td>
+<td>2</td>
+<td>48</td>
+<td>3</td>
+<td>10</td>
+<td>83</td>
+<td>4</td>
+<td>6</td>
+</tr>
+<tr>
+<td>22</td>
+<td>3</td>
+<td>3</td>
+<td>49</td>
+<td>3</td>
+<td>10<math>\frac{1}{2}</math></td>
+<td>90</td>
+<td>4</td>
+<td>—</td>
+</tr>
+<tr>
+<td>23</td>
+<td>2</td>
+<td>11<math>\frac{1}{2}</math></td>
+<td>50</td>
+<td>3</td>
+<td>1</td>
+<td>91</td>
+<td>3</td>
+<td>8</td>
+</tr>
+<tr>
+<td>24</td>
+<td>3</td>
+<td>11<math>\frac{1}{2}</math></td>
+<td>51</td>
+<td>3</td>
+<td>4</td>
+<td>95</td>
+<td>3</td>
+<td>5</td>
+</tr>
+<tr>
+<td>25</td>
+<td>3</td>
+<td>7</td>
+<td>52</td>
+<td>4</td>
+<td>3<math>\frac{1}{2}</math></td>
+<td>97</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>26</td>
+<td>3</td>
+<td>4<math>\frac{1}{2}</math></td>
+<td>54</td>
+<td>2</td>
+<td>6<math>\frac{1}{4}</math></td>
+<td>98</td>
+<td>3</td>
+<td>4<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>29</td>
+<td>3</td>
+<td>2</td>
+<td>55</td>
+<td>2</td>
+<td>8</td>
+<td>100</td>
+<td>4</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+39------------------------------------------------
+
+106[AUGUST, 1925.
+
+# FIBRES.
+
+## EXPERIMENTAL TRIALS WITH SISAL.
+
+F. A. STOCKDALE, C.B.E., M.A., F.L.S.,
+
+*Director of Agriculture, Ceylon.*
+
+and
+
+G. HARBORD, M.S.E.A.C.
+
+*Divisional Agricultural Officer.*
+
+The first experiments with Sisal were made at the Mahailuppalama Experiment Station in the North-Central Province. The growth on this station was sufficient to warrant more extended trials being made at the Dry Zone Experiment Station at Anuradhapura. In 1917 it was therefore decided to extend the areas under fibre to give a fair trial to different varieties and to warrant the erection of a small extracting mill. The whole object of the Experiment was to test the possible value of Sisal or other fibres in the development of the Dry Zone of Ceylon and to ascertain whether it would be possible for Government safely to embark upon a progressive developmental campaign in that area for the improvement of the economics of the inhabitants. There were vast areas of unirrigable land in the dry zone which were not beneficially occupied and a crop for these lands appeared to be required if any progress was to be made. The earlier experiments at Mahailuppalama seemed to indicate that Sisal offered possibilities, and at the same time trials were made with *Furcraea gigantea*.
+
+A brief preliminary account of the experiments was included in the Year-book of the Department of Agriculture for 1924. Since then the figures of the Anuradhapura Experiment Station have been analysed. The following particulars have been worked out by Mr. G. Harbord, Divisional Agricultural Officer, from the Anuradhapura Experiment Station figures:—
+
+### THE AREA UNDER SISAL.
+
+<table border="1">
+<thead>
+<tr>
+<th>Date of planting</th>
+<th></th>
+<th>Plots</th>
+<th>Acreage</th>
+<th>Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nov. 1918</td>
+<td></td>
+<td>D 1</td>
+<td>3 acres</td>
+<td>6 years</td>
+</tr>
+<tr>
+<td>Dec. 1918</td>
+<td></td>
+<td>D 2</td>
+<td>2 "</td>
+<td>6 years</td>
+</tr>
+<tr>
+<td>Jan. 1919</td>
+<td></td>
+<td>D 3</td>
+<td>2 "</td>
+<td>6 years</td>
+</tr>
+<tr>
+<td>Feb. 1919</td>
+<td></td>
+<td>D 4</td>
+<td>2½ "</td>
+<td>6 years</td>
+</tr>
+<tr>
+<td>Mar. 1919</td>
+<td></td>
+<td>D 5</td>
+<td>2½ "</td>
+<td>6 years</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>—12 "</td>
+<td></td>
+</tr>
+<tr>
+<td>Sept. 1919</td>
+<td></td>
+<td>D 6</td>
+<td>2½ "</td>
+<td>5 years</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>—2½ "</td>
+<td></td>
+</tr>
+<tr>
+<td>April, 1921</td>
+<td></td>
+<td>D 7</td>
+<td>2 "</td>
+<td rowspan="2">} 4 years</td>
+</tr>
+<tr>
+<td>April, 1921</td>
+<td></td>
+<td>D 8</td>
+<td>1½ "</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>—3½ "</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Total acreage</td>
+<td>18 "</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+The spacing is 8 ft. × 6 ft. giving 908 plants per acre.
+
+40------------------------------------------------
+
+AUGUST, 1925.]107
+
+### CULTIVATION COSTS.
+
+The total cultivation costs have been :—
+
+<table border="1">
+<thead>
+<tr>
+<th>Period.</th>
+<th>Planting.</th>
+<th>Weeding.</th>
+<th>Supplying.</th>
+<th>Uprooting Suckers.</th>
+<th>Total.</th>
+</tr>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>Rs.</th>
+<th>Rs.</th>
+<th>Rs.</th>
+<th>Rs.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oct. 1918 to Sept. 1919 ...</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1,036.00</td>
+</tr>
+<tr>
+<td>Oct. 1919 to Sept. 1920 ...</td>
+<td>50.58</td>
+<td>605.27</td>
+<td>—</td>
+<td>—</td>
+<td>655.85</td>
+</tr>
+<tr>
+<td>Oct. 1920 to Sept. 1921 ...</td>
+<td>41.82</td>
+<td>1,395.87</td>
+<td>57.00</td>
+<td>—</td>
+<td>1,494.69</td>
+</tr>
+<tr>
+<td>Oct. 1921 to Sept. 1922 ...</td>
+<td>—</td>
+<td>950.27</td>
+<td>21.24</td>
+<td>35.05</td>
+<td>1,006.56</td>
+</tr>
+<tr>
+<td>Oct. 1922 to Sept. 1923 ..</td>
+<td>58.23</td>
+<td>503.74</td>
+<td>—</td>
+<td>21.96</td>
+<td>583.93</td>
+</tr>
+<tr>
+<td>Oct. 1923 to Sept. 1924 ...</td>
+<td>25.08</td>
+<td>34.24</td>
+<td>—</td>
+<td>103.89</td>
+<td>163.21</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><u>Rs. 4,940.24</u></td>
+</tr>
+</tbody>
+</table>
+
+These included planting, weeding, supplying, uprooting suckers, etc. Jungle clearing averages Rs. 30 per acre. When costs of experimental work which was made to test different forms of cultivations are eliminated, it has been found that the cost of cultivation per ton of fibre has been Rs. 95.00.
+
+### FACTORY COST.
+
+3. The cost of the factory, scutcher and buildings has been as follows :—
+
+<table border="1">
+<tbody>
+<tr>
+<td>Single Drum Aloe fibre scraper<br/>(from Mauritius landed in Colombo)</td>
+<td>... 1,500</td>
+</tr>
+<tr>
+<td>S.H.P. Hornsby Oil Engine complete</td>
+<td>... 4,000</td>
+</tr>
+<tr>
+<td>Buildings (sheds, tanks, etc.) ...</td>
+<td>... 3,000</td>
+</tr>
+<tr>
+<td></td>
+<td><u>Rs. 8,500</u></td>
+</tr>
+</tbody>
+</table>
+
+### COST OF HARVESTING LEAF.
+
+4. The cost of harvesting leaf is as follows :—
+
+<table border="1">
+<tbody>
+<tr>
+<td>Cutting ... ..</td>
+<td>35 c. per 1,000 leaves</td>
+</tr>
+<tr>
+<td>Transporting—from field to roads ...</td>
+<td>25 c. per 1,000 leaves</td>
+</tr>
+<tr>
+<td>Bundling and grading (in the field) ...</td>
+<td>25 c. per 1,000 leaves</td>
+</tr>
+<tr>
+<td>Transporting (carting 1 mile to factory)</td>
+<td>66 c. per 1,000 leaves</td>
+</tr>
+</tbody>
+</table>
+
+Re. 1.51
+
+Cost per 1,000 leaves, Re. 1.50 or cost of harvesting per ton of fibre, Rs. 93.75.
+
+### COST OF FIBRE EXTRACTION.
+
+5. The cost of extraction is as follows :—
+
+Engine running costs—for one month (25 working days)
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>c.</th>
+<th>Rs.</th>
+<th>c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mechanic, at Re. 1.50 ... ..</td>
+<td>= 37</td>
+<td>50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Liquid fuel—2<math>\frac{3}{4}</math> gallons per day at 28 cts.</td>
+<td>= 19</td>
+<td>25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Engine oil—4<math>\frac{1}{6}</math> gallons per day at Re. 1.86</td>
+<td>= 7</td>
+<td>75</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Kerosene oil—5 gallons per day at Re. 1.26</td>
+<td>= 6</td>
+<td>30</td>
+<td>70</td>
+<td>80</td>
+</tr>
+</tbody>
+</table>
+
+41------------------------------------------------
+
+108[AUGUST, 1925.*Other labour costs for one month (25 working days)*
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>c.</th>
+<th>Rs.</th>
+<th>c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Brought forward</td>
+<td></td>
+<td></td>
+<td>70</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Extracting fibre<br/>(5,000 leaves per diem at cts. 40 per 1,000)</td>
+<td>=</td>
+<td>50</td>
+<td>00</td>
+<td></td>
+</tr>
+<tr>
+<td>Washing fibre<br/>(4 coolies at 35 cts.)</td>
+<td>=</td>
+<td>35</td>
+<td>00</td>
+<td></td>
+</tr>
+<tr>
+<td>Pumping water<br/>(1 cooly at 75 cts.)</td>
+<td>=</td>
+<td>18</td>
+<td>75</td>
+<td></td>
+</tr>
+<tr>
+<td>Sweeping refuse, etc.<br/>(2 coolies at 75 cts.)</td>
+<td>=</td>
+<td>37</td>
+<td>50</td>
+<td></td>
+</tr>
+<tr>
+<td>Drying fibre, etc.</td>
+<td>=</td>
+<td>8</td>
+<td>75-150</td>
+<td>00</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><hr/>Rs. 220</td>
+<td><hr/>80</td>
+</tr>
+</tbody>
+</table>
+
+**SUMMARY.**
+
+In one month of 25 days, 125,000 leaves are decorticated.
+
+The outturn at 2.6% fibre = 2 tons of fibre.
+
+Cost of extraction per ton fibre, Rs. 110.
+
+**COST OF SORTING, ETC.**
+
+6. The cost of sorting, combing and baling is as follows:—
+
+Sorting and combing fibre (at 1 c. per lb.) = Rs. 22.40 per ton
+
+Baling ... .. Rs. 8.00 per ton
+
+The cost of sorting and combing is high, as a brusher has not been installed. If this were done a reduction of Rs. 15.00 per ton dry fibre could be made.
+
+**7. TOTAL COST PER TON DRY FIBRE.**
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Rs.</th>
+<th>c.</th>
+<th>Rs.</th>
+<th>c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cultivation</td>
+<td>95</td>
+<td>00</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Harvesting</td>
+<td>93</td>
+<td>75</td>
+<td>188</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Extraction and drying</td>
+<td>110</td>
+<td>00</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sorting and combing</td>
+<td>22</td>
+<td>40</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Baling</td>
+<td>8</td>
+<td>00</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Depreciation—at 10% on value of machinery<br/>and buildings (Rs. 8,500)</td>
+<td>2</td>
+<td>54</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Interest on capital at 8% (Rs. 8,500)</td>
+<td>2</td>
+<td>00</td>
+<td>144</td>
+<td>94</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td><hr/>333</td>
+<td><hr/>69</td>
+</tr>
+</tbody>
+</table>
+
+Cartage, freight, docking charges and brokers' commission, etc.
+
+No allowance has been made in these costs for the cost of superintendence, nor are the charges for delivery to Colombo taken into consideration.
+
+**8. MISCELLANEOUS FIGURES.**
+
+<table>
+<tbody>
+<tr>
+<td>Average number of leaves harvested per plant per annum</td>
+<td>=</td>
+<td>44 leaves</td>
+</tr>
+<tr>
+<td>Average weight of a matured leaf</td>
+<td>=</td>
+<td>1.4 lb.</td>
+</tr>
+<tr>
+<td>Average height of a matured leaf</td>
+<td>=</td>
+<td>3 ft. 6 ins.</td>
+</tr>
+<tr>
+<td>Extraction percentage (fibre)</td>
+<td>=</td>
+<td>2.6</td>
+</tr>
+<tr>
+<td>Weight of dry fibre (1,000 leaves)</td>
+<td>=</td>
+<td>36.4 lb.</td>
+</tr>
+<tr>
+<td>Weight of fibre per acre per annum</td>
+<td>from</td>
+<td>0.5 to 0.6 ton</td>
+</tr>
+<tr>
+<td>Crop comes into bearing</td>
+<td>during</td>
+<td>the 4th year</td>
+</tr>
+<tr>
+<td>Some poling begins</td>
+<td>during</td>
+<td>the 5th year</td>
+</tr>
+<tr>
+<td>Poling is fairly general</td>
+<td>during</td>
+<td>the 6th year</td>
+</tr>
+</tbody>
+</table>
+
+42------------------------------------------------
+
+AUGUST, 1925.]109
+
+### CONCLUSIONS.
+
+9. All the above figures are based upon minimum returns and may with further experience be improved upon.
+
+It has yet to be ascertained what is the life of a Sisal plantation under Ceylon conditions. Poling has been more rapid than was at first anticipated but loss of leaves can be prevented by cutting off the poles as soon as they appear. It is thought that early poling has been due largely because suckers were used in planting.
+
+Sisal from the Experiment Station has been sold in London at prices ranging from £40—45 per ton. This is equivalent in Colombo to approximately Rs. 400—425 per ton. Recent sales have been effected in Colombo at Rs. 400 per ton.
+
+One factory of the size of that installed at the Experiment Station with a brusher could handle the product of 30 acres per annum, and upon present prices it would be possible to pay for leaves grown by village cultivators at the rate of 36 cts. per 100 leaves, if the work could be entrusted to the mechanic in charge of the factory. On a calculation of 44 leaves per plant, this would mean an income of Rs. 143.82 per acre while the crop is in bearing. Three to four acres under Sisal would therefore appear to promise a livelihood to a village cultivator and it is worthy of careful consideration whether a trial scheme should not be evolved for the consideration of Government. It would help to solve the problem of the dry zone and would assist in helping to solve the industrial employment problem. Before embarking upon a scheme of this nature involving a complete alteration of policy regarding the drier areas of the colony, it is necessary that all data be examined in the closest possible manner.
+
+### NOTE BY MR. G. HARBORD.
+
+(1) The determination of the cost of cultivation, which is light and could be reduced in practical planting, was complicated by the fact that there were 8 plots of different sizes and planted at intervals extending over a period of 3 years. A proportional cost was worked out—the calculation representing expenditure during the first 3 years of the life of a plantation. The *cost per ton* is calculated on a 4-year cropping basis at  $\frac{1}{2}$  ton fibre per acre per annum.
+
+(2) The cost of *Extraction* is rather high. The recognised output of fibre for the "gratte" with single drum is  $2\frac{1}{2}$  tons against our output of rather more than 2 tons.
+
+(3) As regards *Baling*, in the absence of a baling press, a hand straw-trusser was improvised and has answered the purpose fairly well.
+
+(4) With regard to *Fibre Content*, the figure given 2.6% is the average for the 1924 cropping season. The average so far this year is 2.8%. The Extraction percentage is rather a low average, and it is not quite clear yet whether it is due to the actual fibre content in the leaf, or whether some readjustment in the decorticator can effect an improvement, or whether faulty washing is responsible for a high proportion of tow. A loss of fibre is experienced both in the waste at the time of decorticating, and after combing or brushing as Tow. During these trials, we have found that the proportion of tow to dry fibre is 12 cwt. of Tow to 16 tons of Fibre.
+
+(5) No data is yet available as to the length of the cropping period. I would put it at 4 years or possibly 5 years, and the yield of fibre at an average of  $\frac{1}{2}$  a ton per acre per annum.
+
+43------------------------------------------------
+
+110[AUGUST, 1925.
+
+## SMALL-HOLDERS' COTTON GROWING SCHEME, HAMBANTOTA, 1924-1925.
+
+F. BURNETT, B. Agr., M.C.,
+
+*Divisional Agricultural Officer, Southern.*
+
+The total number of applications received from the goiyas for one-acre plots of land was 2057 as compared with 1548 in 1923-24. It is estimated that approximately 20% of this area was not planted owing to various reasons—(1) such as the jungle not being felled in time for planting or not burnt off after felling; (2) applicants having gone off in search of work to other districts. Also over 500 acres were abandoned after planting owing to the destruction of young plants by the stray cattle which roam at will in large numbers in this district. It was also found that the seed from Ceylon-produced cotton does not keep well and the tests carried out showed that the germination percentage was low. The cultivator was therefore given a very liberal supply of seed at the rate of 14 lb. per acre instead of 8 lb. last year. Even then it was necessary in the majority of cases to re-seed again. The results obtained at the Ambalantota Cotton Experimental Station show that in every case better results have been obtained from imported seed than from selected locally produced seed. It would appear therefore that it will be necessary to import new seed every year if the best yields are to be obtained. Special precautions are being taken this year as regards the storage of the seed from ginning to planting; but even so tests carried out at the end of June gave only a germination percentage of 44%. The seed was delivered to the goiyas early in September, with instructions to plant as early as possible after the 20th September. The weather conditions that prevailed permitted planting from the 25th to 30th September, but not again until the 20th October. The crops planted with the first rains at the end of September grew very much better than the crops planted after the 20th October. The growth was, in contrast, very much better and the yields higher. The varieties planted were Zululand Hybrid and Watts Long Staple and although the plants flowered well the shedding of bolls were very marked in both varieties. More attention was paid to the weeding of the crop this year and in nearly every plot at least one weeding was carried out. The damage caused by pests were negligible as compared with the 1922-23 season.
+
+The same centres as last year were decided upon for the collection of the crop and the prices paid at each centre were as follows:—
+
+<table style="margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td>Hambantota.....</td>
+<td>Rs. 22'50</td>
+</tr>
+<tr>
+<td>Ambalantota.....</td>
+<td>„ 22'00</td>
+</tr>
+<tr>
+<td>Hatagala.....</td>
+<td>„ 21'50</td>
+</tr>
+<tr>
+<td>Angunakolapelessa.</td>
+<td>„ 20'50</td>
+</tr>
+<tr>
+<td>Talawa.....</td>
+<td>„ 20'00</td>
+</tr>
+<tr>
+<td>Middeniya.....</td>
+<td>„ 20'00</td>
+</tr>
+</tbody>
+</table>
+
+These prices are based upon the guaranteed price given by the Ceylon Spinning and Weaving Mills Company of Rs. 25/- per cwt, after deducting transport, wharf and seed charges.
+
+44------------------------------------------------
+
+![A black and white photograph showing a group of small growers, mostly women, carrying large sacks of cotton to a purchase centre. They are standing in front of a building with a tiled roof. The image is oriented horizontally on the page.](b926cd3600cb32181d631f39f8bf2970_1_img.webp)A black and white photograph showing a group of small growers, mostly women, carrying large sacks of cotton to a purchase centre. They are standing in front of a building with a tiled roof. The image is oriented horizontally on the page.
+
+Block by Survey Dept. Ceylon
+
+SMALL GROWERS BRINGING IN COTTON TO THE PURCHASE CENTRE  
+AT HATAGALA.
+
+45------------------------------------------------
+
+![A black and white photograph showing several people, including men and women, standing in a room filled with numerous large, rectangular bags of cotton. The bags are stacked high, filling the background. The people are dressed in early 20th-century attire, with some wearing hats and others in traditional-looking clothing. They appear to be engaged in an inspection or weighing process. The room has a simple, functional appearance with a doorway visible in the background.](5105adab695ef5508db29255e96f2df4_1_img.webp)
+
+Block by Survey Dept. Ceylon.
+
+BAGS OF SMALL GROWERS' COTTON AWAITING EXAMINATION,  
+Weighing and Purchase.
+
+46------------------------------------------------
+
+AUGUST, 1925.]111
+
+The amounts brought in from each Police Officer's Division were as follows :—
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2"></th>
+<th><i>Magam</i></th>
+<th><i>Pattu</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kurundana.....</td>
+<td>1360</td>
+<td>lb.</td>
+<td>Ihalakumbukwewa..... 3427 lb.</td>
+</tr>
+<tr>
+<td>Padangama.....</td>
+<td>1022</td>
+<td>"</td>
+<td>Gonnoruwa..... 165<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Weliwewa.....</td>
+<td>2805</td>
+<td>"</td>
+<td>Udamalale... 4520 "</td>
+</tr>
+<tr>
+<td>Migahajandura.....</td>
+<td>370</td>
+<td>"</td>
+<td>Tanalmalwila..... 500 "</td>
+</tr>
+<tr>
+<td>Meegaswewa... ..</td>
+<td>112</td>
+<td>"</td>
+<td>Weerawila..... 365 "</td>
+</tr>
+</tbody>
+</table>
+
+*East Giruwa Pattu*
+
+<table border="1">
+<tbody>
+<tr>
+<td>Kendaketiya.....</td>
+<td>315</td>
+<td>lb.</td>
+<td>Welipatanwila..... 11948<math>\frac{1}{2}</math> lb.</td>
+</tr>
+<tr>
+<td>Dabarella .....</td>
+<td>11937</td>
+<td>"</td>
+<td>Walasmulla .....</td>
+<td>108 "</td>
+</tr>
+<tr>
+<td>Mellaketigoda.....</td>
+<td>1240</td>
+<td>"</td>
+<td>Ambalantota.....</td>
+<td>8308 "</td>
+</tr>
+<tr>
+<td>Uswewa .....</td>
+<td>4622<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Wetiya.....</td>
+<td>21 "</td>
+</tr>
+<tr>
+<td>Talawa.....</td>
+<td>3815<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Siyambalakatuwa.....</td>
+<td>1395<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Debokkawa.....</td>
+<td>2815<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Siyambalakote.....</td>
+<td>407<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Kariyamaditta .....</td>
+<td>2304</td>
+<td>"</td>
+<td>Abeyasekaragama.. ..</td>
+<td>1498 "</td>
+</tr>
+<tr>
+<td>Kudagoda.....</td>
+<td>3856<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Beragama.. ..</td>
+<td>181 "</td>
+</tr>
+<tr>
+<td>Middeniya.. ..</td>
+<td>5878<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Hatagala.....</td>
+<td>4716<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Sapugahayaya.....</td>
+<td>2045<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Etbatuwa.....</td>
+<td>292 "</td>
+</tr>
+<tr>
+<td>Okandeyaya .....</td>
+<td>2065</td>
+<td>"</td>
+<td>Angunakolapellessa....</td>
+<td>186 "</td>
+</tr>
+<tr>
+<td>Labuhengoda.....</td>
+<td>554</td>
+<td>"</td>
+<td>Pallegama .....</td>
+<td>693<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Kudagalara.....</td>
+<td>1702</td>
+<td>"</td>
+<td>Kiula.....</td>
+<td>1794<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>W. G. Galpotaya...</td>
+<td>1292<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Bataata.....</td>
+<td>1809<math>\frac{3}{4}</math> "</td>
+</tr>
+<tr>
+<td>Hellala.....</td>
+<td>2147<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Galmulla.....</td>
+<td>183 "</td>
+</tr>
+<tr>
+<td>Murungagasyaya...</td>
+<td>4212</td>
+<td>"</td>
+<td>Minietiliya .....</td>
+<td>37<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Welipitiya.....</td>
+<td>1962</td>
+<td>"</td>
+<td>Mulana.....</td>
+<td>2621 "</td>
+</tr>
+<tr>
+<td>Dikwewa.....</td>
+<td>1097</td>
+<td>"</td>
+<td>Gommoruwa .....</td>
+<td>1847 "</td>
+</tr>
+<tr>
+<td>Beminiyanwila.....</td>
+<td>1174</td>
+<td>"</td>
+<td>Kalametiya.....</td>
+<td>25<math>\frac{3}{4}</math> "</td>
+</tr>
+<tr>
+<td>Tawaluwila.....</td>
+<td>3367<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td>Alutwewa.....</td>
+<td>253<math>\frac{1}{2}</math> "</td>
+</tr>
+<tr>
+<td>Lunama.....</td>
+<td>3256<math>\frac{1}{2}</math></td>
+<td>"</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+The first crop resulted in a total of
+
+<table border="1">
+<tbody>
+<tr>
+<td>1003</td>
+<td>cwts</td>
+<td>1</td>
+<td>qr</td>
+<td>0</td>
+<td>lb.</td>
+<td>of</td>
+<td>1st</td>
+<td>grade</td>
+<td>cotton</td>
+</tr>
+<tr>
+<td>16</td>
+<td>"</td>
+<td>1</td>
+<td>qr</td>
+<td>0</td>
+<td>"</td>
+<td>of</td>
+<td>2nd</td>
+<td>"</td>
+<td>"</td>
+</tr>
+<tr>
+<td>4</td>
+<td>"</td>
+<td>0</td>
+<td>qr</td>
+<td>0</td>
+<td>"</td>
+<td>of</td>
+<td>3rd</td>
+<td>"</td>
+<td>"</td>
+</tr>
+</tbody>
+</table>
+
+The value being Rs. 25,477.50
+
+The collection was made from the 25th March to the 7th April,—two days being spent at each centre—the cash being paid direct to the cultivator. The photographs show the cultivators bringing in the cotton at Hatagala centre.
+
+The yield per acre varied enormously, from Abeysekeragama 6 cwt per acre were received and from some other district less than  $\frac{1}{2}$  cwt was received
+
+The cotton was grown on new clearings and it was resolved at a recent meeting of the Food Production Committee at Hambantota to recommend the establishment of two further small Experimental Plots to demonstrate that by proper rotation and cultivation the same land can be kept in continuous cultivation. These plots have since been sanctioned and one will be at Welipatinwila, and the other at Talawa. It is hoped that they will demonstrate that the cultivator can adapt himself to growing crops in rotation,
+
+47------------------------------------------------
+
+112[AUGUST, 1925.
+
+# FRUITS.
+
+## PINEAPPLE FOR CANNING.
+
+A. DESPEISSIS, M.R.A.C.,
+
+*Acting Superintendent of Agriculture, Fiji.*
+
+Pine-apples are found all over Fiji either wild along pathways in the scrub, or cultivated with more or less attention in native towns and gardens. They grow luxuriantly, both in the dry or the wet zone, where the rainfall ranges from 60 to 140 inches. Successful cultivation on commercial lines, however, requires attention to certain points briefly referred to in the following notes.
+
+### CLIMATE.
+
+Experience has shown that a mean annual temperature of 75°F. in the cool months to 85°F. in the warmer months, with a narrow range between day and night temperatures and with an average monthly rainfall ranging from 2 to 20 inches, favour best the continuous growth of the plant. It can indeed endure heavier rain provided the ground is never water-logged. These are a shade above normal conditions in Fiji.
+
+Good drainage is essential to healthy root growth and for that reason sloping land offers advantages not always found on flat land. Very fine pine-apples grow even on steep slopes, but gently undulating land easy to cultivate cheapens cost of production and is therefore preferable. Hawaiian experience has demonstrated that under the conditions obtaining there, an altitude of 500 to 800 feet favours disease-resistance as compared with pine-apples grown at low altitudes.
+
+To guard against land scour during heavy tropical rains, storm-water drains running as far as possible across the declivity of the land should be provided to carry away the rush of surface water. In fact, in a climate like that of Fiji thorough drainage is an important preliminary work to the layout of a pine-apple plantation.
+
+### SOIL.
+
+As the plant is intolerant of wet, retentive clay, a friable black or brown loam is the best, affording easy penetration of air into the soil round the roots and at the same time capable of absorbing and retaining moisture. Other soils, though, such as the grey or the red soils, of which there are several types, grow good pine-apples.
+
+Certain soils have been found unsuitable, such as the black manganese soil of Hawaii or the lime-stone soils of Porto Rico, which cause iron starvation, characterised by a yellowing of the leaves and the development of undersized and acid fruit. A counteracting treatment consisting in spraying every few months a weak solution of sulphate of iron over the leaves is doing some good, but under Fijian conditions such a treatment is unnecessary for the reason that the trouble is non-existent.
+
+48------------------------------------------------
+
+AUGUST, 1925.]113
+
+Where the desirable physical conditions are absent they can often be created by deep cultivation, by the addition of coral sand or the ploughing in of a cover crop of Mauritius beans or of Cow peas a few months before planting.
+
+The use of artificial fertilisers, which is a *sine qua non* of heavy cropping in other lands, is not practised yet on the virgin lands of Fiji, where, from all appearance, the weight of the fruit is often in excess of that considered the most economical for the requirements of the cannery.
+
+### CULTIVATION.
+
+Where manuring is not yet required, the benefit of cultivation is not to be denied. The native method of preparing the land answers in small parcels of picked land, but it does not lend itself to extensive cultivation. In the hand of the native the *doko*, which is the name of the stout pointed stick he uses, does good work. It is driven some 9 inches into the soil, in a slanting way, and while the top end is pressed down the pointed part in the ground heaves it up and leaves it in a loose and friable condition. Where a bigger area has to be stirred up, the operation is repeated from different angles around the same spot. Finally the *doko* is driven straight into the centre of the loosened ground and with a rotary motion it leaves a circular hole of the depth and the size required, into which the seed or the plant is placed and then the ground is pressed and made firm around.
+
+By this method, stumping of the bush land is not essential and ground too steep for ploughing can be cultivated. The subsequent work of weeding, however, is made more costly and, all conditions being equal, the advantage remains with the cultivated land when the crop comes to be harvested.
+
+Where the land can be cleared with the fire stick, such as the rolling downs under tall reed grass of the dry zone or of the intermediate country between this and the forest land of the wet zone, very little stumping remains to be done. When cleared, the land can be ploughed and then harrowed and cross-harrowed. After resting four or five weeks most of the roots and vegetable matter have more or less rotted, the same operation is renewed and the land is left in a loose and friable condition for laying out the lines for planting. Land thus prepared will be less costly to keep clear of weeds and will hold moisture even during lengthy periods of dry weather.
+
+The *Smooth Leaf Cayenne* is the kind canners in Hawaii have founded their great pine-apple canning industry on and it is the kind therefore required for the proposed canneries in Fiji. This kind is also locally called, though incorrectly, the "Queen Pine" and sometimes the "Giant Kew."
+
+The leaves are long, broad and smooth or with very few spines towards the tip, they are dark green in colour; the flowers are purple; fruit large to very large, weighing from 3 to 12 lb., pyramidal or cylindrical, dark orange yellow when ripe, flesh pale yellow; rich, well flavoured, pips large and flat. Does not sucker so freely as other varieties. The main crop ripens in the warmer months: October-February, with another shorter season in the cooler months: July-August. It is largely grown in the Azores for supplying the English market during the winter and early spring months.
+
+49------------------------------------------------
+
+114[AUGUST, 1925.
+
+The kind of pine-apple most popular in Fiji for eating is at the present time the Ripley Queen. Unlike the Smooth Leaf Cayenne, it has spiny leaves, green with purplish longitudinal streaks running up the centre and becoming less distinct as the plants get older. This variety is smaller than the Smooth Leaf Cayenne, the flesh is of a light canary colour, juicy, sweet, and highly flavoured.
+
+#### WHAT TO PLANT.
+
+The pine-apple is seldom a seed carrier and this method of propagation is only used when new varieties are desired for testing "wilt"-resistant varieties. A pine-apple seedling takes several years to grow and mature its fruit, hence the quicker method is usually followed of propagation by means of suckers, gill sprouts, slips, and crowns.
+
+Like the banana, the pineapple bears only once, the subsequent crops being carried by "suckers" which grow at the base of the mother plant, take root and bear fruit in the proper season. When clearing up the plantation after the fruiting season, the old plants are removed and if the suckers are too numerous they are thinned down to two. Some prefer to plant gill sprouts to suckers for the reason that suckers often carry fruit already in embryo when removed from the ground; this appearing before the sucker is properly established, often fails to come up to standard. This objection only applies to the first crop and not to the second crop from suckers grown *in situ*.
+
+The "gill sprouts" are buds which shoot out from the stalk at the base of the leaves. Two, three, or more may grow on the one plant; they are pulled off if they are likely to interfere with the size of the fruit.
+
+The "slips" are produced from buds on the fruit stalk, at the base of the fruit. They are smaller than the suckers and the gill sprouts, but are more abundant. If it is intended to use them for planting, all but two are rubbed off.
+
+The "crown" is the cluster of short leaves on the top of the fruit; when required, they are collected at the cannery and may be used after the usual period of sun curing to dry up the flesh which would otherwise ferment in the ground and interfere with growth.
+
+The "stumps" are occasionally used for planting and produce vigorous growth. It is the only portion of the pine-apple plant in which starch is found stored up. They may be planted in holes like sugar-cane sets. The time between planting and the ripening of the fruit varies with the strength of the plant. Strong suckers bear within twelve months. If transplanted like gill sprouts, the fruit may be cut in about fifteen to eighteen months. Slips generally take eighteen months, and crowns even longer.
+
+Some preliminary preparation is required for healthy growth. Whether suckers, gill sprouts, slips or crowns are used, it is usual to expose the butt end to the sun for a few days to prevent bleeding and base rotting when they are put in the ground.
+
+If mealy bugs are present at the base of the leaves it would be advisable to dip the butts into kerosene emulsion for a few minutes.
+
+When plants are removed to the site of new plantation some distance away they are tied up into bundles of 25 or 30, all the tops pointing one way. They thus stand less risk of heating and fermenting than if packed in bags or in boxes.
+
+50------------------------------------------------
+
+AUGUST, 1925.]115
+
+At the time of drying the butts of the suckers in the sun and before planting, the small leaf scales at the base are pulled off to guard against what is known as ranglefoot. This enables the rootlets to strike out freely, as they sometimes twist round the base of the young plant and girdle it and choke its growth, when it becomes necessary to pull out the plant from the earth, cut the twisted roots and replant again.
+
+Planting can be done at any time under island conditions, provided the ground is moist enough, but summer and autumn planting during the rainy season is best, as the plant growth starts then and is not checked during the winter.
+
+#### SPACING.
+
+The number of plants required for an acre usually ranges from 3,000 to 7,000 according to kinds and the lay-out of the ground. The experience gained is in favour of close planting, but provision must be made for the convenient working of the plantation: this consists mainly in maintaining it clean and in removing the crop which may be very heavy.
+
+In Hawaii and in Queensland the double or the triple row system, with an interval of 6 feet between the rows, is preferred. The plants, about 5,000 to the acre, are set in alternate lines at intervals of 18 to 24 inches in the rows.
+
+In Singapore the common plan is single rows five feet apart, with plants  $2\frac{1}{2}$  feet in the rows and a 6 feet path at every 100 feet. About 3,000 suckers are required to plant up an acre.
+
+In Florida close planting in beds 12 to 15 feet wide with a pathway around is the practice generally followed. The distances between the plants being 20 by 20 inches for the smaller varieties, up to 36 by 36 inches for the largest kinds. The plants are not always set out in squares; Smooth Cayenne, for instance, is often planted 20 by 30 inches apart.
+
+This close planting fills the ground quicker, smothering the weeds, the plants support each other better and there is less sun scalding. On the other hand, a greater number of plants is required for a given area or land and horse cultivation becomes out of the question. The gathering of the fruit is more difficult, particularly the spiny leaf kinds, and the plantation requires systematic thinning out or else it becomes impenetrable.
+
+#### CULTIVATION.
+
+From the time of planting, clean weeding and the maintenance of a loose friable surface will help the plants along. When the spacing is wide enough to permit of horse cultivation, light scarifiers of the Planet Junior type will effect that work, with a little hand hoeing and hand weeding where the tools cannot be safely used. To obviate this weeding, locally made paper strips are used with advantage as a mulch in Hawaii, and tend in suppressing weeds, conserving moisture and improving the size and quality of fruit suitable for canning. When ploughing is found necessary it should be to and not from the pines. In wet places more particularly, this will leave a shallow furrow which acting as a drain will save the roots of the plants rotting in water-logged land.
+
+Weedicides have lately been used with advantage in Hawaii, both in cane fields or on pine-apple plantations, but in inexperienced hands this may prove harmful.
+
+51------------------------------------------------
+
+116[AUGUST, 1925.
+
+As soon as the pine-apples close together, the weeds are smothered out and the cultivation of the open spaces between the lines is all that need be done.
+
+It is at this time that all superfluous gill sprouts and slips are removed, also old stumps which have already borne fruit. Only suckers growing out of the ground or ratoan suckers are left, not more than two to a plant, overcrowded beds produce mostly spindly suckers and low grade fruit.
+
+At the same time any barren plants or suckers or crippled pines are pulled out and destroyed. A dark line showing on the underside of the leaf and running lengthwise generally indicates such undesirable suckers.
+
+"Spiking" or pines with narrow leaves growing straight up, is an indication of weakened vitality and may be caused by insufficient cultivation, want of drainage or excessive acidity in the soil. Once the cause is corrected the effect disappears.
+
+#### HARVEST.
+
+The main crop in Fiji ripens in the summer from November to January, with a slight variation in the range of the season, according to locality and the time of planting.
+
+The Smooth Cayenne besides has a short season in the winter: July-August. The summer crop is the main crop and the more regular, producing a better flavoured fruit.
+
+For shipping, the fruit is picked when fully developed and partly coloured, but before it is fully ripe. For local sale it is allowed to remain on the plant a little longer, until quite ripe, but it must be cut before it is dead ripe and before the flesh is likely to lose its firm texture during the process of canning and develop a winey flavour.
+
+Unlike the banana, the apple or the pear, the sugar content of the pineapple does not increase after removal from the parent plant. The source of that sugar emanates from the stored up starch in the stump portion of the plant, so that when that source is cut off the supply ceases.
+
+A pineapple cut on the green side, for shipment, continues to colour up but its sugar remains at 5 or 6 per cent, as it was at the time of cutting. By the time it is cut and ripe enough for eating straight or for the cannery, the sugar content has doubled and with the rise in sugar the flavour also increases.
+
+This fact was illustrated last year when this Department shipped in cold storage to the Dominion Canners Ltd., Vancouver, a trial consignment of pineapples. They all carried well, but some cut on the green side and apparently ripe had not improved in sweetness and could not be compared for flavour with the rest cut at a more advanced stage of ripeness.
+
+With the more general application of cold storage to the shipment of fruit, it will be possible to pick pineapples more fully ripe and supply distant markets with a sweeter fruit like that gathered for eating in the country of production.
+
+Pineapples either for shipping or for canning should be cut from the plant an inch or two below the fruit and when ready for casing, a stump
+
+52------------------------------------------------
+
+AUGUST, 1925.]117
+
+an inch long should be left on the stalk or else the core rots after a few days and the fruit is wasted.
+
+For canning, fruit fully ripe and of the proper size,  $3\frac{1}{2}$  to 7 lb. cylindrical rather than conical, are placed in strong crates or lug boxes where they carry without bruising to the cannery where they are put through the process within 24 to 48 hours from the time of cutting.
+
+For the fresh fruit trade, the number of pineapples is indicated on the case. The consignment shipped to Canada, mentioned above was packed, in the flat Azores case, 40 inches by 21 inches by 8 inches outside measurement with a centre board and open cleats for ventilation. The pineapples were packed in single layers twelve to sixteen in the case, the butt end pointing outwards; the temperature in the cool chamber was maintained at  $50^{\circ}$  to  $55^{\circ}$ F.
+
+In Hawaii octagonal shaped crates are used, holding likewise about a dozen fruit each, the shape of the package ensuring ventilation all around.
+
+The Smooth Leaf Cayenne is tender and difficult to pack. In Cuba, Florida, and Hawaii a large export trade has been worked up for the fancy trade, the fruit, weighing 8 to 10 pounds, being shipped in heavy paper cartons packed in crates and distributed to various parts of the United States.
+
+#### YIELD OF FRUIT.
+
+Soil, climate, cultivation, and freedom from pests and diseases influence the yield. One fruit per plant will be produced for the first crop. Odd plants are barren but they are few and they can be weeded out. Under ordinary conditions therefore 4,500 to 5,500 fruit may be produced per acre planted at distance shown in the double and the single row systems. About 3,000 if planted as explained in Singapore and 6,000 or more if planted in beds, Florida fashion; after the first year they should produce an average of about two fruits to each original plant. The pineapples may not all be marketable or many may be spoilt by sunscald, through the depredation of rats or for some reason or other. In Singapore 6 to 12 tons per acre are gathered, in Hawaii 8 to 20 short tons and more. In Florida quite as much. The weight per acre has not been ascertained in Fiji, but if 4,000 to 8,000 pines averaging 4 lb. each are picked, a crop of 7 to 14 long tons should be obtained without manuring as practised on old cultivated land.
+
+Under the natural conditions obtaining in Fiji, admittedly favourable as they are, the length of time a pineapple crop takes before showing signs of declining has yet to be determined; without the stimulus of artificials, it is highly probable that three or four good crops may be expected, whereas with the right kind of fertilizers and with care and attention that time may be much extended before new fields freshly opened out replace the old ones. With home-grown suckers available for the labour of picking, the cost of a new plantation amounts to only half that of the initial plantation when suckers have to be bought. A renewal every few years or so is generally advisable to ensure a higher proportion of first class fruit.—Agricultural Circular, Fiji, Vol. V, No. 2.
+
+53------------------------------------------------
+
+118[AUGUST, 1925.
+
+Equip yourself with a  
+TRADE MARK **'TABLOID'** BRAND  
+**MEDICAL OUTFIT**
+
+Specially designed to provide for any emergency when far from medical aid. Each case is strongly
+
+made and is fitted with a comprehensive equipment of 'TABLOID' Brand products, dressings, etc., always ready for use.
+
+![An illustration of a portable medical kit, labeled 'TABLOID', containing various bottles and containers of medical supplies.](fba7451facbda8a540ab7286374d180d_6_img.webp)
+
+*Write for Booklets: "Modern Medical Equipments" and "Good Health," which describe them in detail. Free on request.*
+
+![A small logo or emblem, possibly a stylized figure or symbol.](fba7451facbda8a540ab7286374d180d_8_img.webp)
+
+**BURROUGHS WELLCOME & CO.**  
+ SNOW HILL BUILDINGS, LONDON  
+ AND HORNBY ROAD, BOMBAY
+
+art 4194
+
+*All Rights Reserved*
+
+---
+
+## AGRICULTURAL IMPLEMENTS.
+
+---
+
+### TRACTOR PLOUGHING FOR PADDY CULTIVATION.
+
+**H. W. JACK, B. Sc., B. A.**
+
+*Economic Botanist, Department of Agriculture, S. S. & F. M. S.*
+
+The methods employed by Malays in the cultivation of paddy are frequently criticised as wasteful, laborious and antiquated, but the more such methods are studied the more will the student realise that they have been evolved from long years of practical experience and that many practices in vogue are not so "ridiculous" as may appear on first consideration.
+
+The critic is generally unacquainted with the real conditions under which paddy cultivation can be carried on successfully and frequently forgets the important facts that the industry is entirely conducted by small holders and that they have little or no capital.
+
+54------------------------------------------------
+
+AUGUST, 1925.]119
+
+Rarely can good paddy land be found which is uniform in respect of soil texture and composition and free from soft pockets which may result from the removal of jungle stumps or may mark previous slimy wallowing pits of the paddy buffalo or denote abandoned wells.
+
+Further; the nature of a paddy area frequently necessitates terracing to such an extent that the unit area is reduced to a very small block which has to be bounded by a "batas" or bund in order to hold up the water supply, so essential for the production of profitable crops. Moreover, cultivation is always carried on under wet weather conditions. All these factors bear a highly significant relation to methods of paddy cultivation which, with long practice, have become customary, and the poverty of the cultivators certainly militates against the operation of some of the more modern forms of cultivation, such as tractor ploughing at any rate until native agriculture becomes more organised.
+
+The practices which are most subject to criticism are those of ploughing the land and harvesting the crop, and this note is intended to portray briefly the relative merits of buffalo ploughing in contrast to ploughing by tractor in the light of existing conditions of rice growing.
+
+The tillage of land for the cultivation of paddy is entirely performed by so-called 'antiquated' methods which have been described in the *Malayan Agricultural Journal*, Vol. XI, No. 5, 1923.
+
+The native plough is a much maligned implement, and is wrongly held responsible by critics for unsatisfactory paddy crops. True, the soil is often far too scantily tilled but this is no fault of the plough—the cultivators may not incline to industrious labour or there may be shortage of buffalos or each man may be attempting more than he can cope with thoroughly or the rains which soften the soil may be late.
+
+The native plough is simple in construction, light, and of easy draught and shaped for shallow work which is all that is required for the rice plant. Tractors are cumbrous in the paddy fields, complicated in construction, costly to purchase, expensive to work on small areas, require constant supervision and are apt to dig themselves in whenever they strike a soft pocket of soil; still they have useful points in their favour in being able to furrow and turn hard soil and to work more rapidly than the buffalo.
+
+On the opening of a new paddy experiment station at Pulau Gadong in Malacca in 1922 the land selected was hard and had been under lalang for at least 10 years and thus offered a good test for tractor ploughing.
+
+In 1922 a block of 5 acres was ploughed and harrowed with a Fordson tractor, thanks to Messrs. Wearne Bros., Ltd., who kindly offered to do the ploughing, free of cost, as a demonstration. While the 'Fordson' ploughed the land well—in fact too well, the furrow being rather too deep for the first season's growth of paddy on previously untilled land—the work proved much more costly than was anticipated, though the condition of the land was somewhat adverse and the driver was unaccustomed to ploughing. The land was ploughed at the rate of 2.9 acres per day of eight hours at the calculated cost of \$11.50 per acre. The slow working was mainly due to the inexperience of the driver in the handling of the machine, particularly the plough, coupled with the rough nature of the soil which was packed with lalang roots and the smallness of the land, divisions necessitating frequent turnings which cost fuel and wasted time.
+
+According to Mr. Fairweather (the Field Officer who conducted all the trials) subsequent ploughings could probably have been done at a cost of \$8/- to \$9/- per acre and at an increased rate, especially if the driver in the meantime gained more experience in handling the plough, and considering that occasional obstructions had been removed during the first ploughing.
+
+55------------------------------------------------
+
+120[AUGUST, 1925.
+
+The calculated cost of harrowing and cross-harrowing, that is, two harrowings, was \$2.30 per acre, so that if \$8.50 be regarded as the cost of ploughing previous tilled land, the cost of preparing the land for planting should be less than \$11.00 per acre, to which must be added the expense of making batas and the establishment of nurseries.
+
+Some 7 acres of additional new land were ploughed in 1923 using a caterpillar type of tractor—the Cletrac—kindly lent by the Agriculturist for the occasion. This tractor proved very troublesome at first but with a change of driver did very good work except when soft pockets were encountered when it dug itself in just as effectually as did the 'Fordson.'
+
+Ploughing and harrowing costs with the 'Cletrac' were much the same as in the case of the 'Fordson,' though actual figures are not available. The 'Clectric' disc-harrowed land which had been ploughed the previous season at the rate of an acre per hour.
+
+Of course, these tractor working costs do not include cost of machinery or its transport or interest on capital or depreciation or supervision, all items which would very appreciably increase the working cost particularly on a small area.
+
+In contrast, buffalo ploughing costs in Malacca have been worked out by Mr. Fairweather at \$2.50 per acre including depreciation of buffalo and implements (though contractors always want \$8/- to \$10/- per acre), and harrowing and rolling each at about the same rate as ploughing. While costs of Malay labour and assessment of depreciation on buffalo and implements are difficult to calculate, the work of ploughing takes a Malay 5.6 days, harrowing 3 days, and rolling 1-2 days, or in all 9-11 days labour per acre.
+
+Malay contract rates for ploughing, harrowing and rolling take no cognisance of the arduousness of the buffalo's task but are merely based on the number of days' work each operation is likely to take and hence their complete contract rates for preparing the land vary between \$16/- and \$23/- per acre, whereas all these operations have been accomplished, using Departmental buffalos and paying wages at the rate of 50 cents per day of 5 hours, at a cost of \$5/- (exclusive of cost of upkeep of buffalos). From the Malay standpoint the depreciation and upkeep expenses of keeping a buffalo are immaterial, as is depreciation of implements which they usually fashion themselves and which often last a very long time.
+
+Thus the preparation of land for paddy planting, using buffalo power costs about \$5/- per acre if the cultivator owns his own buffalo, and if he has to rent a buffalo (the rent may amount to \$3/- or \$4/-) about \$9/- per acre, whereas using tractor power the same work costs \$11/- per acre without allowing for any but actual running costs.
+
+Hence the economy and suitability of using buffalo in preference to mechanical power, under existing conditions of paddy cultivation, is very apparent.
+
+Tractors may have a future in paddy cultivation on large areas where the soils are fairly hard and where irrigation is controlled, especially for harvesting purposes, but they are essentially implements for use on large areas and are only available to capitalists, and as such their adoption is very remote even if co-operation should succeed in overcoming the existing poverty of the average paddy planter.
+
+Much of the information on which these brief notes are based is obtained from the files of the Chief Field Officer, to whom thanks are tendered.—The Malayan Agricultural Journal, Vol. XIII, No. 5.
+
+56------------------------------------------------
+
+AUGUST, 1925.]121
+
+# CEYLON AGRICULTURE.
+
+## ESTATES PRODUCTS COMMITTEE.
+
+*Minutes of the twenty-fifth meeting of the Estates Products Committee of the Board of Agriculture held at the School of Tropical Agriculture, Peradeniya, at 2-20 p.m. on Thursday, July 9th, 1925.*
+
+*Present:*—His Excellency the Officer Administering the Government (in the chair), The Director of Agriculture, The Government Entomologist, The Government Mycologist, The Government Agricultural Chemist, The Divisional Agricultural Officer Central Division, The Hon. Lieut.-Col. T. Y. Wright, Gate Mudaliyar A. E. Rajapakse, Messrs. J. E. P. Rajapakse, Graham Pandittasekera, Wace de Niese, C. E. A. Dias, T. A. de Mel, R. F. Battams, J. Fergusson, G. W. Hunter-Blair, H. D. Garrick, J. W. Oldfield, N. G. Campbell, E. W. Keith, E. C. Villiers, S. P. Blackmore, C. B. Loudoun-Shand, R. G. Coombe, Geo. Brown, M. H. Reeves, E. C. Cave-Brown and T. H. Holland (Secretary).
+
+*As visitors:*—Messrs. Farley Elford, A. W. L. Turner, R. P. Gaddum, J. Greig, T. Reid, F. P. Jepson, V. Canegaretnam, J. P. Blackmore, M. Park and H. W. R. Bertrand.
+
+Letters and telegrams regretting inability to attend were received from the Hon. the Controller of Revenue, the Hon. the Acting Colonial Secretary, the Hon. Sir James Peiris, Sir Solomon Dias Bandaranaike, Messrs. H. Wilkinson, D. S. Cameron, A. H. Reid, N. D. S. Silva, H. B. Daniell, D. F. C. Dyson and H. V. Hill.
+
+The Chairman proposed the confirmation of the minutes of the last meeting.
+
+Mr. R. G. Coombe said that at that meeting he had proposed a resolution expressing appreciation of the work done by Mr. F. P. Jepson on Shot-hole Borer. He had since learnt that Dr. C. H. Gadd was jointly responsible for the interpretation of the results of the Shot-hole Borer experiments and he wished Dr. Gadd's name to be included in the expression of appreciation. The minutes were amended accordingly and were then confirmed.
+
+### **Agenda Item 1—Progress Report of the Experiment Station, Peradeniya.**
+
+The Director of Agriculture reviewed the report. He mentioned that a plot of *Vigna oligosperma* had previously died out from a fungus disease. The disease in question had again appeared on this plant.
+
+Dr. Gadd said that the fungus was essentially a soil fungus and was hard to get rid of; it was liable to attack other leguminous crops grown on the same ground.
+
+### **Agenda Item 2—Manurial Experiments with Tea at Peradeniya.**
+
+Mr. T. H. Holland reviewed the report on these experiments.
+
+The Director of Agriculture said that it was apparent that no further information was likely to be elicited from these experiments. He outlined
+
+57------------------------------------------------
+
+122[AUGUST, 1925.
+
+his proposals for dividing up plots 144, 150 and 155 into small plots of 40 bushes each and treating these plots with different manurial mixtures, each treatment to be repeated 5 times. He proposed that the rest of the tea included in the old experiment should be planted up with *Indigofera endecaphylla* in order to study the affect of such a leguminous cover crop upon tea yields.
+
+The Chairman invited discussion of the report and the proposals.
+
+Mr. T. A. de Mel agreed that it was necessary to overhaul the experiment. He suggested that in addition to control plots a balanced mixture should be included.
+
+The Director of Agriculture pointed out that his proposals for plot 155 included a balanced general mixture.
+
+Lieut.-Col. T. Y. Wright asked if it was any use experimenting on plots of 40 bushes.
+
+The Director of Agriculture replied that it was now generally accepted that small plots were better than large ones so long as the treatments were repeated a sufficient number of times.
+
+#### **Agenda Item 3—Further Results of Manurial Experiments with Rubber.**
+
+Mr. Holland reviewed the report on the two manurial experiments in progress.
+
+Mr. C. E. A. Dias suggested with regard to the other experiment that since it was shown that the yield was not being influenced by manuring there was no use in continuing the experiment on these plots. An Experiment Station was required in one of the large rubber growing districts such as Kalutara.
+
+Mr. E. C. Villiers wished to know if there were any figures with regard to the effect of manuring on disease.
+
+The Director of Agriculture in reply referred to experiments that had been carried out on Gallawatte Estate in manuring to combat leaf-fall. Though figures could not be quoted those who were familiar with the estate were satisfied that an improvement had been effected by manuring. He agreed with Mr. Dias on the need for a Rubber Experiment Station. At present it certainly seemed that on good soils rubber yields were not increased by manuring.
+
+#### **Agenda Item 4—Further Results of Rubber Tapping Experiments.**
+
+The Director of Agriculture reviewed a report on experiments in progress at Henaratgoda on comparative yields obtained by tapping on a half, third, and quarter circumference. He further stated:—
+
+(1) the Malayan results were as follows:—
+
+$\frac{1}{2} : \frac{1}{3} : \frac{1}{4} = 100 : 85 : 70$ . The yields from the  $\frac{1}{2}$  circumference were from V-cuts.
+
+(2) The Sumatra results were as follows:
+
+$\frac{1}{2} : \frac{1}{3} : \frac{1}{4} = 100 : 83.3 : 66$ . Here again the yields from the  $\frac{1}{2}$  circumference were from V-cuts.
+
+(3) The average Java results from single cuts comparable to the Ceylon figures now presented were as follows:
+
+$\frac{1}{2} : \frac{1}{3} : \frac{1}{4} = 100 : 80 : 69$ .
+
+58------------------------------------------------
+
+AUGUST, 1925.]123
+
+**Agenda Item 5 -Proposal for Soil Erosion Experiments at Peradeniya Experiment Station.**
+
+Mr. Holland submitted the final proposals for these experiments.
+
+Mr. R. G. Coombe remarked on the absence of a plot with Grevilleas and said that he had understood at the last meeting that Grevilleas were to have been included.
+
+The Director of Agriculture said that owing to very limited number of plots it had been found impossible to include a Grevillea plot.
+
+His Excellency the Officer Administering the Government said that there was no matter which gave him more anxiety for the future of the Colony than the question of soil denudation. After dwelling on the serious nature of the evil in Ceylon he described the conditions in China where, in certain districts, in spite of sudden and very heavy precipitations of rain the soil was admirably preserved for rice growing by a system of terracing. Records showed that such fields had been in existence for four and five hundred years. He attached the greatest importance to soil erosion experiments and hoped to see experiments conducted on a very much larger scale.
+
+Lieut.-Col. Wright asked if a sub-committee had not been appointed to enquire into this problem.
+
+The Director of Agriculture replied that the report of this Committee had been forwarded to Government and had been considered by the Executive Council. One of the recommendations made by the Committee was that further experiments should be conducted by the Department of Agriculture to ascertain the amount of soil erosion that was taking place. The experiments now proposed were the results of the findings of that sub-committee. He hoped that when the Tea Research Scheme started its operations more land would be available for experiments on this problem. The Legislative proposals made by the sub-committee had all been considered.—The Surveyor-General thought that the suggested slope of 60% was too great and the question of dealing with stream reservations was under the consideration of the Forest Department.
+
+In response to a question by Lieut.-Col. Wright the Director of Agriculture said that the sub committee had presented its report about a year ago.
+
+The Chairman said that there was considerable disagreement over the report of the sub-committee. The proposals however were mainly concerned with the future sale of Crown land. He was more concerned about the existing tea estates. It would be disastrous if these estates had to go out of cultivation in time to come owing to soil denudation. In conclusion he promised that any suggestions made for obviating the danger would receive the most careful and sympathetic attention of Government.
+
+**Agenda Item 6.—Tea Termites.**
+
+Mr. R. G. Coombe in introducing this subject alluded to the good work that had been accomplished in the recent investigations on Shot-hole Borer. He considered that termites were a more serious pest than Shot-hole Borer and the two pests combined formed a grave menace. He asked the Director of Agriculture if one or more officers could not be allotted to devote their whole time to this question.
+
+59------------------------------------------------
+
+.124[AUGUST, 1925.
+
+Dr. Hutson then gave a resumé of the work done in relation to this pest and the information already published on the subject.
+
+The Director of Agriculture said that he had discussed this question with the Entomological division and the need for more field work was realised.
+
+He proposed that Mr. Jepson, as soon as he had finished writing up the results of his work on Shot-hole Borer, should concentrate his attention on Tea Termites.
+
+Mr. Coombe thanked the Director and said that the planting community would be very pleased to hear that Mr. Jepson was to devote himself to this work.
+
+#### **Agenda Item 7.—Results of Sisal Experiments at Anuradhapura Experiment Station.**
+
+Mr. Harbord reviewed the report on these experiments. He said that the calculation of the cost of cultivation was complicated by the fact that there were 8 plots of different ages. The cost could be reduced in practical planting. The cost per ton was calculated on a four-year cropping basis at half a ton of fibre per acre per annum. The cost of extraction was rather high. The recognised out-turn for the type of extractor in use was  $2\frac{1}{2}$  tons against an out-turn at Anuradhapura of rather more than 2 tons.
+
+In the absence of a baling press a hand straw-trusser had been used with fair success.
+
+The extraction of 2.6% was the average for the 1924 cropping season. In 1925, it had averaged for 2.8% up to date.
+
+Fibre was lost both in the waste during extraction and in combing or brushing. This waste was recoverable as tow and amounted to a little under 4% of the fibre. The length of the cropping period was not known but was estimated at four or possibly five years. The average yield was estimated at  $\frac{1}{2}$  ton per acre per annum.
+
+The Director of Agriculture said that the whole object of the experiments was to see if a peasant industry with central factories could be established in the Dry Zone. The Dry Zone formed one of the most difficult problems of the Department of Agriculture. Sisal was so far the only crop which had shown any promise of success on unirrigable land. The costs now published were rather high. The object was to see if Government would be justified in establishing central factories; he believed that with perseverance these could be made a success.
+
+Mr. Garrick enquired whether the villagers round Anuradhapura had taken any interest in the crop. It was the intention at Maha-Illuppalama to get the local villagers to grow sisal and sell their leaves to the estate.
+
+Mr. Wace de Niese, referring to the suggestion that early polling was due to planting with suckers, asked what other planting material could be used.
+
+The Director of Agriculture replied that it was believed that if suckers from a polling plant were used for planting the plants obtained were liable to poll earlier. It was best to plant from bulbs that had been grown for one year in nurseries.
+
+60------------------------------------------------
+
+AUGUST, 1925.]125
+
+Mr. Garrick said that he believed that earlier polling occurred on better soil. Polling at Maha-Iluppalama was taking place in four to five years. Early polling however need not mean a loss as the crop was obtained earlier.
+
+The Director of Agriculture confirmed this view.
+
+Lieut.-Col. Wright enquired if replanting was necessary.
+
+The Director of Agriculture replied that it was advisable; if all suckers were allowed to grow an impenetrable jungle would result.
+
+The Chairman said that the experiment was of great interest in that it indicated a road by which the peasant in the North-Central Province might pass from a chronic state of poverty and malnutrition to prosperity. Government did not wish to move in the matter until a definite assurance was forthcoming that sisal could be made a paying proposition for the villager. For this reason it was necessary that the figures now published should be critically examined in detail. He hoped that all who had special knowledge of the crop would put it at the disposal of the Director of Agriculture.
+
+#### **Agenda Item 8—Supplying Old Tea.**
+
+Mr. George Brown spoke of the difficulties in bringing supplies in old tea into bearing and asked if from the scientific point of view any helpful advice could be given.
+
+Mr. Holland gave details of the different methods of planting that had been employed from time to time on the Experiment Station; the most successful had been that of planting young plants one foot to one and a half foot high raised with a transplanting tool. He also enumerated the various measures that had been taken to assist young plants in their growth. No figures were however available as to the relative success or utility of these measures.
+
+The Director of Agriculture said that difficulty was in all probability due to the competition from the roots of the established tea bushes. The only solution of the problem appeared to lie in the careful nursing of the young plants.
+
+#### **Agenda Item 9—Report on the Manning Coconut Trial Ground for 1924-25.**
+
+Gate Mudaliyar A. E. Rajapakse reviewed his report on these experiments.
+
+The first experiment had been in progress since 1914 on old cinnamon soil in the Negombo district.
+
+The best plot in the experiment was one manured with a general mixture and mulched, but a still better yield of 63 nuts per tree was obtained from another plot on the estate which was manured with a general mixture containing Nitrogen, Potash and Phosphoric acid in the proportion of 1, 2 and 3; from 1925 it was proposed to manure all the plots on this basis. In view of the alteration of the manuring, Mudaliyar Rajapakse promised a full report on the results of the experiment over 11 years.
+
+The second experiment was started in 1917 to determine whether the fertility of coconut land could be maintained by returning all the products of the palms to the land except oil. The figures showed that an acre of coconut land produced about  $7\frac{1}{2}$  tons of organic matter per year. The yield of nuts in this case was adequately maintained.
+
+61------------------------------------------------
+
+126[AUGUST, 1925.
+
+Mr. Garrick and Lieut.-Col. Wright made enquiries as to the economic side of the practice of only removing oil from coconut land but exact information on this point was not available. The Director of Agriculture thanked Mudaliyar Rajapakse on behalf of the Committee for his report; he hoped that the experiments would be continued, even if in a modified form.
+
+**Agenda Item 10 Report on Coconut Trials at Alexandra Estate.  
+Jaela for 1924.**
+
+Mr. J. E. P. Rajapakse reviewed his report on these trials. He stated that the idea of the experiments had been suggested by the early success of a plot of Mudaliyar Rajapakse's land which received only frequent cultivation. When the Director of Agriculture visited the land in 1921 however it was decided that cultivation alone was not advisable and that manures should be applied.
+
+The Director of Agriculture thanked Mr. Rajapakse for his report which clearly indicated that cultivation alone could not give lasting results but that manuring was needed in addition.
+
+Mr. Oldfield said that he thought these reports on coconut experiments had been presented at a very opportune time. They clearly demonstrated the value of such experiments and the need for a Coconut Research Scheme.
+
+**Agenda Item 11—*Mimosa invisa*.**
+
+The Director of Agriculture had circulated a memorandum on this subject and now asked the opinion of the meeting as to whether the import of seed of this plant should be prohibited and whether the plant should be declared a weed under the Plant Pest Ordinance.
+
+Lieut.-Col. Wright said that he had had very favourable reports of the plant from coconut estates in the Straits.
+
+Mr. Oldfield said he had seen the plant once in young rubber and it had taken three years to eradicate it.
+
+The Chairman enquired if the meeting was in favour of the measures proposed by the Director of Agriculture.
+
+Mr. J. E. P. Rajapakse thought that as the plant was leguminous it might be of considerable use.
+
+On the question being put to the meeting the majority was in favour of the adoption of the measures proposed by the Director of Agriculture.
+
+At the conclusion of the Agenda His Excellency the Officer Administering the Government said that he had been very glad to have the opportunity of meeting the members. He was pleased to be present at the meeting when the reports on Coconut Experiments by Mudaliyar Rajapakse and Mr. J. E. P. Rajapakse have been presented. He believed there was complete unanimity as to the necessity for Tea and Rubber Research Schemes and he could not see why an equal unanimity should not exist as to the necessity for a Coconut Research Scheme. He hoped that all opposition to the scheme would soon melt away.
+
+The Director of Agriculture proposed a vote of thanks to His Excellency for his presence and for presiding at the meeting.
+
+The meeting then terminated.
+
+T. H. HOLLAND,  
+Secretary,  
+Estates Products Committee.
+
+62------------------------------------------------
+
+AUGUST, 1925.]127
+
+# AGRICULTURAL SHOWS.
+
+## ALAWATUGODA SUNDAY MARKET SHOW, 1925.
+
+W. MOLEGODE,
+
+*Agricultural Instructor.*
+
+With the object of further popularising the Sunday Market at Alawatugoda, which was started on 29th of July, 1923, to answer the needs of the village producer of Udagampaha Korale in Harispattu, a Show was repeated this year when 36 cash prizes varying from Rs. 7.50 to Rs. 1.50 were distributed among villagers who brought for sale things of outstanding merit on Sunday 28th June, 1925. A similar Show was held in April last year. This year's Show proved a greater success. At the Show in 1924 there were 60 villagers and estate coolies who brought things for sale. At this year's Show there were 136. In 1924, there were 174 lots of produce representing vegetables, fruits, curry-stuffs, village rice, coconut, arecanut, plantains and goats and village poultry. This year the number rose to 284 and many things were superior to those seen last year. Vegetables were good and there were many lots of chillies. *Heen-miris* predominated and sold at -/20 cts. a measure. Fruits were poorer than last year, but curry plantains were more numerous and better and fetched good prices. Arecanuts were good and sold well. The number of goats this year was 18 against 6 brought last year.
+
+The produce from Home Gardens of the boys of Alawatugoda and Ankumbure Schools was a feature of the Show. The produce from the Alawatugoda School Garden were shown separately and attracted the attention of village gardeners.
+
+The Plant Pest Inspectorate of the Department of Agriculture had on view an excellent and attractive collection of specimens of pests and two Sub-Inspectors under the direction of Mr. Jardine were busy explaining them to the villagers.
+
+A sale of vegetable seeds and fruit plants was carried on during the Show.
+
+The attendance included the Hon. the Government Agent, Kandy; the Assistant Government Agent, Kandy; the Divisional Agricultural Officer, Central; the Plant Pest Inspector; H. Nugawela Ratemahatmaya, W. A. Udugama Ratemahatmaya, G. F. Abeykoon, Kachcheri Mudaliyar, Matale, Messrs. R. A. Cameron, J. J. Smale, S. B. Yatawara, J. R. Nugawela, G. de Silva, B. Dunuwila, P. B. Ranavana, L. B. Harasgama, D. B. Harasgama, and about two hundred villagers and estate coolies. The presence of the Hon. Mr. W. L. Kindersley again this year was much appreciated by the villagers.
+
+It is a matter for satisfaction that as a result of the establishment of the Sunday Market and the holding of two market shows, garden cultivation in the villages has advanced. It has also to be recorded with great satisfaction that Government has acquired a new site which is much more spacious for holding the market, and I trust the next show could be held on this site.
+
+My thanks are due to Mr. Nugawela, Ratemahatmaya, for his continued interest in this matter.
+
+63------------------------------------------------
+
+128[AUGUST, 1925.
+
+# GENERAL.
+
+---
+
+## A WORLD'S FORESTRY CONGRESS.
+
+---
+
+By agreement between the International Institute of Agriculture and the Italian Government a Committee has been established for organizing a *World's Forestry Congress* to take place in Rome early in May 1926. The headquarters of this Committee are at the International Institute of Agriculture in Rome, and the Committee is composed as follows: *President*, Prof. Arrigo Serpieri, Director of the Royal Higher Institute of Agriculture and Forestry at Florence, Member of the Italian Government; *Vice Presidents* M. Anders Fjelstad, Delegate of Norway at the International Institute of Agriculture and Dr. Alessandro Stella, Director-General of Forests and State Lands at the Italian Ministry of National Economy; *Secretary*, Sig. Ariberto Merendi, Chief Inspector of Forests at the Ministry of National Economy; M. Deoclecio de Campos, Delegate of Brazil at the International Institute of Agriculture, Sig. Gian Francesco Guerrazzi, Delegate of Italian Somaliland at the Institute and prof. Asher Hobson, Delegate of the United States of America at the Institute.
+
+The Congress will bring together experts in forestry and the timber and allied industries from all parts of the world, and it is hoped that truly valuable and profitable results will be reached through the exhaustive discussions, which are expected to take place on all those problems of Forestry which are of really international importance.
+
+At the same time, in connection with the International Fair at Milan there will be held an important exhibition of forest products and the machinery used in their conversion, which will enable visitors to examine the different products of the wood manufacturing industries and the wood working machines made in the various countries, and should serve to increase the flow of international trade in this important branch of commercial activity.
+
+Various excursions to the more typical forest lands in Italy, and possibly in other countries, will be arranged to follow the work of the Congress.
+
+The Congress is already arousing the warmest interest as it is considered to be the most important event in connection with Forestry and the allied industries that has as yet taken place.
+
+64------------------------------------------------
+
+August, 1925.]
+
+129
+
+# MARKET RATES.
+
+## MARKET RATES FOR SOME CEYLON PRODUCTS.
+
+(FROM THE CEYLON CHAMBER OF COMMERCE WEEKLY PRICE CURRENT, DATED 13th JULY, 1925.)
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">NAME OF PRODUCE</th>
+<th colspan="4">CURRENT PRICE</th>
+<th rowspan="2">REMARKS</th>
+</tr>
+<tr>
+<th>Rs.</th>
+<th>cts.</th>
+<th>at</th>
+<th>Rs.</th>
+<th>cts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="6"><b>ACAO—(At Buyer's Stores)</b></td>
+</tr>
+<tr>
+<td>Estate—Finest ... .. per cwt</td>
+<td>46</td>
+<td>00</td>
+<td></td>
+<td>52</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do Medium ... .. do</td>
+<td>35</td>
+<td>00</td>
+<td>"</td>
+<td>45</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do Common (Black) ... .. do</td>
+<td>15</td>
+<td>00</td>
+<td>"</td>
+<td>25</td>
+<td>00</td>
+</tr>
+<tr>
+<td colspan="6"><b>CARDAMOMS—</b></td>
+</tr>
+<tr>
+<td>All round parcel well bleached ... .. per lb.</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Do do medium ... .. do</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Special assortment 0 &amp; 1 only ... .. do</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Seeds ... .. do</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Green .. .. do</td>
+<td>3</td>
+<td>25</td>
+<td>"</td>
+<td>3</td>
+<td>65</td>
+</tr>
+<tr>
+<td colspan="6"><b>CINNAMON QUILLS—(At Buyer's Stores)</b></td>
+</tr>
+<tr>
+<td>Ordinary assortment (in bales of 100 lb. nett) ... .. per lb.</td>
+<td>0</td>
+<td>82</td>
+<td>"</td>
+<td>0</td>
+<td>86</td>
+</tr>
+<tr>
+<td>No. 1 ... .. do</td>
+<td>0</td>
+<td>85</td>
+<td>"</td>
+<td>0</td>
+<td>89</td>
+</tr>
+<tr>
+<td>No. 2 ... .. do</td>
+<td>0</td>
+<td>83</td>
+<td>"</td>
+<td>0</td>
+<td>87</td>
+</tr>
+<tr>
+<td>No. 3 ... .. do</td>
+<td>0</td>
+<td>80</td>
+<td>"</td>
+<td>0</td>
+<td>84</td>
+</tr>
+<tr>
+<td>No. 4 ... .. do</td>
+<td>0</td>
+<td>76</td>
+<td>"</td>
+<td>0</td>
+<td>80</td>
+</tr>
+<tr>
+<td colspan="6"><b>CINNAMON CHIPS—Maradana, (At Buyer's Stores) (in bags of 56 lb. nett) per candy of 560 lb.</b></td>
+</tr>
+<tr>
+<td>...</td>
+<td>85</td>
+<td>00</td>
+<td>"</td>
+<td>90</td>
+<td>00</td>
+</tr>
+<tr>
+<td colspan="6"><b>CITRONELLA OIL—(ex-Seller's Stores without packages) ... .. per lb.</b></td>
+</tr>
+<tr>
+<td>...</td>
+<td>1</td>
+<td>25</td>
+<td>"</td>
+<td>1</td>
+<td>35</td>
+</tr>
+<tr>
+<td colspan="6"><b>COCONUT—(Desiccated Granulated goods (Delivered at Wharf or Buyer's Stores) ... .. per lb.</b></td>
+</tr>
+<tr>
+<td>Assortment: Medium 50 per cent. Fine 50 per cent. ... .. per lb.</td>
+<td>0</td>
+<td>19½</td>
+<td>"</td>
+<td>0</td>
+<td>19½</td>
+</tr>
+<tr>
+<td colspan="6"><b>COCONUT OIL—</b></td>
+</tr>
+<tr>
+<td>White Oil f.o.b ... .. per ton</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>550</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Ordinary Oil do ... .. do</td>
+<td>525</td>
+<td>00</td>
+<td>"</td>
+<td>530</td>
+<td>00</td>
+</tr>
+<tr>
+<td colspan="6"><b>COPRA—</b></td>
+</tr>
+<tr>
+<td>Calpentyn No. 1 quality per candy of 560 lb. ... ..</td>
+<td>75</td>
+<td>00</td>
+<td>"</td>
+<td>82</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Estate .. ..</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Ordinary quality (Maravila) .. ..</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Cart Do do .. ..</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td colspan="6"><b>COBRES—(At Buyer's Stores)</b></td>
+</tr>
+<tr>
+<td>Coconut Bristle No. 1 ... .. per cwt.</td>
+<td>7</td>
+<td>00</td>
+<td>"</td>
+<td>8</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do No. 2 ... .. do</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Coconut Mattress No. 1 ... .. do</td>
+<td>2</td>
+<td>20</td>
+<td>"</td>
+<td>2</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Do No. 2 ... .. do</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Coir Yarn, Kogalla Nos. 4 to 9 ... .. do</td>
+<td>8</td>
+<td>00</td>
+<td>"</td>
+<td>22</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do Colombo Nos. 3 to 7 ... .. do</td>
+<td>...</td>
+<td>...</td>
+<td>"</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td colspan="6"><b>PLUMBAGO</b></td>
+</tr>
+<tr>
+<td>Ordinary Lumps ... .. per ton</td>
+<td>320</td>
+<td>00</td>
+<td>at</td>
+<td>425</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Chips ... .. do</td>
+<td>250</td>
+<td>00</td>
+<td>"</td>
+<td>350</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Dust ... .. do</td>
+<td>175</td>
+<td>00</td>
+<td>"</td>
+<td>250</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do Flying ... .. do</td>
+<td>100</td>
+<td>00</td>
+<td>"</td>
+<td>175</td>
+<td>00</td>
+</tr>
+<tr>
+<td colspan="6"><b>B.</b></td>
+</tr>
+<tr>
+<td>Ordinary Lumps ... .. per ton</td>
+<td>250</td>
+<td>00</td>
+<td>at</td>
+<td>360</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Chips ... .. do</td>
+<td>200</td>
+<td>00</td>
+<td>"</td>
+<td>290</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Dust ... .. do</td>
+<td>125</td>
+<td>00</td>
+<td>"</td>
+<td>200</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do Flying ... .. do</td>
+<td>75</td>
+<td>00</td>
+<td>"</td>
+<td>125</td>
+<td>00</td>
+</tr>
+<tr>
+<td colspan="6"><b>B. E.</b></td>
+</tr>
+<tr>
+<td>Ordinary Lumps ... .. per ton</td>
+<td>200</td>
+<td>00</td>
+<td>at</td>
+<td>250</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Chips ... .. do</td>
+<td>175</td>
+<td>00</td>
+<td>"</td>
+<td>225</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Dust ... .. do</td>
+<td>60</td>
+<td>00</td>
+<td>"</td>
+<td>125</td>
+<td>00</td>
+</tr>
+<tr>
+<td>Do Flying ... .. do</td>
+<td>60</td>
+<td>00</td>
+<td>"</td>
+<td>90</td>
+<td>00</td>
+</tr>
+</tbody>
+</table>
+
+65------------------------------------------------
+
+130
+
+[AUGUST, 1925.
+
+**ANIMAL DISEASE RETURN FOR THE MONTH ENDED 31st JULY, 1925.**
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to date since Jan. 1st 1925</th>
+<th>Fresh Record Cases</th>
+<th>Deaths</th>
+<th>Bal- ance III</th>
+<th>No. Shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Western</td>
+<td>Rinderpest</td>
+<td>75</td>
+<td>25</td>
+<td>24</td>
+<td>—</td>
+<td>26</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>1741</td>
+<td>156</td>
+<td>8</td>
+<td>91</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Municipality</td>
+<td>Anthrax</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kinderpest</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Cattle Quarantine Station</td>
+<td>Foot-and-mouth disease</td>
+<td>318</td>
+<td>32</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anthrax Rabies</td>
+<td>4</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Central</td>
+<td>Rinderpest</td>
+<td>45</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>127</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Northern</td>
+<td>Anthrax</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kinderpest</td>
+<td>294</td>
+<td>12</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Southern</td>
+<td>Foot-and-mouth disease</td>
+<td>9</td>
+<td>—</td>
+<td>1</td>
+<td>11</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>110</td>
+<td>8</td>
+<td>60</td>
+<td>—</td>
+<td>42</td>
+</tr>
+<tr>
+<td rowspan="2">Eastern</td>
+<td>Piroplasmosis</td>
+<td>269</td>
+<td>269</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hemorrhagic Septicæmia</td>
+<td>50</td>
+<td>10</td>
+<td>37</td>
+<td>—</td>
+<td>3</td>
+</tr>
+<tr>
+<td rowspan="2">North-Western</td>
+<td>Anthrax</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kinderpest</td>
+<td>14</td>
+<td>14</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">North-Central</td>
+<td>Foot-and-mouth disease</td>
+<td>555</td>
+<td>78</td>
+<td>555</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>573</td>
+<td>118</td>
+<td>192</td>
+<td>11</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Uva</td>
+<td>Kinderpest</td>
+<td>460</td>
+<td>460</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>1083</td>
+<td>51</td>
+<td>1032</td>
+<td>51</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Sabaragamuwa</td>
+<td>Anthrax</td>
+<td>211</td>
+<td>30</td>
+<td>25</td>
+<td>111</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Kinderpest</td>
+<td>697</td>
+<td>117</td>
+<td>658</td>
+<td>9</td>
+<td>28</td>
+</tr>
+<tr>
+<td></td>
+<td>Foot-and-mouth disease</td>
+<td>8</td>
+<td>2</td>
+<td>—</td>
+<td>8</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Hemorrhagic Septicæmia</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+G. W. STURGESS,  
+Government Veterinary Surgeon.
+
+Colombo, 18th August, 1925.
+
+**METEOROLOGICAL**  
+JULY, 1925.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Station</th>
+<th colspan="2">Temperature</th>
+<th rowspan="2">Mean Humidity %</th>
+<th rowspan="2">Mean amount of Cloud<br/>10 = clear</th>
+<th rowspan="2">Mean Wind<br/>Direction<br/>during Month</th>
+<th rowspan="2">Daily Mean<br/>Velocity<br/>Miles</th>
+<th colspan="2">Rainfall</th>
+<th rowspan="2">Difference<br/>from<br/>Average<br/>Inches</th>
+</tr>
+<tr>
+<th>Mean Daily<br/>Shade</th>
+<th>Dif-<br/>ference<br/>from<br/>Average</th>
+<th>Amount<br/>Inches</th>
+<th>No. of<br/>Rainy<br/>Days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Colombo</td>
+<td>81.2</td>
+<td>+0.2</td>
+<td>81</td>
+<td>8.3</td>
+<td>SW</td>
+<td>134</td>
+<td>5.75</td>
+<td>13</td>
+<td>—0.72</td>
+</tr>
+<tr>
+<td>Observatory</td>
+<td>82.2</td>
+<td>+0.6</td>
+<td>77</td>
+<td>4.9</td>
+<td>SW</td>
+<td>244</td>
+<td>0.27</td>
+<td>2</td>
+<td>—0.29</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>84.2</td>
+<td>+0.6</td>
+<td>74</td>
+<td>6.6</td>
+<td>SSW</td>
+<td>260</td>
+<td>0</td>
+<td>0</td>
+<td>—0.38</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>83.2</td>
+<td>+0.2</td>
+<td>78</td>
+<td>7.0</td>
+<td>SW</td>
+<td>392</td>
+<td>0.33</td>
+<td>0</td>
+<td>—0.91</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>85.9</td>
+<td>+0.7</td>
+<td>62</td>
+<td>7.0</td>
+<td>SW</td>
+<td>257</td>
+<td>0.78</td>
+<td>2</td>
+<td>—1.70</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>85.0</td>
+<td>+0.4</td>
+<td>70</td>
+<td>5.4</td>
+<td>Var.</td>
+<td>149</td>
+<td>0.44</td>
+<td>3</td>
+<td>—0.47</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>81.6</td>
+<td>0</td>
+<td>79</td>
+<td>4.1</td>
+<td>SW</td>
+<td>361</td>
+<td>3.37</td>
+<td>4</td>
+<td>—1.34</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>80.3</td>
+<td>+0.4</td>
+<td>80</td>
+<td>5.6</td>
+<td>W</td>
+<td>257</td>
+<td>5.74</td>
+<td>13</td>
+<td>—2.80</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>81.0</td>
+<td>+0.7</td>
+<td>80</td>
+<td>6.0</td>
+<td>—</td>
+<td>—</td>
+<td>0.01</td>
+<td>1</td>
+<td>—7.18</td>
+</tr>
+<tr>
+<td>Anu pura</td>
+<td>83.6</td>
+<td>+0.4</td>
+<td>68</td>
+<td>5.7</td>
+<td>—</td>
+<td>—</td>
+<td>2.01</td>
+<td>8</td>
+<td>—1.25</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>81.0</td>
+<td>+0.4</td>
+<td>74</td>
+<td>7.6</td>
+<td>—</td>
+<td>—</td>
+<td>2.21</td>
+<td>12</td>
+<td>—5.34</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>77.0</td>
+<td>+1.2</td>
+<td>76</td>
+<td>8.3</td>
+<td>—</td>
+<td>—</td>
+<td>1.65</td>
+<td>6</td>
+<td>—0.30</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>74.8</td>
+<td>—0.4</td>
+<td>72</td>
+<td>5.8</td>
+<td>—</td>
+<td>—</td>
+<td>0.39</td>
+<td>4</td>
+<td>—1.66</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>70.6</td>
+<td>+0.6</td>
+<td>63</td>
+<td>6.6</td>
+<td>—</td>
+<td>—</td>
+<td>1.54</td>
+<td>14</td>
+<td>—5.44</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>63.6</td>
+<td>+2.4</td>
+<td>75</td>
+<td>6.6</td>
+<td>—</td>
+<td>—</td>
+<td>3.13</td>
+<td>16</td>
+<td>—9.01</td>
+</tr>
+<tr>
+<td>N. Elyia</td>
+<td>60.6</td>
+<td>+1.6</td>
+<td>79</td>
+<td>8.3</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall of July, 1925, was consistently in deficit throughout the island. Out of over three hundred stations only half a dozen reached their average and these did so with but little margin. The deficits were greatest in the areas where the averages are highest, i.e., on the west side of the main hills, where they amounted to from 15 to 20 inches in the Ambegamuwa-Hatton districts.
+
+The fact admits of more than mere statistical interest, in view of the suggestion first made in 1922 (Bulletin No. 4, para 33) that a series of well developed thunderstorms in April tended to be followed by a drier monsoon than usual. It cannot be claimed that the point is fully established yet, but it has certainly received strong support in 1925.
+
+Kitulgala alone recorded a fall of over 5 inches in a day, and that was on the last day of the month!
+
+The figures for amount of cloud were above rather than below average, but those for humidity and number of rainy days were both consistently in deficit. At Jaffna the mean wind velocity was well above normal, but the variations at other stations were on both sides of their respective averages.
+
+A. J. BAMFORD,  
+Supdt. Observatory.

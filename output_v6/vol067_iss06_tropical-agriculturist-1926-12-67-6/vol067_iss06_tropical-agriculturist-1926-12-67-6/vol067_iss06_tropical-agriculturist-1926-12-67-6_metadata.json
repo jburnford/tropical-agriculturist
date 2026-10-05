@@ -1,0 +1,849 @@
+{
+  "file_name": "vol067_iss06_tropical-agriculturist-1926-12-67-6.pdf",
+  "num_pages": 70,
+  "total_token_count": 80533,
+  "total_chunks": 743,
+  "total_images": 7,
+  "pages": [
+    {
+      "page_num": 0,
+      "page_box": [
+        0,
+        0,
+        1171,
+        1771
+      ],
+      "token_count": 595,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 1,
+      "page_box": [
+        0,
+        0,
+        1197,
+        1764
+      ],
+      "token_count": 628,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 2,
+      "page_box": [
+        0,
+        0,
+        1176,
+        1780
+      ],
+      "token_count": 1153,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 3,
+      "page_box": [
+        0,
+        0,
+        1197,
+        1764
+      ],
+      "token_count": 1221,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 4,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1778
+      ],
+      "token_count": 1158,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 5,
+      "page_box": [
+        0,
+        0,
+        1197,
+        1764
+      ],
+      "token_count": 1015,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 6,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1778
+      ],
+      "token_count": 1134,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 7,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 960,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 8,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 294,
+      "num_chunks": 3,
+      "num_images": 1
+    },
+    {
+      "page_num": 9,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 183,
+      "num_chunks": 2,
+      "num_images": 1
+    },
+    {
+      "page_num": 10,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1778
+      ],
+      "token_count": 1044,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 11,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1141,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 12,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1129,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 13,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1288,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 14,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 987,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 15,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1063,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 16,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1232,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 17,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1305,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 18,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1001,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 19,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1437,
+      "num_chunks": 23,
+      "num_images": 2
+    },
+    {
+      "page_num": 20,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1442,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 21,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1355,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 22,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1055,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 23,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1181,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 24,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1207,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 25,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1044,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 26,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1092,
+      "num_chunks": 13,
+      "num_images": 0
+    },
+    {
+      "page_num": 27,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 986,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 28,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1020,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 29,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 935,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 30,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 925,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 31,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1639,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 32,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1256,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 33,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1873,
+      "num_chunks": 17,
+      "num_images": 0
+    },
+    {
+      "page_num": 34,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1783,
+      "num_chunks": 27,
+      "num_images": 0
+    },
+    {
+      "page_num": 35,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1507,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 36,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1162,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 37,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1614,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 38,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1671,
+      "num_chunks": 14,
+      "num_images": 0
+    },
+    {
+      "page_num": 39,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1755,
+      "num_chunks": 20,
+      "num_images": 0
+    },
+    {
+      "page_num": 40,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1441,
+      "num_chunks": 21,
+      "num_images": 0
+    },
+    {
+      "page_num": 41,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1242,
+      "num_chunks": 18,
+      "num_images": 0
+    },
+    {
+      "page_num": 42,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1036,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 43,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1100,
+      "num_chunks": 11,
+      "num_images": 0
+    },
+    {
+      "page_num": 44,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1019,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 45,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 975,
+      "num_chunks": 8,
+      "num_images": 0
+    },
+    {
+      "page_num": 46,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 987,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 47,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 866,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 48,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 957,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 49,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 982,
+      "num_chunks": 4,
+      "num_images": 0
+    },
+    {
+      "page_num": 50,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1125,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 51,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 983,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 52,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1009,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 53,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1033,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 54,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 999,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 55,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 877,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 56,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1247,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 57,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1658,
+      "num_chunks": 7,
+      "num_images": 0
+    },
+    {
+      "page_num": 58,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1101,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 59,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1218,
+      "num_chunks": 15,
+      "num_images": 0
+    },
+    {
+      "page_num": 60,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1241,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 61,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 941,
+      "num_chunks": 10,
+      "num_images": 0
+    },
+    {
+      "page_num": 62,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 993,
+      "num_chunks": 9,
+      "num_images": 0
+    },
+    {
+      "page_num": 63,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 1597,
+      "num_chunks": 12,
+      "num_images": 0
+    },
+    {
+      "page_num": 64,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 1866,
+      "num_chunks": 6,
+      "num_images": 0
+    },
+    {
+      "page_num": 65,
+      "page_box": [
+        0,
+        0,
+        1230,
+        1777
+      ],
+      "token_count": 5201,
+      "num_chunks": 16,
+      "num_images": 0
+    },
+    {
+      "page_num": 66,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 101,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 67,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 126,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 68,
+      "page_box": [
+        0,
+        0,
+        1174,
+        1777
+      ],
+      "token_count": 113,
+      "num_chunks": 1,
+      "num_images": 1
+    },
+    {
+      "page_num": 69,
+      "page_box": [
+        0,
+        0,
+        1194,
+        1767
+      ],
+      "token_count": 29,
+      "num_chunks": 0,
+      "num_images": 0
+    }
+  ]
+}

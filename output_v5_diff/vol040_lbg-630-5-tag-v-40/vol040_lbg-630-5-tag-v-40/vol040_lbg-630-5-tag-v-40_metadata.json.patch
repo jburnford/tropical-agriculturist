@@ -1,0 +1,17 @@
+--- output_v5/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40_metadata.json	2026-10-03 08:30:34.822403678 -0600
++++ output_v6/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40_metadata.json	2026-10-04 12:07:25.784358336 -0600
+@@ -1933,12 +1933,12 @@
+         1717,
+         2368
+       ],
+-      "token_count": 6057,
++      "token_count": 12291,
+       "num_chunks": 4,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_016:45+46+47"
++        "source": "vsplitV/V_005:129+130+131+132+133"
+       }
+     },
+     {

@@ -1,0 +1,77 @@
+--- output_v5/vol010_tropicalagricult1018ceyl/vol010_tropicalagricult1018ceyl/vol010_tropicalagricult1018ceyl_metadata.json	2026-10-03 08:30:31.708068146 -0600
++++ output_v6/vol010_tropicalagricult1018ceyl/vol010_tropicalagricult1018ceyl/vol010_tropicalagricult1018ceyl_metadata.json	2026-10-04 12:07:21.744728353 -0600
+@@ -4173,12 +4173,12 @@
+         1216,
+         1812
+       ],
+-      "token_count": 8291,
++      "token_count": 8128,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_003:51+52+53"
++        "source": "vsplitV/V_001:223+224+225+226+227"
+       }
+     },
+     {
+@@ -6121,12 +6121,12 @@
+         1216,
+         1812
+       ],
+-      "token_count": 8804,
++      "token_count": 8163,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_003:54+55+56"
++        "source": "vsplitV/V_001:228+229+230+231+232"
+       }
+     },
+     {
+@@ -6893,12 +6893,12 @@
+         1216,
+         1812
+       ],
+-      "token_count": 8249,
++      "token_count": 8203,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_003:57+58+59"
++        "source": "vsplitV/V_001:233+234+235+236+237"
+       }
+     },
+     {
+@@ -9485,12 +9485,12 @@
+         1216,
+         1812
+       ],
+-      "token_count": 8988,
++      "token_count": 9195,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_004:3+4+5"
++        "source": "vsplitV/V_001:238+239+240+241+242"
+       }
+     },
+     {
+@@ -10353,12 +10353,12 @@
+         1216,
+         1812
+       ],
+-      "token_count": 8396,
++      "token_count": 9286,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_003:6+7"
++        "source": "vsplitV/V_001:243+244+245+246+247"
+       }
+     },
+     {

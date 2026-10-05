@@ -1,0 +1,62 @@
+--- output_v5/vol007_tropicalagricult7188ceyl/vol007_tropicalagricult7188ceyl/vol007_tropicalagricult7188ceyl_metadata.json	2026-10-03 08:30:31.189058086 -0600
++++ output_v6/vol007_tropicalagricult7188ceyl/vol007_tropicalagricult7188ceyl/vol007_tropicalagricult7188ceyl_metadata.json	2026-10-04 12:07:21.230717970 -0600
+@@ -2073,12 +2073,12 @@
+         1302,
+         1828
+       ],
+-      "token_count": 7806,
++      "token_count": 8274,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:51+52+53"
++        "source": "vsplitV/V_001:163+164+165+166+167"
+       }
+     },
+     {
+@@ -5533,12 +5533,12 @@
+         1302,
+         1828
+       ],
+-      "token_count": 7574,
++      "token_count": 8229,
+       "num_chunks": 4,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_002:57+58+59"
++        "source": "vsplitV/V_001:168+169+170+171+172"
+       }
+     },
+     {
+@@ -8129,12 +8129,12 @@
+         1302,
+         1828
+       ],
+-      "token_count": 7589,
++      "token_count": 7739,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_002:20+21"
++        "source": "vsplitV/V_001:173+174+175+176+177"
+       }
+     },
+     {
+@@ -9861,12 +9861,12 @@
+         1302,
+         1828
+       ],
+-      "token_count": 8324,
++      "token_count": 8190,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_003:3+4+5"
++        "source": "vsplitV/V_001:178+179+180+181+182"
+       }
+     },
+     {

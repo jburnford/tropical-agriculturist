@@ -1,0 +1,17 @@
+--- output_v5/vol032_tropicalagricul321909ceyl/vol032_tropicalagricul321909ceyl/vol032_tropicalagricul321909ceyl_metadata.json	2026-10-03 08:30:34.469833590 -0600
++++ output_v6/vol032_tropicalagricul321909ceyl/vol032_tropicalagricul321909ceyl/vol032_tropicalagricul321909ceyl_metadata.json	2026-10-04 12:07:25.372782518 -0600
+@@ -1177,12 +1177,12 @@
+         1024,
+         1455
+       ],
+-      "token_count": 6534,
++      "token_count": 7799,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_011:24+25"
++        "source": "vsplitV/V_005:119+120+121+122+123"
+       }
+     },
+     {

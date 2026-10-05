@@ -1,0 +1,2618 @@
+# The Tropical Agriculturist
+
+VOL. XCV
+
+PERADENIYA, JULY, 1940.
+
+No. 1
+
+<table><thead><tr><th></th><th style="text-align: right;">Page</th></tr></thead><tbody><tr><td>Editorial .. .. .</td><td style="text-align: right;">1</td></tr></tbody></table>
+
+## ORIGINAL ARTICLES
+
+<table><tbody><tr><td>Coconut Poonac as Manure. By M. L. M. Salgado, Ph.D. (Cantab.),<br/>B.Sc. (Lond.) .. .. .</td><td style="text-align: right;">3</td></tr><tr><td>Some Studies on Tobacco Diseases in Ceylon—VI. The Effect of<br/>Priming and of the Application of Fungicides on the Control<br/>of Frog-eye in the Field. By Malcolm Park, A.R.C.S. (Lond.),<br/>W. R. C. Paul, M.A. (Cantab.), Ph.D., M.Sc. (Lond.), D.I.C.,<br/>A.I.C.T.A., F.L.S., and M. Fernando, Ph.D. (Lond.) .. .. .</td><td style="text-align: right;">8</td></tr><tr><td>Agriculture in Kashmir. By T. W. Hockly .. .. .</td><td style="text-align: right;">16</td></tr><tr><td>The Storage of Foodstuffs in The Colonial Empire .. .. .</td><td style="text-align: right;">29</td></tr></tbody></table>
+
+## DEPARTMENTAL NOTES
+
+<table><tbody><tr><td>Laying Records of Pullets hatched from Eggs imported by Air Mail ..</td><td style="text-align: right;">49</td></tr><tr><td>The Utilization of Husks on Coconut Estates .. .. .</td><td style="text-align: right;">51</td></tr></tbody></table>
+
+## SELECTED ARTICLE
+
+<table><tbody><tr><td>Banana Flour .. .. .</td><td style="text-align: right;">57</td></tr></tbody></table>
+
+## MEETINGS, CONFERENCES, &c.
+
+<table><tbody><tr><td>Minutes of the Fiftieth Meeting of the Board of Management of the<br/>Coconut Research Scheme .. .. .</td><td style="text-align: right;">59</td></tr></tbody></table>
+
+## REVIEW
+
+<table><tbody><tr><td>Grassland Investigations in Australia .. .. .</td><td style="text-align: right;">62</td></tr></tbody></table>
+
+## RETURNS
+
+<table><tbody><tr><td>Animal Disease Return for the month ended June, 1940 .. .. .</td><td style="text-align: right;">66</td></tr><tr><td>Meteorological Report for the month ended June, 1940 .. .. .</td><td style="text-align: right;">67</td></tr></tbody></table>
+
+1—J. N. 95483 (6/40)
+
+1------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+
+2------------------------------------------------
+
+# The Tropical Agriculturist
+
+JULY, 1940
+
+---
+
+## EDITORIAL
+
+---
+
+### THE STORAGE OF FOODSTUFFS
+
+---
+
+WE reproduce in this number a memorandum issued by the Colonial Office on the storage of foodstuffs. It does not profess to be an exposition of new scientific methods of commercial storage. It is mainly a description of the traditional methods of storing food between the seasons practised by the Colonial peoples with a few suggestions for the more efficient application of these methods in the light of modern scientific knowledge. The memorandum relates only to the storage of primary commodities and does not deal with the problem of conversion or preservation for the purpose of storage other than the simple process of drying. Therefore it provides no clue to the solution of some of our major problems such as the glut of fruit during a short season between long periods of scarcity or the concentration of population in those areas in which there are no facilities for the establishment of large herds of milk-yielding cattle.
+
+While the memorandum is interesting and instructive as an authoritative survey of an important branch of primitive husbandry, it contains very little new knowledge so far as this country is concerned. The grain store of plaited cane or twigs covered over with a mixture of mud and cow dung (known locally as a *bissa*), the suspension of corn in the cob or *kurakkan* (*Eleusine coracana*) in the ear from a beam in the kitchen, the driage of grain before storage so as to expel the larger percentage of moisture, the retention of cassava in the ground until it is required for immediate consumption or sale, the storage of sweet potatoes in clamps covered with dry sand, all these practices are familiar to the peasant in this country. Paddy is stored in *bissas* for long periods, often over two years, with no resultant deterioration or loss of grain; and the only damage which the subsidiary grains and the pulses stored in the kitchen suffer in a normal year is from rats. Even this nuisance is effectively met by the homely method of leaving an active, and often hungry, cat in the kitchen during the night. The
+
+3------------------------------------------------
+
+2
+
+qualifying words "in a normal year" were necessary because in a country of treacherous and uncertain monsoons there are years when nature asserts her mastery over man by sending an excess of unseasonal rain at harvest time which both interferes with the preparation of the grain for storage and disturbs that balance of nature which keeps insect pests under control. Our readers would probably remember the February-March rains and the devastated grain bins of 1938.
+
+These ancient and well-tried methods of storage were adequate to meet the requirements of production based on a consumption economy. Nor has the more intensive production of food under the stimulus of a possible war-time scarcity materially affected the position because, while there probably has been a substantial increase in the aggregate production, the quantity which any individual farmer has to handle would not be so large as to cause too severe a strain on his storage arrangements. But a new situation will be created by the large scale production for a market which is expected to follow the operation of the Agricultural Products (Regulation) Ordinance and the establishment of rice hulling mills by the Government. The farmer will want to sell his produce immediately after the harvest and a centrally-controlled market will not be able to handle the goods without providing for a considerable period of storage. The Marketing Commissioner must be prepared to meet this situation and for this purpose he will perhaps find some useful material in the suggestions made in this memorandum for the dusting and fumigation of grain.
+
+4------------------------------------------------
+
+3
+
+## COCONUT POONAC AS MANURE
+
+---
+
+M. L. M. SALGADO, B.Sc. (Lond.), Ph.D., Dip. Agric. (Cantab.),  
+SOIL CHEMIST, COCONUT RESEARCH SCHEME (CEYLON)
+
+---
+
+### INTRODUCTION
+
+**A**T present large stocks of coconut poonac produced by local mills are available at relatively cheap rates owing to lack of export markets, and their disposal has become a serious problem. The price of poonac which before the war was Rs. 80 a ton has come down to Rs. 30 per ton (nom.) at the time of writing. During the war of 1914–1918 a similar situation even led to the use of poonac as fuel in the mills. Such a procedure is obviously a flagrant waste of good cattle food and/or manure.
+
+In the March number of this journal, Crawford (2) has discussed the use of coconut poonac as food for livestock. Numerous inquiries have been received by the Coconut Research Scheme regarding the possible use of coconut poonac as a manure on coconut estates, and it is hoped that the information given in this article will be of interest.
+
+It is primarily as a feeding-stuff that coconut poonac should be regarded, and its use as manure is less desirable, even if not so patently wasteful as its use as fuel. Theoretically the livestock population of Ceylon should be able easily to absorb the annual local output of poonac. However, difficulties of economics and distribution at present stand in the way of such absorption, and the question of using surplus stocks as fertilizers has to be considered.
+
+Further, since the outbreak of the war, owing to the embargo on exports from producing countries and lack of transport facilities, difficulty has been experienced in obtaining normal supplies of inorganic fertilizers such as calcium cyanamide, sulphate of ammonia and nicifos. Fertilizer firms are thus from time to time unable to supply full requirements of these manures to estates, and in mixtures inorganic nitrogen is partly (in some cases up to 50 per cent.) replaced by organic nitrogen, particularly in the form of groundnut cake.
+
+At the same time the prices of inorganic nitrogenous fertilizers have risen considerably. Calcium cyanamide which was about
+
+5------------------------------------------------
+
+4
+
+Rs. 136 per ton at the commencement of the war has risen to just over Rs. 200 at the moment of writing; and the other inorganic nitrogen manures have followed a similar trend. With further complications in the international situation, the supply of these fertilizers may be even more seriously affected, while prices may soar to a prohibitive level.
+
+It is therefore expedient to explore the potentialities as fertilizers of materials locally available, and in this connexion the possibility of utilizing coconut poonac at economic rates deserves the utmost consideration.
+
+#### GRADES OF COCONUT POONAC
+
+The different types of coconut poonac locally produced are classified below :—
+
+1. 1. Mill poonac (expeller and hydraulic)
+2. 2. Chekku poonac.
+3. 3. Parings poonac.
+4. 4. Sediment poonac.
+
+Of these the bulk of the local poonac is mill poonac—expeller and hydraulic—of which in normal times about 300,000 cwt. are exported annually. Small quantities of chekku poonac are available. It is of interest to mention that, in the early days of coconut planting, it was the practice in some estates to convert the whole crop of nuts into oil in chekkus on the estates, and use the chekku poonac as manure either direct or by using it as food for cattle and utilizing the cattle manure produced. Sometimes poonac was mixed with cattle manure and applied in trenches. Parings poonac is prepared in desiccated coconut mills from the parings or the shavings of the nut produced during the manufacture of desiccated coconut. Parings poonac is much preferred to ordinary poonac as a cattle food and higher prices are paid for it. However, it differs little from the latter in chemical composition and food value, and the higher price is apparently based on little more than prejudice. Sediment poonac is produced in limited quantities in D. C. mills and differs materially in chemical composition and manurial value from the other grades. It is obtained from the scum formed in the tanks containing the coconut water and washings of the nuts. The scum is boiled with a little water in flat pans and the oil, called drain oil, periodically skimmed off. The sediment is pressed in iron or stone presses and the residue sold as oil cake [cf. Child (1) and Joachim (3)].
+
+#### CHEMICAL COMPOSITION AND MANURIAL VALUE
+
+The chemical composition of various grades of poonac are given in Table I., taken from *Coconut Research Scheme, Ceylon Bulletin*, No. 3, p. 13 (5).
+
+6------------------------------------------------
+
+5
+
+**TABLE I.**  
+**Composition of Poonac Samples**
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Moisture.</th>
+<th>Oil.</th>
+<th>Ash.</th>
+<th>Organic matter.</th>
+<th>Nitrogen.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Expeller poonac</td>
+<td>.. 9.8..</td>
+<td>8.1..</td>
+<td>5.5..</td>
+<td>76.6..</td>
+<td>3.36</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Chekku poonac (calculated)</td>
+<td>.. 13.3..</td>
+<td>26.9..</td>
+<td>3.3..</td>
+<td>83.4..</td>
+<td>2.20</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Parings poonac (a)</td>
+<td>.. 10.3..</td>
+<td>6.6..</td>
+<td>4.8..</td>
+<td>84.9..</td>
+<td>3.58</td>
+</tr>
+<tr>
+<td></td>
+<td>„ „ (b)</td>
+<td>.. 8.7..</td>
+<td>11.3..</td>
+<td>6.9..</td>
+<td>84.4..</td>
+<td>3.17</td>
+</tr>
+<tr>
+<td></td>
+<td>„ „ (c)</td>
+<td>.. 12.2..</td>
+<td>8.0..</td>
+<td>4.4..</td>
+<td>83.4..</td>
+<td>3.25</td>
+</tr>
+<tr>
+<td></td>
+<td>„ „ (d)</td>
+<td>.. 9.1..</td>
+<td>9.0..</td>
+<td>6.6..</td>
+<td>84.3..</td>
+<td>3.25</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Sediment „ (a)</td>
+<td>.. 27.4..</td>
+<td>19.6..</td>
+<td>7.2..</td>
+<td>65.4..</td>
+<td>5.34</td>
+</tr>
+<tr>
+<td></td>
+<td>„ „ (b)</td>
+<td>.. 24.0..</td>
+<td>20.9..</td>
+<td>7.3..</td>
+<td>68.7..</td>
+<td>5.55</td>
+</tr>
+<tr>
+<td></td>
+<td>„ „ (c)</td>
+<td>.. 7.9..</td>
+<td>23.2..</td>
+<td>8.3..</td>
+<td>83.8..</td>
+<td>7.22</td>
+</tr>
+</tbody>
+</table>
+
+While sediment poonac contains as much as 7 per cent. nitrogen, the other grades (excluding chekku poonac) contain about 3 per cent. Sediment poonac and chekku poonac also contain a large amount of unextracted oil compared to the other grades.
+
+Crawford (*loc. cit.*, p. 171) quotes an analysis of chekku poonac with an oil content of 15.0 per cent. Our experience is that chekku-pressing seldom reduces the oil content of the poonac below 20 per cent., and even considerably higher figures have been obtained on samples examined at the Coconut Research Scheme. In any case Crawford expresses the opinion that this high oil content makes chekku poonac definitely unsuitable for feeding in considerable quantities to certain classes of livestock.
+
+The Carbon : Nitrogen ratios of poonac samples are given below :—
+
+**TABLE II.**  
+**Carbon : Nitrogen ratios of Poonac Samples**
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Per cent.<br/>Carbon.</th>
+<th>Per cent.<br/>Nitrogen.</th>
+<th>C/N.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4" style="text-align: center;">(Corrected for moisture).</td>
+</tr>
+<tr>
+<td>Mill poonac (Hydraulic)..</td>
+<td>.. 50.59 ..</td>
+<td>3.48 ..</td>
+<td>14.54</td>
+</tr>
+<tr>
+<td>Expeller poonac ..</td>
+<td>.. 48.87 ..</td>
+<td>3.92 ..</td>
+<td>12.47</td>
+</tr>
+<tr>
+<td>Parings „ ..</td>
+<td>.. 50.95 ..</td>
+<td>4.10 ..</td>
+<td>12.43</td>
+</tr>
+<tr>
+<td>Sediment „ ..</td>
+<td>.. 64.10 ..</td>
+<td>7.58 ..</td>
+<td>8.46</td>
+</tr>
+</tbody>
+</table>
+
+Although manure with a C/N ratio greater than 10 may be considered unsatisfactory for annual crops, this may not be a material disadvantage for perennials such as coconuts, tea and rubber. For perennials, particularly coconuts producing nuts throughout the year, without any definite growth periods during which nitrogen has to be supplied as in the case of annuals, the immobilization of soil nitrates in the process of decomposition of the poonac will only be temporary, as the micro-organisms will subsequently decay and release plant food.
+
+7------------------------------------------------
+
+6
+
+Sediment poonac, however, in spite of its oil content has a narrow C/N ratio below 10 and could be considered a manure as good as groundnut cake.
+
+As far as its fertilizer value is concerned (as with chekku poonac) the high oil content reduces proportionately the percentage of nitrogen and other fertilizing ingredients. The oil in itself is hardly likely to have any deleterious effect on the soil; indeed N. R. Dhar (*Hadar* Nov., 1938; & *Nature*, 1940, Vol. 145, 632) of Allahabad has recently claimed that, contrary to the general belief, fats are readily oxidized in tropical soils and provide considerable energy for nitrogen fixation.
+
+Poonac also contains about 1.3 per cent. potash and 1.5 per cent. phosphoric acid.
+
+#### THE RELATIVE VALUES OF POONAC AND IMPORTED MANURES
+
+The price per ton and unit values of N in calcium cyanamide, sulphate of ammonia, ground-nut cake, and coconut poonac are given below for comparison :—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Per cent.<br/>Nitrogen.</th>
+<th colspan="2">Price per</th>
+<th colspan="2">*Unit value</th>
+</tr>
+<tr>
+<th>ton.</th>
+<th>Rs. c.</th>
+<th>of Nitrogen.</th>
+<th>Rs. c.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Calcium cyanamide ..</td>
+<td>19</td>
+<td>200</td>
+<td>0</td>
+<td>10</td>
+<td>53</td>
+</tr>
+<tr>
+<td>Sulphate of ammonia ..</td>
+<td>20.6</td>
+<td>200</td>
+<td>0</td>
+<td>9</td>
+<td>71</td>
+</tr>
+<tr>
+<td>Groundnut cake ..</td>
+<td>7</td>
+<td>100</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Coconut poonac (expeller) ..</td>
+<td>3</td>
+<td>30</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+It will be seen that at Rs. 30 a ton coconut poonac costs nearly the same as inorganic manures and is distinctly cheaper than groundnut cake.
+
+The increased cost of transport of bulky manures such as poonac should also be considered. For every ton of cyanamide that would be replaced by poonac nearly 6 tons of the latter have to be used. Handling charges such as application would be correspondingly heavy. On the average the all-in-transport and handling charges of about Rs. 7 per ton should be added to the cost of manure in most coconut districts.
+
+It should also be remembered that expeller poonac is sold in the form of hard lumps, which should be crushed to a fine meal (such as groundnut cake sold for manure) before application. The cost of crushing should therefore be added to the cost of manure.† Assuming crushing to cost Rs. 5 per ton, the total cost per ton including freight and transport charges would be Rs. 42.
+
+\*The unit value of nitrogen, &c., in fertilizers is calculated as the actual cost of 22.4 lb. of nitrogen or 1/100 part of a ton. This is obtained by dividing the cost per ton by the percentage of nitrogen, &c.
+
+† We are now informed that Messrs. British Ceylon Corporation are prepared to supply ready-ground poonac at Rs. 35 per ton f.o.r., Colombo.
+
+8------------------------------------------------
+
+7
+
+As mentioned before, when manure firms are unable to supply the full requirements of nitrogen in the inorganic form 50 per cent. of the nitrogen is replaced by groundnut cake. At an inclusive cost of Rs. 42 a ton, which will then cost Rs. 14 a unit of nitrogen, it would not be uneconomic to use coconut poonac instead of groundnut cake in coconut manure mixtures.
+
+In conclusion it may be necessary to consider the question of the present serious problem of coconut poonac stocks from the wider aspect of national expediency and to encourage its use as manure so long as there are no technical objections.
+
+#### ACKNOWLEDGMENTS
+
+Thanks are due to Dr. R. Child, Director of Research, Coconut Research Scheme, for supplying the figures for oil content of the poonac samples, and to Dr. T. Eden, Agricultural Chemist, Tea Research Institute, for the Carbon/Nitrogen figures.
+
+#### REFERENCES
+
+1. 1. Child, R., 1934 : Report on the soap industry of Ceylon. *Coconut Research Scheme, Ceylon, Bull.* No. 1, pp. 9-10.
+2. 2. Crawford, M., 1940 : Coconut poonac as a food for livestock. *The Tropical Agriculturist*, Vol. XCIV., pp. 168-171.
+3. 3. Joachim, A. W. R., 1930 : The manurial and feeding value of a by-product of the coconut oil industry. *Ibid.*, LXXIV., p. 141.
+4. 4. Joachim, A. W. R. and Kandiah, S., 1932 : Analyses of some by-products of the coconut industry. *Ibid.* LXXVIII., p. 15.
+5. 5. Salgado, M. L. M., 1938 : Annual reports of the Soil Chemist, *Coconut Research Scheme, Ceylon, Bull.* No. 3.
+
+9------------------------------------------------
+
+8
+
+## SOME STUDIES ON TOBACCO DISEASES IN CEYLON—VI
+
+---
+
+### THE EFFECT OF PRIMING AND OF THE APPLICATION OF FUNGICIDES ON THE CONTROL OF FROG-EYE IN THE FIELD
+
+---
+
+MALCOLM PARK, A.R.C.S., Acting Deputy Director of Agriculture,  
+W. R. C. PAUL, M.A. (Cantab.), Ph.D., B.Sc. (Lond.), D.I.C.,  
+A.I.C.T.A., F.L.S., Agricultural Officer, Grade I., Central  
+Division, and M. FERNANDO, Ph.D., B.Sc.  
+(Lond.), D.I.C., Assistant Botanist.
+
+---
+
+**E**XPERIMENTS reported in earlier numbers of this series (Park and Fernando, 1937 *b* and 1938 *a* and *b*) have demonstrated the possibility of effective and economic control in the field of frog-eye of cigarette tobacco by the use of copper sprays. The supply and transport of water are major difficulties encountered in field spraying; over 200 gallons of water are needed for spraying one acre of tobacco. In the dry zone of Ceylon, where cigarette tobacco is best grown, the supply of water for the purpose may prove to be a limiting factor and, in any case, the cost of transport renders spraying an expensive operation. It was felt that dusting, if effective in frog-eye control, would prove a more attractive method of fungicide application especially in the tobacco-growing areas of the dry zone. Besides the elimination of water, advantageous features of dusting include the greater ease and speed of application and the consequently lower labour costs, and the comparative cheapness of dusting outfits. Dusts are, however, less effective than sprays on account of the larger size and poorer adhesion of the fungicidal particles. Moreover, satisfactory direction of a dust cloud is possible only in relatively still air or by the use of screens. The experiment described below aimed at determining the practicability of replacing copper sprays by a suitable dust.
+
+The efficacy of priming as a measure of frog-eye control was also investigated in this experiment. Priming is a routine cultural practice wherever cigarette tobacco is grown. It consists of the periodic removal of over-mature "sand leaves", and aims at ensuring adequate ventilation of the base of the
+
+10------------------------------------------------
+
+9
+
+plant, and at diverting as much of the available nutrients as possible into the commercially valuable leaves. It has also been argued that since these over-mature leaves carry numerous frog-eye lesions, their removal in priming should result in a reduction in the volume of infective material.
+
+The experiment was set down at the Experiment Station, Ganewatta, during the *maha* (north-east monsoon) season, 1938-39.
+
+#### DESIGN OF THE EXPERIMENT
+
+The following sets of treatments were included in a factorial design :—
+
+##### *Primings—*
+
+- A. Unprimed.
+- B. Primed.
+
+##### *Applications of fungicide—*
+
+- a. Untreated
+- b. Single spraying with colloidal copper (one oz. per gal.)
+- c. Single dusting with a copper-lime dust.
+
+As the proximity of unprimed plants was likely to influence the volume of inoculum within a primed area, it was felt that the effect of priming would be more evident over large plots. On the other hand, with the fungicidal treatments, the only factor limiting reduction in plot size was the interference of drifting dust and spray. The primings and fungicide applications were accordingly distributed over the two main plots and the six sub-plots respectively of each of four complex randomized blocks.
+
+The main plots and sub-plots were approximately  $1/6$  acre and  $1/18$  acre respectively. The plants were spaced 3 feet by 3 feet.
+
+#### MATERIAL AND METHODS
+
+The experimental material consisted of a relatively uniform area of tobacco of the variety Harrison's Special, grown at the Experiment Station, Ganewatta. The soil of this station is light, sandy and non-lateritic. Tobacco is one of the routine rotation crops at this station, and the following experiment occupied part of the usual rotation area. The succession of crops in the rotation is as follows :—
+
+1. 1. *Maha* (September–October to March)—Tobacco.
+2. 2. *Yala* (March–April to June–July)—a green manure (usually sunn hemp).
+3. 3. *Maha*—a cereal (usually maize.)
+
+11------------------------------------------------
+
+10
+
+4. *Yala*—a green manure (usually sunn hemp).
+
+Tobacco therefore occupies the same area during the *maha* seasons of alternate years.
+
+*The nurseries.*—The nursery technique employed has been described in considerable detail by Paul and Fernando (1938). The beds were sterilized by the open-fire method on August 28, and sown during the period September 17–October 1. The seedlings had been subjected in the nursery to weekly spraying with colloidal copper (one oz. per gal.), and did not at the time of transplanting exhibit any frog-eye lesions.
+
+*The field.*—The land was ploughed on August 30 and September 24, disc-harrowed on October 1 and 11, and levelled with a spiked tooth-harrow on October 24. The area received the following fertilizer mixture per acre :
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Nitrate of soda</td>
+<td>.. 84</td>
+</tr>
+<tr>
+<td>Sulphate of potash</td>
+<td>.. 140</td>
+</tr>
+<tr>
+<td>Superphosphate</td>
+<td>.. 224</td>
+</tr>
+</tbody>
+</table>
+
+Half of this mixture was applied in tablespoonfuls to the hills before transplanting (October 26–28). The other half was applied to the bases of the plants after transplanting (November 3–5) and forked in.
+
+The seedlings were transplanted in the field during the period October 29–November 1. Vacancies were supplied on November 11 and 27, and on December 19 and 26. The area was mamotty-weeded on November 11 and December 11.
+
+*Priming.*—The plots set part for this treatment were primed on January 9, 12, 17, 22, 25 and 28 and on February 6.
+
+*Application of fungicides.*—The spray mixture used had the following composition :—
+
+<table>
+<tbody>
+<tr>
+<td>Colloidal copper</td>
+<td>.. 1 oz.</td>
+</tr>
+<tr>
+<td>Spreader</td>
+<td>.. <math>\frac{1}{4}</math> oz.</td>
+</tr>
+<tr>
+<td>Water</td>
+<td>.. 4 gal.</td>
+</tr>
+</tbody>
+</table>
+
+The colloidal copper and spreader in this formula are identical with those used in previous experiments in this series (Park and Fernando, 1937 *a* and 1938 *a* and *b*). The colloidal copper is a proprietary fungicide containing 22 per cent. copper oxychloride, 50 per cent. water and 28 per cent. of an organic complex (Jacquemain and Gravier, 1932). The spreader is a proprietary product having a composition allied to a sulphonate of an alkylated hydrocarbon.
+
+12------------------------------------------------
+
+11
+
+The copper-lime dust contained a mixture of monohydrated copper sulphate ( $\text{CuSO}_4 \cdot \text{H}_2\text{O}$ ) and calcium hydroxide.
+
+The spray was applied on January 17, and the dust on January 19. Spraying was done with two-gallon knapsack sprayers working at a pressure of 75 lb. per square inch. The spray lance carried an angle-bend which facilitated the spraying of the lower surfaces of leaves and a single fine nozzle. The dust was applied by hand through muslin bags as it was necessary to confine the dust to the appropriate plots. As a further precaution, the drift of both dust and spray was checked by the use of jute hessian screens. At the time of fungicide application, the weather was dry, dull and cloudy, and the air relatively still. The percentages of plants topped in sprayed and dusted plots, at the time of fungicide application are given in Table 1. It will be seen that the stage of growth at which fungicides were applied was approximately that which had proved to be the optimum in previous experiments (Park and Fernando, 1938 *a*).
+
+TABLE 1
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">Block</th>
+<th colspan="4">Percentage of Plants topped</th>
+</tr>
+<tr>
+<th colspan="2">Primed</th>
+<th colspan="2">Unprimed</th>
+</tr>
+<tr>
+<th>Sprayed</th>
+<th>Dusted</th>
+<th>Sprayed</th>
+<th>Dusted</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I.</td>
+<td>.. 75.2 ..</td>
+<td>62.7</td>
+<td>.. 95.7 ..</td>
+<td>79.8</td>
+</tr>
+<tr>
+<td>II.</td>
+<td>.. 76.7 ..</td>
+<td>68.9</td>
+<td>.. 80.8 ..</td>
+<td>64.4</td>
+</tr>
+<tr>
+<td>III.</td>
+<td>.. 64.3 ..</td>
+<td>55.6</td>
+<td>.. 74.7 ..</td>
+<td>65.1</td>
+</tr>
+<tr>
+<td>IV.</td>
+<td>.. 70.3 ..</td>
+<td>68.6</td>
+<td>.. 56.2 ..</td>
+<td>54.2</td>
+</tr>
+</tbody>
+</table>
+
+*Harvesting.*—Very dry weather occurred for the major part of the season during which the experiments were carried out and, as a result, many plants were killed. A harvest of all the surviving plants in the sub-plots would have necessitated a correction for plant number by means of an analysis of covariance. On February 13, therefore, a random sample of 60 plants was harvested from each sub-plot after the exclusion of a single border row. The leaves were relatively coarse probably as a result of heavy nitrogenous manuring. In accordance with the usual practice, leaves carrying numerous frog-eye lesions were not harvested for flue-curing. Weights of total cured leaf from plots subjected to the various treatments accordingly provide estimates of the efficacy of these treatments in frog-eye control.
+
+#### METEOROLOGICAL DATA
+
+The rainfall records presented in Table 2 indicate the severity of the drought that prevailed during the currency of the experiment. Days of no rain are omitted.
+
+13------------------------------------------------
+
+12TABLE 2
+
+Daily Rainfall Records from October 1, 1938, to February 13, 1939
+
+<table border="1">
+<thead>
+<tr>
+<th>Date</th>
+<th>Rainfall<br/>in.</th>
+<th>Date</th>
+<th>Rainfall<br/>in.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>October 24, 1938</td>
+<td>.. 0.05</td>
+<td>December 7, 1938</td>
+<td>.. 0.02</td>
+</tr>
+<tr>
+<td>October 25, 1938</td>
+<td>.. 1.21</td>
+<td>December 13, 1938</td>
+<td>.. 0.25</td>
+</tr>
+<tr>
+<td>October 27, 1938</td>
+<td>.. 0.06</td>
+<td>December 16, 1938</td>
+<td>.. 0.32</td>
+</tr>
+<tr>
+<td>October 28, 1938</td>
+<td>.. 1.57</td>
+<td>December 17, 1938</td>
+<td>.. 0.20</td>
+</tr>
+<tr>
+<td>October 29, 1938</td>
+<td>.. 0.09</td>
+<td>December 18, 1938</td>
+<td>.. 0.31</td>
+</tr>
+<tr>
+<td>October 31, 1938</td>
+<td>.. 0.51</td>
+<td>December 19, 1938</td>
+<td>.. 0.06</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>December 20, 1938</td>
+<td>.. 0.08</td>
+</tr>
+<tr>
+<td>November 2, 1938</td>
+<td>.. 1.54</td>
+<td>December 21, 1938</td>
+<td>.. 0.24</td>
+</tr>
+<tr>
+<td>November 3, 1938</td>
+<td>.. 0.48</td>
+<td>December 22, 1938</td>
+<td>.. 0.07</td>
+</tr>
+<tr>
+<td>November 5, 1938</td>
+<td>.. 0.06</td>
+<td>December 23, 1938</td>
+<td>.. 0.19</td>
+</tr>
+<tr>
+<td>November 16, 1938</td>
+<td>.. 0.82</td>
+<td>December 24, 1938</td>
+<td>.. 0.81</td>
+</tr>
+<tr>
+<td>November 17, 1938</td>
+<td>.. 0.23</td>
+<td>December 25, 1938</td>
+<td>.. 0.18</td>
+</tr>
+<tr>
+<td>November 26, 1938</td>
+<td>.. 0.45</td>
+<td>December 26, 1938</td>
+<td>.. 0.65</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>December 27, 1938</td>
+<td>.. 0.69</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1">
+<thead>
+<tr>
+<th>Date</th>
+<th>Rainfall<br/>in.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January 8, 1939</td>
+<td>.. 0.02</td>
+</tr>
+<tr>
+<td>January 9, 1939</td>
+<td>.. 0.74</td>
+</tr>
+<tr>
+<td>January 10, 1939</td>
+<td>.. 2.68</td>
+</tr>
+<tr>
+<td>January 18, 1939</td>
+<td>.. 3.72</td>
+</tr>
+<tr>
+<td>January 19, 1939</td>
+<td>.. 0.02</td>
+</tr>
+<tr>
+<td>January 24, 1939</td>
+<td>.. 0.02</td>
+</tr>
+<tr>
+<td>January 25, 1939</td>
+<td>.. 0.09</td>
+</tr>
+</tbody>
+</table>
+
+RESULTS
+
+The yields of clean cured leaf from plots subjected to the various treatments are given in Table 3.
+
+TABLE 3
+
+Total Yields of clean cured Leaf in lb.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Primed<br/>lb.</th>
+<th></th>
+<th>Unprimed<br/>lb.</th>
+<th></th>
+<th>Total<br/>lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sprayed</td>
+<td>..</td>
+<td>.. 23.70</td>
+<td>..</td>
+<td>16.20</td>
+<td>..</td>
+<td>39.90</td>
+</tr>
+<tr>
+<td>Dusted</td>
+<td>..</td>
+<td>.. 16.18</td>
+<td>..</td>
+<td>12.50</td>
+<td>..</td>
+<td>28.68</td>
+</tr>
+<tr>
+<td>Untreated</td>
+<td>..</td>
+<td>.. 11.24</td>
+<td>..</td>
+<td>6.83</td>
+<td>..</td>
+<td>18.08</td>
+</tr>
+<tr>
+<td></td>
+<td>Total</td>
+<td>.. 51.12</td>
+<td>..</td>
+<td>35.54</td>
+<td>..</td>
+<td>86.66</td>
+</tr>
+</tbody>
+</table>
+
+The analysis of variance of weights of clean cured leaf is presented in Table 4. The variance ratios (Fisher and Yates, 1938) for priming and fungicide treatments are significant at the 5 per cent. and 0.1 per cent. levels respectively. The yields for priming and fungicide treatments and the relevant standard errors expressed in lb. per acre and as percentages of the control are given in Tables 5 and 6. The examination of individual responses in Table 6 with the aid of the relevant
+
+14------------------------------------------------
+
+13
+
+standard error reveals the considerable and significant superiority of spraying over dusting; dusting, in its turn, has produced a large and significant increase in yield over the controls. The interaction between priming and fungicide treatments is not significant.
+
+Despite the relatively small numbers of degrees of freedom apportioned to error, the percentage standard errors are pleasingly low. Standard errors of the order of 15–20 per cent. are of common occurrence in carefully conducted field experiments in Ceylon.
+
+TABLE 4  
+Analysis of Variance of Weights of Clean Cured Leaf
+
+<table border="1">
+<thead>
+<tr>
+<th>Variation</th>
+<th>DF</th>
+<th>SS</th>
+<th>Mean square</th>
+<th>Variance 5 per<br/>ratio cent.<br/>point</th>
+<th>1 per 0.1 per<br/>cent. cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Blocks</td>
+<td>3</td>
+<td>31,231.5..</td>
+<td>10,410.5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Primings</td>
+<td>1</td>
+<td>20,827.0..</td>
+<td>20,827.0..</td>
+<td>11.9*</td>
+<td>10.13..34.12.. —</td>
+</tr>
+<tr>
+<td>Error (a)</td>
+<td>3</td>
+<td>5,241.5..</td>
+<td>1,747.2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Fungicides</td>
+<td>2</td>
+<td>61,272.6..</td>
+<td>30,636.3..</td>
+<td>29.6***</td>
+<td>3.88.. 6.93..12.97</td>
+</tr>
+<tr>
+<td>Interaction</td>
+<td>2</td>
+<td>2,109.1..</td>
+<td>1,054.6..</td>
+<td>1.0</td>
+<td>3.88.. — .. —</td>
+</tr>
+<tr>
+<td>Error (b)</td>
+<td>12</td>
+<td>12,416.3..</td>
+<td>1,034.7</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Total</td>
+<td>23</td>
+<td>133,098.0</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+S. E. of totals for priming treatments=7.37 per cent.
+
+Do. fungicide do. =6.94 do.
+
+\* Significant at the 5 per cent. point.
+
+\*\*\* Do. 0.1 do.
+
+TABLE 5  
+Effect of Fungicides
+
+<table border="1">
+<thead>
+<tr>
+<th>Yield of<br/>clean cured<br/>leaf</th>
+<th>Sprayed</th>
+<th>Dusted</th>
+<th>Untreated</th>
+<th>Standard<br/>error</th>
+<th>Significant<br/>difference.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lb. per acre</td>
+<td>402.4..</td>
+<td>289.2..</td>
+<td>182.3..</td>
+<td>20.23..</td>
+<td>62.33</td>
+</tr>
+<tr>
+<td>Per cent.</td>
+<td>220.7..</td>
+<td>158.6..</td>
+<td>100.0..</td>
+<td>11.1 ..</td>
+<td>34.19</td>
+</tr>
+</tbody>
+</table>
+
+TABLE 6.  
+Effect of Priming
+
+<table border="1">
+<thead>
+<tr>
+<th>Yield of<br/>clean cured<br/>leaf</th>
+<th>Primed</th>
+<th>Unprimed</th>
+<th>Standard error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lb. per acre</td>
+<td>343.7 ..</td>
+<td>238.9 ..</td>
+<td>21.5</td>
+</tr>
+<tr>
+<td>Per cent.</td>
+<td>143.8 ..</td>
+<td>100.0 ..</td>
+<td>9.0</td>
+</tr>
+</tbody>
+</table>
+
+#### DISCUSSION
+
+Most tobacco pathologists—Butler (1928) in Nyasaland, Hopkins (1931) in Southern Rhodesia, Mandelson (1933) in Queensland, Tisdale (1922) in Florida, and Wolf (1935) in North Carolina—have advocated the use of priming as a measure of
+
+15------------------------------------------------
+
+14
+
+frog-eye control. Hill (1936) in Queensland, on the other hand, believes that the practice is of questionable value in checking frog-eye. It is evident from the results presented above that, under Ceylon conditions, high priming lessens the severity of the disease; priming produced an increase in yield of 105 lb. (over 40 per cent.) of clean cured leaf per acre over the control.
+
+The fact that it has been possible to demonstrate the depressant effect of priming on the occurrence of frog-eye, in a trial in which primed and unprimed plots of limited size were set down close together, is of considerable interest. If wind-borne infection conditioned the incidence of frog-eye to the extent that tobacco pathologists have hitherto considered it to, this demonstration would not have been possible. Park and Fernando (1937 *a*) have previously suggested that the main source of initial frog-eye infection of newly-planted tobacco was the conidial inoculum left over in the soil by the preceding crop, and that too much emphasis had been placed in the past on the importance of wind-borne infection. Wind velocities of considerable magnitude are often necessary for separating conidia from the mycelial substratum; a velocity of 300–500 metres per second is necessary for detaching conidia of *Venturia* species (Foister, 1935). Conidia are, however, easily detached by rain a fact that probably contributes to the severity of frog-eye in wet weather. During the experimental season, although frog-eye occurred as extensively as usual—every plant at the time of harvesting exhibited a number of frog-eye lesions—there was a considerable reduction in the intensity of the disease consequent on the prevailing drought.
+
+The copper-lime dust though not as effective in frog-eye control as the colloidal copper spray, showed considerable promise. Increases in yield of 107 lb. and 220 lb. of clean cured leaf per acre over the control were produced by dusting and spraying respectively. It was shown by Park and Fernando (1938 *a*) in a previous number of this series, that the position of the zone of effectively protected leaves on a sprayed tobacco plant was determined by the time of fungicide application, the earliest spraying providing protection only for the lowermost leaves and the zone of protection advancing progressively up the stem with subsequent sprayings. They also suggested that a wider range of protection would be secured by a set of two judiciously spaced spraying than by a single spraying at the optimum time of fungicide application. No estimates of costs of large-scale dusting have been attempted; but it may be suggested on analogy with results previously obtained, that a combination of a pre-optimum and a post-optimum dusting may provide more economic control than a single optimal spraying.
+
+16------------------------------------------------
+
+15SUMMARY
+
+The efficacy of priming and of the application of fungicides as measures of frog-eye control was investigated.
+
+High priming lessened the severity of frog-eye.
+
+Copper-lime dust, though not as effective as a colloidal copper spray, produced a large and significant reduction in the intensity of frog-eye.
+
+ACKNOWLEDGMENT
+
+We gratefully acknowledge the co-operation of Mr. S. J. F. Dias, Agricultural Officer, North-Western Division, and of Mr. V. G. Dharmadasa, Agricultural Instructor, Ganewatta.
+
+REFERENCES
+
+Butler, E. J., 1938 : *Report on some diseases of tea and tobacco in Nyasaland*. Nyasaland : Department of Agriculture.
+
+Fisher, R. A. and Yates, F., 1938 : *Statistical tables for biological, agricultural and medical research*. London : Oliver and Boyd.
+
+Foister, C. E., 1935 : The relation of weather to fungous and bacterial diseases. *Botanical Review*. I. pp. 497-516.
+
+Hill, A. V., 1936 : Cercospora leaf-spot (frog-eye) of tobacco in Queensland. *Commonwealth of Australia Council for Scientific and Industrial Research, Bull.* 98.
+
+Hopkins, J. C. F., 1931 : *Diseases of tobacco in Southern Rhodesia*. Rhodesian Ministry of Agriculture and Lands.
+
+Jacquemain, R. and Gravier, 1932 : Note sur deux specialites anticyptogamiques. *Comptes rendus Congres Soc. Savantes Paris et Departments 1932, Section des Sciences*, pp. 239-294. (*R. A. M.* 1934, XII., p. 745).
+
+Mandelson, L. F., 1933 : Frog-eye leaf-spot and barn-spot of tobacco. *Queens. Agric. J.* XL., pp. 401-8.
+
+Park, M., and Fernando, M., 1937 a : Some studies on tobacco diseases in Ceylon—I. *Tropical Agriculturist* LXXXVIII., pp. 153-168.
+
+Do. 1937 b : Some studies on tobacco diseases in Ceylon—II. *Ibid.* LXXXVIII., pp. 266-282.
+
+Do. 1938 a : Some studies on tobacco diseases in Ceylon—III. *Ibid.* XC., pp. 323-340.
+
+Do. 1938 b : Some studies on tobacco diseases in Ceylon—IV. *Ibid.* XC., pp. 341-347.
+
+Paul, W. R. C. and Fernando, M., 1938 : Some studies on tobacco diseases in Ceylon—V. *Ibid.* XCI., pp. 338-344.
+
+Tisdale, W. B., 1922 : Tobacco diseases in Gadsen County, 1922. *Florida Agric. Exp. Sta. Bull.* 166.
+
+Wolf, F. A., 1935 : *Tobacco diseases and decays*. Durham, North Carolina : Duke University Press.
+
+17------------------------------------------------
+
+16
+
+## AGRICULTURE IN KASHMIR
+
+---
+
+T. W. HOCKLY, Negombo.
+
+---
+
+**K**ASHMIR is an Indian State, including much of the Himalayan mountain system to the north of the Panjab and has been fabled in song and story for its natural beauty. The proper name of the State is Jammu and Kashmir and it is ruled by H. H. General Raja Sir Hari Singh, a Hindu Rajput.
+
+The State comprises in all an estimated area of 80,900 square miles with a population of about four million. The population of Sirinagar, the capital of Kashmir, is about 400,000.
+
+Kashmir is bounded on the north by some petty hills and by the Karokoram range of mountains; on the east by Thibet and on the south and west by the Panjab and North-West Frontier Provinces.
+
+The State is in direct political subordination to the Government of India, which is represented by a Resident, usually a member of the Political Department of the Indian Army.
+
+Its territories comprises the provinces of Jammu (including the Jagir of Punch) Kashmir, Ladakh, Baltistan and Gilgit; the Shin States of Yaghistan, of which the most important are Chilas Darel and Tangir, are nominally subordinate to it and the two former pay a tribute of gold dust.
+
+The area of Jammu is 5,223 square miles, Kashmir 4,922 square miles and the Frontier Districts 443 square miles.
+
+The population of Kashmir proper is approximately about  $2\frac{1}{2}$  millions.
+
+The remainder of the State consists of uninhabited mountains, its real important possessions being Jammu and Kashmir. The greater portion of the country is mountainous and with the exception of a strip of plain on the south-west, which is continuous with the great level of the Panjab, may be conveniently divided into the following regions:—
+
+The outer hills and the central mountains of Jammu.
+
+The valley of Kashmir.
+
+The far side of the great central range, including Ladakh, Baltistan and Gilgit.
+
+18------------------------------------------------
+
+17
+
+The hills in the outer region of Jammu adjoining the Panjab plains begin with a height of 100-200 feet followed by a tract of rugged country. The average height of various ridges is from 3,000/4,000 feet.
+
+The central mountains are commonly 8/10,000 feet, covered with pasture or else with pine forests. Then follow the more lofty mountain ranges including the region of perpetual snow. A great chain of snow mountains branching off south-east and north-west divides the drainage of the Chenab and Jhelum rivers from that of the higher branches of the Indus.
+
+It is within spurs from this chain that the valley of Kashmir is enclosed amid hills which rise from 14/15,000 feet whilst the valley itself forms a cup-like basin at an elevation of 5-6,000 feet.
+
+All beyond that great range is a wide tract of mountainous country bordering the north-western part of Thibet and embracing Ladakh, Baltistan and Gilgit. The length of the Kashmir valley, including the inner slopes of its surrounding hills, is about 120 miles from north-west to south-east with a maximum width of about 45 miles. The low and comparatively level floor of the basin is 84 miles long and about 25 miles broad.
+
+The river Jhelum or Behat—the Hydaspes of Greek historians and geographers—flows north-westward through the middle of the valley. After a slow and winding course it expands about 25 miles below Sirinagar and forms the Wular lake about 14 miles by 5 miles in extent, surrounded by the lofty mountains which tower over the north and north-east of the valley. Leaving the lake on the south-west side near the town of Sopur the river pursues its sluggish course south-westwards about 18 miles to the gorge of Baramulla.
+
+From this point it becomes a rushing torrent through the narrow valley which conducts it westward 75 miles to Muzaffarabad, where it turns sharply south, joined by the Krishenganga. At Islamabad, about 40 miles above Srinagar, the river is 5,400 feet above sea level and at Srinagar 5,235 feet. On the 80 miles of the river in the flat valley between Islamabad and Baramulla there is much boat traffic but none below Baramulla till the river emerges into the plains of India. Boats are used to convey timber, rice, and other grain to Srinagar from the outlying districts bordering on the river. Among the hills north of Srinagar rises one conspicuous mountain massif 16,903 feet in height from which on its north side descent tributaries of the Krishenganga and on the south the Wangat river flows into the Sind.
+
+By these rivers and their numerous affluents the whole valley is watered abundantly.
+
+19------------------------------------------------
+
+18
+
+The climate of Kashmir sheltered from the south-west monsoon by the Pir Panjab range has not the periodical rains of India.
+
+The rainfall is irregular, the total annual being about 26 inches—much the same as that of the United Kingdom. The greatest rains are usually in the spring months. Snow falls on the surrounding hills at intervals from October to March. In the valley the first snow generally falls about the middle of December.
+
+The hottest months are July, August and part of September, during which the noon shade temperature varies from  $85^{\circ}90^{\circ}$  and even up to  $95^{\circ}$  at Srinagar—probably the hottest place in the valley. The coldest months are January and February when the average minimum temperature is about  $15^{\circ}$ .
+
+Although in some parts during the Summer there are mosquitoes including the anopheles it is nevertheless a curious fact that whilst many parts of Jammu on the other side of the Banihal Pass are very malarious at certain seasons of the year, malaria in Kashmir itself is unknown. Medical men so far have been unable to account for this phenomenon.
+
+The valley of Kashmir is of extraordinary fertility. Tradition has it and geologists also agree that the valley was once a huge mountain lake. The legend current in Kashmir is that Parvati the consort of Shiva used to sail in a pleasure boat on the lake. Kashyappa—not of Sigiriya fame—the grandson of Brahma, who was said to be possessed of the highest engineering skill, is said to have removed the mountains near Baramulla, drained the lake and made the land habitable. This reclaimed land was called after him “Kashyappa-Mar” and latterly Kashmir.
+
+It is certain, however, that at some remote geological period the Jhelum burst through the barrier rocks at Baramulla and found its way to the plains of India forming one of the five rivers of the Panjab. The soil of the valley consists chiefly of a rich alluvium and vegetation is everywhere profuse and luxuriant. The fields are exceedingly fertile and where the land is not under cultivation many fine trees such as the Plane or Chenar, Walnut, Mulberry, Poplar and Willow are to be seen, and the ground is carpeted with rich pasture grasses.
+
+The rainfall being only 26 inches there is not the same incidence or danger of soil erosion as is experienced in countries experiencing tropical rains. As distinct from the people in the Panjab and on the North-West Frontier who are wheat eaters, the staple grain consumed in Kashmir is rice. I was informed by Mr. Fotedar, Director of Agriculture, Kashmir State, that there are some two hundred or more varieties of rice grown in Kashmir.
+
+20------------------------------------------------
+
+19
+
+The Kashmir peasant however does not confine himself wholly to the production and consumption of rice for other cereals such as maize, millet, wheat and oats are grown, also buckwheat and ganar which is a species of coxcomb producing fine grain like millet.
+
+Rice is of course not grown at a higher altitude than 5,600 feet and is principally confined to the Kashmir valley. At altitudes of 7,000 feet and over the people cultivate maize, millet, buckwheat and ganar. Except in cases when drought occurs in the higher valleys and the rainfall has been insufficient there is usually abundance of water to be found everywhere in the valley. In some cases the peasants irrigate their rice fields from channels cut near adjacent streams or rivers. This labour is all performed by themselves and not State-aided nor is the system so elaborate as in the Panjab. The peasant makes every use he can of water power and where streams or channels are diverted from the main river he builds small mills of timber and earth and instals a water wheel to grind the corn. Rice is usually husked by women as in Ceylon in stone or wooden vessels with a long pounding stick and one can see women continually doing this.
+
+In some of the water mills however I have seen a contrivance which though crude is quite effective where the wheel turns and a wooden pounder lifts and falls on the paddy placed in a hollow receptacle and husks it. In one village near a stream I saw quite a progressive mill erected by a far-seeing peasant with a little capital. The river worked a small dynamo and motor and the paddy was husked quickly and well. This man informed me he was doing quite well out of his mill and it was yielding a fair return on his original outlay.
+
+There is little or no actual money to be found in the villages. Practically everything is done by a system of barter. The miller grinds the corn or husks the paddy and receives in payment one bag of flour or rice in every twelve. Some of this he keeps for home consumption and the surplus he exchanges for other necessaries. As cotton does not grow in Kashmir any cotton cloth has to be purchased from the towns unless there is a cloth shop in the village and the usual medium of exchange is commodities made or produced in the village. A man shears his sheep and takes the wool to the village spinner and weaver. This is converted into woolen cloth and the weaver keeps a certain proportion of the wool in payment for his work.
+
+Many fields too are planted up with mustard and the oil expressed is used as an illuminant though where a town is near kerosene oil is also bought or exchanged for produce.
+
+Linseed is also grown and the oil expressed is chiefly exported.
+
+21------------------------------------------------
+
+20
+
+Every village possesses large herds of cattle, sheep and goats and in some villages the small but hardy Kashmir pony is bred. Practically every peasant possesses one or more of these small horses which are used for transport either riding or carts or for carrying packs and bales.
+
+Although Kashmir is a Hindu State over 90 per cent. of the population are Muslims. The balance are Pandits or Brahmins. Pandits and Muslims seldom live together in the same village but at some distance apart though they mix quite freely together. The Pandit has never done any manual labour or cultivation. If he is in a town he will be a clerk, preferably in Government service, or be employed in trade such as shop keeping, banking and money-lending. Where a Pandit owns land the Muslim peasantry work it for him and in return he gives them a proportion of the crop. Otherwise the Pandit leads a more or less idle and care free existence in the villages.
+
+The Muslim on the other hand though perhaps not so refined in appearance works hard and indefatigably in his fields and both himself and his family are employed in this. He is usually very poor—the average monthly income of a Kashmir peasant is, I believe, less than seven rupees.
+
+There is of course no such thing to be seen in the countryside as a tavern. Alcohol is strictly forbidden in Islam. The people are very prolific and nearly all have large families.
+
+Passing through a village when I was on a trout fishing expedition I noticed in almost every village garden ganja plants growing luxuriantly. I asked my Shikari if the people indulged in this vice but he laughed and replied "Of course not Sahib for how could they do any work? Occasionally when a Faquir or Sanyasi passes and wants a few leaves to smoke they give him some but the ganja plants being hemp are used for making ropes and string else where are we to obtain strong ropes?"
+
+In accordance with orthodox Hindu law no cattle are allowed to be slaughtered in Kashmir no matter on what pretext. In fact not so very many years ago the punishment was death but now a long term of imprisonment is imposed.
+
+During the very hard winter of 1937-38 when the peasants in some of the villages were near starvation a scrub animal was secretly killed and eaten. Some enemies reported this and those implicated were sentenced to five years imprisonment I was told, but I heard that the Chief Justice who is himself a Muslim considered the circumstances as extenuating and the sentence was reduced to one of two years.
+
+This ban on the slaughter of cattle has a very bad effect on the general appearance, stamina and milking qualities of the
+
+22------------------------------------------------
+
+21
+
+cattle. Instead of weeding out the runts and breeding only fine selected stock indiscriminate breeding takes place with no resultant improvement but rather a continued deterioration.
+
+Sheep and goats are of course slaughtered and one can always obtain excellent mutton at very moderate prices.
+
+So strict is the rule with regard to beef that when luggage is examined at the Customs one is invariably asked whether there is any tinned beef in it. Not even a bottle of Bovril is allowed.
+
+The pasturage on the surrounding hills is usually of the best. From spring time till the autumn at daybreak herdsmen and shepherds and boys take herds of cattle, flocks of sheep and goats out to graze returning with them to the village at dusk.
+
+As these men and boys are unable to attend to cultivation in the fields all the villagers owning livestock contribute proportionately in kind to them and their families and they receive sufficient rice and other grain to last them through the winter as well. Often when fishing I have heard the shrill whistle of a herd boy calling to the cattle or sometimes the plaintive note of a reed flute played when he is resting on the hillside. When the cattle return in the evening loads of grass are also brought with them for the evening feed. They are then housed in byres which are on the ground floor of the houses. Village houses in Kashmir are built usually of wood and brick and earth, and are usually in three tiers. The ground floor is occupied by cattle, sheep and goats, the first floor forms the living accommodation with small latticed windows which are pasted over with paper in the winter to retain the heat. Some of them have a small balcony projecting out often covered with honey suckle or wild red or white roses. The top story is usually left open in all sides but is roofed in but gives a somewhat unfinished appearance to the house. Here is stored firewood which has been brought in from the forests.
+
+In winter the cattle serve a double purpose as apart from supplying milk most of which is converted into ghee for home consumption or sale in the towns the warmth engendered by the cattle being packed together rises and helps to warm the living room. It is in fact a form of natural central heating.
+
+In the vicinity of large towns like Islamabad where pasturage is scarce owners of cattle, goats and sheep employ the services of Chowpans for the cattle and Bakarwans for sheep and goats. These men are not usually Kashmiris but a race of Panjabi hill men and dress quite differently to the Kashmiri. For a small payment per head per cattle, sheep and goats they take enormous numbers with them in the early Spring to the high pastures which lie above 10,000 feet and are above the tree line.
+
+23------------------------------------------------
+
+22
+
+Here there is magnificent grazing on the hills throughout the summer. They charge more per head for goats than for cattle owing to the State tax in view of the fact that goats are the most destructive animals and in taking them up through the forests to the high pastures they are very apt to destroy young forest trees and saplings if not watched carefully. These herdsmen live a nomadic life with their families in small tents and frequently move their tents and herds to other places. In September they migrate back whence they came and deliver their charges to the owners in good condition to stand the rigours of the approaching winter.
+
+Nevertheless when cattle increase and in the winter accommodation is sometimes insufficient and fodder perhaps scarce the least desirable are often turned adrift to fend for themselves in snow and frost and of course starve and die miserable deaths.
+
+A man may wish secretly to kill an animal and provide himself and his family with food but this is attended with great risk as he may lay himself open to black mail or prosecution.
+
+Few villagers wear leather shoes unless they procure them from the town but everyone is able to wear sandals from straw which are very durable and when worn out are just thrown away and the cattle eat them.
+
+Ploughing is commenced very early in the spring and there is only one crop to be harvested in a temperate climate. No artificial manures are ever used but only organic farmyard manure which after all is the best. The byres and middens are cleaned out and the manure deposited in little heaps on the fields. This is afterwards spread over the land and ploughed in.
+
+The fields are then sown and in the case of rice crops are transplanted when the plants are sufficiently high. As in India everyone men, women and children take part in this operation. Later on when the paddy is still further grown the whole village is employed in weeding from early morn to dewy eve. One can hear them all singing at their work. If one passes through a village at such times the only people to be seen are very old and decrepit men and women and a few women with very young babies, otherwise the village is quite deserted. By June the rice fields present a luxuriant appearance of emerald green interspersed here and there by darker patches. These are rice plants too but the leaves and stalks are a dark reddish green colour. The rice obtained from these varieties is of a reddish colour like Ceylon country rice whilst in others it is quite white like the ordinary variety. The red rice is said to be more nutritious than the white but here again as in Ceylon the white colour of rice appeals to the eye.
+
+24------------------------------------------------
+
+23
+
+Harvesting begins in August and September and thereafter the grain and straw is built up into ricks around the village to be used as required.
+
+The average yield per acre of paddy in spite of the fertility of the land is not very high being about 2,500 lb. or 30 bushels. The yield per acre varies with soil, elevation, irrigation, cultivation especially where the fields are in proximity to villages whence a good supply of farm yard manure can be readily obtained and also in accordance to the skill of the cultivator and his industry. In certain places the yield is as high as 4,000 lb. or nearly 40 bushels to the acre. I am indebted to Mr. Fotedar, Director of Agriculture, Jammu and Kashmir State, for these figures.
+
+Few vegetables are grown by the peasants in outlying villages but in the vicinity of Srinagar large areas are devoted to vegetables of every kind suitable to a temperate climate such as magnificent cauliflower, cabbages, peas, beans, tomatoes, turnips, kohlrabbi beans, asparagus to name only a few.
+
+The soil here is particularly rich and fertile. A ready market is close by in the city and market gardeners are quite prosperous.
+
+All round Srinagar and also in the Lolab valley to the north west of Srinagar can be seen acres and acres of orchards which yield magnificent fruits such as pears, apples, apricots, peaches, nectarines, strawberries, raspberries, plums in large quantities.
+
+The quality of the fruit is as good as any which can be obtained in Europe and are sold at very cheap prices. One can for instance buy the finest and most luxcious pears for about 30 cents a dozen in the season.
+
+Viniculture also obtains in Kashmir but no wine is produced now though formerly with the experience of a French imported vine grower excellent red wine and brandy used to be manufactured.
+
+Many grafts of apple, pear, peach, apricot and nectarine were originally imported from Europe, especially from France and these have done exceedingly well in Kashmir.
+
+Large quantities of apricots, pears, peaches and apples are packed in boxes and exported down country for consumption in India. The orchards are usually rented by merchants for the season who take the yield. If a central fruit preserving factory were established I am certain it would have a bright future before it if freed from excessive taxation. The main difficulty is the expense of transport as there being no railway in Kashmir, goods have to be transported 200 miles by lorry or cart to the nearest railhead and consequent high freights and transhipment charges. Many of the residents who possess fruit gardens or orchards of their own and those who have not purchase fruit
+
+25------------------------------------------------
+
+24
+
+in large quantities and make jams and jellies and can the fruit on their own premises with the aid of a tin smith. Thus they have sufficient supplies to last them through the winter. In every village there are fine groves of stately walnut trees and after the nuts are gathered they are exported in large quantities to India. Walnuts too are very cheap and one can buy the best for about Rs. 2.50 or Rs. 3 per thousand in Srinagar.
+
+Five miles to the south of Srinagar near the village of Pampur on rolling uplands can be seen many acres planted up with saffron. The soil here is particularly favourable for this plant being a rich light loam. The saffron or zafaran of commerce is used as a pale yellow colouring matter with edibles. It is a species of autumn crocus with a beautiful mauve flower. To see a field of saffron flowers under the light of a full moon in November is marvellously beautiful.
+
+The peasantry use large white sheets on which to dry it for the market, only the stamens are used. After drying it is graded for sale and export and is of a reddish brown colour. It has to be steeped in water to obtain the beautiful yellow colour. Saffron is very much esteemed and Kashmir is said to produce the finest saffron in the world. It is sold by the rupee weight and the price varies from Re. 1.50 to slightly lower according to quality. I was told that this plant would only grow well in this particular district but on inquiry I found that it was a Government monopoly and was only allowed to be grown here.
+
+Srinagar possesses one of the largest silk filatures in the world. On every road and practically in every village mulberry trees are to be seen growing luxuriantly. Where there is a scarcity of these trees plants are supplied by the State from their nurseries to be planted out by villagers.
+
+Those villagers who choose to do so apply for silk worm eggs which are supplied to them by the State. When these hatch out the silkworms have to be kept in a clean room in the house. They require to be fed day and night and as they mature their appetite becomes voracious. The mulberry leaves are gathered in large quantities and fed to them. Some of the family have to sit up all night in order to supply fresh leaves for feeding. When the silkworm has spun its cocoon the villager takes them to the silk factory where they are weighed and graded and he is paid accordingly. The revenue from the export of silk used to be very large but is now very much less owing to the keen competition of artificial silk and rayon fabrics. Nevertheless large quantities of spun silk and waste are exported to India and also France.
+
+26------------------------------------------------
+
+25
+
+No one is allowed to cut down a single mulberry tree even in ones garden without first obtaining permission from the State to do so.
+
+Practically every villager keeps a certain amount of poultry and ducks and if one is camping out one need never be without supplies of fresh milk, poultry and eggs which can readily be obtained through the Zahildar or village headman
+
+There are many dairies in Srinagar but none where cattle are kept. The dairy men obtain their supplies from the villages and the milk is carried in by the vendors in large earthenware chatties. Excellent fresh butter, milk and cream are always obtainable in Srinagar and also cream cheeses. The dairy men are also able to pack fresh butter in tins when required for camping and this keeps its freshness and flavour splendidly. Many villagers keep bees and fine, clear honey is always obtainable either in the comb or in bottles or jars.
+
+Near his palace on the outskirts of Srinagar the Maharaja has a Home Farm. He has imported some fine Guernsey cattle and also good strains of poultry. The farm supplies the palace with fresh milk, butter, cream, eggs and poultry and the place is very well laid out but is run on rather extravagant lines.
+
+Reverting again to the question of rice and its distribution some years ago when His Highness the present Maharaja had not succeeded to the "gadi" of Kashmir the exploitation of the rice harvest became very nearly a scandal. Dealers and even some of the Kashmir officials used to buy up all the surplus rice and form a corner and if there happened to be any scarcity in India it was exported and sold at a handsome profit. This made for a scarcity in the country itself and prices were pushed up locally in consequence which badly affected the poor of the population. In fact, I have seen myself a veritable rice riot when boats bringing paddy into Srinagar were discharging the grain. The present ruler had not then the authority over the State Ministers and officials to interfere much with State matters. He determined however that once he succeeded he would put an end to this scandal.
+
+On his accession he obtained the services of Sir B. J. Glancy, I. C. S., from the Government of India to reorganize the distribution and sale of rice in Kashmir. There are now very fine State granaries down the river in Srinagar. After Sir B. J. Glancy's departure the Maharaja appointed Capt. Wreford who prior to the last war had been a planter in Ceylon. Capt. Wreford has carried out the work well and energetically and the administration of his department deserves a full mead of praise.
+
+27------------------------------------------------
+
+26
+
+The system of rice or rather paddy distribution is briefly as follows :—
+
+All surplus paddy from the country-side and villages is brought to the State granaries either by river in large rice boats or by motor lorries and carts where it is stored. Thence it is distributed to dealers and consumers at a fixed rate per maund.\* Private persons are strictly prohibited from bringing paddy into Srinagar for their own consumption or for private sale. The people in the town buy the paddy from Government and as a rule husk it themselves. Shopkeepers may buy paddy as well and have it husked and cleaned and sell it at a small extra rate to allow for their trouble and expense and also for a small margin of profit.
+
+Now it may sometimes happen that the harvest when plentiful paddy can be bought in the villages much cheaper but the various octroi posts on all roads leading to Srinagar prevent it being brought in privately. If there is however a scarcity and the price in the villages and country-side rises it does not affect the standard price in the State granaries and therefore consumers have the benefit of buying at a fixed price and are not subject to profiteering. The extra amount charged for the paddy in Srinagar is by no means excessive and is in order to cover the cost of upkeep and administration.
+
+No paddy or rice is now ever allowed to be exported from Kashmir. The whole scheme in fact works admirably.
+
+The enormous forest wealth of Kashmir contributes largely to the revenue. The principal trees are silver fir and pine. The annual net profit derived is about 30 lakhs—3 million rupees. The timber is felled and sawn and rolled down to a stream and floated down to its destination. Much of it is floated down the Jhelum to the Panjab where it is collected and stacked at Jhelum—a town taking its name from the river. Large quantities are treated and sold for sleepers to the railways, much too is used in connection with building. The timber market fluctuates but when crops have been good in the Panjab it means a greater demand as there is more money to spend on building.
+
+The State have been indeed fortunate in securing the services of Sir Peter Clutterbuck formerly Inspector-General of Forests to the Government of India. On his retirement he was offered the post of Conservator of Forests to the Government of Kashmir by the Maharaja. His vast knowledge and experience of forestry not only in India but in other lands has been a great asset to the State. He has established a splendid system of afforestation and conservation of the forests and has proved the
+
+---
+
+\* maund = 80 lb.
+
+28------------------------------------------------
+
+27
+
+foresight of the ruler in obtaining his services. Sir Peter's great slogan which is circulated by leaflets both in English and the vernaculars is :
+
+“ Save your Forests  
+Save your Lands.”
+
+He further adduces that forest protection ensures :
+
+1. 1. Water conservancy
+2. 2. Equitable climate
+3. 3. Better pastures
+4. 4. Soil protection
+5. 5. Labour for the populace
+6. 6. Sustained revenue.
+
+The results of Forests Destruction he points out are :
+
+1. 1. Erosion
+2. 2. Floods
+3. 3. Scanty pasture
+4. 4. Loss of substantial revenue.
+
+Land in Kashmir is held more or less on the Feudal System in that the Maharaja is the Paramount Lord. The people hold their lands in fief or in tenancy and pay taxes accordingly. The Maharaja occasionally bestows jagirs or grants of land to those among his officials or friends who have deserved well of the State. Such jagirs may include several villages. The Maharaja himself at one time inherited vast jagirs of his own from his father, the uncle of the late Maharaja, but he transferred all these to the State and instead takes 10 per cent. of all revenue for his personal use.
+
+No Kashmiri is allowed to sell any land for any purpose except to a State subject. Although land can be leased out for a long period to non-Kashmiris but such leases, I believe, are not registered. This system whilst having its advantages has also many disadvantages as well in that a tenant farmer or cultivator, when he gets into debt with Pandit money lenders, has often to part with his land for a mere song, the purchaser knowing full well there is no outside competition to be feared and as most of the Kashmiris are poor the price will be a very low one, whereas in the case of any outsider wishing to buy the price obtainable would in practically every case be very much higher, double and treble in fact.
+
+I fear this account of agriculture as it obtains in Kashmir may be considered rather prolix but I have endeavoured to touch on all parts of agricultural activities in that country.
+
+There is no doubt that in time when the cultivator employs more scientific and up-to-date methods of farming and
+
+29------------------------------------------------
+
+28
+
+agricultural instruments and learns greater knowledge with regard to manuring and rotation of crops the yields for paddy and other cereals will be very vastly increased.
+
+One thing, however, he realizes which is important and that is the superiority of farm yard and organic manures as against the use of inorganic substitutes which in any case he is too poor to buy.
+
+Willow trees abound everywhere especially in the vicinity of streams or on low marshy ground and grow luxuriantly. The willows are of two varieties, viz., the Kashmir and the grafts imported from Europe. Both kinds are used for basket and chair making in which the Kashmiris are extraordinarily expert and the articles turned out compare very favourably with any produced in Europe. The basket ware made from the local trees is however not so strong nor has it such a fine appearance as the imported variety.
+
+In the autumn the willows are all pollarded and the leaves are all stacked in great bundles in the forks of the trees and left to dry. This affords a large amount of fodder for goats and sheep in the winter when pastures are deep in snow. The Kashmiri peasant never spares himself and sees that nothing is wasted. He is unremitting in his toil and receives practically nothing in the way of State aid and has to stand on his own legs which after all makes for independence.
+
+There is no spoon feeding by the State and only in the event of severe drought when his crops fail the State grants him a generous remission of land tax.
+
+30------------------------------------------------
+
+29
+
+## THE STORAGE OF FOODSTUFFS IN THE COLONIAL EMPIRE\*
+
+---
+
+### INTRODUCTORY
+
+**I**N Chapter IX. of the First Report of the Committee of the Economic Advisory Council on Nutrition in the Colonial Empire, consideration was given to the question of the storage and preservation of foodstuffs. In paragraphs 195 and 196 of that Report mention was made that under colonial conditions the main problems of storage are not associated with the preservation of high grade commodities for the overseas markets, but rather with the maintenance, for local consumption, of stocks from one harvest to the next, from the crops grown by the individual or community, and the preservation of perishable products in order that they may be kept for a time, and if necessary distributed over a wider area.
+
+The suggestion was made that steps should be taken to collect information, with a view to its subsequent circulation, regarding existing storage practices in the Colonial Empire. Much knowledge based upon experience is possessed by colonial peoples in regard to the storage of small quantities of food supplies, but nevertheless there are considerable losses in many areas as the result of faulty storing, and if practice in this respect could be improved, the general food supply position would be more favourable than it is at present. Particularly is this the case where seasonal shortfalls of food are likely to occur as the result of unfavourable weather conditions and consequent crop failures, and the question of satisfactory storage assumes added importance under war conditions when imports of food from outside sources are liable to serious reduction. [1]
+
+In the following pages an attempt has been made to summarize available information on the subject in the hope that this may assist in focussing attention on a problem which has a considerable degree of importance under the present circumstances.
+
+### GENERAL PRINCIPLES OF STORAGE
+
+The successful storage of foodstuffs necessitates the satisfaction of two requirements (*a*) that the product to be stored, at the time of its introduction into the store, is in a condition suitable
+
+---
+
+\* A memorandum prepared by the Agricultural Advisers to the Secretary of State for the Colonies.
+
+31------------------------------------------------
+
+30
+
+for storage, and (b) that the conditions of storage are such as to ensure that this state of affairs may be maintained satisfactorily during the period of the storage.
+
+If stored products become invaded by insects or other destructive agencies, treatments may be available to reduce the damage, but it is far preferable to prevent loss by attention to the provision of suitable stores and to the conditions of storage.
+
+When considering storage, foodstuffs may conveniently be classified as follows :—
+
+1. (1) the grain crops, with which may be included the pulses, and
+2. (2) the root crops, including sweet potatoes, yams, cassava, &c.
+
+In addition there are products prepared from grain, such as rice, flour, brans and meals, as well as dried chips and meals prepared from root crops.
+
+Stored grains and meals are liable to insect attack and may also be damaged by the growth of moulds and fungi if the conditions of storage are unsatisfactory, whilst they may also be attacked by rats and mice if they are not adequately protected against them.
+
+Stored grain containing more than 15 per cent. of moisture is liable to “heat” as the result of the commencement of germination and the onset of attack by moulds and bacteria. Such grain is also particularly liable to attack by weevils since the optimum conditions for the existence of these insects in grain occur when the moisture content lies between 17 and 20 per cent. On the other hand, weevils are unable to live in grain containing less than 8 per cent. of moisture, and cannot carry on active life in the absence of an adequate supply of air.
+
+Consequently it is important to ensure that before storage the moisture content of grain be reduced to a value which will remove the liability to “heating”, inhibit the growth of moulds and afford some protection against insect attack, while during storage, conditions should provide that the moisture content of the stored grain does not increase by reason of inadequate protection. If these requirements are not satisfied loss is bound to occur ; thus experiments carried out in the Federated Malay States in 1928/30 showed that when rice is stored in bags under the conditions which normally prevail in the commercial godowns it is barely edible after eight months. On the other hand when it is stored in bags under clean, rat-proofed and well-ventilated conditions it can be kept satisfactorily and without appreciable deterioration for a period of two years. [3]
+
+32------------------------------------------------
+
+31
+
+As regards the moisture content of stored grains and meals, the factor of safety varies to some extent with different types of product, but it may be said broadly that for satisfactory storage the moisture content should not exceed 12 to 14 per cent. and may with advantage be lower. Maize exported from Kenya is not permitted to have a moisture content in excess of 12·5 per cent. and if maize on receipt at Mombasa has a higher percentage it has to be reconditioned in the Maize Conditioning plant. This drying plant was obtained through the Crown Agents from Messrs. T. Robinson of Rochdale, England.
+
+The reduction of the moisture content of grain to safe levels depends to a considerable extent on climatic conditions. Where the humidity of the air is low, grain crops can be dried in the field to satisfactory moisture content. Such conditions exist in many parts of Africa. On the other hand, where the atmospheric humidity is high, drying in the field is not practicable and special measures are required to reduce the moisture content to satisfactory levels; these may take the form of drying on floors or barbecues, or even on the ground by the direct heat of the sun, the grain being spread out for the purpose and turned at intervals, provision being made to protect the grain from sudden showers of rain.
+
+Various forms of grain-drier also exist in which a current of heated air is forced by blowers or suction fans through the grain; the employment of such devices may add materially to the cost if the moisture to be driven off is considerable. Their use is mainly limited to places where large quantities of grain are handled and stored in bulk and it is doubtful whether they are capable of being economically used for the handling of relatively small quantities of grain. Driers of this type were erected and operated during the last war in two West Indian Colonies and in Mauritius, and the experience there gained indicated that under those conditions the artificial drying of grain was a doubtfully economic procedure when the initial moisture is high. The maize conditioning plant operated in Kenya at Mombasa functions satisfactorily at relatively low cost as the reduction of the moisture content of the grain before it is ready for export is generally small.
+
+Not only must the moisture content of stored grain be reduced to a satisfactory level but it must be kept at that level during storage, and in countries where there is marked variation of climate between the wet and dry seasons this may prove a factor of importance. Many grains are hygroscopic and their keeping power is liable to be influenced by the atmospheric humidity at the place of storage. Difficulties in this direction are illustrated by the fact that the length of time for which rice can be
+
+2— J. N. 95488 (6/40)
+
+33------------------------------------------------
+
+32
+
+stored without deterioration in Burma depends to an appreciable degree on the climatic conditions at the time it is milled, rice milled during the dry season possessing better keeping qualities than rice milled during the wet season.
+
+Containers for the storage of grain should be dry ; they should be protected from invasion of moisture from the ground and also from the entrance of moist air during wet periods, while they should also be insect-proof and rat-proof.
+
+#### GRAIN : BULK STORAGE
+
+Various methods are used by the peasantry in tropical and sub-tropical countries for the storage of grain, some of which are reasonably efficient.
+
+Provision is made, for example, by the populations in many parts of the Colonial Empire for the careful storage of their grain crops, and each homestead has its stores made of reeds or other material carefully mudded—sometimes only on the inside but more generally on both the inside and outside walls. [10] These stores vary in size and shape, some of them being bottle shaped and spherical as in Meru, or beehive shaped as in Machakos in Kenya. In certain cases the stores are raised on posts from the ground as is common in the villages of Ceylon. In the majority of cases in Africa, the men and women own their crops individually, customs varying with different tribes, and in many areas so individual is the ownership of crops that adult members of a family keep their crops separately in different stores. In such cases the women are expected to feed the husband and the family from the store of food in their possession, whilst the husband, though he may in cases of need supplement her stocks, uses his supplies for the preparation of beer and for the entertainment of guests. In the northern territories of the Gold Coast, there is also a store of food in the keeping of the woman which is reserved for the scarcity period and this is the last of the stores in any season to be opened. Yam producers in West Africa equally store their crops individually on wooden racks, which are shaded, but exposed to the air, with the woman providing for the needs of the family and the man using his crops either for sale or for the entertainment of guests.
+
+The grain stores are usually cleaned, and in many cases remudded or given a coating of cow dung, before the crop of the season is placed in them, and a considerable degree of knowledge is possessed by the people regarding the keeping qualities of the different types of grain raised. It is generally accepted, for instance, in West Africa that certain yellow-grained guinea corns keep for only short periods of time, whilst harder white-grained types can be stored without damage
+
+34------------------------------------------------
+
+33
+
+for lengthy periods. It is held with justification in many parts of Africa that the grain of bulrush millet (*Pennisetum typhoides*) is less liable to damage than is the grain of guinea corn, and again that the grain of *Eleusine corocana* keeps well if dry when stored, and is not so seriously damaged by insects as other grains.
+
+In the drier areas of Uganda, a striking feature of the countryside is the communal storage of grain, in which are stored considerable stocks of grain from one season to another against scarcity or famine. These communal granaries, consisting of a large number of round mudded store houses with grass covered roofs, are well controlled and maintained, although so far it has not been possible to introduce a satisfactory system of protection against rat damage and the accompanying danger of providing foci for the spread of plague, which is a rat-borne disease.
+
+In Sierra Leone also it is held that rice in which ripe pods of chilli are introduced is less liable to insect damage than where this addition is not made, but whether this claim is justified has yet to be investigated.
+
+Very fairly efficient types of granary for the bulk storage of paddy are in use among Malay rice growers in the Malay States. [5] In the State of Kedah two types of granary occur. In their original forms, they are made of plaited bamboo, but more recently galvanized iron has also been employed. They comprise a larger square type, some of which are capable of holding several thousand bushels of paddy, and a smaller round type which holds a few hundred bushels. They are erected under cover and are raised off the ground on wooden supports which are protected by rat guards. In them paddy can be stored without depreciation for many months; if the grain is attacked the damage is usually confined to the superficial layers. In some cases the wooden supports on which the stores have been erected are not sufficiently high and the rat guards are occasionally inadequate. Rats are known to be able to make a vertical leap of 2 feet 6 inches and to crawl around flanges which are less than 9 inches in total width. Stores to be protected adequately against rats should have their floors not less than 2 feet 9 inches from the ground and be protected at this height by flanges or pieces of kerosene or petrol tins which extend from the sides of the store or its supports for a distance of not less than  $4\frac{1}{2}$  inches.
+
+In Nyasaland an attempt was made in 1931-32 with some success to develop the use of communal grain stores of a type originally suggested by the Tanganyika Department of Agriculture. They consisted of a cylindrical mudded container
+
+35------------------------------------------------
+
+34
+
+standing on a mudded platform about four feet from the ground. In the final form the top was also mudded and a small manhole cut in the side for filling. It was found that in stores of this type, provided they were fumigated at the commencement of storage, grain could be kept for several months without deterioration. [9]
+
+In many parts of Africa and elsewhere maize, after drying in the field, is stored on the cob in the unhusked condition either in cribs or on beams, shelves or racks in houses. Cobs with tightly fitting sheaths are rarely infested. This method is satisfactory for keeping small quantities of maize for relatively short periods, but is not generally suitable for storing large quantities for any considerable length of time. [2]
+
+Various types of smaller containers have also been evolved by peasant cultivators for the storage of grain. These may take the form of earthen jars or metal containers, and petrol tins have been successfully used. In the Gold Coast maize stored in airtight petrol tins showed no loss of weight and was free from weevils after eight months, while maize stored in the husk showed a loss of 25 per cent. in weight and was of less attractive appearance. [2]
+
+In India, grain stored in metal or earthenware containers has been successfully sealed and kept airtight by covering it with a layer of sand, a sheet of cloth or a piece of iron or wood being placed beneath the sand layer to prevent the grain becoming mixed with the sand. [2]
+
+Grain is often stored underground in India and elsewhere in more or less airtight pits. Experiments in Australia have shown this to be an effective method of controlling a number of insects which infest it, the pests being killed by the carbon dioxide given off by themselves and by the grain. This method of storage may be of value where large stocks of grain have to be stored for long periods. In using it the grain should fill the available space so that the store contains as little air as possible. [2]
+
+For the large scale bulk storage of grain the most satisfactory method is in large metal or concrete tanks, which can be hermetically sealed and which are provided with facilities for fumigation. Where, as in parts of South Africa, maize can be dried in the field down to moisture contents of 8 to 10 per cent. it can be stored in tanks with open tops without deterioration, as at these moisture values it is largely immune from insect attack. Where storage at higher moisture content has to be undertaken closed containers are necessary.
+
+Galvanized iron containers are probably the most efficient and economical for the storage of maize. They can be constructed in sections, the sides being riveted and soldered at the joints ;
+
+36------------------------------------------------
+
+35
+
+the lower end of each section should overlap the section below to keep out air and moisture. The tank itself should rest on a wooden or concrete platform ; it is filled by means of a hole in the roof which can be hermetically closed by means of a flanged lid. Tanks of this sort are widely used in the United States of America for the farm storage of grain.
+
+#### GRAIN AND MEALS : STORAGE IN BAGS IN STORES
+
+While the bulk storage of grain is the most satisfactory method, storage in bags often has to be undertaken, and in any case bulk storage is not in general applicable to meals, flours or rice. Under these conditions special attention should be paid to the construction of the store and to the conditions of storage. Stores are best constructed of brick or concrete, and they should at least have a concrete floor ; all corners should be rounded to prevent accumulation of debris in which insects may breed, while the sides, floor and roofs should be free from cracks and openings in which insects might harbour. They should be well ventilated and should if possible have a through draught. All windows should be screened with fine mesh wire gauze, while double self-closing doors should be provided in large stores. Satisfactory rat-proof granaries have been erected at Colombo in Ceylon and at Port Louis, Mauritius, for the storage of rice in bags. [4]
+
+All stores should be rat proofed, since otherwise a large amount of damage may occur, while there is also the danger of providing foci for the dissemination of rat-borne diseases, particularly plague. When grain or meals are stored in bags it is important to prevent them coming into contact with the floor. This can be achieved by stacking in rows on rafters or beams running parallel with the length of the building and allowing space for circulation of air and for inspection. In Southern Rhodesia newly bagged grain is often pigeon-hole stacked in order to hasten drying.
+
+Maize meal does not keep well after it is ground if the germ is not removed, owing to the oil contained in the germ which rapidly turns rancid and imparts an objectionable taste to the product. Maize meal intended for storage for any lengthy period accordingly requires to be degerminated. Machines for doing so are on the market. From a nutritional point of view, however, it is undesirable to eliminate the germ, which is rich in proteins and fats and has high nutritive value. One way of meeting the difficulty is to store maize in the form of grain and to grind small quantities as required to meet immediate demands.
+
+#### PESTS AND PEST CONTROL
+
+*Insects attacking stored grains, flour and meals.*—Grains and their products, meals and similar materials prepared from
+
+37------------------------------------------------
+
+36
+
+root crops are liable to attack by a number of insects. These include the grain weevils characterized by their long snouts, examples of which are the Grain Weevil proper (*Calandra granaria*) and the Rice Weevil (*Calandra oryzae*). The females may live for 4-5 months and lay from 100 to 200 eggs, from each of which a small grub hatches out and at once starts to feed. The grub or larval stage is passed inside the grain and by the time the grub is fully grown the whole of the grain has been hollowed out, and in this shell pupation takes place. The time of development depends on the temperature; the lower the temperature the longer the life of the weevil, while the life period is also affected by moisture conditions and by the kind of food.
+
+(b) The Saw Toothed Grain Beetle (*Sitranus surinamensis*) which derives its common name from the presence of tooth-like projections on the lateral margins of the thorax. Both larvae and adults feed on flour meals, nuts and seeds of several kinds.
+
+(c) The Flour Beetles (*Tribolium spp.*) which are commonly associated with weevils in grain damaged by the latter although they occur more commonly in flour and meals. They differ from the weevils in having no snout, and are lighter in colour and flatter bodied than the weevils, while the grub does not remain inside the grain but wanders freely through and over its food. The time of development from the egg to the adult is about forty days.
+
+(d) Pea and bean weevils belonging to the genus *Bruchus*—short in body with thick snouts and prominent antennae. The larvae are short, thick grubs, which live and complete their development within the seeds of peas and beans. The female deposits eggs on or in the seed pod and the young larvae penetrate into the developing seed.
+
+A number of moths also attack grain and flour, among which under tropical conditions various species of *Ephestia* (known as the Mediterranean Flour Moth), the Cacao Moth and the Fig Moth may be cited. These are less important than the weevils but where heavy infestation has been allowed to develop considerable damage may be done.
+
+In addition there are a number of mites which attack stored grains and foodstuffs and which, although less obvious than the beetles and the moths, occur in enormous numbers and do much damage at times.
+
+*The manner in which stored products become infested with insect pests.*—Infestation of stored products by insects may occur either (a) before storage, i.e., in the field or in course of transit from the field to the store, or (b) during storage, as the
+
+38------------------------------------------------
+
+37
+
+result of placing them in stores which have themselves previously become infested. Infestation in the field occurs in the case of the Bean and Pea weevils, and it has also been shown that infestation of cacao beans by Pyralid moths originally commences on the plantation ; the moths come in the night and deposit their eggs on the beans exposed on the drying platforms. [6] This type of infestation cannot be entirely prevented but by proper precautions it may be reduced to a minimum. In Southern Rhodesia it has been established that maize in the fields is infested with weevils from various sources such as farm stores, maize stocked at rail-heads, shelling dumps, &c. The stores become infested by weevilly maize brought in from the fields after harvesting time.
+
+With the liability of produce to infestation in the field it is easy to see how warehouses and granaries may become infested and lead to the infestation of produce stored therein if precautionary measures are neglected. The importance of cleanliness in barns and adjacent buildings from which insects might reach the stores accordingly cannot be too strongly emphasized.
+
+*Precautions against infestation.*—The screening of windows and doors can do much to prevent pests from spreading, while good lighting, thorough ventilation and relatively low temperatures are also important as grain moths and weevils thrive best in dark places and a still, warm atmosphere. Store rooms should be completely emptied and thoroughly cleaned at least once a year and all emptied barrels, sacks and other containers should be sterilized before they are used again. This sterilization may be done by means of dry heat or sun or by use of boiling water. Storerooms can be disinfected by spraying or washing the floor, ceiling and walls with kerosene emulsion, diluted carbolineum or similar disinfectant preparations. Whitewashing the walls and ceilings should also be regularly effected as it assists the detection of uncleanliness and the presence of destructive insects. All rubbish and refuse from the stored product should be regularly swept up and destroyed by fire, particularly from under the duck boards on which bags are stacked : the regular movement of stored material acts as a check on the multiplication of moths and weevils. Fresh material should never be stored with infested material or in storehouses or containers that are not scrupulously clean : if stores become infected to such an extent that it is in practice impossible to free them from infestation they are better destroyed.
+
+When grain has to be stored in large quantities for a considerable period it is wise to screen it when it is received, since this has the effect of eliminating weevils before they can
+
+39------------------------------------------------
+
+38
+
+lay their eggs, and the danger of future infestation is minimized. The longer screening is delayed the greater will be the subsequent infestation.
+
+The problem presented by the infestation of commodities in store is twofold, namely infestation brought in by goods introduced into the store which may be called the "incoming population", and infestation of the store itself which may be called the "resident population." Generally, the destruction of the incoming population can be more easily attained than that of the resident population. Incoming goods can be treated if necessary in special containers, but the stores with their more complex structure and almost infinite capacity for harbouring insects are more difficult to clean up. It often happens that for the treatment of incoming goods fumigation is wholly satisfactory, but for cleaning storage sheds or warehouses fumigation may be impracticable or may have to be supplemented by the use of sprays. In this connection the following elementary precautions to prevent the spread of infestation deserve consideration :—
+
+1. (1) Infested goods should be segregated. Containers, whether sacks or baskets or drums, which have carried infested goods should not be used again until disinfected or sterilized.
+2. (2) Broken goods, screenings and sweepings are especially prone to infestation. They should be isolated and sterilized or burned at the earliest opportunity. On no account should sweepings be returned to the main store.
+3. (3) New season's goods should never be stored with old season's goods unless these older goods are known to be clean.
+4. (4) In inspecting goods for the presence of insects the following places should receive special attention :—
+   1. (a) between adjacent sacks and baskets ;
+   2. (b) between these and the walls of the store ;
+   3. (c) in the ears and folds at the top of sacks and in the wicker work at the tops and bottoms of baskets ;
+   4. (d) at the highest or the darkest places in bulked goods ;
+   5. (e) on the floor and especially on the walls of stores near infested goods ;
+   6. (f) on the floors of carts, wagons or sledges used in harvesting.
+
+Insects and mites increase in numbers only when they have an undisturbed food supply and breeding ground. Obviously, therefore, neglected heaps of old grain or meals, sweepings, old sacks, and long accumulated debris in corners and in cracks
+
+40------------------------------------------------
+
+39
+
+between floorboards form ideal breeding grounds for them and the first step in the war against these pests is to see that no such breeding grounds are allowed to remain.
+
+*The Control of Insect Pests.*—The main measures available for the protection of foodstuffs in store are fumigation, the use of insecticidal dusts, and perhaps the use of sticky substances to prevent the insects wandering.
+
+*Fumigation.*—In spite of extensive fumigation carried out in certain countries, the general principles underlying the use of fumigation are still insufficiently appreciated, and the Department of Scientific and Industrial Research has recently thought it necessary to have prepared a pamphlet dealing with the principles of fumigation, from which some of the information given below has been taken prior to publication by permission of the Department. [11]
+
+The first need in fumigation is the complete vaporization of the fumigant, but in warm countries this difficulty is not likely to arise. The most important cause of failure is the large amount of gas which is liable to be rendered inactive because of its absorption. This may take place on the walls of the fumigation chamber itself, on the surface of the bags, cases or boxes containing the produce, and on the surface of the produce. In consequence, ample allowance should be made for absorption of fumigant, while any fumigant so absorbed must be regarded as having little or no insecticidal effect. Further, on account of absorption of the gas by the product, the concentration of the fumigant varies inversely with the depth below the surface. Downward diffusion, therefore, does not depend entirely on whether the vapours of the fumigant are heavier than air, and it is essential to apply a dosage strong enough to provide a toxic concentration after the product has taken up all it can. Various products differ in their ability to absorb fumigants. Those rich in fat, such as nuts, absorb a high percentage of gas, and grain very little. Dry food will take up only traces of most gases. Accordingly, longer aeration is necessary after fumigation in the case of foods rich in fat. The concentration and the time during which a fumigant acts influence the depth of penetration of a gas. Therefore, a small dosage of a fumigant for a long time is as effective as a large dosage for a short time.
+
+A further cause of ineffective fumigation lies in the unsuitable piling or stacking of the goods to be treated, and it is necessary that in such cases goods shall be stacked so as to attain the maximum exposure to the fumigant. It has been found, for example, in experiments with cacao in bags laid horizontally that one end of every bag should be exposed. Penetration is affected also by the size and disposition of the
+
+41------------------------------------------------
+
+40
+
+“intergranular spaces”, *i.e.*, the small spaces between the grains or beans. The proportion of these spaces varies greatly in different products, but is often surprisingly high. Effective circulation and distribution of a fumigant can often be attained by quite simple means; for example, by the use of large fans or punkahs slung from the roof of the chamber or building and operated from outside by means of a rope or cord.
+
+In general, the important points to observe are that adequate dosage must be given to allow for loss by absorption and leakage, and adequate provision made for effective circulation of the fumigant throughout the goods.
+
+One difficulty in effective fumigation is that it usually results in the absorption and retention of quantities of the fumigant in the goods treated. But this is only a drawback in that it prolongs the period of ventilation of the goods necessary before they are handled or consumed. Even with hydrogen cyanide, which is one of the most penetrating of all the fumigants, “residual” gas can in most products be eliminated by the simple process of ventilation or airing the goods.
+
+Certain goods are quite unsuitable for treatment by fumigation, especially those rich in essential oils, *e.g.*, cloves. But except in special instances, effective ventilation is a fairly reliable safeguard against residual fumigant.
+
+*Construction of buildings and containers used for fumigation.*—The first requirement for efficient fumigation is a building or container that can be made as airtight as possible, so that the fumigant shall remain in all parts of the space at full strength and for the required time. Loss of fumigant may arise from leakage and from absorption in the materials of construction. In brick and concrete buildings in good repair the absorption loss is the more important, and the total loss may be such as to render these buildings unsatisfactory for the routine fumigation of goods. Absorption can, however, be greatly reduced by painting exposed surfaces of absorbent material with oil paint, or with cellulose paint, but not with whitewash or distemper. Wood, brick, concrete, mortar, plaster and composition boards are all strongly absorptive, the capacity varying with the quality of the material, density of concrete, hardness of wood, &c.
+
+Accordingly, wherever possible, goods should be fumigated in specially constructed fumigation chambers, and the cost of handling involved in this procedure is more than offset by its reliability and by a saving in fumigant which is otherwise lost through leakage and absorption. Special chambers have fixed characteristics, so that the standard result is readily obtainable. They can be made of a convenient size and should preferably be fitted with a vaporizer and with means for distributing the
+
+42------------------------------------------------
+
+41
+
+gas, and should be adapted to secure rapid ventilation at the end of fumigation. The use of tanks provided with a water seal is especially useful in fumigating with carbon bisulphide. The best practicable material for fumigation chambers is mild steel which is suitable for most fumigants. It is practically non-absorptive and lends itself to airtight constructions. A cheaper material which is often satisfactory is bituminous felt, supported on a wooden frame secured to a concrete floor. The joints must be made with a bituminous compound and the felt must be protected from mechanical damage and from contact with liquid fumigant, if this has any solvent action. Brick chambers painted with three coats of good oil paint are also satisfactory. When no proper fumigation chamber is available a water-tight barrel covered with double thickness wrapping paper, or an ordinary bin with a properly fitting lid, sealed with paper and paste, may be effectively used for fumigation on a small scale. When no fumigation chamber is available bags of grain or loose grain may be piled together, covered with a good tarpaulin and then fumigated. These methods give fairly satisfactory results provided the barrel or tarpaulin is gas-tight.
+
+*Fumigants used and conditions of fumigation.*—In the Colonial Empire the choice of fumigant is restricted, and may be still more restricted in war-time. It is probable that in actual practice only two fumigants need be seriously considered, carbon bisulphide and hydrogen cyanide.
+
+Carbon bisulphide is by far the most commonly used, although its vapours are highly inflammable and explosive when mixed with air in certain proportions; it is also noteworthy that it is not very effective against the eggs of insects and for this reason fumigation, if efficient, should be undertaken twice, the second application being to destroy insects which may have been in the egg stage during the first fumigation. The main advantage of carbon bisulphide is that it can be used in almost any type of chamber or container. Ethylene dichloride is often employed as a substitute for carbon bisulphide when the fire hazard cannot properly be controlled. Its vapour is slightly inflammable, and both it and carbon bisulphide are frequently mixed with 25 per cent. of carbon tetrachloride to reduce the risk of fire. These mixtures are, however, unstable and not satisfactory. Carbon bisulphide is applied by sprinkling evenly over the surface of the grain to be treated by means of a watering can at the rate of from 1 to 3 gallons per 800 bushels of grain, depending upon the temperature of the grain and the tightness of the bin. If the depth of the grain in the bins is more than 5 feet it is advisable to introduce the fluid to below this depth by means of a pipe having openings at frequent intervals along its length.
+
+43------------------------------------------------
+
+42
+
+The use of a tarpaulin to cover the grain after the fumigant is applied will help in confining the vapour. Higher concentrations are required if the gas cannot reach the pests so easily.
+
+It seems, however, that under war conditions some difficulty may be experienced in obtaining carbon bisulphide in Colonial dependencies, since the material was usually conveyed only on foreign ships, because charges and conditions of transport on British ships were onerous. It seems certain that they will be still more onerous under war conditions.
+
+An alternative fumigant is hydrogen cyanide. It is one of the oldest, and when properly handled, one of the most efficient. It is, however, very dangerous to man even in small quantities if inhaled and the strictest supervision of its use is necessary. The original method of using hydrogen cyanide was to generate it by the "pot" method from potassium cyanide and dilute sulphuric acid. This method is still employed, but is not really satisfactory for large-scale work. In temperate countries liquid hydrogen cyanide is now widely used, but it would require special packing under tropical conditions, and its transport is difficult. The most promising form of hydrogen cyanide for tropical use consists of hydrogen cyanide absorbed on some mineral earth or on papier mache discs. Two widely used proprietary brands of hydrogen cyanide are the fumigant known as "Zyklon", originally a German product which consists of hydrogen cyanide absorbed in an inert earth, and "Cyanogas", an American product consisting of a commercial form of calcium cyanide. It is probable that one or other of these brands and papier mache discs may be found most suitable under Colonial conditions. The gas is generated from these by simple exposure to air.
+
+Calcium cyanide may also be employed, and whilst it may have the disadvantage that the gas comes off slowly, this in turn has the advantage that the slow building up of a concentration of gas is less likely to lead to high absorption of the gas by the goods than a rapid building up of a high concentration. The substances above mentioned are easily portable, reasonably easily handled, readily measured out to give the various dosages required, and can be spread out as required to ensure good distribution of gas.
+
+The best method of determining the conditions for fumigation is as follows :—
+
+1. (1) Make a thorough survey to identify the insects completely and to find out exactly the conditions under which it will be required to kill them.
+
+44------------------------------------------------
+
+43
+
+1. (2) Find out, by experiment if necessary, the concentration of the selected fumigant and the period of exposure required to kill them.
+2. (3) Find out, by experiment if necessary, the amount of fumigant which must be used and the best method of application so that the requisite concentration shall be maintained at every point, in the warehouse or in the goods, where there may be an insect to be killed
+
+*Sprays.*—Many storage buildings, particularly those in tropical countries, are so constructed as to render fumigation difficult. Insect infestation in such buildings is probably best tackled by means of sprays. Insecticidal sprays may be divided into two types; those which rely on a direct hit, whereby the insect is thoroughly wetted, and those which, after atomization, ultimately settle on the insects. It is only in rare circumstances that a direct hit can be obtained on stored products insects and accordingly an atomized spray is essential. A good one consists of an extract of pyrethrum carried in a white oil (Kerosene).
+
+Spraying equipment for this type of spray is available. It requires the use of an air compressor which may be driven by a petrol engine and particulars of the equipment are obtainable from Sterilelectric Co., Ltd., and Messrs. Charles Austen & Co., both in London.
+
+*Dusts.*—It is well known amongst colonial producers that seeds required for planting can be kept effectively free from insect attack if they are stored in vessels or tins with dry wood ashes. Experiments made by Squire in British Guiana have also shown that weevil damage in rice can be materially reduced by the addition of less than 1 per cent. of calcium carbonate (precipitated chalk) and that in the Federated Malay States it has been found at the Government Rice Mills in Perak that the treatment of stored rice with 5 per cent. slaked lime affords satisfactory protection from insect attack. In British Honduras it is a common practice to add lime when maize is stored in the cob in heaps or bins, with beneficial results.
+
+In recent years the use of dusts for the protection particularly of grain and cereal products has become more and more general. It is unfortunate that at present no clear understanding of the action of these dusts has yet been attained and there is considerable controversy regarding it. From the practical man's point of view, however, the main point is that these dusts are said to be surprisingly effective and, further, the variety of mineral dusts which are effective is considerable. Of the natural mineral dusts, the best known and probably the most effective is a naturally occurring rock phosphate widely known in Egypt under the name of "Katelsousse". This
+
+45------------------------------------------------
+
+44
+
+particular dust has been so generally successful that it is now marketed on behalf of the Egyptian Government by Imperial Chemical Industries, Ltd., under that name.
+
+Other effective dusts consist of pure silica and one of these, known under the proprietary name of "Naaki", has been widely used in Germany and elsewhere. It is a German product and will in consequence not be available during the war. Other simple mineral dusts are precipitated chalk, slate dust and china clay. It is quite probable that a number of naturally occurring earths may prove effective. Some firms market or are about to market dusts for which they claim very high efficiency, and particulars of these can be obtained from Imperial Chemical Industries, Ltd., and Messrs. Peter Spence & Co.
+
+The use of dusts is simple and consists merely in the mixing of the dusts with the grain or other product to be protected. Their general use is for the protection of grain and seeds, particularly pulses. It is worth noting that while experiments on the elimination of these dusts prior to milling and baking of grain are still in progress, the general opinion is that this elimination need present no difficulty, and further that many of the dusts mentioned are innocuous to the alimentary tract. Where dusts such as lime or powdered chalk are used in stored rice their elimination occurs when the rice is washed, as is customary, prior to cooking.
+
+Of all the methods of protecting grain and seeds in particular against insect attack it would seem that the use of dusts is much the most promising.
+
+*Sticky bands.*—Many insects which affect stored products may be partially controlled, or may at least have their movements restricted, by the use of sticky substances, applied in a band to the walls or floors of storage buildings. Such substances are similar to those used for banding fruit trees. These sticky bands are of particular use when dealing with migrating caterpillars. They are also of use in isolating infested piles of goods. For such purpose, the bands may be applied to the floor.
+
+It is important to remember that in dusty buildings the surfaces of the bands will rapidly become coated and may thus allow insects to pass over without becoming trapped. Care should be taken to ensure that the sticky surface is maintained in a fresh condition.
+
+Commercial forms of adhesive for grease-banding of trees and banding of warehouse walls are available, but it is quite probable that bird-lime may be readily procured or made. The making
+
+46------------------------------------------------
+
+45
+
+and use of it is prohibited in some countries for bird-liming, but doubtless knowledge of its manufacture and use still persists.
+
+#### THE STORAGE OF ROOT CROPS
+
+The storage of tropical root crops in a fresh condition is a more difficult problem than the storage of grain owing to the large amount of water they contain. There is a marked difference however in the case of storage of different kinds of produce. Thus yams are comparatively easily stored, while it is practically impossible to store cassava satisfactorily for any length of time once the roots have been dug.
+
+The most satisfactory method of storage of sweet potatoes and cassava when the preservation of considerable quantities of such products is involved is to slice them and to convert them into dried chips. Slicing into pieces about half an inch thick, with or without peeling, and drying the slices in the sun by exposure on a drying floor is a common practice in parts of Africa. The process presents no difficulty except that the slices require to be protected from rain during drying since if they are wetted they are liable to become leathery and an unsatisfactory product results. Chipped or sliced root crops can be stored in the same way as dried grains and the same precautions require to be observed, as they are equally liable to become damaged by insect attack or mould growth.
+
+*Yams.*—For storage in a fresh condition it is important that the tubers should be fully ripe before they are lifted. They are ready for digging when the foliage has become dry. So long as dry weather persists the tubers can be left in the ground, as is common in parts of West Africa, and lifted as required for consumption, but the usual practice is to harvest the yam crop as soon as it is ripe. The tubers should be dug very carefully so as to avoid bruising, as bruised tubers do not store well. After lifting, the tubers should be left exposed to the air for a few hours and then stored on shelves in a well ventilated and cool shaded room or store in layers three or four feet deep. Yams are also stored in carefully packed heaps within weather-proof buildings and sometimes in pits. The latter method cannot, however, be recommended unless the soil is thoroughly dry and likely to remain so.
+
+Buds and eyes should be removed as soon as they show signs of sprouting, while bruised tubers are liable to attack by moulds, and if not removed they should be treated with slaked lime to prevent spread of infection. Under all conditions of storage yams require to be regularly inspected to ensure the removal of all diseased tubers, otherwise infection will spread rapidly,
+
+47------------------------------------------------
+
+46
+
+resulting in considerable loss. Under favourable conditions yams can be held in storage for several months, some varieties being much more suitable for lengthy periods of storage than others.
+
+*Cassava.*—Cassava roots do not store well for any length of time after they have been removed from the ground. Under certain climatic conditions it is dangerous to attempt to do so. The crop can, however, particularly in dry areas, be allowed to remain in the ground for several months before deterioration sets in and the most satisfactory method of storing in a fresh condition is to allow the crop to remain in the ground, digging supplies as required for immediate consumption. Certain varieties of cassava can be left undug for much longer periods than others without undue detriment to the starch content of the tuberous roots.
+
+Cassava lends itself very well to the preparation of dried chips and if for any reason it is impracticable to leave the crop in the ground this is the best procedure. In wet districts or in areas liable to insufficient drainage, cassava cannot be satisfactorily left undug, and if production is in excess of consumption needs the surplus should be converted into chips or meal. When the chips are required for use they may be pounded and sieved to remove the fibre from the meal.
+
+Cassava meal may also be prepared directly from the fresh cassava, as is the usual practice amongst the aboriginal Indians in British Guiana and the Mayas in British Honduras. In the former colony, the roots are cleaned and then grated upon what resembles an English grater which has been beaten out flat and nailed to a small piece of board. The resulting meal is then stuffed into a basket-like cylinder which has loops attached to either end. One of these loops is attached to a beam in the house, whilst through the lower loop is passed a stout stick which is pulled upon so that the wicker cylinder, owing to the pressure, gradually becomes longer and longer. The watery contents so expressed are collected and boiled to form the cassareap which is used for the preservation of meat. The meal remaining in the cylinder is then taken out and rubbed through a sifter. It is then either dried in the sun or baked into thin cakes on large flat iron plates. Cassava meal and cakes form an important item of the diet of the Indian tribes of tropical South America.
+
+*Sweet potatoes.*—Considerable attention has been given to the storage of sweet potatoes in the United States of America, and a technique of storage which has apparently given satisfactory results has been evolved there. [7] The essential points of the
+
+48------------------------------------------------
+
+47
+
+process are a preliminary curing process of ten days to two weeks duration at a temperature of 80° to 85° F., followed by storage in specially constructed stores at a temperature of 55° F. Such conditions are, however, unattainable under normal conditions in the tropics. Various methods have been attempted under tropical conditions and storage in pits or clamps has on the whole given the best results. In some recent trials in Barbados, the clamps were prepared by digging out the soil to make a shallow circular depression 3-4 inches deep and about 3 feet in diameter. The potatoes were stacked in this in a conical heap. The heap of potatoes was then covered with trash and a layer of soil placed over the trash. This method of storage was considered to be very successful, and to be quite practicable in areas where pests affecting sweet potato tubers are not prevalent. [8]
+
+Results in Trinidad have also shown that under suitable conditions sweet potatoes can be stored in this way for about two months in fairly good condition with a loss in weight of about 15 per cent.
+
+Some varieties keep very much better than others, and it is generally held that the red-skinned types are to be preferred for storage to the white or yellow skinned types. The sweet potato, known in Trinidad as Black Rock, has a reputation for storage purposes.
+
+In storing sweet potatoes care has to be taken to protect the skin from injury by bruising or cutting, as the skin is very delicate and if it sustains injury decay spreads rapidly.
+
+#### ACKNOWLEDGMENTS
+
+Acknowledgment of considerable assistance in the preparation of this memorandum is due to the Imperial Institute and to Sir Guy Marshall, C.M.G., D.Sc., F.R.S., Director of the Imperial Institute of Entomology and Professor J. W. Munro, Director of the Biological Field Station (Stored Products Research), Slough.
+
+#### LIST OF REFERENCES
+
+1. (1) First Report on Nutrition in the Colonial Empire, Part I., 1939.
+2. (2) Notes on the Storage of Foodstuffs compiled by the Imperial Institute. Bulletin of the Imperial Institute, Volume 46, 1936, and East African Agricultural Journal, Volume II., No. 5, 1937.
+3. (3) Rice Storage Experiments by H. W. Jack and R. B. Jagoe, Malayan Agricultural Journal, Volume XVIII., p. 447, 1930.
+4. (4) The Municipal Granaries, Colombo, by B. Bunting. Malayan Agricultural Journal, Volume XVIII., p. 545, 1930.
+
+49------------------------------------------------
+
+
+<!-- stage4: ACCEPT r2J/J_014:84 -->
+
+48
+
+1. (5) The Storage of Padi in Kedah by W. N. Sands, Malayan Agricultural Journal, Volume XXI., p. 678, 1933.
+2. (6) Report on Insect Infestation of Cocoa Beans and Nuts. Manufacturing Confectioners Alliance, 1936.
+3. (7) Tropical Fruits and Vegetables. An Account of their Storage and Transport, by C. W. Wardlaw. Low Temperature Research Station, Imperial College of Tropical Agriculture, 1937.
+4. (8) Sweet Potato Storage Experiments by A. E. S. McIntosh. Barbados Agricultural Journal, Volume 7, No. 4, 1938.
+5. (9) Communal Grain Stores in Nyasaland, by E. Lawrence. East African Agricultural Journal, Volume IV., p. 265, 1939.
+6. (10) Native Methods of Food Storage. East African Agricultural Journal, Volume V., p. 99, 1939.
+7. (11) Common Pests of Grain and other Stored Products. Department of Scientific and Industrial Research, 1939.
+
+
+50------------------------------------------------
+
+49DEPARTMENTAL NOTESLAYING RECORDS OF PULLETS HATCHED  
+FROM EGGS IMPORTED BY AIR MAIL
+
+E. P. A. FERNANDO, G.B.V.C.,
+
+MANAGER,
+
+FARM SCHOOL DAIRY, PERADENIYA
+
+IN *The Tropical Agriculturist*, July, 1939, the hatching results from a batch of 24 eggs imported from Great Britain by Air Mail were reported.
+
+Of the 16 chickens hatched all were reared to maturity. Eight proved to be chickens and eight pullets.
+
+The pullets are a particularly vigorous lot indeed; they have proved to be rather too precocious. This is possibly due to the warm climate. Before they had reached the age of 5 months most of them showed signs that they would start to lay before long. As this was an unduly early age for Rhode Island Reds to start laying, efforts were made to check them so that they would have more time to mature and grow before starting to lay. These efforts took the shape of shifting their quarters from time to time and omitting all mash from the ration giving them only grain. The object was to try to prevent them laying until they were 7 months old. These measures did not prove fully effective. One bird started to lay in October when she was only 5 months old; two others early in November when they were only  $5\frac{1}{2}$  months old; four others later in November and early in December when they were from 6 to  $6\frac{1}{2}$  months old. One bird did not start laying until February when she was just 8 months old.
+
+Their laying records up to the end of May, 1940, have been extremely good and are given below. They show no signs of a slackening in egg production. Indeed one pullet, No. 19, has laid 29 eggs in the month of May. On account of the rather early age at which they started to lay, the eggs were at first rather small but have improved and are now of good average size. As will be seen from the table every one of these eight pullets has put up a creditable record. The poorest layer is No. 22 with a total of 112 eggs in 183 days or 61 per cent. of the possible. Thus 19 and 20 are running neck to neck for the first place. No. 19 has laid 163 eggs in 201 days or 81 per cent., while No. 20 has laid 158 eggs in 197 days or 80 per cent.
+
+51------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+
+52------------------------------------------------
+
+51
+
+## THE UTILIZATION OF HUSKS ON COCONUT ESTATES\*
+
+M. L. M. SALGADO, Ph.D., (Cantab.) B.Sc. (Lond.).
+
+SOIL CHEMIST,  
+CEYLON COCONUT RESEARCH SCHEME
+
+**H**USKS form one of the important by-products of the Coconut Palm, the economic utilization of which plays an important part in the successful cultivation of coconut estates. When prices are attractive it is the practice to sell husks to the fibre mills, often without an adequate return when the manurial value and the moisture conserving properties of husks are considered. In districts where fibre mills are not available husks are often allowed to accumulate in heaps, the proper disposal of which forms a problem. It is the object of this leaflet to indicate the most profitable ways in which they can be utilized.
+
+### 1. PROPERTIES OF HUSKS
+
+First must be considered the manurial and other properties of husks on which their agricultural value should be assessed. The main manurial constituent in husks is potash, which forms nearly 30 to 35 per cent. of the ash. On an average, about 100,000 husks contain potash equivalent to 1 ton of muriate of potash, and on this basis alone, husks are worth about Re. 1.50 a thousand. The amount of phosphoric acid is small being only 2 per cent. of the ash.
+
+The potash is present in husks in a form that is soluble and easily available to the roots when they are buried in the soil. Being soluble, potash of husks is leached out when open heaps are exposed to heavy rains.
+
+When husks are buried in the soil, their moisture holding properties are extremely valuable in times of drought, and their spongy structure provides a good medium for root development.
+
+### 2. HUSK ASH
+
+On some estates husks are burnt to produce ash, which is used as manure.
+
+*As a rule the burning of husks cannot be recommended except when it is anticipated that more husks will accumulate than can be buried in trenches or otherwise utilized.*
+
+---
+
+Ceylon Coconut Research Scheme, Leaflet No. 5.
+
+53------------------------------------------------
+
+52
+
+The following points should be noted in the preparation and utilization of husk ash :—
+
+(a) The husks should be from heaps that have not been exposed to heavy rains. Ash from so exposed husks will be of poor quality.
+
+(b) The preparation of the ash should be carried out under a slow fire to obtain the maximum recovery of potash ; high temperature should be avoided as potash salts are likely to be lost by volatilization.
+
+The pit or heap in which the husks are burnt should be continuously charged with fresh husks in order to maintain a slow smoky fire.
+
+(c) High temperatures, especially when the husks are contaminated with sand, tend to produce hard masses of ash in contrast to the fine powder produced under a slow fire. Contamination with sand and stones should be avoided.
+
+(d) Husk ash should be stored in a dry place as it absorbs moisture.
+
+(e) Owing to the alkalinity of husk ash, it is not safe to mix it with ammoniacal manures such as sulphate of ammonia or nicifos, as these would react with loss of ammonia.
+
+(f) Husk ash prepared on estates usually contains about 20 to 25 per cent. potash. Two pounds of such ash may be considered equivalent to 1 lb. of muriate of potash.
+
+### 3. HUSK MULCHES
+
+Coconut husks are used as a mulch for the conservation of soil moisture in two ways. (a) Mulch round the base of palms, (b) Broadcasting husks between palms.
+
+(a) *Husk mulch round base of palms.*—This is the usual method of husk mulching adopted on coconut estates. One layer of husks is placed with the convex side facing upwards from about a foot from the base of the palm up to a distance of six to seven feet.
+
+This method of mulching is particularly beneficial on gravelly soils in conserving moisture during periods of drought. Further, husk mulches applied on the manure trenches round palms help to smother the heavy growth of weeds round the base of the palms that follow manuring.
+
+(b) *Broadcasting husks between palms.*—Broadcasting husks in the fields between palms is as a rule not to be recommended, except when husks cannot be otherwise disposed of, and in any case not on sandy soils. It has given good results on gravelly and lateritic soils which usually suffer most during periods of drought ; on such soils it may be considered a cheap way of
+
+54------------------------------------------------
+
+53
+
+utilizing husks to advantage when burying in trenches is not possible owing to the expense involved. On other soil types broadcasting husks should be done with caution.
+
+Husks when broadcast seem to decay sooner than when buried though the reason for this is not apparent. After two years the husks are found to be partially decayed.
+
+In order to avoid surface rooting it is essential that after a period of two years the partially decayed husks should be ploughed in.
+
+The use of husks as a mulch either round the palms or by broadcasting should be avoided on sandy cinnamon soils on which this practice has a tendency to produce a surface mat of fine roots.
+
+#### 4. BURYING HUSK IN TRENCHES
+
+The ideal method of utilizing husks is by burying in trenches. There is no better method of conserving soil moisture in the soil and reducing to a minimum the serious effects of droughts which most coconut estates in the North-Western Province have to anticipate. As one of the causes of immature nut-fall is considered to be deficiency of soil moisture, husk burying would help to reduce its incidence during periods of drought. It should therefore be the endeavour in all coconut estates to include a certain amount of husk burying in their cultivation programmes, as it forms a capital investment by improving the condition of the soil. All types of soils benefit by this practice, though as a rule gravelly soils and sandy cinnamon soils show the best results.
+
+There are numerous methods of burying husks in trenches to some of which brief reference will be made, while the method recommended in this leaflet will be described in detail.
+
+(a) *Burying husks in the centre of four palms.*—In this method husks are buried in a small pit 4 feet by 4 feet and 3 feet deep, or circular with a diameter of 6 feet and 1 foot deep (in this case called "saucer pits"). This system suffers from the disadvantage that the husks are concentrated at a great distance from the palms, and further that a husk pit at the centre interferes with the free use of cultivation implements such as ploughs and harrows.
+
+(b) *Burying husks between the rows of palms.*—The second method usually adopted is to bury husks in long trenches between rows of palms ("long line trenches"). The trenches are about 8 to 10 feet broad and run along the whole length of the row. Where such trenches are adopted solely for husk burying a very large amount of husks have to be used and concentrated on one portion of the estate. Interference with the free movement of cultivation implements is a further disadvantage.
+
+55------------------------------------------------
+
+54
+
+In this connection it should be mentioned that the practice of burying husks in narrow drains, barely 3 feet wide, is hardly to be recommended. Often catch-water drains are filled with husks, thereby defeating the purpose of these drains.
+
+(c) *Burying husks in trenches along rows of palms.*—This method described below appears to be increasingly adopted in estates where husks are buried and is to be preferred to the two methods already mentioned.
+
+This system of husk trenches is diagrammatically illustrated in Figure 1 and has the following advantages :—
+
+- (i.) A reasonable amount of husks are used so that, rather than concentrating on one field, the entire estate can benefit from husk burying.
+- (ii.) The husk trenches are not far removed from the palms and thus the roots of the palms on either side can quickly grow into the husk pit and make use of the potash and moisture conserved.
+- (iii.) There is little interference with the freedom of use of ploughs and harrows.
+
+The trenches are alternately arranged along the rows against the slope of the land, the dimensions being 10 feet long, 4 feet broad, and  $1\frac{1}{2}$  feet deep. A depth of  $1\frac{1}{2}$  feet is considered sufficient, as the advantages of the use of deeper pits are not commensurate with the extra expense involved.
+
+Husks are buried layer by layer, each layer of husks being covered by a layer of earth. It was formerly recommended that the husks should be arranged so that the spongy inner side faces upwards. Examination of husks buried in various ways has shown that there is no particular advantage in systematically arranging husks in this manner so long as each layer is covered by earth. The pit is filled so that the last layer is flush with the level of the ground and the balance of earth is mounded on top.
+
+A pit of this size would take about 250 to 300 husks.
+
+In the cycle of cultivation, when husks have to be buried again in the same field, trenches can be dug in the alternate position.
+
+(d) *Addition of calcium cyanamide or lime to husk trenches.*—It is sometimes the practice to add Calcium cyanamide or lime to hasten the decay of husks buried in trenches. This appears superfluous. The potash in husks that forms the only manurial constituent of importance exists in soluble form and will be available even without the breakdown of the husks. On the other hand coconuts being a perennial crop there will be no advantage in husks decaying too soon. The moisture
+
+56------------------------------------------------
+
+55
+
+holding properties of husks which are of particular value to the palms will continue to function without the husks breaking down, and rather than the rapid decomposition caused by cyanamide or lime being of value, it may be considered even disadvantageous.
+
+(e) *Planting green manures on husk trenches.*—As mentioned in Leaflet No. 3, Cover Crops and erect green manures such as Boga or *Crotolaria* can be readily established on the top of husk trenches where other methods have failed.
+
+When manuring has to be done in a field where husks have to be buried an excellent practice is to grow Boga about nine to ten months before manuring is due, so that loppings can be obtained for use with artificial manure in manure trenches.
+
+(f) *Husk burying and the breeding of the coconut black beetle.*—There seems to be an idea, particularly in the Southern Province, that the coconut black beetle breeds in trenches where husks have been buried. It may be definitely asserted here that where husks *alone* are buried this is not the case. It should also be mentioned that the butt-ends of fronds should never be buried with husks as the former favours the breeding of the black beetle.
+
+#### 5. HUSKS VS. COIR DUST
+
+It is sometimes asked whether it is not a more economic proposition to sell husks to the mills and use the equivalent returned coir dust on the estate. This is based on a lack of understanding of the properties to which husks owe their agricultural values. Coir dust has little manurial value compared to husks, as all the potash has been leached in the process of retting. Further, coir dust should not be buried in trenches as it tends to get caked up and also favours the formation of a dense mat of fibrous roots.
+
+#### 6. HUSKS IN PLANTING HOLES
+
+The use of husks in planting holes is described in Leaflet No. 4.
+
+#### 7. USE AND MISUSE OF HUSKS ON WATER-LOGGED LAND
+
+It is a common sight to find water-logged land, particularly round Chilaw and Madampe, where the drains are filled with husks. As the object of the drains is to remove excess water and lower the watertable, refilling with husks would only defeat the purpose of draining.
+
+On the other hand husks can be used with advantage on such lands to raise the ground level round the palms and thereby lower the water-table and increase the effective range for root development. This can be done by placing a layer of husks, with the convex sides facing upwards, and covering with silt
+
+57------------------------------------------------
+
+56
+
+removed from the drains. In extreme cases of permanent water-logging drains are cut between all the rows leaving a raised platform round the palms. This method is no doubt expensive but produces excellent results.
+
+November, 1939.
+
+The diagram illustrates a layout for a palm plantation. It shows a grid of palm trees, represented by circles. Some trees are labeled 'MATURE CIRCLE' and others are just circles. Rectangular 'HUSK PIT' structures are placed between the trees. Arrows indicate the 'DIRECTION of PLOUGHING' (vertical), 'SLOPE BETWEEN' (vertical), 'HARROWING AGAINST THE ROWS' (vertical), and 'RUN OFF WATER' (horizontal).
+
+Diagram  
+ARRANGEMENT of HUSK  
+PITS.
+
+58------------------------------------------------
+
+57
+
+## SELECTED ARTICLE
+
+---
+
+### BANANA FLOUR\*
+
+---
+
+FROM time to time the possibility of producing banana flour for consumption in temperate countries has created interest, and it is a proposition that is undoubtedly worth considering, not with a view to attempting to displace even a small proportion of the cereal flours now used, but rather of introducing it as a product for special purposes.
+
+From an economic standpoint the large-scale production of Banana flour is apparently quite practicable. The yield of bananas per acre averages about 32,000 lb., and in food value per acre a crop of bananas far surpasses what are considered the staple food crops of the world. This statement includes corn, potatoes, rice, sweet potatoes, and wheat. Coupled with this exceptionally high yield is the advantage that the cost of manufacturing banana flour is low.
+
+Banana flour has a very pleasant flavour, and when freshly made possesses the characteristic odour of the fresh fruit. It is not quite so nutritious as wheat flour, as it has a considerably lower protein content; however, banana flour is richer in carbohydrates, and on a basis of food value, calculated in calories, it compares very favourably with wheat flour (See Table below).
+
+As fresh fruit bananas are far too bulky to make a satisfactory ration, for to obtain 10 oz. of carbohydrate it is necessary to consume about 50 oz. of fruit. But by means of dehydrating or converting the pulp into flour, the banana can be reduced into a concentrated form that compares very favourably in nutrient value with products prepared from the cereals.
+
+Banana flour is produced in the West Indies for local consumption. It is prepared from the fully-grown but green fruit which has not yet commenced to ripen. In this green fruit the carbohydrates are still in the form of starch; as the fruit ripens the starch changes to sugar.
+
+Approximately 50 per cent. of edible pulp is recoverable from the green bananas. There is about 50 per cent. of waste, and this includes both the stems and the skins.
+
+The practice in the West Indies is to cut the fruit free from the bunches and soak it in warm water (temperature about 175° F.) for five minutes, which serves to loosen the green skin and facilitates its removal.
+
+The pulp is split in halves with a blade made of silver, wood, or bone, and arranged on suitable trays. Much of the fruit is dried in the sun, but some is dehydrated with artificial heat; in a few very modern establishments vacuum driers have been installed. The moisture content is reduced to a maximum of 15 per cent. and the dried product is milled and reeled, using No. 13 (129 mesh) bolting cloth.
+
+---
+
+\* (From "Food Industries Manual" (Leonard Hill, Ltd., 1939), page 13.)
+
+59------------------------------------------------
+
+58
+
+It is generally reckoned that about 18 per cent. of the gross weight of the green fruit can be recovered as flour carrying a moisture content of not more than 15 per cent.
+
+In the following table the nutritive value of banana flour as compared with wheat flour is given :—
+
+<table border="1">
+<thead>
+<tr>
+<th>Product.</th>
+<th>Moisture</th>
+<th>Protein.</th>
+<th>Fat.</th>
+<th>Carbohy-<br/>drates.</th>
+<th>Ash.</th>
+<th>Food<br/>value per<br/>pound<br/>(Calories)</th>
+</tr>
+<tr>
+<th></th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th>Per cent.</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Banana flour ..</td>
+<td>9.7..</td>
+<td>3.1..</td>
+<td>0.5..</td>
+<td>84.1..</td>
+<td>2.5..</td>
+<td>1,610</td>
+</tr>
+<tr>
+<td>Wheat ,, ..</td>
+<td>12.0..</td>
+<td>14.4..</td>
+<td>1.0..</td>
+<td>75.1..</td>
+<td>0.5..</td>
+<td>1,650</td>
+</tr>
+</tbody>
+</table>
+
+Banana flour is generally packed in paper-lined containers—either barrels or boxes.
+
+It is stated to be difficult to make bread from a pure banana flour, but when blended with a proportion of cereal flour it gives highly satisfactory results. Using a pure banana dough which has been subjected to the action of steam under pressure, good quality bread has been produced. However, it is as a special flour for use in confectionery, and not for the making of bread, that banana flour has the greatest potential value in Europe.
+
+In the cultivation of bananas for the fresh fruit market a considerable proportion of the crop is undersize or otherwise unsuitable for shipment ; much of this might be profitably utilized in the production of flour. But, further than this it would seem that there are interesting possibilities in growing bananas expressly for flour manufacture.
+
+An extensive educational campaign would be necessary to promote the use of banana flour in England, while the ability to offer it at an attractive price would be an important factor in developing a steady demand.
+
+60------------------------------------------------
+
+59
+
+MEETINGS, CONFERENCES, &c.
+
+---
+
+COCONUT RESEARCH SCHEME.
+
+---
+
+BOARD OF MANAGEMENT.
+
+---
+
+MINUTES OF THE FIFTIETH MEETING OF THE BOARD OF  
+MANAGEMENT, COCONUT RESEARCH SCHEME, HELD IN  
+ROOM NO. 202, NEW SECRETARIAT, COLOMBO, ON  
+MONDAY, MAY 6, 1940, AT 2.30 P.M.
+
+---
+
+**PRESENT.**
+
+Mr. E. Rodrigo, C.C.S., Acting Director of Agriculture (Chairman); Mr. C. H. Collins, C.C.S. (Treasury Representative); Mr. A. R. Ekanayake; Mr. D. D. Karunaratne, J.P.; Mr. G. Pandittesekere, J.P., U.M.; Mr. E. R. Tambimuttu, M.S.C.
+
+Dr. R. Child, Director of Research, acted as Secretary.
+
+The Chairman read a letter from Mr. James P. Fernando, regretting his inability to attend owing to the sudden death of his sister, Mrs. Clement P. Wijeratne. The Board desire the Chairman to convey their sympathy to Mr. Fernando.
+
+Apologies for absence were also received from Messrs. O. B. M. Cheyne, H. W. Peris, and L. J. M. Peiris.
+
+**MINUTES.**
+
+The minutes of the previous meeting held on Friday, January 19, 1940, at Bandirippuwa Estate, which had been circulated to members were confirmed.
+
+**BOARD OF MANAGEMENT.**
+
+The Chairman reported that Mr. A. R. Ekanayake has been renominated by the Planters' Association of Ceylon as a member of the Board from February 1, 1940.
+
+The Chairman said that he had no information at present regarding a new nomination by the State Council in place of Mr. S. Samarakkody, whose membership had lapsed under section 8 of the First Schedule of the Ordinance.
+
+**STAFF.**
+
+It was decided that Dr. Child should be re-engaged as Director of Research and Technological Chemist. The terms of the agreement were referred to the Acting Financial Secretary for his advice.
+
+*Geneticist's Study Leave.*—The Chairman reported that Mr. W. V. D. Pieris had arrived in Trinidad on February 7, 1940. He had intended to leave Trinidad on May 22 but uncertainty with regard to the passage of shipping through the Mediterranean had led him to sail on May 3, and he was now returning *via* the Cape.
+
+*Provident Fund.*—The recommendations of the Sub-committee appointed at the previous meeting to report on suggested amendments to the rules of the
+
+61------------------------------------------------
+
+60
+
+Provident Fund had been circulated. Certain amendments to the rules were approved, embodying the extension of the scope of the Fund to include all monthly paid employees.
+
+#### ANNUAL REPORTS.
+
+The following reports were tabled :—
+
+*Annual Report of the Board of Management for 1939.*—The Chairman said that this report had been submitted to the State Council in accordance with the Ordinance ; he understood that the report was with the Government Printer and would be issued as a Government Sessional Paper shortly.
+
+*Report of the Auditor-General for 1939.*
+
+*Report of the Director of Research on Bandirippuwa Estate.*
+
+#### FINANCE.
+
+*The Statement of Receipts and Payments* for the quarter ended March 31, 1940, was tabled and approved. The Chairman called attention to the abnormally low income from Cess Collections. He also mentioned that members would be interested to note that from the 12 acres cleared at Ratmalagara in September, 1938, over Rs. 500 had already accrued from sale of food crops.
+
+*Investment of Rs. 4,150 in Savings Certificates.*—The Chairman reported that Ceylon Savings Certificates to the face value of Rs. 5,000 (cost Rs. 4,150) had been purchased.
+
+#### ESTATES.
+
+(a) *Appointment of Visiting Agent.*—Correspondence was tabled, including Mr. B. Parker's letter of January 23, 1940, accepting the appointment of Visiting Agent to Bandirippuwa and Ratmalagara Estates.
+
+(b) *Visiting Agent's Reports.*—(i.) In connection with these were tabled the Detailed Estimates, 1940, for *Bandirippuwa* and *Ratmalagara* Estates, which had been circulated in accordance with the Board's instructions.
+
+(ii.) *Bandirippuwa Estate.*—The Visiting Agent's report on Bandirippuwa Estate was accepted, and certain supplementary estimates recommended by the Visiting Agent were approved.
+
+(iii.) *Ratmalagara Estate.*—The Visiting Agent's report on Ratmalagara Estate was accepted, and a supplementary estimate for draining was approved.
+
+(iv.) Commenting on estate expenditure Mr. G. Pandittesekera deprecated laying undue stress on the commercial working of the estates. The Scheme's function was to obtain fundamental knowledge. It might well be that treatment of the estates—on certain areas—to obtain higher yields by methods uneconomic at present would yield information which would later provide a basis for economic working of similar treatments suitably adapted. The Director of Research was asked to bear this consideration in mind.
+
+#### MISCELLANEOUS.
+
+*Advisory Visits to Estates.*—The question of advisory visits to estates had been raised by Mr. L. J. M. Peiris at the 47th meeting held on September 15, 1939.
+
+62------------------------------------------------
+
+61
+
+The Chairman stated that a leaflet had been issued (Leaflet No. 7) setting forth the Scheme's position with regard to such visits. This leaflet was tabled and approved.
+
+#### VISIT OF DIRECTOR OF RESEARCH TO EASTERN PROVINCE.
+
+Following the Board's discussion at the previous meeting, the Director of Research had visited the Eastern Province, and his report on this visit had been circulated.
+
+The Board decided that the Director of Research should proceed with negotiations with Estate Proprietors and Superintendents in that Province regarding co-operative experiments, and should submit to the Board details of a projected programme of experiments. With regard to the opening of a small station, the Board agreed that any land purchased would have to be capable of bringing in a sufficient return to cover the expenses of upkeep, including the salary of a suitable officer-in-charge. It was not desired to proceed hastily in this direction, but the Director of Research was asked to report on any possibilities which might develop.
+
+#### CORRESPONDENCE.
+
+(a) *Mr. Menon's Report*.—A letter was read dated April 22, 1940, from the Manager, Ceylon Coconut Board, to the Director of Research, asking the latter if he could prepare an abridged version of Mr. Menon's Report suitable for publication. The Board of Management agreed to the Director of Research doing this work.
+
+(b) *Low-Country Products Association Committee*.—With regard to a letter dated March 14, 1940, from the Hon. Secretary, Low-Country Products Association, to the Director of Research asking him to serve on the Committee of this body, the Board did not approve of Dr. Child accepting the invitation.
+
+(c) *Pliofilm*.—Correspondence between the Director of Research and the Coconut Board on the subject of Pliofilm, a new packing material, was tabled.
+
+The Director of Research said that his preliminary tests had shown this material to have interesting possibilities for packing desiccated coconut.
+
+The Board of Management decided that they had no objection in the continuance of tests on this material, and on others.
+
+#### (d) *Exhibition in Colombo, June, 1940*.
+
+The Board decided that the Scheme should not participate in an Exhibition organized by the Buddhist Theosophical Society to be held in Colombo in June, 1940.
+
+(e) *Coconut Conference*.—The Chairman referred to a letter from Mr. Graham Pandittesekere dated April 25, 1940, on this subject. He thought that the initiative for such a Conference might come from the Low-Country Products Association or the Coconut Board. The Scheme would co-operate in any way possible. He mentioned the recent Rubber Conference which was initiated by the Kalutara Planters' Association, and organized by a joint Committee of the Planters' Association, the Ceylon Estates Proprietary Association, and the Rubber Research Scheme.
+
+The Director of Research undertook to discuss the subject informally with other bodies, and to co-operate with a committee if one was formed.
+
+63------------------------------------------------
+
+62
+
+## REVIEW
+
+---
+
+**Grassland Investigations in Australia.**—Herbage Publication Series, Bulletin 29. Published by the Imperial Bureau of Pastures and Forage Crops, Aberystwyth, Great Britain. 107 pages with 2 maps. 1940. Price : 5s.
+
+---
+
+**T**HIS bulletin is divided into three sections of which the first deals with the institutions engaged in grassland research, the second consists of fifteen contributions on special subjects, and the third contains abstracts of recent publications on grassland in Australia.
+
+Australia is a vast continent. In area it is 2,971,804 square miles, that is, larger than the whole of Europe less Russia, or, about 117 times the size of Ceylon. Of this area about 40 per cent. lies within the tropical zone, and the average annual rainfall varies from 165 inches on the north-east coast of Queensland to 5 inches in South Australia. The amount and the variability of incidence of rainfall are limiting factors to feasible pasture improvement and limit it to probably not more than one-sixth the area of the continent. It is in that relatively small region where it requires less than two acres to maintain a sheep that most of the grassland investigation officers (about fifty) operate, and their programme covers two main features : the maintenance and regeneration of natural pastures, and the proper treatment of exotic species in sown pastures.
+
+Section I. (pages 5 to 10) deals with the Institutions and Departments : *A.* The Division of Plant Industry of the Commonwealth Council of Scientific and Industrial Research undertakes the greater part of the grassland research conducted by the Council and the investigations are made by three sections of the Division. The section for Plant Introduction undertakes the introduction and testing out of herbage species, particularly legumes, in a representative range of climatic and soil conditions. The Plant Genetics section is engaged in the selection and breeding of improved strains and varieties of the more important herbage species. The Agrostology section deals with the improvement of pastures including ecological and grazing studies, particularly on the relation of food supply to the health and nutrition of the grazing animal, in collaboration with the Division of Animal Health and Nutrition which is primarily engaged on nutrition and internal parasites.
+
+*B.* In New South Wales, the Agrostology Branch deals with pasture investigations, and the Plant Breeding Branch deals with selection and improvement.
+
+*C.* In Victoria, the Department of Agriculture undertakes grassland work.
+
+64------------------------------------------------
+
+63
+
+*D.* The work in Queensland is of especial interest to us in Ceylon. (a) The Department of Agriculture and Stock: investigations have not been intensive. The Department has by demonstration and investigation encouraged the use of *Paspalum dilatatum*, Rhodes grass (*Chloris gayana*, water grass (*Brachiaria mutica*), Efwatakala grass (*Melinis minutiflora*), and Guinea grass (*Panicum maximum*), the last three species proving of great potential value in the northern tropical coastal belt. The use of artificial fertilizers has not given encouraging results in an economic sense, but the renovation of sod-bound swards of *Paspalum dilatatum* by ploughing, and the successful use of Rhodes grass in short term rotations with cotton have been notable improvements in pasture production and utilization. Investigations on the production, feeding value, and management of pasture mixtures for cattle fattening have recently been commenced on the tropical coast, and it is proposed to intensify this phase. (b). The Queensland Agricultural High School and College, Lawes, Queensland: a study of the effect of phosphatic fertilizers on the yield, botanical and chemical composition of a natural sward was concluded in 1930 and reported upon. Grazing trials are in progress with Rhodes grass and other herbage plants.
+
+*E.* South Australia: (a). The University of Adelaide. At the Waite Agricultural Research Institute, research is done on dryland pastures, with particular reference to mineral content of pastures. Selection of improved strains, and study of relationship between legume and its symbionts are other important phases of their work. In the Botanical Department, research is done on regeneration of the dominant plants in arid pastoral areas, and on drought resistance. (b). The Department of Agriculture is concerned mainly with pastures in which subterranean clover (*Trifolium subterraneum*) is the legume.
+
+*F.* In Tasmania, the Department of Agriculture undertakes grassland work, and the problems are similar to those in New Zealand and Europe.
+
+*G.* In Western Australia, the Department of Agriculture devotes attention to irrigated pastures, and the Institute of Agriculture, University of Western Australia, is investigating the seasonal variation in the food production and value of "Spinifex" pastures.
+
+*H.* Other Bodies. The Australian Estates Co., Ltd., in common with other large pastoral companies, is financially interested in a large number of properties, and, mostly in co-operation with officers of the State research bodies, is carrying on a vigorous policy of investigation into the problems confronting it in regard to both pastures and stock.
+
+Section II. (pages 11 to 69) consists of 15 special articles. A. McTaggart writes on "Plant Introduction". It is interesting to note that in Australia the "grain, vegetable and fruit crops of commercial importance and the grasses and legumes used in sown pastures in the better rainfall areas are all introductions. Unfortunately, during the same period, several hundreds of weeds, noxious and otherwise, have been inadvertently introduced, while some deliberate introductions have become established as plant pests". The ideal way for introducing plants is based on seven clearly defined principles. This is equally applicable to Ceylon and is quoted in full below:
+
+3—J. N. 95483 (6/40)
+
+65------------------------------------------------
+
+64
+
+“(1) A climatic, soil and vegetational survey to determine the ecological environments in which plants are required to fill particular roles.
+
+(2) The search for such desirable plants, preferably by exploration, in homoclines of the world.
+
+(3) Imported material to pass through quarantine.
+
+(4) Preliminary testing in strategically placed testing centres to determine their potential value under our conditions.
+
+(5) Multiplication and accumulation of seed stocks or stocks of cuttings, &c., for wider and more detailed trial.
+
+(6) Detailed trials of selected species under normal agricultural practice and comparison with standards. This phase for herbage plants will include yields and grazing tests in suitable seeds mixtures.
+
+(7) The species emerging successfully would then be handed to State Departments and other organizations and individuals for widespread tests.”
+
+Among noteworthy introductions of long standing in Queensland are Rhodes grass and Efwatakala grass, the possibilities of which have not yet been exploited to the full in Ceylon. *Paspalum vaginatum*, a Ceylon grass, introduced to Australia from South Africa, appears to be adapted to saline soils. It proved disappointing in the trials at Paranthan, but it deserves further testing at Put-talam and similar saline areas. African fox-tail grass (*Cenchrus ciliaris*) has shown marked drought resistance in Western Australia, and though it has been tried at Nikaveratiya, probably it is best suited to the driest regions in Ceylon, areas receiving about 25 inches of annual rainfall.
+
+In Australia, as in Ceylon, the selection of a suitable legume for most areas in the tropic zone remains a problem, but it is encouraging to find that plants occurring naturally in Ceylon, as *Phaseolus semi-erectus* [*P. lathyroides*]\* and *Alysicarpus rugosus*, or in cultivation, as *Crotalaria usaramoensis* and *Cicer arietinum*, are giving consistently good growth in Australia in a semi-tropic climate with 29 inches of annual rainfall of which 20 fall during the six summer months.
+
+In typical cattle country with a tropical environment and an annual rainfall of 40 inches, some of the outstanding grasses are Guinea grass and its varieties, *Krimisastri* (a Ceylon grass, *Panicum antidotale*), African fox-tail grass, Efwatakala grass, Rhodes grass, and *Andropogon pertusus* [*Amphilophis pertusa*]\* (another Ceylon grass). The outstanding legume species for pasture purposes here is “*Stylosanthes guyannensis* [*S. guianensis*]\* from Brazil, a palatable perennial legume that is persistent, drought-resistant, and remarkably productive under favourable conditions, and a good source of feed during the dry winter and spring months”. The ultimate finding of a successful legume like the *Stylosanthes* amply justifies the long and arduous search for, and innumerable tests with, plants of possible pasture value.
+
+Another article of particular interest to us is “Pasture Investigations of the Queensland Department of Agriculture and Stock”. In Queensland in important dairying areas *Paspalum dilatatum* is the chief dairying grass with Rhodes grass and Kikuyu grass used to some extent. In certain parts old-established
+
+---
+
+\* The names in square brackets have been inserted by the reviewer, against the names given in the bulletin, as being the valid names for the plants.
+
+66------------------------------------------------
+
+65
+
+pastures have deteriorated to such an extent that complete replacement by the much less valuable blue couch grass (*Digitaria didactyla*) occurred. This is of interest as we should remember that steps must be taken in Ceylon as are being done in Queensland, by ploughing up or otherwise, to replace and improve deteriorated pastures. Further, the blue couch grass referred to is apparently the same as the one introduced to Ceylon for golf links and lawns, and we must guard against its spreading as an undesirable weed to pastures. In the far north of the coastal region of Queensland, at present the major sown pastures are water grass, Efwatakala grass, and Guinea grass.
+
+Section III. contains 247 abstracts of recent publications on grassland in Australia. These are enumerated under five major headings, each with a number of sub-headings: *A.* Pasture Ecology (1 to 41), *B.* Natural Pastures (42 to 64), *C.* Sown Pastures (65 to 139), *D.* Irrigated Pastures (140 to 165), *E.* Special Problems (166 to 247), followed by an Index of Authors.
+
+An index of genera and species (pages 105 to 107) completes the Bulletin.
+
+The bulletin gives a comprehensive and authoritative survey of the work on grassland in that vast continent and it is confidently recommended to all interested in the welfare of grassland.
+
+J. E. S.
+
+4—J. N. 95483 (6/40)
+
+67------------------------------------------------
+
+66
+
+ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED JUNE 30, 1940
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to date since Jan. 1, 1940</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Balance ill</th>
+<th>No. shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">Western</td>
+<td>Foot-and-mouth disease</td>
+<td>177</td>
+<td>87</td>
+<td>7</td>
+<td>131</td>
+<td>39</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Contagious Mange</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>6</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Municipality</td>
+<td>Foot-and-mouth disease</td>
+<td>409</td>
+<td>64</td>
+<td>2</td>
+<td>399</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>24</td>
+<td>1</td>
+<td>24</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Cattle Quarantine Station</td>
+<td>Anthrax</td>
+<td>6</td>
+<td>..</td>
+<td>6</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="5">Central</td>
+<td>Foot-and-mouth disease</td>
+<td>192</td>
+<td>..</td>
+<td>1</td>
+<td>190</td>
+<td>..</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>4</td>
+<td>..</td>
+<td>4</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>15</td>
+<td>5</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Blackquarter</td>
+<td>7</td>
+<td>..</td>
+<td>7</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>15</td>
+<td>5</td>
+<td>..</td>
+<td>13</td>
+<td>2</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="2">Southern</td>
+<td>Pleuro-pneumonia</td>
+<td>20</td>
+<td>..</td>
+<td>20</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>15</td>
+<td>1</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="2">Northern</td>
+<td>Foot-and-mouth disease</td>
+<td>141</td>
+<td>120</td>
+<td>15</td>
+<td>126</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>5</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Eastern</td>
+<td>Foot-and-mouth disease</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="4">North-Western</td>
+<td>Goat pox</td>
+<td>17</td>
+<td>..</td>
+<td>2</td>
+<td>15</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Hæmorrhagic Septicæmia</td>
+<td>13</td>
+<td>..</td>
+<td>13</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>8</td>
+<td>1</td>
+<td>2</td>
+<td>..</td>
+<td>..</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Hæmorrhagic Septicæmia</td>
+<td>35</td>
+<td>..</td>
+<td>35</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td rowspan="3">Uva</td>
+<td>Foot-and-mouth disease</td>
+<td>101</td>
+<td>..</td>
+<td>13</td>
+<td>88</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Goat Pox</td>
+<td>70</td>
+<td>..</td>
+<td>20</td>
+<td>50</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>9</td>
+<td>3</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>8</td>
+</tr>
+<tr>
+<td rowspan="2">Sabaragamuwa</td>
+<td>Hæmorrhagic Septicæmia</td>
+<td>1</td>
+<td>..</td>
+<td>1</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>3</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>..</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+
+Department of Agriculture,  
+Peradeniya, July 19, 1940.
+
+A. JAYASINGHA,  
+for Deputy Director (Animal Husbandry)  
+and Government Veterinary Surgeon.
+
+68------------------------------------------------
+
+67METEOROLOGICAL REPORT, JUNE, 1940
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta</td>
+<td>84.9</td>
+<td>-0.2</td>
+<td>74.7</td>
+<td>+0.3</td>
+<td>84</td>
+<td>95</td>
+<td>6.9</td>
+<td>16.34</td>
+<td>29</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura</td>
+<td>89.7</td>
+<td>+0.4</td>
+<td>77.2</td>
+<td>+1.0</td>
+<td>71</td>
+<td>89</td>
+<td>6.6</td>
+<td>0.67</td>
+<td>8</td>
+<td>-0.27</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>85.0</td>
+<td>-0.4</td>
+<td>66.2</td>
+<td>+0.9</td>
+<td>64</td>
+<td>92</td>
+<td>5.2</td>
+<td>1.46</td>
+<td>5</td>
+<td>-0.33</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>91.1</td>
+<td>-1.0</td>
+<td>78.0</td>
+<td>+0.7</td>
+<td>67</td>
+<td>84</td>
+<td>5.2</td>
+<td>2.35</td>
+<td>4</td>
+<td>+1.34</td>
+</tr>
+<tr>
+<td>Colombo</td>
+<td>85.6</td>
+<td>+0.4</td>
+<td>78.5</td>
+<td>+1.2</td>
+<td>81</td>
+<td>89</td>
+<td>8.2</td>
+<td>7.93</td>
+<td>26</td>
+<td>+1.05</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>78.0</td>
+<td>+0.2</td>
+<td>64.3</td>
+<td>+1.5</td>
+<td>64</td>
+<td>76</td>
+<td>6.4</td>
+<td>2.95</td>
+<td>7</td>
+<td>+1.18</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>84.0</td>
+<td>+0.4</td>
+<td>79.0</td>
+<td>+1.8</td>
+<td>81</td>
+<td>84</td>
+<td>7.2</td>
+<td>7.69</td>
+<td>22</td>
+<td>-0.99</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>68.8</td>
+<td>-0.3</td>
+<td>57.9</td>
+<td>-0.3</td>
+<td>83</td>
+<td>89</td>
+<td>7.0</td>
+<td>5.01</td>
+<td>15</td>
+<td>-1.97</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>87.7</td>
+<td>+1.1</td>
+<td>78.1</td>
+<td>+1.3</td>
+<td>77</td>
+<td>89</td>
+<td>6.2</td>
+<td>1.57</td>
+<td>12</td>
+<td>-0.66</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>87.4</td>
+<td>+1.1</td>
+<td>81.4</td>
+<td>+0.8</td>
+<td>80</td>
+<td>83</td>
+<td>4.7</td>
+<td>1.13</td>
+<td>1</td>
+<td>+0.73</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>87.6</td>
+<td>+4.4</td>
+<td>67.8</td>
+<td>-3.3</td>
+<td>82</td>
+<td>92</td>
+<td>9.1</td>
+<td>14.52</td>
+<td>26</td>
+<td>+4.94</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>86.2</td>
+<td>-0.3</td>
+<td>76.2</td>
+<td>+0.9</td>
+<td>79</td>
+<td>91</td>
+<td>7.7</td>
+<td>11.29</td>
+<td>25</td>
+<td>+3.90</td>
+</tr>
+<tr>
+<td>Lunuwila</td>
+<td>86.2</td>
+<td>+0.6</td>
+<td>78.5</td>
+<td>+1.5</td>
+<td>81</td>
+<td>89</td>
+<td>7.6</td>
+<td>8.89</td>
+<td>21</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>88.2</td>
+<td>-0.1</td>
+<td>81.3</td>
+<td>+0.8</td>
+<td>74</td>
+<td>81</td>
+<td>8.0</td>
+<td>0.11</td>
+<td>1</td>
+<td>-0.39</td>
+</tr>
+<tr>
+<td>Nuwara Eliya</td>
+<td>65.8</td>
+<td>-0.3</td>
+<td>56.9</td>
+<td>+1.5</td>
+<td>88</td>
+<td>91</td>
+<td>9.4</td>
+<td>7.99</td>
+<td>27</td>
+<td>-2.95</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>86.3</td>
+<td>+0.2</td>
+<td>79.9</td>
+<td>+0.9</td>
+<td>79</td>
+<td>85</td>
+<td>7.2</td>
+<td>0.84</td>
+<td>8</td>
+<td>-0.83</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>86.0</td>
+<td>-0.5</td>
+<td>75.8</td>
+<td>+1.3</td>
+<td>81</td>
+<td>93</td>
+<td>8.4</td>
+<td>30.63</td>
+<td>27</td>
+<td>+11.59</td>
+</tr>
+<tr>
+<td>Talawakele</td>
+<td>71.1</td>
+<td>+0.2</td>
+<td>61.8</td>
+<td>+1.5</td>
+<td>84</td>
+<td>92</td>
+<td>8.8</td>
+<td>14.15</td>
+<td>30</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>91.9</td>
+<td>0</td>
+<td>79.8</td>
+<td>+1.1</td>
+<td>63</td>
+<td>80</td>
+<td>6.4</td>
+<td>1.35</td>
+<td>3</td>
+<td>+0.27</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall for June was, on the whole, above average. Slight deficits predominated in the northern third of the Island, in the western and southern coastal districts and in the eastern half of the central hill country. Elsewhere positive offsets preponderated, particularly marked excess occurring in the windward slopes of the main hill masses.
+
+The largest excesses were 23.92 inches at Padupola and 21.38 inches at Kenilworth, while about half a dozen other stations in the same neighbourhood also recorded excesses of over 15 inches. The largest deficits were 5.30 inches at Dompe and 4.12 inches at Udahena.
+
+The highest monthly totals were 57.78 inches at Kenilworth, 55.98 inches at Watawala, 55.23 inches at Padupola, 52.95 inches at Norton Bridge and 50.73 inches at Blackwater, all on the western slopes of the main hills. As many as 20 stations mainly distributed in the northern third of the Island recorded no rain during the month.
+
+There were altogether 88 daily falls of 5 inches and over during June, of which 14 were 10 inches and over. More than 70 of these falls occurred on the 12th or the 13th. The largest falls were 17.20 inches at Yataderiya on the 12th and 13.05 inches at Theydon Bois on the 13th.
+
+The weather continued to be of the usual south-west monsoon type throughout the month, with south-westerly barometric gradients across the Island, winds generally south-westerly and rainfall mainly confined to the south-west and the hills. Fairly heavy rain occurred on the 12th, 13th, and 22nd; during the rest of the month, only light or moderate rain was generally experienced.
+
+Temperatures were, on the whole, slightly above average. The highest shade temperature recorded during June was 96.0° at Batticaloa on the 29th, while the lowest temperature was 54.8° at Nuwara Eliya on the 4th. Humidity and cloud amount were generally in excess. Surface winds were above normal strength, the general direction being south-westerly.
+
+D. T. E. DASSANAYAKE,  
+Superintendent, Observatory.
+
+69------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]

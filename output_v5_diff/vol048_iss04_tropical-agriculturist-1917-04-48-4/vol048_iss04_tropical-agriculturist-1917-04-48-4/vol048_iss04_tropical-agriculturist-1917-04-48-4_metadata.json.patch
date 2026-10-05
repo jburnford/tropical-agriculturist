@@ -1,0 +1,17 @@
+--- output_v5/vol048_iss04_tropical-agriculturist-1917-04-48-4/vol048_iss04_tropical-agriculturist-1917-04-48-4/vol048_iss04_tropical-agriculturist-1917-04-48-4_metadata.json	2026-10-03 08:30:35.020558637 -0600
++++ output_v6/vol048_iss04_tropical-agriculturist-1917-04-48-4/vol048_iss04_tropical-agriculturist-1917-04-48-4/vol048_iss04_tropical-agriculturist-1917-04-48-4_metadata.json	2026-10-04 12:07:26.007788307 -0600
+@@ -797,12 +797,12 @@
+         1207,
+         1731
+       ],
+-      "token_count": 7125,
++      "token_count": 8092,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_016:48+49+50"
++        "source": "vsplitV/V_005:134+135+136+137+138"
+       }
+     }
+   ]

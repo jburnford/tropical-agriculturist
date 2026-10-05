@@ -1,0 +1,1444 @@
+--- output_v5/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40.md	2026-10-03 08:30:34.810852262 -0600
++++ output_v6/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40/vol040_lbg-630-5-tag-v-40.md	2026-10-04 12:07:25.771312708 -0600
+@@ -11850,533 +11850,1091 @@
+ 159------------------------------------------------
+ 
+ 
+-<!-- stage4: ACCEPT_TABLE tabT/T_016:45+46+47 -->
++<!-- stage4: ACCEPT_TABLE vsplitV/V_005:129+130+131+132+133 -->
+ 
+ 136
+ 
+-## MARKET RATES FOR TROPICAL PRODUCTS.
++**MARKET RATES FOR TROPICAL PRODUCTS.**
+ 
+-(From Lewis & Peat's Monthly Prices Current, London, 1st January, 1913.)
++*(From Lewis & Peat's Monthly Prices Current, London, 1st January, 1913.)*
++
++---
+ 
+ <table border="1">
+ <thead>
+ <tr>
+-<th></th>
+-<th>QUALITY.</th>
+-<th>QUOTATIONS.</th>
+-<th></th>
+-<th>QUALITY.</th>
+-<th>QUOTATIONS</th>
++<th data-bbox="285 530 365 575">QUALITY.</th>
++<th data-bbox="410 530 525 575">QUOTATIONS.</th>
++<th data-bbox="740 530 825 575">QUALITY.</th>
++<th data-bbox="855 530 965 575">QUOTATIONS</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+-<td><b>ALOES, Socotrine</b> cwt.</td>
++<td data-bbox="0 580 235 980"></td>
++<td data-bbox="235 580 400 980"></td>
++<td data-bbox="695 580 850 980"></td>
++<td data-bbox="850 580 1000 980"></td>
++</tr>
++</tbody>
++</table>
++
++<table border="1">
++<tbody>
++<tr>
++<td>ALOES, Socotrine cwt.</td>
+ <td>Fair to fine</td>
++<td>...</td>
+ <td>62s 6d a 67s 6d</td>
+-<td><b>INDIARUBBER.</b>(Contd.)</td>
+-<td></td>
+-<td></td>
+ </tr>
+ <tr>
+-<td>Zanzibar &amp; Hepatic ,,</td>
++<td>Zanzibar &amp; Hepatic "</td>
+ <td>Common to good</td>
++<td>..</td>
+ <td>40s a 75s</td>
+-<td>Borneo</td>
+-<td>Common to good</td>
+-<td>1s 9d a 2s 8d</td>
+ </tr>
+ <tr>
+-<td><b>ARROWROOT</b> (Natal) lb.</td>
++<td>ARROWROOT (Natal) lb.</td>
+ <td>Fair to fine</td>
++<td>..</td>
+ <td>8d a 9d</td>
+-<td>Java</td>
+-<td>Good to fine red</td>
+-<td>2s 9d a 3s 3d</td>
+ </tr>
+ <tr>
+-<td><b>BEES' WAX,</b> cwt.</td>
++<td>BEES' WAX, cwt.</td>
++<td></td>
+ <td></td>
+ <td></td>
+-<td>Penang</td>
+-<td>Low white to prime red</td>
+-<td>1s 1d a 2s</td>
+ </tr>
+ <tr>
+-<td>Zanzibar Yellow ,,</td>
++<td>Zanzibar Yellow "</td>
+ <td>Slightly drossy to fair</td>
++<td>..</td>
+ <td>£6 17s 6d a £7</td>
+-<td>Mozambique</td>
+-<td>Fair to fine red ball</td>
+-<td>3s 6d a 4s</td>
+ </tr>
+ <tr>
+-<td>East Indian, bleached ,,</td>
++<td>East Indian, bleached "</td>
+ <td>Fair to good</td>
+-<td>£8 a £8 5s</td>
+ <td></td>
+-<td>Sausage, fair to good</td>
+-<td>3s 5d a 3s 11d</td>
++<td>£8 a £8 5s</td>
+ </tr>
+ <tr>
+-<td>,, unbleached ,,</td>
++<td>" unbleached "</td>
+ <td>Dark to good genuine</td>
++<td>..</td>
+ <td>£6 a £8 15s</td>
+-<td>Nyassaland</td>
+-<td>Fair to fine ball</td>
+-<td>3s a 3s 6d</td>
+ </tr>
+ <tr>
+-<td>Madagascar ,,</td>
++<td>Madagascar "</td>
+ <td>Dark to good palish</td>
+-<td>£6 15s a £7 2s 6d</td>
+-<td>Madagascar</td>
+-<td>Fr to fine pinky &amp; white</td>
+-<td>2s 6d a 2s 9d</td>
++<td></td>
++<td>£6 15s a £7 2s</td>
+ </tr>
+ <tr>
+-<td><b>CAMPHOR,</b> Japan ,,</td>
++<td>CAMPHOR, Japan "</td>
+ <td>Refined</td>
+-<td>1s 5<math>\frac{3}{4}</math>d a 1s 8d</td>
+ <td></td>
+-<td>Majunga &amp; blk coated</td>
+-<td>1s 10d a 2s 4d</td>
++<td>1s 5<math>\frac{3}{4}</math>d a 1s 8d</td>
+ </tr>
+ <tr>
+-<td>China ,,</td>
++<td>China "</td>
+ <td>Fair average quality</td>
++<td>...</td>
+ <td>167s 6d</td>
+-<td></td>
+-<td>Niggers, low to good</td>
+-<td>6d a 2s 9d</td>
+ </tr>
+ <tr>
+-<td><b>CARDAMOMS,</b> Tumericin</td>
++<td>CARDAMOMS, Tumericin</td>
+ <td>Good to fine bold</td>
++<td></td>
+ <td>5s 2d a 5s 8d</td>
+-<td>New Guinea</td>
+-<td>Ordinary to fine ball</td>
+-<td>2s 3d a 2s 9d</td>
+ </tr>
+ <tr>
+ <td>Malabar, Tellicherry</td>
+ <td>Middling lean</td>
++<td></td>
+ <td>4s 6d a 4s 11d</td>
+-<td><b>INDIGO,</b> E.I. Bengal</td>
+-<td>Shipping mid to gd violet</td>
+-<td>3s a 3s 6d</td>
+ </tr>
+ <tr>
+ <td>Calicut</td>
+ <td>Good to fine bold</td>
++<td>..</td>
+ <td>5s 1d a 5s 7d</td>
+-<td></td>
+-<td>Consuming mid. to gd.</td>
+-<td>2s 3d a 2s 10d</td>
+ </tr>
+ <tr>
+-<td>Mangalore ,,</td>
++<td>Mangalore "</td>
+ <td>Brownish</td>
++<td>..</td>
+ <td>4s 6d a 4s 11d</td>
+-<td></td>
+-<td>Ordinary to middling</td>
+-<td>2s a 2s 2d</td>
+ </tr>
+ <tr>
+-<td>Ceylon, Mysore ,,</td>
++<td>Ceylon, Mysore ,</td>
+ <td>Med brown to fair bold</td>
+-<td>4s 9d a 6s</td>
+ <td></td>
+-<td>Mid. to good Kurpah</td>
+-<td>1s 10d a 2s 5d</td>
++<td>4s 9d a 6s</td>
+ </tr>
+ <tr>
+-<td>Malabar ,,</td>
++<td>Malabar ..</td>
+ <td>Small fair to fine plump</td>
+-<td>4s 3d a 6s</td>
+ <td></td>
+-<td>Low to ordinary</td>
+-<td>1s 6d a 1s 9d</td>
++<td>4s 3d a 6s</td>
+ </tr>
+ <tr>
+-<td>Seeds, E. I. &amp; Ceylon ,,</td>
++<td>Seeds, E. I. &amp; Ceylon "</td>
+ <td>Fair to good</td>
++<td>...</td>
+ <td>3s 7d a 3s 10d</td>
+-<td></td>
+-<td>Mid. to fine Madras</td>
+-<td>None here</td>
+ </tr>
+ <tr>
+-<td>Ceylon Long Wild ,,</td>
++<td>Ceylon Long Wild "</td>
+ <td>Fair to good</td>
++<td>..</td>
+ <td>4s 6d a 4s 9d</td>
+-<td><b>MACE,</b> Bombay &amp; Penang</td>
+-<td>Pale reddish to fine</td>
+-<td>2s 6d a 2s 8d</td>
+ </tr>
+ <tr>
+-<td><b>CASTOR OIL,</b> Calcutta ,,</td>
++<td>CASTOR OIL, Calcutta,,</td>
+ <td>Shelly to good</td>
++<td>..</td>
+ <td>1s 2d a 3s 2d</td>
+-<td>per lb.</td>
+-<td>Ordinary to fair</td>
+-<td>2s 2d a 2s 4d</td>
+ </tr>
+ <tr>
+-<td><b>CHILLIES,</b> Zanzibar cwt.</td>
++<td>CHILLIES, Zanzibar cwt.</td>
+ <td>Good 2nds</td>
++<td>.</td>
+ <td>3<math>\frac{5}{8}</math>d</td>
+-<td>Java</td>
+-<td>Wild ,, good pale</td>
+-<td>2s 4d a 2s 8d</td>
+ </tr>
+ <tr>
+-<td>Japan ,,</td>
++<td>Japan "</td>
+ <td>Dull to fine bright</td>
++<td>...</td>
+ <td>40s a 45s</td>
+-<td>Bombay</td>
+-<td></td>
+-<td>7d a 8d</td>
+ </tr>
+ <tr>
+-<td><b>CINCHONA BARK.</b>—lb.</td>
++<td>CINCHONA BARK.—lb.</td>
+ <td>Fair bright small</td>
++<td>..</td>
+ <td>30s a 32s 6d</td>
+-<td><b>NUTMEGS</b>— ib.</td>
+-<td>64's to 57's</td>
+-<td>10d a 1s</td>
+ </tr>
+ <tr>
+ <td>Ceylon</td>
+ <td>Crown, Renewed</td>
++<td></td>
+ <td>3<math>\frac{5}{8}</math>d a 7d</td>
+-<td>Singapore &amp; Penang ,,</td>
+-<td>80's</td>
+-<td>7<math>\frac{1}{2}</math>d</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td>Org. Stem</td>
+-<td>2d a 6d</td>
+ <td></td>
+-<td>110's</td>
+-<td>5<math>\frac{1}{2}</math>d</td>
++<td>2d a 6d</td>
+ </tr>
+-</tbody>
+-</table>
+-
+-<table border="1">
+-<tbody>
+ <tr>
+-<td rowspan="5">CINNAMON, Ceylon<br/>per lb.</td>
+-<td>1sts</td>
+-<td>Red</td>
+-<td>Org. Stem</td>
++<td></td>
++<td>Red Org. Stem</td>
++<td></td>
+ <td>1<math>\frac{3}{4}</math>d a 4<math>\frac{1}{4}</math>d</td>
+-<td rowspan="5">NUTS, ARECA cwt.<br/>NUX VOMICA, Cochin<br/>per cwt. Bengal<br/>Madras</td>
+-<td rowspan="5">160's to 115's<br/>Ordinary to fair fresh<br/>Ordinary to good<br/>" "<br/>" "<br/>" "</td>
+-<td rowspan="5">0<math>\frac{2}{3}</math>d<br/>5<math>\frac{1}{2}</math>d<br/>14s a 15s<br/>9s 6d a 12s 6d<br/>9s<br/>9s a 10s<br/>6s 11d<br/>3s 7d a 3s 9d<br/>4d<br/>1<math>\frac{1}{2}</math>d a 1<math>\frac{3}{4}</math>d<br/>2<math>\frac{1}{8}</math>d a 1s 5d<br/>1s 6d</td>
+ </tr>
+ <tr>
+-<td>2nds</td>
+ <td></td>
+ <td>Renewed</td>
++<td></td>
+ <td>3d a 5<math>\frac{1}{4}</math>d</td>
+ </tr>
+ <tr>
+-<td>3rds</td>
+ <td></td>
+ <td>Root</td>
++<td></td>
+ <td>1<math>\frac{7}{8}</math>d a 4d</td>
+ </tr>
+ <tr>
+-<td>4ths</td>
+-<td></td>
++<td>CINNAMON, Ceylon 1sts</td>
+ <td>Good to fine quill</td>
++<td></td>
+ <td>1s 3d a 1s 7d</td>
+ </tr>
+ <tr>
+-<td>Chips, &amp;c..</td>
+-<td></td>
++<td>per lb, 2nds</td>
+ <td>" "</td>
++<td></td>
+ <td>1s 4d a 1s 6d</td>
+ </tr>
+ <tr>
+-<td rowspan="5">CLOVES, Penang<br/>lb.</td>
+-<td>lb.</td>
+-<td>Fair to fine bold</td>
++<td>3rds</td>
++<td>" "</td>
+ <td></td>
+ <td>1s a 1s 5d</td>
+-<td rowspan="5">OIL OF ANISEED " "<br/>CASSIA " "<br/>LEMONGRASS " "<br/>NUTMEG " "<br/>CINNAMON " "<br/>CITRONELLE " "<br/>ORCHELLA WEED—cwt</td>
+-<td rowspan="5">Fair merchantable<br/>According to analysis<br/>Good flavour &amp; colour<br/>Dingy to white<br/>Ordinary to fair sweet<br/>Bright &amp; good flavour</td>
+-<td rowspan="5"></td>
+ </tr>
+ <tr>
+-<td></td>
+-<td>Dull to fine bright pkd.</td>
++<td>4ths</td>
++<td>" "</td>
+ <td></td>
+ <td>1s a 1s 4d</td>
+ </tr>
+ <tr>
+-<td></td>
+-<td>Dull to fine</td>
++<td>Chips, &amp;c..</td>
++<td>Fair to fine bold</td>
+ <td></td>
+ <td>1d a 4d</td>
+ </tr>
+ <tr>
+-<td>Amboyna ..</td>
+-<td></td>
++<td>CLOVES, Penang lb.</td>
++<td>Dull to fine bright pkd.</td>
+ <td></td>
+ <td>1s a 1s 2d</td>
+ </tr>
+ <tr>
+-<td>Ceylon ..</td>
+-<td></td>
++<td>Amboyna ..</td>
++<td>Dull to fine</td>
+ <td></td>
+ <td>9d a 10d</td>
+ </tr>
+ <tr>
+-<td rowspan="3">COFFEE<br/>Ceylon Plantation cwt.</td>
++<td>Ceylon ..</td>
++<td>" "</td>
++<td></td>
++<td>8<math>\frac{1}{2}</math>d a 9d</td>
++</tr>
++<tr>
+ <td>Zanzibar</td>
+ <td>Fair and fine bright</td>
+ <td></td>
+-<td>8<math>\frac{1}{2}</math>d a 9d</td>
+-<td rowspan="3">Ceylon " "<br/>Madagascar " "<br/>Zanzibar " "</td>
+-<td rowspan="3">Fair " "<br/>Fair " "<br/>Fair " "</td>
+-<td rowspan="3">10s Nom.<br/>10s " "<br/>10s " "</td>
++<td>9<math>\frac{3}{4}</math>d a 10d</td>
+ </tr>
+ <tr>
+ <td>Stems ..</td>
+ <td>Fair</td>
+ <td></td>
+-<td>9<math>\frac{3}{4}</math>d a 10d</td>
++<td>3<math>\frac{1}{4}</math>d</td>
++</tr>
++</tbody>
++</table>
++
++**COFFEE**
++
++Ceylon Plantation cwt.
++
++Native
++
++Liberian
++
++COCO, Ceylon Plant. ,,
++
++Native Estate ,,
++
++Java and Celebes ,,
++
++COLOMBO ROOT ,,
++
++CROTON SEEDS, sift. cwt.
++
++CUBEBS ,,
++
++GINGER, Bengal, rough ,,
++
++Calicut, Cut A ,,
++
++B & C ,,
++
++Cochin Rough ,,
++
++Japan ,,
++
++GUM AMMONIACUM ,,
++
++ANIMI, Zanzibar
++
++Madagascar ,,
++
++ARABIC E. I. & Aden ,,
++
++Turkey sorts ,,
++
++Ghatti ,,
++
++Kurrachee ,,
++
++Madras ,,
++
++ASSAF OETIDA ,,
++
++KINO
++
++MYRRH, Aden sorts cwt
++
++Somali ,,
++
++OLIBANUM, drop ,,
++
++pickings ,,
++
++siftings ,,
++
++INDIA RUBBER lb.
++
++Ceylon, Straits,
++
++Malay Straits, etc.
++
++Assam
++
++Rangoon
++
++Medium to bold
++
++Good ordinary
++
++Fair to bold
++
++Special Marks
++
++Red to good
++
++Ordinary to red
++
++Small to good red
++
++Middling to good
++
++Dull to fair
++
++Ord. stalky to good
++
++Fair
++
++Small to fine bold
++
++Small and medium
++
++Common to fine bold
++
++Small and D's
++
++Unsplit
++
++Ord. blocky to fair clean
++
++Pale and amber, str. srts
++
++'' '' little red
++
++Bean and Pea size ditto
++
++Fair to good red sorts
++
++Med. & bold glassy sorts
++
++Fair to good palish ...
++
++'' '' red ...
++
++Ordinary to good pale
++
++Sorts to fine pale ...
++
++Reddish to good pale ...
++
++Dark to fine pale ...
++
++Clean fr. to gd. almonds
++
++com. stony to good block
++
++Fair to fine bright
++
++Middling to good
++
++'' '' white
++
++Middling to fair
++
++Low to good pale
++
++Slightly foul to fine
++
++Fine Para bis. & sheets
++
++'' Ceara
++
++Crepe ordinary to fine..
++
++Fine Block ..
++
++Scrap fair to fine ..
++
++Plantation ..
++
++Fair II to ord. red No. 1
++
++'' '' ''
++
++Nominal
++
++Nominal
++
++82s 6d a 90s
++
++77s a 90s
++
++72s a 76s 6d
++
++42s a 70s
++
++25s a 82s 6d
++
++12s a 19s
++
++65s a 70s
++
++150s a 170s
++
++30s nom.
++
++75s a 80s
++
++52s a 70s
++
++31s a 36s
++
++30s
++
++25s
++
++40s a 72s 6d
++
++£12 10s a £14
++
++£11 a £12
++
++75s a £9 12s 6d
++
++£7 a £10
++
++£5 a £8
++
++£4 a £8 15s
++
++£4 a £7 10s
++
++33s a 37s
++
++32s a 65s 6d
++
++25s a 35s n
++
++25s a 30s
++
++25s a 30s
++
++£10 a £12
++
++50s a £9
++
++6d a 1s 5d
++
++50s a 60s
++
++45s a 47s 6d
++
++45s a 50s
++
++35s a 40s
++
++12s 6d a 27s 6d
++
++20s a 22s 6d
++
++4s 6d
++
++4s 4d
++
++4s 6d a 4 7½d
++
++4s 7½d
++
++3s 6d a 3s 10d
++
++3s 10d
++
++3s 2d a 3s 6d
++
++2s a 2s 11d
++
++**INDIARUBBER.(Contd.)**
++
++Borneo  
++Java  
++Penang  
++Mozambique
++
++Nyassaland  
++Madagascar
++
++New Guinea
++
++**INDIGO, E.I. Bengal**
++
++**MACE, Bombay & Penang**  
++per lb.
++
++Java  
++Bombay
++
++**NUTMEGS—** ib.  
++Singapore & Penang ,,
++
++**NUTS, ARECA** cwt.  
++**NUX VOMICA, Cochin**  
++per cwt. Bengal  
++Madras
++
++**OIL OF ANISEED** ,,  
++**CASSIA** ,,  
++**LEMONGRASS** ,,  
++**NUTMEG** ,,  
++**CINNAMON** ,,  
++**CITRONELLE** ,,
++
++**ORCHELLA WEED—cwt**  
++Ceylon ,,  
++Madagascar ,,  
++Zanzibar ,,
++
++**PEPPER—(Black)** lb.  
++Alleppy & Tellicherry Fair  
++Ceylon ,, ,, to fine bold heavy ..  
++Singapore ,, Fair ..  
++Acheen & W. C. Penang Dull to fine ..  
++(White) Singapore Fair to fine ..  
++Siam Fair ..  
++Penang Fair ..  
++Muntok Fair ..
++
++**RHUBARB, Shenzi** ..  
++Canton ..  
++High Dried..
++
++**SAGO, Pearl, large** ..  
++medium ..
++
++<table border="0">
++<tr>
++<td>Common to good</td>
++<td>1s 9d a 2s 8d</td>
++</tr>
++<tr>
++<td>Good to fine red ..</td>
++<td>2s 9d a 3s 3d</td>
++</tr>
++<tr>
++<td>Low white to prime red</td>
++<td>1s 1d a 2s</td>
++</tr>
++<tr>
++<td>Fair to fine red ball ...</td>
++<td>3s 6d a 4s</td>
++</tr>
++<tr>
++<td>Sausage, fair to good ..</td>
++<td>3s 5d a 3s 11d</td>
++</tr>
++<tr>
++<td>Fair to fine ball ...</td>
++<td>3s a 3s 6d</td>
++</tr>
++<tr>
++<td>Fr to fine pinky &amp; white</td>
++<td>2s 6d a 2s 9d</td>
++</tr>
++<tr>
++<td>Majunga &amp; blk coated ..</td>
++<td>1s 10d a 2s 4d</td>
++</tr>
++<tr>
++<td>Niggers, low to good ..</td>
++<td>6d a 2s 9d</td>
++</tr>
++<tr>
++<td>Ordinary to fine ball ..</td>
++<td>2s 3d a 2s 9d</td>
++</tr>
++<tr>
++<td>Shipping mid to gd violet</td>
++<td>3s a 3s 6d</td>
++</tr>
++<tr>
++<td>Consuming mid. to gd.</td>
++<td>2s 3d a 2s 10d</td>
++</tr>
++<tr>
++<td>Ordinary to middling</td>
++<td>2s a 2s 2d</td>
++</tr>
++<tr>
++<td>Mid. to good Kurpah</td>
++<td>1s 10d a 2s 5d</td>
++</tr>
++<tr>
++<td>Low to ordinary</td>
++<td>1s 6d a 1s 9d</td>
++</tr>
++<tr>
++<td>Mid. to fine Madras</td>
++<td>None here</td>
++</tr>
++<tr>
++<td>Pale reddish to fine</td>
++<td>2s 6d a 2s 8d</td>
++</tr>
++<tr>
++<td>Ordinary to fair</td>
++<td>2s 2d a 2s 4d</td>
++</tr>
++<tr>
++<td>,, ,, good pale</td>
++<td>2s 4d a 2s 8d</td>
++</tr>
++<tr>
++<td>Wild</td>
++<td>7d a 8d</td>
++</tr>
++<tr>
++<td>64's to 57's</td>
++<td>10d a 1s</td>
++</tr>
++<tr>
++<td>80's</td>
++<td>7½d</td>
++</tr>
++<tr>
++<td>110's</td>
++<td>6½d</td>
++</tr>
++<tr>
++<td>160's to 115's</td>
++<td>5½d</td>
++</tr>
++<tr>
++<td>Ordinary to fair fresh</td>
++<td>14s a 15s</td>
++</tr>
++<tr>
++<td>Ordinary to good</td>
++<td>9s 6d a 12s 6d</td>
++</tr>
++<tr>
++<td>,, ,,</td>
++<td>9s</td>
++</tr>
++<tr>
++<td>,, ,,</td>
++<td>9s a 10s</td>
++</tr>
++<tr>
++<td>Fair merchantable</td>
++<td>6s 11d</td>
++</tr>
++<tr>
++<td>According to analysis</td>
++<td>3s 7d a 3s 9d</td>
++</tr>
++<tr>
++<td>Good flavour &amp; colour</td>
++<td>4d</td>
++</tr>
++<tr>
++<td>Dingy to white</td>
++<td>1½d a 1¾d</td>
++</tr>
++<tr>
++<td>Ordinary to fair sweet</td>
++<td>2½d a 1s 5d</td>
++</tr>
++<tr>
++<td>Bright &amp; good flavour</td>
++<td>1s 6d</td>
++</tr>
++<tr>
++<td>Fair</td>
++<td>10s Nom.</td>
++</tr>
++<tr>
++<td>Fair</td>
++<td>10s ,,</td>
++</tr>
++<tr>
++<td>Fair</td>
++<td>10s ,,</td>
++</tr>
++<tr>
++<td>Fair</td>
++<td>5½d</td>
++</tr>
++<tr>
++<td>to fine bold heavy ..</td>
++<td>5½d a 5½d</td>
++</tr>
++<tr>
++<td>Fair .. ..</td>
++<td>5½d</td>
++</tr>
++<tr>
++<td>Dull to fine ..</td>
++<td>5½d a 5½d</td>
++</tr>
++<tr>
++<td>Fair to fine ..</td>
++<td>8¼d a 9d</td>
++</tr>
++<tr>
++<td>Fair .. ..</td>
++<td>8½d</td>
++</tr>
++<tr>
++<td>Fair .. ..</td>
++<td>8d</td>
++</tr>
++<tr>
++<td>Fair .. ..</td>
++<td>9½d</td>
++</tr>
++<tr>
++<td>Ordinary to good ..</td>
++<td>1s 11d a 3s 3d</td>
++</tr>
++<tr>
++<td>Ordinary to good ..</td>
++<td>1s 8d a 2s 2d</td>
++</tr>
++<tr>
++<td>Fair to fine flat ..</td>
++<td>1s a 1s 3d</td>
++</tr>
++<tr>
++<td>Dark to fair round ..</td>
++<td>10d a 1s</td>
++</tr>
++<tr>
++<td>Fair to fine ..</td>
++<td>18s a 19s</td>
++</tr>
++<tr>
++<td>,, ,,</td>
++<td>17s a 18s 6d</td>
++</tr>
++</table>
++
++<table border="1">
++<tbody>
++<tr>
++<td>5s</td>
++<td>Flour</td>
++<td>small</td>
++<td>...</td>
++<td>"</td>
++<td>Good pinky to white</td>
++<td>...</td>
++<td>15s a 16s</td>
+ </tr>
+ <tr>
+ <td></td>
++<td>SEEDLAC</td>
++<td>cwt.</td>
++<td>..</td>
++<td>"</td>
++<td>Ordinary to gd. soluble</td>
++<td>...</td>
++<td>12s a 14s.</td>
++</tr>
++<tr>
+ <td></td>
++<td>SENNA, Tinnevelly</td>
++<td>lb.</td>
+ <td></td>
+-<td>3<math>\frac{1}{4}</math>d</td>
++<td>"</td>
++<td>Good to fine bold green</td>
++<td>...</td>
++<td>55s a 65s</td>
++</tr>
++<tr>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td>"</td>
++<td>Fair greenish</td>
++<td>...</td>
++<td>5d a 8½d</td>
++</tr>
++<tr>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td>"</td>
++<td>Commonspecky and small</td>
++<td>...</td>
++<td>3d a 4½d</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+-<td>Medium to bold</td>
+ <td></td>
+-<td>Nominal</td>
++<td></td>
++<td>"</td>
++<td></td>
++<td>...</td>
++<td>1¼d a 2¾d</td>
++</tr>
++<tr>
++<td></td>
++<td>SHELLS, M. o'PEARL—</td>
++<td></td>
++<td></td>
++<td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
++<tr>
++<td></td>
++<td>Egyptian</td>
++<td>cwt.</td>
++<td></td>
++<td></td>
++<td>Small to bold</td>
++<td>...</td>
++<td>90s a £10 15s</td>
++</tr>
++<tr>
++<td></td>
++<td>Bombay</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>" "</td>
++<td>...</td>
++<td>90s a £10 7s 6d</td>
++</tr>
++<tr>
++<td></td>
++<td>Mergui</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Unsorted</td>
++<td>...</td>
++<td>£9</td>
++</tr>
++<tr>
++<td>om.</td>
++<td>Manilla</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Fair to good</td>
++<td>...</td>
++<td>£11 10s a £14 17/6</td>
++</tr>
++<tr>
++<td>"</td>
++<td>Banda</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Sorts</td>
++<td>...</td>
++<td>80s a 85s</td>
++</tr>
++<tr>
++<td>"</td>
++<td>Green Snail,</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Small to large</td>
++<td>...</td>
++<td>60s a 82s 6d</td>
++</tr>
++<tr>
++<td></td>
++<td>Japan Ear</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Trimmed selected small</td>
++<td>...</td>
++<td></td>
++</tr>
++<tr>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td>to bold</td>
++<td>...</td>
++<td>65s a £11</td>
++</tr>
++<tr>
++<td></td>
++<td>TAMARINDS, Calcutta...</td>
++<td></td>
++<td></td>
++<td></td>
++<td>Mid. to fine bl'k not stony</td>
++<td>...</td>
++<td>9s a 12s</td>
++</tr>
++<tr>
++<td></td>
++<td>per cwt. Madras</td>
++<td></td>
++<td></td>
++<td></td>
++<td>Stony and inferior</td>
++<td>..</td>
++<td>4s a 5s</td>
++</tr>
++<tr>
++<td></td>
++<td>TORTOISE SHELL—</td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++</tr>
++<tr>
++<td></td>
++<td>Zanzibar, &amp; Bombay</td>
++<td>lb.</td>
++<td></td>
++<td></td>
++<td>Small to bold</td>
++<td>..</td>
++<td>11s 6d a 25s</td>
++</tr>
++<tr>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td>Pickings</td>
++<td>..</td>
++<td>14s a 19s</td>
++</tr>
++<tr>
++<td></td>
++<td>TURMERIC, Bengal</td>
++<td>cwt.</td>
++<td></td>
++<td></td>
++<td>Fair</td>
++<td>..</td>
++<td>22s nom</td>
++</tr>
++<tr>
++<td></td>
++<td>Madras</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Finger fair to fine bold</td>
++<td>..</td>
++<td>22s a 24s</td>
++</tr>
++<tr>
++<td></td>
++<td>Do.</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Bulbs [bright]</td>
++<td>..</td>
++<td>18s a 20s</td>
++</tr>
++<tr>
++<td></td>
++<td>Cochin</td>
++<td>"</td>
++<td></td>
++<td></td>
++<td>Finger fair</td>
++<td>..</td>
++<td>21s</td>
++</tr>
++<tr>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++<td>Bulbs</td>
++<td>..</td>
++<td>13s</td>
++</tr>
++<tr>
++<td></td>
++<td>VANILLOES—</td>
++<td></td>
++<td>lb.</td>
++<td></td>
++<td></td>
++<td></td>
++<td></td>
++</tr>
++<tr>
++<td></td>
++<td>Mauritius</td>
++<td>...</td>
++<td></td>
++<td>1sts</td>
++<td>Gd crystallized 3½ a 8½in</td>
++<td>..</td>
++<td>11s 6d a 18s</td>
++</tr>
++<tr>
++<td></td>
++<td>Madagascar</td>
++<td>...</td>
++<td></td>
++<td>2nds</td>
++<td>Foxy &amp; reddish 3½ a</td>
++<td>..</td>
++<td>11s a 14s 6d</td>
++</tr>
++<tr>
++<td></td>
++<td>Seychelles</td>
++<td>...</td>
++<td></td>
++<td>3rds</td>
++<td>Lean and inferior</td>
++<td>..</td>
++<td>10s a 11s</td>
++</tr>
++<tr>
++<td></td>
++<td>VERMILLION</td>
++<td>..</td>
++<td></td>
++<td></td>
++<td>Fine, pure, bright</td>
++<td>..</td>
++<td>2s 11d</td>
++</tr>
++<tr>
++<td></td>
++<td>WAX, Japan, squares</td>
++<td></td>
++<td></td>
++<td></td>
++<td>Good white hard</td>
++<td>..</td>
++<td>46s</td>
++</tr>
+ </tbody>
+ </table>
+ 
+-Native Liberian  
+-**COCOA, Ceylon Plant.** ,,  
+- Native Estate ,,  
+- Java and Celebes ,,  
+-**COLOMBO ROOT** ,,  
+-**CROTON SEEDS**, sift. cwt.  
+-**CUBEBS** ,,  
+-**GINGER**, Bengal, rough,,  
+- Calicut, Cut A ,,  
+- B & C ,,  
+- Cochin Rough ,,  
+- Japan ,,  
+-**GUM AMMONIACUM** ,,  
+-**ANIMI**, Zanzibar  
+- Madagascar ,,  
+-**ARABIC E. I. & Aden** ,,  
+- Turkey sorts ,,  
+- Ghatti ,,  
+- Kurrachee ,,  
+- Madras ,,  
+-**ASSAFFETIDA** ,,  
+-**KINO**  
+-**MYRRH**, Aden sorts cwt  
+- Somali ,,  
+-**OLIBANUM**, drop ,,  
+- pickings ,,  
+- siftings ,,  
+-**INDIA RUBBER** lb.  
+- Ceylon, Straits,  
+- Malay Straits, etc.  
+- Assam  
+- Rangoon
+-
+-Good ordinary  
+- Fair to bold  
+- Special Marks  
+- Red to good  
+- Ordinary to red  
+- Small to good red  
+- Middling to good  
+- Dull to fair  
+- Ord. stalky to good  
+- Fair  
+- Small to fine bold  
+- Small and medium  
+- Common to fine bold  
+- Small and D's  
+- Unsplit  
+- Ord. blocky to fair clean  
+- Pale and amber, str. srts  
+- ,, ,, little red  
+- Bean and Pea size ditto  
+- Fair to good red sorts  
+- Med. & bold glassy sorts  
+- Fair to good palish ...  
+- ,, ,, red ...  
+- Ordinary to good pale  
+- Sorts to fine pale ...  
+- Reddish to good pale ...  
+- Dark to fine pale ...  
+- Clean fr. to gd. almonds  
+- com. stony to good block  
+- Fair to fine bright  
+- Middling to good  
+- ,, ,, white  
+- Middling to fair  
+- Low to good pale  
+- Slightly foul to fine  
+- Fine Para bis. & sheets  
+- ,, Ceara  
+- Crepe ordinary to fine..  
+- Fine Block ..  
+- Scrap fair to fine ..  
+- Plantation ..  
+- Fair 11 to ord. red No. 1  
+- ,, ,, ,,  
+- Nominal  
+- 82s 6d a 90s  
+- 77s a 90s  
+- 72s a 76s 6d  
+- 42s a 70s  
+- 25s a 82s 6d  
+- 12s a 19s  
+- 65s a 70s  
+- 150s a 170s  
+- 30s nom.  
+- 75s a 80s  
+- 52s a 70s  
+- 3s a 36s  
+- 30s  
+- 25s  
+- 40s a 72s 6d  
+- £12 10s a £14 5s  
+- £11 a £12  
+- 75s a £9 12s 6d  
+- £7 a £10  
+- £5 a £8  
+- £4 a £8 15s  
+- £4 a £7 10s  
+- 33s a 37s  
+- 32s a 65s 6d  
+- 25s a 35s nom.  
+- 25s a 30s ,,  
+- 25s a 30s ,,  
+- £10 a £12  
+- 50s a £9  
+- 6d a 1s 5d  
+- 50s a 60s  
+- 45s a 47s 6d  
+- 45s a 50s  
+- 35s a 40s  
+- 12s 6d a 27s 6d  
+- 20s a 22s 6d  
+- 4s 6d  
+- 4s 4d  
+- 4s 6d a 4 7½d  
+- 4s 7½d  
+- 3s 6d a 3s 10d  
+- 3s 10d  
+- 3s 2d a 3s 6d  
+- 2s a 2s 11d
+-
+-**PEPPER—(Black)** lb.  
+- Alleppy & Tellicherry  
+- Ceylon ,, ,,  
+- Singapore ,, ,,  
+- Acheen & W. C. Penang  
+- (White) Singapore ,,  
+- Siam ,,  
+- Penang ,,  
+- Muntok ,,  
+-**RHUBARB**, Shenzi ..  
+- Canton ..  
+- High Dried..  
+-**SAGO**, Pearl, large ...  
+- medium ..  
+- small ...  
+- Flour ..  
+-**SEEDLAC** cwt.  
+-**SENNA**, Tinnevelly lb.  
+-**SHELLS**, M. o'PEARL—  
+- Egyptian cwt.  
+- Bombay ,,  
+- Mergui ,,  
+- Manilla ,,  
+- Banda ,,  
+- Green Snail,,  
+- Japan Ear ,,  
+-**TAMARINDS**, Calcutta...  
+- per cwt. Madras  
+-**TORTOISESHELL**—  
+- Zanzibar, & Bombay lb.  
+-**TURMERIC**, Bengal cwt.  
+- Madras ,,  
+- Do. ,,  
+- Cochin ,,  
+-**VANILLOES**— lb.  
+- Mauritius ... } 1sts  
+- Madagascar ... } 2nds  
+- Seychelles ... } 3rds  
+-**VERMILLION** ..  
+-**WAX**, Japan, squares
+-
+-10s ,,  
+- Fair ... 5½d  
+- ,, to fine bold heavy .. 5½d a 5½d  
+- Fair ... .. 5½d  
+- Dull to fine .. .. 5½d a 5½d  
+- Fair to fine .. .. 8¼d a 9d  
+- Fair .. .. 8½d  
+- Fair .. .. 8d  
+- Fair .. .. 9½d  
+- Ordinary to good .. 1s 11d a 3s 3d  
+- Ordinary to good .. 1s 8d a 2s 2d  
+- Fair to fine flat ... 1s a 1s 3d  
+- Dark to fair round .. 10d a 1s  
+- Fair to fine .. .. 18s a 19s  
+- ,, ,, .. 17s a 18s 6d  
+- ,, ,, .. 15s a 16s  
+- Good pinky to white ... 12s a 14s.  
+- Ordinary to gd. soluble 55s a 65s  
+- Good to fine bold green 5d a 8½d  
+- Fair greenish 3d a 4½d  
+- Commonspecky and small 1¼d a 2¾d  
+- Small to bold ... 90s a £10 15s  
+- ,, ,, .. 90s a £10 7s 6d  
+- Unsorted .. £9  
+- Fair to good £ 11 10s a £14 17/6  
+- Sorts .. 80s a 85s  
+- Small to large .. 60s a 82s 6d  
+- Trimmed selected small  
+- to bold 65s a £11  
+- Mid. to fine bl'k not stony 9s a 12s  
+- Stony and inferior .. 4s a 5s  
+- Small to bold .. 11s 6d a 25s  
+- Pickings .. 14s a 19s  
+- Fair .. 22s nom  
+- Finger fair to fine bold 22s a 24s  
+- Bulbs [bright 18s a 20s  
+- Finger fair .. 21s  
+- Bulbs .. 13s  
+- Gd crystallized 3½ a 8½in 11s 6d a 18s  
+- Foxy & reddish 3½ a ,, 11s a 14s 6d  
+- Lean and inferior ... 10s a 11s  
+- Fine, pure, bright ... 2s 11d  
+- Good white hard ... 46s
+-
+ 
+ 160------------------------------------------------
+ 

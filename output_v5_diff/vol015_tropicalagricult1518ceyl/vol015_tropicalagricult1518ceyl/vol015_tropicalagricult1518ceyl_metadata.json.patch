@@ -1,0 +1,182 @@
+--- output_v5/vol015_tropicalagricult1518ceyl/vol015_tropicalagricult1518ceyl/vol015_tropicalagricult1518ceyl_metadata.json	2026-10-03 08:30:32.569559006 -0600
++++ output_v6/vol015_tropicalagricult1518ceyl/vol015_tropicalagricult1518ceyl/vol015_tropicalagricult1518ceyl_metadata.json	2026-10-04 12:07:22.846123946 -0600
+@@ -1093,12 +1093,12 @@
+         1656,
+         2358
+       ],
+-      "token_count": 7821,
++      "token_count": 8574,
+       "num_chunks": 7,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_008:6+7+8"
++        "source": "vsplitV/V_002:195+196+197+198+199"
+       }
+     },
+     {
+@@ -1985,12 +1985,12 @@
+         1592,
+         2336
+       ],
+-      "token_count": 7745,
++      "token_count": 8386,
+       "num_chunks": 6,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_005:36+37"
++        "source": "vsplitV/V_002:175+176+177+178+179"
+       }
+     },
+     {
+@@ -2877,12 +2877,12 @@
+         1592,
+         2336
+       ],
+-      "token_count": 7662,
++      "token_count": 9553,
+       "num_chunks": 7,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_007:57+58+59"
++        "source": "vsplitV/V_002:180+181+182+183+184"
+       }
+     },
+     {
+@@ -4665,12 +4665,12 @@
+         1592,
+         2336
+       ],
+-      "token_count": 8366,
++      "token_count": 8540,
+       "num_chunks": 7,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_005:40+41"
++        "source": "vsplitV/V_002:185+186+187+188+189"
+       }
+     },
+     {
+@@ -5557,12 +5557,12 @@
+         1592,
+         2336
+       ],
+-      "token_count": 7765,
++      "token_count": 8169,
+       "num_chunks": 7,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_008:3+4+5"
++        "source": "vsplitV/V_002:190+191+192+193+194"
+       }
+     },
+     {
+@@ -11117,12 +11117,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 10074,
++      "token_count": 11588,
+       "num_chunks": 13,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_008:9+10+11"
++        "source": "vsplitV/V_002:200+201+202+203+204"
+       }
+     },
+     {
+@@ -12001,12 +12001,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 9868,
++      "token_count": 10550,
+       "num_chunks": 15,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_005:50+51"
++        "source": "vsplitV/V_002:210+211+212+213+214"
+       }
+     },
+     {
+@@ -12633,12 +12633,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 11308,
++      "token_count": 13394,
+       "num_chunks": 2,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_007:39+40+41"
++        "source": "vsplitV/V_002:150+151+152+153+154"
+       }
+     },
+     {
+@@ -12705,12 +12705,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 11188,
++      "token_count": 11091,
+       "num_chunks": 13,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabH/H_005:28+29"
++        "source": "vsplitV/V_002:155+156+157+158+159"
+       }
+     },
+     {
+@@ -12733,12 +12733,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 10879,
++      "token_count": 10919,
+       "num_chunks": 11,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_007:45+46+47"
++        "source": "vsplitV/V_002:160+161+162+163+164"
+       }
+     },
+     {
+@@ -13129,12 +13129,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 10691,
++      "token_count": 11479,
+       "num_chunks": 11,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_007:48+49+50"
++        "source": "vsplitV/V_002:165+166+167+168+169"
+       }
+     },
+     {
+@@ -13421,12 +13421,12 @@
+         1592,
+         2392
+       ],
+-      "token_count": 11726,
++      "token_count": 12388,
+       "num_chunks": 9,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_007:51+52+53"
++        "source": "vsplitV/V_002:170+171+172+173+174"
+       }
+     },
+     {

@@ -1,0 +1,32 @@
+--- output_v5/vol030_tropicalagricul301908ceyl/vol030_tropicalagricul301908ceyl/vol030_tropicalagricul301908ceyl_metadata.json	2026-10-03 08:30:34.356990684 -0600
++++ output_v6/vol030_tropicalagricul301908ceyl/vol030_tropicalagricul301908ceyl/vol030_tropicalagricul301908ceyl_metadata.json	2026-10-04 12:07:25.235577058 -0600
+@@ -6145,12 +6145,12 @@
+         1201,
+         1753
+       ],
+-      "token_count": 6787,
++      "token_count": 10831,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_016:21+22+23"
++        "source": "vsplitV/V_005:99+100+101+102+103"
+       }
+     },
+     {
+@@ -7469,12 +7469,12 @@
+         1201,
+         1753
+       ],
+-      "token_count": 6565,
++      "token_count": 7792,
+       "num_chunks": 5,
+       "num_images": 0,
+       "stage4": {
+         "action": "ACCEPT_TABLE",
+-        "source": "tabT/T_016:24+25+26"
++        "source": "vsplitV/V_005:104+105+106+107+108"
+       }
+     },
+     {

@@ -1,0 +1,4406 @@
+THE  
+**TROPICAL AGRICULTURIST:**  
+JOURNAL OF THE  
+**CEYLON AGRICULTURAL SOCIETY.**
+
+---
+
+VOL. XLVIII.
+
+PERADENIYA, APRIL, 1917.
+
+No. 4.
+
+---
+
+**COCONUT EXPERIMENTS.**
+
+---
+
+The importance of the coconut industries of various tropical colonies is fully recognised. Within the past few years there has been increasing attention given to this crop—the possibilities of which are constantly being referred to.
+
+In Ceylon, closer attention has been given to improved methods of cultivation and very considerable areas of land have, within the past five or six years, been opened up. This extension of coconut planting is likely to be continued after the War for all appear to be convinced of the soundness of the investment.
+
+All coconut growers in Ceylon appear to be satisfied that earlier and more satisfactory crops are to be obtained from young plantations if they are carefully handled from the time the plants are put out into the fields, and cultivators of older plantations testify to the advantages obtained by forking or regular ploughing and periodical disc-harrowing to keep down weeds and to preserve a dust mulch.
+
+The interest being taken in coconut cultivation generally throughout the Tropics, and the fact that in certain countries large areas are being controlled by important financial interests, has naturally led to a demand for scientific advice based upon actual experiment.
+
+How often is it asked—"What distance do you advise at which to plant coconuts?" Every country has a different answer to this question, but as yet no definite data are available on which a reliable answer can be based. There has been a tendency in recent years to increase the planting distances and in some countries it has been realized that planting on the quincunx means a better spacing of palms than when planting is carried out on the square. Without doubt, increasing the distance between palms results in heavier yields per palm, but the total crop per acre is often less than when somewhat closer planting is practised. In planting out coconuts, due consideration must be given to
+
+1------------------------------------------------
+
+210[APRIL, 1917.
+
+climatic and soil conditions and it should not be lost to view that light, almost pure, sandy soils often rapidly become depleted of their organic matter upon exposure to washing by heavy rains and the direct rays of tropical suns.
+
+Numerous queries on cultivation and manuring are likewise without solution, and the satisfactory handling of copra in damp localities still requires investigation.
+
+Very few scientifically planned experiments have been undertaken with coconuts. This is probably due to the difficulty that the crop presents. Comparatively large areas have to be dealt with. This involves irregularity of soil and introduces factors which make it extremely difficult to draw satisfactory deductions from the returns of the various plots. Again, little is known as to varieties of coconuts and the individuality of different palms is considerable.
+
+In manurial experiments with tropical products of a permanent nature, evidence is accumulating that plots should be laid out and the natural yields of different plots ascertained before they are brought under experimental treatment. Without preliminary data of this nature definite conclusions are likely to be impossible, and all experiments must be conducted over a sufficiently long period before deductions therefrom are attempted.
+
+In our present issue details are given of the yields of various experiments carried out with coconuts in this Colony. There is evidence that the value of ploughing and discing is being shown in some of these experiments but no definite statement on the results could be made at this stage, as control plots are not sufficient in number and the experiments have not been conducted for a sufficient length of time.
+
+These experiments are placed on record solely with a view to stimulating other coconut growers to conduct experimental plots upon their estates. There are many problems that require to be solved.
+
+Trials are also being made at Peradeniya Experiment Station with a small copra drier after the pattern of driers employed in Sumatra and similar in some respects to the cacao "boucans" of the West Indies. This has been erected purely as an experiment, and visits by coconut growers to this Station will be welcomed, in the hope that after further consultation an improved and inexpensive drier may be devised for drying copra satisfactorily in damp localities.
+
+2------------------------------------------------
+
+APRIL, 1917.]211
+
+# COCONUTS.
+
+## COCONUT EXPERIMENTS IN CEYLON.
+
+In the TROPICAL AGRICULTURIST for May, 1916, records were given of the results of yields for 1915 of the experiments conducted at Chilaw and Pitiakande Estates. The yields for 1916 are herewith tabulated with such comparisons with previous years as are considered desirable. The results of trials at the Dry Zone Experiment Station at Maha Iluppalama, at Negombo and in the Puttalam district are also given. These results were all discussed at the meeting of the Committee of Agricultural Experiments held at Peradeniya on March 8th when it was decided that, as the experiments had only been carried on for a short period, no attempt to draw conclusions therefrom was desirable, except in the case of Maha Iluppalama where it is obvious that the irrigated plots have given yields greatly in excess of those not irrigated and that in this dry area of the Colony planting coconuts without irrigation gives no promise of financial success.
+
+### CHILAW.
+
+#### Statement of Returns from Chilaw Coconut Experiment Plots.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Plot.</th>
+<th rowspan="2">No. of palms.</th>
+<th rowspan="2">Treatment.</th>
+<th colspan="2">1915.</th>
+<th colspan="2">1916.</th>
+<th rowspan="2">Increase or decrease per palm.</th>
+</tr>
+<tr>
+<th>Yields.</th>
+<th>Yield per palm.</th>
+<th>Yields.</th>
+<th>Yield per palm.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>47</td>
+<td>Clean weed: d</td>
+<td>1931</td>
+<td>41.1</td>
+<td>2677</td>
+<td>57.0</td>
+<td>+ 15.9</td>
+</tr>
+<tr>
+<td>2</td>
+<td>72</td>
+<td>Sulphate of Ammonia<br/>2½ lb. per palm, 1915<br/>Discharrowed monthly,<br/>1916</td>
+<td>2804</td>
+<td>38.9</td>
+<td>4810</td>
+<td>66.8</td>
+<td>+ 27.9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>89</td>
+<td>Ground nut cake 6 lb.<br/>per palm, 1915<br/>Crushed fish 6 lb. per<br/>palm, 1916</td>
+<td>3581</td>
+<td>40.2</td>
+<td>5014</td>
+<td>56.3</td>
+<td>+ 16.1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>Steamed bone meal<br/>8 lb. per palm</td>
+<td>4429</td>
+<td>54.7</td>
+<td>5800</td>
+<td>71.6</td>
+<td>+ 16.9</td>
+</tr>
+<tr>
+<td>5</td>
+<td>84</td>
+<td>Sulphate of Potash<br/>2¾ lb. per palm</td>
+<td>3542</td>
+<td>42.2</td>
+<td>5225</td>
+<td>62.2</td>
+<td>+ 20.0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>78</td>
+<td>Ammonium Sulphate<br/>4 lb. per palm</td>
+<td>3829</td>
+<td>49.0</td>
+<td>4074</td>
+<td>52.2</td>
+<td>+ 3.2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>92</td>
+<td>Mineral mixture 6 lb<br/>per palm</td>
+<td>3304</td>
+<td>35.9</td>
+<td>4714</td>
+<td>51.2</td>
+<td>+ 15.3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>68</td>
+<td>Lime 10 tons per acre</td>
+<td>2674</td>
+<td>39.3</td>
+<td>3306</td>
+<td>48.6</td>
+<td>+ 9.3</td>
+</tr>
+<tr>
+<td>9</td>
+<td>85</td>
+<td>Mixed manure 10 lb.<br/>per palm</td>
+<td>3383</td>
+<td>39.8</td>
+<td>4499</td>
+<td>52.9</td>
+<td>+ 13.1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>107</td>
+<td>Mulched with husks<br/>in 1915<br/>No treatment in 1916</td>
+<td>2933</td>
+<td>27.4</td>
+<td>4616</td>
+<td>43.1</td>
+<td>+ 15.7</td>
+</tr>
+<tr>
+<td>11</td>
+<td>100</td>
+<td>Mulched with husks in<br/>rings round palms</td>
+<td>2861</td>
+<td>28.6</td>
+<td>4286</td>
+<td>42.9</td>
+<td>+ 14.3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>101</td>
+<td>Ploughed and disced</td>
+<td>2936</td>
+<td>29.1</td>
+<td>4691</td>
+<td>46.4</td>
+<td>+ 17.3</td>
+</tr>
+<tr>
+<td>13</td>
+<td>99</td>
+<td>Ploughed and disced,<br/>mixed manure</td>
+<td>1859</td>
+<td>18.7</td>
+<td>3694</td>
+<td>37.3</td>
+<td>+ 18.6</td>
+</tr>
+<tr>
+<td>14</td>
+<td>46</td>
+<td>Dug with mamoty and<br/>mulched with leaves</td>
+<td>2338</td>
+<td>18.4</td>
+<td>2294</td>
+<td>50.0</td>
+<td>—</td>
+</tr>
+<tr>
+<td>15</td>
+<td>81</td>
+<td>Watered</td>
+<td></td>
+<td></td>
+<td>3087</td>
+<td>38.1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>16</td>
+<td>59</td>
+<td>No treatment (store etc.)</td>
+<td>2373</td>
+<td>40.2</td>
+<td>3222</td>
+<td>54.6</td>
+<td>+ 14.4</td>
+</tr>
+</tbody>
+</table>
+
+It is considered too early yet to draw any conclusions but the most noticeable increases in crops have taken place in plots 2, 5 and 13.
+
+3------------------------------------------------
+
+212[APRIL, 1917.
+
+### RAINFALL AT CHILAW.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Month</th>
+<th colspan="2">1914</th>
+<th colspan="2">1915</th>
+<th colspan="2">1916</th>
+</tr>
+<tr>
+<th>Fall</th>
+<th>No. of wet days</th>
+<th>Fall</th>
+<th>No. of wet days</th>
+<th>Fall</th>
+<th>No. of wet days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January</td>
+<td>1.13</td>
+<td>3</td>
+<td>5.95</td>
+<td>9</td>
+<td>.27</td>
+<td>1</td>
+</tr>
+<tr>
+<td>February</td>
+<td>.28</td>
+<td>2</td>
+<td>.60</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>March</td>
+<td>3.23</td>
+<td>6</td>
+<td>1.96</td>
+<td>5</td>
+<td>8.80</td>
+<td>8</td>
+</tr>
+<tr>
+<td>April</td>
+<td>5.30</td>
+<td>5</td>
+<td>7.10</td>
+<td>12</td>
+<td>6.56</td>
+<td>12</td>
+</tr>
+<tr>
+<td>May</td>
+<td>3.24</td>
+<td>8</td>
+<td>3.83</td>
+<td>6</td>
+<td>19.66</td>
+<td>10</td>
+</tr>
+<tr>
+<td>June</td>
+<td>4.07</td>
+<td>9</td>
+<td>3.13</td>
+<td>10</td>
+<td>5.82</td>
+<td>9</td>
+</tr>
+<tr>
+<td>July</td>
+<td>1.41</td>
+<td>2</td>
+<td>4.77</td>
+<td>12</td>
+<td>2.61</td>
+<td>9</td>
+</tr>
+<tr>
+<td>August</td>
+<td>Nil</td>
+<td>Nil</td>
+<td>Nil</td>
+<td>Nil</td>
+<td>3.67</td>
+<td>5</td>
+</tr>
+<tr>
+<td>September</td>
+<td>1.65</td>
+<td>6</td>
+<td>1.48</td>
+<td>5</td>
+<td>1.90</td>
+<td>8</td>
+</tr>
+<tr>
+<td>October</td>
+<td>14.29</td>
+<td>21</td>
+<td>2.38</td>
+<td>4</td>
+<td>3.08</td>
+<td>7</td>
+</tr>
+<tr>
+<td>November</td>
+<td>14.02</td>
+<td>10</td>
+<td>20.85</td>
+<td>18</td>
+<td>7.49</td>
+<td>14</td>
+</tr>
+<tr>
+<td>December</td>
+<td>11.39</td>
+<td>11</td>
+<td>1.28</td>
+<td>3</td>
+<td>4.83</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>60.01</td>
+<td>83</td>
+<td>53.33</td>
+<td>86</td>
+<td>64.69</td>
+<td>88</td>
+</tr>
+</tbody>
+</table>
+
+### PITIAKANDE COCONUT EXPERIMENTS.
+
+The yields of the experimental plots on Pitiakande Estate are shown in the following table:—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Plot.</th>
+<th rowspan="2">Treatment.</th>
+<th colspan="3">Nuts per tree.</th>
+</tr>
+<tr>
+<th>1914</th>
+<th>1915</th>
+<th>1916</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Estate mixture ...</td>
+<td>64</td>
+<td>103</td>
+<td>76</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Lime ...</td>
+<td>59</td>
+<td>96</td>
+<td>76</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ploughed twice yearly ...</td>
+<td>37</td>
+<td>68</td>
+<td>55</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Soil stirred monthly ...</td>
+<td>28</td>
+<td>54</td>
+<td>64</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Cattle tied ...</td>
+<td>44</td>
+<td>55</td>
+<td>71</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Control (in grass)...</td>
+<td>43</td>
+<td>48</td>
+<td>40</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Phosphoric acid omitted ...</td>
+<td>49</td>
+<td>59</td>
+<td>53</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Mineral mixture ...</td>
+<td>49</td>
+<td>55</td>
+<td>55</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Organic mixture ...</td>
+<td>30</td>
+<td>37</td>
+<td>37</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Control ...</td>
+<td>27</td>
+<td>34</td>
+<td>30</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Potash omitted ...</td>
+<td>53</td>
+<td>38</td>
+<td>37</td>
+</tr>
+</tbody>
+</table>
+
+### MAHA-ILUPPALAMA.
+
+The results up to September, 1913 have been given in Bulletin No. 7 of the Department of Agriculture but the following are the summaries of the records from planting up to December, 1916.
+
+**Table 1.**  
+**RECORDS OF COMING INTO BEARING.**
+
+<table>
+<thead>
+<tr>
+<th colspan="5"><i>Plot A.</i> Irrigated. Total No. of Trees. 1224.</th>
+</tr>
+<tr>
+<th></th>
+<th>Yielding.</th>
+<th>Bearing.</th>
+<th>Flowering.</th>
+<th>Total.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>June 1908 Planted</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>„ 1909 „</td>
+<td>nil</td>
+<td>nil</td>
+<td>nil</td>
+<td></td>
+</tr>
+<tr>
+<td>„ 1910 „</td>
+<td>nil</td>
+<td>nil</td>
+<td>nil</td>
+<td></td>
+</tr>
+<tr>
+<td>„ 1911 „</td>
+<td>nil</td>
+<td>nil</td>
+<td>10</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+4------------------------------------------------
+
+APRIL, 1917.]213
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Yielding.</th>
+<th>Bearing.</th>
+<th>Flowering.</th>
+<th>Total.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>June 1912 Planted</td>
+<td>nil</td>
+<td>66</td>
+<td>46</td>
+<td>112</td>
+</tr>
+<tr>
+<td>" 1913 "</td>
+<td>82</td>
+<td>173</td>
+<td>173</td>
+<td>428</td>
+</tr>
+<tr>
+<td>" 1914 "</td>
+<td>337</td>
+<td>355</td>
+<td>103</td>
+<td>795</td>
+</tr>
+<tr>
+<td>" 1915 "</td>
+<td>652</td>
+<td>187</td>
+<td>170</td>
+<td>1,009</td>
+</tr>
+<tr>
+<td>" 1916 "</td>
+<td>656</td>
+<td>316</td>
+<td>220</td>
+<td>1,192</td>
+</tr>
+</tbody>
+</table>
+
+*Plot B.* Unirrigated. Total No. of Trees. 449.
+
+<table>
+<tbody>
+<tr>
+<td>June 1907 Planted</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>" 1908 "</td>
+<td>nil</td>
+<td>nil</td>
+<td>nil</td>
+<td></td>
+</tr>
+<tr>
+<td>" 1909 "</td>
+<td>nil</td>
+<td>nil</td>
+<td>nil</td>
+<td></td>
+</tr>
+<tr>
+<td>" 1910 "</td>
+<td>nil</td>
+<td>nil</td>
+<td>nil</td>
+<td></td>
+</tr>
+<tr>
+<td>" 1911 "</td>
+<td>nil</td>
+<td>nil</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>" 1912 "</td>
+<td>nil</td>
+<td>9</td>
+<td>14</td>
+<td>23</td>
+</tr>
+<tr>
+<td>" 1913 "</td>
+<td>8</td>
+<td>22</td>
+<td>40</td>
+<td>70</td>
+</tr>
+<tr>
+<td>" 1914 "</td>
+<td>43</td>
+<td>54</td>
+<td>30</td>
+<td>127</td>
+</tr>
+<tr>
+<td>" 1915 "</td>
+<td>85</td>
+<td>34</td>
+<td>41</td>
+<td>160</td>
+</tr>
+<tr>
+<td>" 1916 "</td>
+<td>64</td>
+<td>81</td>
+<td>55</td>
+<td>200</td>
+</tr>
+</tbody>
+</table>
+
+These records clearly show the difference between trees on irrigated land with cultivation, and non-irrigated land without cultivation. Coconuts on non-irrigated land without cultivation in the region of this Experiment Station is a non-profitable undertaking.
+
+**Table 2.**  
+**CROP RETURNS.**
+
+<table>
+<thead>
+<tr>
+<th colspan="5"><i>Plot A.</i></th>
+</tr>
+<tr>
+<th>Year.</th>
+<th>Total No. of Trees.</th>
+<th></th>
+<th>Total No. of nuts.</th>
+<th>Average nuts per tree in whole plantation.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1913 from March</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>(10 months)</td>
+<td>1,224</td>
+<td>...</td>
+<td>3,389</td>
+<td>2.77</td>
+</tr>
+<tr>
+<td>1914</td>
+<td>1,224</td>
+<td>...</td>
+<td>14,222</td>
+<td>11.60</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>1,224</td>
+<td>...</td>
+<td>21,069</td>
+<td>17.20</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>1,224</td>
+<td>...</td>
+<td>27,132</td>
+<td>22.20</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="5"><i>Plot B.</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1913 from March</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>(10 months)</td>
+<td>449</td>
+<td>...</td>
+<td>253</td>
+<td>.56</td>
+</tr>
+<tr>
+<td>1914</td>
+<td>449</td>
+<td>...</td>
+<td>1,229</td>
+<td>2.70</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>449</td>
+<td>...</td>
+<td>1,829</td>
+<td>4.00</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>449</td>
+<td>...</td>
+<td>3,150</td>
+<td>7.00</td>
+</tr>
+</tbody>
+</table>
+
+Here again the difference between the two plots is most marked, the returns of the former being three times those of the latter. The records do not permit of a calculation of the average number of nuts per tree picked during the year, nor the percentage of trees picked in the plantations.
+
+5------------------------------------------------
+
+214[APRIL, 1917.
+
+**Table 3.**  
+**COPRA RETURNS.**
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Year.</th>
+<th colspan="2">Combined Plots.</th>
+<th colspan="2">Plot A.</th>
+<th colspan="2">Plot B.</th>
+</tr>
+<tr>
+<th>Average No. of nuts required per candy (560 lb)</th>
+<th></th>
+<th>Average No. of nuts required per candy (560 lb)</th>
+<th></th>
+<th>Average No. of nuts required per candy (560 lb)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1913</td>
+<td>...</td>
+<td>1,304</td>
+<td>...</td>
+<td>—</td>
+<td>...</td>
+<td>—</td>
+</tr>
+<tr>
+<td>1914</td>
+<td>...</td>
+<td>1,243</td>
+<td>...</td>
+<td>1,232</td>
+<td>...</td>
+<td>1,392</td>
+</tr>
+<tr>
+<td>1915</td>
+<td>...</td>
+<td>1,256</td>
+<td>...</td>
+<td>1,261</td>
+<td>...</td>
+<td>1,237</td>
+</tr>
+<tr>
+<td>1916</td>
+<td>...</td>
+<td>1,322</td>
+<td>...</td>
+<td>1,328</td>
+<td>...</td>
+<td>1,315</td>
+</tr>
+</tbody>
+</table>
+
+These returns vary considerably and the variations are irregular. It would however appear that the best nuts are obtained in the months July to October, the average of nuts per candy being lower in these months.
+
+**General.**
+
+The general appearance of the trees under irrigation is very favourable except in some patches where the land is of a heavy nature and receives insufficient drainage. The trees are healthy and the nuts of fair average size.
+
+**TRIAL GROUND, NEGOMBO.**  
+**Leaf Measurements.**
+
+<table border="1">
+<thead>
+<tr>
+<th>Average length of last Mature leaf.</th>
+<th>Treatment.</th>
+<th>June 1914</th>
+<th>Dec. 1914</th>
+<th>June 1915</th>
+<th>Dec. 1915</th>
+<th>June 1916</th>
+<th>Dec. 1916</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plot 1</td>
+<td>
+          Lb.<br/>
+          { Gd: Nut N=30 }<br/>
+          { St. B D P=30 }<br/>
+          { S of P K=30 }
+        </td>
+<td>60.29</td>
+<td>78.85</td>
+<td>107.62</td>
+<td>132.52</td>
+<td>153.83</td>
+<td>183.54</td>
+</tr>
+<tr>
+<td>Plot 2</td>
+<td>
+          { Bone meal P=30 }<br/>
+          { S of P K=30 }
+        </td>
+<td>61.64</td>
+<td>74.19</td>
+<td>100.61</td>
+<td>125.78</td>
+<td>147.25</td>
+<td>182.26</td>
+</tr>
+<tr>
+<td>Plot 3</td>
+<td>
+          { Gd: nut Cake N=30 }<br/>
+          { S of P K=30 }
+        </td>
+<td>60.99</td>
+<td>74.84</td>
+<td>102.58</td>
+<td>128.90</td>
+<td>144.76</td>
+<td>177.55</td>
+</tr>
+<tr>
+<td>Plot 4</td>
+<td>
+          { Gd. Nut cake N=30 }<br/>
+          { Bone meal P=30 }
+        </td>
+<td>55.75</td>
+<td>72.58</td>
+<td>101.58</td>
+<td>123.61</td>
+<td>142.99</td>
+<td>166.98*</td>
+</tr>
+<tr>
+<td>Plot 5</td>
+<td>No manure. Ploughed every month</td>
+<td>50.93</td>
+<td>65.83</td>
+<td>97.29</td>
+<td>121.52</td>
+<td>143.90</td>
+<td>168.70</td>
+</tr>
+<tr>
+<td>Plot 6</td>
+<td>
+          { Green manure P=30 }<br/>
+          { Basic slag K=30 }<br/>
+          { S of P }
+        </td>
+<td>47.36</td>
+<td>62.90</td>
+<td>86.97</td>
+<td>107.17</td>
+<td>120.65</td>
+<td>149.51</td>
+</tr>
+<tr>
+<td>Plot 7</td>
+<td>Solubles</td>
+<td>
+          { N=30 }<br/>
+          { P=30 }<br/>
+          { K=30 }
+        </td>
+<td>
+          { 42.64 }<br/>
+          { 44.07 }
+        </td>
+<td>
+          { 54.46 }<br/>
+          { 57.71 }
+        </td>
+<td>
+          { 80.94 }<br/>
+          { 91.44 }
+        </td>
+<td>
+          { 117.29 }<br/>
+          { 108.12 }
+        </td>
+<td>
+          { 136.65 }<br/>
+          { 125.56 }
+        </td>
+<td>
+          160.80<br/>
+          145.76
+        </td>
+</tr>
+<tr>
+<td>Plot 8</td>
+<td>No manure</td>
+<td>46.97</td>
+<td>58.88</td>
+<td>80.53</td>
+<td>94.91</td>
+<td>105.99</td>
+<td>119.71</td>
+</tr>
+<tr>
+<td>Plot 9</td>
+<td>No manure, clean weeded</td>
+<td>45.53</td>
+<td>56.48</td>
+<td>79.70</td>
+<td>95.91</td>
+<td>112.36</td>
+<td>133.93</td>
+</tr>
+<tr>
+<td>Plot 10</td>
+<td>Mineral mixture with lime</td>
+<td>
+          { N=30 }<br/>
+          { P=30 }<br/>
+          { K=30 }
+        </td>
+<td>45.85</td>
+<td>56.69</td>
+<td>81.83</td>
+<td>97.71</td>
+<td>116.78</td>
+<td>134.35</td>
+</tr>
+</tbody>
+</table>
+
+Manures were applied  $\frac{1}{2}$  quantities June 1914,  $\frac{1}{2}$  quantities June 1915,  $\frac{2}{3}$  quantities June 1916.
+
+Plot 5 was ploughed every month during 1916. Plot 9 was clean weeded monthly until July 1916 but its appearance was so unsatisfactory that this treatment was discontinued and an application of 20 lb. Potash given.
+
+\* Two trees flowered during half year June-Dec., 1916.
+
+6------------------------------------------------
+
+APRIL, 1917.]215
+
+### Report for 1916.
+
+The manures were applied in June and the soil was turned on Plot 1, 2, 3, 4, 6, 7, and 10 in July.
+
+Plot 5 was regularly ploughed every month.
+
+Plot 9 was clean-weeded monthly till July 1916.
+
+In August 1916, the Director of Agriculture and MR. BAMBER having visited the Trial Ground and being convinced that clean-weeding was a failure and also being struck by the bad appearance of Plot 4 (without Potash), decided to discontinue clean-weeding and substitute the application of Potash alone. This was immediately done, the application being 20 lb., and the soil was turned.
+
+Out of the experimental plots, Plot 5 (monthly ploughing) was the best in appearance, but plants in the same field, adjoining the experimental plots, were doing much better than even this. As these were given a full compost with the addition of a coir-dust-mulch and as mulching was not included in the experiments the Director decided to abandon the minor plots and convert them into two new plots to investigate the value of mulching. A full compost was applied to the first (Plot 11) along with a mulch while the other (Plot 12) was mulched with manure,—the materials generally used being coconut husks and coir dust. Plots 11 and 12 were sub-divided into 11A, 11B, 12A, and 12B (to determine their relative values) 11A and 12A being mulched with coir dust and 11B and 12B with coconut husks.
+
+In appearance and growth Plot 5 (monthly ploughing) is easily the best.
+
+Plot 4 (without potash) was doing well till the end of 1915, since then it is losing colour and declining rapidly.
+
+The *Tephrosia candida* on Plot 6 did well at the beginning but is dying out now and another legume will have to be substituted.
+
+Plot 9, since the application of potash and turning soil, is improving.
+
+Plot 8 (control) and Plot 10 (complete mineral mixture with lime) are far behind the others.
+
+Two trees in Plot 4 have flowered. This however can be attributed to the condition of the soil, bordering a trench, where they stand.
+
+The rainfall return may be summarised as follows :—
+
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="text-align: left;">Year.</th>
+<th style="text-align: left;">Total.</th>
+<th style="text-align: left;">No. of wet days.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1914      ...</td>
+<td>51.92</td>
+<td>108</td>
+</tr>
+<tr>
+<td>1915      ...</td>
+<td>125.26</td>
+<td>139</td>
+</tr>
+<tr>
+<td>1916      ...</td>
+<td>76.56</td>
+<td>153</td>
+</tr>
+</tbody>
+</table>
+
+A. E. RAJAPAKSE.
+
+17th February, 1917.
+
+7------------------------------------------------
+
+216[APRIL, 1917.
+
+## REPORT ON COCONUT PLANTATIONS AT PUTTALAM FOR 1915 AND 1916.
+
+The supply of lands suitable for successful coconut cultivation in Ceylon is becoming more or less exhausted. But there is a fairly extensive area awaiting exploitation in dry districts. On these, by careful planting, and the adoption of modern dry cultivation methods, coconuts could be made to grow as successfully as in more favoured districts.
+
+The Puttalam district falls under this head, but the majority of lands there have been opened up so carelessly that they suffer very severely from droughts. There is a possibility of this difficulty being overcome by paying more attention to the selection of seed-nuts, spacing, depth of planting, and soil cultivation. But up to the present no systematic attempts has been made to gather any reliable information on this subject.
+
+### THE OPENING OF RAJAPAKSA KUMARAWANNIYAYA.
+
+This is a tract of about 30,000 acres, situated in the Raja Kumarewanni District of Demala-hathpattu in the Puttalam District. It is bounded by the Ratmaloya, a branch of the Battulu-oya, and has a road frontage of about  $2\frac{1}{2}$  miles on the Keeriancallai-Nebadawala road and is 10 miles distant from Keeriancallai and one mile from Andigama. It consists of mostly virgin forest and tracts of lower jungle and paddy fields (abandoned) with a number of tanks. The land is almost perfectly level and the soil is nearly uniform throughout, being a yellowish, sandy loam, with an almost abnormal accumulation of organic matter in the higher forest. The rainfall is in the neighbourhood of fifty inches (54 in 1916), but it is well distributed and the tanks are so placed as to enable all the surplus water to be collected in them. It has been opened up since January 1915, when about 30 acres were felled and planted by employing estate labour and not according to the *goiya* system. In November 1915 a further 50 acres were planted, in May 1916 about 60 acres more, and in November 1916 another 60 acres. Catch crops were not grown in general, but 20 acres of the second field were planted with cassava 6 feet apart. The crop was harvested 9 months after that and sold at Rs. 1.20 a cwt. The yield was about 45 tons of tuber and the nett profit Rs. 800, being Rs. 40 per acre. The stumps, leaves, etc., were returned to the soil. This 20 acres is marked out to determine the effect on the coconut plants by the removal of catch crops.
+
+Great care has been taken in the selection of seed-nuts. As nuts of sufficiently good quality could not be procured in the vicinity, seed-nuts have been taken, in spite of expense, from the Negombo and Chilaw Districts, from estates that have been maintained in good condition for a number of years. Even here the nuts are not taken at random, but from trees 20 to 40 years of age, and paying special attention to their health, productivity, capability of resisting drought, the shortness and strength of the stalks of their bunches, and the quality of their nuts. Also only the nuts of the riper bunch are taken, notwithstanding the village belief that the nuts of the second bunch are better.
+
+The ground for the nursery was prepared by digging to a depth of about 18 inches and the nuts were placed in it with their eyes pointing upwards, 18 inches apart, and were covered with earth so that their tops were about 2 or 3 inches below the surface. This layer of soil was kept stirred after watering to act as a soil mulch. This rendered frequent watering unnecessary and the percentage of germination was above 95%. The plants were transplanted soon after germination, when they had only about two leaves, because at this age they have a reserve food supply within the nuts and are therefore able to sustain themselves even if a drought follows planting. As the plants at this age were liable to be damaged by rough
+
+8------------------------------------------------
+
+APRIL, 1917.]217
+
+handling, they were taken to the field in baskets. Unhealthy plants and also nuts that took a long time to germinate were rejected.
+
+As it has been noticed on several estates in the Chilaw district that trees planted 30 feet apart suffer more from the drought than those trees more closely planted, 27 feet by 27 feet has been decided on as the suitable distance.
+
+Special attention has been paid to the lining as perfectly straight lines not only improve the appearance but greatly facilitate the use of modern mechanical appliances and also the allotment of tasks. The lines run from North to South and a prismatic compass and Surveyor's chains are used with advantage in a work rendered extremely difficult by the presence of stumps of large trees.
+
+The holes were cut 3 feet by 3 feet and  $2\frac{1}{2}$  feet deep. A wooden frame 3 feet square, with diagonal bars and a hole at the intersection of the diagonals, for the peg to pass through, was used to mark the position of the holes. But the presence of stumps made it difficult to get the coolies to cut the holes in their exact positions. Consequently it was necessary to reline at great trouble and expense when planting out. To counteract this a simple device was invented to place the plant exactly where the peg was without relining. This consisted of a bar about 6 feet long with a hole in the middle and two holes at either end equi-distant from it. This bar is slipped on the peg, so that it passes through the middle hole, and two smaller pegs are driven into the ground, passing them through the holes at the ends. Thus there are three pegs in a straight line at fixed distances from one another. Though the main peg is removed by cutting the coconut hole its position can very easily be fixed by replacing the bar in position. So that in planting out the only work done now is placing the bar in position and planting the plant vertically under the middle hole. The coconut holes are partly filled with surface earth mixed with ashes and the nuts are placed at depths (from the surface to their tops) varying from 18 inches on high land, which does not require trenching, to 1 foot and even a few inches on low land, where trenches are necessary. More earth is thrown in after planting so that the nut is buried from 2 to 4 inches below the surface. Whenever dry weather began, the soil in the coconut holes was stirred to a depth of about two or three inches during the first year. In the second year the cultivation was extended to a circle of 6 feet radius round the plant, the soil outside the hole being worked to a depth of about 6 inches.
+
+During the rainy season the coconut holes in lower ground are almost invariably filled with water and great difficulty was experienced in planting. Consequently these portions had to be planted during the dry season. The observation of the principles of dry cultivation, however, greatly reduced the trouble and expense of this operation. The soil in the holes is always kept stirred. When watering two small holes were made in this surface close to the nut, on either side of it, and a pot of water (about 4 gallons) was poured into them. When this was absorbed the holes were covered up with dry-earth. Owing to the action of this soil-mulch the surface just underneath remained moist for nearly a month. This mode of planting was found to be so convenient and advantageous that most of the planting is now done irrespective of the seasons. Clean weeding is not practised, only larger weeds being removed. Several varieties of legumes including *Tephrosia Candida* and a number of local weed-smothering creepers are being grown to determine their relative values.
+
+There are five tanks within the area opened up; all of them have been reclaimed.
+
+Trenches, 6 feet wide and 2 feet deep, have been opened up in all the low lands. The coconut plants are in very good condition.
+
+ALEX. ED. RAJAPAKSE.
+
+9------------------------------------------------
+
+218[APRIL, 1917.
+
+## THE COCONUT RED WEEVIL.
+
+### RHYNCHOPHORA FERRUGINEA.
+
+(See frontispiece.)
+
+This insect is widely spread and common in Ceylon wherever coconuts are grown. It probably attacks other palms as well, such as the Kitul (*Caryota urens*) and Areca (*Areca catechu*) but the coconut palm appears to be the favourite host of this troublesome pest. It is probable, however, that it damages the Kitul more extensively than is usually supposed, but this palm not being grown in extensive plantations and being used only for toddy-extraction, the ravages of the weevil are not so much noticed as in the case of the coconut. It is noticeable that freshly cut stems of the Kitul Palm exercise a strong attraction for the pest.
+
+#### LIFE HISTORY.
+
+The adult weevil is not known to bore into the stems of palms, and indeed, from the character of its mouth parts and general shape it would be practically impossible for it to do so. In contradistinction to the "Black" or "Rhinoceros" Beetle, *Oryctes rhinoceros*, the adult Red Weevil does the damage only in its larval stage. The eggs are laid in any cut or wound on the stem of the palm, preferably where a certain amount of fermentation of exuding sap is going on. The holes made by the rhinoceros beetle are a very favourite position for the weevil to oviposit in, but any cut which lays bare the softer sap-wood of the palm may be utilised. On hatching, the larva immediately commences to burrow into the wood. It is a very fat, white, almost legless grub, with extremely strong jaws with which it can cut the strong fibres of the palm with ease. The length of the larval period does not appear to have been ascertained, but it is probably long. At the termination of its larval life the grub forms a cocoon out of the broken fibres of the stem inside the galleries which it has made in the heart of the palm. This cocoon is a curious oval object with all the fibres of which it is composed arranged transversely. It is difficult to understand how the grub manages to produce such a cocoon. Inside this structure it pupates, and after an undetermined interval, it emerges as an adult Red Weevil.
+
+#### DAMAGE.
+
+The damage which a brood of Red Weevil grubs does to the inside of a tree which is infested with them must be seen to be believed. Frequently the whole of the inside of the stem is converted into a soft pulp in which the grubs live and burrow in every direction. The fermenting mass inside the palm of course attracts other weevils which lay their eggs in it and so the destruction soon becomes so advanced that the palm dies completely. What makes matters worse is the fact that very often there is no outward and visible sign of the state of affairs within until the affected palm is past recovery. If a palm is suspected to contain weevil grubs, their presence may be detected by placing the ear against the trunk, when the noise made by the grubs dividing the fibres may be heard.
+
+10------------------------------------------------
+
+APRIL, 1917.]219
+
+### REMEDIAL MEASURES.
+
+No parasitic or predatory enemies of the Red Weevil have so far been found in Ceylon. The usual method of dealing with the pest, when it can be discovered, is the excision of all the affected parts by means of chisels and gouges, clearing out all the grubs and damaged tissue of the tree and filling the hole with tarred fibre. The plan has been tried of injecting carbon bisulphide into the galleries through an auger hole which is bored into them in a downward slanting direction, the whole being then stopped up with tarred fibre. This plan has not yet been sufficiently tested to ascertain whether it is a reliable remedy but owing to the difficulty of obtaining carbon bisulphide in Ceylon it is not likely that it will come into general use until this substance can be obtained in sufficient quantity.
+
+It would appear that trapping the adult beetles by using baits of fermenting kitul palm wood, which, as mentioned above, has a strong attraction for them, might form an effective means of control. The main object in mitigating the ravages of this pest, however, is to keep coconut estates clean—all dead palms should be cut down and burnt and no rotting stems should be allowed to lie about on the ground. The Rhinoceros Beetle should be eliminated as far as possible by means of traps and probing and the greatest care should be taken to avoid injury to the bark of the palms. Where these measures are scrupulously carried out, there is little to fear from the attacks of the red weevil.
+
+G. M. HENRY.
+
+---
+
+### COCONUT BEETLE IN SAMOA.
+
+---
+
+A Commission was appointed in July, 1916, by the Administrator of Samoa under the British Military Occupation to ascertain, by enquiry or otherwise, concerning the coconut beetle (*Oryctes Nasicorisi*)—
+
+(a) whether the said beetle is in numbers decreasing, stationary, or increasing and doing more damage than formerly,
+
+(b) to receive and consider suggestions for more effectively dealing with this pest.
+
+The report of this Commission of Enquiry has recently been published and is here reproduced:—
+
+#### SECTION I.
+
+The first object of the Commission was to ascertain:—"Whether the said beetle is in number decreasing, stationary, or increasing and doing more damage than formerly."
+
+The question really means: are the ravages of the beetle and the damage done by it on the increase, is the beetle being held in check, or is it being conquered?
+
+Some of the evidence before the Commission shows that the trees in many of the districts which were formerly badly affected, and which were not cut down, have made an excellent recovery; some which appeared to be dead are now not only putting out strong growths but showing signs of bearing, and some are actually again bearing.
+
+11------------------------------------------------
+
+220[APRIL, 1917.
+
+Other evidence shows that the pest is increasing in some of the earlier affected districts, is stationary in others, and is rapidly increasing in newly affected districts.
+
+But there is no definite evidence to show that the present condition is worse all round than it was a year or more ago, and as the beetle has only been known in Samoa for six years, the period of one year should be sufficient to draw a comparison of any marked difference.
+
+It can be gathered from the evidence that a much larger area is now affected than was sometime ago, say three years, but it is not proved that the actual damage inflicted has been on the increase.
+
+Between two and three years ago, although the affected area was smaller, it appears that more actual damage was done than has been during the past eighteen months.
+
+About the former time several plantations were absolutely wiped out, and no evidence is forthcoming to show that such is now happening anywhere, or that there has been such disastrous damage since.
+
+Many trees which were not actually dead were cut down, some thirteen thousand on two plantations in close proximity, only a portion of which were actually dead, and it remains an open question whether the wholesale cutting down of those trees was wise.
+
+The result of the devastation was undoubtedly to drive the beetle farther afield, thus causing larger areas to become affected and if some of the damaged trees had been allowed to stand they may have acted as traps, and the beetle been thereby induced to remain in the smaller area.
+
+It is abundantly proved by the ocular evidence of the D. H. & P. G.'s plantations that the beetle will not go far afield when there is plenty of food near its breeding place, and on this account it may be a mistaken policy to cut down trees, especially on the fringes of groves and plantations, before they are actually dead.
+
+The Commission does not hold alarmist views regarding the existing state of the coconut palms in the Faasaleleaga and Palauli districts in Savaii.
+
+It is, however, evident that the beetle is well established in those districts, and unless very closely watched, and energetically and intelligently handled, may do infinitely more damage than it has done in Upolu.
+
+It was proved that only three years had elapsed since the beetle was first observed in Savaii, and that within the last three years vast tracts of land there have been cleared and planted.
+
+Those new plantations are not as clean as they should be, principally owing to the excessive rains of this year, but little serious damage has been done, and the Commission saw that the country was certainly not in the state of devastation that some of the evidence foretold.
+
+From the native assistance standpoint those in authority in Savaii are fortunate compared with those similarly employed in Upolu, as the Savaii natives do not appear to be so indifferent as the natives of Upolu, and they appear to fully grasp what the result will be if the beetle gets the upper hand.
+
+The records of the largest European plantations for the first half of each year since the beetle was first noticed show a steady, though small increase in the output till the present year. The falling off this year is serious, and is attributed by some to "solely the effect of the beetle."
+
+12------------------------------------------------
+
+APRIL, 1917.]221
+
+This is absolutely contradicted by the weight of evidence, and other evidence clearly proved that the cause of the diminished output may be safely stated to be the three storms experienced in the early part of last year, coupled with the following drought.
+
+It is regrettable that the returns of beetles and larvæ collected from time to time cannot be relied upon; either from the natives or from many of the European plantations, as it would materially assist in deciding what is now a mere matter of conjecture, the increase, or otherwise, numerically, of the beetle, and correct records should be insisted upon.
+
+By the evidence before the Commission, coupled with its observations, it may be inferred that the beetle has increased during the past three years, although it does not appear to be increasing at the same rate, or to be doing the same amount of damage as in the first three years of its existence. It would also appear that the beetle is decreasing in size, but there is nothing before the Commission to show that in consequence it is any less productive or destructive.
+
+Probably the reason that the beetle appears to be less destructive than formerly is because its breeding places are being continually searched, and it is being harried and kept constantly on the move, the consequence being that it is not allowed to attack in serried ranks, as it must have done to wipe out plantations in the manner it did some three years ago.
+
+The answer to the first enquiry is that the beetle is most probably increasing in numbers, but the damage done by it is apparently not so palpable as formerly, possibly because it extends over a much larger area; and it is certainly being held in check on the coast and the plantations of the D. H. & P. G., but certain inland plantations are in a shocking condition owing to the ravages of the pest.
+
+## SECTION II.
+
+The second object of the Commission was:—"To receive and consider suggestions for more effectively dealing with this pest."
+
+The evidence before the Commission is not very direct or very convincing in this connection, except in the generally expressed opinion that "clean lands" are essential as a ground work upon which to base any future scheme for combating the pest.
+
+It was conclusively proved that unclean lands, banana patches, heaps of cut and dried grass and rubbish, logs of soft and rotten wood, also the vicinity of native cook-houses, are second only to rotten cacao pods as presenting ideal conditions and attractions for beetle propagation.
+
+It was also proved that certain palms are more attractive to the beetle than others, but no evidence was forthcoming as to which particular palms, or the reason therefor.
+
+Very contradictory evidence was given regarding the utility of DR. FRIEDRICH'S fungus, and it may be reasonably deduced that its action is very slow, also that the operations connected with it are very expensive. It is also evident that the fungus cannot be properly controlled except by skilled, or indeed expert labour, thereby considerably increasing the expense.
+
+13------------------------------------------------
+
+222[APRIL, 1917.
+
+There is no doubt that its action propagates disease amongst the larvæ, but it would be years before the whole of the necessary area could be treated, under existing conditions.
+
+The preponderance of evidence certainly shows that where tumus are properly looked after the results are excellent; but it is doubtful if the results would warrant the expense of systematically treating the whole of the lands on the islands.
+
+Abundance of evidence is to hand regarding the presence of the beetle in the virgin bush, as well as of its preference for the wild palm as against the coconut palm, sufficient indeed to give rise to the grave doubt of ever totally ridding these islands of the pest.
+
+Possibly a liberal cultivation of the wild palm on the fringes of plantations might tend to protect the cultivated palm to some extent, by providing the food most relished by the pest, in like manner with the "toddy cure" of the Philippines.
+
+That cure would be most impolitic in Samoa because the evidence clearly shows that the beetle prefers fermented toddy, therefore the possible result to the native population might be worse than the worst devastations of the pest.
+
+The evidence strongly supports the present laws and regulations as being good.
+
+It is the concensus of opinion that more drastic regulations would most probably cause friction and retard progress, but at the same time it is freely asserted that though the present regulations are being intelligently administered, they are not being observed and carried out to the extent they should be.
+
+Some officials complain of the idleness and indifference of some of the pulenuus, and suggest that younger and more active men should be appointed.
+
+As the appointment of the pulenuus does not lie with the Government any such proceeding might give rise to trouble; but surely a way of evading the situation would be to suggest to the feeble or infirm ones that they require a rest, and persuade them to nominate an assistant for the more energetic part of the work.
+
+This would insure the keeping of the power in the hands of the elder men, more especially as every nominee would surely be a man of good family, probably, in many instances, of the pulenuus' own family.
+
+Many recommendations were forthcoming as to the more sustained and efficient searching for beetles, larvæ and eggs.
+
+The idea advanced by MR DIETZSCH regarding piece work, or specified areas for the natives to handle, is excellent in its way, and well deserves careful consideration.
+
+No doubt it would work well in the particular district or area that MR. DIETZSCH had in mind, but it would be very difficult to adopt it generally.
+
+The same remark applies to other schemes. They might be adopted in certain districts, but not generally, and what is vitally necessary at the present moment is a comprehensive scheme for general adoption.
+
+14------------------------------------------------
+
+APRIL, 1917.]223
+
+Searching by climbing was generally recommended, but many drawbacks were pointed out.
+
+Coolies are totally unable to climb, and Samoans are so careless that, either through wilfulness or negligence, more trees are liable to be killed by their top searching than by the pest itself.
+
+The top searching of the D. H. & P. G.'s plantations by black boys is most efficient and successful, as it would be elsewhere if the natives were less negligent.
+
+All the evidence tends to show that "clean lands" both European and native, must be established and maintained, and that probably later, if found necessary, even the virgin bush must be cleared of possible breeding places, also that searching by natives on their own land, and by Europeans on their plantations, must be systematically and thoroughly carried out.
+
+It appears that the foregoing must be accomplished at whatever cost in labour or money.
+
+There is no tangible suggestion in the evidence, and it does not appear to be within the scope of this Commission to decide as to how the necessary funds shall be raised, whether by taxation or direct contribution; but all the evidence, though in other respects in conflict, agrees that this must be the basis of a successful campaign against the pest.
+
+The evidence proves that pigs are of great value as destroyers of the larvæ.
+
+The extension of pig fences back to, and where conveniently practicable a little inside of the virgin bush, would be helpful, and wherever practicable pigs should be allowed to run free.
+
+Legislation should be introduced on the lines of an ordinance drafted before the Military Occupation, requiring planters to obtain permits before opening new clearings, or cutting down bush.
+
+Personal observation shows that in many places the natives have cleared and planted much larger areas than they are able to properly control, or than they reasonably require, and the gradual cleaning up of these lands must be taken in hand promptly.
+
+If actually necessary assistance must be given, especially regarding implements, the property being, in the meantime, charged with any expense incurred.
+
+From very sound evidence it appears that inadequately controlled tumus are considered an absolute danger, and should, except where controlled by intelligent supervision, be done away with.
+
+It was proved that many tumus, through lack of attention, were actually breeding places which supplied the most favourable condition for propagation.
+
+The evidence regarding searching competitions was conflicting, but the weight goes to prove that it is a very doubtful method of successfully combating the pest.
+
+It was conclusively proved that natives were actually breeding larvæ and beetles for the purpose of winning competitions, and this is, as shown by a letter from the Director of the Imperial Biological Institute for Agriculture and Forest Culture in Germany also known in other countries.
+
+15------------------------------------------------
+
+224[APRIL, 1917.
+
+He states that the experience in Java is that where the natives are paid a premium for each beetle they catch they have the opportunity of obtaining a permanent source of income by breeding the vermin, so the practice was discontinued.
+
+The opinion of the Commission is voiced by the Deputy Administrator of Savaii in his evidence, "I think the beetle competitions were competitions for swindling, absolutely."
+
+Evidence shows that where cattle are there are clean lands. It also shows that many acres of Samoan land are particularly adaptable for running cattle.
+
+This is a very great question, and one worthy of consideration.
+
+The fact remains that if the Samoans could be prevailed upon to enclose their holdings and breed cattle, their own manual labour would thereby be considerably decreased and their incomes considerably increased, but for an immediate assistance in the present campaign the cost of introduction would be too heavy, and if generally introduced, a large fencing system to protect native gardens and European plantations would be necessary.
+
+Undoubtedly the cattle would become a very valuable asset in the years to come, and if the right of grazing could be obtained, probably canning factories and freezing works would follow.
+
+Much of the evidence laid considerable weight on the desirability of the introduction of a "natural enemy," and it was suggested that, for that purpose, a staff of entomologists of first-water repute be engaged, with all the necessary paraphernalia for the purpose of finding one or more, and scientifically eliminating the pest.
+
+On this subject the Director of the Imperial Biological Institute for Agriculture and Forest Culture in Germany says:—
+
+"The proposal to import natural enemies of the beetle from its real home, Ceylon, India, and the Straits Settlements, will meet with many difficulties. In India natural enemies are not yet known and therefore must first be found. In so far as parasite insects are concerned this question can be treated only by a professionally educated entomologist, as he alone is able to recognise whether a particular case concerns parasites, or so-called super-parasites, i.e., a parasite living on a parasite. The finding of real parasites does not help one because difficulties are experienced with regard to their acclimatization, which under certain circumstances is impossible. The question of the destruction by natural enemies is a complex one, embracing most difficult questions of entomology, systematic-biology and physiology, which question can only be solved by the co-operation of a whole staff of expert entomologists. That the problem is exceedingly difficult is shown by the fact that even in the United States practical tangible results have not been obtained, despite the fact that a number of scientists, working in a laboratory specially constructed for that purpose, at Melrose Highlands, have been working for eight years in the investigation of the natural enemies of two kinds of *bombyx* which found their way into America, the schwamm-spinner and the goldafter."
+
+If it were not a fact that this pest, as well as other palm destroying vermin, had been before scientists for years, unfortunately without result as regards our pest, it might be considered a different matter and an outlay
+
+16------------------------------------------------
+
+APRIL, 1917.]225
+
+might be justified; but at present there is no evidence before this Commission to prove that there is any justified confidence in attempting to import a "natural enemy," and it appears to be futile to suggest that one can be found there.
+
+The primary condition, as above stated, is "clean lands," absolutely, but should it be decided that scientific methods be adopted then a proper and well-sustained trial of DR. FREIDRICHS's fungus should be made.
+
+If the latter is decided on perhaps it would be possible to keep in touch with DR. FREIDRICHS's, and to, later on, secure his services to carry out the work which he so capably commenced.
+
+Finally, it is strongly recommended that all natives, the absolutely only exceptions being those in the employ of the Government, be enjoined to search every Monday from 7 a.m. till 5 p.m., and travelling between villages on that day should be prohibited.
+
+In the event of any native being away from his own village he should search in the village in which he happens to be.
+
+This will probably not be the hardship it at first sight appears, as if all natives are engaged in searching no copra will be brought in to any trading station, and no business will be doing, therefore traders will not miss the services of their employees on that day.
+
+With regard to coolie labour, the inspectors should be thoroughly satisfied that plantation owners faithfully carry out the searching work. It is evident that plantation labour cannot be bound to a specified day, but in the event of the inspectors not being satisfied with the searching they should have the power to issue permits to natives to search on the plantations in question but not to climb trees.
+
+The Commission is of opinion that more white inspectors should be appointed.
+
+The more advanced schoolboys should search at least till noon each Monday and every boy in every village should be educated to assist in the weekly search.
+
+---
+
+## SCHEME FOR ENCOURAGING THE PLANTING OF COCONUTS IN SIERRA LEONE.
+
+---
+
+A scheme for the encouragement of coconut planting near the littoral of Sierra Leone has been sanctioned by the Government of that Colony. £100 has been approved in the 1916 estimates for the purchase of good Ceylon seed nuts. These nuts will be sold to certain people, either at half what they cost the Government landed in Freetown (in which case after the period of about four years, the purchasers will receive a bonus for each healthy tree,) or the nuts will be distributed, free of charge, and no bonus will be provided. The selling price of the nuts and the amount of bonus to be distributed have not yet been definitely fixed, but it is probable that where the nuts are sold, 2*d.* each will be charged the buyers. It is stated that there are large areas of land along the southern shores of the Protectorate where the soil is sandy to a sandy loam, and the natural drainage good, which is eminently suited for coconut cultivation; the coconut trees already growing there point to this fact.—*AGRIC. NEWS, BARBADOS*, Dec. 30, 1916.
+
+17------------------------------------------------
+
+226[APRIL, 1917.
+
+# CACAO.
+
+## MANURIAL EXPERIMENTS WITH CACAO IN TRINIDAD.
+
+### NATURAL YIELDS OF PLOTS.
+
+The results have been obtained without the application of any manures, and as far as each estate is concerned the cultivation of the plots has been identical. The difference therefore between the yield of one crop and another is undoubtedly due to seasons and to the increasing age of the trees, when these have not yet attained their full bearing capacity, although the increase in yield from the latter cause may not be very marked from one year to the next.
+
+The variation in the yield between the various plots on each estate for the same crop, as pointed out in previous reports, is due to the relative productiveness of the particular group of trees forming each plot, and is largely dependent on the relative proportion of heavy and poor bearing trees thereon. It will be observed that these differences are not uniform, that is, the plots do not increase or decrease in the same proportion from one year to another.
+
+These facts further tend to prove the statement made in previous reports, viz.:—That in order to be able to arrive more readily at reliable conclusions, as to the relative value of different manures applied to cacao trees, it is necessary to ascertain the natural yield of the plots over a series of years, previous to the application of the manures.
+
+The figures recorded show:—
+
+(1) That a large proportion of the trees in these plots gives less than a pound of dry cacao per annum even for a very favourable year such as that of 1913-14.
+
+(2) That although a favourable season considerably reduces the percentage of trees bearing less than a pound of dry cacao per annum, the proportion of these is probably not less than 20 per cent. on an average.
+
+(3) That the comparative yield of the plots on each estate for each year is largely dependent on the relative proportion of high and low bearing trees thereon, and that generally the percentage of trees bearing less than 13 pods per tree appears to exert the largest influence on the relative yield of the plots.
+
+Generally it has been observed that the heavy bearing trees of the first year have continued to be heavy bearers, and that the poor yielding trees have remained poor during subsequent years.
+
+Although these remarks apply to plots of approximately 100 trees each, they are equally true with regard to whole fields as observed at River Estate. The question of detecting the poor bearing trees on an estate and having them replaced by trees raised from selected stock, or budded or grafted trees, of known prolific and other good qualities is deserving of the most serious consideration by planters.
+
+It might be pointed out that although the trees on the Roxburgh estate are the youngest under experiment and have not yet reached their full bearing capacity they show the smallest percentage of poor bearing trees, i.e., trees bearing less than 26 pods annually. This may be attributed to the fact that the selection of pods for planting purposes receives the careful attention of the proprietor. This question of seed selection has been and is unfortunately still too frequently neglected on the majority of the estates. The possibility
+
+18------------------------------------------------
+
+APRIL, 1917.]227
+
+of improving the crop of poor yielding fields on an estate by cutting out and replacing trees bearing an average of less than 13 pods per tree, appears to be clearly indicated and should form part of the experiments to be made later on the *natural yield* plots.—DEPT. OF AGRIC. TRINIDAD AND TOBAGO BULL., Pt. 6, vol. xv.
+
+## CACAO CULTIVATION IN ST. VINCENT.
+
+In the annual report of the Agricultural Department, St. Vincent, are to be found some interesting notes regarding cacao cultivation.
+
+A comparison between the conditions in St. Vincent and the neighbouring well-known cacao-producing island of Grenada is made. In matters of climate and topography the two islands are very similar but the one outstanding point of difference is to be found in the character of the soil. The Grenada soil is moderately heavy, retentive of moisture and is underlaid at varying depths by a relatively impervious subsoil. The St. Vincent soil is remarkably light, offering very little resistance to the passage of water. As a consequence of this soil condition the atmospheric humidity of St. Vincent is much below what would be expected from a consideration of the rainfall statistics.
+
+A certain degree of atmospheric humidity is essential for successful cacao cultivation and whereas cacao can be grown in Grenada without any overhead shade, it is necessary in St. Vincent to provide a dense top shade and to use wind-belts to prevent as far as possible air currents through the cultivation.
+
+The light soils of St. Vincent lose moisture rapidly and it is necessary to maintain soil fertility by systematic manuring.
+
+The manurial treatment of cacao in Grenada covers five years and includes the following:—
+
+1. 1. Spread farmyard manure and bed with leaves.
+2. 2. Bed weeds and leaves.
+3. 3. Apply artificial manures and bed fallen leaves.
+4. 4. Do. do. do. do.
+5. 5. Fork and lime.
+
+The system recommended for certain St. Vincent light soils comprises:—
+
+1. 1. Apply farmyard manure and bed in.
+2. 2. Apply a leaf and bush mulch.
+3. 3. Apply cotton-seed meal and basic slag.
+4. 4. „ a leaf and bush mulch.
+
+The importance of organic manures in cacao cultivations is alluded to, and the lighter the nature of the soils the more rough organic material can be added with advantage.
+
+## CACAO IN BRITISH GUIANA.
+
+The results with manurial and other cultural experiments with cacao in British Guiana are reported.
+
+The experiments, which were commenced in 1900, indicate that in British Guiana under conditions similar to those existing at Onderneming farm the methods of cultivation leading to the successful growth of cacao are the reduction of shade to the lowest amount compatible with due protection from wind; deep and efficient soil drainage; annually forking the land between the trees without injuring the roots any more than is absolutely necessary; mulching the soil, and manuring the trees with a mixture of superphosphate of lime and sulphate of potash.—EXPT. STN. REC.; Nov. 1916.
+
+19------------------------------------------------
+
+228[APRIL, 1917.
+
+# RICE.
+
+## RICE EXPERIMENTS IN BRITISH GUIANA.
+
+PROF. J. B. HARRISON & MESSRS. C. K. BANCROFT & R. WARD.
+
+Varieties of rice of proved value were planted in the North Field in large scale trials in duplicate half-acre plots. Planting commenced on May 2, and was completed on May 8. Reaping was begun on October 3. The crop, therefore, took five months to mature.
+
+The yields obtained from the different varieties were as follows:—
+
+<table>
+<thead>
+<tr>
+<th>Selected Varieties.</th>
+<th>Bags of 140 lb. per acre.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No. 75 ... ..</td>
+<td>35.12</td>
+</tr>
+<tr>
+<td>Creole ... ..</td>
+<td>33.73</td>
+</tr>
+<tr>
+<td>H 6 ... ..</td>
+<td>33.73</td>
+</tr>
+<tr>
+<td colspan="2">Strains —</td>
+</tr>
+<tr>
+<td>No. 75, strain 6 ... ..</td>
+<td>36.28</td>
+</tr>
+<tr>
+<td>" " 7 ... ..</td>
+<td>35.48</td>
+</tr>
+<tr>
+<td>H 6, strain 1 ... ..</td>
+<td>33.18</td>
+</tr>
+</tbody>
+</table>
+
+The duplicate and quadruplicate comparative trials on one-sixteenth acre plots of certain varieties, gave the following mean results:—
+
+<table>
+<thead>
+<tr>
+<th>Variety</th>
+<th>Bags of 140 lb. per acre.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No. 75, strain 1 ... ..</td>
+<td>44.95</td>
+</tr>
+<tr>
+<td>" " 2 ... ..</td>
+<td>40.30</td>
+</tr>
+<tr>
+<td>" " 4 ... ..</td>
+<td>39.11</td>
+</tr>
+<tr>
+<td>" " 8 ... ..</td>
+<td>34.29</td>
+</tr>
+<tr>
+<td>Demerara Creole, strain 2 ... ..</td>
+<td>36.73</td>
+</tr>
+</tbody>
+</table>
+
+The crop reaped was not so good as that of the previous year, but was above the average. The Creole variety again gave a higher yield than its average for the past eleven years.
+
+### MANURIAL EXPERIMENTS.
+
+The manurial experiments were continued in the North Field. Twenty-six plots, one-eighth of an acre each, were cross dressed with sulphate of ammonia at the rate of 100 lb. per acre: twenty-six plots, their duplicates, did not receive any nitrogenous manuring. The results obtained showed that the mean return from the manured plots was 33.91 bags. The results confirm the conclusion arrived at from previous experiments, i.e., that in the period during which the rice land is fallow an accumulation of nitrogen sufficient for the needs of the crop takes place, and no increase in yield can be attributed to the addition of nitrogenous manure.
+
+The plots in the D'urban Park were planted on March 24, and reaped on September 18, the crop taking six months to mature. The results obtained were as follows:—
+
+<table>
+<thead>
+<tr>
+<th>Variety.</th>
+<th>Bags of 140 lb. per acre.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No. 75 ... ..</td>
+<td>24.76</td>
+</tr>
+<tr>
+<td>Creole ... ..</td>
+<td>21.26</td>
+</tr>
+<tr>
+<td>H 6 ... ..</td>
+<td>19.48</td>
+</tr>
+</tbody>
+</table>
+
+This was the sixth crop grown on the D'urban Park land under irrigation with artesian well water. The order of yield of the three above mentioned varieties was the same as in the North Field.
+
+The total amount of seed paddy specially selected was 28,487 lb. of which about 26,500 will be available for distribution.—JOUR. OF THE BD. OF AGRIC., BRITISH GUIANA, OCT. 1916.
+
+20------------------------------------------------
+
+APRIL, 1917.]229
+
+# FIBRES.
+
+## NOTES ON SISAL CULTURE.
+
+1. For the cultivation of the sisal plant, the most suitable lands are poor, rocky, gravelly soils rich in lime (the latter is absolutely necessary), worn-out sugar lands and arrowroot fields, and lands which no longer yield satisfactory wheat crops. Swampy land must especially be avoided. A very suitable soil is one composed mainly of coral rock. On rich soils, the plant will go larger, but the fibre is less in quantity and quality. Another objection is that the plant rapidly comes to maturity, throwing up its flower pole after three or four years, which is the end of the plant's life, and only one crop is harvested. On the poorer lime soils the life of the plant turns to from ten to fifteen years, yielding as many and more crops.
+
+2. The failure of a crop on suitable land and in a warm climate has never been heard of.
+
+3. The land to be planted should be fenced to keep off stock—for the reason that, in feeding round the plants, these are trampled down or kicked out. The plants to form a plantation should not be higher than 10 or 12 in., or even less. Older plants take a much longer time to start growing. When planting all dry leaves at the base of the young plant should be taken off as in the case of pine-apple, and the main roots cut off and pared as closely to the trunk as possible. They must be planted perpendicularly, and only the lower portion of the trunk must be covered. The distance apart in the field is a question of soil. In rich soil the rows may be 10 ft. apart, and the plants at intervals of 6 or 7 ft. In poor ground 8 ft. by 6 ft. is as close as the plants should be set. Roadways should be left at intervals of 5 chains.
+
+4. Once a field is planted, it may be practically left to itself, as there is probably no crop, except the castor-oil plant, which requires less care to bring it to perfection than sisal. At the same time, a little care is needed at the outset until the plants are robust. No weeds should be allowed to grow, nor any to overtop the sisal plants, as they require all possible light, air, and sun. Tall weeds may be mown down.
+
+5. In about twelve months suckers will begin to appear, and in twenty-four months these will be produced at the rate of 100 per plant. These must all be removed for two reasons. One is that they deprive the mother plant of the nutriment it requires to produce large leaves and plentiful fibre. The other is that suckers are valuable either for extending the area under sisal or for sale to intending planters. To plant up 100 acres 60,000 to 100,000 suckers are needed.
+
+6. The life of the sisal plant is intimately connected with the production of the flower-stalk, technically called the "pole." The life of the agave (sisal plant) is a comparatively long one, but the long life may be materially shortened by injudicious management. The sign of the termination of its existence is the sending up of the pole. This happens when the plant arrives at the cutting stage and the leaves are left uncut. It may also be the result of overcutting. Much judgment is required, therefore, to ensure that no pole shall appear for ten, twelve, or different years. When the pole has appeared, it should be notched and bent over as soon as it appears, in order that all the leaves on the plant should be ripened before it dies. In this way the plant is
+
+21------------------------------------------------
+
+230[APRIL, 1917.
+
+kept available for yielding fibre a year later than it otherwise should be. Immature leaves should not be cut. As a general rule, the ripening leaves gradually fall from the erect to the horizontal position on the plant. Then are the leaves to be cut. It should not be lost sight of that when a mature plant sends up its pole all its suckers at once follow suit and send up slender poles. Hence suckers from a poled plant should never be used in forming a plantation, as it will probably not be six months before the pole appears.
+
+7. According to conditions of climate, soil, and the kind of plant, the first leaves will mature in from three to four years. For harvesting the leaves, account must be taken of their length and state of ripeness. The length of the fibre is one important factor in its fitness for the market. The least length admissible is 2 ft. 6 in. and every additional length increases its value. It is not advisable, however, to cut leaves until they have attained a length of 3 ft. These leaves will average about 3 lb. in weight, but they frequently attain a weight in the Brisbane district of from 5 to 7 lb. If left long after the leaf has reached the horizontal position—i.e., at right angles to the trunk—the leaf droops to the ground, acquires yellow spots, and, when machined, much of the fibre is broken off short at these spots, and is only saleable as tow. The unripe leaves produce a brilliantly white fibre, but these, as stated, must not be cut. The number of ripe leaves per plant when from three to four years old will vary from ten to twenty, according to conditions of planting, rising in subsequent years to forty or fifty. This does not mean that forty or fifty leaves are at once cut from each plant, but it refers to the aggregate of the year's operations. The leaves are cut with a curved knife. Proper cutting consists in cutting the leaves as close as possible to the trunk. Loose cutting results in a considerable loss of the strongest part of the fibre. If 3 in. of each of forty leaves are left on the plant, there is a loss of 10 ft. on each plant or 10,000 ft. on an acre. This is a matter well worthy of attention by sisal planters. One man should cut and tie up an average of 1,200 leaves a day.—QUEENSLAND AGRICULTURAL JOURNAL, JANUARY 1917.
+
+## SILK IN INDIA.
+
+In their Annual Report for 1915-1916 the Salvation Army deal with their silk work in India and Ceylon, putting forth suggestions that are suitable and practicable for the extension of Silk Industry. It strongly recommends the appointment of a *full time* Sericultural Director with a knowledge of Indian conditions, and extensive cultivation of Mulberry which is so easy to grow. The report gives some striking figures. In Kashmir State nurseries are established for Mulberry, and trees are planted free of cost to the villager in places where the industry is being started. Free leaves and eggs are supplied to the villagers and the whole of their cocoons are bought by the State. Nearly one lakh of rupees is spent yearly in purchasing disease-free seed of the best quality. A skilled and highly paid staff is also paid for by the State to supervise and direct the operations. After meeting all these expenses the State derives an annual profit of 9 lakhs of rupees from the Silk Industry.
+
+In Ceylon the Ceylon Agricultural Society did all it could to foster the Industry, but our peasant population being in the majority Buddhists, religious scruples stand in the way of the extension of the Industry. Ceylon is well suited to the Silk Industry, Mulberry can be grown successfully anywhere, but Ceylon has never been able to produce Silk in sufficient quantity to attract the market and may never be able to if the Salvation Army fail in their attempts to push the Industry forward in the villages. One thing can be done and that is to utilize the rural schools and teachers for popularising the Silk Industry and to encourage the same by the distribution of prizes for the best work done.
+
+22------------------------------------------------
+
+APRIL, 1917.]231
+
+## REPORT ON KAPOK WASTE FROM CEYLON.
+
+The report on kapok waste which is the subject of this report was forwarded to the Imperial Institute by the Secretary of the Ceylon Agricultural Society with letter No. 2673, dated 13th July, 1916. It was stated that the material was produced in the process of ginning kapok and it was desired to learn whether it would be of any value for paper-making.
+
+### DESCRIPTION OF SAMPLE.
+
+The sample weighed 1 lb. and consisted mainly of the pithy axes and partition walls of kapok pods, together with some adherent floss and a quantity of pod cases and pieces of stalk.
+
+### RESULTS OF EXAMINATION.
+
+The material was examined at the Imperial Institute as a source of paper pulp, and the yield of pulp under different conditions of boiling was found to be as follows:—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Caustic soda used, expressed on the weight of raw material treated.</th>
+<th colspan="2">Conditions of Boiling</th>
+<th rowspan="2">Yield of dry unbleached pulp, expressed on the weight of raw material treated.</th>
+</tr>
+<tr>
+<th>Time.</th>
+<th>Temperature.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Per cent.</td>
+<td>Hours.</td>
+<td>C.</td>
+<td>Per cent.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>4</td>
+<td>140</td>
+<td>33.5</td>
+</tr>
+<tr>
+<td>16</td>
+<td>4</td>
+<td>140</td>
+<td>28.8</td>
+</tr>
+</tbody>
+</table>
+
+This yield of pulp, viz., from about 28 to 33 per cent. is low, and the pulp itself is of poor quality and dark brown colour. Sheets of paper produced from the unbleached pulp shrank on drying to a little more than half their original size, and yielded a dark brown, parchment-like, semi-transparent product, samples of which are forwarded with this report, together with samples made from the pulp after bleaching.
+
+It was not found possible to bleach the pulp to a good colour by the use of any quantity of bleaching materials which could be used on a commercial scale.
+
+### REMARKS.
+
+The low percentage and poor quality of the pulp yielded by this kapok waste show that this material could not be utilised industrially for the manufacture of paper.
+
+18th December, 1916.
+
+### EXTRACT FROM MR. A. B. THOMSON'S LETTER.
+
+"I thank you for your letter and report on the kapok waste cores and for the paper samples. The quality of the paper does not look nice, but it seems fairly strong and would do for wrapping purposes. A yield of 28 to 33 per cent. seems fair, especially when it can be considered that the kapok cores are a waste product and so very easily extracted from the cotton pod, and that they comprise half the weight of the cotton, seed and core together. The seed cotton and core together can be bought for from Rs. 5/- to Rs. 9/- per cwt. The cotton from this, when cleaned, costs from Rs. 25/-, which leaves a very small margin for profit. If for every cwt. of unclean cotton,  $\frac{1}{2}$  cwt. of core could be converted into  $\frac{1}{6}$  of cwt. of paper, I should say that it would be advantageous."
+
+23------------------------------------------------
+
+232[APRIL, 1917.
+
+# FOOD STUFFS.
+
+## GINGELLY CULTIVATION IN JAFFNA.
+
+There are two varieties of Gingelly (*Sesamum Indicum*) viz. Black and White grown in Jaffna. Only the black variety is cultivated in low and inferior lands after the harvest of paddy. This is a four months' crop.
+
+*Soil.*—Loamy clay and sandy soils are used for this crop.
+
+*Season.*—It is important that the season chosen should be one when there should be little rainfall, and the best season for cultivation of this crop is found to be from March-April to June-July.
+
+*Cultivation.*—The land is ploughed and cross-ploughed after the harvest of paddy and no manure is applied as this crop immediately follows the paddy crop. The seed is sown broadcast at the rate of about 2 measures per acre and covered by ploughing. The soil should not be too moist at the time of sowing. The seeds will germinate after a week. It will be advantageous if there will be a shower when the plants are a month old and at this stage they develop into a spreading growth. Also it is beneficial if there are one or two showers after the pods have been formed. There should not be any rain at the time of sowing, flowering and harvesting.
+
+*Harvesting.*—The plants are cut when the pods on the top show signs of bursting and are made into a bulk to ferment. They are kept covered for about 6 days. On the 7th day the plants are taken from the bulk and spread on mats to dry in the sun for about 2 or 3 days. When the plants are dried well they are thrashed by beating with a stick and the seeds are separated by winnowing.
+
+*Process of Oil Extraction.*—There are two methods of oil extraction, viz. by Chekku mills and by hand presses made locally.
+
+*Treatment of Seed for the Mill.*—The cleaned seeds are put into a big bucket or a basket filled with water and allowed to soak for about 2 hours. The water is drained off when it turns to a dark colour and the water changed as often as is found necessary. Then the seeds are bruised in the bucket by a wooden pestle in order to remove the husk. The husks float in the water and are removed by being drained off with the water. The seeds are then spread on mats to dry in the sun. After drying for about 3 days the seeds are ready for the mill. One bushel of seeds gives about  $1\frac{3}{4}$  gallons of oil.
+
+*Locally Made Hand Press.*—Two half-round wooden beams of about 10 in. by 7 ft. are loosely coupled at one end with rope. The end thus coupled is loosely fixed on a post and the other end of one of the beams is tightly fixed to another post. The oil is extracted as follows: The husked seeds are pounded in a wooden mortar with boiling water until they are reduced to a pulp. This is then filled into a specially made *nar* basket. This *nar* basket with the pulp is placed between the two wooden beams and by pressing the end of the beam which is not fixed to the post the oil is extracted. The oil thus extracted is considered to be in greater quantity and of better quality than that obtained by pressing in the chekku. This method of extraction is used only when the oil from a small quantity of seed is to be extracted.
+
+V. RAMANATHAN,  
+Agricultural Instructor, N.P
+
+24------------------------------------------------
+
+APRIL, 1917.]233
+
+## ONIONS.
+
+Enquiries are always coming to hand with regard to the growing of onions on a commercial scale. This has been attempted here several times and with success so far as the raising of good onions was concerned, but net results do not seem to have been good enough to encourage a continuation of the cultivation. MR. SPOONER, formerly of Morelands, had a useful article on the subject in the Journal for January, 1915. We should at any rate be able to supply our own wants instead of importing.
+
+The variety raised is the so-called "Bermuda." We usually import some of this seed every year, but find it does not keep its vitality long. Large orders would have to be given long ahead in order to secure the best seed which is raised in the island of Madeira and in the Canary Islands. Seed is also now raised in California and Texas, but most growers prefer Madeira seed if it can be got. This variety of onions is called Bermuda, because in the Bermuda Island the raising of fine onions was a large industry. They were practically all exported to the United States, so, coming from Bermuda, they came to be so called.
+
+The following paragraph is from the AGRICULTURAL NEWS (Barbados) :—
+
+"The growing of onions has assumed large proportions as an industry in the Leeward Islands. Recently a leaflet has been circulated in Montserrat containing practical hints for raising onions. Importance is attached to the site and the soil of the plots. The plot should be in close proximity to water, but should be well drained and not in wet locality. Great importance is attached to the method of making the seed bed, and to the amount of seed distributed. Generally speaking, the fewer the seeds the better, and they should be well scattered over the drill. Good results have been obtained by using 1 lb. of seed to 240 running feet of drill formed with an onion hoe, the base of the drill being at least 2 inches wide, and the seeds well scattered; but this is considered to be a maximum amount to use. The seed should not be covered deeply, say,  $\frac{1}{4}$  to  $\frac{3}{4}$  inch on most soils.
+
+While the preparation of the plot and the manner of planting have an important indirect bearing on the question of "damping off," and are probably the best means of avoiding the trouble, it is still worth remembering that "damping off" can be lessened by sterilization of the soil. This is done by baking the surface soil by fire. A section of the onion seed beds in the Montserrat Experiment Station was treated in this way in 1915 with apparently good results, and it is worth trying on estates where "damping off," is prevalent. Another useful measure of control is the provision of shade for the beds. Coconut leaves are used for this purpose.—JAMAICA AGRIC. SOC. JOURNAL, December 1916.
+
+25------------------------------------------------
+
+234[APRIL, 1917.
+
+## VEGETABLES: SUGGESTIONS FOR SEED PRESERVATION.
+
+EXPERIMENTS ON THE SUPPOSED DETERIORATION OF VARIETIES IN  
+PORTO RICO.
+
+C. F. KINMAN AND T. B. McCLELLAND.  
+SUMMARY.
+
+That northern vegetables degenerate quickly when taken to the Tropics is a common belief in Porto Rico, resulting from the fact that seed loses its viability quickly when exposed to moist air and from a lack of knowledge regarding seasonal effect on vegetable production.
+
+To retain the viability of seed of the crops used in the experiments here reported, the seed was stored in air-tight jars in the bottom of which was placed a small quantity of calcium chloride. This method was so satisfactory that it is recommended for general use.
+
+Planting a few types of peppers, such as are commonly grown in Porto Rico, side by side with varieties imported from the North showed that the Porto Rican types are much more productive and therefore more desirable than imported varieties.
+
+Forty plantings of beans were made, including nine generations. Of the Porto Rico plantings, those made in March gave large crops, except one in 1911, which was hindered by an exceptional drought, while those made in other months, including June, September, November, December and January, gave small harvests. No indications that advanced generations were inferior to earlier ones were observed.
+
+Records of the five years' work with okra, during which time 32 plantings were made, reaching finally the eighth generation, show that the growth and production of the advanced generations are not inferior to those of the earlier ones.
+
+The development of plants of the different generations of tomatoes grown in Porto Rico was very uniform and proves that, except for occasional importations, the seed of this vegetable needed in Porto Rico can well be grown in the home gardens.
+
+In the work with lettuce no degeneration was noted as a result of growing an imported variety for successive generations in Porto Rico. Owing to the difficulty of producing seed during seasons of heavy rain, the experiments with this crop were hindered considerably. As seed production is difficult and loss of viability rapid, it will probably be necessary to import the seed of this crop.
+
+In all vegetable plantings the season at which the planting was made had a very pronounced effect on the yield, being the predominant factor influencing production.—PORTO RICO AGRIC. EXPT. STN. BULL No. 20.
+
+26------------------------------------------------
+
+APRIL, 1917.]235
+
+# SOILS AND MANURES.
+
+## THE PRESENT POSITION OF ARTIFICIAL MANURES IN INDIA.
+
+DR. HAROLD H. MANN, D.Sc.
+
+The use of artificial manures has made exceedingly slow progress in India. While their employment may be said to have revolutionised agriculture in many of the older countries in Europe, and while they are utilised to an enormous extent in many of the more newly developed tropical areas, in India the amount used hitherto has been very small indeed. In fact, but for the fertilisers utilised in the planting industries of the North-east and south of the country, the quantity would be negligible.
+
+And this is the case in spite of the fact that the present available supply of manure, chiefly cattle manure, is almost everywhere felt to be inadequate. This is particularly the case wherever an adequate water-supply, whether from rainfall or from irrigation, is assured, for the adequacy of the water supply is the prime factor which determines the production over a very large part of India. But everywhere, the cry comes that manure is not available, that it is too expensive, and that the price has advanced enormously in recent years. In some of the intensive irrigation tracts, the price has become almost ludicrously high; in one tract in the Deccan (Nira Valley) dried farm-yard manure, chiefly dung, is sold for manuring by the bag, the rate ranging from four to six annas per bag.
+
+Yet, in many parts of the country, a great deal of the available cattle manure is used for making fuel. Some recent enquiries I have made in the Deccan show that, there, two-thirds of the available cattle manure are thus used in many tracts. And one feels that in a tract where fuel is short, it is likely always to be the case. Fuel is a primary necessity: manure is not, with the result that until other cheaper fuel can be provided, cattle dung must and will be used. But even where cattle dung is used as fuel the demand for manures is increasing, and must increase, and the present seems an opportune moment to discuss the present position and future prospects of artificial manures in this country.
+
+Of course, when the stress for manures is first felt the tendency is to use oil-cakes, fish, local refuse manures like sterilised animal meal, and blood, and to a less extent bone meal as a supplement to the cattle manure no longer available in sufficient quantity. These have in practically every case been the first substitutes in the planting districts, in garden cultivation, for sugar-cane, and for other intensive crops. And they are, as a rule, by far the cheapest and most suitable when first employed, especially the first two of the materials named. When their use becomes at all general, the price, however, rapidly rises. When I first came to India in 1900, good mustard cake manure could be obtained at about twelve annas per Bengal maund in Assam, for practically none was used for tea cultivation at that time; now, the same material would cost three rupees per Bengal maund.
+
+27------------------------------------------------
+
+236[APRIL, 1917.
+
+In the last ten years, again, in the sugar-cane growing districts of the Deccan, the price of manure cakes and fish increased by fifty per cent., and will undoubtedly tend still further to rise. This may and will be checked by the development of oil pressing mills, and hence an increase in the available quantity of such manures, but the tendency of prices will be upward.
+
+The third manure mentioned above, namely bone meal, occupies a special position. India is a great producer of bones, and of bone meal. The amount used here for manure or for other purposes is nevertheless small. As a manure here, except in special cases, bone meal has not been a great success. I do not know why this should be the case as the nitrogen and phosphoric acid which it contains are urgently demanded by most Indian soils. It has, moreover, been used in quite a profitable manner with rice, with coconuts, and with fruit trees, and as a constituent of mixed manures in a few other cases. But bone meal is not popular with our usual intensive crops, as at prices which compete with those offered for export, it will not pay to apply as compared with oil-cakes or certain imported artificial manures.
+
+With an increasing realization of the necessity of manuring, but at the same time with an insufficient quantity of cattle manure, and a rising price for oil cake, for fish, and for bone meal the opportunity comes for the use of artificial manures. These are, however, almost all at present imported. The sole exceptions are the crude nitre or saltpetre of North India, a relatively small quantity of sulphate of ammonia now produced in the country, and some rock phosphates in South India, and of these I will speak later. The rest are imported, and the amount brought into the country was steadily growing up to the beginning of the war. It is almost useless to take any account of what has happened since then though I know that the quantity imported in 1915, was greater than in the previous year. The figures up to 1913-14, however, were as follows:—
+
+<table>
+<tbody>
+<tr>
+<td>1909-10</td>
+<td>...</td>
+<td>...</td>
+<td>863 tons.</td>
+</tr>
+<tr>
+<td>1910-11</td>
+<td>...</td>
+<td>...</td>
+<td>1,339 tons.</td>
+</tr>
+<tr>
+<td>1911-12</td>
+<td>...</td>
+<td>...</td>
+<td>3,774 tons.</td>
+</tr>
+<tr>
+<td>1912-13</td>
+<td>...</td>
+<td>...</td>
+<td>5,409 tons.</td>
+</tr>
+<tr>
+<td>1913-14</td>
+<td>...</td>
+<td>...</td>
+<td>8,234 tons.</td>
+</tr>
+</tbody>
+</table>
+
+The quantity is obviously exceedingly small, but, small as it is, there has been very nearly a tenfold increase in five years. Of this amount, practically the whole is imported into Calcutta and Madras and the proportion of the whole taken into these two ports has not materially changed in the period under review. Calcutta took one-third of the supply. Madras received nearly two-thirds in 1913-14 as in 1909-10. Other centres imported exceedingly small quantities. In 1913-14, for instance, Bombay and Karachi,—the natural supplying centres for the greater part of Western India—took a total of 51 tons, and Burma only 175 tons. While therefore there may be a little cross country traffic by rail into Bombay, this must be exceedingly small, and we may take it that practically the whole use of imported artificial manures in India is in those districts usually fed by the Bengal ports or by Madras.
+
+If we consider the particular artificial manures of which these imports
+
+28------------------------------------------------
+
+APRIL, 1917.]237
+
+consist we find they were as follows in 1913-14:—
+
+1. (1) Sulphate of ammonia—226 tons, over 80 per cent. of which was taken by Madras.
+2. (2) Nitrate of soda—280 tons.
+3. (3) Nitrate of lime—603 tons, nearly all imported into Madras.
+4. (4) Nitrolim—123½ tons.
+5. (5) Phosphates (except Basic slag) including Superphosphates—850 tons.
+6. (6) Basic slag—1,874½ tons, practically all imported into Madras.
+7. (7) Potash manures—1,879 tons, practically all imported into Madras.
+8. (8) Mixed and unspecified manures—2,390 tons, nearly all imported into Calcutta.
+
+Let us consider in order the present purposes for which these manures are employed, and their future prospects. The first four among them practically owe their value as manure to the nitrogen which they contain. These are:—
+
+(1) *Sulphate of Ammonia*.—This is one of the materials which has promise of very large immediate development in India. The quantity available can be very largely increased, the source being coke making ovens in connection with collieries or iron works. I understand the Tata Iron and Steel Works at and in connection with Sakchi in the Central Provinces will be shortly a considerable source of supply. Even now Bengal supplies itself with this material and exported about eight hundred tons in 1915. In Madras the material has an established position, while in Bombay the future of no other artificial manure is so promising as of this.
+
+Of all available manures it is richest in nitrogen. No sample should be bought which does not contain at least 20 per cent. of this constituent. Its action on any crop is very rapid, and it is (except sometimes when used as a constituent of mixed manure) generally applied as a topdressing to the growing crop. The effect with most crops will be observable after from two to three weeks in a deeper green colour, and greater vigour of growth.
+
+The price of this manure in Bombay before the war was between Rs. 260 and Rs. 290 per ton. The value per unit of nitrogen thus came to about Rs. 13 to Rs. 14-8-0 per ton unit. In Calcutta it was from Rs. 40 to Rs. 60 per ton cheaper. It may be expected, however, that in the future these prices will be considerably reduced when a much larger locally manufactured supply will be available.
+
+The manure is being used chiefly in mixture with other manures, for tea and other planting crops and this use will probably extend considerably in the near future. But there is more scope for its application in connection with sugar-cane than with any other tropical crop, and the demand in other tropical sugar growing countries is now very large. Probably there will be a good market for all the sulphate of ammonia that India is able to produce, for a good many years, in Java and the other sugar growing centres in the East Indian Islands. Experiments\* which have recently been conducted in Western India have proved that, in the black soil areas of India, for sugar-cane, sulphate of ammonia can adequately and satisfactorily replace oil-cakes as a topdressing for this crop, but that slightly better results can be obtained
+
+\*ARTIFICIAL MANURES: Experiments on their value for crops in Western India by H. H. MANN and S. R. PARANJPE, Poona.—BOMBAY AGRICULTURAL DEPT. BULL. 76, 1915.
+
+29------------------------------------------------
+
+238[APRIL, 1917.
+
+with a mixture of sulphate of ammonia and oil-cake than with the former manure alone. On sandy lands in the same area oil-cake containing a similar amount of nitrogen appears to be a better manure for sugar-cane than sulphate of ammonia.
+
+Mixed with other artificial manures it has given excellent results with many garden crops, and probably has a great future before it. It will almost always be applied in admixtures with other manures and the following are some recent recommendations with important garden crops in Western India.
+
+(a) *Chillies*.—(Black cotton soil)—A dressing of about 3 tons per acre of farmyard manure, followed by a top-dressing of a mixture of
+
+<table>
+<tr>
+<td>Sulphate of ammonia</td>
+<td>...</td>
+<td>60</td>
+<td>pounds per acre</td>
+</tr>
+<tr>
+<td>Superphosphate</td>
+<td>...</td>
+<td>224</td>
+<td>" "</td>
+</tr>
+<tr>
+<td>Sulphate of potash</td>
+<td>...</td>
+<td>180</td>
+<td>" "</td>
+</tr>
+</table>
+
+(b) *Onions*.—(Black cotton soil)—A dressing of about 10 tons per acre of farmyard manure, followed by sulphate of ammonia as top-dressing up to 375 pounds per acre. In this case nitrate of soda does equally as well as sulphate of ammonia.
+
+(c) *Lucerne*.—(Black cotton soil)—A dressing of about 4 tons per acre of farmyard manure, followed by a top-dressing of a mixture of
+
+<table>
+<tr>
+<td>Superphosphate</td>
+<td>...</td>
+<td>243</td>
+<td>pounds per acre</td>
+</tr>
+<tr>
+<td>Sulphate of ammonia</td>
+<td>...</td>
+<td>15</td>
+<td>" "</td>
+</tr>
+</table>
+
+(d) *Bananas*.—(Sandy soil, with irrigation)—A dressing of the following mixture per 100 plants.
+
+<table>
+<tr>
+<td>Castor cake</td>
+<td>...</td>
+<td>400 to 450</td>
+<td>pounds</td>
+</tr>
+<tr>
+<td>Sulphate of ammonia</td>
+<td>...</td>
+<td>50</td>
+<td>pounds</td>
+</tr>
+<tr>
+<td>Sulphate of potash</td>
+<td>...</td>
+<td>70</td>
+<td>"</td>
+</tr>
+<tr>
+<td>Superphosphate</td>
+<td>...</td>
+<td>80</td>
+<td>"</td>
+</tr>
+</table>
+
+This quantity should be applied to each plant as a top-dressing in three lots, one month, two months, and three months after planting respectively.
+
+These are just a few examples for which recent data in India are available and at a local price which does not exceed Rs. 300 per ton for unadulterated material, there seems a very large scope for the development of the use of sulphate of ammonia.
+
+(2) *Nitrate of Soda*.—The manure which has been the greatest competitor of sulphate of ammonia is nitrate of soda. For this we are still chiefly, if not entirely, dependent on Chili in South America, and propaganda in favour of its use in India has been taken up in India recently by the Chilean Nitrate Propaganda. At first sight it appears strange that nitrate of potash or salt-petre, already prepared on a large scale in India, cannot compete with Chilean nitrate in point of price per manure unit in this country. The fact remains that the price of Indian saltpetre is relatively high and while valuable and even indispensable for other purposes, it cannot compete with the Chilean product here.
+
+The use of nitrate of soda has developed very rapidly in the last three or four years, particularly in the areas supplied from Calcutta and in Burma. In 1913-14, 113 tons were imported into Bengal, 118 tons into Burma, while the whole of the rest of India only received 49 tons. In spite of the war these figures have been considerably increased in 1915, though I cannot yet give official figures.
+
+30------------------------------------------------
+
+APRIL, 1917.]239
+
+Of all available manures (except nitrate of lime) it is the one in which the nitrogen is most readily available, and the one in which the action of the manure is the quickest. Its effect, when applied as a top-dressing, can usually be seen within a fortnight in a darker colour of the leaves and generally more vigorous appearance of the plants. The objections to nitrate of soda are two. It is apt to drain from the soil rapidly if excessive rain follows its application, and the material itself is apt to become wet if kept in a damp atmosphere. The first of these defects can be avoided if the time of application be judiciously chosen; the second is somewhat difficult to meet.
+
+The price for this manure, of good quality and containing about 15.5 per cent. of nitrogen, was, before the war, about Rs. 210 per ton in Bombay. This gives a value per unit of nitrogen of about Rs. 13-8-0. per ton unit or practically the same as for sulphate of ammonia. As the nitrogen in nitrate of soda is a little more readily available, the nitrogen in this manure was really slightly cheaper. In Calcutta the advantage, on the other hand, was slightly in favour of sulphate of ammonia.
+
+The crops for which nitrate of soda seems particularly suitable are many, and it is a question whether it cannot replace sulphate of ammonia in nearly every case. Nitrates have specially been recommended for *rice* in small quantities as a top-dressing, by the Bengal Department of Agriculture. I got good results some years ago on *tea*, practically equal to those obtained with sulphate of ammonia. It forms, in combination with sulphate of potash and superphosphate, a very paying dressing for *tobacco* in the black soil areas of Western India at the following rates:—
+
+<table>
+<tr>
+<td>Nitrate of soda</td>
+<td>...</td>
+<td>...</td>
+<td>285</td>
+<td>pounds</td>
+<td>per</td>
+<td>acre.</td>
+</tr>
+<tr>
+<td>Superphosphate</td>
+<td>...</td>
+<td>...</td>
+<td>336</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+<tr>
+<td>Sulphate of potash</td>
+<td>...</td>
+<td>...</td>
+<td>224</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+</table>
+
+For *potatoes* nitrate of soda has given very good results, and the following dressing, in addition to the ordinary dressing of farmyard manure given to this crop, has been recently recommended in the black soil areas of Western India:—
+
+<table>
+<tr>
+<td>Nitrate of soda</td>
+<td>...</td>
+<td>...</td>
+<td>170</td>
+<td>pounds</td>
+<td>per</td>
+<td>acre.</td>
+</tr>
+<tr>
+<td>Superphosphate</td>
+<td>...</td>
+<td>...</td>
+<td>112</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+<tr>
+<td>Sulphate of potash</td>
+<td>...</td>
+<td>...</td>
+<td>150</td>
+<td>"</td>
+<td>"</td>
+<td>"</td>
+</tr>
+</table>
+
+For *cotton* where the rainfall is certain enough to ensure normal growth or where there is irrigation, artificial manures should be used as a supplement to about two tons per acre of cattle manure. The rates recommended are (a) two tons of farmyard manure per acre ploughed into the land before the seed is sown, (b) 200 pounds of superphosphate per acre drilled with the seed, and (c) 135 pounds per acre of nitrate of soda top-dressed six weeks after sowing. The use of such a dressing tends to hasten the maturity of the cotton.
+
+The very general utility of nitrate of soda for crops which grow rapidly, and wherever the water-supply is assured, is shown by these figures. But it will also be obvious that alone it is, as a rule, an insufficient manure. It is as part of a mixture of several artificial manures, suitable to the crop and to the special conditions that its utility comes in. It seems to have a considerable future for it in India if this fact be kept in view.
+
+(3) *Nitrate of Lime.*—Nitrate of soda has been replaced in a measure in recent years by nitrate of lime, prepared by electric methods from the nitrogen
+
+31------------------------------------------------
+
+240[APRIL, 1917.
+
+of the atmosphere. When first brought out, there was an attempt to boom the material, but it is now recognised that its value depends almost entirely on the nitrogen which it contains, that this nitrogen is practically as efficient as that in nitrate of soda, and that, hence, the choice between the two materials will depend almost entirely on the relative price per unit of manurial value. When first introduced, nitrate of lime was a material which rapidly absorbed water and became very wet: as now prepared it has not, however, this defect.
+
+In 1913-14, the fairly large amount of 603 tons was imported into India, almost entirely into Madras. In Northern or Western India neither then nor since has it been used on more than an experimental scale. The price in Indian ports before the war was about Rs. 140 per ton, and from numerous samples analysed in my laboratory, I find that on the average it contains about 11.5 per cent. of nitrogen. This gives a cost per unit of nitrogen of a little over Rs. 12 per unit. This, it will be seen, is slightly below that of the nitrogen in sulphate of ammonia or nitrate of soda. So long as this cost is below, so long is it worth while to use the material. There is no reason to suppose that nitrate of lime has a different action from other nitrates or possesses any advantages as a manure over them.
+
+I may say that I have had samples of nitrate of lime submitted to me which were grossly adulterated. Some have contained as little as 10 per cent. of nitrogen, and in one case only 2.6 per cent. of nitrogen was found; it is a material which cannot safely be bought except on a guaranteed analysis.
+
+(4) *Nitrolim*.—The last of the artificial manures employed purely as sources of nitrogen is nitrolim, or (as it was called when first introduced) calcium cyanamide. This is a purely artificial product whose method of manufacture was only patented in 1908, and the production of which has been developed very largely only since that time. It derives its nitrogen from the atmosphere and is obtained by heating calcium carbide with nitrogen. Under these circumstances the nitrogen combines in a form which gradually produces ammonia when mixed with the soil. There is also formed at the same time a large quantity of slaked lime, which is very valuable in many of the wetter parts of India, where lime is often very deficient in the soil.
+
+The nitrogen in this manure is very valuable, and is practically as available as that in sulphate of ammonia, although it is somewhat slower in action. As supplied in India it has varied very much in value, some samples containing about 16.5 per cent. of nitrogen, while most only yield between 10 and 12 per cent. Its price has varied much, but in 1915, it cost about Rs. 200 per ton in Calcutta. If we take pre-war prices in Calcutta at Rs. 160 per ton, the value per ton unit of nitrogen would be from Rs. 10 with the best qualities to Rs. 14 with most samples I have examined. The price is likely to go down after the war, but the great variation in value would seem to indicate the necessity for great caution in purchasing this manure.
+
+In India its use has rapidly increased. In 1913-14 it was imported to the extent of 123 tons into Madras, and of a few hundred-weights into other parts of India. In 1915, while I have not the figures for Madras, it was sold in Calcutta to the extent of over 1,300 tons, being there used chiefly for tea mixed with other manures. I cannot give very definite results from its application from local experience but, with regard to this manure which (from the very rapid increase in its use) appears to have a future in this country, the following notes of its use elsewhere may be valuable.
+
+Nitrolim is least effective when used as a top-dressing, and is best employed by being buried in the ground where the roots are expected to grow. It should be scattered through the lower layers of cultivated soil as much as possible. The seed and manure should not be in direct contact and the nitrolim should be put in several days before the seed. The quantity which can
+
+32------------------------------------------------
+
+APRIL, 1917.]241
+
+be economically applied at one time is limited to 150 pounds per acre. It is best used as part of a mixed manure, and has nearly always been so applied. It can be mixed well with superphosphate and the mixture keeps in very good condition.
+
+The four purely nitrogenous manures whose position I have now discussed have, apparently, all a future in India, apart from the special utility of some of them with certain crops. What manure will be most used will depend on the price per ton unit of nitrogen which they contain. Before the war these prices per ton unit were approximately as follows :—
+
+<table>
+<tr>
+<td>Sulphate of ammonia</td>
+<td>...</td>
+<td>Rs. 13 to Rs. 14.8 (in Bombay)<br/>Rs. 10 to 11 in Calcutta.</td>
+</tr>
+<tr>
+<td>Nitrate of Soda</td>
+<td>...</td>
+<td>Rs. 13 to Rs. 13.8</td>
+</tr>
+<tr>
+<td>Nitrate of lime</td>
+<td>...</td>
+<td>Rs. 12</td>
+</tr>
+<tr>
+<td>Nitrolim</td>
+<td>...</td>
+<td>Rs. 10 to Rs. 14</td>
+</tr>
+</table>
+
+The cost of sulphate of ammonia is very much less in Calcutta than at other centres so that its position is different there from what it is elsewhere. But what I want to insist on is that the future of these materials depends on the cost of the nitrogen they contain, and that the one in which the nitrogen is the cheapest will be the one which will win the market.
+
+(5) and (6) *Phosphate Manures, including Superphosphate and Basic Slag.*—There is little doubt of the deficiency of Indian soils in phosphates. Experiments with almost all intensively grown crops show this and yet the extent to which phosphates are employed as manures is extremely small. Except among the planters of Southern India, one cannot say that their value is at all generally recognised. Largely as a result of Ceylon experiments, the employment of basic slag in planting practice in South India has become fairly general, and the same material is now rapidly advancing in popularity in the planting districts of the north, where nearly 800 tons were absorbed in 1915. Superphosphates, either ordinary or concentrated, are perhaps more *widely* used, but the actual quantity is smaller.
+
+It may at once be said that phosphatic manures ought always to be employed in mixtures, except perhaps when basic slag is put in along with buried tea prunings. Apart from this, these phosphates only show their real value when mixed with nitrogenous manures. For general use superphosphate is probably preferable to basic slag in most cases where the soil is not deficient in lime, and my own success has been chiefly obtained with the former manure. In Western India I have had excellent results with mixtures of manures containing superphosphate, with tobacco, with potatos, with chillies, with onions, with lucerne, and with bananas.
+
+In black soil areas, in fact, next to nitrogen the great necessity seems to be phosphates. On the whole, as already noted, the use of raw bones, which are rich in these phosphates, has not given satisfactory results. But the necessity for phosphates is there, and when given in an easily available form, such as superphosphate, they have always shown benefit, provided that nitrogenous manures were present in sufficient quantity.
+
+(7) *Potash manures.*—In order to make a complete manure some source of potash is necessary. We have a local source in the wood ashes which exist in limited quantity in most parts of the country. For more than this we were dependent on Germany until the war broke out, and since that time potash manures have been practically unobtainable. The amount imported, again almost entirely for planting purposes in South India, in the last year before the war, was nearly 1,900 tons. It was used entirely in the form of mixtures with nitrogenous and phosphatic materials.
+
+For really satisfactory manuring with artificial manures, a mixture must be made suitable to the crop and to the particular soil with which one has to deal. A good many soils in India do not seem to require potash for many
+
+33------------------------------------------------
+
+242[APRIL, 1917.
+
+crops more especially in the black soil areas of India. There I have failed to get any economical results with cotton, with wheat, with lucerne, with onions, and with a number of other crops. So far it seems doubtful whether in these areas it will even pay as an addition to sugar-cane manure. For tobacco to get the best results, I have, however, even in the Deccan, found potash manures indispensable. The formula I have used has been already indicated. The same is the case with potatoes.
+
+With garden crops on sandy land, I have found again that potash is essential to get the best results with bananas, and the manure I have employed has been already described. I found the same thing with coconuts where, at Goa, the following manuring has given excellent returns :—Twenty five pounds of horse or cattle manure mixed with two pounds of oil-cake per tree, and to this mixture two and a half pounds of bone meal, one pound of sulphate or muriate of potash, and half a pound of common salt are added.
+
+The use of potash manures in the near future is bound to be limited, as Germany is, so far, the principal source of these materials. There is no need to say much further therefore, with regard to them at present, when used, we have usually employed them in the most concentrated form, that is to say, as sulphate or muriate of potash.
+
+Beyond the single manures, I have so far described there has grown up a system of importing manures ready mixed and supposed to be adapted for particular crops. This has been particularly the case from Ceylon to South India, and for this there has been some excuse, as one or two very large firms of manure mixers had grown up in Ceylon. Generally it may however be said that it is expensive and unwise to import mixed manures. The price is always high : the purpose they are to serve may be accurately determined for their own country but may be by no means the best here : and the manure required can generally be much more satisfactorily mixed in this country. In any case these compounded manures are usually composed of some of the materials here discussed, mixed with oil-cake or finely ground bones, which can be obtained here at a price lower than that at which they are obtainable abroad in the countries from which the mixed manures are imported.
+
+There is one more point on which it is essential to insist if the use of artificial manures is to extend. They are very liable to adulteration, which as a rule, only a careful chemical analysis can detect. Some samples which have been through my hands have had only one-fifth the value of the materials they pretended to be. In most countries this is so much the case that the most stringent laws have been passed compelling every bag of manure sold to carry a label giving its composition, and if the contents did not reach the standard specified on the label rendering the seller liable to prosecution. We have perhaps not reached the necessity of such a drastic law here as yet, but I want to insist that artificial manures are a kind of material which is very risky to buy. And I think that all manure dealers should be required by the buyers to supply an analysis of the manure sold, which can, at least occasionally be checked by analysis.
+
+I feel that the future of artificial manures in India is a very great one. The initial stages are passed so far as the planting industries are concerned and the extension of their use is certain to be very rapid. For other crops the same point has not usually been reached though in isolated cases a large demand is springing up, as, for instance, for sulphate of ammonia for sugar-cane in the Deccan. So far most of these manures are imported, and are hence expensive. But very shortly, I feel, that the local manufacture, not only of sulphate of ammonia, but of many others will be possible on account of the increasing demand. And, then, their use will advance still more rapidly, as it will be possible to produce them at a rate which will correspond with that at which they can be obtained in other agricultural countries of the world.—
+
+THE MYSORE ECONOMIC JOUR., Jan. 1917.
+
+34------------------------------------------------
+
+APRIL, 1917.]243
+
+## CONSTRUCTIVE SOIL VENTILATION.
+
+When considering the composition and structure of a fertile soil we are very apt to overlook the fact that air is a constituent part just as essential as water or plant nutrients. Air supply has never taken definite shape in soil science to the extent water-supply or plant-food supply has, and consequently, an important field of investigation appears to lie practically untouched. It is true that drainage in relation to soil ventilation is appreciated as well as methods of cultivation that go to produce a good tilth, but that does not teach us anything; it gives us no definite clue as to what the roots of different crops require, or whether air supply might not be more scientifically adjusted to suit the roots of different crops and the beneficial bacteria that function under similar conditions in the soil. If under certain circumstances it were found to be desirable, it should be quite practicable to supply the soil with air by more direct means than by cultivation or drainage, just as we know it is practicable to supply the soil with plant food in the form of chemicals instead of relying upon weathering and the decay of organic matter. These considerations suggest a new aspect of land culture, namely, Constructive Soil Ventilation—a definite branch of agricultural engineering associated with Drainage.
+
+Before proceeding to enlarge upon this idea, it will be well to consider what evidence exists to justify it.
+
+The importance of soil ventilation has been brought out prominently by the observations of HOWARD in India. He has pointed out that crops undoubtedly differ greatly in the amount of air their roots require. In India, for example, gram requires a great deal of air, and only a moderate amount of water. In some parts of the country the conditions both natural and artificial are such that the roots get plenty of air. Here this particular crop thrives. But in other places where, for instance, irrigation conditions obtain, gram will not grow successfully. HOWARD maintains that the proper provision of air to the soil is all that is necessary for extending the cultivation of this useful crop. The facts are the same in regard to the cultivation of indigo. This crop is largely cultivated on the higher levels in rice-growing districts. The occasional flooding of these higher levels due to the rise of the rivers is the cause of the low yields obtained in India compared with those obtained under drier conditions in Java.
+
+The two crops just referred to are of course leguminous, and the detrimental effect of insufficient air is partly due to the limited supply of nitrogen available for fixation by the nodules on the roots. But that is only partly the reason; bad aeration has a general retarding influence upon root development. HOWARD has noticed this even in the case of wheat, which is a crop that can be successfully grown on very heavy land. Experiments conducted at Pusa show that the best grown wheat can be raised only on soil that is well aerated. Lastly, rice which grows in swamps is unable to thrive without a supply of oxygen for root development. This is obtained through the surface film of algæ and other green organisms on these soils. Certain cultural operations after harvest also help to conserve a store of oxygen in the soil subsequent to the arrival of the rains.
+
+Other crops in other parts of the world are equally susceptible to anaerobic conditions in the soil. In regard to cotton, we know that this plant thrives best on soils of open texture, and that the principal cause of
+
+35------------------------------------------------
+
+244[APRIL, 1917.]
+
+boll shedding is root asphyxiation, proved by Balls in Egypt and fully supported by observations in the West Indies. Cacao is extremely sensitive to clay. That may be because cacao is naturally a deep-rooting plant and the clay offers mechanical resistance to the extension of the roots; but it is also likely to be due to the fact that a clay soil contains less air than a light soil. It is not merely a clay subsoil but a clayey surface soil that has an adverse effect on the growth of cacao.
+
+Coconut trees are very sensitive to inadequate aeration. They will thrive only on land that is well drained either naturally or artificially. No harmful effect is produced on the roots by the presence of water, coconuts will thrive in saturated soil provided the water is continually moving. This is a very significant fact concerning the physiological importance of soil aeration.
+
+In view of all these facts which come within the range of observation of the planter himself, it will be admitted that soil aeration demands greater attention than it has received. The significant fact is, that air is the limiting factor to the efficiency of water-supply. Beyond a certain point, water is wasted in the soil if it is not aerated.
+
+Turning more particularly to the physiology of roots, it is very desirable to know more concerning their respiration. Respiration has been studied almost exclusively in regard to the parts of the plant above ground, and the generalizations have been extended to apply to the roots. But it does not seem justifiable to assume that the manner in which roots breathe under the complex conditions, both chemical and physical, of soil environment is the same, and follows the same laws as these parts of the plants exposed to the comparatively simple environment of the atmosphere. There is probably a difference in the rate of respiration of the roots of certain plants, and as already suggested in this article, the growth of certain crops might be stimulated by the artificial introduction of air into the soil.
+
+Constructive Soil Ventilation as an established branch of agricultural engineering presupposes successful researches into the air requirements of roots and soil organisms. The desirable conditions in different cases having been determined, it should then be possible to establish them.
+
+The methods of effecting soil aeration artificially would come within the province of the engineer. Possibly one method would be to lay down porous ventilation pipes through which air could be introduced if necessary, under pressure. In orchard cultivation vertical tubes might be introduced near the trees and air pumped down them periodically. In the light of soil aeration better use might be made of soil explosions with dynamite, to aerate clayey subsoils especially.
+
+Investigation might show that an alteration in the percentage composition of the soil atmosphere would prove advantageous in some circumstances; for example, a high proportion of oxygen might prove beneficial, or in some cases the removal of an excess of carbon dioxide. There is also the question of the possible value of introducing gases other than those that normally constitute the air of the soil. A matter for speculation is whether liquid air could be usefully employed on a soil fertilizer.
+
+Finally, more might be done to bring about a better state of aeration in certain circumstances by means of methods of cultivation. The forking of orchard soils is still a matter of some controversy, and the true value of this operation requires investigation. The ploughing of the soil in coconut plantations gives good results, but its relation to soil aeration is not generally recognised. The full appreciation of the importance of soil aeration would no doubt lead to the invention of special implements, designed with the special object of introducing air into the soil.—**AGRIC. NEWS, BARBADOS, December 2, 1916.**
+
+36------------------------------------------------
+
+APRIL, 1917.]245
+
+## SOIL VENTILATION.
+
+It is curious how the discoveries of the scientific agriculturist confirm the accepted practice of the gardener. The most recent illustration of this fact consists in the recognition that ventilation, that is to say æration, is a factor of first importance to the growth of field crops. The deep and thorough cultivation as practised by gardeners, the constant stirring of the soil, the incorporation with the soil of gritty material, all serve among other things to supply plenty of air to the roots of plants.
+
+There is evidence that this abundant supply of air is beneficial in numerous ways. Firstly, of course, because roots, like all other parts of plants, require oxygen for their growth. It is a common-place experiment to place seeds of barley in water and to observe that if the water be stagnant but poor growth occurs, whereas if it be kept running the barley develops for a time quite normally as a submerged plant. Secondly, a constant circulation of air allows of the escape of the carbon-dioxide given off by the roots. Here, again, it appears to be well established that an excess of carbon-dioxide in the soil results in a check to the growth of roots. Indeed, roots seem to be peculiarly susceptible to injury from carbon-dioxide: for example, if the soil space contains too much of this gas the roots fail to perform the normal growth movements and curvatures which enable them to find their way about the soil.
+
+Thirdly, it cannot be doubted but that a good supply of air favours the activity of beneficent soil bacteria. As gardeners, therefore, we may continue to cultivate our soils deeply and assiduously with the satisfaction of knowing that, as WHISTLER said of Nature that she was "creeping up to Art"—so the art of Agriculture is creeping up to that of Horticulture.
+
+It is, of course, evident that deep cultivation has other advantages as well as that of providing "root ventilation." It increases the water-holding capacity of the soil, improves drainage, and helps to liberate larger stores of plant food. Anything, therefore, which helps to induce the agriculturist to practice more widely a system of deep tillage is bound to be to his benefit and to the benefit of the world at large.—GARDENERS' CHRONICLE, Jan. 13, 1917.
+
+## AVAILABILITY OF POTASH IN CERTAIN ORTHOCLASE-BEARING SOILS AS AFFECTED BY LIME OR GYPSUM.
+
+L. J. BRIGGS AND J. F. BREAZEALE.  
+SUMMARY.
+
+It is stated in agricultural treatise that the application of lime to a soil liberates potash from the soil minerals. This subject is of special import to the Citrus industry of southern California in which commercial fertilizers are extensively used and heavy applications of lime and gypsum are sometimes made.
+
+Samples of pegmatite and orthoclase were collected near Riverside, Cal., representing respectively, types of the potash-bearing rock and mineral from which many of the citrus soils appear to be derived. These samples were finely ground and shaken for a number of days with aqueous solutions of calcium hydroxide and of calcium sulphate in graduated concentrations. The calcium-hydrate solutions did not modify the solubility of the potassium in either pegmatite or orthoclase. Gypsum solutions depressed the solubility of the potassium in orthoclase, the quantity of potash in solution decreasing progressively as the concentration of the calcium sulphate increased.
+
+37------------------------------------------------
+
+246[APRIL, 1917.
+
+Similar tests were made upon a virgin soil of a granitic type from the experiment station near Riverside, Cal. The solubility of the potash was not measurably different in distilled water and in solutions of calcium hydrate or calcium sulphate.
+
+The addition of calcium sulphate to a citrus soil which had been under cultivation for some time and which was more granular and less weathered than the virgin soil, decreased the solubility of the potash.
+
+The potassium content of wheat seedlings was practically the same when grown (1) in water containing finely ground orthoclase and (2) in a saturated calcium-sulphate solution containing the same quantity of orthoclase.
+
+Similar experiments in which a citrus soil was used instead of orthoclase showed a decreased absorption of potassium by wheat seedlings in the presence of calcium sulphate.
+
+In brief, the experiments indicate that the availability to plants of the potash in soils derived from orthoclase-bearing rocks is not increased by the addition of lime or gypsum. In some instances a marked depression of the solubility of the potash in the presence of gypsum was observed. The conclusions are based both on the results of the analyses of the solutions and on the measurement of the potash content of wheat seedlings grown in the solutions.—JOUR. OF AGRIC. RESEARCH, JAN. 2, 1917.
+
+---
+
+## SALTPETRE.
+
+---
+
+The enquiry into the conditions favouring the occurrence of saltpetre in Indian soils and the methods adopted by the native for extracting it, was continued and the results published in a Bulletin.
+
+It was concluded that the output of saltpetre is limited at present not so much by the available supply of raw material, as by the number of workers (*Nunials*) actually engaged in extractions, this being largely determined by the price of crude saltpetre and the restrictions imposed by landholders, refiners, and the Salt Department. No special soil organisms appear to be associated with saltpetre deposits which are the result of the nitrification of organic matter accumulated in the neighbourhood of human dwellings, the high concentrations of nitrate found in the soil in such sites being due to the upward movement of water carrying dissolved nitrates to the surface where they become concentrated by the intense evaporation going on during the dry months of the year. Experiments on a field scale showed the feasibility of adding to the store of nitrates in the country by the use of nitrate beds made up by burying a green crop, in this case *Crotalaria juncea*, in ordinary field soil and compacting the heaps sufficiently to ensure the capillary rise of water from the subsoil to the surface, where the nitrate formed accumulates and can be scraped off after the manner of the *nuniah*. It is suggested that a very large output of saltpetre could be obtained in this way in those parts of India in which soils with sufficient lime content and suitable physical texture are found. At the same time the condition of the industry as a whole could be greatly improved by the introduction of better relations between the *nuniah* and refiner and a revision of the rules of the Salt Department in regard to both of them. It seems clear that the profits of the trade are not equitably divided between the *nuniah* and the refiner, the former class, in consequence of its poverty and lack of business capacity, being entirely at the mercy of the middle man or refiner to the detriment of the industry as a whole.
+
+38------------------------------------------------
+
+APRIL, 1917.]247
+
+So far as the methods of extraction and refining are concerned the work of the Chemical Sections of this Institute, as described in Bulletin No. 24 by MESSRS. LEATHER and MUKERJI, has demonstrated the possibility of great improvement in the refining part of the process, and further investigation in the writer's laboratory has shown that the *numiah*'s method of extraction of the crude saltpetre is far from being economically sound, and could be greatly improved upon by some simple variation of his present technique, which would, however, probably depend upon co-operation with the Salt Department in order to avoid infringement of the regulations at present in force. An advantage offered by the artificial method of producing saltpetre above referred to, lies in the comparative freedom from contamination by salt (sodium chloride) of the crude saltpetre resulting from this method, thus avoiding to a great extent in the process of extraction the restrictions necessarily imposed upon this process by excise requirements, with a consequently higher return of pure product to the advantage of the *numiah* and the trade.—C. M. HUTCHINSON IN THE REPT. OF THE AGRIC. RES. INST. AND COLLEGE, Pusa, 1915-16.
+
+## THE WORLD'S SUPPLY OF PHOSPHATES.
+
+Prof. J. W. GREGORY, in his presidential address to the Geological Society of Glasgow, gave an account of the chief sources of the world's supply of phosphates, in the course of which he pointed out that an instructive lesson in the conservation of mineral resources was to be learnt from this subject. He showed that Britain has but limited supplies of natural phosphates, and these were being left unworked owing to the introduction of cheaper and richer products from foreign deposits. Prof. GREGORY dealt only with the natural phosphates, but he could well have strengthened his argument by reference to the artificial phosphates; that is to say, to basic slag, which has been such a very important source of phosphorus supply to the agriculturist during recent years.
+
+The world's production of natural phosphates in 1913 was approximately six million tons (of which the United States produced one-half), whilst that of basic slag was approximately three million tons. Great Britain is now producing considerable quantities of low-grade basic slag, a by-product from the basic open-hearth steel process, and is likely to produce much more in the near future, but much of this valuable material is being wasted to-day owing to the insistence of the authorities upon the citric acid solubility test, a test devised in Germany, and adopted without proper investigation in this country; its real object was, of course, to favour the slag produced by the Basic Bessemer, or Gilchrist-Thomas, process, a process to which German iron ores are well adapted, to the prejudice of slag produced in the basic open-hearth process, which latter suits British iron ores better. Many of our best agricultural authorities hold that, in spite of the above empirical test, our slags are quite as efficient as manurial agents as are the Basic Bessemer slags, and if we had in this country a department charged with the care of the proper utilisation of our own mineral resources, this subject would no doubt have received the attention that its importance merits.
+
+Prof. GREGORY has done valuable service in again directing attention to our supply of phosphates, and it is clear that, from the point of view both of the natural and of the artificial phosphate supply, the question is one of vital importance to our great agricultural interests.—NATURE, Dec. 14, 1916.
+
+39------------------------------------------------
+
+248[APRIL, 1917.
+
+# GENERAL.
+
+## GROWING "SEEDLINGS OF SAL. (*SHOREA ROBUSTA*.)
+
+### GENERAL SUMMARY OF RESULTS.
+
+1. The present experiments have confirmed the results previously obtained regarding the very injurious effect of bad aeration on the growth of Sal seedlings in the local forest soil.
+
+2. When water is long held in contact with this soil, which is the case under conditions of bad aeration, it becomes heavily charged with carbon dioxide and impoverished as regards its supply of oxygen.
+
+3. The bad growth of Sal seedlings in this soil is correlated with an accumulation of carbon dioxide in the soil-solution and a low oxygen-content and this possibly explains the evil effects of bad aeration. Further work, however, is required to prove this and also to decide the relative importance of carbon dioxide and oxygen, respectively.
+
+4. Liming this soil, immediately before sowing, has an injurious effect on Sal seedlings and, during the rains, soil which has been thus limed appears to contain more carbon dioxide and less oxygen than the untreated soil. It seems possible that this may be due to accelerated bacterial activity. This point, however, requires further investigation.
+
+5. As carbon dioxide is rapidly dissipated and a deficiency of oxygen made good under the ordinary conditions of water-cultures it is not easy to prove the effect of varying quantities of these gases on plants grown in such cultures. For the same reason, artificial aeration of such cultures may not show any beneficial result.
+
+6. As Sal seedlings can be successfully grown in water-cultures, the injurious effect of bad aeration is not due to water as such. This probably explains the fact that Sal can grow in practically saturated soil on the banks of rivers, or even of stagnant lakes, in which the water is kept well-aerated by exposure to the air or the presence of green aquatic plants. By R. S. HOLE.—INDIAN FOREST RECORDS, VOL. V. PART IV.
+
+### PLANTS IN HEALTH AND DISEASE.\*
+
+PROF. WEISS and his colleagues have done well in publishing in book-form abstracts of their lectures on Plants in Health and Disease. The lectures were delivered at the University of Manchester during 1915-16, and had for their object the giving of botanical guidance to the many small gardeners and allotment-holders who were, and are, endeavouring by the cultivation of their several plots to add to the food supplies of the country.
+
+\* "PLANTS IN HEALTH AND DISEASE: being an Abstract of a Course of Lectures delivered in the University of Manchester (1915-16)." By PROF. F. E. WEISS, DR. A. D. IMMS, and WILFRED ROBINSON, pp. 143. (Manchester: At the University Press; London; LONGMAN'S GREEN & CO., 1916). Price 1s. 6d. net.
+
+40------------------------------------------------
+
+APRIL, 1917.]249
+
+Although only its friends recognise the fact, science in this country suffers from the virtue of modesty. Accompanying that quality—as is so often the case—is often a certain hauteur. Hence it is that those who—only too rarely, it must be confessed—come seeking guidance from science are often sent empty away. It would be well for science, and also for the country, if this attitude of aloof detachment were to cease to be habitual. It is true that biological science has at present not overmuch to offer to horticulturists; but that is an added reason why closer relations should be established between those who cultivate the land and those who study the science of biology. It is by such means as those adopted by PROF. WEISS and his colleagues that this contact may be best established.
+
+It is no adverse criticism on this little book to say that if and when science and practice go hand in hand a thoroughly good botany for gardeners will make its appearance, and not before. One of the results of such a book will be to teach the gardener to do scientifically and better what he now does empirically and well. The day of publication of that perfect book is far off, and botany will have not only to grow but to be pruned very heavily before it is written. The science will have to cast off the pseudo-encyclopaedic habit, woven in Germany, which it wears. For example, when talking to gardeners of the importance of restricting water supply in order to provoke flower and fruit formation (p. 2), why not give an account of the current method of tomato-growing instead of citing examples from “tropical climes?” In the cultivation of the tomato the check imposed after the first truss of fruit is set, the pinching-out of side-shoots, the stopping of the leader, and the reduction of leaf surface, all have for their purpose the regulation of the water supply and the reduction of vigour of vegetative growth. Apart, however, from the fact that those who are habitually engaged in gardening might not infrequently suggest more cogent illustrations of botanical principles, the general account given in these lectures of the life of a plant is admirable. Occasionally we discover a lapse, as, for example (p. 7), the omission to mention the chief virtue of the hoe, namely, that by its use water is conserved in the soil.
+
+The less difficult parts of the book, those which deal with disease, are no less excellent than the account of the normal life of the plant. In the chapters devoted to fungi such diseases as finger-and-toe, black scab, late blight, rust, and mildews are described. It is curious that no reference appears to be made to the fact that many varieties of potato are now known to resist attack by black scab—a fact of the greatest importance to allotment-holders and town gardeners. The remedies suggested for use in the case of mildews certainly do not apply to American gooseberry mildew, a disease which is so widespread and so disastrous in its consequences that it might well have received more thorough treatment. Much useful information is provided on this subject of animal pests, but gardeners with a knowledge of their ravages might look for a fuller account of eel-worms, which pests are probably responsible for more damage in gardens than is any other fungus or insect. The accounts of such pests as the cabbage-root fly and the onion fly, which have been very active this year, are particularly clear. We could only wish that the measures whereby these pests are to be combated were half as good; but for more perfect measures we must look to future research, for at present they are unknown. To the reviewer at all events the absence of illustrations is no drawback; it may be, however, that the layman may find it difficult to see mentally the pests and processes without their aid.—NATURE, DEC. 28, 1916.
+
+41------------------------------------------------
+
+250[APRIL, 1917.
+
+## AGRICULTURAL PROGRESS IN THE MADRAS PRESIDENCY IN 1915-16.
+
+The following are extracts from the *Report on the Operations of the Department of Agriculture, Madras Presidency*, for the official year 1915-16:—
+
+### SUGAR-CANE.
+
+*Varieties and cultural methods.*—This section deals only with the work on the district farms. It is unfortunate to have to note this year that 3,894 clumps were diseased out of a total of 35,400 at Samalkota, but it was practically confined to one variety, B3412, which hitherto had not suffered much from redrot. It was worst on a small area on which the last cane crop grown five years ago was also badly affected. Among the varieties tested here, B3412 for the third year in succession topped the list in yield of raw sugar, though it fell from  $8\frac{1}{2}$  tons per acre in 1914-15 to  $4\frac{1}{2}$  tons this year. J247 again came second and B6450 was third. J36, B208 and Red Mauritius have been discarded. Like Striped Mauritius, Red Mauritius is becoming so badly diseased as to become unprofitable to cultivate. J247 can withstand both drought and water-logging, gives a heavy yield of fairly good jaggery, does not get diseased easily and has been found best suited for delta conditions. It was, therefore, distributed to the delta ryots. For the upland ryots, B1529, a shorter variety, has been found suitable and will be distributed in the uplands of Godavari where the drainage conditions are better than in the delta. At Anakapalle B6450 stood first with a yield of 5 tons of raw sugar per acre, while B1529 was second with a yield of only 3.7 tons. Sugar-cane was tried in the irrigated dry land at Palur with success. J247 has yielded 36.4 tons of cane per acre. B6450 has the reputation of resisting drought, and this and Fiji B will be tried in the irrigated dry land in 1916-17. Thirteen varieties were tried in the wet lands. B3412 stood first with an acre yield of 34.6 tons of cane Fiji B3412 and B6450 will be tried again.
+
+*Manurial.*—Experiments are in progress at Samalkota to find out what quantity of castor-cake will have to be applied along with 10 tons cattle-manure to produce as good yield as the dressing of 10 bags (1,640 lb.) of castor-cake usually given. Five bags of cake together with 10 tons cattle-manure gave poorer results during 1914-15 and 1915-16 than 10 bags of cake. It is therefore decided to raise the quantity of cake to  $7\frac{1}{2}$  bags (1,230 lb) when applied in conjunction with 10 tons cattle-manure:
+
+Since 1909-10, a series of experiments have been in progress to test the effect of lime on sugar-cane. The results point to the conclusion that the question is one of texture of soil. The application of lime has been of benefit where the field was sticky. This was the case during the four years 1910-11 to 1913-14. But on fields on which the texture of the soil is good, the results obtained did not point to any conclusion in 1914-15 while liming was found unprofitable in 1909-10 and the year under report. The experiment will for the present be discontinued.
+
+42------------------------------------------------
+
+APRIL, 1917.]251
+
+### PADDY.
+
+*Spacing.*—A series of experiments is in progress at Coimbatore to test the best method of spacing transplanted paddy. These have another two years to run before final conclusions can be obtained. This is because it is necessary to interchange the position of the several crops from year to year in order to eliminate the effects of the varying fertility of the fields. At Samalkota experiments conducted for five years to test the relative merits of spacing single plants 4 inches, 6 inches or 9 inches apart showed very little difference in the total yield, the plants throwing out more tillers in the latter cases and so making up for the wider spacing. The wider spacing saves seed and labour, but the closer spacing results in a slight increase in the yield of straw per acre.
+
+*Manurial.*—A series of manurial experiments at Coimbatore was brought to a conclusion this year. It has been established that potash has if anything a depressing effect and that of other manures black castor-cake is possibly the best all round, but the difference is only slight. A new series of experiments has been commenced in the light of DR. HARRISON'S work on paddy soils. The series of manurial experiments at Samalkota was continued in order to test the residual effects of the manures. A series of experiments from 1909-10 has proved that 2 cwt. of superphosphate in conjunction with green-manuring gives a better yield than either the latter alone or in conjunction with potash. At Samalkota a plot has been steadily manured with daincha for the last five years, and the yield has steadily increased from 2,282 lb. per acre in 1911 to 3,458 lb. last year. At Palur a series of experiments to test the value of the various bulky organic manures indicates that on the fertile lands of this farm the effect of manure is so slight that it does not pay to use any except the cheapest. Experiments in the use of artificials combined with green-manures are also being conducted here, but definite conclusions cannot yet be drawn from them. Thirteen different experiments are in progress at Manganallur, but most of them have not yet been carried out for a sufficiently long series of years to enable conclusions to be drawn. It appears to be already established, however, that the addition of lime to green-manure has a beneficial effect on the yield of paddy, although lime by itself has the contrary effect. DR HARRISON'S work on paddy soils has suggested that a very weak solution of copper sulphate acted as a stimulant for paddy. This has been tried for two years at Manganallur and increased yield, although a slight one, was obtained in every case.
+
+*Varieties.*—Most of the work of evolving and testing of the single strains of better paddy is being done by the Economic Botanist. The testing of some varieties still continues on several of the farms however. Seventeen varieties were tested on the Coimbatore farm. Two of these gave yields at the rate of 4,000 lb. of grains per acre, the best being at the rate of 4,533 lb. of grain and 6,888 lb. of straw per acre on a  $\frac{1}{100}$  plot. Experiments with varieties of selected strains were continued at Samalkota, and do not call for special remark. Twelve varieties of paddies from other places were tested at Palur, as against the local swarnavari. The latter gave the best yield this year, although on the average of the last six years it ranks only fifth. The foreign varieties all take long to come to maturity than the local paddy. Twelve varieties of second crop paddies are also being tested, the result so far being again in favour of the local Sadaisamba.
+
+43------------------------------------------------
+
+252[APRIL, 1917.
+
+### COTTON.
+
+Selection of single plant strains was continued at Koilpatti, Hagari and Nandyal. At Hagari 100 single plant selections were grown and their characters carefully examined. Twelve out of the strains selected and examined in 1914 were grown on a large scale in order to test the spinning qualities of the cotton. The harvest of these was not over at the time of reporting. Similar work was done at Nandyal, 114 selections in all being grown and examined in detail. At Koilpatti a large number of superior strains selected from the ordinary country karunganni are under observation. The two varieties, Company No. 2 and Company No. 3, are now being marketed on a commercial scale in this tract and have fetched up to Rs. 16 a candy of 500 lb. over prices for ordinary country cotton. The lint outturn of these strains varies between 28 and 33 per cent. as compared with 25 per cent. for ordinary country cotton. Better strains than these are under trial and will be issued to the ryots in future. Selection work on Cambodia was a failure at Koilpatti. The soil of this farm is evidently not suited to this crop. Selection work on Cambodia is in progress at Coimbatore. The best plant this year gave 43 per cent. of lint and the worst 30 per cent.
+
+### DRY GRAINS.
+
+*Methods of cultivation, rotation, etc.*—The experiments on dry crops at Taliparamba were continued. The season was unkind to them on the whole, but good yields of chillies were obtained. An experiment is in progress at Coimbatore to test the effect of introducing a leguminous crop, the field bean in a rotation of cholam and castor, the bean being grown mixed with the latter crop. The results obtained so far are inconclusive. An experiment to elucidate the best time for the planting of ragi was in favour of early planting this year. Last year the results were the exact contrary. A new series of rotation experiments was started at Hagari in order to test the possibility of getting a fodder, Sorghum and a Bengal gram crop in every year. At Nandyal an experiment was in progress to test the advisability of substituting a three-crop rotation including a main leguminous crop, for the present two-crop rotation of cotton and cholam with subsidiary leguminous crops. The experiments in ragi cultivation at Hagari this year were for the first time definitely in favour of thinner sowing of seed-beds. But, as in previous years, there was no marked difference between plants cultivated on the 'ridge and furrow' method as compared with the local 'flat-bed' system. Experiments will be conducted on a larger scale to test the latter point more fully.
+
+*Manurial.*—The permanent manurial experiments on dry crops at Coimbatore are giving interesting results. Twenty crops have now been taken on the experimental plots and the average results show that so long as sufficient nitrogen is supplied the addition of potash makes very little
+
+44------------------------------------------------
+
+APRIL, 1917.]253
+
+difference. The best results were obtained by a combination of nitrogen and phosphoric acid which increased the yield by 80 per cent., as against 68 per cent. produced by farm yard manure. At Hagari experiments show that groundnut cake increased the yield in sorghum and Bengal gram to an extent just sufficient to cover the cost of manure. Both at Hagari and Nandyal experiments are in progress to test the value and the best methods of applying cattle and sheep manures.
+
+#### FODDER CROPS AND GRASSES.
+
+The value of sweet potatoes as a fodder crop was demonstrated at Coimbatore where a small plot of 80 cents was cultivated with this crop. The crop of tubers was sold standing for exactly the cost of cultivating, Rs. 50. The vines yielded 20,000 lb. of excellent fodder and not only was this obtained free but the land was very thoroughly dug by the contractor who bought the tubers. Guinea grass has been tested as a fodder crop against fodder cholam at Coimbatore for a number of years. The average results are slightly in favour of the latter but it is clear that in certain suitable conditions guinea grass is the better crop. One of the difficulties in introducing periamanjal cholam, the standard fodder crop of Coimbatore, into the Koilpatti tract has been the difficulty of getting the crop to seed in the South. This year some success was obtained and crops sown in April on the red soil and in November on the black soil plots both gave some seed. These results may have been due to usual climatic conditions however and the experiments must be repeated.
+
+*Indigenous grasses.*—The experiments on five varieties of indigenous grasses were continued at Hagari. It was found that sheep would not eat "chengali" (Iseilma laxum) when irrigated, although it is readily grazed by them when growing naturally.
+
+#### GROUNDNUT.
+
+The tests to compare the value of thirteen different kinds of groundnut were continued at Palur. The average of the results obtained since 1912-13 are the reverse of those obtained in the years 1907-08 to 1911-12. In the earlier years local Mauritius groundnut gave better yields than any of the other varieties. But during the latter series of years local Mauritius has given on the average a yield poorer than any of the thirteen varieties except one from Rajpur. It is not clear whether this result is due to the deterioration of the local Mauritius or whether the results are affected by the varying fertility of the several plots. It will be necessary to devise more careful tests before the matter can be regarded as settled. The above refers to groundnut grown as a rainfed crop. As an irrigated crop local Mauritius gave an oil yield last year which is much poorer than that given by any other variety although up to last year it had on the average given the best yield. The result is extraordinary and requires further investigation.—
+
+THE INDIAN TRADE JOURNAL,
+
+45------------------------------------------------
+
+254[APRIL, 1917.
+
+## COMMERCIAL DEVELOPMENT OF FORESTS IN BRITISH INDIA.
+
+The quinquennial review of the Forest administration in India contains a summary of the progress that is being made in the development of the Indian forests, which cover no less than 250,000 sq. miles. As regards the commercial development of the forests in British India, the report shows that an encouraging advance has been made.
+
+In recent years there has been a noticeable increase in the demand for forest products, and several industries dependent on their supply have been or are about to be started. One of the most important of these is the utilisation of bamboos, savannah grasses and firwood for the manufacture of paper-pulp, and to assist the development of this industry a special expert has been employed. With the assistance of the Titaghur Paper Mills Company, Limited, trials in the manufacture of bamboo pulp have been carried out successfully on a commercial scale, and concessions for the extraction of bamboos have been granted to two firms in Burma and Bengal. The outbreak of war has delayed the commencement of manufacture but as large supplies of the raw material are available the outlook is distinctly promising. In the Punjab, a concession for the extraction of spruce and silver fir from the Kulu forests for the manufacture of wood pulp has been granted. Matters are less advanced as regards the grass pulp industry, but this is being seriously considered. In the United Provinces and Assam, enormous quantities of suitable grasses are available and if trials on a commercial scale are successful, an important industry may be established.
+
+The extraction of tanning materials has received attention for some time past, particularly in the matter of obtaining a satisfactory extract from the bark of mangroves. For this purpose a factory was established several years ago at Rangoon, but owing to the want of expert supervision was not very successful. In order to test the possibility of producing extracts of good quality on a commercial scale, the services of a tanning expert have been obtained. The forests of India contain many valuable tanning materials other than mangrove bark. The possibility of utilising these will be examined by the expert, and his appointment may result in the establishment of a new and important industry.
+
+During recent years much has been done to stimulate the local manufacture of matches; tests with numerous Indian woods have been carried out and a report regarding their suitability and the prospects of this industry has been issued. Several match factories on modern lines have been established, and if a sufficient supply of match woods of good quality can be assured, there is no reason why the industry should not grow rapidly. The regular and cheap supply of suitable wood is, however, a real difficulty, and the establishment of special plantations is a matter deserving the attention of local Governments.
+
+46------------------------------------------------
+
+# METEOROLOGICAL.
+
+MARCH, 1917.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Station.</th>
+<th colspan="2">Temperature</th>
+<th rowspan="2">Mean Humidity<br/>%</th>
+<th rowspan="2">Mean amount of cloud<br/>0=Clear. 10=Overcast</th>
+<th rowspan="2">Mean Wind direction</th>
+<th rowspan="2">Daily mean Velocity<br/>miles</th>
+<th rowspan="2">Number of rainy days</th>
+<th rowspan="2">Rainfall amount<br/>of inches</th>
+<th rowspan="2">Difference from<br/>averages</th>
+</tr>
+<tr>
+<th>Mean Daily Shade</th>
+<th>Difference<br/>from average</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>COLOMBO</td>
+<td>0</td>
+<td>0</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>OBSERVATORY</td>
+<td>79.9</td>
+<td>-1.7</td>
+<td>82</td>
+<td>6.3</td>
+<td rowspan="14" style="writing-mode: vertical-rl; transform: rotate(180deg);">Variable</td>
+<td>91</td>
+<td>21</td>
+<td>10.03</td>
+<td>+ 6.21</td>
+</tr>
+<tr>
+<td>PUTTALAM</td>
+<td>79.1</td>
+<td>-2.8</td>
+<td>84</td>
+<td>6.4</td>
+<td>80</td>
+<td>13</td>
+<td>7.58</td>
+<td>+ 4.79</td>
+</tr>
+<tr>
+<td>MANNAR</td>
+<td>82.5</td>
+<td>-0.5</td>
+<td>74</td>
+<td>6.4</td>
+<td>139</td>
+<td>8</td>
+<td>2.65</td>
+<td>+ 1.32</td>
+</tr>
+<tr>
+<td>JAFFNA</td>
+<td>81.6</td>
+<td>-1.3</td>
+<td>75</td>
+<td>3.4</td>
+<td>113</td>
+<td>5</td>
+<td>0.63</td>
+<td>- 0.31</td>
+</tr>
+<tr>
+<td>TRINCOMALEE</td>
+<td>80.4</td>
+<td>-2.0</td>
+<td>78</td>
+<td>5.2</td>
+<td>173</td>
+<td>11</td>
+<td>1.81</td>
+<td>+ 0.28</td>
+</tr>
+<tr>
+<td>BATTICALOA</td>
+<td>79.7</td>
+<td>-1.0</td>
+<td>82</td>
+<td>5.3</td>
+<td>131</td>
+<td>16</td>
+<td>10.35</td>
+<td>+ 7.46</td>
+</tr>
+<tr>
+<td>HAMBANTOTA</td>
+<td>79.0</td>
+<td>-1.4</td>
+<td>84</td>
+<td>5.0</td>
+<td>221</td>
+<td>16</td>
+<td>6.32</td>
+<td>+ 4.28</td>
+</tr>
+<tr>
+<td>GALLE</td>
+<td>79.1</td>
+<td>-2.2</td>
+<td>84</td>
+<td>7.0</td>
+<td>107</td>
+<td>16</td>
+<td>7.25</td>
+<td>+ 3.10</td>
+</tr>
+<tr>
+<td>RATNAPURA</td>
+<td>80.3</td>
+<td>-2.0</td>
+<td>77</td>
+<td>7.0</td>
+<td>—</td>
+<td>22</td>
+<td>11.77</td>
+<td>+ 3.50</td>
+</tr>
+<tr>
+<td>ANURADHAPURA</td>
+<td>80.5</td>
+<td>-1.7</td>
+<td>75</td>
+<td>7.4</td>
+<td>—</td>
+<td>14</td>
+<td>4.83</td>
+<td>+ 2.28</td>
+</tr>
+<tr>
+<td>KURUNEGALA</td>
+<td>80.1</td>
+<td>-3.1</td>
+<td>75</td>
+<td>7.0</td>
+<td>—</td>
+<td>14</td>
+<td>10.11</td>
+<td>+ 5.61</td>
+</tr>
+<tr>
+<td>KANDY</td>
+<td>76.5</td>
+<td>-1.7</td>
+<td>73</td>
+<td>6.8</td>
+<td>—</td>
+<td>17</td>
+<td>8.02</td>
+<td>+ 4.41</td>
+</tr>
+<tr>
+<td>BADULLA</td>
+<td>72.2</td>
+<td>-1.3</td>
+<td>80</td>
+<td>6.8</td>
+<td>—</td>
+<td>23</td>
+<td>11.16</td>
+<td>+ 7.01</td>
+</tr>
+<tr>
+<td>DIYATALAWA</td>
+<td>66.8</td>
+<td>-1.3</td>
+<td>76</td>
+<td>7.3</td>
+<td>—</td>
+<td>22</td>
+<td>11.97</td>
+<td>+ 8.23</td>
+</tr>
+<tr>
+<td>HAKGALA</td>
+<td>59.6</td>
+<td>-1.3</td>
+<td>83</td>
+<td>7.6</td>
+<td>—</td>
+<td>23</td>
+<td>9.95</td>
+<td>+ 5.08</td>
+</tr>
+<tr>
+<td>NUWARA ELIYA</td>
+<td>60.0</td>
+<td>+ 0.8</td>
+<td>78</td>
+<td>7.6</td>
+<td>—</td>
+<td>19</td>
+<td>7.59</td>
+<td>+ 4.46</td>
+</tr>
+</tbody>
+</table>
+
+During this month, the daily comparison of the height of the barometer recorded at the various meteorological stations showed but a slight range over the Island; or, as it is usually put, the barometric gradient was slight. In the transition period between the monsoons it is inevitable that the barometric gradient, for a time, becomes flat. This being so, the conditions are favourable for regular land and sea breezes for the coastal districts and for variable breezes inland. Conditions, again, which are suitable for the formation of thunderstorms. This type of weather is then only to be expected in March which comes in that period between the outgoing North-East and the incoming South-West monsoon. And thunderstorms have naturally come to be looked upon as a prelude to the regular monsoons.
+
+The rainfall was about that of the average to the North and in excess elsewhere. The greatest amount falling on the slopes of the hills, especially to the South-East.
+
+With an excess of rainfall and a larger than usual cloud proportion the deficit in temperature was to be expected.
+
+47------------------------------------------------
+
+
+<!-- stage4: FAINT old-images-only -->
+
+[Faint page: no legible print of its own could be verified; text withheld (stage 4 review list)]
+
+![A blank page with a light beige or cream color, showing minor scanning artifacts.](31a3b0089bf3094101fa3b22099b377f_1_img.webp)This image is a scan of a blank page. The paper has a light beige or cream-colored tint. There are several small, dark specks scattered across the surface, which appear to be scanning artifacts or dust particles. No text, lines, or other markings are present on the page.
+
+
+48------------------------------------------------
+
+APRIL, 1917.]255
+
+The tea-box industry has received special attention in Assam, where it absorbs a considerable portion of the output of the forests, and has steadily grown, especially in the Assam Valley. The Local Administration has fostered the industry by remissions of royalty on tea-box wood, by devising measures for the protection of timber used for tea-boxes, and by forming experimental plantations of "simal." (1)
+
+Large quantities of sleepers have always been obtained by the Indian railways from the forests in India, but as the supply of first class sleeper woods such as "sal" (2) and deodar is limited, experiments in the antiseptic treatment of less durable timbers have been in progress for some years past. The Indian forests contain many timbers which, so far as structural qualities are concerned, are at least the equal of imported sleeper woods, and these, if treated antiseptically, should go far to meet the demands of the Indian railways. The best and most economical method of treatment has not yet been determined, but experiments are being carried out. Arrangements, however, have already been made with the Railway Board for the delivery of a large number of treated "chir" pine (3) sleepers from the forests of the United Provinces while a similar supply of "gurjan" (4) sleepers from the Andamans is under consideration.
+
+Another important forest industry in which, under departmental management, marked progress has been made, is the manufacture of rosin and turpentine from crude resin obtained by tapping pine trees in the Himalayan forests. In the Punjab and the United Provinces, new distilleries have been erected and in 1913-14 these turned out 27,429 maunds of rosin and 58,803 gallons of turpentine compared with 6,584 maunds of rosin and 14,603 gallons of turpentine ten years earlier. The Indian demand for these products, which are largely used in the manufacture of paper, paints and varnishes, is considerable, and the local output has already affected imports from other countries. In the Punjab, a modern plant has been erected near Lahore and a large increase in the output is also expected in the United Provinces. It is not too much to expect that a considerable portion of the Indian demand for rosin and turpentine will soon be met by the Department.
+
+This account of the improved methods of extraction now adopted and of the new industries which have been started, is sufficient evidence that the officers of the Forest Department are fully alive to the importance of the commercial development of the Indian forests and that they now recognise that efforts to secure commercial success are as much a part of their duties as the scientific management of the forest property entrusted to their care.—
+
+BULL. INTERNAT. INST. OF AGRIC.
+
+(1) *Bombax malabaricum* DC. (Brandis, D. *Indian Trees*, p. 77. London 1907)
+
+(2) *Phorea robusta* Gaertn. (*Ibid*)
+
+(3) *Pinus longifolia*, Rox b. (*Ibid*)
+
+(4) "Gurjun," *Dipterocarpus turbinatus* Gaertn. (*Ibid*)
+
+49------------------------------------------------
+
+256[APRIL, 1917.
+
+## UTILISING THE WATER HYACINTH FOR COMMERCIAL PURPOSES.
+
+Reference having been made in North Coast papers to the utilisation of the Water Hyacinth for the manufacture of rope, twine, matting, sacks, etc., in Cochin-China and Cambodia, Mr. J. B. SUTTOR, Commercial Commissioner for New South Wales in the East, was requested to obtain further particulars of the process. (See T. A. December, 1913.—Ed. T. A.)
+
+He has now forwarded a copy of a report furnished by M. PERROT to the General Consultative Chamber of Commerce and Agriculture of Cambodia, which is as follows :—
+
+### “UTILISATION OF ‘LUC-BINH’ AS A TEXTILE PLANT.”
+
+“During quite recent years there has been planted in Cambodia an aquatic plant which the Annamese have called ‘Luc-Binh,’ the Cambodians ‘Trakiet,’ and the scientific name of which is *Eichhornia crassipes*, of the family of the *Pontederiaceæ*. According to some, it came to us from Java or from the Philippines, and according to others from Japan. In Tonkin its appearance dates from 1902, and in Cochin-China from about twelve years back. In 1906 it was quite unknown in Cambodia, except in some watercourses of the provinces bordering on Cochin-China. Thanks to the rapidity of its growth, it now infests the smallest of our watercourses as well as our large lakes, and even those persons most indifferent to the vigorous vegetation of the tropics know this plant with its slender stalks, its leaves a little bit curled on the edges, and its pretty mauve flowers, growing in spikes.
+
+“From observations made, it was found that a single foot of ‘Luc-Binh’ could, in a few months, cover a space of 600 square metres. The growth by seeds is not so much to be dreaded. The original foot throws out suckers, which, in their turn, rapidly throw out more, to such an extent that it furnishes a growth so rich and so thick that the natives simply throw down a plank on the impenetrable mass, to cross the water dry-shod.
+
+“This reproduction was so extraordinary that a cry of alarm arose in 1909; the watercourse of Takeo and Prey-Veng were blocked up so as to be impassable. Caught in the midst of these plants, boats could not move freely; it was impossible for junks and sampans to traverse the thick carpet and make a way through. Already difficult in the large waterways, navigation became impossible in the smaller ones.
+
+“At some time, the noxious plant, carried by the annual floods, must have found root in Cambodia. Five years have been sufficient for it to become an insurmountable obstacle to navigation—a veritable scourge. It has been suggested that the ‘Luc-Binh’ be pulled up and burnt on the river banks, or destroyed by some other radical means. The Province of Battambang has been obliged to set apart on its budget large sums to be expended on the destruction of the ‘Luc-Binh.’
+
+“Having been able to see for myself that the ‘Trakiet’ possessed fibres, I suddenly remembered having seen the blacks of Mouni (at Gabon) using an aquatic plant, perhaps of the same family (for then I attached no importance to this fact), to weave matting and drawers. Since then I have sought to utilise the noxious plant, and have made experiments. I had at first to obtain the fibres by the primitive means at the disposal of the prison, so I modified
+
+50------------------------------------------------
+
+APRIL, 1917].257
+
+a Duchemin de-fibring machine. After stripping the 'Luc-Binh' stalks of their leaves, I had them passed between the blades of the machine until they were completely cleared of their pulp. After that, I had them dried in the sun. I had bad results. The action of the sun's rays caused them to ferment. Without being discouraged, I had others dried in the shade. I was successful. I had healthy fibres flexible and supple. I soon thought of their utilisation. I had rope made of it, and string with which were made articles of furniture surpassing in comfort, elasticity and solidity all the rattan furniture made up till then.
+
+"But, if restricted to basket work, the 'Luc-Binh' could interest only a limited section of the public. I thought of extending its utilisation on a larger scale. It was then that the idea came to me that it might very well replace jute in the manufacture of paddy sacks, which are so largely used in Indo-China. I strove to realise this project with all the more eagerness, as the jute sack is of foreign manufacture, and that in consequence the new industry would not compete with an article of French production.
+
+"For the manufacture of the cloth for the sacks, I had put a Cambodia weaving loom. After different attempts, I had the satisfaction of getting from the loom strong pliant cloth with a textile strength as great as that of jute. So as to have an idea of how the sacks compared in weight I had them weighed. Equal in length and breadth, they both returned practically the same weight. That is due to the hygrometry of the 'Luc-Binh,' which is essentially aquatic. But this weight can be diminished by one-third by treating the fibres in a bath of alum and chromium which, while it contracts the pores of the plant renders it anhydrous and permits, on the other hand, of its absorbing any dye whatever. In this manner we have subjected rope and fabric of 'Luc-Binh' to a bath of carbonileum and have noted that the results obtained were altogether satisfactory.
+
+"The breaking strain of a 'Luc-Binh' rope 5 m.m. in diameter and 1 metre long is from 49 kilos, and the elongation is from 10 cm. In the French ropeyards will surely be found an outlet that the Cambodian villages will undertake to supply. The de-fibring of the plant and the drying being very simple, any native at all can do it. The fibres could be compressed into bundles, after the manner of army fodder, and they would be despatched like bales of cotton.
+
+"So that this plant, until yesterday still considered a national danger, will become, thanks to its application, a source of revenue to the countries which it overruns."
+
+While the prospect of turning to account such a pest may be possible in Indo-China where labour is so abundant and cheap, and where the plant spreads even more rapidly than on our northern rivers, it does not follow that it will be profitable to utilise it in this way in this State. The plant is composed chiefly of air and water, and the handling of non-fibrous matter would be enormous. The percentage of fibre in the Water Hyacinth is even less than in Prickly Pear.
+
+Reference to the possible use of Water Hyacinth for paper-making, etc., was made in the AGRICULTURAL GAZETTE, N. S. W. Vol. XXIV., 2nd August, 1913, page 712, and it will be noted that it was proved to be quite unsuitable both for paper-making and for upholstery work.—AGRIC. GAZ. OF N. S. W.
+
+51------------------------------------------------
+
+258[APRIL, 1917.
+
+## ENCOURAGEMENT OF SCIENTIFIC AND INDUSTRIAL RESEARCH.
+
+### ESTABLISHMENT OF NEW DEPARTMENT.
+
+In continuation of the account on "Scientific and Industrial Research Within the Empire" appearing on page 206 of this Journal for last month, following extract from the BOARD OF TRADE JOURNAL of 7th December, 1916 is published for general information :—
+
+The Government have decided to establish a separate Department of Scientific and Industrial Research for Great Britain and Ireland under the Lord President of the Council, with the President of the Board of Education as Vice-President. They have also decided, subject to the consent of Parliament, to place a large sum of money at the disposal of the new Department to be used as a fund for the conduct of research for the benefit of the national industries on a co-operative basis.
+
+The Board of Inland Revenue have decided, with the approval of the Chancellor of the Exchequer, that no objection shall be offered by their Surveyors of Taxes to the allowance, as a working expense for income tax purposes, of contributions by traders to Industrial Associations which may be formed for the sole purpose of scientific research for the benefit of the various trades; and the allowance would be equally applicable as regards traders' contributions specifically ear-marked to the sole purposes of Research Section of an adapted existing association.
+
+In both cases the allowance would be subject to certain conditions, e.g., the association or the research section to be under Government supervision and the traders' contribution to be an out and out payment, made from his trade profits and giving him no proprietary interest in the property of the association, etc.
+
+In order to enable the Department to hold the new fund and any other money or property for research purposes, a Royal Charter has been granted to the official members of the Committee of the Privy Council for Scientific and Industrial Research under the title of the Imperial Trust for the encouragement of Scientific and Industrial Research." The Trust is empowered "to accept, hold and dispose of money or other personal property in furtherance of the objects for which it has been established, including sums voted by Parliament to that end." The Trust can take and hold land and can "accept any Trusts, whether subject to special conditions or not, in furtherance of the said objects."
+
+A substantial gift has already been made to the Trust by two members of the Institution of Mechanical Engineers for the conduct of a research in Mechanical Engineering to be approved by the Department, in the hope that this example will be followed by other members of the Institution.
+
+MR. H. FRANK HEATH, C.B., has been appointed Permanent Secretary of the new Department, to whom all correspondence should be addressed until 31st December next at the Offices of the Board of Education, Whitehall, London, S.W. On and after 1st January 1917, all correspondence should be addressed to the Secretary, Department of Scientific and Industrial Research, Great George Street, Westminster, London, S.W.—Reprinted from the BOARD OF TRADE JOURNAL of 7th December, 1916.
+
+52------------------------------------------------
+
+APRIL, 1917.]259
+
+## CALCULATIONS OF MANURE APPLICATIONS.
+
+There is often a demand for a ready reckoner by which applications of manures can be equally distributed throughout the field. This is supplied by the calendar of the *Chilean Nitrate Propaganda* and is here reproduced.
+
+From these tables the number of plants per acre at various planting distances can readily be seen and the quantities of manure to be applied to each plant can be ascertained :—
+
+**TABLE FOR SQUARE OR SURFACE MEASURE.**
+
+<table border="1">
+<thead>
+<tr>
+<th>Sq. M</th>
+<th>Acre.</th>
+<th>Sq. rd.</th>
+<th>Sq. yd.</th>
+<th>Sq. ft.</th>
+<th>Sq. in.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>= 640</td>
+<td>= 102,400</td>
+<td>= 3,097,600</td>
+<td>= 27,878,400</td>
+<td>= 4,014,489,600</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>= 160</td>
+<td>= 4,840</td>
+<td>= 43,560</td>
+<td>= 6,272,640</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1</td>
+<td>= 30<math>\frac{1}{2}</math></td>
+<td>= 272<math>\frac{1}{4}</math></td>
+<td>= 39,204</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>= 9</td>
+<td>= 1,296</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>= 144</td>
+</tr>
+</tbody>
+</table>
+
+**NUMBER OF PLANTS PER ACRE AT VARIOUS DISTANCES.**
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>3 ft.</th>
+<th>3 ft. 6 in.</th>
+<th>4 ft.</th>
+<th>4 ft. 6 in.</th>
+<th>5 ft.</th>
+<th>5 ft. 6 in.</th>
+<th>6 ft.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3 ft.</td>
+<td>4,840</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3 „ 6 in.</td>
+<td>4,148</td>
+<td>3,555</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4 „</td>
+<td>3,630</td>
+<td>3,111</td>
+<td>2,722</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4 „ 6 in.</td>
+<td>3,226</td>
+<td>2,765</td>
+<td>2,419</td>
+<td>2,150</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5 „</td>
+<td>2,904</td>
+<td>2,489</td>
+<td>2,178</td>
+<td>1,936</td>
+<td>1,742</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5 „ 6 in.</td>
+<td>2,640</td>
+<td>2,263</td>
+<td>1,980</td>
+<td>1,760</td>
+<td>1,584</td>
+<td>1,440</td>
+<td></td>
+</tr>
+<tr>
+<td>6 „</td>
+<td>2,420</td>
+<td>2,074</td>
+<td>1,815</td>
+<td>1,613</td>
+<td>1,452</td>
+<td>1,320</td>
+<td>1,210</td>
+</tr>
+</tbody>
+</table>
+
+For other distances multiply together the two distances, in feet, at which the trees or bushes stand apart, and divide 43,560 by the product; the quotient will be the number of plants required.
+
+**QUANTITY OF MANURE TO BE APPLIED PER PLANT (in ozs.)**
+
+<table border="1">
+<thead>
+<tr>
+<th>Lb. per acre</th>
+<th>3 ft. × 3 ft.</th>
+<th>3 ft. × 3 ft. 6 in.</th>
+<th>3 ft. × 4 ft.</th>
+<th>3 ft. 6 in. × 3 ft. 6 in.</th>
+<th>4 ft. × 4 ft.</th>
+<th>4 ft. 6 in. × 4 ft. 6 in.</th>
+<th>5 ft. × 5 ft.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>350</td>
+<td>1'15</td>
+<td>1'35</td>
+<td>1'54</td>
+<td>1'58</td>
+<td>2'07</td>
+<td>2'60</td>
+<td>3'21</td>
+</tr>
+<tr>
+<td>400</td>
+<td>1'32</td>
+<td>1'54</td>
+<td>1'76</td>
+<td>1'80</td>
+<td>2'35</td>
+<td>2'97</td>
+<td>3'67</td>
+</tr>
+<tr>
+<td>450</td>
+<td>1'49</td>
+<td>1'73</td>
+<td>1'98</td>
+<td>2'02</td>
+<td>2'65</td>
+<td>3'34</td>
+<td>4'13</td>
+</tr>
+<tr>
+<td>500</td>
+<td>1'65</td>
+<td>1'92</td>
+<td>2'20</td>
+<td>2'25</td>
+<td>2'94</td>
+<td>3'71</td>
+<td>4'59</td>
+</tr>
+<tr>
+<td>550</td>
+<td>1'82</td>
+<td>2'11</td>
+<td>2'42</td>
+<td>2'48</td>
+<td>3'23</td>
+<td>4'07</td>
+<td>5'05</td>
+</tr>
+<tr>
+<td>600</td>
+<td>1'98</td>
+<td>2'32</td>
+<td>2'64</td>
+<td>2'70</td>
+<td>3'52</td>
+<td>4'44</td>
+<td>5'51</td>
+</tr>
+<tr>
+<td>650</td>
+<td>2'15</td>
+<td>2'51</td>
+<td>2'86</td>
+<td>2'93</td>
+<td>3'82</td>
+<td>4'81</td>
+<td>5'97</td>
+</tr>
+<tr>
+<td>700</td>
+<td>2'31</td>
+<td>2'70</td>
+<td>3'08</td>
+<td>3'15</td>
+<td>4'11</td>
+<td>5'18</td>
+<td>6'43</td>
+</tr>
+<tr>
+<td>750</td>
+<td>2'49</td>
+<td>2'89</td>
+<td>3'31</td>
+<td>3'37</td>
+<td>4'41</td>
+<td>5'54</td>
+<td>6'89</td>
+</tr>
+<tr>
+<td>800</td>
+<td>2'65</td>
+<td>3'08</td>
+<td>3'53</td>
+<td>3'60</td>
+<td>4'70</td>
+<td>5'91</td>
+<td>7'35</td>
+</tr>
+</tbody>
+</table>
+
+53------------------------------------------------
+
+260[APRIL, 1917.
+
+# CO-OPERATION.
+
+## CO-OPERATIVE SOCIETIES IN BOMBAY.
+
+The following extracts are from a report by MR. R. B. EWBANK, Registrar of the Co-operative Societies in the Bombay Presidency for the year 1915-16 :—
+
+*Central Banks.*—The capital of Central Banks is composed of share money Rs. 589,210, deposits by individuals Rs. 1,233,198, deposits by co-operative institutions Rs. 325,450 and reserve fund Rs. 22,122. The turnover has been satisfactory and Rs. 998,188 have been lent to societies in the course of the year. The extent to which societies on March 31st were in their debt was Rs. 1,920,777. As a rule these Banks obtain capital at about 5 per cent. and lend it out at about 9 per cent.
+
+*Agricultural Societies.*—The total number is 808, of which 778 confine their operations to credit business. The average membership of a society has gone up from 70 to 80, while the average working capital available per head has dropped from Rs. 70 to 62. Neither of these changes is in the right direction. Many societies show a tendency to extend their membership beyond the limits of mutual acquaintance and beyond their power of providing adequate finance. I cannot suppose that the societies are doing all the good of which they are capable until an average of at least Rs. 100 per head is reached. The extent to which they derive capital from members and their neighbours is satisfactory and indicates the degree of confidence which they are beginning to enjoy. As this figure grows it is right and natural that their reliance on Government support should decrease. Only Rs. 166,450 or 4 per cent. of the working capital is now derived from this source.
+
+*Non-agricultural Societies.*—Of the 150 non-agricultural societies, 107 deal with credit only. This type of society has shown most satisfactory progress in the course of the year, and in this branch of co-operation the Bombay Presidency is not well in advance of most other parts of India. The average number of members per society has risen from 231 to 260, and the average amount of working capital available per head from Rs. 78 to 90. It is not expected that progress will continue at so rapid a rate next year, but I see nothing unsound in the sudden development that has occurred. Experience has taught us that it is after the fifth year of an urban society's life that defaults generally begin to occur. In the beginning members, if they are well chosen, are keen and business-like, and the work is carried on in a safe and satisfactory manner.
+
+*Cancellations.*—In the course of the year 37 societies were cancelled, the total number of cancellations since the beginning now amounting to 139. No hopeless society is allowed to hang on, bringing discredit on the whole movement. It receives help and warnings from the Department for about a year and then, if no improvement takes place, is promptly cancelled and wound up with some little severity in order that it may serve as a deterrent example. It is satisfactory to record that the failures that have occurred have been chiefly among the societies registered 10 years ago before experience in organization had been gained. No fewer than 66 of the 150 societies first registered have been dissolved. Liquidations are disposed of as quickly as the procedure admits, and 95 cases have been finally wound up and recorded.
+
+54------------------------------------------------
+
+APRIL, 1917.]261
+
+## WORKING OF SOCIETIES.
+
+### UNIONS.
+
+The problem of supplying primary societies with more frequent and efficient supervision through a staff maintained and controlled by themselves has in most countries been solved by the formation of unions. But unless these bodies go beyond tendering advice and have power to enforce their orders by the stoppage of credit to refractory societies, their work is usually careless and barren. It has therefore been resolved with the approval of all leading co-operators to make guaranteeing unions the unit of the future co-operative system in this Presidency. Such unions will not only supervise affiliated societies but will be authorised to sanction and to guarantee loans for them up to a maximum arranged with the Central Bank, usually amounting to six times the liability accepted by the union, and can maintain discipline by stopping credit to societies disregarding their instructions. The Annigeri Federation, started last year with this object, failed because its guarantee was not acceptable to the Central Bank. It is being reconstituted on the new model and several new unions are now in process of formation in other districts. The decision to brigade societies into guaranteeing unions is of the utmost importance and if the policy proves successful in the course of the next two years will have a profound effect on the future development of the movement in this Presidency.
+
+## AGRICULTURAL SOCIETIES.
+
+### (1) CREDIT.
+
+*The system in vogue.*—There are 808 agricultural credit societies in existence with a membership of 64,046 and a total working capital of Rs. 3,976,542. They are all formed on the Raiffeisen model, and preserve all the special features of the type. Their basic principles are a closely restricted area and as a consequence the mutual acquaintance of all members, joint and unlimited liability, gratuitous service on the committee, the rejection of shares, the allocation of all the net profits to reserve, the limitation of loans to members only, reliance on personal rather than real credit, and the control and supervision of the use to which loans are put. At audit these societies are classed as A. good, B. fair, C. poor, and D. bad, and during the year the results of this classification were A. 95, B. 428, C. 151, D. 13, and 121 unclassed. Throughout the Deccan and the Southern Marátha Country there is a plain and urgent need for more societies; but without constant teaching and reiterated warning and advice the ryots in most places are not capable of starting and working them successfully. Therefore the movement halts till more men come forward,—men who are willing not only to advocate it in public speeches but to stoop to the dull routine of training an illiterate committee and a lazy Secretary in the way they should go. The official staff will never be large enough to do this satisfactorily. Unions, as they come into existence, will no doubt be quite capable of undertaking these duties within their own areas. But they will cover only a fraction of the total Presidency. Wonderfully good work is now being done by many helpers whose names never reach the ears of the public. But if the attempt to organise rural credit is to be pushed on on a scale commensurate with the vastness of the problem, then the words of SIR S. P. SINHA at the National Congress must be made good :—“What India wants is more men to develop co-operative credit and she must have them. The men are there, hundreds of them being turned out of her colleges every year with nothing to do, with nothing to look forward to.” Pleaders and country gentlemen constantly volunteer to help, but young men fresh from college do not yet seem to have discovered this avenue of public service.
+
+55------------------------------------------------
+
+262[APRIL, 1917.
+
+## (2) NON-CREDIT.
+
+*Manure supplying Societies.*—The biggest society of this type is that at Bārāmati. It imports cake worth more than one lakh from Gujarāt and the Southern Marātha Country and distributes it on credit among the cane growers of the Nira Canal. Payment is recovered from the price realized at the auction of jaggery. On a smaller scale Rāo Bahādūr A. G. DANDEKAR's well-managed society among the Pan-malis of Kelva-Mahim continues to prosper, and has supplied ghani-pressed cake from the Charotar worth Rs. 18,000 to its members. In emulation of it similar societies have been started at Agashi under MR. RAJWADE, at Umbergaon, at Wathar Koprad, and at Niphad in Nāsik district. The success of these societies will depend on their being able to attract more working capital than they now have at their command. The Mutha Canal society has been handicapped by the difficulty of getting members to indent for manure in advance and by fluctuations in market prices and will shortly be wound up.
+
+*Grain Banks and Seed Societies.*—The object of grain banks, which are among the simplest forms of co-operative organization is to store grain at harvest time and to advance it for food to needy cultivators during the last quarter of the agricultural year. This type of society has been steadily gaining in popularity and there are now 21 grāharies in existence. A scheme has been formed enabling rural credit societies to act as distributing agencies for seed grown on the farms of the Agricultural Department and during March and April five good societies in the Dhārwār district have obtained from Rāo Sāheb M. L. KULKARNI large quantities of improved Kumta cotton seed for distribution among their members. Co-operative societies will no doubt be more and more useful to the Agricultural Department in distributing improved seed, as the demand extends.
+
+*Dairies.*—The problem of the milk supply of large cities has lately been attracting much public attention, and one of the remedies most commonly recommended is the organization of the industry on co-operative lines. During the year special efforts have been made by the Assistant Registrar, Mr. GONEHALLI, to make a practical start; and the Department has now gone so far that it has succeeded in fixing the main lines, on which to proceed and has formed a few pioneer dairies. The functions, which a co-operative dairy society will undertake are:—
+
+- (a) the financing of its gowli members for the purchase of cattle, fodder, and current needs;
+- (b) provision of a shed on a convenient site where cattle can be milked under supervision;
+- (c) purchase of cake and fodder for cattle direct from wholesale dealers;
+- (d) provision of a hygienic dairy room with proper utensils;
+- (e) provision of a suitable standing and grazing ground;
+- (f) distribution and retail of milk in an economical way.
+
+The cattle remain the property of the gowlis and are kept by them in shade to be erected by them for the purpose in or near the milk shed or grazing ground. This is the cheapest scheme that it has been possible to devise, and at most places is found to be quite acceptable to the gowlis. But even on these lines it costs Rs. 5,000 to start a dairy society for 100 cattle, and the societies being of limited liability and composed of poor and illiterate members, cannot as a rule raise this sum. No Municipality has up to date been
+
+56------------------------------------------------
+
+APRIL, 1917.]263
+
+willing to grant a loan to those societies, and they have to depend on themselves or on some local philanthropist for their capital. In consequence several of them have started in a hand-to-mouth way, content with milking their cattle in some common place and arranging for the joint distribution and retail of milk, until they are in a position to build a shed and provide their numbers with some real conveniences. The main and almost only obstacle at the present stage is the money difficulty.
+
+*Sale Societies.*—The sale of various sorts of agricultural produce involves many difficulties and some risks. Apart from the auction sale of jaggery on the Nira Canal no considerable enterprize of this class has been undertaken. The Sirsi Totgars secured slightly better prices by selling their garden produce through their society than through the local *dalals*.
+
+*Cattle Breeding Societies.*—The object of these societies, of which only two are yet in existence, is to purchase a bull of good breed, to form a herd of some 50 or 60 of the village cows, and to maintain the whole herd on a separate grazing ground, the wages of the herdsman, the upkeep of the bull, and the other expenses being met by annual contributions levied from the members.
+
+*The Supply of Machinery and Implements.*—In addition to the three oil-engine-driven cane-crushers on the Nira Canal, a similar machine has been installed by Mr. SCHUTT at Hadapsar at the expense of the Co-operative Society formed for the purpose with a capital of Rs. 3,650. The machine worked well and made a profit of Rs. 173 on its first two months' working. The Mahád Rice-Hulling Society has suffered by the establishment of a still better huller by a private firm in the same village. However it earned Rs. 1,578 by cleaning rice and seems to be paying its way. Credit societies have been widely used for the sale of iron ploughs, and other simple agricultural implements. The reserve funds of many societies have been invested, more extensively than is perhaps wise, in the purchase of ploughs for hiring out to members. I estimate that 200 or 300 have been bought by societies in this way. The reserve fund of societies is primarily intended for other objects, and this practice has therefore now been placed under certain restrictions and is forbidden among societies of which the reserve fund does not exceed Rs. 500. Good societies are being encouraged to open depôts for the sale on commission of agricultural implements deposited with them by the manufacturers, and it is hoped to extend this system next year.
+
+#### NON-AGRICULTURAL SOCIETIES :
+
+##### (1) CREDIT SOCIETIES.
+
+*People's Banks.*—The success of this type of society in many places has been remarkable. Throughout the Southern and Central Divisions there are practically no joint-stock banks at work, and it is by no means easy for artisans and middle-class people to secure loans when they require them on reasonable terms, or to find institutions in which they can deposit their savings with safety. The People's Banks which have sprung up in answer to this demand are often disappointing on account of their commercial spirit and lack of unity. The committee on co-operation, in dismissing as "not really co-operative," observes "their value consists not so much in their services to co-operation as in the training ground they offered to their members for understanding ordinary joint-stock banking." This is, however, to ignore the explicit object of SCHULZE's original scheme, which was to help the middle
+
+57------------------------------------------------
+
+264[APRIL, 1917.
+
+classes economically only, and to leave other reforms to follow automatically. As they grow larger, it must be admitted that these banks are becoming an increasing source of uneasiness to the Registrar. The unwieldy body of members loses coherence as it abandons the principle of mutual acquaintance, and forfeits real control over the Managing Committee. A tendency to give excessive loans to single individuals, and to prefer real to personal security becomes apparent. Dividends are greedily sought as an object in themselves. Arrears and extensions mount up. The Committee, as the volume of business increases, relaxes its grip on the details of administration, and becomes less inclined to attend to the advice of the Registrar. These dangers are appearing here and there, and are mentioned because the collapse of one of these big urban banks would be a serious catastrophe to the whole movement. No such event is at present, however, on the horizon.
+
+*Employées and Government Servants' Societies.*—Among societies for whole-time servants of Government not confined to a single department, the best is the East Khándesh Government Society under Mr. L. K. BHALERAO with a capital of Rs. 48,471. In this type, however, there is no very close bond of union between members, and societies usually flourish better if they limit their membership to a single department. Societies of this kind are proving themselves very useful to employées on modest salaries, and may be strongly recommended to the heads of firms who wish to foster *esprit de corps* among their staff and are willing to sacrifice some of their own time in the interest of their employées.
+
+*Communal Societies.*—Of communal societies the classic example in this Presidency is the excellent Shamrao Vithal Society for Sáráswat Bráhmins which continues to surpass its own records.
+
+*Mill-hands and Artisans' Societies.*—These societies fall conveniently into three sub-divisions. The first consists of those organized and controlled by the mill-owners themselves for the benefit of their employées. The second consists of societies independently formed for the benefit of mill-hands or artisans by some outside philanthropist. With a few exceptions they are progressing satisfactorily and are undoubtedly powerful agencies for the elevation of the lower classes. The third sub-division includes those societies formed among Municipal sweepers by the Chief Officer or some public-spirited member of the Council. Men of the lowest caste are capable of developing a high standard of honesty and a real sense of self-respect, whenever a man of higher class exerts himself personally to help and to encourage them.
+
+## (2) NON-CREDIT.
+
+*Stores.*—There are no less than 12 co-operative stores in the Presidency. It is much more difficult to manage and to audit stores societies than ordinary credit societies, and unless members can be induced to indent in advance for the articles which they need, and a manager can be found with practical experience of business, they are constantly in danger of working at a loss.
+
+*Weavers' Societies.*—Last year Government expressed the opinion that progress in co-operation among hand-loom weavers had been disappointingly slow. The distress produced by the war, already making itself felt last year and intensified during the current year, was probably the main cause of this set-back. The prices of yarn and even more of dyes have continued to rise,
+
+58------------------------------------------------
+
+APRIL, 1917.]265
+
+while there has been no corresponding appreciation in the selling price of cloth owing to the fact that the mills had large accumulated stocks of pre-war cloth to dispose of. As these stocks become exhausted, the situation will probably improve, but at present the margin between the cost of manufacture and the selling price is barely enough to keep the weavers and their families alive. Many instances have come to my notice in which the weavers are abandoning their handicraft and taking to manual labour.
+
+*Training of Secretaries.*—In nearly all districts the lack of competent men to act as Secretaries of societies is one of the greatest barriers to progress. Account forms and the Annual Returns have been made as simple as possible but they are beyond the capacity of any one who has not gone at least as far as the fifth standard at school. Group Secretaries are being tried in parts of Gujarát and the Deccan, but they are not proving very successful. There seems no alternative to opening classes for the direct training of secretaries, or perhaps in the future of Union supervisors who will in their turn pass on their knowledge to the local secretaries in their area.
+
+## CATTLE INSURANCE SOCIETIES IN INDIA.
+
+Cattle insurance societies have been in operation in Burma for the last five or six years, and have so far proved eminently successful. Efforts are now being made to introduce these societies into the United Provinces, and a few societies have been registered. At present insurance is confined to healthy bullocks and male buffaloes between the ages of 4 and 12 years. The premium has to be paid every six months on the value of the animal as assessed by the society. The rate of premium has been provisionally fixed at one pice per rupee (1*d.* per 5*s.* 4*d.*) for the six months, and should the animal die during that period the owner will receive two-thirds of its value after deducting the value of the hide, etc. No compensation is given if the animal dies through the owner's neglect, and provision is made to meet cases of epidemic, and also for treatment for sickness. If the scheme proves successful and the number of societies increases a re-insurance society will be organised.
+
+In Burma the area of a cattle insurance society is usually limited to one village, and membership is practically confined to the members of a credit society. Members are urged, but not compelled, to insure all their eligible cattle. Plough bullocks and buffaloes are insurable. The valuation is made every six months when the premium (5 per cent.) has to be paid. If an animal dies, two-thirds of the assessed value, less the price of the hide and carcase, is paid out. The societies have two separate funds, (1) the general fund consisting of all premiums realised during the year, and (2) the reserve fund consisting of fines, entrance fees, donations, profits of previous years, etc. A re-insurance society has been formed for the whole of Burma. This society receives half the premiums and pays half the indemnity. In the event of the primary society being unable to pay its half of the indemnity from the general fund, half the reserve fund may, with the consent of the registrar, be used for this purpose. If the funds are still insufficient the indemnities on animals that have died during the year are correspondingly decreased.—JOUR. OF THE BD. OF AGRIC., Dec., 1916.
+
+59------------------------------------------------
+
+266[APRIL, 1917.
+
+# AGRICULTURE IN CEYLON.
+
+## COMMITTEE OF AGRICULTURAL EXPERIMENTS.
+
+Proceedings of a Meeting of the Committee of Agricultural Experiments held on March 8th, 1917. The DIRECTOR OF AGRICULTURE in the chair.
+
+Before the minutes of the previous meeting were confirmed, the Chairman proposed the following amendment to the minutes of the meeting held on 11th January last *re* yields of rubber from cuts of different lengths. This amendment was adopted for insertion in the minutes which were then confirmed.
+
+"With reference to this question MR. CAMPBELL referred to experiments carried out at the Experiment Station, Peradeniya, given in Circular Vol. V No. 19 and in Bulletin 12 page 9. He also gave the following figures obtained in Java in 1913 and calculated to percentages:—
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>From long<br/>cut.</th>
+<th>From one cut<br/><math>\frac{1}{2}</math> the length.</th>
+<th>From other<br/>cut half the<br/>length.</th>
+<th>Total of 2<br/>short cuts.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Experiment 1</td>
+<td>100</td>
+<td>56.6</td>
+<td>63.1</td>
+<td>119.7</td>
+</tr>
+<tr>
+<td>Experiment 2</td>
+<td>100</td>
+<td>62.2</td>
+<td>61.7</td>
+<td>123.9</td>
+</tr>
+</tbody>
+</table>
+
+It is therefore concluded that evidence seems to indicate that by prolonging a cut an increase in yield is obtained, but not in proportion to the increase in the length of the cut."
+
+The Chairman stated that certain members had intimated to him their inability to attend the meeting.
+
+*Leaflets.*—The Chairman stated that he proposed printing and circulating short leaflets on different subjects of agricultural interest for distribution among planters and all those interested. He called for suggestions as to the best means of distribution. Leaflet No. 1 on "The value of coconut poonac as manure" was distributed and No. 2 on "Hypochnus disease of tea" would be ready the next day. It was agreed that enquiries may be made from the Planters' Association as to the number of copies required by each District Association.
+
+*Progress Report, Peradeniya Experiment Station.*—In reviewing this report, the Chairman stated that the Mycologist strongly urged that all dead branches on rubber trees should be removed during dry weather to reduce the amount of dead wood. He desired that the suggestion should be brought to the notice of all estates.
+
+The Chairman pointed out that the paddy yields of the Experiment Station were this year very poor.
+
+The HON'BLE MR. R. HUYSHE ELIOT enquired whether any information was available relative to planting and subsequent treatment of Robusta coffee and the Chairman promised that a leaflet on this coffee would be prepared.
+
+The HON'BLE MR. R. HUYSHE ELIOT enquired about the experiment *re* removal of rubber flowers, and MR. KELWAY BAMBER explained that it
+
+60------------------------------------------------
+
+APRIL, 1917.]267
+
+was found absolutely impracticable to do this, but stated that further experiments would be conducted when the seed sets to see if it were practicable to cut off seed pods.
+
+*Rubber Tapping Experiments at Peradeniya.*—The Mycologist gave a résumé of the experiments at Peradeniya and explained the results which had been tabulated and distributed to members. The results would be published in detail as a Bulletin in continuation of other Bulletins dealing with this subject.
+
+MR. WILKINS enquired whether No. 2 tree at Heneratgoda is being tapped; the Mycologist stated that this was not now being tapped, but was reserved for seed purposes.
+
+*Rubber Manuring Experiments.*—MR. BAMBER gave a summary of the results of the rubber manuring experiments, conducted since 1913, and pointed out that the yield of the control (unmanured plot) was still equal to the highest of the manured plots. Excess of Phosphoric acid appears to be most successful of the manures while excess of potash gave the lowest yield. Excess of nitrogen gave a large increase after the first application, but fell off heavily after the second. He suggested that burying leaves in shallow pits 8 ft. × 6 ft. and 9 inches deep between trees with Basic slag and other phosphatic manures might be the best method to adopt under present conditions. Bark renewal generally was good on all the plots. Bark rot appeared to be more prevalent on the plots manured with excess of nitrogen and potash. There was no disease on the unmanured plot. The different manures had no noticeable effect on seed production. The control plot showed a slightly larger increase in girth than any of the manured plots. MR. DICKSON enquired *re* forking, and MR. BAMBER replied that he thought it better to bury leaves as suggested at 9 inches to improve root development below the surface. The Chairman intimated that it was advisable to receive the results of these experiments with reserve. No definite conclusions had been come to but only generalizations were made based on the results of the experiments. In all experiments with tropical products the individuality of the trees was a factor of importance as instanced in the present case where the unmanured plot continued to give its high yields. It had been found that there was one rubber tree in every ten that gave outstanding results and this had to be taken into consideration when experiments with rubber yields were being examined.
+
+MR. PATERSON asked if the phosphoric acid effect might not in part have been due to the lime in the Basic slag, but MR. BAMBER thought the proportion of slag in the mixture was too low for this.
+
+*Yields of Tea Plots.*—MR. BAMBER briefly explained the results which had been tabled, and pointed out the continued good effects of green manures, etc.
+
+Yields were briefly explained and it was pointed out that the good effect of green manures, especially dadap, was being maintained. The cattle manure plot manured last in 1910 still gave a heavy yield up to 1,200 lb. in the unpruned years. An application of slaked lime was applied to the five Manipuri Indigenous plots in August, 1916, but the results so far were not noticeable. Four plots under rubber were cut out in August, 1916. A detailed bulletin will shortly be published in continuation of the previous bulletins.
+
+*Coconut Experiments at Maha Iluppalama.*—The Chairman reviewed the results of these experiments. He drew attention to the difference between the irrigated and unirrigated portions. The irrigated plot had come into bearing much earlier and had in 1916 given average yields of 22 nuts per palm against only 7 nuts per palm for the unirrigated plot.
+
+61------------------------------------------------
+
+268[APRIL, 1917.
+
+*Chilaw Experiments.*—In submitting results of these experiments the Chairman pointed out that no deductions should yet be drawn from these experiments which had only been carried out for two years. Certain plots however gave marked increases in the 1916 crop over their yields of 1915.
+
+*Negombo Trial Ground.*—MR. A. E. DE S. RAJAPAKSE read his report giving details of the experiments. He also brought several samples of pure ash from burnt husks and shells, for analysis.
+
+The Chairman stated that MESSRS. BAMBER and A. S. LONG-PRICE and himself visited the Trial Ground recently, and they were very pleased with the manner in which MR. RAJAPAKSE was keeping most careful records. The plantation was a young one and the progress of the different plots was interesting. It was suggested that measurements of stem growth should be begun.
+
+MR. T. Y. WRIGHT enquired why clean-weeding had failed and it was stated that this was thought to be due to insufficient cover, the soil being of cinnamon sand.
+
+*Pilakanda.*—The Chairman stated that the figures of the experiments would be available in a day or so and that they will be circulated when ready.
+
+*Puttalam.*—It was agreed to discuss the experiments at Puttalam at the next meeting.
+
+*Can dry farming be overdone on certain estates.*—MR. BAMBER replied as follows on this question, which was brought up by MR. A. W. BEVEN :—Dry farming could be overdone on pure sand soils, where it was advisable to grow some green crop to be disced in every three or four months. On heavy soils more frequent discing might be done to maintain a loose tilth, but even here an increase of humus was desirable.
+
+*Shot-hole Borer.*—MR. SPEYER gave an explanation of the Control Scheme suggested in his Circular for 3 year, 2½ year fields and 2 year fields, in confirmation of which the results obtained from the experiment on the Poonagala Group were announced. These were as follows :—
+
+Elevation of field 4,000-4,300 ft. acreage 38. Pruned last: August 1914.
+
+Estimated percentage of bushes attacked July 1915 : 4%.
+
+(a) Bushes infested and pruned January, 1916 : 16%.
+
+(b) Bushes infested and pruned January, 1917 : 13.6%\* of those unpruned in A.
+
+(c) Bushes pruned January 1916 (a) re-attacked January 1917 : 14%† approximately.
+
+Total bushes attacked January, 1917 : 14% approximately.
+
+Allowing an extra infestation of 4% for infested bushes missed in the second pruning (b), the total attacked in the field in January, 1917 was the same as that in January, 1916, so that for 12 months, between the 18th and 30th months after the previous pruning, the borer had been brought to a complete standstill.
+
+The Chairman said he had visited with MR. SPEYER estates on which experimental work was being carried out. The problem was a difficult one and the diminution of the pest could only be gradual. The results of experimental control measures appear to be giving satisfactory results as far as they had gone.
+
+\*=11.3 % of the whole field.
+
+†=2.3 % of the whole field.
+
+62------------------------------------------------
+
+APRIL, 1917.]269
+
+Commenting upon the circular MR. COLES said that the opinion of most planters was directly in opposition to the statements that fields run for longer periods were less heavily attacked than fields run shorter periods. Other members of the Committee did not hold the same view and MR. SPEYER stated that his statement was based on actual experiments.
+
+MR. WILKINS stated that the attack below the level of pruning was, especially in China Jat, much greater than in the upper branches, so that the burning of prunings was a waste. There is proof from several sources, that this does not apply in the majority of cases.
+
+MR. WILKINS further stated that MR. SPEYER's scheme did not deal with insects below the level of pruning.
+
+Reference was made to the results of experiments on the resistance of tea to the borer after pruning, which were a confirmation of MR. GREEN's observations.
+
+MR. AUSTIN DICKSON, and several others, alluded to the increase of crop due to the burying of prunings, and asked if the beetles could emerge from prunings burned to a depth of 8 or 9 inches,—the earth above being well stamped down.
+
+MR. SPEYER quoted the late MR. RUTHERFORD's experiment and his own observations that the beetles could make their way through earth of that depth. He added that his scheme to use the leaves and small twigs only as a mulch was a compromise, and that the nature of Ceylon soils made it often impossible to bury prunings to any given depth over whole estates.
+
+MR. WILKINS did not agree with the statement that tea run for a longer time than its flourishing period led to an improvement of the wood which was generally concurred in.
+
+MR. COLES brought up several slight discrepancies in the Circular which MR. SPEYER showed to be only apparent, except in the case of one which was a misprint, and agreed that the discrepancies could be remedied by greater clearness of writing.
+
+The Chairman reviewed the discussion and it was unanimously agreed to adopt the following recommendation :—
+
+That the cutting out and burning of all die-backs is most essential in the control of shot-hole borer at low elevations 2 months, at medium elevation 3 months and at high elevations 4 months after pruning.
+
+The Entomologist further strongly recommended the burning of all woody parts of prunings on infected estates, but it was agreed that further information in this point was desirable.
+
+*The Acacia Pest.*—A note on the recently discovered Fluted Scale Insect, *Icerya purchasi*, LASHELL, was circulated with specimens showing the female on *Acacia decurrens*, and a male which had been obtained in the Laboratory the same morning.
+
+It was stated that the insect at present had been found on *Acacia* at Ambawela, Agra Patnas, Upper Hewaheta and Galaha, and on *Casuarina* at Peradeniya, and *Citrus* at Galaha.
+
+Specimens of the fungus *Cephalosporum* which checks the insects during the N. E. MONSOON were exhibited.
+
+The Chairman stated that it was important to get complete information of its distribution in Ceylon, with a view to the importation of ladybirds from S. Africa for its control,
+
+63------------------------------------------------
+
+270[APRIL, 1917.
+
+*Coagulating rubber with other than acetic acid.*—The Chairman read a letter from MR. DE MEL and reviewed experiments by MR. CAMPBELL in Ceylon and MR. EATON in F.M.S. MR. BAMBER explained that practically every type of coagulant had been tried in previous years. He pointed out the inadvisability of varying the coagulant, as although the rubber appeared satisfactory it would probably interfere with vulcanization. Manufacturers were used to the rubber produced by acetic acid, and any change unknown to them might produce harmful results in the finished products. MR. GARRICK gave some information regarding coagulation of rubber with expressed tea juice.
+
+*Canker under healthy bark.*—The Mycologist stated that he had visited the estate on which canker was said to have been found under healthy bark. This proved to be the clear red zone usually found in renewing bark, which appears as a thin red line on the tapping cut. It is present on the Experiment Station on renewed bark 6 years old, on 12 year old trees, and on renewed bark, 11 years old on the 35 year old trees in the Botanic Gardens, Peradeniya.
+
+MR. PATERSON enquired whether any bark rot was reported from the F.M.S., and MR. PETCH replied in the negative.
+
+*Natal-Java-Indigo.*—The Chairman stated that this seed now had a high value and explained that it was difficult to grow seed in India and it was suggested to grow it in Ceylon from the pure variety supplied by the Chairman of the Bihar Indigo Planters' Association. MR. BAMBER explained that MR. REID offered Rs. 50 a maund for three years for the pure seed, and that a yield of about 1,200 lb. of seed per acre could be expected. He said that he had obtained seeds of other indigos from Java. These had grown well at Peradeniya and produced good seed. He suggested sowing the seed in rows 2 feet apart between young rubber as a catch crop and to prevent washing, the plant being a good leguminous green manure also in any other available land. Sown in April, seed began to ripen in November and continued until the present time. The necessity of growing only the pure variety of *Indigofera arrecta* was emphasised.
+
+The plot was inspected after the meeting, and the method of sowing explained. Small samples of the pure Natal-Java seed sent by MR. REID was distributed for testing in the different districts and on different soils.
+
+*Leucaena glauca.*—The Chairman explained that in Mauritius this seed was considered an excellent food for cattle, but must *not* be used for horses. The value of the plant for fuel and as a green manure was discussed, the Chairman stating that it was largely used for fuel in Mauritius.
+
+*Entomologist for Tortrix.*—The HON'BLE MR. R. HUYSHÉ ELIOT enquired whether any information was available *re* the appointment of the special Entomologist, and the Chairman stated that the Secretary of State had replied that he had a man in view. He had heard privately that it was a question whether the War Office would liberate him from Military duties.
+
+Specimens of *Aglaospora aculeata* on tea stumps were circulated. This occurs fairly frequently on up-country estates. It usually attacks the side branch and may, if not removed, spread to main stem. A photograph of this disease was reproduced in the TROPICAL AGRICULTURIST for November last.
+
+It was decided to make a tour of inspection of the various experimental plots on the date of the next meeting.
+
+H. A. DEUTROM,
+
+Acting Secretary, Committee of Agricultural Experiments.
+
+64------------------------------------------------
+
+APRIL, 1917.]271CATTLE DISEASE RETURN FOR THE MONTH ENDED 31st MARCH, 1917.
+
+<table border="1">
+<thead>
+<tr>
+<th>Province.</th>
+<th>Disease.</th>
+<th>No. of cases to date since Jan. 1st, 1917.</th>
+<th>Balance remaining end of preceding week.</th>
+<th>Fresh cases during the month</th>
+<th>Re- coveries.</th>
+<th>Deaths.</th>
+<th>Balance ill.</th>
+<th>No. shot.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Western</td>
+<td>Rinderpest</td>
+<td>37</td>
+<td>—</td>
+<td>—</td>
+<td>7</td>
+<td>30</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Hoof and mouth disease</td>
+<td>316</td>
+<td>26</td>
+<td>232</td>
+<td>277</td>
+<td>—</td>
+<td>39</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>62</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Anthrax</td>
+<td>4</td>
+<td>—</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Hoof and mouth disease</td>
+<td>291</td>
+<td>—</td>
+<td>74</td>
+<td>no return</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Quarantine Station</td>
+<td>Anthrax</td>
+<td>119</td>
+<td>—</td>
+<td>28</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Hoof and mouth disease</td>
+<td>10</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Central</td>
+<td>Hoof and mouth disease</td>
+<td>102</td>
+<td>23</td>
+<td>75</td>
+<td>39</td>
+<td>—</td>
+<td>63</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Anthrax</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Northern</td>
+<td>Hoof and mouth disease</td>
+<td>132</td>
+<td>—</td>
+<td>—</td>
+<td>131</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Anthrax</td>
+<td>22</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>22</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>North-Western</td>
+<td>Rinderpest</td>
+<td>9</td>
+<td>—</td>
+<td>—</td>
+<td>2</td>
+<td>7</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td>Hoof and mouth disease</td>
+<td>59</td>
+<td>—</td>
+<td>32</td>
+<td>28</td>
+<td>—</td>
+<td>31</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Eastern</td>
+<td>Hoof and mouth disease</td>
+<td>335</td>
+<td>35</td>
+<td>135</td>
+<td>313</td>
+<td>10</td>
+<td>12</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Sabaragamuwa</td>
+<td>Hoof and mouth disease</td>
+<td>32</td>
+<td>—</td>
+<td>29</td>
+<td>22</td>
+<td>—</td>
+<td>10</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Uva</td>
+<td>Hoof and mouth disease</td>
+<td>301</td>
+<td>32</td>
+<td>40</td>
+<td>245</td>
+<td>14</td>
+<td>42</td>
+<td>—</td>
+</tr>
+<tr>
+<td>North-Central</td>
+<td>Hoof and mouth disease</td>
+<td>171</td>
+<td>32</td>
+<td>171</td>
+<td>136</td>
+<td>3</td>
+<td>32</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Southern</td>
+<td>Free</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+G. W. STURGESS, G.V.S.
+
+65------------------------------------------------
+
+
+<!-- stage4: ACCEPT_TABLE vsplitV/V_005:134+135+136+137+138 -->
+
+272[APRIL, 1917]
+
+---
+
+MARKET RATES FOR TROPICAL PRODUCTS.
+
+---
+
+(From Lewis & Peat's Latest Monthly Prices Current.)
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>QUALITY.</th>
+<th>Quotations.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ALOES, Socotrine cwt.</td>
+<td>Fair to fine</td>
+<td>85/ a 90/</td>
+</tr>
+<tr>
+<td>Zanzibar &amp; Hepatic ,,</td>
+<td>Common to good</td>
+<td>37/6 a 90/</td>
+</tr>
+<tr>
+<td>ARROWROOT (Natal) lb.</td>
+<td>Fair to fine</td>
+<td>6d a 7d</td>
+</tr>
+<tr>
+<td>BEES' WAX cwt.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>    Zanzibar Yellow ,,</td>
+<td>Slightly drossy to good</td>
+<td>£8 15/ a £9</td>
+</tr>
+<tr>
+<td>    East Indian bleached ,,</td>
+<td>Fair to good</td>
+<td>£8 15/ a £9</td>
+</tr>
+<tr>
+<td>        unbleached ,,</td>
+<td>Dark to good genuine</td>
+<td>£7 10/ a £8 5/</td>
+</tr>
+<tr>
+<td>    "Madagascar ,,</td>
+<td>Dark to good palish</td>
+<td>£8 5/ a £8 17/6</td>
+</tr>
+<tr>
+<td>CAMPHOR, Japan lb.</td>
+<td>Refined</td>
+<td>3/5 a 3/6</td>
+</tr>
+<tr>
+<td>    China cwt.</td>
+<td>Fair average quality</td>
+<td>150/ nom.</td>
+</tr>
+<tr>
+<td>CARDAMOMS, Tuticorin</td>
+<td>Good to fine bold</td>
+<td>3/6 a 4/6 nom.</td>
+</tr>
+<tr>
+<td>    per lb.</td>
+<td>Middling lean</td>
+<td>2/ a 2/9 ,,</td>
+</tr>
+<tr>
+<td>    Malabar, Tellicherry ,,</td>
+<td>Good to fine bold</td>
+<td>3/ a 4/ ,,</td>
+</tr>
+<tr>
+<td>        Calicut ,,</td>
+<td>Brownish</td>
+<td>1/9 a 2/6 ,,</td>
+</tr>
+<tr>
+<td>        Mangalore ,,</td>
+<td>Med Brown to good bold</td>
+<td>2/6 a 5/4 ,,</td>
+</tr>
+<tr>
+<td>    Ceylon, Mysore ,,</td>
+<td>Small fair to fine plump</td>
+<td>1/6 a 5/ ,,</td>
+</tr>
+<tr>
+<td>        Malabar ,,</td>
+<td>Fair to good</td>
+<td>1/6 a 1/7 ,,</td>
+</tr>
+<tr>
+<td>    Seeds, E. I. &amp; Ceylon ,,</td>
+<td>Fair to good</td>
+<td>1/5 a 1/6 ,,</td>
+</tr>
+<tr>
+<td>    Ceylon "Long Wild" ,,</td>
+<td>Shelly to good</td>
+<td>1/ a 1/6 ,,</td>
+</tr>
+<tr>
+<td>CHILLIES, Zanzibar cwt.</td>
+<td>Dull to fine bright</td>
+<td>90/ a 100/</td>
+</tr>
+<tr>
+<td>    Japan ,,</td>
+<td>Fair bright small</td>
+<td>80/ a 89/</td>
+</tr>
+<tr>
+<td>CINCHONA BARK.—lb.</td>
+<td>Crown, Renewed</td>
+<td>3<math>\frac{3}{8}</math>d a 7d</td>
+</tr>
+<tr>
+<td>    Ceylon</td>
+<td>Org. Stem</td>
+<td>2d a 6d</td>
+</tr>
+<tr>
+<td></td>
+<td>Red Org. Stem</td>
+<td>1<math>\frac{3}{4}</math>d a 4<math>\frac{1}{4}</math>d</td>
+</tr>
+<tr>
+<td></td>
+<td>Renewed</td>
+<td>3d a 5<math>\frac{1}{4}</math>d</td>
+</tr>
+<tr>
+<td></td>
+<td>Root</td>
+<td>1<math>\frac{7}{8}</math>d a 4d</td>
+</tr>
+<tr>
+<td>CINNAMON, Ceylon 1sts.</td>
+<td>Fair to fine quill</td>
+<td>10<math>\frac{1}{2}</math>d a 1/6</td>
+</tr>
+<tr>
+<td>    per lb. 2nds.</td>
+<td>,, ,,</td>
+<td>9<math>\frac{1}{2}</math>d a 1/5</td>
+</tr>
+<tr>
+<td>    3rds.</td>
+<td>,, ,,</td>
+<td>8<math>\frac{1}{2}</math>d a 1/3</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1">
+<tbody>
+<tr>
+<td></td>
+<td>4ths.</td>
+<td></td>
+<td></td>
+<td>8d a 1/</td>
+</tr>
+<tr>
+<td></td>
+<td>Chips,</td>
+<td></td>
+<td>Fair to fine bold</td>
+<td>3d a 4d</td>
+</tr>
+<tr>
+<td>CLOVES, Penang</td>
+<td>lb.</td>
+<td></td>
+<td>Dull to fine bright pkd.</td>
+<td>11d a 1/1</td>
+</tr>
+<tr>
+<td>Amboyna</td>
+<td>..</td>
+<td></td>
+<td>Dull to fine</td>
+<td>10½d a 11d</td>
+</tr>
+<tr>
+<td>Zanzibar</td>
+<td>..</td>
+<td></td>
+<td>Fair and fine bright</td>
+<td>8¼d</td>
+</tr>
+<tr>
+<td>Madagascar</td>
+<td>..</td>
+<td></td>
+<td>Fair</td>
+<td>8d a 8½d</td>
+</tr>
+<tr>
+<td>Stems</td>
+<td>..</td>
+<td></td>
+<td>Fair</td>
+<td>2¾d</td>
+</tr>
+<tr>
+<td>COFFEE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ceylon Plantation</td>
+<td>cwt.</td>
+<td></td>
+<td>Medium to bold</td>
+<td>Nominal</td>
+</tr>
+<tr>
+<td>Liberian</td>
+<td>..</td>
+<td></td>
+<td>Fair to bold</td>
+<td></td>
+</tr>
+<tr>
+<td>COCOA, Ceylon Plant.</td>
+<td>..</td>
+<td></td>
+<td>Special Marks</td>
+<td>90/ a 93/</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Red to good</td>
+<td>84/ a 89/</td>
+</tr>
+<tr>
+<td>Native Estate</td>
+<td>..</td>
+<td></td>
+<td>Ordinary to red</td>
+<td>50/ a 82/6</td>
+</tr>
+<tr>
+<td>Java</td>
+<td>..</td>
+<td></td>
+<td>Small to good red</td>
+<td>70/ a 99/</td>
+</tr>
+<tr>
+<td>COLOMBO ROOT</td>
+<td>..</td>
+<td></td>
+<td>Middling to good</td>
+<td>32/6 a 40/</td>
+</tr>
+<tr>
+<td>CROTON SEEDS, sifted,,</td>
+<td>..</td>
+<td></td>
+<td>Dull to fair</td>
+<td>42/6 a 47/6</td>
+</tr>
+<tr>
+<td>CUBEBS</td>
+<td>..</td>
+<td></td>
+<td>Ord. stalky to good</td>
+<td>£15/ a £16/</td>
+</tr>
+<tr>
+<td>FIBRE Palmyrah</td>
+<td>..</td>
+<td></td>
+<td>Common to fair</td>
+<td>£25/30</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Medium to good</td>
+<td>£25/40</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Good to fine</td>
+<td>£45/55</td>
+</tr>
+<tr>
+<td>GINGER, Bengal, rough</td>
+<td>..</td>
+<td></td>
+<td>Fair</td>
+<td>47/6</td>
+</tr>
+<tr>
+<td>Calicut, Cut A</td>
+<td>..</td>
+<td></td>
+<td>Medium to fine bold</td>
+<td>80/ a 95/</td>
+</tr>
+<tr>
+<td>B &amp; C</td>
+<td>..</td>
+<td></td>
+<td>Small and medium</td>
+<td>70/ a 75/</td>
+</tr>
+<tr>
+<td>Cochin, Rough</td>
+<td>..</td>
+<td></td>
+<td>Common to fine bold</td>
+<td>57/6 a 62/6</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Small and D's</td>
+<td>55/</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>..</td>
+<td></td>
+<td>Unsplit</td>
+<td>45/</td>
+</tr>
+<tr>
+<td>GUM Ammoniacum</td>
+<td>..</td>
+<td></td>
+<td>Ord. blocky to fair clean</td>
+<td>60/s a 85s</td>
+</tr>
+<tr>
+<td>Animi, Zanzibar</td>
+<td>..</td>
+<td></td>
+<td>Pale and amber, str. srts</td>
+<td>£14 10/a £16 10</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>.. little red</td>
+<td>£11 a £12</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Bean and Pea size ditto</td>
+<td>70/ a £11</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Fair to good red sorts</td>
+<td>£8 10/ a £10 10</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Med. and bold glassy sorts</td>
+<td>£5 10/ a £7 5/</td>
+</tr>
+<tr>
+<td>Madagascar</td>
+<td>..</td>
+<td></td>
+<td>Fair to good palish</td>
+<td>£4 a £8</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>.. red</td>
+<td>£4 a £7</td>
+</tr>
+<tr>
+<td>Arabic, E. I. &amp; Aden</td>
+<td>..</td>
+<td></td>
+<td>Ordinary to good pale</td>
+<td>45/ a 50/ nom.</td>
+</tr>
+<tr>
+<td>Turkey sorts</td>
+<td>..</td>
+<td></td>
+<td>... ..</td>
+<td>65/ a 67/6</td>
+</tr>
+<tr>
+<td>Ghatti</td>
+<td>..</td>
+<td></td>
+<td>Sorts to fine pale</td>
+<td>22/6 a 35/</td>
+</tr>
+<tr>
+<td>Kurrachee</td>
+<td>..</td>
+<td></td>
+<td>Reddish to good pale</td>
+<td>25/ a 35/ nom.</td>
+</tr>
+<tr>
+<td>Madras</td>
+<td>..</td>
+<td></td>
+<td>Dark to fine pale</td>
+<td>20/ a 32/6 nom.</td>
+</tr>
+<tr>
+<td>Assafoetida</td>
+<td>..</td>
+<td></td>
+<td>Clean fr. to gd. almonds</td>
+<td>£15 a £20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>com. stony to good block</td>
+<td>£4 a £10</td>
+</tr>
+<tr>
+<td>INDIGO, E.I. Bengal</td>
+<td>lb.</td>
+<td></td>
+<td>Shipping mid to gd. violet</td>
+<td>14/ a 14/6</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Consuming mid. to gd.</td>
+<td>13/6 a 14/</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Ordinary to middling</td>
+<td>11/6 a 13/</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Mid. to good Kurpah</td>
+<td>8/6 a 10/</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Low to ordinary</td>
+<td>6/ a 7/9</td>
+</tr>
+<tr>
+<td></td>
+<td>..</td>
+<td></td>
+<td>Mid. to fine Madras</td>
+<td>4/6 a 5/6</td>
+</tr>
+<tr>
+<td>KAPOK-Ceylon</td>
+<td>lb.</td>
+<td></td>
+<td>Ordinary to good</td>
+<td>8d a 1/</td>
+</tr>
+<tr>
+<td>KINO</td>
+<td>lb.</td>
+<td></td>
+<td>Fair to fine bright</td>
+<td>6d a 1/5</td>
+</tr>
+<tr>
+<td>MYRRH, Aden sorts</td>
+<td>cwt.</td>
+<td></td>
+<td>Middling to good</td>
+<td>65/ a 75/</td>
+</tr>
+<tr>
+<td>Somali</td>
+<td>..</td>
+<td></td>
+<td>.. ..</td>
+<td>55s a 65s</td>
+</tr>
+<tr>
+<td>MACE, Bombay &amp; Penar.g</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>per lb.</td>
+<td></td>
+<td></td>
+<td>Pale reddish to fine</td>
+<td>1/10 a 2/</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Ordinary to fair</td>
+<td>1/8 a 1/9</td>
+</tr>
+<tr>
+<td>Java</td>
+<td></td>
+<td></td>
+<td>.. good pale</td>
+<td>1/8 a 1/10</td>
+</tr>
+<tr>
+<td>Bombay</td>
+<td></td>
+<td></td>
+<td>Wild</td>
+<td>5d</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2"></th>
+<th>QUALITY.</th>
+<th>Quotations.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NUTMEGS,—</td>
+<td>lb.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Singapore &amp; Penang</td>
+<td>„</td>
+<td>64's to 57's</td>
+<td>1/9 a 2/</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>80's</td>
+<td>1/4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>110's</td>
+<td>1/1</td>
+</tr>
+<tr>
+<td>NUX VOMICA,</td>
+<td>Cochin</td>
+<td>Ordinary to good</td>
+<td>32/ a 35/</td>
+</tr>
+<tr>
+<td>per cwt.</td>
+<td>Bengal</td>
+<td>„ „</td>
+<td>28/ a 30/</td>
+</tr>
+<tr>
+<td></td>
+<td>Madras</td>
+<td>„ „</td>
+<td>28/ a 32/</td>
+</tr>
+<tr>
+<td>OIL OF ANISEED</td>
+<td>lb.</td>
+<td>Fair merchantable</td>
+<td>3/5</td>
+</tr>
+<tr>
+<td>CASSIA</td>
+<td>„</td>
+<td>According to analysis</td>
+<td>4/2 a 4/5</td>
+</tr>
+<tr>
+<td>LEMONGRASS</td>
+<td>oz.</td>
+<td>Good flavour &amp; colour</td>
+<td>2½d</td>
+</tr>
+<tr>
+<td>NUTMEG</td>
+<td>„</td>
+<td>Dingy to white</td>
+<td>1½d a 1¾d</td>
+</tr>
+<tr>
+<td>CINNAMON (Ceylon)</td>
+<td>„</td>
+<td>Ordinary to fair sweet</td>
+<td>4¾d a 1s 6d</td>
+</tr>
+<tr>
+<td>CITRONELLE</td>
+<td>„ lb.</td>
+<td>Bright &amp; good flavour</td>
+<td>1/7</td>
+</tr>
+<tr>
+<td>OLIBANUM, drop</td>
+<td>„</td>
+<td>Good to fine white</td>
+<td>60s a 65s</td>
+</tr>
+<tr>
+<td></td>
+<td>„</td>
+<td>Middling to fair</td>
+<td>45s a 50s</td>
+</tr>
+<tr>
+<td>pickings</td>
+<td>„</td>
+<td>Low to good pale</td>
+<td>20/ a 35/</td>
+</tr>
+<tr>
+<td>siftings</td>
+<td>„</td>
+<td>Slightly foul to fine</td>
+<td>27/6 s a 35s</td>
+</tr>
+<tr>
+<td>ORCHELLA WEED—cwt</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ceylon</td>
+<td>„</td>
+<td>Fair</td>
+<td>10/6</td>
+</tr>
+<tr>
+<td>Madagascar</td>
+<td>„</td>
+<td>Fair</td>
+<td>10/6</td>
+</tr>
+<tr>
+<td>Zanzibar</td>
+<td>„</td>
+<td>Fair</td>
+<td>10/6</td>
+</tr>
+<tr>
+<td>PEPPER—(Black)</td>
+<td>lb.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Alleppy &amp; Tellicherry</td>
+<td></td>
+<td>Fair</td>
+<td>11½d a 11¾d</td>
+</tr>
+<tr>
+<td>Ceylon</td>
+<td>„</td>
+<td>Fair to fine bold heavy</td>
+<td>11d a 11½d</td>
+</tr>
+<tr>
+<td>Singapore</td>
+<td>„</td>
+<td>Fair</td>
+<td>11½d a 11¾d</td>
+</tr>
+<tr>
+<td>Acheen &amp; W. C. Penang</td>
+<td></td>
+<td>Dull to fine</td>
+<td>10½d a 11d</td>
+</tr>
+<tr>
+<td>(White) Singapore</td>
+<td>„</td>
+<td>Fair to fine</td>
+<td>1/ a 1/0½</td>
+</tr>
+<tr>
+<td>Siam</td>
+<td>„</td>
+<td>Fair</td>
+<td>1/0½</td>
+</tr>
+<tr>
+<td>Penang</td>
+<td>„</td>
+<td>Fair</td>
+<td>none</td>
+</tr>
+<tr>
+<td>Muntok</td>
+<td>„</td>
+<td>Fair</td>
+<td>1/1</td>
+</tr>
+<tr>
+<td>RHUBARB, Shenzi</td>
+<td>„</td>
+<td>Ordinary to good</td>
+<td>1/4 a 3/</td>
+</tr>
+<tr>
+<td>Canton</td>
+<td>„</td>
+<td>Ordinary to good</td>
+<td>1/3 a 2/3</td>
+</tr>
+<tr>
+<td>High Dried,</td>
+<td>„</td>
+<td>Fair to fine flat</td>
+<td>1/2 a 1/4</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1">
+<tbody>
+<tr>
+<td>RUBBER, INDIA</td>
+<td>lb. }</td>
+<td>Standard smoked sheets</td>
+<td>2 5<math>\frac{1}{4}</math></td>
+</tr>
+<tr>
+<td>Ceylon, Straits,</td>
+<td>" }</td>
+<td>Standard Crepe</td>
+<td>2 5<math>\frac{1}{2}</math></td>
+</tr>
+<tr>
+<td>Malay Straits, etc.</td>
+<td>" }</td>
+<td>Scrap fair to fine</td>
+<td>1 9 a 1/10</td>
+</tr>
+<tr>
+<td>Assam</td>
+<td>"</td>
+<td>Fair 11 to ord. red No. 1.</td>
+<td>1 6<math>\frac{1}{2}</math> a 2/2</td>
+</tr>
+<tr>
+<td>Rangoon</td>
+<td>"</td>
+<td>" " "</td>
+<td>1 7<math>\frac{1}{2}</math> a 2/2</td>
+</tr>
+<tr>
+<td>Borneo</td>
+<td>"</td>
+<td>Common to good</td>
+<td>1 6 a 1/9</td>
+</tr>
+<tr>
+<td>Java</td>
+<td>"</td>
+<td>Good to fine red</td>
+<td>1 10 a 2/2</td>
+</tr>
+<tr>
+<td>Penang</td>
+<td>"</td>
+<td>Low white to prime red</td>
+<td>1 6 a 2</td>
+</tr>
+<tr>
+<td>Mozambique</td>
+<td>"</td>
+<td>Fair to fine red ball</td>
+<td>1 a 2</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Sausage, fair to good</td>
+<td>1 a 2</td>
+</tr>
+<tr>
+<td>Nyassaland</td>
+<td>"</td>
+<td>Fair to fine ball</td>
+<td>1 6 a 2</td>
+</tr>
+<tr>
+<td>Madagascar</td>
+<td>"</td>
+<td>Fr. to fine pinky &amp; white</td>
+<td>1 6 a 2/9</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Majunga &amp; blk coated</td>
+<td>1 a 1/6</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Niggers, low to good</td>
+<td>9d a 1/6</td>
+</tr>
+<tr>
+<td>New Guinea</td>
+<td>"</td>
+<td>Ordinary to fine ball</td>
+<td>1 6 a 2</td>
+</tr>
+<tr>
+<td>SAGO, PEARL, large--cwt</td>
+<td></td>
+<td>Fair to fine</td>
+<td>45/ a 50/</td>
+</tr>
+<tr>
+<td>medium ...</td>
+<td></td>
+<td>" "</td>
+<td>45/ a 50/</td>
+</tr>
+<tr>
+<td>small ...</td>
+<td></td>
+<td>" "</td>
+<td>47/6 a 52/6</td>
+</tr>
+<tr>
+<td>Flour ...</td>
+<td></td>
+<td>Good pinky to white</td>
+<td>37/6 a 40/</td>
+</tr>
+<tr>
+<td>SEEDLAC cwt.</td>
+<td></td>
+<td>Ordinary to gd. soluble</td>
+<td>90/ a 120/</td>
+</tr>
+<tr>
+<td>SENNA, Tinnevelly lb.</td>
+<td></td>
+<td>Good to fine bold green</td>
+<td>10d/ a 1/</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Fair greenish</td>
+<td>6d a 8<math>\frac{1}{2}</math>d</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Common specky &amp; small</td>
+<td>2<math>\frac{3}{4}</math>d a 5d</td>
+</tr>
+<tr>
+<td>SHELLS, M. of PEARL—</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Egyptian cwt.</td>
+<td></td>
+<td>Small to bold</td>
+<td>40/ a £5 10/</td>
+</tr>
+<tr>
+<td>Bombay "</td>
+<td></td>
+<td>" "</td>
+<td>55/ a £5 15/</td>
+</tr>
+<tr>
+<td>Mergui "</td>
+<td></td>
+<td>Chicken to bold</td>
+<td>£6 15/ a £10</td>
+</tr>
+<tr>
+<td>Manilla "</td>
+<td></td>
+<td>" "</td>
+<td>£6 a £10</td>
+</tr>
+<tr>
+<td>Banda "</td>
+<td></td>
+<td>Sorts</td>
+<td>40/ a 45/</td>
+</tr>
+<tr>
+<td>Green Snail,,</td>
+<td></td>
+<td>Small to large</td>
+<td>50/ a 75/</td>
+</tr>
+<tr>
+<td>TAMARINDS, Calcutta...</td>
+<td></td>
+<td>Mid to fine bl'k not stony</td>
+<td>25/ a 28/</td>
+</tr>
+<tr>
+<td>per cwt. Madras</td>
+<td></td>
+<td>Inferior to good</td>
+<td>Nominal.</td>
+</tr>
+<tr>
+<td>TORTOISE SHELL—</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Zanzibar &amp; Bombay lb.</td>
+<td></td>
+<td>Small to bold</td>
+<td>10/ a 25/</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Pickings</td>
+<td>5/ a 15/</td>
+</tr>
+<tr>
+<td>Ceylon</td>
+<td></td>
+<td>Small to bold</td>
+<td>10/ a 20</td>
+</tr>
+<tr>
+<td>TURMERIC, Bengal cwt.</td>
+<td></td>
+<td>Fair</td>
+<td>40/ nom.</td>
+</tr>
+<tr>
+<td>Madras "</td>
+<td></td>
+<td>Finger fair to fine bold</td>
+<td>42/6 a 45/ nom</td>
+</tr>
+<tr>
+<td>Do. "</td>
+<td></td>
+<td>Bulbs " " [bright</td>
+<td>37/6 nom.</td>
+</tr>
+<tr>
+<td>Cochin "</td>
+<td></td>
+<td>Finger fair</td>
+<td>20/ nom.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Bulbs "</td>
+<td>35/ nom.</td>
+</tr>
+<tr>
+<td>VANILLOES—</td>
+<td>lb.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Mauritius ... }</td>
+<td>1sts.</td>
+<td>Gd. crystallized 3<math>\frac{1}{2}</math>a 8<math>\frac{1}{2}</math> in.</td>
+<td>6/3 a 10/6</td>
+</tr>
+<tr>
+<td>Madagascar ... }</td>
+<td>2nds.</td>
+<td>Foxy &amp; reddish 3<math>\frac{1}{2}</math>a "</td>
+<td>5/6 a 8/</td>
+</tr>
+<tr>
+<td>Seychelles ... }</td>
+<td>3rds.</td>
+<td>Lean and inferior</td>
+<td>5/3 a 6/</td>
+</tr>
+<tr>
+<td>WAX, Japan, squares, cwt.</td>
+<td></td>
+<td>Good white hard</td>
+<td>73/6</td>
+</tr>
+</tbody>
+</table>
