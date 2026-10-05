@@ -5,7 +5,7 @@ articles. Every article is linked to the page images it was read from.
 
 ## The main file: `articles.jsonl`
 
-One JSON record per article (55,023 records; 53,723 from the canonical copy of their issue):
+One JSON record per article (54,764 records; 53,501 from the canonical copy of their issue):
 
 | field | meaning |
 |---|---|
@@ -14,6 +14,7 @@ One JSON record per article (55,023 records; 53,723 from the canonical copy of t
 | `part` | `main` (the journal) or `supplement` (the *Supplement to the T.A.*, which carried the *Agricultural Magazine* and *Literary Register*) |
 | `section` | the department heading it falls under (e.g. `FIBRES.`, `ORIGINAL ARTICLES`), if any |
 | `title`, `byline` | as printed; `(untitled)` where no title line was found |
+| `kind` | `article`, or `contents` for an issue's printed contents table (1928–45; kept as one record so its department headings do not become sections of the body) |
 | `canonical` | `true` for the copy to use; the corpus holds 64 issues twice (see below) |
 | `split_from` | set when a run of text crossed from main journal into Supplement and was split |
 | `words` | word count of `text` |
@@ -39,8 +40,13 @@ Use `canonical == true` for counting or reading; the non-canonical records are t
    stays with its letter (147); a heading whose body sits under the next title on the same page
    ("BOARD OF AGRICULTURE." / "MINUTES OF THE 40TH MEETING.") makes the next line a title continuation
    (404); 89 ambiguous lines are left as they were. Every decision is in `stub_decisions.tsv`.
-6. `assemble.py labels_merged.jsonl articles.jsonl`. The build before step 5 is kept as `articles_v1.jsonl`
-   (same words to the last one: 42,259,237 canonical; stubs under 20 words 879 → 341).
+6. `assemble.py labels_merged.jsonl articles.jsonl`. Also detects the printed contents table that opens
+   each 1928–45 issue (rows ending in non-decreasing page numbers with dotted leaders or "By author", on
+   the issue's first pages): its fragments become one `kind: contents` record (128), and the department
+   headings printed inside it no longer carry over as the `section` of the articles that follow (302
+   corrected). The build before steps 5–6 is kept as `articles_v1.jsonl` (same words to the last one:
+   42,259,237 canonical; stubs under 20 words 879 → 341).
+7. `split_by_year.py` → `by_year/articles_YYYY.jsonl.gz` + `index.json` (what the repo and the viewer hold).
 
 ## How good it is
 
@@ -58,8 +64,10 @@ accounting). Reports: `eval_*_final.txt`; the pre-merge build's in `eval_*_v1.tx
 words). Independent check: Tesseract on the IA images of random articles' first and last pages
 (`verify_articles.py`, reports in `verify/`).
 
-Known limits: ~10% of printed titles were never captured by the OCR (the article then runs on
-from the previous one); ~90 ambiguous no-body heading lines (a pseudonym or a department heading —
+Known limits: `section` is the last department heading seen, so where the body's department
+heading was read as an article title (common in 1928–45: "EDITORIAL" becomes the editorial's title) the
+following articles inherit the wrong or an empty section; ~10% of printed titles were never captured by
+the OCR (the article then runs on from the previous one); ~90 ambiguous no-body heading lines (a pseudonym or a department heading —
 "KENT.", "ANIMAL HUSBANDRY.") remain as 1-line articles; weakest heading classes are plain caps lines
 and run-in titles (index recall ~80% vs 96% for `##`); Produce Sales Lists,
 tea brokers' reports, advertisements and indexes are deliberately not articles (`part` in

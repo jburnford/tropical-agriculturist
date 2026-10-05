@@ -25,6 +25,9 @@
   .issue { border:1px solid var(--line); background:#fff; padding:.5rem .7rem; border-radius:4px; cursor:pointer; }
   .issue:hover { border-color:var(--accent); }
   .issue b { font-weight:normal; color:var(--accent); }
+  .issue.vol { background:#f6f4ee; }
+  .issue small a { color:var(--accent); }
+  article.contents .title { color:var(--muted); font-style:italic; }
   .issue small { color:var(--muted); display:block; }
   .toolbar { display:flex; gap:.6rem; flex-wrap:wrap; align-items:center; margin:.4rem 0 1rem; font-size:.9rem; color:var(--muted); }
   .toolbar button, .toolbar label { font: inherit; font-size:.85rem; border:1px solid var(--line); background:#fff; border-radius:4px; padding:.15rem .5rem; cursor:pointer; }
@@ -116,10 +119,11 @@
     if (!r.canonical) chips.push(`<span class="chip dup">duplicate copy</span>`);
     if (r.words < 20) chips.push(`<span class="chip warn">${r.words} words</span>`);
     if (r.title === "(untitled)") chips.push(`<span class="chip warn">untitled</span>`);
+    if (r.kind === "contents") chips.push(`<span class="chip sec">contents table</span>`);
     if (r.split_from) chips.push(`<span class="chip">split from ${esc(r.split_from.split("#").pop())}</span>`);
     const pages = r.pages.map(p => `<a href="${esc(p.viewer_url)}" target="_blank">${p.folio ? "p." + esc(p.folio) : "n" + p.page}</a>`).join("");
     const el = document.createElement("article");
-    el.className = r.canonical ? "" : "dup"; el.id = "a-" + r.id.replace(/[^\w-]/g, "_");
+    el.className = r.canonical ? "" : "dup"; if (r.kind === "contents") el.classList.add("contents"); el.id = "a-" + r.id.replace(/[^\w-]/g, "_");
     el.innerHTML = `${extra}
       <div class="head">
         <div class="n">${n}</div>
@@ -155,15 +159,25 @@
     const v = `Vol. ${u.volume}`;
     return u.issue.includes("/") ? `${v} · ${u.issue}` : `${v} · ${u.issue}`;
   }
+  function groupIssues(units) {
+    const g = new Map();
+    for (const u of units) { const k = `${u.volume}|${u.issue}`; if (!g.has(k)) g.set(k, []); g.get(k).push(u); }
+    return [...g.values()].map(us => { us.sort((a, b) => b.canonical - a.canonical); return us; });
+  }
   function showYear(y) {
     showYears(y);
     const units = index[y] || [];
+    const groups = groupIssues(units);
+    const nIssues = groups.filter(g => !g[0].issue.includes("/")).length;
     $("#content").innerHTML = `<h2>${y}</h2>
-      <div class="toolbar"><span>${units.length} issue${units.length === 1 ? "" : "s"} · ${units.reduce((s, u) => s + u.canonical, 0).toLocaleString()} canonical articles · ${units.reduce((s, u) => s + u.words, 0).toLocaleString()} words</span></div>
-      <div class="issues">${units.map(u => `
-        <div class="issue" data-unit="${esc(u.unit)}"><b>${issueLabel(u)}</b>
-          <small>${u.canonical.toLocaleString()} articles · ${u.words.toLocaleString()} words · ${u.pages} pages${u.canonical < u.articles ? ` · <span class="dim">${u.articles - u.canonical} in a duplicate copy</span>` : ""}</small>
-          <small class="dim">${esc(u.doc)}</small></div>`).join("")}</div>`;
+      <div class="toolbar"><span>${nIssues} issue${nIssues === 1 ? "" : "s"} · ${units.reduce((s, u) => s + u.canonical, 0).toLocaleString()} canonical articles · ${units.reduce((s, u) => s + u.words, 0).toLocaleString()} words</span></div>
+      <div class="issues">${groups.map(g => { const u = g[0]; const others = g.slice(1); const vol = u.issue.includes("/");
+        return `
+        <div class="issue${vol ? " vol" : ""}" data-unit="${esc(u.unit)}"><b>${issueLabel(u)}</b>${vol ? ` <span class="chip">pages not assigned to an issue</span>` : ""}
+          <small>${u.canonical.toLocaleString()} articles · ${u.words.toLocaleString()} words · ${u.pages} pages</small>
+          <small class="dim">${esc(u.doc)}</small>
+          ${others.map(o => `<small class="dim">also scanned in <a href="#y=${y}&u=${encodeURIComponent(o.unit)}" onclick="event.stopPropagation()">${esc(o.doc)}</a> (${o.articles} records, duplicate copy)</small>`).join("")}
+        </div>`; }).join("")}</div>`;
     document.querySelectorAll(".issue").forEach(d => d.addEventListener("click", () => { location.hash = `y=${y}&u=${encodeURIComponent(d.dataset.unit)}`; }));
   }
   async function showIssue(y, unit) {
@@ -171,15 +185,18 @@
     const u = (index[y] || []).find(x => x.unit === unit);
     if (!u) { $("#content").innerHTML = `<div class="empty">No such issue.</div>`; return; }
     const recs = (await loadYear(y)).filter(r => `${r.volume}|${r.issue}|${r.doc}` === unit);
+    const isDup = recs.length && !recs.some(r => r.canonical);
+    const canon = isDup ? (index[y] || []).find(x => x.volume === u.volume && x.issue === u.issue && x.canonical > 0) : null;
     const c = $("#content");
     c.innerHTML = `<h2><a href="#y=${y}" style="color:var(--accent);text-decoration:none">${y}</a> › ${issueLabel(u)}</h2>
       <div class="toolbar">
-        <span>${recs.filter(r => r.canonical).length} articles · ${u.words.toLocaleString()} words · ${u.pages} pages · <a href="https://archive.org/details/${esc(u.ia_id)}" target="_blank" style="color:var(--accent)">${esc(u.ia_id)}</a></span>
+        <span>${(isDup ? recs.length : recs.filter(r => r.canonical).length)} articles · ${(isDup ? recs.reduce((s, r) => s + r.words, 0) : u.words).toLocaleString()} words · ${u.pages} pages · <a href="https://archive.org/details/${esc(u.ia_id)}" target="_blank" style="color:var(--accent)">${esc(u.ia_id)}</a></span>
+        ${isDup ? `<span class="chip dup">duplicate copy</span><span>this scan of the issue is not the one used for counting${canon ? `; the canonical copy is <a href="#y=${y}&u=${encodeURIComponent(canon.unit)}" style="color:var(--accent)">${esc(canon.doc)}</a>` : ""}</span>` : ""}
         <button id="expand">Expand all</button><button id="collapse">Collapse all</button>
-        ${recs.some(r => !r.canonical) ? `<label><input type="checkbox" id="showdup"> show duplicate-copy records (${recs.filter(r => !r.canonical).length})</label>` : ""}
+        ${!isDup && recs.some(r => !r.canonical) ? `<label><input type="checkbox" id="showdup"> show duplicate-copy records (${recs.filter(r => !r.canonical).length})</label>` : ""}
       </div><div id="list"></div>`;
     const list = $("#list"); const els = [];
-    recs.forEach((r, i) => { const el = articleEl(r, i + 1); if (!r.canonical) el.hidden = true; els.push([el, r]); list.appendChild(el); });
+    recs.forEach((r, i) => { const el = articleEl(r, i + 1); if (!r.canonical && !isDup) el.hidden = true; els.push([el, r]); list.appendChild(el); });
     $("#expand").onclick = () => els.forEach(([el, r]) => !el.hidden && toggle(el, r, true));
     $("#collapse").onclick = () => els.forEach(([el]) => el.classList.remove("open"));
     const cb = $("#showdup"); if (cb) cb.onchange = () => els.forEach(([el, r]) => { if (!r.canonical) el.hidden = !cb.checked; });

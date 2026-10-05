@@ -18,6 +18,27 @@ Usage: assemble.py LABELS.jsonl OUT.jsonl
 import csv, json, re, sys, pathlib, collections
 ROOT = pathlib.Path.home() / "tropical/output_v6"
 COMMENT = re.compile(r"<!--.*?-->", re.S)
+ROW = re.compile(r"<tr>.*?</tr>", re.S)
+PAGE_CELL = re.compile(r"<td[^>]*>\s*\d{1,3}\s*</td>\s*</tr>$")
+LEADER_LINE = re.compile(r"^.{8,}(\.\s*){2,}\s*\d{1,3}\s*$", re.M)
+
+
+def is_contents(text, words):
+    """A printed contents table: rows (or dotted-leader lines) ending in a 1-3 digit page number, the
+    numbers non-decreasing, and most rows carrying dotted leaders (".. ..") or a "By <author>".
+    1928-45 issues open with one; its department headings must not become sections of the body."""
+    if words > 600:
+        return False
+    rows = ROW.findall(text)
+    paged = [r for r in rows if PAGE_CELL.search(r)]
+    if paged:
+        nums = [int(re.search(r"(\d{1,3})\s*</td>\s*</tr>$", r).group(1)) for r in paged]
+        mono = sum(b < a for a, b in zip(nums, nums[1:])) <= 1
+        leader = sum(bool(re.search(r"\.\s?\.|\bBy [A-Z]|, by [A-Z]", r)) for r in paged)
+        if len(paged) >= 2 and len(paged) >= 0.6 * len(rows) and mono and leader >= 0.5 * len(paged):
+            return True
+    lines = LEADER_LINE.findall(text)
+    return len(lines) >= 3 and len(lines) >= 0.5 * max(1, text.count("\n"))
 
 
 def main(labels_path, out_path):
@@ -46,7 +67,7 @@ def main(labels_path, out_path):
         upages = U["pages"]
         # Boundaries: (offset, page, kind, cand index)
         starts = []
-        section = ""
+        section = ""; section_off = -1
         for c in cands:
             L = lab.get(c["id"], "OTHER")
             if L in ("ARTICLE", "SECTION"):
@@ -54,10 +75,10 @@ def main(labels_path, out_path):
         first = int(pages[(doc, upages[0])]["char_start"])
         end_all = int(pages[(doc, upages[-1])]["char_end"])
         bounds = [(first, upages[0], "LEAD", None)] + starts + [(end_all, upages[-1], "END", None)]
-        n = 0
+        n = 0; unit_recs = []
         for (a, pa, kind, cid), (b, pb, _, _) in zip(bounds, bounds[1:]):
             if kind == "SECTION":
-                section = cands[cid]["text"]
+                section = cands[cid]["text"]; section_off = a
                 # Its own text (until the next title) is kept below as an article titled by the
                 # section ("Editorial", "Correspondence") when it has >= 40 words; never dropped silently.
             title = byline = ""
@@ -111,6 +132,7 @@ def main(labels_path, out_path):
                     t, by = "(untitled)", ""
                     stats["part_split_records"] += 1
                 rec = {
+                    "_a": a, "_b": b, "_sec_off": section_off,
                     "id": rid, "doc": doc, "ia_id": pages[(doc, upages[0])]["ia_id"],
                     "volume": int(U["volume"]), "issue": U["issue"], "part": gpart, "section": section,
                     "title": t, "byline": by, "words": words,
@@ -119,8 +141,34 @@ def main(labels_path, out_path):
                                "viewer_url": pages[(doc, pg)]["viewer_url"]} for pg, _, _ in segs],
                     "segments": segs, "text": text,
                 }
-                out.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                stats["articles"] += 1; stats["words"] += words; stats["canonical"] += rec["canonical"]
+                unit_recs.append(rec)
+        # Contents tables: merge consecutive fragments into one record; blank the section of any record
+        # whose section heading was printed inside a contents table (it names a department of the
+        # contents, not of the body that follows).
+        merged = []; spans = []
+        for rec in unit_recs:
+            near_start = rec["segments"][0][0] in upages[:4]          # contents tables open an issue
+            if near_start and is_contents(rec["text"], rec["words"]):
+                rec["kind"] = "contents"; rec["title"] = "Contents"; rec["section"] = ""; rec["byline"] = ""
+                spans.append((rec["_a"], rec["_b"]))
+                if merged and merged[-1].get("kind") == "contents" and merged[-1]["part"] == rec["part"]:
+                    m = merged[-1]
+                    m["text"] += "\n\n" + rec["text"]; m["words"] += rec["words"]; m["_b"] = rec["_b"]
+                    m["segments"] += rec["segments"]
+                    seen = {p["page"] for p in m["pages"]}
+                    m["pages"] += [p for p in rec["pages"] if p["page"] not in seen]
+                    stats["contents_fragments_merged"] += 1
+                    continue
+                stats["contents_records"] += 1
+            merged.append(rec)
+        for i, rec in enumerate(merged):
+            if rec.get("kind") != "contents" and any(a <= rec["_sec_off"] < b for a, b in spans):
+                rec["section"] = ""; stats["section_reset_after_contents"] += 1
+            for k in ("_a", "_b", "_sec_off"):
+                rec.pop(k, None)
+            rec.setdefault("kind", "article")                   # ids keep their numbers (split_from points at them)
+            out.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            stats["articles"] += 1; stats["words"] += rec["words"]; stats["canonical"] += rec["canonical"]
     print(dict(stats), file=sys.stderr)
 
 
