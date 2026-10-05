@@ -45,7 +45,7 @@ for r in gp:
                        "life": f"{x['birth'] or '?'}–{x['death'] or '?'}" if (x["birth"] or x["death"]) else ""})
     if qid and not any(x["qid"] == qid for x in cl):
         cl.insert(0, {"qid": qid, "label": "", "desc": "(from the Colonial Office List graph)", "life": ""})
-    proposed = qid or (c.get("qid") if c.get("decision") == "review" else "") or ""
+    proposed = qid   # the pipeline's final answer only (adjudication may have rejected the first-pass candidate)
     cl.sort(key=lambda x: x["qid"] != proposed)
     k = co.get(pid); t = pl.get(pid)
     items.append({

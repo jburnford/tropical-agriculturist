@@ -36,6 +36,7 @@ for f in sorted((here / "wd/adjudication").glob("out_*.tsv")):
         r = l.rstrip("\n").split("\t")
         if len(r) >= 5 and r[0].startswith("P"):
             adj[r[0]] = {"decision": r[1], "qid": r[2], "confidence": r[3], "evidence": r[4]}
+NONHUMAN = set(json.load(open(here / "wd/adjudication/nonhuman_links.json"))) if (here / "wd/adjudication/nonhuman_links.json").exists() else set()
 co = {r["pid"]: r for r in tsv(here / "colist/links.tsv")}
 pl = {r["pid"]: r for r in tsv(here / "planters/links.tsv")}
 
@@ -89,6 +90,8 @@ for p in profiles:
             flags.append(f"qid_conflict: colist_kg {co_qid} vs {src} {qid}")
         else:
             src += "+colist_kg"
+    if qid in NONHUMAN:
+        flags.append("item is not typed as human (personification / legendary figure): check")
     if a and a["decision"] in ("NONE", "MIXED") and co_qid:
         flags.append(f"adjudicated {a['decision']} but colist_kg has {co_qid}")
     stats["qid:" + (src.split("+")[0] if qid else "none")] += 1
