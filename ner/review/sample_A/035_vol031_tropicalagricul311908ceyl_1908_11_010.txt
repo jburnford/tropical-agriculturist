@@ -1,0 +1,82 @@
+ID: vol031_tropicalagricul311908ceyl#1908-11#010
+ISSUE: 1908-11  VOL: 31  SECTION: EDIBLE PRODUCTS.
+TITLE: MILO AS A DRY-LAND GRAIN CROP.
+BYLINE: 
+WORDS: 760  PAGES: ['427']
+IA: https://archive.org/details/tropicalagricul311908ceyl/page/n464/mode/1up
+
+=== TEXT ===
+### MILO AS A DRY-LAND GRAIN CROP.
+
+#### SUMMARY.
+
+Milo is one of the durra group of sorghums, closely related to white durra ("Jerusalem corn") and to brown durra. It is probably of African, perhaps Egyptian, origin, and was introduced into the United States between 1880 and 1886.
+
+Milo is recommended as a short and suitable name for this crop. It is commonly known as dwarf milo, yellow milo, and milo "maize." The last name confuses it with corn.
+
+There is only one variety handled by the seed trade. What is sold as "dwarf" milo is ordinary milo grown on the drier plains, where for lack of moisture it is low in stature. There is a true dwarf milo, but it is not yet generally sold on the market.
+
+Ordinary milo stools freely at the base and branches freely above, is tall and rather stout, and is not uniform in height or in time or ripening. The heads are mostly pendent. As a crop it is difficult to handle rapidly and satisfactorily.
+
+Improved or selected milo has to a large extent been prevented from suckering and branching, is low and rather slender, is uniform in height and ripening, and has its heads mostly erect. It may be handled easily by machinery and is fitted for harvesting with headers.
+
+Milo is widely grown in Western Texas and adjacent parts of New Mexico, Oklahoma, and Kansas. It is well suited to the entire southern half of the Plains region below 4,500 feet elevation. It can probably be profitably grown as far north as South Dakota and westward in Colorado and New Mexico to elevations of about 6,000 feet; likewise in the Great Basin region.
+
+The soil requirements of milo are much the same as those of corn. The land should preferably be fall ploughed and well prepared in spring to hold moisture and destroy weeds.
+
+In general, milo should be sown about three weeks later than corn and after all danger from frost is past. Milo may be listed or sown at the surface as local conditions require. The seed is sown by means of special sorghum plates used in either the corn planter or the lister planter.
+
+The best rate of planting for highest grain yields lies probably between 4 and 6 pounds to the acre, depending somewhat on the character of the soil,
+
+the average rainfall, the length of the season, and the cultivation given. Four pounds to the acre has given the best results in the Texas Panhandle. The rows should be about  $3\frac{1}{2}$  feet apart and the stalks 6 to 8 inches apart in the row.
+
+The cultivation of milo is essentially the same as that for corn.
+
+Farmers should carefully select their own seed of milo, especially where it is not yet a staple crop. Selection is usually made for (1) earliness, (2) drought resistance, (3) higher yields, (4) uniformity, (5) freedom from suckers and branches, and (6) erect heads. The yield and value of the crop can be greatly increased by such means. Select enough for a small seed plat if time lacks for more extensive work. Interest the farm boys in this work.
+
+Harvesting is usually done with a corn binder or by cutting the heads by hand. Ordinary milo cannot be headed by machinery because of the pendent heads. Our improved milo with erect heads may be cut with a grain header or with a row header. A good adjustable kind of row header is much needed.
+
+Thrashing is done with a grain separator. Slowing the cylinder and removing the concaves or part of the concave and cylinder teeth will prevent cracking the seed.
+
+Yields vary from 25 to 55 bushels of seed to the acre. The yields in the Panhandle of Texas average about 40 bushels to the acre. As tilage methods and the crop itself are improved the yields should be increased.
+
+Milo is used mostly as a feeding grain on the farms. It may be fed as thrashed grain, in the head or in the bundle. The grain is preferably cracked or ground before feeding, except for poultry. The heads may also be ground. Milo is entering more and more into the production of chops and poultry foods.
+
+Milo, like other sorghums, may become poisonous in the green state, especially when checked or stunted in growth.
+
+The principal insect enemies are the chinch bug, aphides or plant lice, fall army worm, and sorghum midge. The last may totally prevent seed production in the Gulf region.
+
+Milo is entirely free from the kernel smut and the head smut of sorghum.—*U. S. Department of Agriculture, Farmers' Bull.*, June, 1908, No. 322.
+
+[The sorghums, though a little cultivated in the dry zone of Ceylon, are worth more attention.—Ed.]
+
+=== MENTIONS (28) ===
+type	text	norm	role
+ORG	U. S. Department of Agriculture	U.S. Department of Agriculture	
+PLACE	African	Africa	origin
+PLACE	Ceylon	Ceylon	
+PLACE	Colorado	Colorado	
+PLACE	Egyptian	Egypt	origin
+PLACE	Great Basin region	Great Basin region	
+PLACE	Gulf region	Gulf region	
+PLACE	Kansas	Kansas	
+PLACE	New Mexico	New Mexico	
+PLACE	Oklahoma	Oklahoma	
+PLACE	Plains region	Plains region	
+PLACE	South Dakota	South Dakota	
+PLACE	Texas Panhandle	Texas Panhandle	
+PLACE	United States	United States	
+PLACE	Western Texas	Western Texas	
+PUBLICATION	Farmers' Bull.	Farmers' Bulletin	source
+TAXON	aphides	Aphides	insect enemy
+TAXON	brown durra	Brown durra	
+TAXON	chinch bug	Chinch bug	insect enemy
+TAXON	corn	Corn	
+TAXON	durra	Durra	group of sorghums
+TAXON	fall army worm	Fall army worm	insect enemy
+TAXON	Jerusalem corn	Jerusalem corn	
+TAXON	Milo	Milo	dry-land grain crop
+TAXON	plant lice	Plant lice	insect enemy
+TAXON	sorghum midge	Sorghum midge	insect enemy
+TAXON	sorghums	Sorghum	
+TAXON	white durra	White durra	

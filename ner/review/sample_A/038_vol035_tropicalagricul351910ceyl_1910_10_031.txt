@@ -1,0 +1,20 @@
+ID: vol035_tropicalagricul351910ceyl#1910-10#031
+ISSUE: 1910-10  VOL: 35  SECTION: MISCELLANEOUS.
+TITLE: SOME NEEDS OF VILLAGE AGRICULTURE.
+BYLINE: 
+WORDS: 372  PAGES: ['855']
+IA: https://archive.org/details/tropicalagricul351910ceyl/page/n398/mode/1up
+
+=== TEXT ===
+## SOME NEEDS OF VILLAGE AGRICULTURE.
+
+(From the *Ceylon Independent*,  
+16th September, 1910.)
+
+Papers read at meetings of the Ceylon Agricultural Society about new methods in agriculture, the introduction of new products which villagers might cultivate, and more especially the holding of Agricultural Shows in villages in which villagers may compete, have no doubt tended to give some impetus to village agriculture. The Society has not, however, succeeded in thoroughly rousing villagers to make use of those means which are at their very doors for making life more comfortable and their households more prosperous. This is not due entirely to the conservatism of villagers or their inveterate apathy. Its causes are to be found more especially in two facts which are well-known to every one who has any acquaintance with village life in this country. The first of these is the depredations of the village thief of praedial products, and the second is the lack of capital, which is a chronic complaint among most villagers. When they are asked why they do not keep poultry or raise vegetables which find a ready market in towns, the most usual reply is that hen-roosts are robbed by village thieves and the result of many weeks' labour in raising vegetables enrich only the lazy vagabonds of a village, while the cultivator himself gets nothing. The villager, therefore, becomes disheartened and apathetic and prefers idleness to unproductive labour. He will not do any more work than he is absolutely obliged to do. When fields are not sown twice in the year, and inquiry is made, the reply given in most cases is that there is no seed paddy which could be had at a reasonable rate of interest. A crop might fail, and the villager who sows his field twice in the year might, as the result of his industry, find himself deeper in debt than when he was content with only one harvest in the year. The townsman who does not know the worries of village life, puts down the unwillingness of the villager to work to apathy, idleness and general lack of enterprise. But the two chief causes at work are those we have mentioned above. It is surprising that the Ceylon Agricultural Society and its branches, which are
+
+=== MENTIONS (3) ===
+type	text	norm	role
+ORG	Ceylon Agricultural Society	Ceylon Agricultural Society	society
+PLACE	Ceylon	Ceylon	
+PUBLICATION	Ceylon Independent	Ceylon Independent	newspaper

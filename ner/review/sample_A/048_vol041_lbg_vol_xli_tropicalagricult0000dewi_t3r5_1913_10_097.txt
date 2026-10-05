@@ -1,0 +1,1020 @@
+ID: vol041_lbg-vol-xli-tropicalagricult0000dewi-t3r5#1913-10#097
+ISSUE: 1913-10  VOL: 41  SECTION: GENERAL.
+TITLE: MARKET RATES FOR TROPICAL PRODUCTS.
+BYLINE: 
+WORDS: 2402  PAGES: ['353', 'n380', 'n381']
+IA: https://archive.org/details/lbg.vol.xli.tropicalagricult0000dewi_t3r5/page/n379/mode/1up
+
+=== TEXT ===
+**MARKET RATES FOR TROPICAL PRODUCTS.**
+
+(From Lewis & Peat's Latest Monthly Prices Current.)
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="2"></th>
+<th>QUALITY.</th>
+<th>Quotations.</th>
+<th colspan="2"></th>
+<th>QUALITY.</th>
+<th>QUOTATION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ALCOES, Socotrine</td>
+<td>cwt.</td>
+<td>Fair to fine</td>
+<td>45 6 a 55</td>
+<td>INDIARUBBER</td>
+<td>lb.</td>
+<td>Common to good</td>
+<td>9d a 1/2</td>
+</tr>
+<tr>
+<td>Zanzibar &amp; Hepatic</td>
+<td>"</td>
+<td>Common to good</td>
+<td>40 a 65</td>
+<td>Borneo</td>
+<td>"</td>
+<td>Good to fine red</td>
+<td>1/4 a 1/5</td>
+</tr>
+<tr>
+<td>ARROWROOT (Natal)</td>
+<td>lb.</td>
+<td>Fair to fine</td>
+<td>7d a 7½d</td>
+<td>Java</td>
+<td>"</td>
+<td>Low white to prime red</td>
+<td>9d a 1/3</td>
+</tr>
+<tr>
+<td>BEES' WAX</td>
+<td>cwt.</td>
+<td></td>
+<td></td>
+<td>Penang</td>
+<td>"</td>
+<td>Fair to fine red ball</td>
+<td>1/10 a 2/2</td>
+</tr>
+<tr>
+<td>Zanzibar Yellow</td>
+<td>"</td>
+<td>Slightly drossy to fair</td>
+<td>£7 7 6 a £7 10</td>
+<td>Mozambique</td>
+<td>"</td>
+<td>Sausage, fair to good</td>
+<td>1/9 a 2/1</td>
+</tr>
+<tr>
+<td>East Indian, bleached</td>
+<td>"</td>
+<td>Fair to good</td>
+<td>£8 10 a £8 12 6</td>
+<td>Nyassaland</td>
+<td>"</td>
+<td>Fair to fine ball</td>
+<td>1/9 a 2/1</td>
+</tr>
+<tr>
+<td>unbleached</td>
+<td>"</td>
+<td>Dark to good genuine</td>
+<td>£6 5 a £6 15/</td>
+<td>Madagascar</td>
+<td>"</td>
+<td>Fr to fine pinky &amp; white</td>
+<td>1/6 a 1/9</td>
+</tr>
+<tr>
+<td>Madagascar</td>
+<td>"</td>
+<td>Dark to good palish</td>
+<td>£7 10 a £7 15/</td>
+<td></td>
+<td>"</td>
+<td>Majunga &amp; blk coated</td>
+<td>1/ a 1/3</td>
+</tr>
+<tr>
+<td>CAMPHOR, Japan</td>
+<td>lb.</td>
+<td>Refined</td>
+<td>1 4½ a 1/6</td>
+<td></td>
+<td>"</td>
+<td>Niggers, low to good</td>
+<td>6d a 1/6</td>
+</tr>
+<tr>
+<td>China</td>
+<td>cwt.</td>
+<td>Fair average quality</td>
+<td>155/</td>
+<td></td>
+<td>"</td>
+<td>Ordinary to fine ball</td>
+<td>1/6 a 1/8</td>
+</tr>
+<tr>
+<td>CARDAMOMS, Tuticorin</td>
+<td>per lb</td>
+<td>Good to fine bold</td>
+<td>5 a 5 6</td>
+<td>New Guinea</td>
+<td>"</td>
+<td>Shipping mid to gd. violet</td>
+<td>3s a 3s 6d</td>
+</tr>
+<tr>
+<td>Malabar, Tellicherry</td>
+<td>"</td>
+<td>Middling lean</td>
+<td>4 11 a 4 9</td>
+<td>INDIGO, E.I. Bengal</td>
+<td>"</td>
+<td>Consuming mid. to gd.</td>
+<td>2s 3d a 2s 10d</td>
+</tr>
+<tr>
+<td>Calicut</td>
+<td>"</td>
+<td>Good to fine bold</td>
+<td>4 11 a 4 6</td>
+<td></td>
+<td>"</td>
+<td>Ordinary to middling</td>
+<td>2s a 2s 2d</td>
+</tr>
+<tr>
+<td>Mangalore</td>
+<td>"</td>
+<td>Med Brown to good bold</td>
+<td>4/10 a 6 4</td>
+<td></td>
+<td>"</td>
+<td>Mid. to good Kurpah</td>
+<td>1s 10d a 2s 5d</td>
+</tr>
+<tr>
+<td>Ceylon, Mysore</td>
+<td>"</td>
+<td>Small fair to fine plump</td>
+<td>4 a 5 9</td>
+<td></td>
+<td>"</td>
+<td>Low to ordinary</td>
+<td>1s 6d a 1s 9d</td>
+</tr>
+<tr>
+<td>Malabar</td>
+<td>"</td>
+<td>Fair to good</td>
+<td>3/4 a 3 6</td>
+<td></td>
+<td>"</td>
+<td>Mid. to fine Madras</td>
+<td>None here</td>
+</tr>
+<tr>
+<td>Seeds, E. I. &amp; Ceylon</td>
+<td>"</td>
+<td>Fair to good</td>
+<td>4/2 a 4 4</td>
+<td>MACE, Bombay &amp; Penang</td>
+<td>per lb.</td>
+<td>Pale reddish to fine</td>
+<td>2/6 a 2/8</td>
+</tr>
+<tr>
+<td>Ceylon "Long Wild"</td>
+<td>"</td>
+<td>Shelly to good</td>
+<td>1/2 a 3/2</td>
+<td></td>
+<td></td>
+<td>Ordinary to fair</td>
+<td>2/2 a 2/4</td>
+</tr>
+<tr>
+<td>CASTOR OIL, Calcutta</td>
+<td>"</td>
+<td>Good 2nds</td>
+<td>3½d</td>
+<td></td>
+<td></td>
+<td>Wild " good pale</td>
+<td>2/4 a 2/8</td>
+</tr>
+<tr>
+<td>CHILLIES, Zanzibar</td>
+<td>cwt.</td>
+<td>Dull to fine bright</td>
+<td>37/6 a 45</td>
+<td></td>
+<td></td>
+<td></td>
+<td>10d a 1/1</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>"</td>
+<td>Fair bright small</td>
+<td>28/ a 32 6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CINCHONA BARK.—lb.</td>
+<td></td>
+<td>Crown, Renewed</td>
+<td>3½d a 7d</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ceylon</td>
+<td></td>
+<td>Red Org. Stem</td>
+<td>2d a 6d</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Org. Stem Renewed</td>
+<td>1½d a 4½d</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Root</td>
+<td>3d a 5½d</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>CINNAMON, Ceylon</td>
+<td>1sts.</td>
+<td>Good to fine quill</td>
+<td>1½d a 4d</td>
+<td>NUTS, ARECA</td>
+<td>cwt.</td>
+<td>Ordinary to fair fresh</td>
+<td>17/6 a 20</td>
+</tr>
+<tr>
+<td>per lb.</td>
+<td>2nds.</td>
+<td>" "</td>
+<td>1/3 a 1/7</td>
+<td>NUX VOMICA, Cochin</td>
+<td></td>
+<td>Ordinary to good</td>
+<td>9/6 a 12/</td>
+</tr>
+<tr>
+<td></td>
+<td>3rds.</td>
+<td>" "</td>
+<td>1/2 a 1/6</td>
+<td>per cwt.</td>
+<td>Bengal</td>
+<td>" "</td>
+<td>8/9</td>
+</tr>
+<tr>
+<td></td>
+<td>4ths.</td>
+<td>" "</td>
+<td>1/1 a 1 5</td>
+<td></td>
+<td>Madras</td>
+<td>" "</td>
+<td>8/6 a 9/6</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1/ a 1 3</td>
+<td>OIL OF ANISEED</td>
+<td>lb.</td>
+<td>Fair merchantable</td>
+<td>6/11</td>
+</tr>
+<tr>
+<td>CLOVES, Penang</td>
+<td>lb.</td>
+<td>Fair to fine bold</td>
+<td>2d a 4d</td>
+<td>CASSIA</td>
+<td>"</td>
+<td>According to analysis</td>
+<td>3/ a 3/5</td>
+</tr>
+<tr>
+<td>Amboyna</td>
+<td>"</td>
+<td>Dull to fine bright pkd.</td>
+<td>11d a 1/1</td>
+<td>LEMONGRASS</td>
+<td>oz.</td>
+<td>Good flavour &amp; colour</td>
+<td>3d</td>
+</tr>
+<tr>
+<td>Zanzibar</td>
+<td>"</td>
+<td>Dull to fine</td>
+<td>10d a 10½d</td>
+<td>NUTMEG</td>
+<td>"</td>
+<td>Dingy to white</td>
+<td>1½d a 1½d</td>
+</tr>
+<tr>
+<td>Madagascar</td>
+<td>"</td>
+<td>Fair and fine bright</td>
+<td>7½d a 8½d</td>
+<td>CINNAMON</td>
+<td>"</td>
+<td>Ordinary to fair sweet</td>
+<td>3½d a 1s 5d</td>
+</tr>
+<tr>
+<td>Stems</td>
+<td>"</td>
+<td>Fair</td>
+<td>8½d</td>
+<td>CITRONELLA</td>
+<td>lb.</td>
+<td>Bright &amp; good flavour</td>
+<td>1/9½</td>
+</tr>
+<tr>
+<td>COFFEE</td>
+<td></td>
+<td></td>
+<td>3d</td>
+<td>ORCHELLA WEED—cwt</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Ceylon Plantation</td>
+<td>cwt.</td>
+<td>Medium to bold</td>
+<td>Nominal</td>
+<td>Ceylon</td>
+<td>"</td>
+<td>Fair</td>
+<td>10/ Nom.</td>
+</tr>
+<tr>
+<td>Native</td>
+<td>"</td>
+<td>Good ordinary</td>
+<td>Nominal</td>
+<td>Madagascar</td>
+<td>"</td>
+<td>Fair</td>
+<td>10/ "</td>
+</tr>
+<tr>
+<td>Liberian</td>
+<td>"</td>
+<td>Fair to bold</td>
+<td>74/ a 82</td>
+<td>Zanzibar</td>
+<td>"</td>
+<td>Fair</td>
+<td>10/ "</td>
+</tr>
+<tr>
+<td>COCOA, Ceylon Plant.</td>
+<td>"</td>
+<td>Special Marks</td>
+<td>86/ a 92 6</td>
+<td>PEPPER—(Black)</td>
+<td>lb.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Native Estate</td>
+<td>"</td>
+<td>Red to good</td>
+<td>81/ a 85/</td>
+<td>Alleppy &amp; Tellicherry</td>
+<td>"</td>
+<td>Fair</td>
+<td>5½d a 5½d</td>
+</tr>
+<tr>
+<td>Java and Celebes</td>
+<td>"</td>
+<td>Ordinary to red</td>
+<td>42/ a 78 6</td>
+<td>Ceylon</td>
+<td>"</td>
+<td>Fair to fine bold heavy</td>
+<td>5½d a 5½d</td>
+</tr>
+<tr>
+<td>COLOMBO ROOT</td>
+<td>"</td>
+<td>Small to good red</td>
+<td>30s a 93s</td>
+<td>Singapore</td>
+<td>"</td>
+<td>Fair</td>
+<td>5½d</td>
+</tr>
+<tr>
+<td>CROTON SEEDS, sifted.</td>
+<td>"</td>
+<td>Middling to good</td>
+<td>14/ a 21</td>
+<td>Acheen &amp; W. C. Penang</td>
+<td></td>
+<td>Dull to fine</td>
+<td>5d a 5½d</td>
+</tr>
+<tr>
+<td>CUBEBS</td>
+<td>"</td>
+<td>Dull to fair</td>
+<td>45/ a 50</td>
+<td>(White) Singapore</td>
+<td>"</td>
+<td>Fair to fine</td>
+<td>8½d a 9d</td>
+</tr>
+<tr>
+<td>GINGER, Bengal, rough</td>
+<td>"</td>
+<td>Ord. stalky to good</td>
+<td>140/ a 170</td>
+<td>Siam</td>
+<td>"</td>
+<td>Fair</td>
+<td>8½d</td>
+</tr>
+<tr>
+<td>Calicut, Cut A</td>
+<td>"</td>
+<td>Fair</td>
+<td>30/ nom.</td>
+<td>Penang</td>
+<td>"</td>
+<td>Fair</td>
+<td>8d</td>
+</tr>
+<tr>
+<td>B &amp; C</td>
+<td>"</td>
+<td>Medium to fine bold</td>
+<td>60/ a 75/5</td>
+<td>Muntok</td>
+<td>"</td>
+<td>Fair</td>
+<td>9d</td>
+</tr>
+<tr>
+<td>Cochin, Rough</td>
+<td>"</td>
+<td>Small and medium</td>
+<td>36/ a 60</td>
+<td>RHUBARB, Shenzi</td>
+<td>lb.</td>
+<td>Ordinary to good</td>
+<td>3/6 a 4/6</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>"</td>
+<td>Common to fine bold</td>
+<td>27/ a 30</td>
+<td>Canton</td>
+<td>"</td>
+<td>Ordinary to good</td>
+<td>3/ a 4/</td>
+</tr>
+<tr>
+<td>GUM AMMONIACUM</td>
+<td>"</td>
+<td>Small and D's</td>
+<td>27 6</td>
+<td>High Dried.</td>
+<td>"</td>
+<td>Fair to fine flat</td>
+<td>1/ a 1/2</td>
+</tr>
+<tr>
+<td>ANIMI, Zanzibar</td>
+<td>"</td>
+<td>Unsplit</td>
+<td>21/</td>
+<td></td>
+<td></td>
+<td>Dark to fair round</td>
+<td>10d a 1</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Ord. Blocky to fair clean</td>
+<td>40s a 72s 6d</td>
+<td>SAGO, PEARL, large—cwt</td>
+<td></td>
+<td>Fair to fine</td>
+<td>18/</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Pale and amber, ster. srts</td>
+<td>£12 10 a £1 45 1</td>
+<td>medium</td>
+<td>"</td>
+<td>" "</td>
+<td>17/</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>" little red</td>
+<td>£11 a £12</td>
+<td>small</td>
+<td>"</td>
+<td>" "</td>
+<td>13/ a 15/</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Bean and Pea size ditto</td>
+<td>70/ a £9</td>
+<td>Flour</td>
+<td>"</td>
+<td>Good pinky to white</td>
+<td>11/ a 12</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Fair to good red sorts</td>
+<td>£7 a £10</td>
+<td>SEEDLAC</td>
+<td>cwt.</td>
+<td>Ordinary to gd. soluble</td>
+<td>65/ a 85</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Med. and bold glassy sorts</td>
+<td>£5 a £7 10</td>
+<td>SENNA, Tinnevelly</td>
+<td>lb.</td>
+<td>Good to fine bold green</td>
+<td>4½d a 8½d</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Fair to good palish</td>
+<td>£4 a £8</td>
+<td></td>
+<td></td>
+<td>Fair greenish</td>
+<td>3 d a 4d</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>" red</td>
+<td>£4 a £7</td>
+<td></td>
+<td></td>
+<td>Common specky &amp; small</td>
+<td>1½d a 2½d</td>
+</tr>
+<tr>
+<td>ARABIC E. I. &amp; Aden</td>
+<td>"</td>
+<td>Ordinary to good pale</td>
+<td>28/ a 32 nom</td>
+<td>SHELLS, M. o' PEARL—</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Turkey sorts</td>
+<td>"</td>
+<td></td>
+<td>32 6 a 55</td>
+<td>Egyptian</td>
+<td>cwt.</td>
+<td>Small to bold</td>
+<td>82/6 a £9 10</td>
+</tr>
+<tr>
+<td>Ghatti</td>
+<td>"</td>
+<td>Sorts to fine pale</td>
+<td>18 6 a 32 6 nom</td>
+<td>Bombay</td>
+<td>"</td>
+<td>" "</td>
+<td>70/ a £9 2 6</td>
+</tr>
+<tr>
+<td>Kurrachee</td>
+<td>"</td>
+<td>Reddish to good pale</td>
+<td>25/ a 30s nom</td>
+<td>Mergui</td>
+<td>"</td>
+<td>Chicken to bold</td>
+<td>10 17/6 a 14 2 6</td>
+</tr>
+<tr>
+<td>Madras</td>
+<td>"</td>
+<td>Dark to fine pale</td>
+<td>22/6 a 29/6 nom</td>
+<td>Manilla</td>
+<td>"</td>
+<td>Fair to good</td>
+<td>£9 5/ a £14 10</td>
+</tr>
+<tr>
+<td>ASSAFETIDA</td>
+<td>"</td>
+<td>Clean fr. to gd. almonds</td>
+<td>£7 a £8</td>
+<td>Banda</td>
+<td>"</td>
+<td>Sorts</td>
+<td>70/ a 90</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>com. stony to good block</td>
+<td>40s a £5 1 2/6</td>
+<td>Green Snail</td>
+<td>"</td>
+<td>Small to large</td>
+<td>55/ a 92 6</td>
+</tr>
+<tr>
+<td>KINO</td>
+<td>lb.</td>
+<td>Fair to fine bright</td>
+<td>6d a 1/5</td>
+<td>Japan Ear</td>
+<td>"</td>
+<td>Trimmed selected small</td>
+<td>72 6 a £9</td>
+</tr>
+<tr>
+<td>MYRRH, Aden</td>
+<td>sorts</td>
+<td>Middling to good</td>
+<td>50/ a 62 6</td>
+<td></td>
+<td></td>
+<td>to bold</td>
+<td>12/ a 13</td>
+</tr>
+<tr>
+<td>Somali</td>
+<td>"</td>
+<td>" "</td>
+<td>42s 6d a 45s</td>
+<td>TAMARINDS, Calcutta...</td>
+<td></td>
+<td>Mid to fine bl'k not stony</td>
+<td>6/ a 10</td>
+</tr>
+<tr>
+<td>OLIBANUM, drop</td>
+<td>"</td>
+<td>Good to fine white</td>
+<td>45s a 50s</td>
+<td>per cwt.</td>
+<td>Madras</td>
+<td>Inferior to good</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Middling to fair</td>
+<td>35s a 40s</td>
+<td>TORTOISESHELL—</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Low to good pale</td>
+<td>15/ a 27 6</td>
+<td>Zanzibar, &amp; Bombay lb.</td>
+<td></td>
+<td>Small to bold</td>
+<td>13/ a 34</td>
+</tr>
+<tr>
+<td></td>
+<td>"</td>
+<td>Slightly foul to fine</td>
+<td>20s a 22s 6d</td>
+<td></td>
+<td></td>
+<td>Pickings</td>
+<td>13/ a 21</td>
+</tr>
+<tr>
+<td>INDIA RUBBER</td>
+<td>lb.</td>
+<td>Fine Para bis. &amp; sheets</td>
+<td>2/9</td>
+<td>TURMERIC, Bengal cwt.</td>
+<td></td>
+<td>Fair</td>
+<td>15 nom</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>" Ceara</td>
+<td>2/5½</td>
+<td>Madras</td>
+<td>"</td>
+<td>Finger fair to fine bold</td>
+<td>16/ a 17 6</td>
+</tr>
+<tr>
+<td>Ceylon, Straits,</td>
+<td></td>
+<td>Crepe ordinary to fine</td>
+<td>2 6½ a 2/7</td>
+<td>Do.</td>
+<td>"</td>
+<td>Bulbs " [bright</td>
+<td>13/ a 14 6</td>
+</tr>
+<tr>
+<td>Malay Straits, etc.</td>
+<td></td>
+<td>Fine Block</td>
+<td>2/6</td>
+<td>Cochin</td>
+<td>"</td>
+<td>Finger fair</td>
+<td>14/ a 15</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Scrap fair to fine</td>
+<td>1/7 a 1/9</td>
+<td></td>
+<td></td>
+<td>Bulbs</td>
+<td>13/ a 14</td>
+</tr>
+<tr>
+<td>Assam</td>
+<td></td>
+<td>Plantation</td>
+<td>2/</td>
+<td>VANILLOES—</td>
+<td>lb.</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Rangoon</td>
+<td></td>
+<td>Fair 11 to ord. red No. 1</td>
+<td>1/3 a 1/7</td>
+<td>Mauritius</td>
+<td>1sts.</td>
+<td>Gd. crystallized 3½ a 8½ in.</td>
+<td>11 6 a 16</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>" "</td>
+<td>1/3 a 1/6</td>
+<td>Madagascar</td>
+<td>2nds.</td>
+<td>Foxy &amp; reddish 3½</td>
+<td>11 a 12 6</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Seychelles</td>
+<td>3rds.</td>
+<td>Lean and inferior</td>
+<td>11 a 11 6</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Fine, pure, bright</td>
+<td>2/9</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>VERMILLION</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>WAX, Japan, squares</td>
+<td></td>
+<td>Good white hard</td>
+<td>44/9</td>
+</tr>
+</tbody>
+</table>
+
+![A blank page with a light blue background, showing minor scanning artifacts and dust specks.](55952a1a853714672a02df6c39bc0759_1_img.webp)This image is a scan of a blank page. The background is a uniform light blue color. There are several small, dark specks scattered across the surface, which appear to be dust or scanning artifacts. No text, lines, or other graphical elements are present.
+
+![A black and white photograph of several diseased banana suckers in a field. The plants have large, broad leaves that are severely distorted, curled, and browned, indicating a fungal or bacterial infection. The suckers are growing from a central point, and the ground is covered with fallen leaves and debris.](1b9e22214d00b9128c64e01a1e849b1d_1_img.webp)A black and white photograph showing several banana suckers (plantains) that have been affected by a disease. The suckers are clustered together, and their large, broad leaves are severely distorted, curled, and browned, indicating a fungal or bacterial infection. The suckers are growing from a central point, and the ground is covered with fallen leaves and debris.
+
+DISEASED PLANTAINS. (BANANA) SUCKERS  
+(See Page 427)
+
+=== MENTIONS (124) ===
+type	text	norm	role
+COMMODITY	Aloes	Aloes	traded product
+COMMODITY	ANIMI	animi	
+COMMODITY	ARABIC	gum arabic	
+COMMODITY	Arrowroot	Arrowroot	traded product
+COMMODITY	ASSAFETIDA	assafetida	
+COMMODITY	Bees' Wax	Bees' Wax	traded product
+COMMODITY	Camphor	Camphor	traded product
+COMMODITY	Cardamoms	Cardamoms	traded product
+COMMODITY	Cassia	Cassia	traded product
+COMMODITY	Castor Oil	Castor Oil	traded product
+COMMODITY	Ceara	Ceara rubber	
+COMMODITY	Chillies	Chillies	traded product
+COMMODITY	Cinchona Bark	Cinchona Bark	traded product
+COMMODITY	Cinnamon	Cinnamon	traded product
+COMMODITY	Citronella	Citronella	traded product
+COMMODITY	Cloves	Cloves	traded product
+COMMODITY	COCOA	cocoa	
+COMMODITY	Coffee	Coffee	traded product
+COMMODITY	COLOMBO ROOT	Colombo root	
+COMMODITY	CROTON SEEDS	croton seeds	
+COMMODITY	CUBEBS	cubeb	
+COMMODITY	East Indian	East Indian bees' wax	bees' wax origin
+COMMODITY	Ghatti	gum ghatti	
+COMMODITY	GINGER	ginger	
+COMMODITY	GUM AMMONIACUM	gum ammoniacum	
+COMMODITY	Hepatic	Hepatic aloes	aloes variety
+COMMODITY	INDIA RUBBER	India rubber	
+COMMODITY	Indiarubber	Indiarubber	traded product
+COMMODITY	Indigo	Indigo	traded product
+COMMODITY	KINO	kino	
+COMMODITY	Lemongrass	Lemongrass	traded product
+COMMODITY	Mace	Mace	traded product
+COMMODITY	MYRRH	myrrh	
+COMMODITY	Nutmeg	Nutmeg	traded product
+COMMODITY	Nuts, Areca	Areca Nuts	traded product
+COMMODITY	Nux Vomica	Nux Vomica	traded product
+COMMODITY	Oil of Aniseed	Oil of Aniseed	traded product
+COMMODITY	OLIBANUM	olibanum	
+COMMODITY	ORCHELLA WEED	orchella weed	
+COMMODITY	Para	Para rubber	
+COMMODITY	PEPPER	pepper	
+COMMODITY	RHUBARB	rhubarb	
+COMMODITY	SAGO	sago	
+COMMODITY	SEEDLAC	seedlac	
+COMMODITY	SENNA	senna	
+COMMODITY	SHELLS, M. o' PEARL	pearl shells	
+COMMODITY	Socotrine	Socotrine aloes	aloes variety
+COMMODITY	TAMARINDS	tamarinds	
+COMMODITY	TORTOISESHELL	tortoiseshell	
+COMMODITY	TURMERIC	Turmeric	
+COMMODITY	VANILLOES	Vanilla	
+COMMODITY	VERMILLION	Vermillion	
+COMMODITY	WAX	Wax	
+PLACE	Acheen	Acheen	
+PLACE	Aden	Aden	
+PLACE	Alleppy	Alleppey	
+PLACE	Amboyna	Amboyna	origin of cloves
+PLACE	Assam	Assam	
+PLACE	Banda	Banda	
+PLACE	Bengal	Bengal	origin of indigo, nux vomica
+PLACE	Bengal	Bengal	
+PLACE	Bengal	Bengal	
+PLACE	Bombay	Bombay	origin of mace
+PLACE	Bombay	Bombay	
+PLACE	Bombay	Bombay	
+PLACE	Borneo	Borneo	origin of indiarubber
+PLACE	Calcutta	Calcutta	origin of castor oil
+PLACE	Calcutta	Calcutta	
+PLACE	Calicut	Calicut	origin of cardamoms
+PLACE	Calicut	Calicut	
+PLACE	Canton	Canton	
+PLACE	Celebes	Celebes	
+PLACE	Ceylon	Ceylon	origin of cardamoms, cinchona bark, cinnamon
+PLACE	Ceylon	Ceylon	
+PLACE	Ceylon	Ceylon	
+PLACE	China	China	origin of camphor
+PLACE	Cochin	Cochin	origin of nux vomica
+PLACE	Cochin	Cochin	
+PLACE	Cochin	Cochin	
+PLACE	Colombo	Colombo	
+PLACE	Egyptian	Egypt	
+PLACE	Japan	Japan	origin of camphor, chilies
+PLACE	Japan	Japan	
+PLACE	Japan	Japan	
+PLACE	Java	Java	origin of indiarubber
+PLACE	Java	Java	
+PLACE	Kurrachee	Kurrachee	
+PLACE	Madagascar	Madagascar	origin of bees' wax, indiarubber, cloves
+PLACE	Madagascar	Madagascar	
+PLACE	Madagascar	Madagascar	
+PLACE	Madras	Madras	origin of indigo, nux vomica
+PLACE	Madras	Madras	
+PLACE	Madras	Madras	
+PLACE	Malabar	Malabar	origin of cardamoms
+PLACE	Malay	Malaya	
+PLACE	Mangalore	Mangalore	origin of cardamoms
+PLACE	Manilla	Manilla	
+PLACE	Mauritius	Mauritius	
+PLACE	Mergui	Mergui	
+PLACE	Mozambique	Mozambique	origin of indiarubber
+PLACE	Muntok	Muntok	
+PLACE	Mysore	Mysore	origin of cardamoms
+PLACE	Natal	Natal	origin of arrowroot
+PLACE	New Guinea	New Guinea	origin of indiarubber
+PLACE	Nyassaland	Nyassaland	origin of indiarubber
+PLACE	Penang	Penang	origin of indiarubber, mace, cloves
+PLACE	Penang	Penang	
+PLACE	Rangoon	Rangoon	
+PLACE	Seychelles	Seychelles	
+PLACE	Siam	Siam	
+PLACE	Singapore	Singapore	
+PLACE	Somali	Somali	
+PLACE	Straits	Straits Settlements	
+PLACE	Tellicherry	Tellicherry	origin of cardamoms
+PLACE	Tellicherry	Tellicherry	
+PLACE	Tinnevelly	Tinnevelly	
+PLACE	Turkey	Turkey	
+PLACE	Tuticorin	Tuticorin	origin of cardamoms
+PLACE	W. C. Penang	West Coast Penang	
+PLACE	Zanzibar	Zanzibar	origin of aloes, bees' wax, chilies, cloves
+PLACE	Zanzibar	Zanzibar	
+PLACE	Zanzibar	Zanzibar	
+TAXON	BANANA	Banana	
+TAXON	PLANTAINS	Plantain	diseased suckers

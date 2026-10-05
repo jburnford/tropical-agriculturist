@@ -1,0 +1,26 @@
+ID: vol005_tropicalagricult18851886colo#1886-01#077
+ISSUE: 1886-01  VOL: 5  SECTION: Correspondence
+TITLE: OPENING OF SILO IN SUJAN NIWAS GARDENS, OODEYFORD.
+BYLINE: 
+WORDS: 632  PAGES: ['489']
+IA: https://archive.org/details/tropicalagricult18851886colo/page/n508/mode/1up
+
+=== TEXT ===
+OPENING OF SILO IN SUJAN NIWAS GARDENS, OODEYFORD.
+
+Mr. Thomas H. Storey, formerly of Madras, and now Superintendent of Sujan Niwas Gardens, Oodey-pore, writes to us as follows—
+
+We had a splendid crop of Hurialee grass (Dube) which enabled us to carry out the experiment. I first intended packing the grass in packets, but, thinking, owing to the heat of the day, it would be unable to make it water-tight, and so gave it up, and dug a pit on the side of a little hill, about 10 feet across and 12 feet deep. I dug it up 12 feet deep, but found it was not water-tight, and so gave it up. The quantity of grass a pit of this dimensions would hold until I began to fill it. I had 217 men cutting for two days, 16th and 17th of October, and on the 18th carried the grass up, weighed one maund, and put it in a sack, and then weighed it. I had a small quantity of grass, and I had a little water. When the two days' cutting was packed in, it looked very little when trampled down, so I covered the grass with mats, and then carried it to the palace. The cutting was 313 for three days. The mats were in the garden, and I had a small quantity of grass, and even all over the place, from the very bottom, and continued till filled, with as many men as could conveniently stand in the pit tramping it, so that they could not press it any more. I sent up to the palace for an elephant to give it a finishing touch. The elephant was very good at it, and kept walking round, amusing himself, by throwing the grass at the men, till he could not press it any more. I had a small quantity of grass on the top of the grass heap, and I had a little water, and I sifted the top of the heap, and got 100 feet, 1
+
+have been at pasture on the top with wet soil, and I have seen it does not at any time put up so well as the dry earth, for this season, that should a crack open the soil, it will fill it up of its own accord and exclude air, whereas a plaster of wet soil is almost sure to run and penetrate on the soil. I have tried the soil and had it well bagged. I have tried the pot daily for a month, but not exactly sure to be seen. I may mention that the grass was cut after the rains, and was packed quite green, containing all its own natural sap, and on the 21st it was completely finished and sealed up. It remained so from 21st October till 21st of February, so that it was sealed up for exactly four months. I opened it in the presence of Colonel Walter, the British Resident, A wing of the revenue settlement officer, and a few other gentlemen who take an interest in silos. The grass had a very alcoholic smell, and was very brown to the depth of an inch on the top, but when shaken up to the sun and air for a little, it soon lost most of its strong smell. The grass under was very fine, and pronounced by all the gentlemen present to be one of the most successful silos that they had heard of. I may mention that our garden bullocks are in fine condition and they eat the ensilage in preference to the jungle grass they have been used to get. The quantity of grass placed in the silo was 766 maunds. I am feeding all our bullocks on the ensilage, except one that is getting the usual jungle grass, giving each animal six seers per diem; the reserved bullock is getting seven seers every day, and I shall be able, in the course of a month or so, to see which of the animals are in best condition. *Madras Mail.*
+
+=== MENTIONS (8) ===
+type	text	norm	role
+ESTATE	Sujan Niwas Gardens	Sujan Niwas Gardens	garden, Oodey-pore
+PERSON	Colonel Walter	Colonel Walter	British Resident
+PERSON	Mr. Thomas H. Storey	Thomas H. Storey	Superintendent of Sujan Niwas Gardens
+PLACE	Madras	Madras	former residence of T. H. Storey
+PLACE	Oodey-pore	Oodeypore	location of Sujan Niwas Gardens
+PUBLICATION	Madras Mail	Madras Mail	source of the letter
+TAXON	Dube	Dube	variety of Hurialee grass
+TAXON	Hurialee grass	Hurialee grass	crop used for silo experiment

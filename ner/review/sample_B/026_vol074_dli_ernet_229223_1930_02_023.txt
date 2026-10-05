@@ -1,0 +1,30 @@
+ID: vol074_dli-ernet-229223#1930-02#023
+ISSUE: 1930-02  VOL: 74  SECTION: MEETINGS, CONFERENCES, ETC.
+TITLE: SCHNEIDER CHALLENGE CUP COMPETITION
+BYLINE: 
+WORDS: 271  PAGES: ['125']
+IA: https://archive.org/details/dli.ernet.229223/page/n153/mode/1up
+
+=== TEXT ===
+## SCHNEIDER CHALLENGE CUP COMPETITION
+
+**T**HE competition organised among registered school gardens in the Central Division of the Department of Agriculture for a challenge cup offered by Sir G. S. Schneider was held for the second year in succession in 1929 when 64 entries were registered from Kandy, Nuwara Eliya, Matale and Kegalle districts, which is more than double the entries of the previous year. The increase in numbers is an indication of the enthusiasm that has been infused into the teachers and pupils of the schools which possess registered gardens by the offer of this cup for competition.
+
+This is an incentive to satisfactory garden work, and reports on the competition show that marked improvement has been noticed in the work carried out in the various schools. Particular attention was paid to the different sections of the gardens; terracing, laying out of beds, manuring and grouping of crops had been carried out commendably. A noticeable feature was the establishment of live hedges and fruit nurseries in a number of gardens. Most of the gardens are now in a position to issue regular supplies of fruit plants to pupils for their home gardens.
+
+From the commencement of the competition, instructions and advice were given to the competitors by the officer-in-charge of school gardens at intervals, who also carried out the preliminary judging. At the final judging, K/Nugawela Government Vernacular Boys' School Garden was adjudged the winner of the trophy with 95 out of a possible 100 points, closely followed by KG/Beddewela G. V. B. S. and K/Alawatugoda G. V. B. S. which tied for the second place with 91.
+
+The winning school is entitled to a replica of the cup for retention. K/Nugawela was the successful school last year also.
+
+=== MENTIONS (10) ===
+type	text	norm	role
+EVENT	Schneider Challenge Cup Competition	Schneider Challenge Cup Competition	competition organised among registered school gardens
+ORG	Central Division of the Department of Agriculture	Central Division of the Department of Agriculture	organiser of the competition
+ORG	K/Alawatugoda G. V. B. S.	K/Alawatugoda Government Vernacular Boys' School	tied for second place
+ORG	K/Nugawela Government Vernacular Boys' School Garden	K/Nugawela Government Vernacular Boys' School Garden	winner of the trophy
+ORG	KG/Beddewela G. V. B. S.	KG/Beddewela Government Vernacular Boys' School	tied for second place
+PERSON	Sir G. S. Schneider	G. S. Schneider	offered the challenge cup
+PLACE	Kandy	Kandy	district
+PLACE	Kegalle	Kegalle	district
+PLACE	Matale	Matale	district
+PLACE	Nuwara Eliya	Nuwara Eliya	district

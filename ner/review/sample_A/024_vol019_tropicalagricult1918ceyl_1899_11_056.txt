@@ -1,0 +1,55 @@
+ID: vol019_tropicalagricult1918ceyl#1899-11#056
+ISSUE: 1899-11  VOL: 19  SECTION: PRODUCE AND PLANTING.
+TITLE: ROTALE ESTATE CROP, 1899.
+BYLINE: 
+WORDS: 177  PAGES: ['324', '325']
+IA: https://archive.org/details/tropicalagricult1918ceyl/page/n347/mode/1up
+
+=== TEXT ===
+ROTALE ESTATE CROP, 1899.
+
+Report on Outturn of 113 Packages Tea ex Oceana.  
+Averages:—
+
+10,524 lb. sold, grossing £319 11s 1d = 7.29 per lb. gross.
+
+10,640 lb. shipped, netting £280 9s 9d = 6.33 per lb. net.
+
+116 Loss in weight and charges = 96 per lb.  
+Equal to  
+per lb.  
+on Shipping weight.
+
+Loss in Weight—
+
+Draft at 1 lb. per package accounts for 113 lb. and the actual shortage is therefore 3 lb. d.
+
+Draft and actual shortage equal 1.69 per cent on shipping weight ... .07
+
+Freight—
+
+Rate, 25s Meast. 56s. Amount £14 2s. 6d. Equal to 94 lb per 50 cubic ft. on shipping weight ... .32
+
+Dock and scale charges—
+
+Amount, £15 7s 1d. ... .35
+
+Brokerage 1 p.c., and commission 2 p.c.
+
+Amount, £9 11s 9d ... .22
+
+Remarks—
+
+All grades passed on an average tare.
+
+Total charges and loss in weight per lb. ... .96
+
+In the above example all grades were passed on an average "tare," so that the tea did not have to be handled before it was sold. The result was that, allowing the 1 lb. per package for draft, the loss shown upon 10,524 lb. in the shipment was only 3 lb., a mere nothing.
+
+Turning to another shipment which passed through the hands of the same agent, but from another estate, we find the result very different:—
+
+=== MENTIONS (3) ===
+type	text	norm	role
+COMMODITY	tea	tea	product shipped and sold
+ESTATE	ROTALE ESTATE	Rotale Estate	source of the 1899 crop
+ORG	Oceana	Oceana	vessel

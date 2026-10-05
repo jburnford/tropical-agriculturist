@@ -1,0 +1,157 @@
+ID: vol101_iss03_tropical-agriculturist-july-september-1945-101-3#1945-07/09#021
+ISSUE: 1945-07/09  VOL: 101  SECTION: MEETINGS, CONFERENCES, &c.
+TITLE: ANIMAL DISEASE RETURN FOR THE MONTH ENDED
+BYLINE: T. M. Z. MAHAMOOTH,
+WORDS: 291  PAGES: ['197']
+IA: https://archive.org/details/tropical-agriculturist_july-september-1945_101_3/page/n80/mode/1up
+
+=== TEXT ===
+ANIMAL DISEASE RETURN FOR THE MONTH ENDED  
+AUGUST 31, 1945
+
+<table border="1">
+<thead>
+<tr>
+<th>Province &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases<br/>up to date<br/>since<br/>Jan. 1,<br/>1945</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Balance III</th>
+<th>No. shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Western Province</td>
+<td>Rinderpest</td>
+<td>248</td>
+<td>6</td>
+<td>89</td>
+<td>108</td>
+<td>43</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Foot-and-mouth</td>
+<td>11</td>
+<td>1</td>
+<td>—</td>
+<td>10</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>237</td>
+<td>—</td>
+<td>148</td>
+<td>89</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>36</td>
+<td>8</td>
+<td>36</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Colombo Quarantine Station</td>
+<td>Rinderpest</td>
+<td>889</td>
+<td>115</td>
+<td>889</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>102</td>
+<td>3</td>
+<td>102</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Northern Province</td>
+<td>Rinderpest</td>
+<td>1125</td>
+<td>45</td>
+<td>465</td>
+<td>485</td>
+<td>144</td>
+<td>31</td>
+</tr>
+<tr>
+<td>North-Western Province</td>
+<td>Rinderpest</td>
+<td>724</td>
+<td>8</td>
+<td>379</td>
+<td>270</td>
+<td>49</td>
+<td>26</td>
+</tr>
+<tr>
+<td rowspan="3">Central Province</td>
+<td>Foot-and-mouth</td>
+<td>47</td>
+<td>—</td>
+<td>1</td>
+<td>45</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Hæmorrhagic Septi-<br/>caemic</td>
+<td>1</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>C. Mange</td>
+<td>9</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>8</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+T. M. Z. MAHAMOOTH,  
+Deputy Director (Animal Husbandry) and  
+Government Veterinary Surgeon.
+
+Peradeniya, December 5, 1945.
+
+4—J. N. 56745 (11/45)
+
+=== MENTIONS (14) ===
+type	text	norm	role
+ORG	Colombo Quarantine Station	Colombo Quarantine Station	
+PERSON	T. M. Z. MAHAMOOTH	T. M. Z. Mahamooth	Deputy Director (Animal Husbandry) and Government Veterinary Surgeon
+PLACE	Central Province	Central Province	
+PLACE	Colombo Municipality	Colombo Municipality	
+PLACE	North-Western Province	North-Western Province	
+PLACE	Northern Province	Northern Province	
+PLACE	Peradeniya	Peradeniya	
+PLACE	Western Province	Western Province	
+TAXON	Anthrax	Anthrax	disease
+TAXON	C. Mange	C. Mange	disease
+TAXON	Foot-and-mouth	Foot-and-mouth disease	disease
+TAXON	Hæmorrhagic Septicaemic	Hemorrhagic Septicemia	disease
+TAXON	Rabies	Rabies	disease
+TAXON	Rinderpest	Rinderpest	disease

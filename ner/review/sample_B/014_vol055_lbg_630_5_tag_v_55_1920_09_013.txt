@@ -1,0 +1,15 @@
+ID: vol055_lbg-630-5-tag-v-55#1920-09#013
+ISSUE: 1920-09  VOL: 55  SECTION: SOILS AND MANURES.
+TITLE: HOW TO MIX MANURES.
+BYLINE: 
+WORDS: 128  PAGES: ['172']
+IA: https://archive.org/details/lbg.630.5.tag.v.55/page/n201/mode/1up
+
+=== TEXT ===
+## HOW TO MIX MANURES.
+
+In making mixtures of chemical fertilisers, the ingredients should be thoroughly incorporated in small quantities. Lumpy manures, before mixing, and the mixture when made, should be passed through a sieve, and the remaining lumps carefully broken up. If the mixture is not to be sown immediately, it should preferably not be bagged at once, owing to its tendency to set immediately after mixing, but should be allowed to lie in a heap for a few days, after which it may be broken up, turned through a riddle or harp, and then bagged. After this treatment the mixture should not readily set or become lumpy, and may be kept for weeks. The most important point is always to mix systematically in small quantities.—AGRIC. GAZ. OF N.S.W., Vol. XXXI, Part 7.
+
+=== MENTIONS (1) ===
+type	text	norm	role
+PUBLICATION	AGRIC. GAZ. OF N.S.W.	Agricultural Gazette of New South Wales	source of the article

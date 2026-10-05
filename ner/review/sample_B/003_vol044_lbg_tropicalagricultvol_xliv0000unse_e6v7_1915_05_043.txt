@@ -1,0 +1,31 @@
+ID: vol044_lbg-tropicalagricultvol-xliv0000unse-e6v7#1915-05#043
+ISSUE: 1915-05  VOL: 44  SECTION: GENERAL.
+TITLE: EXPERIMENTAL DRYING OF BANANAS IN TRINIDAD.
+BYLINE: L. A. BRUNTON.
+WORDS: 274  PAGES: ['348', '349']
+IA: https://archive.org/details/lbg.tropicalagricultvol.xliv0000unse_e6v7/page/n370/mode/1up
+
+=== TEXT ===
+## EXPERIMENTAL DRYING OF BANANAS IN TRINIDAD.
+
+L. A. BRUNTON.
+
+The figs for this experiment were not all equally "full" or mature and in consequence ripened very irregularly, the most mature ripening in three to four days whilst the least mature took eleven days.
+
+The first lot was put out to dry on September 13, drying being completed by the 21st, a period of nine days; there was, however, very little sun on the first day as it rained almost continuously, and only a half day's sun on the 17th.
+
+The remainder were put out in two lots on September 18 and 19 respectively, and were ready for packing by the 25th. Two days during this period were rainy with very little sun. It is therefore evident that in favourable weather drying can be accomplished in from five to six days.
+
+The procedure adopted was as follows : when the bunches were brought in from the field they were divided in hands, packed in a heap in the store-room on a bedding of banana leaves and covered with dry grass.
+
+When ripe the figs were separated from the hands and peeled, care being taken to remove the "strings" below the thick skin; they were then placed in rows on the drying floor of the cacao house, exposed to the sun and turned continually during the day, at night they were heaped up and covered with dry banana leaves, but this was only done to the last lot from the third to the sixth day: it appears to assist the drying.
+
+If a sufficient quantity of bananas were treated the cost should not, I think, exceed two to three shillings a hundred.—BULLETIN OF DEPARTMENT OF AGRICULTURE, TRINIDAD.
+
+=== MENTIONS (5) ===
+type	text	norm	role
+COMMODITY	BANANAS	bananas	
+COMMODITY	cacao	cacao	
+PERSON	L. A. BRUNTON	L. A. Brunton	
+PLACE	TRINIDAD	Trinidad	
+PUBLICATION	BULLETIN OF DEPARTMENT OF AGRICULTURE, TRINIDAD	Bulletin of Department of Agriculture, Trinidad	source

@@ -1,0 +1,32 @@
+ID: vol008_tropicalagricult8188ceyl#1889-03#146
+ISSUE: 1889-03  VOL: 8  SECTION: Correspondence
+TITLE: FOOD-STUFFS: KURAKKAN AND RICE.
+BYLINE: K. S. K. M. MURUGASUE.
+WORDS: 208  PAGES: ['642']
+IA: https://archive.org/details/tropicalagricult8188ceyl/page/n667/mode/1up
+
+=== TEXT ===
+FOOD-STUFFS: KURAKKAN AND RICE.
+
+Kandy, 14th February 1889.
+
+SIR,—The relative nutritive powers of *kurakkan* and *rice* cannot be fairly judged by the appearance of the consumer. Whereas rice will make one fat, *kurakkan* or wheat will make one strong and will increase his weight. It is no wonder that a change of diet from rice to *kurakkan* causes dysentery and death. Similar results have followed from Tamil coolies using cooked raw rice in Wynad. Tamils who are not used to European ways cannot entirely subsist on wheat. They say that unless they eat rice they are not satisfied. In the Central Province where there are Canarese coolies there is found *kurakkan* in the next market. They exchange for one measure of rice to two measures of *kurakkan*. It is to be noted that the Canary coolies consume about two measures or more of legumes every week in the shape of curries, whereas the Tamil coolies evince a strong partiality for dry fish, because their stomachs cannot digest legumes except in very small quantities. *Varagu* is one of the grains cultivated in Jaffna, ranking next to paddy with regard to the quantity produced. Persons who suffer from diabetes are recommended either to live on wheat or *varagu*.—Yours truly,
+
+K. S. K. M. MURUGASUE.
+
+=== MENTIONS (14) ===
+type	text	norm	role
+COMMODITY	kurakkan	millet	food-stuff
+COMMODITY	paddy	paddy	
+COMMODITY	rice	rice	food-stuff
+COMMODITY	Varagu	varagu	grain cultivated in Jaffna
+COMMODITY	wheat	wheat	food-stuff
+GROUP	Canarese coolies	Canarese coolies	
+GROUP	Canary coolies	Canarese coolies	
+GROUP	Tamil coolies	Tamil coolies	
+GROUP	Tamils	Tamils	
+PERSON	K. S. K. M. Murugasue	K. S. K. M. Murugasue	
+PLACE	Central Province	Central Province	
+PLACE	Jaffna	Jaffna	
+PLACE	Kandy	Kandy	
+PLACE	Wynad	Wynad	

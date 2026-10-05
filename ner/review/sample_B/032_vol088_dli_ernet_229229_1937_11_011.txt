@@ -1,0 +1,77 @@
+ID: vol088_dli-ernet-229229#1937-11#011
+ISSUE: 1937-11  VOL: 89  SECTION: CORRESPONDENCE
+TITLE: BOTANICAL AND SINHALESE NAMES OF THE TREES AND SHRUBS IN THE ROYAL PARK AND THE PEOPLE'S PARK AT POLONNARUVA
+BYLINE: 
+WORDS: 339  PAGES: ['318', '319']
+IA: https://archive.org/details/dli.ernet.229229/page/n770/mode/1up
+
+=== TEXT ===
+#### BOTANICAL AND SINHALESE NAMES OF THE TREES AND SHRUBS IN THE ROYAL PARK AND THE PEOPLE'S PARK AT POLONNARUVA
+
+1. 1. "Campaka," *Michelia champaka*, Sin : Sapu.
+2. 2. "Asoka," *Saraca indica*, Sin : Diya-ratmal or Diya-ratambala.
+3. 3. "Tilaka," probably *Adenanthera Pavonina*, Sin : Madatiya.
+4. 4. "Nagas," *Mesua ferrea*, Sin : Na-gaha.
+5. 5. "Punnagas," *Mallotus philippinensis*, Sin : Hamparila.
+6. 6. "Ketakas," *Pandanus odoratissimus*, Sin : Mudu-keyiya.
+7. 7. "Sal," *Shorea robusta*, Sin : Sal.
+8. 8. "Patali," *Bignonia suaveolens*, Sin : Palol or Ela-palol.
+9. 9. "Nipa," *Anthocephalus Cadamba*, Sin : Embul-Bakmi or Helamba.
+10. 10. "Mangoes," *Mangifera indica*, Sin : Amba.
+11. 11. "Jambu," *Eugenia jambolana*, Sin : Mahadan.
+12. 12. "Kadamba," *Adina cordifolia*, Sin : Kolon.
+13. 13. "Vakulas," *Mimusops hexandra*, Sin : Palu.
+14. 14. "Coco-palms," *Cocos nucifera*, Sin : Pol.
+15. 15. "Kutajas," *Wrightia zeylanica*, Sin : Sudu-idda or Wal-idda.
+
+1. 16. "Bimbijalakas," *Momordica dioica*, Sin : Tumba-karawila.
+2. 17. "Malati," *Nyctanthes Arbor-tristis*, Sin : Sepala or Sepalika.
+3. 18. "Mallika," *Jasminum sambac* (*Nyctanthes sambac*), Sin : Pichcha or Geta-Pichcha.
+4. 19. "Tamala," *Jasminum revolutum*, Sin : Saban-pichcha.
+5. 20. "Navamalika," *Jaminum Augustifolium*, Sin : Wal-pichcha.
+6. 21. "Tala palm," *Borassus flabellifer*, Sin : Tala-gas.
+7. 22. "Hintala palm," *Caryota urens*, Sin : Kitul.
+8. 23. "Banana," *Musa sapientum*, Sin : Kehel.
+9. 24. "Kannikara," *Pterospermum suberifolium*, Sin : Welanga.
+10. 25. "Kanikara," *Premna serratifolia*, Sin : Midi.
+
+*Note.*—The slight deviations from Prof. Geiger's identifications are based upon more extended search than was available to that distinguished translator of the Mahavansa. A few instances may be given ; I have preferred the Palu, the *Mimusops hexandra*, for "valukas," because it flourishes in the dry zone, and the Pink Palu, *M. elengi* (munamal) chosen for Prof. Geiger, does less well ; I chose the Welanga with its very sweet-smelling flowers because it is indigenous and flourishes in the dry-zone, whereas the *Pterospermum accrifolium*, chosen for Prof. Geiger, was introduced from Burma only in 1852. My other selections are made for similar reasons ; but the replanting at the Polonnaruva Park need not be confined to the species in my list ; many Ceylon plants such as the Ehela, Ceylon Laburnum, *Cassia fistula*, flourish in the district and could be easily grown in abundance for avenues. The main need is to plant at Polonnaruva *all* the plants in the above list, adding whatever pleases the planter and the people.
+
+=== MENTIONS (36) ===
+type	text	norm	role
+ESTATE	People's Park	People's Park, Polonnaruwa	park in Polonnaruwa
+ESTATE	Royal Park	Royal Park, Polonnaruwa	park in Polonnaruwa
+PERSON	Prof. Geiger	Prof. Geiger	translator of the Mahavansa
+PLACE	Burma	Burma	origin of Pterospermum accrifolium
+PLACE	Ceylon	Ceylon	location of indigenous plants
+PLACE	Polonnaruwa	Polonnaruwa	location of the parks
+PUBLICATION	Mahavansa	Mahavansa	text translated by Prof. Geiger
+TAXON	Adenanthera Pavonina	Adenanthera pavonina	tree, Tilaka
+TAXON	Adina cordifolia	Adina cordifolia	tree, Kadamba
+TAXON	Anthocephalus Cadamba	Anthocephalus cadamba	tree, Nipa
+TAXON	Bignonia suaveolens	Bignonia suaveolens	tree, Patali
+TAXON	Borassus flabellifer	Borassus flabellifer	tree, Tala palm
+TAXON	Caryota urens	Caryota urens	tree, Hintala palm
+TAXON	Cassia fistula	Cassia fistula	tree, Ceylon Laburnum
+TAXON	Cocos nucifera	Cocos nucifera	tree, Coco-palms
+TAXON	Eugenia jambolana	Eugenia jambolana	tree, Jambu
+TAXON	Jaminum Augustifolium	Jasminum augustifolium	tree, Navamalika
+TAXON	Jasminum revolutum	Jasminum revolutum	tree, Tamala
+TAXON	Jasminum sambac	Jasminum sambac	tree, Mallika
+TAXON	M. elengi	Mimusops elengi	tree, Pink Palu
+TAXON	Mallotus philippinensis	Mallotus philippinensis	tree, Punnagas
+TAXON	Mangifera indica	Mangifera indica	tree, Mangoes
+TAXON	Mesua ferrea	Mesua ferrea	tree, Nagas
+TAXON	Michelia champaka	Michelia champaka	tree, Campaka
+TAXON	Mimusops hexandra	Mimusops hexandra	tree, Vakulas
+TAXON	Momordica dioica	Momordica dioica	tree, Bimbijalakas
+TAXON	Musa sapientum	Musa sapientum	tree, Banana
+TAXON	Nyctanthes Arbor-tristis	Nyctanthes arbor-tristis	tree, Malati
+TAXON	Nyctanthes sambac	Nyctanthes sambac	tree, Mallika
+TAXON	Pandanus odoratissimus	Pandanus odoratissimus	tree, Ketakas
+TAXON	Premna serratifolia	Premna serratifolia	tree, Kanikara
+TAXON	Pterospermum accrifolium	Pterospermum acerifolium	tree, introduced from Burma
+TAXON	Pterospermum suberifolium	Pterospermum suberifolium	tree, Kannikara
+TAXON	Saraca indica	Saraca indica	tree, Asoka
+TAXON	Shorea robusta	Shorea robusta	tree, Sal
+TAXON	Wrightia zeylanica	Wrightia zeylanica	tree, Kutajas

@@ -1,0 +1,19 @@
+ID: vol010_tropicalagricult1018ceyl#1890-07#103
+ISSUE: 1890-07  VOL: 10  SECTION: Correspondence.
+TITLE: BLACK WALNUT
+BYLINE: 
+WORDS: 253  PAGES: ['56']
+IA: https://archive.org/details/tropicalagricult1018ceyl/page/n95/mode/1up
+
+=== TEXT ===
+BLACK WALNUT.—One of the largest specimens of Black Walnut probably ever sent to an eastern market in the log may now be seen in the timber yard of Messrs. Johnson Bros., 385 Albany Street, Boston. The tree which produced it grew near the falls of the Kenawah, in West Virginia, on the line of the China peake and Ohio Railroad. The trunk, which measured sixty-four feet to the first branches, has been cut into five lengths; the butt log, the centre of which is hollow from decay, measures at the base eight feet and a half across. The diameter of the log, cut twenty-five feet from the ground, is four feet two inches, and that fifty feet from the ground has a diameter of three feet eleven inches in one direction and three feet in the other. The upper end of the fifth log, at a point sixty-one feet from the ground, where the trunk had been a good deal flattened, measures four feet one inch through one diameter, and two feet nine inches through the other. These measurements are all made inside the bark. A thousand feet of lumber have been cut from the main branches and the five trunk logs are estimated to contain 10,000 feet. The wood in the butt log outside the central cavity is beautifully curled and marked. A superficial examination of the annual layers of growth shows that this great tree has grown on the whole with wonderful rapidity and that it is probably less than 300 years old.—*Garden and Forest*.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+ORG	China peake and Ohio Railroad	Chesapeake and Ohio Railroad	railway
+ORG	Johnson Bros.	Johnson Bros.	timber yard, Boston
+PLACE	Boston	Boston	
+PLACE	Kenawah	Kenawah	falls
+PLACE	West Virginia	West Virginia	
+PUBLICATION	Garden and Forest	Garden and Forest	source
+TAXON	Black Walnut	Juglans nigra	

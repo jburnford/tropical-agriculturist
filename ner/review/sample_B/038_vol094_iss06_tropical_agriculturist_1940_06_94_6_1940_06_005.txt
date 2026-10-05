@@ -1,0 +1,737 @@
+ID: vol094_iss06_tropical-agriculturist-1940-06-94-6#1940-06#005
+ISSUE: 1940-06  VOL: 94  SECTION: 
+TITLE: INFLUENCE OF ROOTSTOCK ON QUALITY OF CITRUS FRUIT\*
+BYLINE: ASSISTANT HORTICULTURAL OFFICER
+WORDS: 3497  PAGES: ['354', '355', '356', 'n37', '357', '358', '359', '360', '361']
+IA: https://archive.org/details/tropical-agriculturist_1940-06_94_6/page/n33/mode/1up
+
+=== TEXT ===
+## INFLUENCE OF ROOTSTOCK ON QUALITY OF CITRUS FRUIT\*
+
+A. V. RICHARDS, M.Sc. (Calif.) B. Sc. (Lond.) Dip. agric. (Cantab.) A.I.C.T.A.  
+(Trinidad),
+
+ASSISTANT HORTICULTURAL OFFICER
+
+IN studies on stock-scion relationship in citrus more interest appears to have been taken in the growth and vigour of the tree, size of fruit and amount of crop than on quality of juice. With the rapid progress now being made in the preservation of fruit juices by canning and freezing storage, the composition of fruit juice is likely to be an important consideration in the near future and any knowledge as to how it is affected by the rootstock will be most valuable. In California it is not an uncommon practice for growers to hold their fruit on the trees when there is a glut on the market. With the operation of a pro-rate which now regulates the volume and flow of citrus fruit shipments, this method of storage has become increasingly important and growers are interested to know how long fruit can be held on the trees without deterioration in quality and what effects different rootstocks have on the storage life of the fruit while on the tree and after it is picked. There is reason to believe that the appearance of granulation, puffiness and other symptoms of over maturity would be hastened on some rootstocks and not on others. An investigation on these lines was initiated by Hodgson and Eggers (5) at the Subtropical Horiculture Orchard on the campus of the University of California at Los Angeles, and this paper presents the results of studies made since the publication of their preliminary progress report.
+
+### MATERIALS AND METHODS
+
+The varieties included in the present study are Washington Navel and Valencia oranges (*C. sinensis*, Osbeck), Satsuma mandarin (*C. nobilis* var. *Unshiu*, Swingle), Dancy tangerine (*C. nobilis* var. *deliciosa*, Swingle). Marsh grapefruit (*C. paradiisi*, Macf.) and rough lemon (*C. jambhiri*, Lush.).
+
+As previously described by Hodgson and Cameron (4), the trees of each variety in the rootstock planting are from a single clone and are planted in rows which begin, except in the case of
+
+\* Work done in Division of Subtropical Horticulture, University of California at Los Angeles.
+
+the Satsuma mandarin, with a tree grown from a rooted cutting followed by budded trees on trifoliolate orange (*Poncirus trifoliata*), grapefruit, rough lemon, sweet orange and sour orange (*C. Aurantium*). In order to determine the variability between trees having the same stock-scion combination, and the effect, if any, of the presence of a bud union, there are included in the study an additional rough lemon tree budded on rough lemon, a seedling rough lemon tree of nucellar origin and a row of 5 Valencia orange trees belonging to a different clone but budded on sweet orange.
+
+The sampling technique adopted was the same as before except that the samples were taken more frequently, at intervals of 7 to 20 days throughout the season. The size of the samples was increased to 15 fruits for grapefruit, 15 to 20 for oranges, 20 for rough lemon, 25 for Satsuma mandarin, and 30 for Dancy tangerine.
+
+There was hardly any crop on the Washington Navel tree budded on trifoliolate orange or on the Satsuma mandarin budded on the highly incompatible sour orange (8). The soluble solids were measured for comparison by means of a Brix hydrometer and an Abbe<sup>1</sup> refractometer. The values agreed closely when the necessary corrections were made (7). The citric acid was determined by titration with one-tenth normal sodium hydroxide using phenolphthalein as indicator.
+
+In deciding on the number of fruits to take in a sample in order to be able to detect a true difference, if any, in the soluble solids or acid content of the juice with reasonable frequency, one has to know the variability of the individual fruits in a given sample. The standard deviation is a measure of the variability and its value was found to range from 0.13 to 0.75 with an average of 0.5 for the soluble solids determinations of 250 single Washington navel oranges picked at different intervals in batches of 15 fruits from five trees. The smaller the standard deviation, the greater is the chance of detecting smaller differences when they exist. In practice, when the juice from more than one orange is used in the sample, the standard deviation is likely to be somewhat reduced. It is best lowered by improving the experimental technique, especially in respect of design and number of replications. Knowing the standard deviation, it is possible, as indicated by Neyman and Tokarska (6), to determine the size of the sample that has to be taken in order to detect with reasonable frequency a true difference in the mean acid or Brix values. Thus it will be seen from Table 1, calculated for a standard deviation of 0.3 in the Brix values of Washington navel orange, that it will be necessary to have 25 fruits in the sample in order to be able to detect a true difference  $\Delta = 0.279$  in the mean Brix values in 95 experiments out of 100 at a level
+
+of significance  $\alpha = 0.05$ , whereas by using a 15-fruit sample the chance of detecting the same difference is slightly reduced to 0.80. With further reduction of the standard deviation it will be possible to use fewer fruits in the samples and still have a reasonable chance of detecting smaller differences.
+
+TABLE 1.Values of  $\Delta$ Level of Significance  $\alpha = 0.05$ . Standard Deviation = 0.3
+
+<table border="1">
+<thead>
+<tr>
+<th>Chance of non-detection</th>
+<th>.01</th>
+<th>.05</th>
+<th>.10</th>
+<th>.20</th>
+<th>.30</th>
+<th>.80</th>
+<th>.90</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>N=10 fruits ..</td>
+<td>.554..</td>
+<td>.459..</td>
+<td>.408..</td>
+<td>.347..</td>
+<td>.303..</td>
+<td>.114..</td>
+<td>.051</td>
+</tr>
+<tr>
+<td>N=15 ,, ..</td>
+<td>.446..</td>
+<td>.369..</td>
+<td>.329..</td>
+<td>.279..</td>
+<td>.243..</td>
+<td>.090..</td>
+<td>.041</td>
+</tr>
+<tr>
+<td>N=20 ,, ..</td>
+<td>.381..</td>
+<td>.317..</td>
+<td>.281..</td>
+<td>.238..</td>
+<td>.209..</td>
+<td>.077..</td>
+<td>.035</td>
+</tr>
+<tr>
+<td>N=25 ,, ..</td>
+<td>.337..</td>
+<td>.279..</td>
+<td>.249..</td>
+<td>.211..</td>
+<td>.184..</td>
+<td>.068..</td>
+<td>.031</td>
+</tr>
+<tr>
+<td>N=30 ,, ..</td>
+<td>.308..</td>
+<td>.255..</td>
+<td>.227..</td>
+<td>.193..</td>
+<td>.168..</td>
+<td>.062..</td>
+<td>.028</td>
+</tr>
+</tbody>
+</table>
+
+The experimental data were analysed statistically by the method developed by Fisher (3). The analysis of variance for the Brix values of Valencia orange is given in table 2. It will be seen that both the "time of picking" and "rootstock" treatments are statistically significant. The significant differences are given in table 3.
+
+TABLE 2.
+
+Analysis of Variance. Valencia orange Brix values.
+
+<table border="1">
+<thead>
+<tr>
+<th>Treatments</th>
+<th>Degrees of freedom</th>
+<th>Sum of Squares</th>
+<th>Variance</th>
+<th>F(by Calculation)</th>
+<th>F(from Tables)<br/>P=01</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Time of Picking ..</td>
+<td>10..</td>
+<td>3.027..</td>
+<td>0.3027..</td>
+<td>43.24..</td>
+<td>2.70</td>
+</tr>
+<tr>
+<td>Rootstock ..</td>
+<td>5..</td>
+<td>0.402..</td>
+<td>0.0804..</td>
+<td>11.50..</td>
+<td>3.41</td>
+</tr>
+<tr>
+<td>Error ..</td>
+<td>50..</td>
+<td>0.351..</td>
+<td>0.0070</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Total ..</td>
+<td>65</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+DISCUSSION OF RESULTS.
+
+*Soluble Solids.*—From the data summarized in table 3 it will be observed that trifoliolate orange has excelled all the other rootstocks in producing the highest percentage of soluble solids in the fruit of every variety grown on it. The differences are all statistically significant, or nearly so. Rough lemon, on the other hand, has given the lowest values for all the varieties under study and the differences are significant. The effect of both these stocks is most pronounced on the two mandarin varieties. The other rootstocks seem to occupy an intermediate position with sweet orange showing a tendency to give a lower value and grapefruit a higher value than sour orange. The cuttings have all given high values. In the case of rough lemon the difference between the seedling and cutting is not significant, but both the trees budded on rough lemon stock have given the lowest values.
+
+![A line graph on a grid showing the changes in percentage soluble solids, citric acid, and the ratio of soluble solids to acid over 165 days for Washington Navel and Valencia Oranges. The graph has two y-axes: the left axis for 'Percent Soluble Solids' (7-15) and the right axis for 'Percent Citric Acid' (0.8-1.5). The x-axis is 'Number of days' (14-165).](2869b70edbe579cf7bd663f232d9c067_1_img.webp)
+
+The graph displays the following data series:
+
+- **Ratio Soluble Solid to Citric Acid:** Represented by a dashed line with open circle markers. It starts at approximately 1.40 and decreases to about 1.10 over 165 days.
+- **Percent Soluble Solids:** Represented by solid lines with various markers (circles, crosses, triangles, squares). These series show an initial decrease followed by an increase, with the final values ranging from approximately 1.10 to 1.45.
+- **Percent Citric Acid:** Represented by solid lines with open circle markers. These series show a steady decrease from approximately 1.40 to 0.85 over 165 days.
+
+**Legend:**
+
+- Valencia: Solid line with open circle markers.
+- Washington: Dashed line with open circle markers.
+- Navel: Solid line with open circle markers.
+
+**Annotations:**
+
+- Left Y-axis: Percent Soluble Solids (7 to 15).
+- Right Y-axis: Percent Citric Acid (0.8 to 1.5).
+- Top labels: Ratio Soluble Solid to Citric Acid, Percent Soluble Solids, Percent Citric Acid.
+- Right-side labels: Ratio Soluble Solid to Acid, Percent Soluble Solids, Percent Citric Acid.
+
+Fig. 1.—The changes in the percentage soluble solids, citric acid and the ratio of soluble solids to acid in Washington Navel and Valencia Orange.
+
+It should be noted that the incidence of granulation was earlier and more severe in the oranges and Satsuma mandarins grown on rough lemon and sweet orange than on the other rootstocks. It seems to be associated with the lower concentration of soluble solids in the juice. Thus the five Valencia orange trees of a different clone, budded on sweet orange, gave average values of 12.34, 12.92, 12.61, 12.48 and 12.24 for 8 determinations of per cent. soluble solids during April 11–August 15, 1939, and no appreciable granulation was observed. A comparison of data also indicates that the two Valencias of different bud parentage on the same sweet orange stock have consistently given different values, a fact which may have considerable commercial significance.
+
+*Citric acid.*—All the varieties budded on rough lemon gave the lowest values for citric acid content. This has commercial significance since acidity is largely responsible for freshness of taste in a fruit. Even the Valencia oranges grown on the rough lemon stock tasted somewhat flat compared with the others, but the Satsuma mandarins on the same rootstock were decidedly insipid and commercially worthless. Somewhat similar effects have been noted in Florida on acid citrus fruits by Traub and Robinson (9). The trifoliolate orange stock showed a tendency to be associated with high citric acid content except in the case of grapefruit which was abnormally stunted in growth and bore excessively heavy crops most of which were affected by sun scorch. All the mandarins and Valencia oranges grown on the trifoliolate orange stock were particularly rich in flavour.
+
+*Solids-acid Ratio.*—The solids-acid ratio tends to increase in value as the relative proportion of the soluble solids is increased or the citric acid decreased, but the two rootstocks—trifoliolate orange and rough lemon—which are most effective in bringing about these changes do not seem to give consistently high values for the ratio owing to the fact that a high Brix value tends to be associated with a high acid content for trifoliolate orange stock, and a low acid content with a low Brix value for rough lemon rootstock. In general, however, as indicated by Hodgson and Eggers (5), the two rootstocks tend to give the highest values for the ratio earlier in the season and thus help to advance the maturity from the legal standpoint. In California the law requires that oranges should show a ratio of 8 to 1 in order to be considered as mature for picking, and similar statutory standards of maturity apply for the other varieties of citrus fruit. The changes in the percentage soluble solids, citric acid and the ratio of soluble solids to acid, during the season for Washington Navel and Valencia Orange are shown in fig. 1. the values being averages for all the trees under study.
+
+It will be noticed that as the season advances the percentage soluble solids and the ratio of soluble solids to acid tend to
+
+increase, while the percentage of citric acid tends to decrease. These values are comparable with the data obtained by Cope-man (2) in South Africa, and Church (1) in California.
+
+*Size of fruit and amount of rag and rind.*—It will be observed from the data in table 4 that all the varieties except Washington Navel and Dancy tangerine, budded on rough lemon stock, have shown a tendency to produce fruits large in size and somewhat high in the percentage weight of rag and rind. Rough lemon, grapefruit, and Dancy tangerine were particularly small on the trifoliolate orange stock, but the Valencia orange and Satsuma-mandarin were of normal size and the trees had good crops. Most of the varieties budded on grapefruit stock showed a tendency to produce fruits of small size. It has to be remembered, however, that other factors also affect fruit size in citrus and they are :—(a) alternate bearing (b) amount of crop in relation to size and vigour of tree (c) fertility of soil and its moisture content and (d) minimum amount of heat required to develop satisfactory size, as in the case of grapefruit and mandarins, which produce large-sized fruits in warm areas.
+
+All the above observations are of necessity limited in general application because of the small number of trees studied, but they indicate without doubt certain rootstock effects which justify large-scale investigation.
+
+#### SUMMARY
+
+Investigations made during an entire season indicate a definite rootstock influence on size, colour, texture, juice content, and percentage of soluble solids and citric acid in Washington Navel and Valencia Oranges, Satsuma and Dancy tangerine, Marsh grapefruit and rough lemon budded on trifoliolate orange (*Poncirus trifoliata*), grapefruit (*C. paradiisi*, Macf.), sour orange (*C. Aurantium*, L.), sweet orange, (*C. sinensis*, Osbeck) and rough lemon (*C. jambhiri*, Lush.). All the varieties budded on trifoliolate orange, the most dwarfing stock studied, gave the highest values for percentage of citric acid and with one minor exception for percentage of soluble solids; while on rough lemon, the most invigorating stock, all the varieties gave the lowest values for both citric acid and soluble solids. On both these stocks the solids-acid ratio is relatively high early in the season. The invigorating stocks appear to hasten granulation or drying out of juice vesicles. Included in the study are own-rooted trees of all the varieties except Satsuma, and a rough lemon seedling tree of nucellar origin.
+
+#### ACKNOWLEDGEMENT
+
+Grateful acknowledgement is made to Prof. R. W. Hodgson for helpful advice and valuable criticism of the manuscript and to Mr. E. R. Eggers for assistance in taking samples.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Rootstocks.</th>
+<th colspan="3">Valencia Orange.<br/>Average of 11 determinations.<br/>March 7-August 19, 1939.</th>
+<th colspan="3">Washington Navel.<br/>Average of 8 determinations<br/>December 6-April 27, 1939.</th>
+<th colspan="3">Dancy Tangerine.<br/>Average of 8 determinations.<br/>February 8-March 25, 1939.</th>
+</tr>
+<tr>
+<th>Per cent.<br/>Soluble<br/>Solids.</th>
+<th>Per cent.<br/>Citric<br/>Acid.</th>
+<th>Ratio<br/>Solids<br/>to Acid.</th>
+<th>Per cent.<br/>Soluble<br/>Solids.</th>
+<th>Per cent.<br/>Citric<br/>Acid.</th>
+<th>Ratio<br/>Solids<br/>to Acid.</th>
+<th>Per cent.<br/>Soluble<br/>Solids.</th>
+<th>Per cent.<br/>Citric<br/>Acid.</th>
+<th>Ratio.<br/>Solids<br/>to Acid.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trifoliolate orange</td>
+<td>12.15</td>
+<td>1.074</td>
+<td>11.89</td>
+<td>—</td>
+<td>1.075</td>
+<td>—</td>
+<td>12.99</td>
+<td>1.705</td>
+<td>7.72</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>11.72</td>
+<td>1.037</td>
+<td>11.55</td>
+<td>12.03</td>
+<td>.981</td>
+<td>11.33</td>
+<td>11.45</td>
+<td>1.393</td>
+<td>8.23</td>
+</tr>
+<tr>
+<td>Sour orange</td>
+<td>11.22</td>
+<td>1.056</td>
+<td>11.20</td>
+<td>11.78</td>
+<td>1.014</td>
+<td>12.26</td>
+<td>11.32</td>
+<td>1.376</td>
+<td>8.37</td>
+</tr>
+<tr>
+<td>Sweet orange</td>
+<td>10.85</td>
+<td>1.029</td>
+<td>10.91</td>
+<td>11.57</td>
+<td>.951</td>
+<td>11.81</td>
+<td>11.33</td>
+<td>1.191</td>
+<td>9.81</td>
+</tr>
+<tr>
+<td>Rough Lemon</td>
+<td>10.23</td>
+<td>.872</td>
+<td>12.61</td>
+<td>11.05</td>
+<td>1.014</td>
+<td>11.93</td>
+<td>9.37</td>
+<td>1.066</td>
+<td>9.44</td>
+</tr>
+<tr>
+<td>Unbudded cutting</td>
+<td>12.03</td>
+<td>1.125</td>
+<td>11.14</td>
+<td>11.41</td>
+<td>—</td>
+<td>11.59</td>
+<td>13.82</td>
+<td>1.459</td>
+<td>9.53</td>
+</tr>
+<tr>
+<td>Unbudded seedling</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Significant difference</td>
+<td>0.37</td>
+<td>0.098</td>
+<td>—</td>
+<td>0.290</td>
+<td>0.072</td>
+<td>—</td>
+<td>0.50</td>
+<td>0.169</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+  
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Rootstock.</th>
+<th colspan="3">Satsuma Mandarin.<br/>Average of 12 determinations.<br/>January 7-March 15, 1939.</th>
+<th colspan="3">Marsh Grapefruit.<br/>Average of 7 determinations.<br/>May 12-August 22, 1939.</th>
+<th colspan="3">Rough Lemon.<br/>Average of 11 determinations.<br/>May 4-August 22, 1939.</th>
+</tr>
+<tr>
+<th>Per cent.<br/>Soluble<br/>Solids.</th>
+<th>Per cent.<br/>Citric<br/>Acid.</th>
+<th>Ratio<br/>Solids<br/>to Acid.</th>
+<th>Per cent.<br/>Soluble<br/>Solids.</th>
+<th>Per cent.<br/>Citric<br/>Acid.</th>
+<th>Ratio<br/>Solids<br/>to Acid.</th>
+<th>Per cent.<br/>Soluble<br/>Solids.</th>
+<th>Per cent.<br/>Citric<br/>Acid.</th>
+<th>Ratio<br/>Solids<br/>to Acid.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trifoliolate orange</td>
+<td>11.40</td>
+<td>1.189</td>
+<td>9.60</td>
+<td>10.89</td>
+<td>1.888</td>
+<td>5.79</td>
+<td>9.34</td>
+<td>4.635</td>
+<td>2.02</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>9.98</td>
+<td>1.082</td>
+<td>9.25</td>
+<td>10.23</td>
+<td>2.088</td>
+<td>4.91</td>
+<td>8.79</td>
+<td>4.628</td>
+<td>1.90</td>
+</tr>
+<tr>
+<td>Sour orange</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>9.76</td>
+<td>1.919</td>
+<td>5.09</td>
+<td>8.80</td>
+<td>4.649</td>
+<td>1.90</td>
+</tr>
+<tr>
+<td>Sweet orange</td>
+<td>9.05</td>
+<td>1.071</td>
+<td>8.48</td>
+<td>9.81</td>
+<td>1.947</td>
+<td>5.04</td>
+<td>9.05</td>
+<td>4.719</td>
+<td>1.92</td>
+</tr>
+<tr>
+<td>Rough Lemon</td>
+<td>8.29</td>
+<td>1.055</td>
+<td>7.87</td>
+<td>8.96</td>
+<td>1.819</td>
+<td>4.94</td>
+<td>7.88</td>
+<td>3.963</td>
+<td>1.99</td>
+</tr>
+<tr>
+<td>Unbudded cutting</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>9.92</td>
+<td>1.992</td>
+<td>4.99</td>
+<td>8.14*</td>
+<td>4.010*</td>
+<td>2.03*</td>
+</tr>
+<tr>
+<td>Unbudded seedling</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>8.44</td>
+<td>4.242</td>
+<td>1.99</td>
+</tr>
+<tr>
+<td>Significant difference</td>
+<td>0.26</td>
+<td>0.014</td>
+<td>—</td>
+<td>0.69</td>
+<td>0.092</td>
+<td>—</td>
+<td>8.56</td>
+<td>4.127</td>
+<td>2.08</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0.37</td>
+<td>0.107</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+\* Duplicate Tree.
+
+360.
+
+TABLE 4
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Rootstock.</th>
+<th colspan="2">Valencia Orange.</th>
+<th colspan="2">Washington Navel.</th>
+<th colspan="2">Dancy Tangerine.</th>
+<th colspan="2">Satsuma Mandarin.</th>
+<th colspan="2">Marsh Grapefruit.</th>
+<th colspan="2">Rough Lemon.</th>
+</tr>
+<tr>
+<th>Average weight of fruit in grams.</th>
+<th>Per cent. of rind and rag.</th>
+<th>Average weight of fruit in grams.</th>
+<th>Per cent. of rind and rag.</th>
+<th>Average weight of fruit in grams.</th>
+<th>Per cent. of rind and rag.</th>
+<th>Average weight of fruit in grams.</th>
+<th>Per cent. of rind and rag.</th>
+<th>Average weight of fruit in grams.</th>
+<th>Per cent. of rind and rag.</th>
+<th>Average weight of fruit in grams.</th>
+<th>Per cent. of rind and rag.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trifoliolate orange</td>
+<td>142.3</td>
+<td>40.2</td>
+<td>—</td>
+<td>—</td>
+<td>38.7</td>
+<td>58.7</td>
+<td>56.11</td>
+<td>62.4</td>
+<td>202.4</td>
+<td>64.8</td>
+<td>118.8</td>
+<td>77.4</td>
+</tr>
+<tr>
+<td>Grapefruit</td>
+<td>132.6</td>
+<td>40.9</td>
+<td>179.7</td>
+<td>50.7</td>
+<td>38.5</td>
+<td>62.6</td>
+<td>46.6</td>
+<td>63.6</td>
+<td>239.1</td>
+<td>60.6</td>
+<td>136.7</td>
+<td>77.3</td>
+</tr>
+<tr>
+<td>Sour orange</td>
+<td>134.1</td>
+<td>41.8</td>
+<td>183.5</td>
+<td>49.4</td>
+<td>47.8</td>
+<td>65.7</td>
+<td>—</td>
+<td>—</td>
+<td>259.2</td>
+<td>62.7</td>
+<td>159.8</td>
+<td>79.6</td>
+</tr>
+<tr>
+<td>Sweet orange</td>
+<td>125.6</td>
+<td>41.5</td>
+<td>183.3</td>
+<td>50.9</td>
+<td>44.9</td>
+<td>65.9</td>
+<td>43.3</td>
+<td>66.7</td>
+<td>269.3</td>
+<td>61.1</td>
+<td>140.9</td>
+<td>78.2</td>
+</tr>
+<tr>
+<td>Rough Lemon</td>
+<td>144.6</td>
+<td>43.5</td>
+<td>177.1</td>
+<td>51.8</td>
+<td>40.0</td>
+<td>65.9</td>
+<td>59.5</td>
+<td>65.0</td>
+<td>281.6</td>
+<td>62.3</td>
+<td>177.8</td>
+<td>80.0</td>
+</tr>
+<tr>
+<td>Unbudded cutting</td>
+<td>142.2</td>
+<td>41.1</td>
+<td>187.4</td>
+<td>51.4</td>
+<td>40.3</td>
+<td>61.9</td>
+<td>—</td>
+<td>—</td>
+<td>260.1</td>
+<td>61.8</td>
+<td>173.2*</td>
+<td>80.5*</td>
+</tr>
+<tr>
+<td>Unbudded seedling</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>146.5</td>
+<td>79.5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>135.1</td>
+<td>80.7</td>
+</tr>
+</tbody>
+</table>
+
+\* Duplicate Tree.
+
+1. 1. Chace, E. M. and Church, C. G.—Maturity data in the California Washington Navel Orange. *Calif. Citrog.*, 15 : 534, 569, 1930.
+2. 2. Copeman, P. R.—Changes in the composition of oranges during ripening. *Trans. Roy. Soc. So. Africa*, 19 : 106-167. 1931.
+3. 3. Fisher, R. A.—*Statistical Methods for Research Workers*. Oliver and Boyd, Edinburgh, 7th Edition. 1938.
+4. 4. Hodgson, R. W. and Cameron, S. H.—On bud union effect in citrus. *Calif. Citrog.*, 20 : 370. 1935.
+5. 5. Hodgson, R. W. and Eggers, E. R.—Rootstock influence on the composition of citrus fruits. *Calif. Citrog.*, 23 : 499, 531. 1938.
+6. 6. Neyman, J. and Tokarska, B.—Errors of the second kind in testing "Student's" hypothesis. *Jour. Amer. Statistical Assoc.*, 31 : 318-326. 1936.
+7. 7. Stevens, J. W. and Blair, W. E.—Refractometric determination of soluble solids in citrus juices. *Jour. Industrial Eng. Chem Analytical edition*, Vol. II., No. 8, pp. 447-449. Aug. 1939.
+8. 8. Swingle, W. T.—The limitation of the Satsuma orange to trifoliolate orange stock. *U.S. Dept. Agr. Circ.* 46. 1909.
+9. 9. Traub, H. P. and Robinson, T. R.—Maturity and quality in acid citrus fruits. *Proc. Florida State Hort. Soc* for 1935 : 173.
+
+=== MENTIONS (107) ===
+type	text	norm	role
+COMMODITY	citrus fruit	citrus fruit	
+COMMODITY	fruit juices	fruit juices	
+ESTATE	Subtropical Horiculture Orchard	Subtropical Horticulture Orchard	on the campus of the University of California at Los Angeles
+ORG	Division of Subtropical Horticulture	Division of Subtropical Horticulture	University of California at Los Angeles
+ORG	Oliver and Boyd	Oliver and Boyd	publisher
+ORG	University of California at Los Angeles	University of California at Los Angeles	
+PERSON	A. V. RICHARDS	A. V. Richards	Assistant Horticultural Officer
+PERSON	Blair, W. E.	W. E. Blair	author
+PERSON	Cameron	Cameron	
+PERSON	Cameron, S. H.	S. H. Cameron	author
+PERSON	Chace, E. M.	E. M. Chace	author
+PERSON	Church	Church	researcher
+PERSON	Church, C. G.	C. G. Church	author
+PERSON	Cope-man	Copeman	researcher
+PERSON	Copeman, P. R.	P. R. Copeman	author
+PERSON	Eggers	Eggers	
+PERSON	Eggers	Eggers	researcher
+PERSON	Eggers, E. R.	E. R. Eggers	author
+PERSON	Fisher	Fisher	developer of statistical method for analysis
+PERSON	Fisher, R. A.	R. A. Fisher	author
+PERSON	Hodgson	Hodgson	
+PERSON	Hodgson	Hodgson	researcher
+PERSON	Hodgson, R. W.	R. W. Hodgson	author
+PERSON	Mr. E. R. Eggers	E. R. Eggers	assistant
+PERSON	Neyman and Tokarska	Neyman and Tokarska	authors of statistical method cited
+PERSON	Neyman, J.	J. Neyman	author
+PERSON	Prof. R. W. Hodgson	R. W. Hodgson	advisor
+PERSON	Robinson	Robinson	researcher
+PERSON	Robinson, T. R.	T. R. Robinson	author
+PERSON	Stevens, J. W.	J. W. Stevens	author
+PERSON	Swingle, W. T.	W. T. Swingle	author
+PERSON	Tokarska, B.	B. Tokarska	author
+PERSON	Traub	Traub	researcher
+PERSON	Traub, H. P.	H. P. Traub	author
+PLACE	California	California	
+PLACE	California	California	
+PLACE	Edinburgh	Edinburgh	city
+PLACE	Florida	Florida	location of similar effects
+PLACE	Los Angeles	Los Angeles	
+PLACE	South Africa	South Africa	
+PRODUCT	Abbe refractometer	Abbe refractometer	
+PRODUCT	Brix hydrometer	Brix hydrometer	
+PUBLICATION	Calif. Citrog.	California Citrogapher	journal
+PUBLICATION	Jour. Amer. Statistical Assoc.	Journal of the American Statistical Association	journal
+PUBLICATION	Jour. Industrial Eng. Chem Analytical edition	Journal of Industrial and Engineering Chemistry, Analytical Edition	journal
+PUBLICATION	Proc. Florida State Hort. Soc	Proceedings of the Florida State Horticultural Society	journal
+PUBLICATION	Statistical Methods for Research Workers	Statistical Methods for Research Workers	book
+PUBLICATION	Trans. Roy. Soc. So. Africa	Transactions of the Royal Society of South Africa	journal
+PUBLICATION	U.S. Dept. Agr. Circ.	U.S. Department of Agriculture Circular	publication series
+TAXON	C. Aurantium	Citrus aurantium	sour orange
+TAXON	C. Aurantium	Citrus aurantium	rootstock
+TAXON	C. jambhiri	Citrus jambhiri	rough lemon
+TAXON	C. jambhiri	Citrus jambhiri	rootstock
+TAXON	C. nobilis	Citrus nobilis	mandarin
+TAXON	C. paradiisi	Citrus paradisi	grapefruit
+TAXON	C. paradiisi	Citrus paradisi	rootstock
+TAXON	C. sinensis	Citrus sinensis	orange
+TAXON	C. sinensis	Citrus sinensis	rootstock
+TAXON	California Washington Navel Orange	Washington Navel Orange	orange variety
+TAXON	Dancy tangerine	Dancy tangerine	
+TAXON	Dancy tangerine	Dancy tangerine	tangerine variety
+TAXON	Dancy Tangerine	Dancy tangerine	scion variety
+TAXON	grapefruit	grapefruit	rootstock
+TAXON	grapefruit	grapefruit	rootstock showing higher soluble solids values
+TAXON	grapefruit	grapefruit	citrus variety
+TAXON	grapefruit	Citrus paradisi	rootstock
+TAXON	Grapefruit	Grapefruit	rootstock
+TAXON	mandarin	mandarin	variety affected by rootstock choice
+TAXON	Marsh grapefruit	Marsh grapefruit	
+TAXON	Marsh grapefruit	Marsh grapefruit	grapefruit variety
+TAXON	Marsh Grapefruit	Marsh grapefruit	scion variety
+TAXON	Poncirus trifoliata	Poncirus trifoliata	trifoliolate orange
+TAXON	Poncirus trifoliata	Poncirus trifoliata	rootstock
+TAXON	rough lemon	rough lemon	
+TAXON	Rough lemon	rough lemon	rootstock giving lowest soluble solids values
+TAXON	rough lemon	rough lemon	rootstock
+TAXON	rough lemon	Citrus jambhiri	rootstock
+TAXON	Rough Lemon	Rough lemon	rootstock and scion variety
+TAXON	Satsuma	Satsuma	mandarin variety
+TAXON	Satsuma mandarin	Satsuma mandarin	
+TAXON	Satsuma Mandarin	Satsuma mandarin	scion variety
+TAXON	Satsuma mandarins	Satsuma mandarin	citrus variety
+TAXON	Satsuma orange	Satsuma orange	orange variety
+TAXON	Satsuma-mandarin	Satsuma	mandarin variety
+TAXON	sour orange	sour orange	rootstock
+TAXON	sour orange	sour orange	rootstock used in comparison
+TAXON	Sour orange	Sour orange	rootstock
+TAXON	sweet orange	sweet orange	rootstock
+TAXON	sweet orange	sweet orange	rootstock showing lower soluble solids values
+TAXON	sweet orange	sweet orange	rootstock
+TAXON	Sweet orange	Sweet orange	rootstock
+TAXON	trifoliolate orange	trifoliolate orange	rootstock
+TAXON	trifoliolate orange	trifoliolate orange	rootstock producing highest soluble solids
+TAXON	trifoliolate orange	trifoliolate orange	rootstock
+TAXON	trifoliolate orange	Poncirus trifoliata	rootstock
+TAXON	Trifoliolate orange	Trifoliolate orange	rootstock
+TAXON	trifoliolate orange stock	trifoliolate orange	orange rootstock
+TAXON	Valencia	Valencia	orange variety
+TAXON	Valencia	Valencia	orange variety
+TAXON	Valencia orange	Valencia orange	variety analyzed for Brix values
+TAXON	Valencia Orange	Valencia Orange	orange variety
+TAXON	Valencia Orange	Valencia orange	scion variety
+TAXON	Washington Navel	Washington Navel	orange variety
+TAXON	Washington Navel	Washington Navel	orange variety
+TAXON	Washington Navel	Washington Navel	orange variety
+TAXON	Washington Navel	Washington navel	scion variety
+TAXON	Washington navel oranges	Washington navel orange	fruit sampled for soluble solids and Brix values

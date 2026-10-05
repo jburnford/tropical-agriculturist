@@ -1,0 +1,58 @@
+ID: vol042_lbg-630-5-tag-v-42#1914-01#044
+ISSUE: 1914-01  VOL: 42  SECTION: GENERAL.
+TITLE: THE OIL PALM IN SOUTHERN NIGERIA.
+BYLINE: 
+WORDS: 853  PAGES: ['64', '65', '66']
+IA: https://archive.org/details/lbg.630.5.tag.v.42/page/n71/mode/1up
+
+=== TEXT ===
+## THE OIL PALM IN SOUTHERN NIGERIA.
+
+### FUTURE PROSPECTS OF OIL AND KERNELS.
+
+The Commercial Intelligence branch of the Board of Trade has received from the Crown Agents for the Colonies a copy of a monograph entitled “The Oil Palm and its Varieties,” by MR. J. H. J. FARQUAR, B. Sc., Conservator of Forests in Southern Nigeria. The oil palm is considered from the botanical and commercial points of view, and the methods of marketing, etc. are dealt with.
+
+As regards the future prospects of the trade in the palm oil and palm kernels in Southern Nigeria it is stated that there is no doubt that the merchants buy all the oil and kernels the natives bring them, and this is a large proportion of the available supply within such areas as are easily served by land and waterways. A large number of palm trees are not worked for oil and kernels, however, especially in the district of Kwale, Abob, Asaba, and to
+
+some extent in those of Warri and Sapele. This, however, is not so large a number as many people would make believe, and the statements about palm fruits and nuts rotting on the roadsides often refer to those that are spread out on the roadside to dry before cracking them for kernels, the surface of government made roads being a good drying ground for that purpose.
+
+A very large amount of the total palm oil available in Southern Nigeria is made use of, but this cannot be said of the available supply of palm kernels, which is not utilised to any such extent. The output of oil and kernels has increased enormously of late, chiefly owing to the opening up of water-ways, markets, and roads, and to the settled condition of the country.
+
+The water-ways are the most important carriers of oil products, and they have been much improved by the marine and political departments. Their continued improvement will do more than anything else to increase the output of oil and kernels. The Okrika and Bonny people, who are keen traders, are most anxious to have a water-way cut through to the Imo river at Odibo, which will save them many miles of a rough water journey, and open up the Imo river and its numerous creeks, and a rich country, to healthy rivalry and competition.
+
+The railway is also a carrier of oil products from a very rich oil country in the western province; this is especially true of kernels, which it brings down from its entire length in Southern Nigeria; but as regards oil it only brings it coastwards from the south of Aro. Oil from the north of that place goes northwards, and this internal carrying of oil is likely to continue and increase in the future. It is impossible now for a European merchant to buy palm oil at Obadan, Oshogbo, etc.; 11s. a kerosene tin of less than five gallons is asked in the oil season at Ibadan, and 15s. at Ilorin. The presence of the railway is not likely to increase to any extent the amount of palm oil in the future, but a large increase in the export of kernels should be expected.
+
+To increase the export of the palm oil products, cheap, plentiful labour is needed. In many districts, notably in Kwale, the scarcity of oil is put down to other works, such as timber concessions, taking up labour. The latter will become more plentiful with an increase in population, whilst for the present hand machinery for the preparation of oil and kernels, which will liberate labour for other works, is most needed. The machines required are hand oil presses, nut-cracking machinery, decorticators, etc., the use of which will also improve the quality of the palm oil products.
+
+At present insufficient available labour is a cause adversely affecting the palm oil and kernel industry. Southern Nigeria being a new and progressive country, the calls on labour are so many and varied that the latter is diverted to the works which attract the labourers most, and the old palm oil and kernel industry, being so well-known, is not now so attractive as the newer and less known forms of labour. These present more attraction for the workers in steady constant work, regular hours, regular and fixed pay, and more enlivening surroundings than the collection and preparation of palm oil in the bush, carrying the produce to the markets and pulling the produce long journeys in canoes, either as a member of a house working for the head of the house, or as a labourer to a middleman, chief, or private native individual.
+
+The native, in addition, is not yet accustomed to the change brought about by the abolition of slavery and the setting up of the form of domestic government in its stead, which is designated as the house rule. He has also not got accustomed to the number of free men about, and the power of money to command these men as labour, and from their economical use amass more money.
+
+Mechanical transport, and mechanical means for preparing oil will liberate labour as nothing else will, and if an increase of population follows, labour difficulties in the future should not be unsurmountable.—*London Commercial Record*.
+
+=== MENTIONS (24) ===
+type	text	norm	role
+COMMODITY	palm kernels	palm kernels	trade product
+COMMODITY	palm oil	palm oil	trade product
+ORG	Commercial Intelligence branch of the Board of Trade	Commercial Intelligence branch of the Board of Trade	received monograph
+ORG	Crown Agents for the Colonies	Crown Agents for the Colonies	sent monograph
+PERSON	MR. J. H. J. FARQUAR	J. H. J. Farquar	Conservator of Forests in Southern Nigeria
+PLACE	Abob	Abob	district
+PLACE	Aro	Aro	location
+PLACE	Asaba	Asaba	district
+PLACE	Bonny	Bonny	location of traders
+PLACE	Ibadan	Ibadan	market location
+PLACE	Ilorin	Ilorin	market location
+PLACE	Imo river	Imo River	waterway
+PLACE	Kwale	Kwale	district
+PLACE	Obadan	Obadan	market location
+PLACE	Odibo	Odibo	location on Imo river
+PLACE	Okrika	Okrika	location of traders
+PLACE	Oshogbo	Oshogbo	market location
+PLACE	Sapele	Sapele	district
+PLACE	Southern Nigeria	Southern Nigeria	region
+PLACE	Warri	Warri	district
+PLACE	western province	Western Province	oil country
+PUBLICATION	London Commercial Record	London Commercial Record	source
+PUBLICATION	The Oil Palm and its Varieties	The Oil Palm and its Varieties	monograph
+TAXON	oil palm	oil palm	subject of monograph

@@ -1,0 +1,27 @@
+ID: vol006_tropicalagricult18861887colo#1886-11#023
+ISSUE: 1886-11  VOL: 6  SECTION: Correspondence
+TITLE: WASHING COLOURED COTTONS SO AS TO RETAIN THEIR COLOUR.
+BYLINE: 
+WORDS: 339  PAGES: ['301']
+IA: https://archive.org/details/tropicalagricult18861887colo/page/n318/mode/1up
+
+=== TEXT ===
+WASHING COLOURED COTTONS SO AS TO RETAIN THEIR COLOUR.
+
+Matale, 20th Sept. 1886.
+
+SIR,—In reply to "Outstation" s letter in your issue of 19th instant I beg to say that coloured cotton frocks may be frequently washed and their good looks retained by attention to a few simple precautions. A small bag of bran (1 lb. will be sufficient) should be left for some hours in the water (cold) in which they are to be washed. Very little soap should be used, and that little ought to be white curd soap, not the dhoby's inevitable "salt soap," which contains much free alkali and various crudities most destructive to delicate colors. A large handful of table salt should be dissolved in the water in which the frocks are finally rinsed, previous to the application of "congee". The salt "sets" the colours if there be more than one in the dress and prevents their "running into each other." The frocks should at once be put to dry in a shady place, if possible in a current of air. It is important that drying be accomplished with all speed. Any intelligent dhoby will carry out these directions, especially if he knows a "*santosum*" is forthcoming to reward his extra trouble. At the same time, from sad experience, I would remind "outstation" that many of the pretty, inexpensive cottons cannot be washed successfully, as in nearly every instance they derive their colours from aniline dyes. In this category may be classed almost all pale blues, creams, greys, fawns, and those delicate "tertiary" shades now so much worn, and if striped or spotted with a different colour, or colours, the dyes are pretty sure to amalgamate very inartistically in the wash-tub. Most shades of cardinal, strawberry, navy, or indigo, and notably pink zephyr may be said to be "die hard" colours, as with careful washing they retain their freshness till the last. I may add, that a pretty shade of cream may be communicated to lace and cotton frocks, etc., by substituting for the usual laundry blue a little of the liquid from a few bruised arnatto seeds.
+
+=== MENTIONS (11) ===
+type	text	norm	role
+COMMODITY	bran	bran	washing agent
+COMMODITY	cottons	cotton	textile material
+COMMODITY	table salt	salt	washing agent
+GROUP	dhoby	dhoby	washman
+PERSON	Outstation	Outstation	correspondent
+PLACE	Matale	Matale	location of correspondence
+PRODUCT	aniline dyes	aniline dyes	dyeing agent
+PRODUCT	congee	congee	laundry starch
+PRODUCT	salt soap	salt soap	washing agent
+PRODUCT	white curd soap	white curd soap	washing agent
+TAXON	arnatto seeds	Lawsonia inermis	source of dye

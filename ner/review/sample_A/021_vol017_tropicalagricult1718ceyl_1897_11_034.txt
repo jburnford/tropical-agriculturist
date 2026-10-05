@@ -1,0 +1,32 @@
+ID: vol017_tropicalagricult1718ceyl#1897-11#034
+ISSUE: 1897-11  VOL: 17  SECTION: PLANTING NOTES.
+TITLE: PLANTING IN PAHANG, STRAITS SETTLEMENTS.
+BYLINE: (From the Administrator's Annual Report.)
+WORDS: 219  PAGES: ['320']
+IA: https://archive.org/details/tropicalagricult1718ceyl/page/n357/mode/1up
+
+=== TEXT ===
+#### PLANTING IN PAHANG, STRAITS SETTLEMENTS.
+
+(From the Administrator's Annual Report.)
+
+Of planting, other than rice and the usual native fields of maize and sugar-cane, there has been little. The Liang Syndicate has brought 130 acres of land under cultivation, and has planted it with coffee during the year. A further plantation of 120 acres will be opened up on the same property during the current year. The coffee already planted is reported to be doing very well, and the land selected is said to be exceptionally good. It is to be hoped that this is but the beginning of an enterprise, which, if successful, may greatly benefit this State. It is probable that the superior rainfall on the east coast of the Peninsula will prove to be to the advantage of the coffee planter, but those who open up land in Pahang have still to contend with great difficulty as regards transport. The labour employed on this coffee estate is drawn entirely from Java and Sumatra.
+
+Rami planted on the property of the Liang Syndicate has been favourably reported upon, and it is possible that deortica ors will be erected during the current year.
+
+Rumi grows well on Pahang soil, but the necessity for its immediate deortication renders it improbable that it will be widely grown for some years to come.
+
+=== MENTIONS (12) ===
+type	text	norm	role
+COMMODITY	coffee	coffee	
+COMMODITY	maize	maize	
+COMMODITY	rice	rice	
+COMMODITY	sugar-cane	sugar-cane	
+ORG	Liang Syndicate	Liang Syndicate	planter
+PLACE	Java	Java	
+PLACE	PAHANG	Pahang	State
+PLACE	Peninsula	Malay Peninsula	
+PLACE	STRAITS SETTLEMENTS	Straits Settlements	
+PLACE	Sumatra	Sumatra	
+PUBLICATION	Administrator's Annual Report	Administrator's Annual Report	source
+TAXON	Rami	rami	

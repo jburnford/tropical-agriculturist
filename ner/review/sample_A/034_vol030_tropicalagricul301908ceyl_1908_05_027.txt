@@ -1,0 +1,274 @@
+ID: vol030_tropicalagricul301908ceyl#1908-05#027
+ISSUE: 1908-05  VOL: 30  SECTION: SCIENTIFIC AGRICULTURE.
+TITLE: LIME AND ITS RELATION TO AGRICULTURE.
+BYLINE: BY. PERCY G. WICKEN.
+WORDS: 2780  PAGES: ['456', '457', '458', '459']
+IA: https://archive.org/details/tropicalagricul301908ceyl/page/n481/mode/1up
+
+=== TEXT ===
+## LIME AND ITS RELATION TO AGRICULTURE.
+
+BY. PERCY G. WICKEN.
+
+Lime, according to the works of ancient writers, was one of the earliest substances used for improving the productiveness of the soil. It has been largely used in Europe for several centuries, and the earliest American writings show that lime took a prominent place in the agricultural history of that country.
+
+Lime has also been used to a more or less extent in the Australian States, but has by no means been universally adopted, and its use in a judicious manner would prove beneficial to the Australian farmer in many ways.
+
+The term "lime" is generally understood to mean quick or caustic lime or calcium oxide, chemical symbol (CaO). When any form of carbonate of lime, limestone, oyster shells, or shell marl, is burned, the carbonic acid is given off and lime or quicklime is produced. In burning, the calcium carbonate under-
+
+goes decomposition, the carbonic acid being thrown off and the caustic or quicklime remaining in the kiln. The fuel generally used in burning is wood, and some of the ashes from this will be found as impurities in the lime.
+
+Lime may be burnt in a number of ways from the rough pile of logs with the stone of shells piled on top, to the most modern furnace made of solid masonry, firebricks, and boiler plate steel, but the result is about the same, except in the cost of carrying out the operations.
+
+BURNING:—Limestone or any carbonate of lime begins to decompose at about 300 degrees C., and the temperature usually employed is indicated by a bright red heat; it should not be allowed to exceed 1,100 degrees C. The facility with which lime is burned depends upon the porosity and composition of the stone, the size of the lumps, and the quantity of air passed through the burning mass. Again, the expulsion of carbonic acid is facilitated by the introduction of steam into the mass. This accomplished by lime burners by watering limestone which has become dry by exposure to the air. If the temperature rises too high, the lime is said to be "dead burnt," or "over burnt" and will not slack. In burning, limestone retains about the same volume, but loses about 44 per cent. in weight, that is 100 lb. of stone yields about 56 lb. of lime. If the lime has been properly burned, it forms a hard white stony substance, which slakes or combines with water in the proportion of 18 lb. of water to 56 lb. of lime; both under burnt or over burnt lime slake badly, and are not so valuable as well burnt lime.
+
+TERMS.—We often hear the term "agricultural lime" and "building lime" mentioned, as if they were different articles, but in reality no difference exists, and the same article is used for both purposes. Sometimes the term "agricultural lime" is used to mean "building lime" that has been air or water slaked, and sometimes refers to the kind of stone from which is derived; more often, however, any inferior lime which is not suitable for building is termed "agricultural lime." The various kinds of lime used in agriculture are as follows:—
+
+STONE LIME.—Good limestone contains from 50 to 55 per cent. lime CaO and 40 to 44 per cent. carbonic acid, with smaller amounts of magnesia, silica, iron, and alumina. Such limestone when burnt would produce the best quality of caustic or quicklime, containing 90 to 98 per cent. of calcium oxide (CaO).
+
+Freshly-burned lime, when removed from the kiln, will weigh about 90 to 95 lb. to the bushel, and when slaked will make about three bushels in volume. Good limestone is found in pockets in coastal limestone ranges of the West coast, between Cape Leeuwin and Carnarvon; also large areas of good limestone exist at the head of the Great Bight, from Israelite Bay to Eucla, reaching 150 miles inland. A small deposit is known at Southern Cross.
+
+**MAGNESIAN LIMESTONES.**—Magnesian limestones or dolomites vary very much in their composition, and may range in carbonate of lime from 20 to 80 per cent. and in carbonate of magnesia from 10 to 60 per cent. The average of such limestone when burned will produce a lime containing from 75 to 85 per cent. of calcium oxide, and 5 to 20 per cent. of magnesium oxide. Magnesian lime weighs about 75 to 85 lb. to the bushel, and when slaked will make about two bushels for one by volume. There is a small deposit of this rock at Milie Soak, near Cue.
+
+**OYSTER SHELL LIME.**—Oyster shell contains from 90 to 95 per cent. of calcium carbonate, and will produce when burned a comparatively pure lime, which should contain from 85 to 95 per cent. of pure calcium oxide if it has not been excessively mixed with ashes in burning. Freshly-burned oyster shell lime weighs about 60 lb. per bushel, and will make when slaked about two and a half bushels for one by volume. Oyster shells suitable for burning are to be found in most of the estuaries in the coastal districts.
+
+**SLAKED LIME.**—The process of slaking is the taking up of water, either from the air or by water being poured over the lime. The lime when it has absorbed all the water it can forms calcium or lime hydrate. It also absorbs some carbonate acid from the air, and forms carbonate of lime.
+
+The Maryland Agricultural Experimental Station recently published an article on this subject, from which it is easy to ascertain the amount of water required to slake different classes of lime and the increase in bulk and weight due to slaking.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Weight per<br/>bushel<br/>before slaking.</th>
+<th>Total Weight<br/>after slaking</th>
+<th>No. of Bus.<br/>after slaking.</th>
+<th>Weight per<br/>bushel<br/>after slaking.</th>
+</tr>
+<tr>
+<th></th>
+<th>lbs.</th>
+<th>lbs.</th>
+<th></th>
+<th>lbs.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Good stone lime ..</td>
+<td>93</td>
+<td>135</td>
+<td></td>
+<td>45</td>
+</tr>
+<tr>
+<td>Magnesia stone lime..</td>
+<td>80</td>
+<td>110</td>
+<td>3</td>
+<td>55</td>
+</tr>
+<tr>
+<td>Oyster Shell lime ..</td>
+<td>60</td>
+<td>100</td>
+<td>2½</td>
+<td>40</td>
+</tr>
+</tbody>
+</table>
+
+**GAS LIME.**—Quicklime is used at the gas works for removing the impurities from the gas. After the lime has been saturated with these impurities it is of no further use to the gas manufacturer, and is sold for agricultural purposes under the name of gas lime. It varies greatly in composition, and contains the sulphides and sulphites of lime, which are injurious to the young plants if the lime is applied too fresh. The action of the air on these sulphides and sulphites changes them to sulphate of lime (gypsum), therefore the exposure of gas lime to the weather for some time improves its agricultural qualities. Its weight is about 65 lbs. to the bushel.
+
+**GYPSUM, OR LAND PASTER** is a combination of lime with sulphuric acid forming sulphate of lime. It occurs in Nature in large deposits, forming beds of rock, which are ground to a fine powder for commercial purposes. It varies in colour from white or light yellow to gray. It is of advantage to place gypsum in stables, etc., as it absorbs the ammonia given off from the manure, and can afterwards be applied to the soil. A little gypsum mixed with the manure heap helps to retain the ammonia which would otherwise be lost. Gypsum is also stated to be able to set free the potash contained in the soil, and make it more readily available as plant food. Some excellent deposits of gypsum have found at Dongara in this State.
+
+**MARL** is the term applied to deposits which contain a large quantity of partially-decomposed shells. These are decomposed by exposure to weather, and such soils contain large quantities of lime, which, when burned furnish a supply of quicklime.
+
+**VALUE OF LIME AS A MANURE.**—Although all crops contain more or less lime in their composition, the amount is so small that it is hardly worth considering, and sufficient lime for the requirements of all crops is to be found in almost all soils. The quantity of lime taken from the soil by a heavy crop varies from 10 lbs. per acre in a crop of cereal to 90 lbs. in the case of clover.
+
+It is the chemical action of lime on the soil which gives it its value, by making the plant food readily available. This is brought about by the action of the lime in decomposing the mineral matter in the soil.
+
+Lime also hastens the decomposition of organic matter and inert nitrogenous compounds of humus in the soil and promotes the formation of ammonia and nitrate compounds from the same.
+
+Lime promotes nitrifying ferment and makes possible their existence in many cases that would be impossible without its presence. Lime is especially valuable if applied after a crop has been turned under from green manuring as it acts chemically on the organic matter and causes it to decompose rapidly. All these facts teach us that lime is not a substitute for manure, but a reinforcement for it.
+
+The continual application of lime to any soil without the addition of fertilisers tends in a short time to make the soil sterile, and it is that gave rise to the old saying: "Lime enriches the father, but beggars the son." The excessive use of lime on a farm may be of benefit to the tenant for a few years but is bad for the owner, and in some parts of the world land-lords have forbidden their tenants by contracts from using lime on their estates. Soils that are rich in organic compounds, such, as swampy and peaty are greatly benefited by the application of lime. Stiff clay lands, even if not containing much organic matter are also greatly benefited by lime, the action is principally upon the mineral matters which it splits up and renders the food contained in them available to the plants, and the soil becomes easier to work. On a light sandy soil the action of lime is also beneficial in helping to bind the particles together, and increasing the cohesive and capillary power to the soil.
+
+Lime is of great value in places where the land has an acid reaction. This acidity or sourness of the soil is generally due to the decomposition of the remains of plants in the soil forming organic acids and this condition is more noticeable on wet than on dry soils. The acidity or sourness is readily corrected by lime, and the good effect of lime on sour grass land is very noticeable.
+
+HOW TO KNOW IF LIME IS REQUIRED.—The easiest way in which this can be determined is to obtain a few pieces of blue litmus papers (this can be obtained from almost any chemist for a few pence); place a piece of this paper in contact with the moist soil; if the soil is sour it will turn red, and the degree of acidity can be determined by the quickness with which it changes colour and the density of the redness produced. Another method, if the soil is dry, is to place two table-spoonfuls of soil in a cup, moisten it with enough water to make the mass like a thick paste, make a cut with a knife and insert a piece of blue litmus paper, and allow it to remain in contact with the soil for about fifteen minutes;
+
+if the blue colour has turned to red the soil will be benefited by liming.
+
+*Method of applying.*—Clayey soil can stand more frequent and heavier applications of lime than light sandy soils, as the action tends to improve the mechanical condition of such soils. The quantities applied vary according to the soils and the customs prevalent in various parts of the world from about two tons per acre for light soils to as high as 12 tons per acre on cold heavy clays, and such applications are made at intervals of from five to six years.
+
+Our soils in this State are mostly of a light nature, and a smaller dressing of lime at more frequent intervals would be likely to prove of benefit, except in some of our swampy lands in the South-West District, where a heavier application would most likely prove beneficial.
+
+The autumn is the best time of the year to apply lime to the ground, but if not convenient to apply at this time, a moderate application may be made at almost any time. The best method to apply lime is to make small piles of lime on the surface at regular intervals, and cover these with earth; the moisture in the soil will soon cause the lime to slack, and as soon as it has come to the powdery condition it should be spread evenly over the soil and harrowed in. If the soil is very dry, the application of a quantity of water to cause it to slack may be desirable. It should be remembered that lime in its caustic or quick state has the most power of producing the necessary chemical and physical changes in the soil; and, therefore the object should be to get the lime into the soil in its natural state, and well mixed with the soil before it has time to lose any of its active principles. Lime should not be allowed to "air slake" before being applied to the soil, as by doing so it absorbs the carbonic acid from the air and is changed back to the carbonate, the form in which it existed before burning, and consequently the labour expended in burning the limestone has been lost. The action of slaked lime is exactly the same as of stone or quicklime, but is not so pronounced, and it is generally of more benefit to use the lime unslacked or only partly slacked as mentioned above. In America powdered caustic lime has been placed on the market, which can be sown with the ordinary seed drills direct into the land, and this is, theoretically, the best way, as it applies the lime evenly, and in its best possible conditions; but, unfortunately, we in this State have not yet created a demand sufficient to induce anyone to erect machinery for this purpose.
+
+The tendency of lime is to sink downwards in the soil; and therefore, it should not be placed too deeply into the ground, and after spreading, the running of a set of heavy harrows over the surface is generally sufficient to incorporate it with the soil. If ploughed under, a large part of the benefit of lime is lost. Lime has the power of liberating ammonia from its compounds, and consequently it should not be sown at the same time as barn yard manure or fertilisers containing sulphate of ammonia, or a loss of the nitrogen is likely to occur,
+
+Another benefit to the agriculturist from the use of lime is in contending against various fungus diseases of plants. It is said to be of special benefit to prevent "club foot," or "foot-and-toe" diseases of turnips, and in some instances scab in potatoes. It also destroys and keeps in check slugs and worms, and may no doubt destroy the larvæ of various insects. It is also stated to be of assistance in encouraging the growth of nitrifying organisms, and of the root tubercles, of leguminous plants.
+
+The following list gives the classification of a number of plants according to their action in regard to lime. The experiments were conducted by the Rhode Island Experiment Station:—
+
+Plants benefited by lime.
+
+<table>
+<tr>
+<td>Spinach,</td>
+<td>Pea,</td>
+</tr>
+<tr>
+<td>Lettuce,</td>
+<td>Peanuts,</td>
+</tr>
+<tr>
+<td>Beets,</td>
+<td>Tobacco,</td>
+</tr>
+<tr>
+<td>Celery,</td>
+<td>Sorghum,</td>
+</tr>
+<tr>
+<td>Onions,</td>
+<td>Lucerne,</td>
+</tr>
+<tr>
+<td>Parsnips,</td>
+<td>Clover,</td>
+</tr>
+<tr>
+<td>Culicoflowers,</td>
+<td>Barley,</td>
+</tr>
+<tr>
+<td>Cabbage,</td>
+<td>Wheat,</td>
+</tr>
+<tr>
+<td>Cucumbers,</td>
+<td>Oats,</td>
+</tr>
+<tr>
+<td>Egg plants,</td>
+<td>Timothy grass,</td>
+</tr>
+<tr>
+<td>Asparagus,</td>
+<td>Kentucky blue grass,</td>
+</tr>
+<tr>
+<td>Khol Rabi,</td>
+<td>Seed fruits.</td>
+</tr>
+<tr>
+<td>Dandelion,</td>
+<td>Stone fruits,</td>
+</tr>
+<tr>
+<td>Swede turnips,</td>
+<td></td>
+</tr>
+</table>
+
+Plants indifferent to lime.
+
+<table>
+<tr>
+<td>Corn,</td>
+<td>Rye,</td>
+</tr>
+<tr>
+<td>Millet,</td>
+<td>Potatoes,</td>
+</tr>
+<tr>
+<td>Hungarian Millet,</td>
+<td>Carrots,</td>
+</tr>
+<tr>
+<td>Golden Millet.</td>
+<td>Red-top grass.</td>
+</tr>
+</table>
+
+Plants injured by lime.
+
+<table>
+<tr>
+<td>Water melon,</td>
+<td>Blue Lupin,</td>
+</tr>
+<tr>
+<td>Serradella,</td>
+<td>Sheep sorrel.</td>
+</tr>
+</table>
+
+From this it will be seen that the bulk of plants are benefited by the application of lime.—*Journal of Agriculture, W.A.*, February, 1903, Vol. XVI, Part 2.
+
+=== MENTIONS (61) ===
+type	text	norm	role
+COMMODITY	lime	lime	agricultural substance
+COMMODITY	lime	lime	soil amendment
+GROUP	American	Americans	
+GROUP	Australian	Australians	farmers
+ORG	Maryland Agricultural Experimental Station	Maryland Agricultural Experimental Station	publisher of article on slaking lime
+ORG	Rhode Island Experiment Station	Rhode Island Experiment Station	conducted experiments on plants and lime
+PERSON	Percy G. Wicken	Percy G. Wicken	author
+PLACE	America	America	market for powdered caustic lime
+PLACE	Australian States	Australian States	
+PLACE	Cape Leeuwin	Cape Leeuwin	
+PLACE	Carnarvon	Carnarvon	
+PLACE	Cue	Cue	town near Milie Soak
+PLACE	Dongara	Dongara	location of gypsum deposits
+PLACE	Eucla	Eucla	
+PLACE	Europe	Europe	
+PLACE	Great Bight	Great Bight	
+PLACE	Israelite Bay	Israelite Bay	
+PLACE	Milie Soak	Milie Soak	location of magnesian limestone deposit
+PLACE	South-West District	South-West District	region with swampy lands
+PLACE	Southern Cross	Southern Cross	location of limestone deposit
+PUBLICATION	Journal of Agriculture, W.A.	Journal of Agriculture, W.A.	source cited
+TAXON	Asparagus	Asparagus	plant benefited by lime
+TAXON	Barley	Barley	plant benefited by lime
+TAXON	Beets	Beets	plant benefited by lime
+TAXON	Blue Lupin	Blue Lupin	
+TAXON	Cabbage	Cabbage	plant benefited by lime
+TAXON	Carrots	Carrots	plant indifferent to lime
+TAXON	Celery	Celery	plant benefited by lime
+TAXON	Clover	Clover	plant benefited by lime
+TAXON	Corn	Corn	plant indifferent to lime
+TAXON	Cucumbers	Cucumbers	plant benefited by lime
+TAXON	Culicoflowers	Culicoflowers	plant benefited by lime
+TAXON	Dandelion	Dandelion	plant benefited by lime
+TAXON	Egg plants	Egg plants	plant benefited by lime
+TAXON	Golden Millet	Golden Millet	plant indifferent to lime
+TAXON	Hungarian Millet	Hungarian Millet	plant indifferent to lime
+TAXON	Kentucky blue grass	Kentucky blue grass	plant benefited by lime
+TAXON	Khol Rabi	Khol Rabi	plant benefited by lime
+TAXON	Lettuce	Lettuce	plant benefited by lime
+TAXON	Lucerne	Lucerne	plant benefited by lime
+TAXON	Millet	Millet	plant indifferent to lime
+TAXON	Oats	Oats	plant benefited by lime
+TAXON	Onions	Onions	plant benefited by lime
+TAXON	Parsnips	Parsnips	plant benefited by lime
+TAXON	Pea	Pea	plant benefited by lime
+TAXON	Peanuts	Peanuts	plant benefited by lime
+TAXON	Potatoes	Potatoes	plant indifferent to lime
+TAXON	Red-top grass	Red-top grass	plant indifferent to lime
+TAXON	Rye	Rye	plant indifferent to lime
+TAXON	Serradella	Serradella	
+TAXON	Sheep sorrel	Sheep sorrel	
+TAXON	slugs	slugs	pest controlled by lime
+TAXON	Sorghum	Sorghum	plant benefited by lime
+TAXON	Spinach	Spinach	plant benefited by lime
+TAXON	Swede turnips	Swede turnips	plant benefited by lime
+TAXON	Timothy grass	Timothy grass	plant benefited by lime
+TAXON	Tobacco	Tobacco	plant benefited by lime
+TAXON	turnips	turnips	plant affected by club foot disease
+TAXON	Water melon	Water melon	
+TAXON	Wheat	Wheat	plant benefited by lime
+TAXON	worms	worms	pest controlled by lime

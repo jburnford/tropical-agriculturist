@@ -1,0 +1,92 @@
+ID: vol035_tropicalagricul351910ceyl#1910-12#051
+ISSUE: 1910-12  VOL: 35  SECTION: CEYLON AGRICULTURAL SOCIETY.
+TITLE: LABOUR AND WAGES IN SOUTH INDIA.
+BYLINE: 
+WORDS: 1007  PAGES: ['566']
+IA: https://archive.org/details/tropicalagricul351910ceyl/page/n615/mode/1up
+
+=== TEXT ===
+## LABOUR AND WAGES IN SOUTH INDIA.
+
+### PROBLEM FOR MADRAS LANDOWNERS.
+
+In the Season and Crop Report for 1909-10 (*Fasli 1319*) issued, by the Madras Board of Revenue, there is the following interesting discussion on the agricultural condition of the people and the question of wages and labour:—
+
+### AGRICULTURAL DETERIORATION.
+
+On this subject the Director of Agriculture reports as follows:—
+
+"No agricultural deterioration is apparent in any part of the Presidency. On the contrary, there are many indications that the prosperity of the agricultural population is increasing. Much less difficulty is now experienced in inducing cultivators to adopt improvements suggested by the Agricultural Department. Formerly, it was only after the greatest difficulty that a cultivator could be induced to try
+
+### SINGLE PLANTING OF PADDY
+
+on a few cents, now a man will readily offer to try it on several acres. The large stock of green-manuring seeds laid in by the Agricultural Department for sale to cultivators was disposed of without difficulty. The publication of a note on the cultivation of
+
+### CAMBODIA COTTON
+
+has been followed by such a rush of applications that all the seed was exhausted in a short time. In Godavery, the cultivation of sugarcane, encouraged by the greater resistance to disease and the superior size of the new canes, is steadily expanding and is reported to have almost reached the level it was at, when red rot first appeared in the district. The prices paid for good Cattle show the increased purchasing power of cultivators. R250 to R350 is commonly paid in Tinnevelly for a pair, while in Nandyal a case is mentioned where as much as R300 was paid for a pair. This is in great part due to the rise in the price of cotton, which has been the outstanding feature of the agricultural year. The average price of cotton in Madras during the year was R26.59 for the Imperial maund of 82.2.7 lb. compared with R19.09 last year. Up to the time of writing, there are no signs of any material fall in prices. There was a slight fall in the price of rice and cholam, but jaggery advanced in Madras from R5.60 to R6.47 an Imperial maund and a similar advance was recorded from all parts of the Presidency. An extension of the area under both sugarcane and cotton may be anticipated, provided the season continues favourable."
+
+## THE AGRICULTURAL POPULATION.
+
+On the condition of the agricultural population the Directors of Agriculture reports as follows:—
+
+"Such enquiries as have been made tend to the conclusion that the labourers have not participated to a proportionate extent in the increased prosperity of their employers. The
+
+### INCREASING DEMAND FOR LABOUR FOR TEA, COFFEE, AND ESPECIALLY FOR RUBBER
+
+estates in India, Ceylon, the Straits Settlements and other places will make an advance of agricultural wages necessary in the near future.
+
+In some planting districts the rate of daily labour offered are no higher than those reported from the places from which the labourers come, but regular work is usually provided, and other advantages, such as free houses, cheap and good food, etc., provide an additional attraction, the result being that the estate coolies can save money. At the recent meeting of the United Planters' Association of Southern India, some interesting figures were given by one of the best authorities on the subject.
+
+### IN THE FIRST SIX MONTHS OF THE CURRENT YEAR, OVER 50,000 COOLIES LEFT FOR CEYLON
+
+the price paid per head to recruiters being R10 on board the launch at Tuticorin. In the same period 32,000 coolies left for the Straits Settlements, being three times the number for the corresponding period of last year. To cultivate and tap the trees now planted in the Straits Settlements, it is estimated that 230,000 additional coolies will be needed in the next three years, but efforts are being made to substitute Chinese labourers for Indian coolies. The
+
+### AREA UNDER RUBBER IN SOUTHERN INDIA IS ABOUT 30,000 ACRES.
+
+for the tapping of which a large addition to the present labour force will be required very soon. In view of these facts, it is clear that the agricultural wages, which have not generally speaking, advanced in proportion to the rise in the prices of the chief agricultural products, will have to be enhanced at an early date, if sufficient labour is to be returned on the land. Wet cultivation requires a large quantity of labour at certain times, but
+
+### FOR LONG PERIODS TOGETHER THE COOLY IS LEFT WITHOUT EMPLOYMENT.
+
+The Deputy Director of Agriculture, Southern Division, suggests that an improvement in wet cultivation and the introduction of more valuable crops, such as sugarcane which requires labour throughout the year, would be the best way to retain the coolies on the land. Unless this is done, there will be an increasing scarcity of labour.
+
+Wages are still very low in the Ceded Districts, but here the labourer is often himself a landowner, and it pays him better to accept very low wages for the time he can spare from his own cultivation than to give up his land and emigrate even for much higher daily wages. It is, therefore, difficult to see how any fresh sources of labour can be opened up."
+
+### THE BOARD'S REMARKS.
+
+The Board of Revenue has little doubt that if employers of agricultural labour would only allow their landless employes to participate much more largely in their increased profits due to the high prices of produce, by raising the wages of labourers, and in other ways ameliorating their condition, much difficulty connected with labour would disappear. So long as these employers—frequently rich landowners much addicted to inveigh against the alleged rapacity of Government in the matter of assessments—choose to pursue their present selfish policy, so long will labourers be justified in seeking more profitable employment elsewhere. The free emigration of coolies who are growing weary of the greed of local employers will, in the not distant future, force these owners of land to adapt themselves to changed economic conditions in this Presidency. If absentee and other landowners wish to keep labour at home, they can easily do so by the simple remedy of making it worth the while of labourers to stay.—*M Mail*, Nov. 9.
+
+=== MENTIONS (32) ===
+type	text	norm	role
+COMMODITY	Cattle	cattle	product showing increased purchasing power
+COMMODITY	cholam	cholam	agricultural product
+COMMODITY	coffee	coffee	estate crop demanding labour
+COMMODITY	cotton	cotton	agricultural product with rising prices
+COMMODITY	jaggery	jaggery	agricultural product with advancing price
+COMMODITY	rice	rice	agricultural product
+COMMODITY	rubber	rubber	estate crop demanding labour
+COMMODITY	tea	tea	estate crop demanding labour
+GROUP	Chinese	Chinese	labourers being substituted for Indian coolies
+GROUP	Indian	Indian	coolies
+ORG	Agricultural Department	Agricultural Department	suggesting improvements and selling seeds
+ORG	Board of Revenue	Board of Revenue	making remarks on labour conditions
+ORG	Government	Government	entity accused of rapacity in assessments
+ORG	Madras Board of Revenue	Madras Board of Revenue	issuer of Season and Crop Report
+ORG	United Planters' Association of Southern India	United Planters' Association of Southern India	association holding a meeting
+PERSON	Deputy Director of Agriculture, Southern Division	Deputy Director of Agriculture, Southern Division	suggesting improvements in wet cultivation
+PERSON	Director of Agriculture	Director of Agriculture	reporting on agricultural condition
+PLACE	Ceded Districts	Ceded Districts	region with low wages
+PLACE	Ceylon	Ceylon	destination for coolies
+PLACE	Godavery	Godavery	district where sugarcane cultivation is expanding
+PLACE	India	India	country
+PLACE	Madras	Madras	presidency and market location
+PLACE	Nandyal	Nandyal	location for cattle prices
+PLACE	Straits Settlements	Straits Settlements	destination for coolies
+PLACE	Tinnevelly	Tinnevelly	location for cattle prices
+PLACE	Tuticorin	Tuticorin	port for coolie recruitment
+PUBLICATION	Fasli 1319	Fasli 1319	alternative date designation for the report
+PUBLICATION	M Mail	M Mail	source newspaper
+PUBLICATION	Season and Crop Report for 1909-10	Season and Crop Report for 1909-10	report issued by Madras Board of Revenue
+TAXON	Cambodia cotton	Cambodia cotton	cotton variety
+TAXON	paddy	paddy	crop subject to single planting
+TAXON	sugarcane	sugarcane	crop with increased resistance to disease

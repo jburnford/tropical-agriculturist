@@ -1,0 +1,55 @@
+ID: vol019_tropicalagricult1918ceyl#1900-03#092
+ISSUE: 1900-03  VOL: 19  SECTION: PRODUCE AND PLANTING.
+TITLE: THE CLAREMONT ESTATE CO., LTD.THE ANNUAL REPORT,
+BYLINE: 
+WORDS: 184  PAGES: ['618']
+IA: https://archive.org/details/tropicalagricult1918ceyl/page/n645/mode/1up
+
+=== TEXT ===
+<table>
+<thead>
+<tr>
+<th>ACREAGE.</th>
+<th>Acres.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tea in bearing .. ..</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Tea in partial bearing .. ..</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Forest, Ravines, &amp;c., .. ..</td>
+<td>90</td>
+</tr>
+<tr>
+<td></td>
+<td>336</td>
+</tr>
+</tbody>
+</table>
+
+The Directors submit herewith the Balance Sheet and profit and loss account duly audited for the year ending 31st December, 1899.
+
+The yield for the year was 81,281 lb. against estimate of 85,000 lb. costing 24.54 cts., laid down in Colombo, inclusive of up-keep on the 46 acres New Clearing from which only some 4,000 lb., were secured.
+
+Estimate for 1,900 is 90,000 lb., to cost in Colombo, 25.83 cts.
+
+The tea was all sold locally realising 34.97 cts. per lb., nett.
+
+Mr. A Orchard retires by rotation and offers himself for re-election.
+
+The election of an Auditor rests with meeting and Mr. Guthrie again offers his services.
+
+In view of the present position of affairs and the near approach of the due date of the Mortgage for £3,500, the directors hope that as many of the shareholders as can attend will come to the meeting.
+
+=== MENTIONS (4) ===
+type	text	norm	role
+COMMODITY	Tea	tea	product
+PERSON	Mr. A Orchard	A. Orchard	director
+PERSON	Mr. Guthrie	Guthrie	Auditor
+PLACE	Colombo	Colombo	

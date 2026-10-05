@@ -1,0 +1,46 @@
+ID: vol020_tropicalagricult2019ceyl#1900-08#039
+ISSUE: 1900-08  VOL: 20  SECTION: 
+TITLE: GREEN TEAS: PATENT PREPARATION OF, IN CEYLON.
+BYLINE: (Signed) H. D. DEANE.
+WORDS: 536  PAGES: ['102']
+IA: https://archive.org/details/tropicalagricult2019ceyl/page/n125/mode/1up
+
+=== TEXT ===
+GREEN TEAS: PATENT PREPARATION OF,  
+IN CEYLON.
+
+To the Editor *Ceylon Observer*,
+
+DEAR SIR,—Some particulars of our invention which renders the manufacture of true green teas, simple and inexpensive, may be of use to your readers. We have, as you are aware, patented the method as well as the machine in Ceylon, and hope shortly to do so in India. Our patent covers—(1) A method of rendering tea leaf pliable for purposes of rolling or twisting without resort to the process known as withering. (2) A machine for carrying out this method on a scale large enough to suit the largest factories. Green teas may be divided into two classes—Oolongs or Semi-green teas, which are partially fermented, and true green teas, which are wholly unfermented. These teas are the most popular class of tea in use in North America as shown by the fact reported to the inventors by Mr. F.
+
+Street, the local tea expert, that, out of a total export of 51,000,000 lb. of China tea to the United States last season up to the middle of November, only a very little over 1,000,000 lb. of tea corresponding to the ordinary Ceylon black leaf was imported, while of Oolongs there were imported 14,000,000 lb. and of the unfermented class, which are the true green teas, no less than 32,000,000 lb.
+
+In view of the desire in Ceylon to introduce teas of this island into the American market it is thus shown to be highly desirable that teas should be manufactured of the unfermented class, and that a method and apparatus for insuring the manufacture thereof should be perfected.
+
+Oolongs consist of tea leaves, withered either artificially or naturally, by hot air or on hot plates, sufficient to enable them to be rolled; when they are straightway fired.
+
+The result of this process is that the effect called by some fermentation and by others oxidation is partially produced, and this effect prevents the leaves from being uniform in colour and causes them to vary from an olive green to a light brown.
+
+True green teas are made only of leaf which has never been fermented or oxidized and, when infused, should show a uniform yellowish green colour which could never be obtained had either oxidation or fermentation taken place. The production of these teas has hitherto been found impracticable in Ceylon, because leaf could not be rendered sufficiently soft or pliable to be rolled or twisted unless by its being withered either naturally or artificially by hot air or hot plates, which withering is in itself a degree of fermentation or oxidation.
+
+It was therefore requisite to find a method of obtaining pliability necessary for the rolling or twisting process by other means which would prevent all fermentation or oxidizations. The inventors claim to have discovered after long experiment, and to have been the first in Ceylon to practise their discovery of a method by which tea leaf is rendered sufficiently pliable for rolling by a method heretofore entirely novel in Ceylon, which process not only produces pliability but absolutely checks all fermentation or oxidation. Full particulars of the machine can be obtained from Messrs. Brown Rae & Co., our Agents at Hatton, and, with each machine, instructions necessary for its use will be issued.—Yours faithfully,
+
+(Signed) H. D. DEANE.
+
+August 1st 1890.
+
+=== MENTIONS (13) ===
+type	text	norm	role
+COMMODITY	green teas	green tea	
+COMMODITY	Oolongs	oolong tea	
+COMMODITY	tea	tea	
+ORG	Messrs. Brown Rae & Co.	Brown Rae & Co.	Agents at Hatton
+PERSON	H. D. Deane	H. D. Deane	inventor
+PERSON	Mr. F. Street	F. Street	local tea expert
+PLACE	Ceylon	Ceylon	
+PLACE	China	China	
+PLACE	Hatton	Hatton	
+PLACE	India	India	
+PLACE	North America	North America	
+PLACE	United States	United States	
+PUBLICATION	Ceylon Observer	Ceylon Observer	newspaper

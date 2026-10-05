@@ -1,0 +1,47 @@
+ID: vol010_tropicalagricult1018ceyl#1890-12#009
+ISSUE: 1890-12  VOL: 10  SECTION: 
+TITLE: HILLCOUNTRY PLANTING REPORT.
+BYLINE: 
+WORDS: 992  PAGES: ['397', '398']
+IA: https://archive.org/details/tropicalagricult1018ceyl/page/n438/mode/1up
+
+=== TEXT ===
+### HILLCOUNTRY PLANTING REPORT.
+
+THE WEATHER—A VISIT FROM MR. NOCK—THE BATTLE OF THE WATTLES—ACACIAS AND EUCALYPTS—OTHER TIMBER AND SHADE TREES—GRAND VIEWS—THE TREE TOMATO—HINDRANCES TO PROGRESS ON THE RAILWAY EXTENSION—ANOTHER CALM DAY.
+
+NANUOYA, Oct. 18th.
+
+Yesterday was a beautiful day, and there was a gentle deposit of rain during the night which is indicated this morning by the rain-gauge as equal to 16 cents. The fears of those who are planting have been thus dissipated for the time. As a consequence, no doubt, of the rain falling on ground heated by yesterday's strong sunshine, there are masses of white vapour on the mountains, but the sun is shining brightly down into the valley. "Every leaf is at rest," and there is the promise of another fine day. [Which has been amply fulfilled.]
+
+Yesterday we had a very interesting visit from Mr. Nock of Hakgala, who came for the purpose of obtaining information and specimens to enable Dr. Trimen to identify some of the many exotic trees growing here and especially to clear up, if possible, the confusion existing regarding the numerous and variable species of Australian acacias or wattles. About *A. armata*, with its thorn-like leaves and its primrose-coloured, catkin-like blossoms, there is no question: it is simply ornamental. The difficulty has been about *A. decurrens*, with its two varieties (at least), and *A. dealbata*. We are about certain that we have the best varieties of both, grand trees of a dozen years' growth on a quartz ridge. What we take to be *A. decurrens*, and what Mr. Nock thought was its superior variety *mollissima*, agrees in foliage with Mr. Kellow's specimen sent to us, its warmer golden colouring of flush in ours being probably due to its more mature age. Indeed our trees look as if they had reached full maturity, the large quantity of gum they secreted having led to considerable decomposition of the bark and the formation of a series of curious round knobs, some of which
+
+were detached and handed to Mr. Nock, while others, being connected with the wood of the trees, could not be removed. The specimens of both trees show great growth for their age, but their mode of growth differs exceedingly. What we take to be *A. decurrens* has grown umbrageously, throwing out a large number of thick branches; so that, as Mr. Nock remarked, a tree, if cut down, would yield a large quantity of "cord-wood"—that is timber for fuel. Its mode of growth certainly seems to indicate that it is more suitable for firewood than timber for house building or other purposes, although the trunk and even some of the enormous horizontal branches would yield planks and deals of good size. What, from its silvery foliage, we take to be *A. dealbata* grows into straight tall handsome trees, with a moderate array of branches, which are not spreading, but assume more of the semi-perpendicular form. There can be no question as to this being the finer tree of the two, while, from the absence of gummy and other secretions, it shows no sign of having reached anything like the termination of its fresh and growing existence. The sending up of suckers by this tree seems to depend on circumstances. Until yesterday we called our tree "the *A. dealbata* which does not send up suckers." But we found that one specimen had sent its roots out into loose soil and that from these roots suckers were springing. For yielding a large supply of firewood, it will probably be advisable to encourage rather than suppress the tendency of *A. dealbata* to send up suckers. Mr. Nock took away specimens of other acacias, as well as of the numerous varieties of eucalypts growing on Abbotsford. One of the latter, of exceeding rapid growth, closely resembles *A. decurrens* in its branching habit, some of the branches, indeed, vying with the trunk in size: The blue gum, *Eucalyptus globulus*, of which we have many, are not trees to be proud of, except in specially favourable localities; but the red and white gums grow well. *E. robusta* is here as in all these districts a very luxuriant grower, while, rather to our surprise, one of our best and quickest growing trees is the famous jarrah tree, *E. marginata*. Mr. Nock admired our truly noble specimens of *Albizia moluccana*, so prized in Java as a shade tree. When covered with snow-white flowers, as some of ours have been, these trees are beautiful objects. But they are brittle and the timber poor as firewood, although, doubtless, it would prove suitable for tea chests. Grevilleas do well here up to close on 6,000 feet, but Nuwara Eliya seems to be beyond their limit. A few planted near the bund in good soil, have grown fairly well, but their tops were broken by wind. Mr. Nock much admired our *syncarpia*s. As one of the best firewoods we have large numbers of different species of casuarinas, and for the same purpose we are growing the luxuriant bushy frenelas, trees which for shelter and shade purposes could scarcely be surpassed. Mr. Nock was in great admiration of our young plantations, in which, wattles, casuarinas, eucalypts and cryptomerias are conspicuous, while other trees are being tried, as well as with the large number of older trees scattered about the estate. We have now found that, with the exception of wattles, casuarinas and above all bamboos, trees grown amongst tea do little or no harm to the principal culture. Indeed we rather think that at our higher elevations the shelter of trees is useful. Never having been here before, Mr. Nock was enchanted with our grand and extensive views, as of mountains, valleys and patanas, terrace after terrace, between 1,600 and nearly 6,000 feet altitude, was attained near our beautiful lakelet, which supplies water for working the
+
+"tandem wheels" at the factory. *En passant* I must express my admiration of the grand leaf, as well as the fine fruit, of the tree tomato. A leaf from plants grown on a trellis at 4,700 feet measured 21 inches by 15.
+
+=== MENTIONS (23) ===
+type	text	norm	role
+COMMODITY	tea	tea	principal culture
+ESTATE	Abbotsford	Abbotsford	estate where trees are growing
+PERSON	Dr. Trimen	Dr. Trimen	botanist to identify trees
+PERSON	Mr. Kellow	Mr. Kellow	sender of specimen
+PERSON	Mr. Nock	Mr. Nock	visitor from Hakgala
+PLACE	Hakgala	Hakgala	place of origin of Mr. Nock
+PLACE	Java	Java	place where Albizia moluccana is prized
+PLACE	Nanuoya	Nanuoya	location of report
+PLACE	Nuwara Eliya	Nuwara Eliya	location beyond limit for Grevilleas
+TAXON	A. armata	Acacia armata	ornamental tree
+TAXON	A. dealbata	Acacia dealbata	wattle species
+TAXON	A. decurrens	Acacia decurrens	wattle species
+TAXON	Albizia moluccana	Albizia moluccana	shade tree
+TAXON	bamboos	Bamboo	trees grown amongst tea
+TAXON	casuarinas	Casuarina	firewood trees
+TAXON	cryptomerias	Cryptomeria	trees in young plantations
+TAXON	E. marginata	Eucalyptus marginata	jarrah tree
+TAXON	E. robusta	Eucalyptus robusta	red gum
+TAXON	Eucalyptus globulus	Eucalyptus globulus	blue gum
+TAXON	frenelas	Frenela	firewood trees
+TAXON	Grevilleas	Grevillea	trees grown up to 6,000 feet
+TAXON	syncarpia*s	Syncarpia	trees admired by Mr. Nock
+TAXON	tree tomato	Tree tomato	plant with large leaf and fruit

@@ -1,0 +1,23 @@
+ID: vol051_iss01_tropical-agriculturist-1918-07-51-1#1918-07#020
+ISSUE: 1918-07  VOL: 51  SECTION: GENERAL.
+TITLE: TRAINING IN SUGAR TECHNOLOGY IN HAWAII.
+BYLINE: 
+WORDS: 97  PAGES: ['70']
+IA: https://archive.org/details/tropical-agriculturist_1918-07_51_1/page/n71/mode/1up
+
+=== TEXT ===
+## TRAINING IN SUGAR TECHNOLOGY IN HAWAII.
+
+Arrangements have been made between the College of Hawaii and the Sugar Planters' Experiment Station for the institution of a four years' course in Sugar Technology. This course includes general science as applied to agriculture, the agriculture of the sugar-cane under Hawaiian conditions, the chemistry of sugar, and the chemistry and engineering of sugar manufacture. Arrangements have been made for practical training in chemistry and engineering in factories while at work. The proposals follow closely those which have been successful at Andubon Park, Louisiana, and at the School of Agriculture, Mauritius.
+
+=== MENTIONS (9) ===
+type	text	norm	role
+GROUP	Hawaiian	Hawaiian	
+ORG	College of Hawaii	College of Hawaii	
+ORG	School of Agriculture, Mauritius	School of Agriculture, Mauritius	
+ORG	Sugar Planters' Experiment Station	Sugar Planters' Experiment Station	
+PLACE	Andubon Park	Andubon Park	
+PLACE	Hawaii	Hawaii	
+PLACE	Louisiana	Louisiana	
+PLACE	Mauritius	Mauritius	
+TAXON	sugar-cane	sugar-cane	

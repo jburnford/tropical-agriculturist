@@ -1,0 +1,37 @@
+ID: vol063_lbg-630-5-tag-v-63#1924-09#011
+ISSUE: 1924-09  VOL: 63  SECTION: SOILS AND MANURES.
+TITLE: MANURE AND SOIL CONSIDERATIONS.
+BYLINE: 
+WORDS: 781  PAGES: ['154', '155']
+IA: https://archive.org/details/lbg.630.5.tag.v.63/page/n101/mode/1up
+
+=== TEXT ===
+## MANURE AND SOIL CONSIDERATIONS.
+
+Of all the aspects of the art of manuring, the consideration of the soil is probably the most important and least thought of. It should be fully realised that the results obtained with a particular manure, on a particular soil, and under particular conditions, will not necessarily be obtained under any other conditions in this or in any other country. It is certain that agricultural progression has been hindered by the apparent inability of some agricultural experimenters to grasp this fact.
+
+From the chemical composition of the soil little information of value can be obtained except in so far as concerns lime deficiency. The physical nature of the soil is a much more valuable factor, from which certain fairly useful indications may be derived, but even these are not always reliable. It is usually considered that a clay soil, because of its composition, will contain sufficient potash for the use of plants. That this is not always so has been clearly demonstrated in many experiments, where it has been shown that on certain clays potash may even be the determining factor of fertility. Excellent results have been obtained by using high-grade basic slag on neglected grass land on heavy clay soils. Such soils contain sufficient moisture to assist in the solution of the insoluble phosphates of the slag. On soils containing a sufficiency of lime one may expect to obtain the best results from applications of superphosphate, which manure requires lime in the soil to precipitate its phosphate. As a source of phosphoric acid for general use a mixture of superphosphate and crushed bones or bone dust is recommended, but the cost of the last is now almost prohibitive. From such a combination one obtains the quick action of the superphosphate and the more lasting action of the crushed or ground bones.
+
+On practically all light soils it is essential to supply potash and phosphates, and the most economic way to supply nitrogen on such soils is in organic forms, such as in green manure or in blood and bone.
+
+### OTHER CONSIDERATIONS.
+
+There are some aspects of economic manuring which are never sufficiently taken into account. One of the most important of these is the comparison of costs of the various sources of the manures. With this should be coupled the questions of grade and condition. Other things being equal, the highest grade manure is more economic than its less concentrated competitor, because it entails less expense for labour and cartage. Especially with regard to the less soluble manures, the fineness of grinding is very important, and in mixing manures care has to be taken that no loss occurs in the process, and that the resulting mixture will be suitable for handling and sowing.
+
+A further point of interest is that one source of fertilising principle may produce better effects upon a particular crop than another. For example, sulphate of potash is a better source of potash for potatoes than either muriate of potash or kainit.
+
+On the other hand, kainit will give better results on mangels and on old pasture because of its content of common salt. In some experiments bone manures as a source of phosphoric acid and nitrogen have been found to give crops of better quality than do other sources of these constituents.
+
+### SYSTEMATIC MANURING.
+
+In conclusion, a study of the subject of manuring leads to the belief that there are essential points which each and every agriculturist must consider very carefully. The immense practical value of leguminous crops as a cheap source of nitrogen should never be overlooked. By a carefully planned rotation of crops the use of expensive artificial manures may be reduced. While the agricultural advisor is of the greatest assistance by indicating the method of manuring which is likely to prove most useful, the best advice that can be given is to experiment for one's self. Such home trials are not difficult, and if properly organised, are not expensive, and their value is immeasurable.
+
+In these experiments the co-operation of the agricultural advisor is invaluable.
+
+It must be always advocated that the use of manures should be based on a definite system. Such a basal system would aim at maintaining the fertility of a good soil or at securing fertility in a neglected soil, whilst at the same time it would ensure that the soil as a medium of production always contains a sufficiency of the various fertilising elements in a form readily available for the crops of the rotation. Cases of emergency would be met by the judicious use of top-dressing or special applications according to requirements. Such a system, if adopted, would not only be more productive, but much more economic than the haphazard methods now commonly used.—The Malayan Tin and Rubber Journal, Vol. XIII., No. 13.
+
+---
+
+=== MENTIONS (1) ===
+type	text	norm	role
+PUBLICATION	The Malayan Tin and Rubber Journal	The Malayan Tin and Rubber Journal	source of the article

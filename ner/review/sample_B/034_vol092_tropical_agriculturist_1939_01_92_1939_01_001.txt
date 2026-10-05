@@ -1,0 +1,26 @@
+ID: vol092_tropical-agriculturist-1939-01-92#1939-01#001
+ISSUE: 1939-01  VOL: 92  SECTION: EDITORIAL
+TITLE: AGRICULTURAL PROPAGANDA
+BYLINE: 
+WORDS: 740  PAGES: ['n0', '2']
+IA: https://archive.org/details/tropical-agriculturist_1939-01_92/page/n0/mode/1up
+
+=== TEXT ===
+### AGRICULTURAL PROPAGANDA
+
+---
+
+**T**HE educated agriculturist of most countries has ample scope for keeping abreast of developments in agricultural science. The results of agricultural research are made known to him through the medium of text books, scientific journals, farming periodicals and literature issued free, or at low price, by the State. The Press, too, plays an important part in the dissemination of knowledge on agricultural topics and, in more recent times, the value of aerial broadcasts for the same purpose has become evident. The position of the agriculturist of little, or no, education is very different and the problem of agricultural publicity, in countries where those who derive their living from the land are primitive or lacking in education, is one which has, during recent years, been engaging the attention of Departments of Agriculture in the British Tropical Dependencies.
+
+The standard of education of the majority of peasant agriculturists in the Tropical Empire is such that the important publicity medium of the printed word cannot be employed to advantage and, for the benefit of those who are unable to read, other means of making known the results of the scientific investigations of Departments of Agriculture must be found. Propaganda methods employed in different countries must vary according to the mentality and characteristics of the people to be served. Generally, it will be found that the uneducated peasant farmer is averse to any departure from the traditional and is imbued with a sense of conservatism in agricultural practices which it is not easy to influence. In attempting to persuade him to adopt an improved practice it is not sufficient that he should merely be informed that his time-honoured practice is wrong. It must be very clearly explained to him
+
+in what respects the practice is considered to be at fault and in what manner a proposed new method is known to be an improvement upon that which it is desired to replace. The success of any scheme of agricultural publicity will depend entirely upon the agents employed. A good publicity officer must, first, be a complete master of his subjects. He must understand the mentality of the people he has to work amongst, in addition to being thoroughly conversant with their language, customs and agricultural practices. He should possess personality above the ordinary as well as considerable powers of persuasion and, above all, he should command the complete respect and esteem of his audiences. He should not be above demonstrating with his own hands the use of a new implement or the correct manner in which a certain operation should be performed. He will not lose the respect of a gathering of practical men by so doing. On the contrary, he will enhance it and incidentally add to the value of his demonstration.
+
+Practical demonstrations are the most valuable form of propaganda and they can be supplemented by intimate talks to small gatherings rather than by prepared, set lectures to large audiences. The value of the talks and the interest of the audience can be augmented by the employment of the cinema or still lantern. Experience in many countries, where both types of projector have been employed in propaganda work, suggests that the latter is preferable to the former as more time is allowed for the demonstrator to explain the essential features of a picture and, among village audiences, it is believed that the still picture is better understood than one which is moving rapidly. Models of specific works, implements or buildings are of value provided that the features they are designed to portray are clearly exhibited by the demonstrator. Pictorial, coloured posters are a medium of publicity which can be used to advantage but they should be well prepared and self-explanatory and accompanied by as little letter press as possible. The holding of well-planned agricultural shows and field days in suitable centres is another form of activity which the propaganda officer can employ, as well as the arrangement of organized excursions by farmers to local demonstration stations.
+
+The need for some link, in Ceylon, between the research staff of the Department of Agriculture and the cultivator was recognized several years ago and a special branch of the Department was created in 1932 to assume responsibility for this subject. The branch is equipped with cinema cameras, projectors and still lanterns, and a recent addition has been a travelling motor-van furnished with appropriate exhibits, loud speaker, gramophone and suitable records. Much useful work has been done by this branch of the Department.
+
+=== MENTIONS (2) ===
+type	text	norm	role
+ORG	Department of Agriculture	Department of Agriculture	research staff, Ceylon
+PLACE	Ceylon	Ceylon	

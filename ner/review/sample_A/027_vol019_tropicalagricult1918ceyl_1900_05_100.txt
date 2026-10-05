@@ -1,0 +1,53 @@
+ID: vol019_tropicalagricult1918ceyl#1900-05#100
+ISSUE: 1900-05  VOL: 19  SECTION: PLANTING NOTES.
+TITLE: A FARMER'S EVERYDAY LIFE.
+BYLINE: 
+WORDS: 683  PAGES: ['770']
+IA: https://archive.org/details/tropicalagricult1918ceyl/page/n801/mode/1up
+
+=== TEXT ===
+A FARMER'S EVERYDAY LIFE.
+
+(By "Cosmopolite.")
+
+The month of February is held responsible for more that is good and bad than any other month of the year, and poets of both classes—minor and major—have rhymed about the peculiarities of this distressful month, which, fortunately, is the shortest in the calendar, and, therefore, soonest brought to a close. One rhymist tells how all the other months hate a good February, and another sings of February filling the dyke,—be it black or be it white,—and, if the latter poet is to be depended upon, we should have a bumper harvest this year, for February has been characterised by a continual downpour of snow and rain alternately. Our roads have been blocked up, one week, by great snow-wreaths, and the next week, by flooded streams, so that I am beginning to think that, if this sort of thing goes on much longer, Nature will require to provide us with webbed feet, as only amphibious animals will be able to exist in our watter-logged island.
+
+In such weather
+
+THE WORK ON A FARM
+
+during this month consists in feeding the stock in the houses, and digging those sheep that are feeding on turnips out from under the huge drifts of snow. Happy is the farmer who has a plentiful supply of turnips stored in pits near his steading, thus saving his men from the most trying work on a farm,—the digging of turnips out from under the snow, and carting them through slush, mud and heavy snowdrifts. Many sheep have been smothered, this month, in different parts of the country: one of my neighbours having lost 330 out of a mob of 360,—which must spell bankruptcy to him. I have been fortunate in this respect, having only lost two old ewes, who had out-lived their usefulness, and would neither breed nor fatten, owing to extreme old age.
+
+However, as the poet says:—
+
+"Soon, full soon, will the South wind blow,  
+Winter is passing, and under the snow  
+Violet and primrose find strength to grow."
+
+And, as a matter of fact, now that the snow is melting, the crocuses and snow-drops are beginning to appear, in thousands, around my house, through the trees and under the hedgerows.
+
+In the
+
+AGRICULTURAL WORLD, FEBRUARY
+
+is chiefly known as the month of Bull Sales and Seed Shows, the former being held at Perth, Aberdeen, and Inverness, the latter wherever two or three farmers can be gathered together. Our little Agricultural Society held its Seed Show, in spite of the distressing weather, and was remarkable on account of the indifferent judging, and the fact that the members of Committee took all the prizes. It is a truism, in rural circles, that it is better to be a friend of the judges or a member of Committee, than to own the best stock at the Show,—and this rule seems to have held good in this instance.
+
+The Bull Sales are said to have been somewhat stiff, which is accounted for by the fact that hundreds of young bulls are sent to these sales that are not fit for stud work, and, indeed, are mere mongrels; and these
+
+sell for a trifle, which, of course, reduces the general average; but a good bull always brings a good price, and such has been the case, this year, although nothing approaching the £1,200 paid by Sir Wilfrid Lawson to the Duke of Devonshire for one, which died shortly afterwards of tuberculosis, and Sir Wilfrid suitably expressed his feelings in the following epitaph:—
+
+"Here lies 'Duke of Oxford,' quiet and cool,  
+Bred by a Duke, and bought by a fool."
+
+During this month the Laird of our parish has crossed the mystic line dividing the world of men and things from that of shades and oblivion, at the ripe age of 81 years, and his remains were followed to the churchyard by all the countryside, as well as his own tenantry, wading through three feet of snow-drift. He was one of the most successful farming landlords in Scotland, and this was attributed to his having gained his experience in the best school in the world, namely that of Australia.
+
+=== MENTIONS (8) ===
+type	text	norm	role
+PERSON	Duke of Devonshire	Duke of Devonshire	seller of bull 'Duke of Oxford'
+PERSON	Sir Wilfrid Lawson	Sir Wilfrid Lawson	buyer of bull 'Duke of Oxford'
+PLACE	Aberdeen	Aberdeen	location of Bull Sales
+PLACE	Australia	Australia	place of experience for the Laird
+PLACE	Inverness	Inverness	location of Bull Sales
+PLACE	Perth	Perth	location of Bull Sales
+PLACE	Scotland	Scotland	country
+TAXON	Duke of Oxford	Duke of Oxford	bull

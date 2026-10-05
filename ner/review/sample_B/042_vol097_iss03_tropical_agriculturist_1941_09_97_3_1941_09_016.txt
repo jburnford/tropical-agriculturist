@@ -1,0 +1,296 @@
+ID: vol097_iss03_tropical-agriculturist-1941-09-97-3#1941-09#016
+ISSUE: 1941-09  VOL: 97  SECTION: DEPARTMENTAL NOTES
+TITLE: ANIMAL DISEASE RETURN FOR THE MONTH ENDED AUGUST, 1941
+BYLINE: M. CRAWFORD,
+WORDS: 561  PAGES: ['181']
+IA: https://archive.org/details/tropical-agriculturist_1941-09_97_3/page/n84/mode/1up
+
+=== TEXT ===
+ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED AUGUST, 1941
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to date since Jan. 1, 1941</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Balance ill</th>
+<th>No. shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Western</td>
+<td>Foot and mouth disease</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>1</td>
+<td>1</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>16</td>
+<td>1</td>
+<td>8</td>
+<td>—</td>
+<td>—</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="3">Colombo Municipality</td>
+<td>Foot and mouth disease</td>
+<td>57</td>
+<td>56</td>
+<td>—</td>
+<td>1</td>
+<td>56</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>37</td>
+<td>7</td>
+<td>37</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Cattle Quarantine Station</td>
+<td>Anthrax</td>
+<td>8</td>
+<td>—</td>
+<td>8</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="5">Central</td>
+<td>Foot and mouth disease</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Contagious Abortion</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>49</td>
+<td>5</td>
+<td>9</td>
+<td>—</td>
+<td>—</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>4</td>
+<td>—</td>
+<td>1</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>6</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>6</td>
+</tr>
+<tr>
+<td rowspan="3">Southern</td>
+<td>Foot-and-mouth disease</td>
+<td>43</td>
+<td>—</td>
+<td>2</td>
+<td>41</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>12</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>12</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>53</td>
+<td>—</td>
+<td>53</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Northern</td>
+<td>Foot-and-mouth disease</td>
+<td>248</td>
+<td>—</td>
+<td>—</td>
+<td>248</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Eastern</td>
+<td>Foot-and-mouth disease</td>
+<td>65</td>
+<td>—</td>
+<td>6</td>
+<td>59</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>8</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>8</td>
+</tr>
+<tr>
+<td rowspan="3">North-Western</td>
+<td>Anthrax</td>
+<td>24</td>
+<td>6</td>
+<td>24</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>8</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Contagious Mange</td>
+<td>8</td>
+<td>—</td>
+<td>1</td>
+<td>7</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>North-Central</td>
+<td>Haemorrhagic Septicaemia</td>
+<td>43</td>
+<td>—</td>
+<td>43</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Uva</td>
+<td>Blackquarter</td>
+<td>13</td>
+<td>—</td>
+<td>13</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Sabara-gamuwa</td>
+<td>Rabies</td>
+<td>6</td>
+<td>1</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+Department of Agriculture,  
+Peradeniya, September 19, 1941.
+
+M. CRAWFORD,  
+Deputy Director (Animal Husbandry) and  
+Government Veterinary Surgeon.
+
+=== MENTIONS (23) ===
+type	text	norm	role
+ORG	Cattle Quarantine Station	Cattle Quarantine Station	institution
+ORG	Department of Agriculture	Department of Agriculture	government department
+PERSON	M. CRAWFORD	M. Crawford	Deputy Director (Animal Husbandry) and Government Veterinary Surgeon
+PLACE	Central	Central Province	province
+PLACE	Colombo Municipality	Colombo Municipality	municipality
+PLACE	Eastern	Eastern Province	province
+PLACE	North-Central	North-Central Province	province
+PLACE	North-Western	North-Western Province	province
+PLACE	Northern	Northern Province	province
+PLACE	Peradeniya	Peradeniya	location of Department of Agriculture
+PLACE	Sabara-gamuwa	Sabaragamuwa Province	province
+PLACE	Southern	Southern Province	province
+PLACE	Uva	Uva Province	province
+PLACE	Western	Western Province	province
+TAXON	Anthrax	Anthrax	animal disease
+TAXON	Blackquarter	Blackquarter	animal disease
+TAXON	Bovine Tuberculosis	Bovine Tuberculosis	animal disease
+TAXON	Contagious Abortion	Contagious Abortion	animal disease
+TAXON	Contagious Mange	Contagious Mange	animal disease
+TAXON	Foot and mouth disease	Foot and mouth disease	animal disease
+TAXON	Haemorrhagic Septicaemia	Haemorrhagic Septicaemia	animal disease
+TAXON	Piroplasmosis	Piroplasmosis	animal disease
+TAXON	Rabies	Rabies	animal disease

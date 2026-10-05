@@ -1,0 +1,18 @@
+ID: vol020_tropicalagricult2019ceyl#1901-06#104
+ISSUE: 1901-06  VOL: 20  SECTION: PLANTING NOTES.
+TITLE: THE CEYLON REDUCTION IN OUTPUT
+BYLINE: 
+WORDS: 119  PAGES: ['866']
+IA: https://archive.org/details/tropicalagricult2019ceyl/page/n893/mode/1up
+
+=== TEXT ===
+THE CEYLON REDUCTION IN OUTPUT.—We have never been great believers in the effect, of an agreement to "rest" so much of our tea, on the London market. Even if Mr. Philip had been able to telegraph 8 or 10 agreed in place of 3½ million lb., we do not think the dealers and others would pay so much attention as they must do to the actual figures of shipment; and the fact, that we have already sent 2½ millions lb. less to London this year than last, should speak volumes as to the greater reduction still to come, owing to fine plucking. It is reassuring to learn, by our Special Telegrams from Calcutta, that the Indian Tea crop must inevitably be short.
+
+=== MENTIONS (6) ===
+type	text	norm	role
+COMMODITY	Indian Tea	Indian tea	
+COMMODITY	tea	tea	
+PERSON	Mr. Philip	Philip	
+PLACE	Calcutta	Calcutta	
+PLACE	Ceylon	Ceylon	
+PLACE	London	London	

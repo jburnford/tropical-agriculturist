@@ -1,0 +1,85 @@
+ID: vol094_iss05_tropical-agriculturist-1940-05-94-5#1940-05#017
+ISSUE: 1940-05  VOL: 94  SECTION: REVIEW
+TITLE: REVIEW
+BYLINE: 
+WORDS: 861  PAGES: ['325', '326']
+IA: https://archive.org/details/tropical-agriculturist_1940-05_94_5/page/n66/mode/1up
+
+=== TEXT ===
+## REVIEW
+
+---
+
+Research on Grassland, Forage Crops and the Conservation of Vegetation in the United States of America. Compiled by R. O. Whyte.
+
+Herbage Publication Series, Bulletin 26. Published by the Imperial Bureau of Pastures and Forage Crops, Aberystwyth, Great Britain. 113 pages with 6 maps and a photograph. 1939. Price : 5s.
+
+---
+
+**T**HIS is a detailed summary of the vast amount of current research on the subject in the United States, hitherto unpublished or widely scattered in numerous publications. Having been compiled by Dr. Whyte, Deputy Director of the Imperial Bureau of Pastures and Forage Crops, and editor of *Herbage Reviews*, it is especially valuable.
+
+The first section gives an account of the Division of Forage Crops and Diseases, Bureau of Plant Industry, U. S. Department of Agriculture (pages 9-18), under investigations on (1) alfalfa, (2) clover, (3) soybean, (4) lespedeza, cowpeas, and miscellaneous legumes, and (5) grass. Each crop is studied from the aspects of (1) culture and production, (2) breeding and improvement, and (3) diseases.
+
+It is interesting to note that, in the United States, production of soybeans has increased from 3,000,000 bushels in 1929 to 58,000,000 bushels in 1938. During the past 30 years, more than 10,000 introductions have been obtained from China, Japan, Java and other places, representing over 2,000 distinct types ranging in maturity from 75 to 200 or more days. At present 118 named varieties comprising 55 for grain or commercial purposes, 32 for forage, and 31 for green or dry edible beans are being handled by growers or seedsmen or are under test by State experiment stations.
+
+The second section deals with "Range Research of the Forest Service, U. S. Department of Agriculture" (pages 19-27), treated under (1) range management, (2) artificial revegetation, (3) range forage, (4) watershed protection, and (5) economic considerations.
+
+These investigations indicate that, in arid regions subject to severe periodic droughts, the density of vegetation reflects the growth conditions of the previous year to such an extent that the stand of forage plants may be only one-fourth as much in the year following drought as in the year of drought.
+
+Too frequent or too severe grazing at any time literally starves the plant to death and conservative grazing is essential to permit perennial range grasses to manufacture and store sufficient carbohydrates.
+
+The next section on "Division of Research, Soil Conservation Service" (pages 28-41) has several sub-sections of which one is "Co-operative Investigations of Erosion-resisting Plants of Economic Value", centred on the attempt to find superior types of erosion-resisting plants and covers having high economic possibilities.
+
+Other sections deal with "Division of Conservation Operations, Soil Conservation Service : Section of Agronomy and Range Management" (pages 42-43); "Soil Conservation Service Research in Puerto Rico and the Virgin Islands" (page 44); "United States Golf Association" (page 45); "Division of Plant Biology, Carnegie Institution of Washington" (pages 46-52) with sub-sections on "Factor and Function in Adaptation", and "Climax, Succession and Conservation".
+
+About half the bulletin is devoted to "Research at the State Agricultural Experiment Stations" (pages 53-105), where the work at practically all the agricultural experiment stations in the United States, 46 in number, is individually dealt with.
+
+In Hawaii, results of an experiment to correlate frequency of cutting Napier grass with yield, persistence of stand and nutrient content indicate that, while the yield of palatable green forage was highest in the 6 weeks' treatment and lowest in the 14 weeks' treatment, the most desirable interval between cuttings was 8 to 10 weeks, this period being long enough to produce sturdy, long-lived stools with the highest total yield of palatable forage. Results of trials at Peradeniya have shown that the total yield was palatable but small at the 4 weeks' interval, the total yield was highest but part was unpalatable at the 8 weeks' interval, and that a suitable interval of cutting Napier grass was 6 weeks.
+
+A brief introduction and summary (pages 7-8) at the beginning, a very useful index of subjects (pages 107-110), and a helpful index of genera and species (pages 111-113) complete the bulletin.
+
+The bulletin is clearly written and is of the high standard of publications of the Imperial Bureau of Pastures and Forage Crops. Very few errors occur in the bulletin : It is disappointing to find on page 66 a perpetuation of the widespread error "Merker grass (*Pennisetum Merkeri*)"; the plant referred to as Merker grass is not *Pennisetum Merkeri* but actually a form of Napier grass (*Pennisetum purpureum*). Merker grass has thinner, harder stems, an oft-flowering habit, and rather blue-green, narrower leaves, though in older stands it is sometimes difficult to distinguish from Napier grass. On page 66 "*Panicum purpurescens*" should be "*Panicum purpurascens*" which is familiar to us as *Brachiaria mutica*, Mauritius grass or water grass. On page 64 occurs "*Cajanus indicus*" but on page 66 we find "*Cajanus cajan*", the valid name for the species, with no indication to show that both names refer to the same plant.
+
+This bulletin admirably accomplishes the purpose for which it has been prepared : "in order, chiefly, to provide non-American readers with a reasonably detailed summary of the very extensive research projects, under Federal, State and other control, which are concerned with problems relating to the improvement of pastures and range lands, the production of forage crops, and the utilization of grasses and other vegetation in the conservation of soil in the United States", and, priced so low as 5 shillings, it should be in the hands of everyone interested in grassland, forage crops, conservation of vegetation, and soil conservation problems.—J.E.S.
+
+=== MENTIONS (39) ===
+type	text	norm	role
+ORG	Bureau of Plant Industry	Bureau of Plant Industry	U. S. Department of Agriculture
+ORG	Carnegie Institution of Washington	Carnegie Institution of Washington	Division of Plant Biology
+ORG	Division of Forage Crops and Diseases	Division of Forage Crops and Diseases	Bureau of Plant Industry, U. S. Department of Agriculture
+ORG	Forest Service	Forest Service	U. S. Department of Agriculture
+ORG	Imperial Bureau of Pastures and Forage Crops	Imperial Bureau of Pastures and Forage Crops	Publisher, Aberystwyth
+ORG	Soil Conservation Service	Soil Conservation Service	
+ORG	U. S. Department of Agriculture	U. S. Department of Agriculture	
+ORG	United States Golf Association	United States Golf Association	
+PERSON	J.E.S.	J.E.S.	Reviewer
+PERSON	R. O. Whyte	R. O. Whyte	Deputy Director of the Imperial Bureau of Pastures and Forage Crops, editor of Herbage Reviews
+PLACE	Aberystwyth	Aberystwyth	Location of Imperial Bureau of Pastures and Forage Crops
+PLACE	China	China	Source of soybean introductions
+PLACE	Great Britain	Great Britain	
+PLACE	Hawaii	Hawaii	Location of Napier grass experiment
+PLACE	Japan	Japan	Source of soybean introductions
+PLACE	Java	Java	Source of soybean introductions
+PLACE	Peradeniya	Peradeniya	Location of Napier grass trials
+PLACE	Puerto Rico	Puerto Rico	Location of Soil Conservation Service research
+PLACE	United States	United States	
+PLACE	Virgin Islands	Virgin Islands	Location of Soil Conservation Service research
+PUBLICATION	Herbage Publication Series, Bulletin 26	Herbage Publication Series, Bulletin 26	Research on Grassland, Forage Crops and the Conservation of Vegetation in the United States of America
+PUBLICATION	Herbage Reviews	Herbage Reviews	Journal edited by Dr. Whyte
+TAXON	alfalfa	alfalfa	Crop studied
+TAXON	Brachiaria mutica	Brachiaria mutica	Accepted scientific name for Mauritius grass
+TAXON	Cajanus cajan	Cajanus cajan	Valid name for the species
+TAXON	Cajanus indicus	Cajanus indicus	Name appearing on page 64
+TAXON	clover	clover	Crop studied
+TAXON	cowpeas	cowpeas	Crop studied
+TAXON	grass	grass	Crop studied
+TAXON	lespedeza	lespedeza	Crop studied
+TAXON	Mauritius grass	Mauritius grass	Common name for Brachiaria mutica
+TAXON	Merker grass	Merker grass	Plant discussed in bulletin
+TAXON	Napier grass	Napier grass	Subject of cutting frequency experiment
+TAXON	Panicum purpurascens	Panicum purpurascens	Correct scientific name
+TAXON	Panicum purpurescens	Panicum purpurescens	Incorrectly spelled name in bulletin
+TAXON	Pennisetum Merkeri	Pennisetum merkeri	Incorrectly identified name for Merker grass
+TAXON	Pennisetum purpureum	Pennisetum purpureum	Scientific name for Napier grass
+TAXON	soybean	soybean	Crop studied
+TAXON	water grass	water grass	Common name for Brachiaria mutica

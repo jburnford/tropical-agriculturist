@@ -1,0 +1,19 @@
+ID: vol002_tropicalagricult18821883colo#1883-02#162
+ISSUE: 1883-02  VOL: 2  SECTION: Correspondence
+TITLE: ALON FIBRE
+BYLINE: 
+WORDS: 102  PAGES: ['684']
+IA: https://archive.org/details/tropicalagricult18821883colo/page/n703/mode/1up
+
+=== TEXT ===
+ALON FIBRE.—We have now received (through Mr. C. Shand) a sample of the Mauritius aloe fibre which has been realizing £40 per ton in the London market. The fibre is very white, smooth and long. Alongside of it we have a sample of Ceylon Aloe fibre prepared at Ballangoda, which is not so white in colour and is coarser, but we have no doubt cultivation of the plant and improvement in preparation would make it equal to the other. As it is the Ceylon fibre (of which a sample shipment of 2 or 3 cwts. has been made by Messrs. Rogers & Co.) has been valued at £30 per ton.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+COMMODITY	aloe fibre	aloe fibre	
+ORG	Messrs. Rogers & Co.	Rogers & Co.	shippers
+PERSON	Mr. C. Shand	C. Shand	
+PLACE	Ballangoda	Ballangoda	preparation site
+PLACE	Ceylon	Ceylon	
+PLACE	London	London	market
+PLACE	Mauritius	Mauritius	

@@ -1,0 +1,47 @@
+ID: vol065_iss06_tropical-agriculturist-1925-12-65-6#1925-12#001
+ISSUE: 1925-12  VOL: 65  SECTION: 
+TITLE: (untitled)
+BYLINE: 
+WORDS: 603  PAGES: ['n0', '324']
+IA: https://archive.org/details/tropical-agriculturist_1925-12_65_6/page/n0/mode/1up
+
+=== TEXT ===
+# THE TROPICAL AGRICULTURIST
+
+---
+
+VOL. LXV.
+
+PERADENIYA, DECEMBER, 1925.
+
+No. 6.
+
+---
+
+## GREEN MANURING.
+
+---
+
+For many years now the Department of Agriculture has been advocating the increased use of Green Manures in the more important cultivations of the island. The use of green leaves as manure and the value of growing green crops in rotations have been known to agriculturists in the island for generations and the advantages that result from such practices have been recognised.
+
+In some areas the use of green leaves as manure for paddy fields is now the general practice whilst in others special leguminous crops are grown and ploughed in. Both of these practices have increased considerably in recent years as the result of propaganda and assistance from the Department. A large number of manurial trials and demonstrations have been held in many parts of the island and increased crops have almost invariably followed upon the applications of green leaves or manures. These results have been noted by paddy growers. A change has resulted in the general practice in not a small number of instances.
+
+Similarly, in coconut cultivations the growing of green manure crops is gradually becoming a more general practice and various methods of handling these crops have been experimented with. In tea, the value of dadap as a green manure crop was one of the first things demonstrated by the tea plots on the Peradeniya Experiment Station and in recent years the value of *Gliricidia* as a green manure for tea has been demonstrated and a large demand for planting material of this plant created thereby. As a means of preventing the loss of soil by erosion,
+
+the value of contour hedges of leguminous plants has been indicated and the use of creeping leguminous plants advocated. The demand for seed and planting material from estates has been greater during the past year than ever before and this shows that many are making serious attempts to deal with a matter of the greatest importance. In rubber cultivation, the use of leguminous cover crops is also increasing and these appear to be giving satisfactory results.
+
+Although Ceylon has done much in making use of green manures in its agriculture and has seen the beneficial results which follow the adoption of this practice it has done but little work on the scientific aspect of the question. There is a vast number of problems for the solution of which exact data based upon scientific investigations are necessary. Such questions as the varying contents of nitrates in Ceylon soils, the rate of nitrification of green manures in different types of soils and the relationship of climate to the decomposition of organic matter have to be settled, before exact advice based upon scientifically ascertained data can be given to the agricultural community.
+
+A certain amount of information has been gathered by observation and experience, but it is essential that scientific investigations should be undertaken. A beginning on some of these problems has been made by the Agricultural Chemist and it is hoped before long results which will be of value to the practical agriculturist will be obtained and published.
+
+In our present number is included a Review by the Agricultural Chemist of the Scientific investigations on green manuring in India and this will indicate some of the lines on which information regarding Ceylon conditions are required. In India a considerable amount of investigational work has already been done, but the end of these investigations is not yet in sight. So complex are some of the problems, that it may take some years of further investigations before definite results can be secured. The whole question is, however, of such importance that it must be investigated to the fullest extent possible.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+ORG	Department of Agriculture	Department of Agriculture	advocating the increased use of Green Manures
+ORG	Peradeniya Experiment Station	Peradeniya Experiment Station	site of tea plots
+PERSON	Agricultural Chemist	Agricultural Chemist	undertaking scientific investigations
+PLACE	Ceylon	Ceylon	
+PLACE	India	India	
+TAXON	dadap	dadap	green manure crop
+TAXON	Gliricidia	Gliricidia	green manure for tea

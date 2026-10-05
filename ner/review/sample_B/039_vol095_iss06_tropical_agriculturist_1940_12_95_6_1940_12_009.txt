@@ -1,0 +1,222 @@
+ID: vol095_iss06_tropical-agriculturist-1940-12-95-6#1940-12#009
+ISSUE: 1940-12  VOL: 95  SECTION: DEPARTMENTAL NOTES
+TITLE: OBJECTIVES IN VEGETABLE BREEDING ANSWERS TO A QUESTIONNAIRE ISSUED BY THE BOTANIST
+BYLINE: 
+WORDS: 2004  PAGES: ['344', '345', '346', '347', '348', '349']
+IA: https://archive.org/details/tropical-agriculturist_1940-12_95_6/page/n31/mode/1up
+
+=== TEXT ===
+### OBJECTIVES IN VEGETABLE BREEDING
+
+#### ANSWERS TO A QUESTIONNAIRE ISSUED BY THE BOTANIST
+
+THE Botanist's experimental work on vegetables has now reached a stage when intensive selection and hybridization can begin; the varieties of local vegetables selected for multiplication and described in the *Tropical Agriculturist* Vol. XCV. No. 3, pp. 149-164, provide ideal material for the purpose. A comprehensive account of the programme of vegetable breeding undertaken by the Botanist is not attempted here. Indisputably desirable and urgently demanded qualities like high yield, resistance to drought and disease, and adaptability to a wide range of climatic conditions will be introduced into the selected varieties. Numerous questions, however, occur on which agreement is not so easily reached. It was hoped that the replies to the following questionnaire would contribute to the solution of these difficulties. It was on the difficult question of defining criteria of quality that assistance was particularly sought. Copies of the questionnaire were circulated among members of the various District Agricultural Committees and among Agricultural Instructors of the Department. The replies provide a mass of data of considerable interest and value, and the Department is extremely grateful to those who assisted in collecting them.
+
+#### QUESTIONNAIRE AND SUMMARY OF ANSWERS.
+
+##### A.—The Market.—
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center;"><i>Question.</i></th>
+<th style="text-align: center;"><i>Answer.</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. What percentages of the total production of vegetables are handled by markets within large towns and village fairs?</td>
+<td>Estimates provided in replies vary widely. Areas near large towns report that town markets handle nearly 100 per cent. of the produce. In certain rural areas, on the other hand, all the vegetables produced find their way to the village fairs. Of the 78 replies received to this question, 45 estimate the volume of produce handled by town markets at over 50 per cent., and 20 at under 50 per cent. In the remaining 13 replies the figure is placed at 50 per cent.</td>
+</tr>
+</tbody>
+</table>
+
+<table border="0">
+<thead>
+<tr>
+<th style="text-align: center;"><i>Question.</i></th>
+<th style="text-align: center;"><i>Answer.</i></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2. What percentages of the customers at village fairs consist of villagers buying for their own consumption, and of middlemen buying for the town market ?</td>
+<td>Opinion regarding the relative numbers of middlemen buying for the town market and villagers buying for their own consumption, is evenly divided. Exactly half the replies estimate the proportion of middlemen at under 50 per cent., and the other half at 50 per cent. and over. But even those who place the numbers of middlemen very low, regard them as the predominantly more important section of the buying public.</td>
+</tr>
+<tr>
+<td>3. What proportion of the consuming public in towns constitutes a discerning luxury market ?</td>
+<td>Opinion is almost unanimous on the comparative unimportance of the luxury market. Forty-six of the 68 replies received estimate the proportion of customers constituting a luxury market at 20 per cent. or under, and only in six instances was the figure placed at over 50 per cent.</td>
+</tr>
+<tr>
+<td colspan="2"><b>B.—Quality.—</b></td>
+</tr>
+<tr>
+<td>4. Have the consuming public well defined standards of quality and what emphasis do the various types of consumer place on flavour and appearance ?</td>
+<td>Opinion is evenly divided on the first part of the question. Half the answers maintain that the consuming public possess high and well-defined standards of quality and the other half maintain the reverse. Over three-fourths of the replies insist that appearance is more important than flavour especially in the villages.</td>
+</tr>
+<tr>
+<td>5. Is there a large section of the consuming public which is relatively indifferent to quality, and which desires merely quantity ?</td>
+<td>An overwhelming majority, viz., 76 of 91 replies received, decide that the larger section of the consuming public demand quantity rather than quality.</td>
+</tr>
+<tr>
+<td colspan="2"><b>C.—Size.—</b></td>
+</tr>
+<tr>
+<td>6. Should the vegetable breeder in this country go all out for size ?</td>
+<td>Forthy-nine answered this question in the affirmative, and the remaining 37 in the negative.</td>
+</tr>
+<tr>
+<td>7. To what extent does large size simplify handling and minimize costs of production ?</td>
+<td>Of the 46 answers received, 27 agree that large size simplifies handling and reduces production costs. The remaining nineteen maintain that large size does not depress production costs ; some of the latter suggest that there may even be increased difficulty in handling with increase in size.</td>
+</tr>
+<tr>
+<td>8. Have the villager and the less-moneyed class of town consumer a prejudice against size ?</td>
+<td>Fifty-eight answered "no" to this question, and the remaining 29 "yes".</td>
+</tr>
+</tbody>
+</table>
+
+9. Would this type of consumer when buying, say, tomatoes, prefer numerous fruits of normal or even sub-normal size, to an equal weight of few, very large fruits ?
+
+10. Is there a general belief in the existence of a negative correlation between good flavour and large size ?
+
+Seventy of the 88 replies received assert that the poorer class of consumer prefers small and medium-sized fruits either because of their reputation for better flavour or because they are more easily stored and used. The remaining 18 replies state that there is no preference either way.
+
+Fifty-six out of a total of 81 replies maintain that flavour varies inversely with size.
+
+**D.—Uniformity.—**
+
+11. Does the market demand that growers conform to high standards of uniformity in size, shape and colour ?
+
+Sixty-one of the 87 replies received are in the affirmative.
+
+**E.—Keeping quality.—**
+
+12. What fraction of the vegetables consumed in large towns is supplied by market gardens in the immediate neighbourhood, and what fraction has to be trucked over considerable distances?
+
+Estimates of the percentages of produce supplied by market gardens (and of produce trucked over considerable distances) vary from 5 per cent. (and 95 per cent.) to 95 per cent. (and 5 per cent.), and depend largely on the size of the town in which they are marketed. In Colombo, for instance, the proportion of produce received from distant areas is particularly high.
+
+13. Is there an extensive and urgent demand for vegetables of good keeping quality ?
+
+Thirty-five out of a total of 46 replies concede the importance of good keeping quality. The rest consider this characteristic of little importance.
+
+**F.—Age.—**
+
+14. What is the extent and nature of the demand for early varieties ?
+
+Sixty-three out of a total of 73 replies emphasize the importance of earliness in vegetable varieties.
+
+15. Are short-aged varieties ever grown with a view to catching the early market ?
+
+Of 66 replies received, 50 agreed that short-aged varieties are grown largely for the purpose of catching the early market.
+
+16. What are the other reasons for the preference for short-aged varieties ? Poverty? Desire to escape unseasonable weather ?
+
+The other reasons for the preference for early varieties include (a) poverty (58 replies) and (b) the desire to escape unseasonable weather (33 replies).
+
+17. To what extent may yield be sacrificed to earliness ?
+
+Of 53 replies received, 6 consider yield and earliness of equal importance, 18 state that yield should receive more consideration, and 22 that yield may be sacrificed to earliness to a varying extent ranging from 10 per cent. to 50 per cent.
+
+18. Does the grower prefer varieties that spread their fruiting over a considerable period to short-season varieties ?
+
+19. Do growers attempt producing vegetables for the out-of-season market ?
+
+**G.—Habit.—**
+
+20. In what varieties, if any, is a perennial habit of growth desired ?
+
+21. In what varieties would a bush habit be preferred, to a trailing habit, or *vice versa* ?
+
+**H.—Disease.—**
+
+22. Can you cite instances where disease has compelled the complete abandoning of varieties in certain areas, *e.g.*, the abandoning of tomato growing in Talatuoya, and of bandakka growing in Matale, consequent on the heavy incidence of bacterial wilt and mosaic respectively ?
+
+23. Indicate the extent of the demand for varieties of vegetables resistant to fungus diseases and insect pests ?
+
+**I. Individual crops.—**
+
+24. Evaluate the importance of the characters mentioned against each of the following crops ?
+
+(a) *Tomatoes* : Size, shape, colour and uniformity of fruit, resistance to wilt and fruit-crack, keeping quality and earliness.
+
+(b) *Brinjal* : Size, shape, colour and uniformity of fruit, resistance to wilt and *Phytophthora* spp., high-branching habit and earliness.
+
+*Answer.*
+
+Fifty-four out of 81 replies received voted in favour of long-season varieties. There is, however, a moderate demand for short-season varieties to be grown in rotation with paddy.
+
+A few growers attempt producing out-of-season vegetables. Yields in these instances are, however, depressingly low.
+
+There is an appreciable demand for perennial types of brinjals, chillies, beans and gourds.
+
+The bush habit is generally preferred, particularly in beans, cowpeas and tomatoes.
+
+Instances of the complete abandoning of crops as a result of disease include the following :
+
+Tomatoes at Ampitiya, Dandegamuwa, Dambedeniya, Galle, Kumbaioluwa, Matale, Ratnapura and Peradeniya on account of bacterial wilt.
+
+Bandakka at Matale on account of mosaic.
+
+Beans and snakegourds at Mulgampola on account of *Agromyza* and fruit-fly respectively.
+
+Nearly all the replies indicated a general desire for disease and pest resistant varieties including bacterial wilt resistant brinjals, tomatoes and chillies resistant to leaf-curl, cucurbits resistant to fruit-fly and mildew, beans resistant to *Agromyza*, and bandakka resistant to mosaic.
+
+The characters mentioned against individual crops are all considered sufficiently important to warrant their inclusion in the projected breeding programme.
+
+(c) *Cucumber* : Resistance to mildew and fruit-fly.
+
+(d) *Beans* : Stringlessness and lack of fibre in side walls, colour, form and resistance to *Agromyza*.
+
+(e) *Cowpea* : Resistance to *Agromyza* and aphids.
+
+(f) *Capsicum* : Thickness and succulence of fruit-wall, reduction of pungency and resistance to leaf-curl.
+
+(g) *Dry chilli* : Glossy epidermis and resistance to leaf-curl.
+
+(h) *Bandakka* : Colour, size and pubescence of fruit and resistance to mosaic.
+
+DISCUSSION
+
+There is almost complete unanimity of opinion in the answers to some of the questions and a sharp division of opinion in others. This division of opinion is, in some instances at least, related to the area from which the answers were received. The relative proportions of truck crops and market-garden crops that supply a town market for instance vary with the size of the town.
+
+Probably the most striking feature of the replies received is the insistence on quantity rather than on quality. This emphasis on quantity implies, of course, that the vegetable breeder should go all out for yield. Even where the desirability of including factors like earliness is suggested, most replies stress that there should be no considerable sacrifice of yield to earliness.
+
+If quality is considered to be of little importance, many of the difficulties inherent in vegetable breeding disappear. Special problems, however, still exist; with many crops it is not possible to produce an all-purpose variety. With tomatoes, for instance, there is a demand for both the large, attractive, smooth-fruited, mild-flavoured varieties of the Marglobe type suitable for use in salads, and for the local, small acid, curry tomato. Then again, the poorer class of consumer shows a decided preference for small or medium-sized vegetables. But large size, apart from its appeal to a section of the consuming public, simplifies handling and reduces production costs. Again, although there is a general demand for long-season varieties, a limited demand for short-season varieties exists where vegetables are grown in rotation with paddy.
+
+A factor that appears to be insufficiently stressed is disease and pest resistance. The Botanist considers this factor of such importance that he proposes setting apart the vegetable
+
+seed station at Matale for the sole purpose of breeding disease and pest resistant varieties. A certain amount of success has already been achieved in this direction. Recent productions include a bacterial wilt resistant variety of brinjal, and strains of cowpea and bittergourd that exhibit some degree of resistance to *Agromyza* and fruit-fly respectively.
+
+Growers catering for the out-of-season market complain of depressingly low yields. Low yields in this instance are a problem for the agronomist rather than for the plant breeder. Improved cultural methods should solve the problem of out-of-season vegetables.
+
+Many replies suggest the desirability of a perennial habit of growth for brinjals, chillies, beans and gourds. In some instances at least this question reduces itself to one of breeding crop varieties resistant to certain diseases and pests. A variety of chilli, for instance, that is immune to leaf-curl and little-leaf should function as a perennial.
+
+2—J. N. 99732 (11/40)
+
+=== MENTIONS (24) ===
+type	text	norm	role
+PLACE	Ampitiya	Ampitiya	area
+PLACE	Colombo	Colombo	town
+PLACE	Dambedeniya	Dambedeniya	area
+PLACE	Dandegamuwa	Dandegamuwa	area
+PLACE	Galle	Galle	area
+PLACE	Kumbaioluwa	Kumbaioluwa	area
+PLACE	Matale	Matale	area
+PLACE	Mulgampola	Mulgampola	area
+PLACE	Peradeniya	Peradeniya	area
+PLACE	Ratnapura	Ratnapura	area
+PLACE	Talatuoya	Talatuoya	area
+PUBLICATION	Tropical Agriculturist	The Tropical Agriculturist	journal
+TAXON	Agromyza	Agromyza	insect pest
+TAXON	bandakka	bandakka	crop
+TAXON	Beans	beans	crop
+TAXON	bittergourd	bittergourd	crop
+TAXON	Brinjal	brinjal	crop
+TAXON	Capsicum	capsicum	crop
+TAXON	Cowpea	cowpea	crop
+TAXON	Cucumber	cucumber	crop
+TAXON	Dry chilli	dry chilli	crop
+TAXON	Marglobe	Marglobe	variety of tomato
+TAXON	Phytophthora	Phytophthora	fungus
+TAXON	tomatoes	tomato	crop

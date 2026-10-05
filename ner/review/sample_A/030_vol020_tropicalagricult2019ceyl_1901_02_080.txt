@@ -1,0 +1,23 @@
+ID: vol020_tropicalagricult2019ceyl#1901-02#080
+ISSUE: 1901-02  VOL: 20  SECTION: 
+TITLE: COFFEE PLANTING IN SUMATRA.
+BYLINE: 
+WORDS: 112  PAGES: ['552']
+IA: https://archive.org/details/tropicalagricult2019ceyl/page/n577/mode/1up
+
+=== TEXT ===
+#### COFFEE PLANTING IN SUMATRA.
+
+We are always pleased to hear from our old friend "W. T. McK." who, after leaving troops of friends behind in Ceylon, has been so many years now in Sumatra without making a fortune. He sends us as usual a graphic letter (given in our daily and *Tropical Agriculturist*) with some useful statistics, showing that his district of "Serdang" has about 10,000 acres under Liberian coffee. The photograph he sends, shows magnificent giant coffee trees (backed by Albizzias) laden with crop; for, of course, the soil is superior to anything we have in Ceylon. But then the market price of "coffee" has, for a long time, been even more disappointing than that of tea!
+
+=== MENTIONS (9) ===
+type	text	norm	role
+COMMODITY	coffee	coffee	market product
+COMMODITY	tea	tea	market product
+PERSON	W. T. McK.	W. T. McK.	correspondent in Sumatra
+PLACE	Ceylon	Ceylon	
+PLACE	Serdang	Serdang	district
+PLACE	Sumatra	Sumatra	
+PUBLICATION	Tropical Agriculturist	Tropical Agriculturist	journal
+TAXON	Albizzias	Albizia	
+TAXON	Liberian coffee	Liberian coffee	

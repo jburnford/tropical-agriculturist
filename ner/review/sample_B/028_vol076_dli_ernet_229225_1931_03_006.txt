@@ -1,0 +1,368 @@
+ID: vol076_dli-ernet-229225#1931-03#006
+ISSUE: 1931-03  VOL: 76  SECTION: RETURNS
+TITLE: THE WORLD'S RUBBER SUPPLIES\*
+BYLINE: 
+WORDS: 1538  PAGES: ['143', '144', '145']
+IA: https://archive.org/details/dli.ernet.229225/page/n163/mode/1up
+
+=== TEXT ===
+## THE WORLD'S RUBBER SUPPLIES\*
+
+IN the course of a paper on "The World's Rubber Supplies," delivered at Birmingham before the Midland Section of the Institution of the Rubber Industry by Dr. George Rae, D.Sc. (Messrs. Harrisons and Crosfield, Limited), on Tuesday, 13th January, 1931, the speaker pointed out that rubber is to-day mainly obtained from plantations, wild rubber, which 30 years ago was the only source, representing only about 3 per cent. of the total world supply. Under the stimulus of the high prices obtaining during the early years of the century rubber planting was carried out at a rapid rate, especially after 1905, both by Europeans and Asiatics. The Asiatic proportion rose from about 20 per cent. of the total in 1910 to 35 per cent. in 1920 and to over 50 per cent. in 1930.
+
+The total area under plantation rubber at the end of 1929, continued Dr. Rae, was between 6,600,000 acres and 7,200,000 acres, of which the area under native rubber in the Dutch East Indies variously estimated at between 1,100,000 acres and 1,700,000 acres. The estimates of the area under Dutch native rubber are based on the exports of this rubber and on the opinions about its average yield per acre and about the proportion of its immature to its mature rubber. The remaining 5,500,000 acres consists of approximately 3,360,000 acres in estates owned by Europeans and Americans; 510,000 acres in Asiatic-owned estates over 100 acres and 1,630,000 acres in native holdings under 100 acres. About 80 per cent. of all the estate rubber trees are tappable. 90 per cent. of the native rubber in Malaya and Ceylon is tappable and probably less than 50 per cent. of the native rubber elsewhere is tappable. Owing to the drastic system of tapping pursued by the natives, a portion of their untapped areas must be regarded in the same light as bark reserves of estate rubber.
+
+The total exports of rubber from producing countries were 94,000 tons in 1910, 167,000 tons in 1915, 353,000 tons in 1920, 518,000 tons in 1925, 861,000 tons in 1929, and will be about 820,000 tons in 1930. Under normal conditions of production, exports give a good approximation to output and the stock figures now published will usually indicate any significant divergence between output and export.
+
+The nett exports from the various producing countries during the years 1920, 1925, 1929 and 1930 are given in the following table (the 1930 figures are subject to adjustment when complete data are available):
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>1920.<br/>Tons.</th>
+<th>1925. .<br/>Tons.</th>
+<th>1929.<br/>Tons.</th>
+<th>1930.<br/>Tons.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Malaya</td>
+<td>181,000</td>
+<td>210,000</td>
+<td>455,000</td>
+<td>443,000</td>
+</tr>
+<tr>
+<td>Ceylon</td>
+<td>39,000</td>
+<td>46,000</td>
+<td>80,000</td>
+<td>77,000</td>
+</tr>
+<tr>
+<td>Netherlands E. Indies</td>
+<td>80,000</td>
+<td>189,000</td>
+<td>256,000</td>
+<td>241,000</td>
+</tr>
+<tr>
+<td>India</td>
+<td>6,000</td>
+<td>10,000</td>
+<td>12,000</td>
+<td>11,000</td>
+</tr>
+<tr>
+<td>British N. Borneo</td>
+<td>4,000</td>
+<td>5,000</td>
+<td>7,000</td>
+<td>7,000</td>
+</tr>
+<tr>
+<td>Sarawak</td>
+<td>2,000</td>
+<td>9,000</td>
+<td>11,000</td>
+<td>10,000</td>
+</tr>
+<tr>
+<td>French Indo-China</td>
+<td>3,000</td>
+<td>6,000</td>
+<td>9,000</td>
+<td>7,500</td>
+</tr>
+<tr>
+<td>Siam, etc.</td>
+<td>1,000</td>
+<td>4,000</td>
+<td>5,000</td>
+<td>4,500</td>
+</tr>
+<tr>
+<td>Wild</td>
+<td>37,000</td>
+<td>39,000</td>
+<td>26,000</td>
+<td>19,000</td>
+</tr>
+<tr>
+<td><b>Total</b></td>
+<td><b>353,000</b></td>
+<td><b>518,000</b></td>
+<td><b>861,000</b></td>
+<td><b>820,000</b></td>
+</tr>
+</tbody>
+</table>
+
+\* By Dr. Geo Rae, D.Sc. in *The India Rubber Journal* Vol. LXXXI. No. 3, 1931.
+
+The actual *output* of rubber for the year 1929 distributed according to the nationality of producers was approximately as follows :
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Tons.</th>
+<th></th>
+<th>Per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>British : U.K.</td>
+<td>...</td>
+<td>236,000</td>
+<td>...</td>
+<td>27.9</td>
+</tr>
+<tr>
+<td>British : Local</td>
+<td>...</td>
+<td>69,000</td>
+<td>...</td>
+<td>8.1</td>
+</tr>
+<tr>
+<td>Dutch</td>
+<td>...</td>
+<td>57,000</td>
+<td>...</td>
+<td>6.7</td>
+</tr>
+<tr>
+<td>Other European</td>
+<td>...</td>
+<td>30,000</td>
+<td>...</td>
+<td>3.5</td>
+</tr>
+<tr>
+<td>American</td>
+<td>...</td>
+<td>22,000</td>
+<td>...</td>
+<td>2.6</td>
+</tr>
+<tr>
+<td>Asiatic Estate</td>
+<td>...</td>
+<td>64,000</td>
+<td>...</td>
+<td>7.6</td>
+</tr>
+<tr>
+<td>Malayan Native</td>
+<td>...</td>
+<td>199,000</td>
+<td>...</td>
+<td>23.4</td>
+</tr>
+<tr>
+<td>N.E.I. Native</td>
+<td>...</td>
+<td>108,000</td>
+<td>...</td>
+<td>12.8</td>
+</tr>
+<tr>
+<td>Other Native</td>
+<td>...</td>
+<td>36,000</td>
+<td>...</td>
+<td>4.3</td>
+</tr>
+<tr>
+<td>Wild</td>
+<td>...</td>
+<td>26,000</td>
+<td>...</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Total</td>
+<td></td>
+<td><u>847,000</u></td>
+<td></td>
+<td><u>100.0</u></td>
+</tr>
+</tbody>
+</table>
+
+During the last few years, resting, a better knowledge of the effects of various tapping systems, increased cultivation and conservation of surface soil have increased the yield and probably prolonged the productive life of the estate rubber tree. By far the most important development, however, has been the planting of high-yielding material by means of bud-grafting; the area under budded rubber is unknown, but probably does not exceed 5 per cent. of the total planted area.
+
+Owing to the low price of rubber many estates are now harvesting a restricted crop; more will restrict during 1931; but a considerable number may find it necessary to harvest a full crop. Dutch native output had declined largely owing to the disappearance of markets in the relatively inaccessible districts and to lack of hired labour at the current prices, but will again increase when the price rises. The output of Malayan native rubber during 1930, for which so far there has always been a market, has been maintained at about the 1929 level, although during the last three months it has shown a tendency to fall off; any falling off will be due to depletion of bark reserves.
+
+The absorption of rubber by manufactures (*i.e.*, the quantities of rubber they turn into rubber goods) was 85,000 tons in 1910, 150,000 tons in 1915, 310,000 tons in 1920, 560,000 tons in 1925, 790,000 tons (adjusted figure) in 1929, and will be approximately 705,000 tons in 1930.
+
+The absorption by manufacturers in the United States is given monthly by the Rubber Manufacturers' Association of America; similar data are not available for other countries, but their absorption can be measured approximately by their nett imports, adjusted in the case of the United Kingdom for variation in the stocks in public warehouses in London and Liverpool.
+
+The absorption of the principal manufacturing countries for the years 1920, 1925, 1929, and 1930 (preliminary figures) are as follows :
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1920.<br/>Tons.</th>
+<th>1925.<br/>Tons.</th>
+<th>1929.<br/>Tons.</th>
+<th>1930.<br/>Tons.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>United States</td>
+<td>215,000</td>
+<td>390,000</td>
+<td>470,000</td>
+<td>380,000</td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td>24,000</td>
+<td>30,000</td>
+<td>72,000</td>
+<td>74,000</td>
+</tr>
+<tr>
+<td>France</td>
+<td>16,000</td>
+<td>34,000</td>
+<td>62,000</td>
+<td>67,000</td>
+</tr>
+<tr>
+<td>Germany</td>
+<td>13,000</td>
+<td>34,000</td>
+<td>49,000</td>
+<td>46,000</td>
+</tr>
+<tr>
+<td>Italy</td>
+<td>6,000</td>
+<td>11,000</td>
+<td>16,000</td>
+<td>15,000</td>
+</tr>
+<tr>
+<td>Russia</td>
+<td>—</td>
+<td>8,000</td>
+<td>13,000</td>
+<td>17,000</td>
+</tr>
+<tr>
+<td>Belgium</td>
+<td>3,000</td>
+<td>3,000</td>
+<td>9,000</td>
+<td>11,000</td>
+</tr>
+<tr>
+<td>Scandinavia</td>
+<td>2,000</td>
+<td>3,000</td>
+<td>5,000</td>
+<td>7,000</td>
+</tr>
+<tr>
+<td>Canada</td>
+<td>12,000</td>
+<td>20,000</td>
+<td>36,000</td>
+<td>29,000</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td>6,000</td>
+<td>13,000</td>
+<td>34,000</td>
+<td>32,000</td>
+</tr>
+<tr>
+<td>Australia</td>
+<td>3,000</td>
+<td>5,000</td>
+<td>16,000</td>
+<td>5,000</td>
+</tr>
+<tr>
+<td>Other countries</td>
+<td>10,000</td>
+<td>9,000</td>
+<td>23,000</td>
+<td>12,000</td>
+</tr>
+<tr>
+<td>Total</td>
+<td><u>310,000</u></td>
+<td><u>560,000</u></td>
+<td><u>805,000</u></td>
+<td><u>705,000</u></td>
+</tr>
+</tbody>
+</table>
+
+For the years 1928 and 1929 a further adjustment (estimated roughly at 15,000 tons) is necessary to allow for the obvious variation in the stock of crude rubber in the hands of manufacturers outside the United States.
+
+The absorption of rubber has shown considerable fluctuation about its trend during the last twenty years which have probably been of greater amplitude than those shown by the real consumption of rubber. Stocks of manufactured goods, including the unused tyre mileage on automobiles, must, therefore, have shown considerably annual fluctuations during the last twenty years—a matter of considerable importance when considering stocks of crude rubber.
+
+The data both for supplies and deliveries of crude rubber are reasonably complete and reliable, but the data giving the world stocks are very incomplete. Such data as exist, however, indicate that under normal conditions of production, stocks of crude rubber in producing countries and quantities afloat represent mainly working stocks and are not likely to show much fluctuation beyond that due to seasonal variations in output. The only important stocks in manufacturing countries are those in public warehouses in London and Liverpool and in the United States. The stocks in the hands of manufacturers in the United States have usually been between 60 and 80 per cent. of the total United States stocks. The stocks in London and Liverpool are the main reservoirs of immediately available rubber and have accordingly shown large fluctuations during the last twenty years.
+
+The total world stocks, declared and undeclared, at any time must be considered in relation to the monthly world absorption at that time and the ratio of the former to the latter has varied from  $5\frac{1}{2}$  to 11 during the past two years and has shown even greater fluctuation in the past. A total world stock equivalent to about six months' absorption is usually regarded as necessary for the smooth working of the industry.
+
+=== MENTIONS (46) ===
+type	text	norm	role
+COMMODITY	rubber	rubber	main subject of the paper
+COMMODITY	rubber	rubber	traded product
+GROUP	American	American	producers
+GROUP	Americans	Americans	estate owners
+GROUP	Asiatic Estate	Asiatic Estate	producers
+GROUP	Asiatics	Asiatics	rubber planters
+GROUP	British : Local	British (Local)	producers
+GROUP	British : U.K.	British (U.K.)	producers
+GROUP	Dutch	Dutch	producers
+GROUP	Dutch	Dutch	native output
+GROUP	Europeans	Europeans	rubber planters
+GROUP	Malayan	Malayan	native rubber
+GROUP	Malayan Native	Malayan Native	producers
+GROUP	N.E.I. Native	N.E.I. Native	producers
+GROUP	natives	natives	rubber producers
+GROUP	Other European	Other European	producers
+GROUP	Other Native	Other Native	producers
+ORG	Messrs. Harrisons and Crosfield, Limited	Harrisons and Crosfield, Limited	affiliation of Dr. George Rae
+ORG	Midland Section of the Institution of the Rubber Industry	Midland Section of the Institution of the Rubber Industry	audience for the paper
+ORG	Rubber Manufacturers' Association of America	Rubber Manufacturers' Association of America	data provider
+PERSON	Dr. George Rae	George Rae	speaker, D.Sc.
+PLACE	Australia	Australia	manufacturing country
+PLACE	Belgium	Belgium	manufacturing country
+PLACE	Birmingham	Birmingham	location of paper delivery
+PLACE	British N. Borneo	British North Borneo	producing country
+PLACE	Canada	Canada	manufacturing country
+PLACE	Ceylon	Ceylon	producing country
+PLACE	Dutch East Indies	Dutch East Indies	producing country
+PLACE	France	France	manufacturing country
+PLACE	French Indo-China	French Indochina	producing country
+PLACE	Germany	Germany	manufacturing country
+PLACE	India	India	producing country
+PLACE	Italy	Italy	manufacturing country
+PLACE	Japan	Japan	manufacturing country
+PLACE	Liverpool	Liverpool	public warehouses
+PLACE	London	London	public warehouses
+PLACE	Malaya	Malaya	producing country
+PLACE	Netherlands E. Indies	Dutch East Indies	producing country
+PLACE	Russia	Russia	manufacturing country
+PLACE	Sarawak	Sarawak	producing country
+PLACE	Scandinavia	Scandinavia	manufacturing region
+PLACE	Siam	Siam	producing country
+PLACE	United Kingdom	United Kingdom	manufacturing country
+PLACE	United States	United States	manufacturing country
+PUBLICATION	The India Rubber Journal	The India Rubber Journal	source of the paper
+TAXON	rubber tree	Hevea brasiliensis	estate rubber tree

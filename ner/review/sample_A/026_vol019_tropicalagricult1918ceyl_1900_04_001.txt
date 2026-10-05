@@ -1,0 +1,232 @@
+ID: vol019_tropicalagricult1918ceyl#1900-04#001
+ISSUE: 1900-04  VOL: 19  SECTION: 
+TITLE: A SKETCH OF THE HISTORY OF INDIAN BOTANY.\*
+BYLINE: BY SIR GEORGE KING, K.C.I.E. LL.D. M.B. F.R.S.
+WORDS: 3424  PAGES: ['649', '650', '651', '652']
+IA: https://archive.org/details/tropicalagricult1918ceyl/page/n676/mode/1up
+
+=== TEXT ===
+### A SKETCH OF THE HISTORY OF INDIAN BOTANY.\*
+
+BY SIR GEORGE KING, K.C.I.E. LL.D. M.B. F.R.S.
+
+![A decorative initial letter 'T' in a large, ornate, blackletter font, surrounded by intricate floral and scrollwork patterns. The letter is set within a rectangular frame with a double-line border.](727421471a404211c59f87fd6abc2e05_7_img.webp)
+
+THE earliest reference in literature to Indian plants are, of course, those which occur in the Sanskrit classics. These are, however, for the most part, vague and obscure. The interest which these references have great as it may be, is not scientific, and they may therefore be omitted from consideration on the present occasion. The Portuguese, who were the first Europeans to appear in India as conquerors and settlers, did practically nothing in the way of describing the plants of their Eastern possessions. And the first contribution to the knowledge of the Botany of what is now British India was made by the Dutch in the shape of the 'Hortus Malabaricus,' which was undertaken at the instance of Van Rheede, governor of the territory of Malabar, which during the latter half of the seventeenth century had become a possession of Holland. This book, which is in twelve folio volumes and is illustrated by 794 plates, was published at Amsterdam between the years 1686 and 1703, under the editorship of the distinguished Botanist Commelyn. Van Rheede was himself only a Botanical amateur, but he had a great love of plants and most enlightened ideas as to the value of a correct and scientific knowledge of them. The 'Hortus Malabaricus' was based on specimens collected by Brahmins, on drawings of many of the species made by Mathæus, a Carmelite missionary at Cochin, and on descriptions originally drawn up in the vernacular language of Malabar, which were afterwards translated into Portuguese by Corneiro, a Portuguese official in Cochin, and from that language finally done into Latin by Van Douet. The whole of these operations were carried on under the general superintendence of Casearius, a missionary at Cochin. Of this most interesting work the plates are the best part; in fact, some of these are so good that there is no difficulty in identifying them with the species which they are intended to represent. The next important contribution to the Botanical literature of Tropical Asia deals rather with the plants of Dutch than of British India. It was the work of George Everhard Rumph (a native of Hanover), a physician and merchant, who for some time was Dutch consul at Amboina. The materials for this book were collected mainly by Rumphius himself, and the Latin descriptions and the drawings (of which there are over one thousand) were his own work. The book was completed in 1690, but it remained unpublished during the author's lifetime. Rumph died at Amboina in 1706, and his manuscript, after lying for thirty years in the hands of the Dutch East India Company, was rescued from oblivion by Professor John Burman, of Amsterdam (commonly known as the elder Burman), and was published under the title of 'Herbarium Amboinense,' in seven folio volumes, between the years 1741 and 1755. The illustrations of this work cover over a thousand species, but they are printed on 696 plates. These illustrations are as much inferior to those of Van Rheede's book as the descriptions are superior to those of the latter. The works of Plukenet, published in London between 1696 and 1705, in quarto, contain figures of a number of Indian plants which, although small in size, are generally good portraits, and therefore deserve mention in an enumeration of botanical books connected with British India. An account of the plants of Ceylon, under the name 'Thesaurus Zeylanicus,' was published in 1737 by John Burman (the elder Burman), and in this work many of the plants which are common to that island and to Peninsular India are
+
+\* From the Report of the Sixty-ninth Meeting of the British Association for the Advancement of Science held at Dover in September, 1899.
+
+described. Burman's book was founded on the collections of Paul Hermann, who spent seven years (from 1670 to 1677) exploring the Flora of Ceylon at the expense of the Dutch East India Company. The nomenclature of the five books already mentioned is all uni-nominal.
+
+Hermann's Cingalese collection fell, however, sixty years after the publication of Burman's account of it, into the hands of Linnæus, and that great systematist published in 1747 an account of such of the species as were adequately represented by specimens, under the title 'Flora Zeylanica.' This Hermann Herbarium, consisting of 600 species, may still be consulted at the British Museum, by the trustees of which institution it was acquired, along with many of the other treasures possessed by Sir Joseph Banks. Linnæus's 'Flora Zeylanica' was followed in 1766 by the 'Flora Indica' of Nicholas Burman (the younger Burman)—an inferior production, in which about 1,500 species are described. The Herbarium on which this 'Flora Indica' was founded now forms part of the great Herbarium Delessert at Geneva.
+
+The active study of Botany on the binominal system of nomenclature invented by Linnæus was initiated in India itself by Koenig, a pupil of that great reformer and systematist. It will be convenient to divide the subsequent history of Botanic science in India into two periods, the first extending from Koenig's arrival in India in 1768 to Sir Joseph Hooker's arrival in 1848; and the second from the latter date to the present day.
+
+The pioneer John Gerard Koenig was a native of the Baltic province of Courland. He was a correspondent of Linnæus, whose pupil he had formerly been. Koenig went out to the Danish Settlement at Tranquebar (150 miles south of Madras) in 1768, and at once began the study of Botany with all the fervour of an enthusiast which he succeeded in imparting to various correspondents who were then settled near him in Southern India. These friends formed themselves into a society under the name of 'The United Brothers,' the chief object of their union being the promotion of Botanical study. Three of these brothers, viz. Heyne, Klein and Rottler, were missionaries located near Tranquebar. Gradually the circle widened, and before the century closed, the enthusiasm for Botanic research had spread to the younger Presidency of Bengal, and the number of workers had increased to about twelve, among whom may be mentioned Fleming, Hunter, Anderson Berry, John, Roxburgh, Buchanan (afterwards Buchanan-Hamilton), and Sir William Jones, so well known as an Oriental scholar. At the first it was the custom of this brotherhood merely to exchange specimens, but gradually names began to be given, and specimens, both named unnamed, began to be sent to Botanists of established reputation in Europe. Many plants of Indian origin came thus to be described by Retz, Roth, Schrader, Wildenow, Vahl, and Smith. Rottler was the only member of the band who himself published in Europe descriptions of any of the new species of his own collecting, and these appeared in the 'Nova Acta Acad. Nat. Curiosorum' of Berlin. A little later Sonnerat and other Botanists of the French Settlement at Pondicherry sent large collections of plants to Paris, and these were followed at a considerably latter date by the collections of Leschenault. These French collections were described chiefly by Lamarck and Poiret. Hitherto Botanical work in India had been more or less desultory, and it was not until the establishment in 1787 of the Botanic Garden at Calcutta that a recognised centre of Botanical activity was established in British India. Robert Kyd, the founder of that Garden, was more of a gardener than a Botanist. He was, however, a man of much energy and shrewdness. The East India Company was still in 1787 a trading company, and a large part of their most profitable business was derived from the nutmegs and other spices exported from their settlements in Penang, Malacca, Amboina, Sumatra, and other islands of the Malayan Archipelago. The Company were also in those days the owners of
+
+a fine fleet of sailing vessels, and the teak of which these ships were built had to be obtained from sources outside the Company's possessions. The proposal to found a Botanic Garden near Calcutta was thus recommended to the Governor of the Company's settlements in Bengal on the ground that, by its means, the cultivation of teak and of the Malayan spices might be introduced into a province near one of the Company's chief Indian centres. Kyd, as a Lieutenant-Colonel of the Company's engineers and as Secretary to the Military Board at Calcutta, occupied a position of considerable influence, and his suggestion evidently fell on no unwilling ears; for the Government of Bengal, with the promptitude to accept and to act on good advice in scientific and semi-scientific matters which has characterised them from the day of Kyd until now, lost no time in taking steps to find a site for the proposed garden. Colonel Kyd's official proposal was dated June 1, 1786 and, in a despatch dated August 2, Calcutta Government recommended Kyd's proposal to the Court of Directors in London. Posts were slow and infrequent in those days, and the Calcutta Government were impatient. They did not wait for a reply from Leadenhall Street, but in the following July they boldly secured the site recommended by Colonel Kyd. This site covered an area of 300 acres, and the whole of it with the exception of thirty acres which were subsequently given up to Bishop Middleton for an English college, still continues under cultivation as a Botanic Garden. Kyd died in 1793, and in the same year his place as Superintendent of the Garden was taken by Dr. William Roxburgh, a young Botanical enthusiast, and one of Koenig's 'United Brotherhood.' Roxburgh had studied Botany in Edinburgh, where he was a favourite pupil of Dr. Hope. Desirous of seeing something of foreign countries, he made several voyages to Madras in ships belonging to the Honourable East India Company. In 1776 he accepted an appointment in the Company's Medical Establishment, and was posted to the town of Madras, where he very soon made the acquaintance of Koenig. Roxburgh was shortly after transferred to a remote district, a good deal to the north of Madras, then named the Northern Circars. The station of Samal-cotta, which formed Roxburgh's headquarters during his sojourn in the Circars, stands on the edge of a hilly region possessing a very interesting Flora, and this Flora, he explored with the greatest ardour; and as part of the result of his labours an account some of the most interesting of its plants was published in London, at the East India Company's expense, in three large folio volumes under the title 'The plants of the Coast of Coromandel.' This was Roxburgh's earliest publication on a large scale. The first part of this book appeared in 1795, and the last not until 1819, i.e. five years after the author's death. The increased facilities afforded to Roxburgh after his transfer to a comparatively well-equipped institution like that at Calcutta induced him at once to begin the preparation of descriptions of all the plants indigenous to British India of which he could procure specimens. And so diligently did he work that, when he was finally driven from India by ill-health in 1813, he left complete and ready for publication the manuscripts of his 'Flora Indica' and of his 'Hortus Bengalensis' (the latter being an enumeration of the plants in cultivation in the Calcutta Garden). He also left admirable coloured drawings (mostly of natural size) of 2,533 species of plants indigenous to India. Seldom have twenty years yielded so rich a Botanical harvest! Dr. Roxburgh was thus the first Botanist who attempted to draw up a systematic account of the plants of India, and his book, which is on the Linnæan system, is the basis of all subsequent works on Indian Botany; and until the publication of Sir Joseph Hooker's monumental 'Flora of British India' it remained the only single book through which a knowledge of Indian plants could be acquired. Roxburgh was immediately succeeded in the Calcutta Garden by Dr. Buchanan, Hamilton, a man of many accomplishments, who had travelled from Nepal in the North to Ava and
+
+Mysore in the South, accumulating materials for a Gazetteer of the Honourable Company's possessions. Dr. Buchanan was a Zoologist as well as a Botanist. He had published a valuable account of Mysore, Canara, and Malabar, and had collected materials for a work on the Fishes of India, besides having accumulated a large Herbarium, part of which may now be consulted at the University of Edinburgh. Prior to his death Buchanan-Hamilton had begun to write a learned commentary on Van Rheede's 'Hortus Malabaricus.' Many of his Nepalese collections were described in 1825 (a few years before his own death) by Don in his 'Prodromus Floræ Nepalensis.' Buchanan-Hamilton remained only one year at Calcutta, and in 1815 he was succeeded by Nathaniel Wallich, a native of Copenhagen, who, prior to his appointment to the Calcutta Garden, had been attached as surgeon to the Danish settlement at Serampore, twenty miles higher up the Hooghly. Wallich remained Superintendent of the Calcutta Garden for thirty years. In 1846 he went to England, and in 1854 he died. During his tenure of office in the Calcutta Garden, Wallich organised collecting expeditions to the then little-known regions of Kamaon and Nepal (in the Himalaya), to Oudh, Rohilcund, Sylhet, Tenasserim, Penang, and Singapore. He personally undertook in fact a botanical survey of a large part of the Company's possessions in India. The vast materials thus collected under his own immediate direction, and the various contributions made by others, were taken to London by him in 1828. With these were subsequently incorporated the collections of Russell, Klein, Heyne, Rottler, Buchanan-Hamilton, and Roxburgh. And by the help of a band of distinguished European Botanists, among whom may be named De Candolle, Kunth, Lindley, Meissner, Nees von Esenbeck, Von Martius, and Bentham (the latter in a very special manner), this vast mass of material was classified and named specifically. A catalogue of the collection was prepared by Wallich himself (largely aided by Bentham), and sets of the named specimens were distributed to the leading Botanical institutions in Europe, every example of each species bearing the same number. No description of the whole collection was ever attempted, but many of the plants belonging to it were subsequently described in various places and at various times. So extensive was the Wallichian distribution that, amongst the names and synonyms of tropical Asiatic plants, no citation is more frequent in Botanical books than that of the contraction 'Wall. Cat.' Besides the naming and distribution of this gigantic collection, Wallich prepared and published, at the expense of the same liberal and enlightened East India Company, his 'Plantæ Asiaticæ Rariiores,' in three folio volumes with 300 coloured plates. He also contributed to an edition of Roxburgh's 'Flora Indica,' which was begun by the celebrated Dr. Carey of Serampore, descriptions of many plants of his own collecting. But the task of publishing his discoveries in this way proved beyond his powers, as it would have proved beyond those of any one who had only 365 days to his year, and less than a hundred years as his term of life! Carey and Wallich's edition of Roxburgh's 'Flora Indica' was brought to an untimely conclusion at the end of the *Pentandria Monogynia* of Linnaeus. Wallich also began an illustrated account of the Flora of Nepal under the title 'Tentamun Floræ Napalensis.' But this also came to a premature end with the publication of its second part.
+
+During much of the time that Wallich was labouring in Northern India, Robert Wight; a botanist of remarkable sagacity and of boundless energy, was labouring in Southern India, chiefly in parts of the Peninsula different from those in which Koenig and his band had worked. Wight was never liberally supported by the Government of Madras, and it was mostly by his own efforts and from his own resources that his collections were made, and that his Botanical works were published. The chief of the latter is his 'Icones Plantarum.' This book consists of figures with des-
+
+criptions of more than two thousand Indian species. A good many of the plates are indeed copies from the suite of drawings already referred to as having been made at Calcutta by Dr. Roxburgh. The rest are from drawings made by native artists under his personal supervision. Ample evidence of the extraordinary energy of Dr. Wight is afforded by the facts that, although he had to teach the native artists whom he employed both to draw and to lithograph, the two thousand *Icones* which he published and described were issued during the short period of thirteen years, and that during the whole of this time he performed his official duties.
+
+Besides this *magnum opus* Wight published his *Spicilegium Nilghirense* in two vols. quarto, with 200 coloured plates. And between 1840 and 1850 he issued in two vols. quarto, with 200 plates, another book named 'Illustrations of Indian Botany,' the object of which was to give figures and fuller descriptions of some of the chief species described in a systematic book of the highest Botanical merit, which he prepared conjointly with Dr. G. A. Walker-Arnot, Professor of Botany in the University of Glasgow, and which was published under the title 'Prodromus Floræ Peninsulæ Indicæ.' The 'Prodromus' was the first attempt at a Flora of any part of India in which the natural system of classification was followed. Owing to various causes, this work was never completed, and this splendid fragment of a Flora of Peninsular India ends with the natural order *Dipsacæ*.
+
+The next great Indian botanist whose labours demand our attention is William Griffith. Born in 1810, sixteen years after Wight, and twenty-four years later than Wallich, Griffith died before either. But the labours even of such devotees to science as were these two are quite eclipsed by those of this most remarkable man. Griffith's Botanical career in India was begun in Tenasserim. From thence he made Botanical expeditions to the Assam valley, exploring the Mishmi, Khasia, and Naga ranges. From the latter he passed by a route never since traversed by a Botanist, through the Hookung valley down the Irrawadi to Rangoon. Having been appointed, soon after his arrival in Rangoon, surgeon to Pemberton's Embassy to Bhotan, he explored part of that country, and also sent collectors into the neighbouring one of Sikkim. At the conclusion of this exploration he was transferred to the opposite extremity of the Northern frontier, and was posted to the Army of the Indus. After the subjugation of Cabul, he penetrated to Khorassan. Subsequently he visited the portion of the Himalaya of which Simla is now the best-known spot. He then made a run down the Nerbudda valley in Central India, and finally appeared in Malacca as Civil Surgeon of that Settlement. At the latter place he soon died of an abscess of the liver brought on by the hardships he had undergone on his various travels, which were made under conditions most inimical to health, in countries then absolutely unvisited by Europeans. No Botanist ever made such extensive explorations, nor himself collected so many species (9,000), as Griffith did during the brief thirteen years of his Indian career; none ever made so many field notes or wrote so many descriptions of plants from living specimens. His Botanical predecessors and contemporaries were men of ability and of devotion. Griffith was a man of genius. He did not confine himself to the study of flowering plants, nor to the study of them from the point of view of their place in any system of classification. He also studied their morphology. The difficult problems in the latter naturally had most attraction for him, and we find him publishing, in the 'Linnæan Transactions,' the results of his researches on the ovule in *Santalum*, *Loranthus*, *Viscum*, and *Cycas*. Griffith was also a cryptogamist. He collected, studied, and wrote much on Mosses, Liverworts, *Marsiliaceæ*, and Lycopods, and he made hundreds of drawings to illustrate his microscopic observations. Wherever he travelled he made sketches of the most striking features in the scenery. His
+
+habit of making notes was inveterate; and his itinerary diaries are full of information not only on the Botany, but also on the zoology, physical geography, meteorology, archaeology, and agriculture of the countries through which he passed. His manuscripts and drawings, although left in rather a chaotic state, were published after his death under the editorship of Dr. McClelland, at the expense of the enlightened and ever-liberal East India Company. They occupy six volumes in octavo, four in quarto, and one (a 'Monograph of Palms') in folio.
+
+Another Botanist of much fame, who died prematurely in 1822, after an Indian career of only nine years, was Dr. William Jack. In 1814-15 Jack accompanied Ochterlony's army to the Nepal terai. He was transferred in 1818 to the Company's Settlement in Sumatra under Sir Stamford Raffles, and during the four years of his residence in Sumatra he contributed to Botanical literature descriptions of many new genera and species which were published in his 'Malayan Miscellanies.' His collections, unfortunately, were for the most part lost by an accident, but those which were saved are now in the Herbarium Delessert in Geneva.
+
+(To be continued.)
+
+=== MENTIONS (186) ===
+type	text	norm	role
+COMMODITY	nutmegs	nutmegs	spice
+COMMODITY	teak	teak	timber
+GROUP	Brahmins	Brahmins	collectors of specimens
+GROUP	Dutch	Dutch	
+GROUP	Nepalese	Nepalese	origin of collections
+GROUP	Portuguese	Portuguese	first Europeans in India
+GROUP	Sanskrit	Sanskrit	language/classics
+ORG	Army of the Indus	Army of the Indus	military unit
+ORG	Botanic Garden at Calcutta	Botanic Garden at Calcutta	centre of Botanical activity
+ORG	British Museum	British Museum	
+ORG	Calcutta Garden	Calcutta Garden	institution
+ORG	Dutch East India Company	Dutch East India Company	
+ORG	East India Company	East India Company	trading company
+ORG	East India Company	East India Company	funding body
+ORG	Government of Madras	Government of Madras	government body
+ORG	Herbarium Delessert	Herbarium Delessert	herbarium at Geneva
+ORG	Herbarium Delessert	Herbarium Delessert	herbarium
+ORG	Ochterlony's army	Ochterlony's army	military unit
+ORG	Pemberton's Embassy	Pemberton's Embassy	diplomatic mission
+ORG	The United Brothers	The United Brothers	society for the promotion of Botanical study
+ORG	University of Edinburgh	University of Edinburgh	location of Herbarium
+ORG	University of Glasgow	University of Glasgow	institution
+PERSON	Anderson Berry	Anderson Berry	botanist
+PERSON	Bentham	Bentham	Botanist
+PERSON	Bishop Middleton	Bishop Middleton	
+PERSON	Buchanan	Hamilton Buchanan	botanist
+PERSON	Buchanan-Hamilton	Buchanan-Hamilton	author of commentary on Hortus Malabaricus
+PERSON	Casearius	Casearius	missionary at Cochin
+PERSON	Commelyn	Commelyn	editor
+PERSON	Corneiro	Corneiro	Portuguese official in Cochin
+PERSON	De Candolle	De Candolle	Botanist
+PERSON	Don	Don	author of Prodromus Floræ Nepalensis
+PERSON	Dr. Buchanan	Dr. Buchanan	Zoologist and Botanist
+PERSON	Dr. Buchanan, Hamilton	Hamilton Buchanan	Superintendent of the Calcutta Garden
+PERSON	Dr. Carey	Dr. Carey	of Serampore
+PERSON	Dr. G. A. Walker-Arnot	Dr. G. A. Walker-Arnot	Professor of Botany in the University of Glasgow
+PERSON	Dr. Hope	Dr. Hope	botanist in Edinburgh
+PERSON	Dr. McClelland	Dr. McClelland	editor
+PERSON	Dr. William Jack	Dr. William Jack	Botanist
+PERSON	Dr. William Roxburgh	William Roxburgh	Superintendent of the Garden
+PERSON	Fleming	Fleming	botanist
+PERSON	George Everhard Rumph	George Everhard Rumph	physician and merchant, Dutch consul at Amboina
+PERSON	Heyne	Heyne	missionary
+PERSON	Heyne	Heyne	collector
+PERSON	Hunter	Hunter	botanist
+PERSON	John	John	botanist
+PERSON	John Burman	John Burman	Professor of Amsterdam
+PERSON	John Gerard Koenig	John Gerard Koenig	pioneer botanist
+PERSON	Klein	Klein	missionary
+PERSON	Klein	Klein	collector
+PERSON	Koenig	John Gerard Koenig	pupil of Linnæus
+PERSON	Koenig	Koenig	botanist
+PERSON	Kunth	Kunth	Botanist
+PERSON	Lamarck	Lamarck	botanist
+PERSON	Leschenault	Leschenault	collector
+PERSON	Lindley	Lindley	Botanist
+PERSON	Linnaeus	Linnaeus	classifier
+PERSON	Linnæus	Carl Linnaeus	systematist
+PERSON	Mathæus	Mathæus	Carmelite missionary at Cochin
+PERSON	Meissner	Meissner	Botanist
+PERSON	Nathaniel Wallich	Nathaniel Wallich	Superintendent of the Calcutta Garden
+PERSON	Nees von Esenbeck	Nees von Esenbeck	Botanist
+PERSON	Nicholas Burman	Nicholas Burman	botanist
+PERSON	Paul Hermann	Paul Hermann	explorer of the Flora of Ceylon
+PERSON	Plukenet	Plukenet	botanist
+PERSON	Poiret	Poiret	botanist
+PERSON	Retz	Retz	botanist
+PERSON	Robert Kyd	Robert Kyd	founder of the Garden
+PERSON	Robert Wight	Robert Wight	botanist
+PERSON	Roth	Roth	botanist
+PERSON	Rottler	Rottler	missionary
+PERSON	Rottler	Rottler	collector
+PERSON	Roxburgh	William Roxburgh	botanist
+PERSON	Roxburgh	Roxburgh	collector
+PERSON	Russell	Russell	collector
+PERSON	Schrader	Schrader	botanist
+PERSON	Sir George King	Sir George King	author
+PERSON	Sir Joseph Banks	Sir Joseph Banks	
+PERSON	Sir Joseph Hooker	Sir Joseph Hooker	
+PERSON	Sir Stamford Raffles	Sir Stamford Raffles	administrator
+PERSON	Sir William Jones	Sir William Jones	Oriental scholar
+PERSON	Smith	Smith	botanist
+PERSON	Sonnerat	Sonnerat	botanist
+PERSON	Vahl	Vahl	botanist
+PERSON	Van Douet	Van Douet	translator
+PERSON	Van Rheede	Van Rheede	governor of the territory of Malabar
+PERSON	Van Rheede	Van Rheede	author of Hortus Malabaricus
+PERSON	Von Martius	Von Martius	Botanist
+PERSON	Wildenow	Wildenow	botanist
+PERSON	William Griffith	William Griffith	botanist
+PLACE	Amboina	Amboina	
+PLACE	Amsterdam	Amsterdam	place of publication
+PLACE	Assam valley	Assam valley	region of expedition
+PLACE	Ava	Ava	
+PLACE	Bengal	Bengal	Presidency
+PLACE	Berlin	Berlin	
+PLACE	Bhotan	Bhotan	country
+PLACE	British India	British India	
+PLACE	Cabul	Cabul	city
+PLACE	Calcutta	Calcutta	
+PLACE	Calcutta	Calcutta	
+PLACE	Canara	Canara	
+PLACE	Central India	Central India	region
+PLACE	Ceylon	Ceylon	
+PLACE	Cochin	Cochin	
+PLACE	Copenhagen	Copenhagen	place of birth
+PLACE	Courland	Courland	Baltic province
+PLACE	Edinburgh	Edinburgh	
+PLACE	England	England	
+PLACE	Geneva	Geneva	
+PLACE	Geneva	Geneva	city
+PLACE	Hanover	Hanover	place of birth
+PLACE	Himalaya	Himalaya	mountain range
+PLACE	Holland	Holland	
+PLACE	Hooghly	Hooghly	river
+PLACE	Hookung valley	Hookung valley	valley
+PLACE	India	India	
+PLACE	India	India	
+PLACE	Irrawadi	Irrawadi	river
+PLACE	Kamaon	Kamaon	region of expedition
+PLACE	Khasia	Khasia	range
+PLACE	Khorassan	Khorassan	region
+PLACE	London	London	
+PLACE	London	London	
+PLACE	Madras	Madras	
+PLACE	Malabar	Malabar	territory
+PLACE	Malabar	Malabar	
+PLACE	Malacca	Malacca	
+PLACE	Malacca	Malacca	settlement
+PLACE	Malayan Archipelago	Malayan Archipelago	
+PLACE	Mishmi	Mishmi	range
+PLACE	Mysore	Mysore	region in the South
+PLACE	Naga	Naga	range
+PLACE	Nepal	Nepal	
+PLACE	Nepal	Nepal	region of expedition
+PLACE	Nepal terai	Nepal terai	region
+PLACE	Nerbudda valley	Nerbudda valley	valley
+PLACE	Northern Circars	Northern Circars	district
+PLACE	Oudh	Oudh	region of expedition
+PLACE	Paris	Paris	
+PLACE	Penang	Penang	
+PLACE	Penang	Penang	region of expedition
+PLACE	Peninsular India	Peninsular India	
+PLACE	Peninsular India	Peninsular India	region
+PLACE	Pondicherry	Pondicherry	French Settlement
+PLACE	Rangoon	Rangoon	city
+PLACE	Rohilcund	Rohilcund	region of expedition
+PLACE	Samal-cotta	Samal-cotta	station
+PLACE	Serampore	Serampore	Danish settlement
+PLACE	Sikkim	Sikkim	country
+PLACE	Simla	Simla	town
+PLACE	Singapore	Singapore	region of expedition
+PLACE	Southern India	Southern India	
+PLACE	Southern India	Southern India	region of work
+PLACE	Sumatra	Sumatra	
+PLACE	Sumatra	Sumatra	island
+PLACE	Sylhet	Sylhet	region of expedition
+PLACE	Tenasserim	Tenasserim	region of expedition
+PLACE	Tranquebar	Tranquebar	Danish Settlement
+PUBLICATION	Flora Indica	Flora Indica	botanical work
+PUBLICATION	Flora Indica	Flora Indica	book
+PUBLICATION	Flora of British India	Flora of British India	botanical work
+PUBLICATION	Flora Zeylanica	Flora Zeylanica	botanical work
+PUBLICATION	Herbarium Amboinense	Herbarium Amboinense	botanical work
+PUBLICATION	Hortus Bengalensis	Hortus Bengalensis	botanical work
+PUBLICATION	Hortus Malabaricus	Hortus Malabaricus	botanical work
+PUBLICATION	Hortus Malabaricus	Hortus Malabaricus	book
+PUBLICATION	Icones Plantarum	Icones Plantarum	book
+PUBLICATION	Illustrations of Indian Botany	Illustrations of Indian Botany	book
+PUBLICATION	Linnæan Transactions	Linnæan Transactions	journal
+PUBLICATION	Malayan Miscellanies	Malayan Miscellanies	book
+PUBLICATION	Monograph of Palms	Monograph of Palms	book
+PUBLICATION	Nova Acta Acad. Nat. Curiosorum	Nova Acta Acad. Nat. Curiosorum	journal of Berlin
+PUBLICATION	Plantæ Asiaticæ Rariiores	Plantæ Asiaticæ Rariiores	book
+PUBLICATION	Prodromus Floræ Nepalensis	Prodromus Floræ Nepalensis	book
+PUBLICATION	Prodromus Floræ Peninsulæ Indicæ	Prodromus Floræ Peninsulæ Indicæ	book
+PUBLICATION	Spicilegium Nilghirense	Spicilegium Nilghirense	book
+PUBLICATION	Tentamun Floræ Napalensis	Tentamun Floræ Napalensis	book
+PUBLICATION	The plants of the Coast of Coromandel	The plants of the Coast of Coromandel	botanical work
+PUBLICATION	Thesaurus Zeylanicus	Thesaurus Zeylanicus	botanical work
+PUBLICATION	Wall. Cat.	Wall. Cat.	catalogue citation
+TAXON	Cycas	Cycas	plant genus
+TAXON	Loranthus	Loranthus	plant genus
+TAXON	Marsiliaceæ	Marsiliaceæ	plant family
+TAXON	Santalum	Santalum	plant genus
+TAXON	Viscum	Viscum	plant genus

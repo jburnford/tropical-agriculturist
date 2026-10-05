@@ -1,0 +1,175 @@
+ID: vol049_iss05_tropical-agriculturist-1917-11-49-5#1917-11#008
+ISSUE: 1917-11  VOL: 49  SECTION: RUBBER.
+TITLE: THE PREPARATION OF PLANTATION PARA RUBBER WITH SPECIAL REFERENCE TO FUTURE CONSIDERATIONS.
+BYLINE: B. J. EATON, F.I.C., F.C.S.,
+WORDS: 3376  PAGES: ['265', '266', '267', '268', '269', '270', '271']
+IA: https://archive.org/details/tropical-agriculturist_1917-11_49_5/page/n16/mode/1up
+
+=== TEXT ===
+## THE PREPARATION OF PLANTATION PARA RUBBER WITH SPECIAL REFERENCE TO FUTURE CONSIDERATIONS.
+
+B. J. EATON, F.I.C., F.C.S.,
+
+*Agricultural Chemist, F.M.S.*
+
+It is proposed in this paper to submit very briefly the results of the researches on raw rubber manufacture which have been conducted for the past  $2\frac{1}{2}$  years at the Agricultural Department by the writer and his assistants and to consider in what way these results are likely to affect the future methods of preparation of the raw product, having in view both the highest quality of rubber which can be prepared and the manufacturers' requirements, as far as we have been able to obtain information in this respect.
+
+As a starting point two axioms are propounded, with which I think every planter and manufacturer is now in entire agreement.
+
+They are (1) The highest grade of wild rubber, viz., Fine Hard Para, which is the premier raw rubber among wild rubbers, so called, on the market, is very uniform. (2) Plantation Para rubber from the cultivated Hevea is very variable. Arising out of both of these axioms we have now to consider : (a) In what respect is plantation Para rubber variable and how can this variability be remedied ? (b) What are the causes of the variability in the case of the plantation product and what the reason of the uniformity of the product from the uncultivated tree ?
+
+I do not propose to enter into any details as to the researches which have enabled us to elucidate to a considerable extent these important problems, since much has already been published by the writer and his collaborators and since confirmed by other independent workers and in a month or two a special illustrated bulletin will be published giving the details of these researches to date. It is only necessary here to summarize the results obtained and, if further information is required on any special point, this may be probably obtained during the discussion of the paper.
+
+Speaking historically, the remarks expressed by MR. WILLIAMS, Works Superintendent of the North British Rubber Company, one of the leading and most advanced of our British rubber manufacturing firms, especially in the organization of scientific research, will form a suitable text on which to hang this discourse. These remarks which were made at the 4th International Rubber and Allied Trades Congress held in London in July, 1914, were as follows :
+
+"My experience is that quite apart from all questions of strength, the question of the vulcanizing properties of plantation rubber is the greatest trouble the manufacturer has to face. Without efficient control, faulty vulcanization undoubtedly will be responsible for loss of time and money. These troubles, in factories where scientific control is not thoroughly organized, may be sufficient to condemn the use of this grade (that is plantation rubber, B.J.E.) entirely."
+
+Since that date we have travelled far in our knowledge of the vagaries of this wonderful substance and one can say it, with a certain amount of pride, without being egotistical, that the Agricultural Department of the Federated Malay States has had the honour and good fortune of contributing the most important and fundamental researches on the problem.
+
+The above remarks by MR. WILLIAMS constitute the first intimation from the manufacturer of the nature of the variability of plantation rubber. These remarks were confirmed at the same Congress by DR. SCHIDROWITZ in a paper entitled "Variability" in which figures for numerous cases of such variability were published. Independently, later in 1914, our early researches led to the same conclusions: since which we have been able to discover the cause or causes of the variability and many of the contributing factors in connection with estate factory practice which have an influence on variability.
+
+It can therefore in the first place be enunciated that the principal defect of the plantation product is its variable behaviour during vulcanization, or to put it in the technical terms used by the rubber manufacturer, variability in rate of cure or speed of vulcanization.
+
+The remedy, i.e., the method of obtaining uniformity in this respect, can only be attained after a realization of the cause, and the great aim of scientific research is to connect cause and effect in the world of nature. It may however be argued logically, assuming that variability is due chiefly or entirely to methods of preparation rather than to intrinsic differences in the latex on different estates or from different areas or districts, that uniform methods of preparation will ensure uniformity of product, but even so, we are at much greater advantage if we possess a knowledge of the cause, since it may then be essential only to adopt uniform methods in one or two respects. Secondly a knowledge of the cause of variability will enable us possibly to prepare an improved type of the raw product, having realized that our existing methods are entirely empirical and like "Topsy" have merely "grown."
+
+Fortunately a knowledge of the cause of variability deduced from our researches, enables us to state that variable methods of preparation are chiefly, if not entirely, responsible for variability of the product, and this being so, we are more easily able to apply a remedy which consists in uniformity of method of preparation. Further the information derived from the elucidation of the cause of variability has enabled us to realize the second problem, viz., the preparation of an improved type of raw rubber and it is essentially with this problem that I propose to deal.
+
+Returning once more to the cause of variability, we have found that variability in rate of cure of the raw product is brought about by two factors: (1) the amount of an accelerator or catalyst produced in the raw rubber from the nitrogenous constituents of the latex by allowing the coagulum to mature for about six days before machining, and (2) the amount of some accelerating substance in the latex which is retained in the rubber by some process of preparation in which all the serum is retained.
+
+The first of these substances, which has the greatest influence, especially in small quantities, we have found to be some decomposition product of the nitrogenous constituents. The second substance exists originally in the latex and is removed almost entirely when the fresh coagulum is converted shortly after coagulation to thin crepe.
+
+In dealing with the first of these factors, I propose only to summarize the factors which will influence the amount of such accelerator in the rubber. They are as follows :
+
+1. (1) Amount of moisture in the prepared rubber;
+2. (2) Amount of serum retained ;
+3. (3) Rate of drying ;
+4. (4) Thickness of coagulum before and after machining ;
+5. (5) Presence of antiseptics, e.g., formalin, sodium sulphite and sodium bisulphite ;
+6. (6) Influence of different coagulants ;
+7. (7) Excess of coagulants, especially of certain coagulants ;
+8. (8) Influence of smoking ;
+9. (9) Influence of artificial methods of drying ;
+10. (10) Action of various chemicals on the finished rubber in retarding or accelerating rate of cure ;
+11. (11) Concentration of latex ;
+12. (12) Effect of water as a solvent.
+
+In dealing with the second accelerating factor the factors which influence the amount present are :
+
+1. (1) Concentration of latex ;
+2. (2) Effect of water as a solvent on the finished rubber.
+
+Whether other factors, such as the nature of the coagulant, or an excess of coagulant, antiseptics and other chemicals or smoking, have an effect on rapidly curing rubber, the rapidity of cure of which is due to some constituent of the latex normally removed in the serum by the machining of fresh coagulum has not yet been ascertained, but is probable. In support of this we have the fact that Fine Hard Para which is comparatively slow curing, contains all the serum constituents and should be rapidly curing, but the vulcanization is retarded by the smoking process.
+
+Dealing briefly with the factors involved in the variability of the first type of rubber in which the vulcanization is accelerated by the amount of some protein degradation product formed during the maturing of the coagulum by natural biological processes, the following factors accelerate rate of cure :
+
+1. (1) High moisture content up to a certain limit ;
+2. (2) Large amount of serum ;
+3. (3) Thickness of coagulum up to a certain limit, which affects the rate of drying ;
+4. (4) Slow drying ;
+5. (5) Concentration of latex ;
+6. (6) Action of certain chemicals, especially the alkalis, soda and potash and their carbonates.
+
+The following factors retard the rate of vulcanization :
+
+1. (1) Low moisture content in the prepared coagulum ;
+2. (2) Removal of serum ;
+3. (3) Rapid drying ;
+
+(4) Thinness of coagulum which produces rapid drying and is also responsible for the removal of serum by machining ;
+
+(5) Presence of antiseptics, especially formalin, also boric acid and tannic acid ;
+
+(6) Certain coagulants, e.g., the mineral acids especially hydrochloric, sulphuric and hydrofluoric acids and certain salts especially the alums ;
+
+(7) Excess of coagulant—the effect of excess of weak organic acids, such as acetic, formic, citric, tartaric and oxalic is not very marked, while excess of the mineral acids has a marked retarding effect ;
+
+(8) Smoking ;
+
+(9) Artificial methods of drying—not very great in the case of thin crepe, which is the only type of rubber subjected to artificial methods of drying ;
+
+(10) Dilution of latex with water ;
+
+(11) Action of water as a solvent.
+
+With regard to the second factor responsible for variability in rate of cure the influence of various factors in retarding the rate of cure has not yet been investigated, but it is probable that smoking, mineral acid coagulants and alum and other antiseptics and chemicals will retard vulcanization.
+
+#### THE UNIFORMITY OF FINE HARD PARA.
+
+In my opinion the sole reason for the uniformity of Fine Hard Para is the law of averages. Each ball of Fine Hard Para probably takes from one to two months to prepare and thus any daily variation of the latex in concentration, etc., or any variation in the temperature or other conditions of the smoking process employed, are averaged. This indicates at once a method for rendering plantation rubber more uniform in bulk, viz., the mixing together in each case, of rubber prepared on different dates.
+
+Having summarized the causes of variability in plantation Para rubber and shown the principal factors which have an influence on the problem and stated the probable reason for the uniformity of Fine Hard Para, it can easily be seen what remedies should be adopted to secure uniform results. It is obvious that the problem is not excessively difficult on any one estate for one type of rubber, but that considerable difficulties arise in the endeavour to make all estates carry out a similar practice.
+
+In considering the problem of variability we must at once realize that uniformity can only strictly apply to one type of rubber. Thus thin pale crepe is intrinsically distinct from smoked or plain sheet and as long as there is a market demand for this grade, which will probably be always, since this type of rubber has created its own market for specific purposes for which no rubber of darker colour could be employed, it is impossible for estates to make one uniform product, since thin pale crepe, from its mode of preparation will almost certainly always have a different rate of cure to smoked sheet. It might be suggested that this type of rubber be made as the sole first grade. The answer to this is that thin pale crepe is almost always inferior to smoked or plain sheet in tensile properties and hence should not be used for articles in which strength rather than colour is a desideratum.
+
+It is thus evident that for present demands we must prepare at least three and probably four grades of plantation rubber, that is either two first grade
+
+and one second grade or two first grade and two second grades. The probability is that four grades is the minimum, since it does not seem desirable from our researches to combine all lower grades. The best solution is probably the preparation of pale crepe and one other first grade and the preparation of two lower grades as follows: No. 1 lower grade crepe to consist of lump, skimmings and picked scrap, and No. 2 lower grade crepe of bark shavings plus earth scrap.
+
+It is not proposed here, however, to deal with lower grades but with first grades only, although in one respect, the question of "lump" rubber or cup and bucket coagulations, is of interest, as will be seen later.
+
+The problem therefore with which we have to deal in connection with the preparation of first grades, is whether we are going to be content to produce pale crepe and smoked sheet as carried on at present or to endeavour to substitute another and an improved type of rubber in place of smoked sheet and it is this problem primarily with which I propose to deal briefly, leaving the subject open for discussion, after bringing forward the salient facts in support of a new method of preparation.
+
+It would probably be preferable to state at once that the proposed method of manufacture is that which we have styled "slab" rubber, in lieu of sheet.
+
+Our researches have shown that whereas smoked sheet cures in about  $2\frac{1}{2}$  to  $3\frac{3}{4}$  hours under the conditions employed, "slab" rubber cures in about  $1\frac{1}{4}$  hours or less than half the time. Apart from this, "slab" rubber is about 20 to 25 per cent. superior in tensile properties to crepe and generally superior to smoked sheet. The advantages to the rubber manufacturer of this type of rubber are therefore obvious. Whether a manufacturer would be prepared to pay a premium for such rubber however remains to be seen and for the present it is taken for granted that such rubber would merely fetch the ordinary top market prices obtained for smoked sheet. We, therefore, have to consider its preparation entirely from the producer's point of view (assuming of course that it is not going to fetch a lower price on the market, as it probably would do if judged by appearance only). What are the advantages we must ask ourselves of any alteration of existing methods, Some planters may be very conservative in this respect and prefer a *laissez-faire* policy, but I venture to suggest that, especially at this time, we have no more right to adopt such a policy in our commerce and industry than we have in the conduct of our military affairs and I therefore assume that all planters are alive to the necessity of a change if it can be shown that such a change will produce an improved product.
+
+We have now to consider the possible forms in which such a type of rubber can be prepared, taking note of the advantages and disadvantages of each method of preparation.
+
+There are only three possible forms in which such rubber could be prepared for the market, viz.: (1) virgin "slab" containing about 20 per cent. of moisture, (2) in the form of crepe, (3) in the form of dry block.
+
+Of these forms the most suitable when everything is taken into consideration is the first. The only disadvantage of shipping virgin "slab" is that extra freight has to be paid on about 20 per cent. of water.
+
+The pre-war freight on rubber was about  $\frac{1}{2}d.$  or say 2 cents per lb., while the present rates are about  $1d.$  or say 4 cents per lb. If rubber containing 20 per cent. or at a maximum, say, 25 per cent. of water is shipped the actual amount of dry rubber sent for 2 cents at pre-war rates would be 80 or 75 per cent., respectively, that is to say, each pound of actual rubber
+
+will cost  $2\frac{1}{2}$  cents or  $2\frac{2}{3}$  cents at pre-war rates and 5 cents or  $5\frac{1}{3}$  cents at present rates of freight. This represents an extra cost on freight of  $\frac{1}{2}$  to  $\frac{2}{3}$  cents at pre-war rates and 1 to  $1\frac{1}{3}$  cents at present rates.
+
+This extra cost has now to be compared from an economic point of view with the cost of preparing, say, smoked sheet in estate factories and this cost is represented when compared with "slab," by the actual cost of machining, since acetic acid or some other coagulant has to be used in the case of both "slab" and sheet.
+
+The lowest factory costs for present first grades is probably about 1.5 cents per lb. which includes oil for engines and acetic acid, but does not allow for capital cost and depreciation of machinery and factory. In the preparation of "slab" rubber, apart from the machinery required to treat 20 to 30 per cent. of the crop which is represented by lower grades, all machinery and consequently a large factory is eliminated.
+
+Leaving aside, however, the depreciation on factory and machinery, the cost of preparation of first grades is probably not lower than the above figure and in the preparation of virgin "slab" rubber the saving effected in cost of preparation will at least compensate for the extra freight even at present rates, while in most cases and at pre-war freights the saving in cost of preparation will probably be from 1 to 2 cents per pound on many estates.
+
+The above figures have demonstrated that virgin "slab" is cheaper to prepare, requiring little care, apart from cleanliness, and that the saving on cost of preparation more than compensates for the extra freight charges on moisture.
+
+Two other disadvantages may be mentioned; viz., difficulty of fixing duty owing to a possible variable moisture content, and secondly the introduction of a new type of rubber may cause confusion among manufacturers. The first of these would be capable of adjustment in a short time and present no greater difficulty than does Fine Hard Para while the second is not worth taking into consideration, since the manufacturer would soon realize the value of this type of rubber.
+
+With regard to the shipping of "slab" rubber in the form of crepe, there is no advantage to the producer, in fact possibly a slight disadvantage in that the coagulum after maturing for six days is very tough and therefore more difficult to machine. The advantages lie entirely with the manufacturer who is obtaining a better type of rubber, which is clean and dry, and probably may not, if properly packed, require rewashing.
+
+One disadvantage which has been suggested is the difficulty of distinguishing such crepe from many specimens of ordinary slow curing crepe, except from first latex pale crepe. This is easily surmounted, however, by labelling boxes, as is done at present for different grades and styling the rubber "slab" crepe or some other fancy name. As a disadvantage it is not worth the consideration of either scientific or practical men, to use a distinction to which I object.
+
+The third method, viz., shipping in the form of dry block, presents one or two advantages, especially from the producer's point of view. In the preparation of dry block, the rubber has to be creped thin, wormed on a special cutting machine, vacuum or hot air dried in this form and then pressed into blocks. Assuming we are leaving the coagulum for seven days, crepeing can be carried out on the 8th day and the rubber prepared ready for shipping on the 9th day. A great saving in factory space is thus effected and also in packing space. It is recommended that the blocks be made
+
+about  $1\frac{1}{2}$  to 2 inches thick. Rubber prepared in this manner has been examined in our laboratories nearly two years ago and found to give excellent results.
+
+There is, of course, no improvement of quality in such block, the question being entirely one of economics.
+
+The disadvantages, of course, of preparing the rubber in this form are very similar to those in the case of preparing and shipping as thin crepe, except that drying space and packing space is saved.
+
+I trust that the facts stated above will, especially at the close of the present war, when manufacturers are able to return to more normal conditions and to carry out experiments, stimulate further interest on the part of both of the producer and manufacturer in a problem which has not only proved very fascinating as a piece of scientific research, but which is, in my opinion of supreme importance.
+
+It may be useful to state in conclusion that manufacturers have expressed considerable interest in the results obtained and on all sides have added confirmation to the results obtained at the Agricultural Department.
+
+One other factor, to which reference has been made before, in connection with the advantage of preparing "slab" rubber, is that lump or cup and bucket coagulation can be mixed with first latex rubber, since this rubber if left for the maturation period before crepeing is essentially "slab" rubber. This means, therefore, an increase of first grade rubber, and should prove especially valuable on those estates where natural coagulation is abnormally great.—*AGRIC. BULL., F.M.S., VOL. V. NO. 10, JULY 1917.*
+
+=== MENTIONS (20) ===
+type	text	norm	role
+COMMODITY	Fine Hard Para	Fine Hard Para	highest grade of wild rubber
+COMMODITY	rubber	rubber	raw product discussed
+COMMODITY	rubber	rubber	product discussed for preparation and shipping
+EVENT	4th International Rubber and Allied Trades Congress	4th International Rubber and Allied Trades Congress	held in London in July, 1914
+ORG	Agricultural Department	Agricultural Department	conducted researches on raw rubber manufacture
+ORG	Agricultural Department	Agricultural Department	institution where results were obtained
+ORG	North British Rubber Company	North British Rubber Company	British rubber manufacturing firm
+PERSON	B. J. EATON	B. J. Eaton	Agricultural Chemist, F.M.S.
+PERSON	DR. SCHIDROWITZ	Dr. Schidrowitz	author of paper on Variability
+PERSON	MR. WILLIAMS	Mr. Williams	Works Superintendent of the North British Rubber Company
+PLACE	Federated Malay States	Federated Malay States	location of the Agricultural Department
+PLACE	London	London	location of the Congress
+PRODUCT	acetic acid	acetic acid	coagulant
+PRODUCT	crepe	crepe rubber	form of rubber preparation
+PRODUCT	dry block	dry block rubber	form of rubber preparation
+PRODUCT	Fine Hard Para	Fine Hard Para rubber	type of rubber
+PRODUCT	smoked sheet	smoked sheet rubber	form of rubber preparation
+PRODUCT	virgin "slab"	virgin slab rubber	form of rubber preparation
+PUBLICATION	AGRIC. BULL., F.M.S., VOL. V. NO. 10, JULY 1917	Agricultural Bulletin, F.M.S., Vol. V, No. 10, July 1917	source publication
+TAXON	Hevea	Hevea	cultivated tree for plantation Para rubber

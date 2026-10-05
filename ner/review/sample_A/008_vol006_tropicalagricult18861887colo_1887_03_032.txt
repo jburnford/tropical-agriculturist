@@ -1,0 +1,189 @@
+ID: vol006_tropicalagricult18861887colo#1887-03#032
+ISSUE: 1887-03  VOL: 6  SECTION: Correspondence
+TITLE: CLIMATE AND VEGETATION.
+BYLINE: 
+WORDS: 3310  PAGES: ['588', '589', '590']
+IA: https://archive.org/details/tropicalagricult18861887colo/page/n605/mode/1up
+
+=== TEXT ===
+CLIMATE AND VEGETATION.
+
+Many of our readers will recall with pleasure the interesting series of articles published in this journal on the climate and vegetation of the Riviera, and on horticulture as practised by Dr. Bennet at Mentone. Those articles form part of Dr. Bennet's delightful book, *Winter and Spring on the Shores of the Mediterranean*. Of the general correctness of Dr. Bennet's views there can be no doubt, and it is certain that for the physician's purposes an investigation into the effects of climatal changes on plants at various stages of their growth affords more trustworthy information than the mere study of thermometric records. Mr. Charles Roberts, to whom we owe various interesting and useful publications relating to "phenology," is following up this question of the combined and continuous effect of various meteorological factors on plant life. "A meteorological instrument," he says, "records a momentary atmospheric condition. A plant does this, and much more ; it records the current conditions, and sums up or registers all the past meteorological and geological conditions to which it has been exposed. Phenologists cannot accept mere inferences, however probable they may appear to be, and nothing short of simultaneous records will satisfy them."
+
+Pursuing these ideas, Mr. Roberts selects for observation in the Riviera the plants mentioned in the accompanying list :—
+
+"The plants and trees included in the schedule are well known in our winter health resorts, and require not botanical skill for their identification ; but observations should not be recorded when there is any doubt on this head. The plants are arranged in three groups, to indicate roughly the chief varieties of climate of the Mediterranean basin. The first group indicates a hot, arid, sandy or rocky soil, and a dry, sunny atmosphere, like those of the south-east coast of Spain, Upper Egypt, and the borders of the African Desert. The second group characterises the colder and damper climate and soil of the Riviera, Southern Italy, Sicily, Malta, Algeria, and Lower Egypt ; and the third group the still colder and damper climates of the Italian lakes, the West Coast of France, Spain and Portugal, and the South of England. This last group brings the ordinary climate of England into relation with that of the Mediterranean, and will connect this schedule with the one which I have specially prepared for differentiating local climates in the British Isles.
+
+"It would be desirable to make concurrent observations on the maximum and minimum shade-temperature at each station (by means of verified registering thermometers, exposed in Stevenson's stands), to ascertain the extreme range of temperature, and the lowest which each plant will survive. We know, for instance, that the Lemon tree is killed by a temperature of 24° Fahr., and the Orange by 21° Fahr.; while the Olive tree will bear 16° Fahr., although its young shoots are killed by a temperature no lower than 25° Fahr.; and we gather from these facts that, at stations where these trees flourish, the temperature never falls so low as these figures indicate, even for a night or two, during many consecutive years. As observations on the rainfall cannot be carried on all the year, the relative dampness or dryness of different stations cannot be determined
+
+by the rain-gauge; and we must rely on the known habits of plants, in their relation to moisture of air and soil, to help us in this respect. Any one who has passed quickly between Nice, Palermo, and Algiers, cannot but have noticed the difference in the general aspect of the vegetation at each place; its greater activity at the latter station indicating a greater amount of moisture in the air and soil than at Nice, while Palermo holds an intermediate position.
+
+"The following observations should be recorded of each plant in the list. Does the plant or tree grow at the station? Is it protected from the cold, sun, or wind? Does it blossom? and at what date does the first blossom appear? Do its fruit or seeds ripen and at what date do they arrive at maturity? With respect to the deciduous trees (Pomegranate, Vine, Fig, Almonds, and Horse Chestnut), at what date do the leaves open (first leaf-surface visible); the first blossoms open; and the first fruit or seeds ripen?
+
+<table border="0">
+<tbody>
+<tr>
+<td>(1) Carob or Locust-Bean<br/>(<i>Ceratonia Siliqua</i>)</td>
+<td>Bamboo (<i>Bambusa vulgaris</i>?)</td>
+</tr>
+<tr>
+<td>Prickly Pear or Indian Fig (<i>Opuntia</i>)</td>
+<td>Dwarf European Palm (<i>Chamaerops humilis</i>)</td>
+</tr>
+<tr>
+<td>American Aloe (Agave Americana)</td>
+<td>Oleander (Nerium Oleander)</td>
+</tr>
+<tr>
+<td>Date Palm (Phoenix dactylifera)</td>
+<td>(3) Magnolia (<i>M. Grandiflora</i>)</td>
+</tr>
+<tr>
+<td>(2) Pomegranate (<i>Punica Granatum</i>)</td>
+<td>Camellia (<i>C. japonica</i>)</td>
+</tr>
+<tr>
+<td>Banana (<i>Musa sapientum</i>)</td>
+<td>Myrtle (<i>Myrtus communis</i>)</td>
+</tr>
+<tr>
+<td>Lemon tree (<i>Citrus Limonum</i>)</td>
+<td>Vine (<i>Vitis vinifera</i>)</td>
+</tr>
+<tr>
+<td>Sweet Orange (<i>C. aurantium</i>)</td>
+<td>Common Fig (<i>Ficus carica</i>)</td>
+</tr>
+<tr>
+<td>Olive (<i>Olea europaea</i>)</td>
+<td>Adam's Needle (<i>Yucca gloriosa</i>)</td>
+</tr>
+<tr>
+<td>Australian Blue Gum tree (<i>Eucalyptus globulus</i>)</td>
+<td>Almond (<i>Amygdalus communis</i>)</td>
+</tr>
+<tr>
+<td></td>
+<td>Horse Chestnut (<i>Æsculus hippocastanum</i>)</td>
+</tr>
+</tbody>
+</table>
+
+"By means of simultaneous observation on these plants, or a small number of them, it will be easy to lay down on a map isophenal lines similar to, but by no means identical with, the isothermal lines laid down by meteorologists; and thus produce a diagrammatic representation of corresponding climates, and the difference of one station from another."
+
+Following up this subject Mr. Roberts discusses, in the *Transactions of the Sanitary Institute of Great Britain*, the evidence afforded by plants as to the relative degree of purity of the air in large towns, and he gives a diagram representing a series of squares one within the other. Thus, in his illustration it is shown that in the outermost square the Larch, the Scotch, Fir, and the Heather, will grow and lichens may be found on the trees. In the succeeding square, supposed to represent a more deteriorated atmospheric state, the plants included in the outer square will not grow, but the Sycamore, the Horse Chestnut, the Yew, the Deodar, the Arbutus, the Laurustinus, and various fruit trees will still thrive, which they will not do in the next square, and so on, till we come to the central space, in which—doleful spot—no plants at all are mentioned; but even here *Poa annua*, and *Polygonum aviculare*, and Docks will grow, as every one who will visit the courts and alleys of London can see for himself.
+
+Some quarter of a century ago and more there was a tradition that evergreens would not grow in London, and therefore, the squares were planted with Privets, and Lilacs, the deplorable aspect of which in the winter months was but too familiar. People are beginning to find out, however, that many evergreens do relatively well in the most confined places, especially those with thick leathery leaves like the Holly or Yucca, and which are well provided with chlorophyll and consequently proportionately vigorous. Conifers, as a rule, do not do well in such places, indeed one of the best rough tests of the purity of the air may be obtained by the observation of the common Arbor-vite, *Thuia* or *Biota orientalis*. If the reader will wend his way from the suburbs, say at a distance of 4 or 5 miles from the Thames on either side towards the
+
+banks of the river, he will have ample opportunity of noting how the lower branches of this shrub gradually become denuded of leaves, till at length the wretched plant resembles a disorganised Birch-broom with a few leaves at the top, and then it disappears entirely. Much to our surprise, however, we know of cases in which *Pinus excelsa* grows in localities where the *Biota* will no longer do so.
+
+As a matter of practice much depends upon the care bestowed by those in charge. Frequent cleansing with a syringe or garden-engine will enable plants to grow in the most unlikely places, and in the cases we have in view this demands so little time and attention that we can but press it on the attention of the Society over which Lord Brabazon presides. We know from our own experience of a garden where Roses had long since ceased to blow, but where now not only a large assortment of choice evergreens may be found, but where also an occasional Moss Rose may now be plucked; and this we attribute, not to any improvement in the atmosphere, which is probably more smoky if not fouler than formerly, but to increased attention to syringing.
+
+It is obvious that the sources of fallacy and exception are so numerous that it will be long before we can speak with any degree of statistical precision. Such an amount of precision is, however, quite within the bounds of probability, and it must be attained by extended comparative observations on plants under all conditions and circumstances, such as Mr. Roberts advocates from the point of view of hygiene.—*Gardeners' Chronicle*.
+
+## THE PROCESS OF LIMING.
+
+### No. II.
+
+Last week we drew attention to the many good effects which may result from the proper application of lime to the soil, and recommended the more extended use of this material in Victorian agriculture. It is well to bear in mind, however, that these good effects are to be expected only from the proper use of lime. When used improperly there may, on the one hand, be no results whatever, either good or bad, in which case the time and labor and money spent will have been thrown away; or, on the other hand, the soil may receive absolute injury, the rectification of which will involve a further expenditure of labor.
+
+There is one case in which lime may always be used without fear of injury, in which, indeed, it must be used if the soil is to be brought into a thoroughly healthy condition. We refer to the case of the land being sour. There is no doubt that very many, probably the majority, of Victorian soils are sour. Most newly cleared lands are sour, and it is a frequent custom to let such lands remain for a year or more uncultivated, in order to sweeten. The sweetening could be effected at once by a dressing of lime. When these newly cleared lands are exceptionally rich, their fertility may be, and indeed often is, such as to mask the effects of their sourness, and abundant crops can be obtained, even though the soil has not been sweetened. But where the soil is of poor or only medium quality, it is useless to expect large returns without the use of lime.
+
+We may here remark that it is often regarded as unnecessary to add lime to soils in limestone country. Yet several instances are known of soils actually resting on a limestone bed which yet are almost destitute of lime; and in many other cases the amount of lime is so small that it is not sufficient to neutralise the natural sourness of the soil. The reason for this apparently contradictory condition of things is not far to seek. The lime is washed away from the surface by the rain, and either runs off with the drainage waters, or forms a layer at the bottom of the soil. Sometimes this layer forms a hardened cake, and is then one of the many forms of "hard pan," being then known as a lime pan. In these cases of limeless soils in limestone country subsoil ploughing should be resorted to; or if the limestone is too deep, then trenches may be dug along the fields and the limestone or marl thrown up from these and spread over the surface.
+
+Every farmer may find out for himself if his land is sour or not in a very simple manner. There can be purchased of all chemists, for a few pence, some small slips of blue paper, called "blue litmus paper." This paper is turned red by acids, so that if a small quantity of a damp, sour soil be pressed with the finger and thumb against a slip of this blue paper, wherever the soil touches the paper it will produce a red color, and if this red color remains after the paper has been exposed to the air for a few minutes, it is a sure sign that the soil needs lime. If the soil is very sour it will produce a bright red color, but if it be only slightly sour it will cause only a bluish pink or purple color; and by this means a rough idea of the amount of lime required can be formed. For a purple color only two or three hundredweights of lime to the acre may be necessary; but for a bright red, half a ton or a ton may be required; it being always borne in mind, however, that a strong clay soil will require, and can bear, a heavier dressing than a loose sandy one.
+
+Liming will do no good if the soil contains sufficient lime already. And here again is a case in which the farmer can apply a simple test sufficient for most purposes. If vinegar be poured on to a piece of limestone or a piece of old lime, it will cause a bubbling up or effervescence similar to, but less than, that which takes place when water is poured on a mixture of carbonate of soda and tartaric acid, or when carbonate of soda is put into a mixture of vinegar and water, as is sometimes done for making a cheap drink in the bush. If then a little soil be placed in a tumbler or wine glass, and sufficient water be poured on to cover the soil and to allow all the bubbles of air to rise out of it, and if then vinegar be poured into the glass, those soils which contain lime will bubble up; and the more lime there is the more will be the bubbling up. If this effervescence should occur, it may be certain that it would be a waste of money to add lime to such a soil. But, if this effervescence should not take place, and if also it has been found that the soil is not sour, then the only way to ascertain whether the soil is deficient in lime or not is by having it analysed.
+
+Liming may injure the soil in three ways—first, by rendering it too open and loose, so that it will retain no moisture; secondly, by forming a mortar, and so hardening the land that neither water nor roots can penetrate it; and thirdly, by exhausting the land. But all these dangers can be readily avoided. As pointed out previously, lime should be used very sparingly on light, sandy or gravelly soils. If it is found necessary to add it to such soils, then it should be put on in the form of a compost of one part of lime with six or eight of fine earth, the compost being allowed to stand some time before using; or, if marl can be had readily, the lime may be put on as marl, about half a ton or a ton to the acre. Or, if the sand rests on a clay subsoil, then the clay may be dug up in trenches, as is done in the fen country in England, and spread over the soil, the clay being afterwards ploughed in, and then the lime sprinkled over the surface; or, if neither marl nor clay can be had, then an abundance of vegetable matter should be given in the form of farm yard or stable manure, or in the form of green crops, particularly root crops, ploughed in the lime being added afterwards. All sandy soils, it should be borne in mind, are greatly improved by an admixture of clay, and it is exceedingly likely that a process of claying, similar to that adopted in the fens in England, would greatly improve the sandy soils lying to the south-east of Melbourne.
+
+The setting of the lime into a mortar can only take place in heavy wet soils, and it may be taken as a general rule that all wet clay soils and swamps should be drained and ploughed before they are limed. But at the same time no fear may be entertained of the hardening of the land unless very heavy dressings of lime, such as 20 and 30 tons to the acre are used.
+
+We have, on a previous occasion, referred to the exhausting action of lime. It is this very quality, however, which, when rightly applied, renders the use
+
+of lime so specially advantageous in many cases. The lime liberates for the immediate use of plants the various ingredients of the soil and manures which are ordinarily locked up in an inaccessible form, and by so doing it greatly increases the returns. In fact it enables the farmer to turn over his capital quickly. But if he thereby gets more out of his soil, he must return more to it in the form of manure. Exhaustive farming in any case is bad; it is just as bad to exhaust a naturally fertile soil as to exhaust one rendered fertile by lime. The object of the farmer in any case should be to improve the land if it be poor, or to maintain it at a good level if it be rich. And the preventive of the exhausting action of lime is just the same as the preventive of the exhaustion of a good soil, namely the proper use of manures.
+
+The forms in which lime may be used are marl, crushed limestone shells, and shell sand, and quick and slacked lime. All the forms are best strewn, over the surface, the more evenly the better, the dressing being put on some months before seed time. Quicklime acts most rapidly, slacked lime the next, shells and shell sand the next, and crushed limestone and marl act the most slowly. Limestone, shells, and shell sand may be converted into quicklime by burning; but it is generally most convenient to buy quicklime of the lime burners. Quicklime is only used for sweetening heavy and very sour lands, such as recently drained swamps. Of all forms of lime, the slacked lime is the most useful; it is made by the farmer himself, by sprinkling quicklime with water, when the lime becomes hot, gives off steam, and if good, falls into an exceedingly fine powder. If it does not fall into this powder, either the lime is not good, and is of less value, or too much water has been added, with the result of causing the lime to chill. The great point to be aimed at is to get the lime into this fine powder, for it is then much more effective in its action, and a small quantity of it goes a great way.
+
+We last week referred to the action of lime in increasing the immediate effectiveness of stable and farm yard manure. It is well to bear in mind, however, that the lime should not be mixed with the decomposing manure heap; but should only be mixed with it in the form of a compost immediately before using. If mixed with the decomposing manure heap, it causes the escape of ammonia, and thus a valuable part of the manure is lost.
+
+The action of shell sand on the soil may be seen, near many of the fresh water lakes of Victoria, as for instance along the margin of Lake Corangamite, where fine shells blown up yearly by the winds and strewn over the ground, induce a surprising degree of fertility. Similar cases are known in almost all countries. An instructive case may be quoted which occurred in France, where a sandy soil, similarly composed, was every other year laid an inch thick over land which produced only a threefold crop of rye, and caused it to yield an eightfold crop of wheat for several years; but—and this is the point to be borne in mind—after 40 years of this treatment, without any other manure being added, the land would produce only a fourfold crop of wheat.—*Leader*.
+
+=== MENTIONS (76) ===
+type	text	norm	role
+COMMODITY	lime	lime	agricultural material
+PERSON	Dr. Bennet	Dr. Bennet	author of 'Winter and Spring on the Shores of the Mediterranean'
+PERSON	Lord Brabazon	Lord Brabazon	president of the Society
+PERSON	Mr. Charles Roberts	Charles Roberts	author on phenology
+PLACE	African Desert	African Desert	region with hot, arid climate
+PLACE	Algeria	Algeria	region with colder, damper climate
+PLACE	Algiers	Algiers	observation station
+PLACE	British Isles	British Isles	region for local climate differentiation
+PLACE	England	England	region with ordinary climate
+PLACE	England	England	
+PLACE	France	France	
+PLACE	Italian lakes	Italian lakes	region with colder, damper climate
+PLACE	Lake Corangamite	Lake Corangamite	
+PLACE	London	London	city with air pollution issues
+PLACE	Lower Egypt	Lower Egypt	region with colder, damper climate
+PLACE	Malta	Malta	region with colder, damper climate
+PLACE	Melbourne	Melbourne	
+PLACE	Mentone	Mentone	location of horticulture practice
+PLACE	Nice	Nice	observation station
+PLACE	Palermo	Palermo	observation station
+PLACE	Portugal	Portugal	region with colder, damper climate
+PLACE	Riviera	Riviera	location of climate and vegetation study
+PLACE	Sicily	Sicily	region with colder, damper climate
+PLACE	Southern Italy	Southern Italy	region with colder, damper climate
+PLACE	Spain	Spain	region with hot, arid climate
+PLACE	Thames	Thames	river in London
+PLACE	Upper Egypt	Upper Egypt	region with hot, arid climate
+PLACE	Victoria	Victoria	region for agricultural discussion
+PLACE	Victoria	Victoria	
+PLACE	West Coast of France	West Coast of France	region with colder, damper climate
+PUBLICATION	Gardeners' Chronicle	Gardeners' Chronicle	source of the article
+PUBLICATION	Leader	Leader	source
+PUBLICATION	Transactions of the Sanitary Institute of Great Britain	Transactions of the Sanitary Institute of Great Britain	journal where Mr. Roberts published
+PUBLICATION	Winter and Spring on the Shores of the Mediterranean	Winter and Spring on the Shores of the Mediterranean	book by Dr. Bennet
+TAXON	Adam's Needle	Yucca gloriosa	plant in observation list
+TAXON	Almond	Amygdalus communis	plant in observation list
+TAXON	American Aloe	Agave americana	plant in observation list
+TAXON	Arbor-vite	Thuja orientalis	shrub used as air purity test
+TAXON	Arbutus	Arbutus	plant indicator of air purity
+TAXON	Australian Blue Gum tree	Eucalyptus globulus	plant in observation list
+TAXON	Bamboo	Bambusa vulgaris	plant in observation list
+TAXON	Banana	Musa sapientum	plant in observation list
+TAXON	Camellia	Camellia japonica	plant in observation list
+TAXON	Carob or Locust-Bean	Ceratonia siliqua	plant in observation list
+TAXON	Common Fig	Ficus carica	plant in observation list
+TAXON	Date Palm	Phoenix dactylifera	plant in observation list
+TAXON	Deodar	Deodar	plant indicator of air purity
+TAXON	Docks	Docks	plant growing in polluted areas
+TAXON	Dwarf European Palm	Chamaerops humilis	plant in observation list
+TAXON	Heather	Heather	plant indicator of air purity
+TAXON	Holly	Holly	evergreen plant
+TAXON	Horse Chestnut	Aesculus hippocastanum	plant in observation list
+TAXON	Larch	Larch	plant indicator of air purity
+TAXON	Laurustinus	Laurustinus	plant indicator of air purity
+TAXON	Lemon tree	Citrus limonum	plant in observation list
+TAXON	Lilacs	Lilacs	plant used in London squares
+TAXON	Magnolia	Magnolia grandiflora	plant in observation list
+TAXON	Moss Rose	Moss Rose	garden plant
+TAXON	Myrtle	Myrtus communis	plant in observation list
+TAXON	Oleander	Nerium oleander	plant in observation list
+TAXON	Olive	Olea europaea	plant in observation list
+TAXON	Pinus excelsa	Pinus excelsa	tree growing in polluted localities
+TAXON	Poa annua	Poa annua	plant growing in polluted areas
+TAXON	Polygonum aviculare	Polygonum aviculare	plant growing in polluted areas
+TAXON	Pomegranate	Punica granatum	plant in observation list
+TAXON	Prickly Pear or Indian Fig	Opuntia	plant in observation list
+TAXON	Privets	Privets	plant used in London squares
+TAXON	Roses	Roses	garden plant
+TAXON	rye	rye	
+TAXON	Scotch Fir	Scotch Fir	plant indicator of air purity
+TAXON	Sweet Orange	Citrus aurantium	plant in observation list
+TAXON	Sycamore	Sycamore	plant indicator of air purity
+TAXON	Vine	Vitis vinifera	plant in observation list
+TAXON	wheat	wheat	
+TAXON	Yew	Yew	plant indicator of air purity
+TAXON	Yucca	Yucca	evergreen plant

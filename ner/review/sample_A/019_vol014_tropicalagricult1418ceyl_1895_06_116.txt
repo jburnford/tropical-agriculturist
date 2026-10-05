@@ -1,0 +1,209 @@
+ID: vol014_tropicalagricult1418ceyl#1895-06#116
+ISSUE: 1895-06  VOL: 14  SECTION: VARIOUS PLANTING NOTES
+TITLE: THE JOKAI (ASSAM) TEA COMPANY.
+BYLINE: 
+WORDS: 889  PAGES: ['827', '828']
+IA: https://archive.org/details/tropicalagricult1418ceyl/page/n886/mode/1up
+
+=== TEXT ===
+THE JOKAI (ASSAM) TEA COMPANY.
+
+Originally a purely Indian Company, its office was transferred to London in 1882. During the whole of its history it has been a steady absorber of neighbouring gardens, with the result that the cultivated area under its control has risen during the past ten years from 1,460 acres to 7,239, while the gross area of land it holds is as much as 35,568 acres. In the same time the outturn of tea has been increased from 295,000 to 3,137,000 lb. per annum. The rate of progress is shown in the following table:—
+
+<table border="1">
+<thead>
+<tr>
+<th>Year.</th>
+<th>Cultivated area. Acres.</th>
+<th>Mature area. Acres.</th>
+<th>Outturn of tea. lb.</th>
+<th>Dividend. %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1883</td>
+<td>1460</td>
+<td>*</td>
+<td>295,628</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1884</td>
+<td>1681</td>
+<td>1545</td>
+<td>600,064</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1885</td>
+<td>1847</td>
+<td>1722</td>
+<td>650,318</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1886</td>
+<td>2072</td>
+<td>1766</td>
+<td>707,980</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1887</td>
+<td>2130</td>
+<td>1746</td>
+<td>791,727</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1888</td>
+<td>4032</td>
+<td>3242</td>
+<td>2,135,177</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1889</td>
+<td>5096</td>
+<td>4408</td>
+<td>2,309,088</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1890</td>
+<td>5193</td>
+<td>4494</td>
+<td>2,298,115</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1891</td>
+<td>6588</td>
+<td>5405</td>
+<td>2,382,007</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1892</td>
+<td>6960</td>
+<td>5699</td>
+<td>2,389,783</td>
+<td>10</td>
+</tr>
+<tr>
+<td>1893</td>
+<td>7239</td>
+<td>5800</td>
+<td>3,137,888</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+
+\* Not stated in these years.
+
+<table border="1">
+<thead>
+<tr>
+<th>Year.</th>
+<th>Selling price per lb. d.</th>
+<th>Cost of production per lb. d.</th>
+<th>Net profit per lb. d.</th>
+<th>Yield per acre. lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1883</td>
+<td>13.02</td>
+<td>11.95</td>
+<td>1.07</td>
+<td>*</td>
+</tr>
+<tr>
+<td>1884</td>
+<td>12.76</td>
+<td>10.53</td>
+<td>2.23</td>
+<td>*</td>
+</tr>
+<tr>
+<td>1885</td>
+<td>12.91</td>
+<td>10.56</td>
+<td>2.35</td>
+<td>*</td>
+</tr>
+<tr>
+<td>1886</td>
+<td>11.89</td>
+<td>9.23</td>
+<td>2.66</td>
+<td>411</td>
+</tr>
+<tr>
+<td>1887</td>
+<td>11.55</td>
+<td>8.52</td>
+<td>3.03</td>
+<td>456</td>
+</tr>
+<tr>
+<td>1888</td>
+<td>9.59</td>
+<td>7.54</td>
+<td>2.05</td>
+<td>637</td>
+</tr>
+<tr>
+<td>1889</td>
+<td>10.73</td>
+<td>8.58</td>
+<td>2.15</td>
+<td>563</td>
+</tr>
+<tr>
+<td>1890</td>
+<td>12.60</td>
+<td>9.46</td>
+<td>3.14</td>
+<td>525</td>
+</tr>
+<tr>
+<td>1891</td>
+<td>10.77</td>
+<td>8.58</td>
+<td>2.19</td>
+<td>529</td>
+</tr>
+<tr>
+<td>1892</td>
+<td>13.19</td>
+<td>10.65</td>
+<td>2.54</td>
+<td>445</td>
+</tr>
+<tr>
+<td>1893</td>
+<td>10.30</td>
+<td>8.59</td>
+<td>1.71</td>
+<td>551</td>
+</tr>
+</tbody>
+</table>
+
+While still a native Company it had to suspend dividends in 1878, 1879, and 1880, owing to the large area of unproductive plants, and in 1883 the Company had only recently recovered from this state of congestion. Since then a good proportion of the money spent upon improvements has been placed to capital account, so that the Company is not relatively so strong as the Jorehaut. Still, a great deal of the extension in planting, new machinery, and other additions, have been met out of revenue; and it must be borne in mind that the Company is exceptionally well equipped. No less than thirty miles of light railway, adequately furnished with locomotives, goods waggons, and other rolling stock, are upon its plantations, while considerable sums have been expended upon saw-mills, which turn out tea-boxes for all the needs of the Company and its neighbours. The tea-house at Tippuk is said to be the best of its kind in India, and altogether this Company, with its large acreage and outturn, is one of the most important in India. In 1893 no less than 1,439 acres, or about 20 per cent of its cultivated area, were immature, and the Company has stopped extensions for the time. This should mean that profits will rise, which is certainly needed, for the dividend of 10 per cent in 1893 was only paid after swallowing up £3,126 brought forward and taking £923 from reserve. The season, however, was stated to have been a bad one, which led to deterioration in quality and a consequently low selling price as will be seen in the table above. The Company will, however, have to pay interest upon £50,000 of six cent. Preference Shares recently issued. The Ordinary capital amounts to £250,000, in £10 shares, fully paid, and there is no mortgage or debenture debt. The reserve fund stands at £41,330, but a good deal of it is composed of premiums on new shares. About £24,500 nominal of it is invested separately, but some £19,000 is represented by rupee paper brought at a high price, and is now worth about £14,000. The capital, without including the new Preference Shares, represents £35 per cultivated acre, which is low considering the
+
+high state of equipment. Out of the 35,568 acres held, no less than 22,426 acres are freehold. The growth of capital, however, has been so great, that unless the profits increase sharply it is somewhat doubtful whether the 10 per cent. dividends can be maintained in the future. The Preference Shares ought to be an excellent investment if obtained at a reasonable price. A word of praise must be given to the very instructive report issued by this Company, which gives far more information than the average of such, good in this respect though they are. The information and tabular matter, without accounts run to 16 pp. of pamphlet size, and accounts are rendered separate for each garden.—*The Investors' Review*, of April.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+COMMODITY	tea	tea	
+ORG	Jorehaut	Jorehaut	tea company
+ORG	THE JOKAI (ASSAM) TEA COMPANY	Jokai (Assam) Tea Company	tea company, Assam
+PLACE	India	India	
+PLACE	London	London	
+PLACE	Tippuk	Tippuk	location of tea-house
+PUBLICATION	The Investors' Review	The Investors' Review	newspaper

@@ -1,0 +1,31 @@
+ID: vol037_tropicalagricul371911ceyl#1911-11#045
+ISSUE: 1911-11  VOL: 37  SECTION: MISCELLANEOUS.
+TITLE: INTENSIVE CULTIVATION IN JAPAN.
+BYLINE: 
+WORDS: 149  PAGES: ['477']
+IA: https://archive.org/details/tropicalagricul371911ceyl/page/n502/mode/1up
+
+=== TEXT ===
+## INTENSIVE CULTIVATION IN JAPAN.
+
+Negombo, Nov. 4th.
+
+SIR,—I have read two or three letters in your paper *re* intensive cultivation, but in an article headed "Agriculture in Japan" and in para 3 line 7 it speaks of intensive cultivation. I don't think that intensive cultivation is there used to mean as cultivation under glass, so I shall thank you or your numerous readers to enlighten me what is meant by intensive cultivation there.
+
+Can you please inform me where I can get a copy of the Report of Agricultural Department of Japan?—Yours truly
+
+S.W.A.N.
+
+[The term intensive cultivation as applied to agriculture (and as opposed to extensive cultivation) is the raising of crops on comparatively limited areas of land which is given the most liberal treatment, as regards tillage and manuring, so that the soil is made to return maximum yields.
+
+The work on The Agriculture of Japan was issued by the Bureau Agriculture, Tokyo.]
+
+=== MENTIONS (7) ===
+type	text	norm	role
+ORG	Bureau Agriculture, Tokyo	Bureau Agriculture, Tokyo	publisher
+PERSON	S.W.A.N.	S.W.A.N.	correspondent
+PLACE	Japan	Japan	
+PLACE	Negombo	Negombo	
+PLACE	Tokyo	Tokyo	
+PUBLICATION	Agriculture in Japan	Agriculture in Japan	article
+PUBLICATION	Report of Agricultural Department of Japan	Report of Agricultural Department of Japan	

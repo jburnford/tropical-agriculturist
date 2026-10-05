@@ -1,0 +1,47 @@
+ID: vol040_lbg-630-5-tag-v-40#1913-02#036
+ISSUE: 1913-02  VOL: 40  SECTION: 
+TITLE: DIGESTION EXPERIMENTS WITH POULTRY.
+BYLINE: 
+WORDS: 564  PAGES: ['128', '129']
+IA: https://archive.org/details/lbg.630.5.tag.v.40/page/n151/mode/1up
+
+=== TEXT ===
+## DIGESTION EXPERIMENTS WITH POULTRY.
+
+---
+
+*The Journal of the Board of Agriculture* contains the following article which is extracted from the Maine Agricultural Experiment Station Bulletin No. 184. The fact that the digestibility of feeding stuffs in the case of ruminants, horses and pigs had received considerable attention but that few experiments had been made with poultry suggested the investigations described in this bulletin.
+
+The difficulty of carrying out experiments of this nature was considerable owing to the fact that the urine and the solid dung of fowls are excreted together.
+
+Experiments were first undertaken with year-old hens, chiefly with a view to gaining experience as to the best methods to be adopted, and the result of the work done with these birds was not very satisfactory, as they were nervous and lost condition; cockerels proved the most satisfactory subjects for experiment.
+
+Two rooms were set apart for the birds; in one they were kept during the resting period; in the other, cages were provided for their reception. Precautions were taken to arrange for the provision of feeding and drinking dishes which would prevent the food being spilled. The duration of the experiments was 12-14 days, divided into two periods, a preliminary period of 5 to 7 days, when the amount the bird would eat was determined and the alimentary canal freed from other food, and a collection period when the fæces were collected. As it was impossible to tell how much water the birds actually swallowed, no record was kept of the weight of water consumed.
+
+The birds were fed at regular hours and the fæces collected at the same time; at the end of the collection period the fæces were taken to the laboratory, air-dried and submitted to analysis.
+
+The results obtained from these experiments indicated that the digestion co-efficients of most foods for poultry are not materially different from those which obtain in the case of other farm animals, save that, unlike ruminants, poultry digest very little crude fibre.
+
+Maize gave a higher digestibility than any other grain tested. Wheat-bran gave a low digestibility. A mixture of equal parts of maize meal and finely cut early clover was sufficiently bulky to feed with concentrated food, and was more digestible than bran. The results confirm those of other investigators in showing that maize is a most valuable grain for poultry. It cannot be given alone, as it is too concentrated a food, and is deficient in protein, but in combination with foods rich in protein and some bulky material such as cut clover it makes a most desirable ration.
+
+### **Leghorns in South Australia.**
+
+The same Journal has culled the following remarks from the Report of the Poultry Expert, South Australia, for the year 1910-11. The report deals with the general progress of the poultry industry in South Australia during the year ended June 30th, 1911.
+
+Attention is drawn to the increasing tendency of White Leghorns to become broody. Of 61 pens of Leghorns and Minorcas entered in a laying competition only nine pens finished the year without any cases of broodiness.
+
+The result of experiments dealing with the weight of eggs produced by three White Leghorns and three Black Orpingtons during a year is recorded, and the results tend to show that the limits of variation in the weight of different eggs laid by the same hen are considerable; in nearly every instance, after a rest of a day or two, the succeeding egg showed an increase of weight.
+
+=== MENTIONS (11) ===
+type	text	norm	role
+COMMODITY	clover	Clover	feed component
+COMMODITY	Maize	Maize	grain tested for digestibility
+COMMODITY	Wheat-bran	Wheat-bran	feed tested for digestibility
+ORG	Maine Agricultural Experiment Station	Maine Agricultural Experiment Station	source of bulletin
+PLACE	South Australia	South Australia	location of poultry industry report
+PUBLICATION	Bulletin No. 184	Bulletin No. 184	source of article
+PUBLICATION	Report of the Poultry Expert, South Australia	Report of the Poultry Expert, South Australia	report for the year 1910-11
+PUBLICATION	The Journal of the Board of Agriculture	The Journal of the Board of Agriculture	journal
+TAXON	Black Orpingtons	Black Orpington	chicken breed
+TAXON	Minorcas	Minorca	chicken breed
+TAXON	White Leghorns	White Leghorn	chicken breed

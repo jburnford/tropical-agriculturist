@@ -1,0 +1,16 @@
+ID: vol007_tropicalagricult7188ceyl#1887-08#044
+ISSUE: 1887-08  VOL: 7  SECTION: 
+TITLE: WHAT ONE WOMAN DID
+BYLINE: 
+WORDS: 193  PAGES: ['96']
+IA: https://archive.org/details/tropicalagricult7188ceyl/page/n123/mode/1up
+
+=== TEXT ===
+**WHAT ONE WOMAN DID.**—A Massachusetts woman, having an hour or two each day to spare from housework, decided to try raising Strawberries for market on a piece of land about 57 feet square. The plants were well taken care of through the season, and the last of October the bed received a final hoeing, and a little later the plants were mulched about 2 inches deep with Pine needles. Before the picking season commenced, she bargained with a market-man, a mile and a half distant, to take all her berries, by allowing him, as his share, four cents a basket for all berries sold for 20 cents and over, and three cents for those bringing less. In picking she was careful to put in only sound fruit, to have as large berries at the bottom of the basket as on top, and to have them heaped as high as the crate would allow. It being a poor year for Strawberries, owing to drought, which did not affect her low ground, she received good prices. None were sold for less than 15 cents a basket. The entire crop sold was 350 baskets, for which she received 52.80 dols. Expenses were 21.55 dols., leaving a net profit of 31.25 dols.—*American Agriculturist*.
+
+=== MENTIONS (4) ===
+type	text	norm	role
+COMMODITY	Strawberries	strawberries	raised for market
+PLACE	Massachusetts	Massachusetts	
+PUBLICATION	American Agriculturist	American Agriculturist	source
+TAXON	Pine	pine	source of needles for mulch

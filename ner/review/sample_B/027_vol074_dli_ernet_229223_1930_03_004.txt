@@ -1,0 +1,28 @@
+ID: vol074_dli-ernet-229223#1930-03#004
+ISSUE: 1930-03  VOL: 74  SECTION: RETURNS
+TITLE: **VISITORS' DAY AT THE EXPERIMENT STATION, PERADENIYA**
+BYLINE: 
+WORDS: 81  PAGES: ['n161', 'n162', 'n163']
+IA: https://archive.org/details/dli.ernet.229223/page/n161/mode/1up
+
+=== TEXT ===
+## **VISITORS' DAY AT THE EXPERIMENT STATION, PERADENIYA**
+
+---
+
+At the meeting of the Estate Products Committee, held on March 11, it was decided that visitors' days to the Experiment Station, Peradeniya, should be the days on which the Estate Products Committee meetings are held (every other month) and the second Tuesday in the intervening months. Visitors are requested to be at the Experiment Station at 9 a.m. on these days.
+
+![Blank white page](08a87f68f3820a9077858b04888bf5c3_1_img.webp)A completely blank white page with no visible content, text, or markings.
+
+# The Tropical Agriculturist
+
+March 1930
+
+---
+
+=== MENTIONS (4) ===
+type	text	norm	role
+ORG	Estate Products Committee	Estate Products Committee	committee
+ORG	Experiment Station, Peradeniya	Experiment Station, Peradeniya	research station
+PLACE	Peradeniya	Peradeniya	
+PUBLICATION	The Tropical Agriculturist	The Tropical Agriculturist	journal

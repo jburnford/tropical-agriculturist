@@ -1,0 +1,544 @@
+ID: vol070_dli-ernet-229220#1928-01#006
+ISSUE: 1928-01  VOL: 70  SECTION: Original Articles.
+TITLE: Report on "Revertex."
+BYLINE: 
+WORDS: 3290  PAGES: ['5', '6', '7', '8', '9', '10', 'n23', 'n24', '11']
+IA: https://archive.org/details/dli.ernet.229220/page/n17/mode/1up
+
+=== TEXT ===
+## Report on "Revertex."
+
+**"R**EVERTEX" is the registered trade mark of a white paste prepared by concentrating latex to which has been added a preservative and an alkaline protective colloid. It is stated to contain between 20 and 30 per cent. of moisture. Samples examined at the Imperial Institute have been found to contain from 18 to 20 per cent. of moisture.
+
+A number of uses have been suggested for Revertex, the most novel and generally applicable being for the preparation of mixings ready for calendering and extruding. For this purpose the Revertex is fed into a dough mixer and the screened compounding ingredients are added and mixed. It is stated that this operation is carried out quickly and that little power is consumed. The mixed paste is next rapidly dried on grooved rolls, which have been previously tightened and heated to between 120°C and 140°C. Compounds which cause coagulation or for other reasons cannot be added in the dough mixer may be added at this stage of the process.
+
+When the percentage of moisture in the mixed rubber has been reduced to less than 1 per cent. the mixing is transferred to plasticising rolls and milled until sufficiently plastic. Sulphur is then mixed in and the material is ready for calendering.
+
+It is claimed that the important advantages of using Revertex in place of crepe or sheet are:—
+
+1. 1. Economy in time and power in incorporating fillers, especially in the case of highly compounded mixings.
+2. 2. Economy in accelerator costs. It is stated that the effect of the natural accelerator is increased by the alkaline reaction of the Revertex.
+3. 3. Improvement in quality, especially higher breaking load.
+
+A few trials of the process have been made on a small scale at the Imperial Institute and it is proposed to consider each of these claims in turn from the point of view of the results of these experiments.
+
+## 1. Power Consumption.
+
+In the preparation of mixings from Revertex ready for the calender it is necessary to use three different types of machine as compared with one in the preparation of mixings from plantation rubber. The three machines suggested for use in the preparation of Revertex mixings are:—
+
+1. (1) A Werner-Pfleiderer dough mixer.
+2. (2) Grooved stem-heated drying rolls.
+3. (3) Rolls for plasticising the dry material and mixing in the sulphur.
+
+It is stated that the output per unit of time and power consumption from these machines using Revertex is greater than that obtained from an ordinary mixing mill using dry rubber.
+
+It is to be expected that the saving in power and time claimed for Revertex would be greater with highly compounded mixings than with mixings containing a high percentage of rubber. The experiments at the Imperial Institute were therefore carried out with three types of mixings, viz:—one containing rubber and sulphur only (90:10); one containing rubber, sulphur and a small proportion of zinc oxide (90:5:5); and one containing rubber, sulphur and a high proportion of zinc oxide (90:5:90).
+
+The Revertex paste was found to be difficult to handle cleanly and quantitatively, and it compares very unfavourably with plantation rubber in this respect.
+
+The zinc oxide, made into a paste with water, could be mixed into the Revertex merely by stirring (a Werner-Pfleiderer mixer not being available). There is little doubt therefore that the power costs for this operation should be very small when carried out on a commercial scale.
+
+The mixing was next transferred to tightly-shut, grooved, laboratory washing rolls heated to between 125°C and 135°C. The paste required five to ten minutes to convert it into a dry plastic solid. It was not possible to measure the power consumed during this operation, but as the rolls were tightly shut it was probably appreciable. Even smooth milling rolls when tightly shut are found to consume a considerable amount of power.
+
+Each mixing, as soon as prepared, was plasticised on laboratory mixing rolls and the sulphur then mixed in.
+
+In the case of the rubber-sulphur mixing the Revertex was plasticised until the amount of power consumed was the same as that standardised at the Imperial Institute for the mastication of crepe and sheet. The Revertex at the end of this treatment was somewhat more plastic (14:18) than an average sample of masticated plantation rubber as determined by the rate of extrusion.
+
+In the case of the mixing containing a large quantity of zinc oxide the dry Revertex mixing was plasticised as quickly as possible. For comparison, a composite sample of plantation rubber was masticated and mixed as quickly as possible. In both cases, the conditions as regards quantities of material, temperature of rolls and space between the rolls were the same. The Revertex took 24 minutes to plasticise and the plantation rubber 30 minutes to masticate and mix to approximately the same plasticity as determined by the rate of extrusion. The total amount of power consumed in plasticising the Revertex was 665 watt hours and in masticating and mixing the plantation rubber 1025 watt hours. These figures however include the energy consumed by the machine. In working on a commercial scale a different ratio would undoubtedly be obtained.
+
+It seems clear that for a mixing containing a large quantity of zinc oxide less power is required to plasticise Revertex than is required to masticate and mix plantation rubber. The mastication and mixing of plantation rubber represents however the whole of the power costs but in the case of Revertex, mixing and drying costs have to be added. No satisfactory estimate of these costs can be based on the results of the present experiments.
+
+A further point in connection with the use of Revertex is that a number of largely-used compounding ingredients, including compounds of calcium and magnesium, reclaim, etc., cannot be mixed with the paste and must be added either during the dry or the plasticising process. This factor adds to the difficulty of framing any estimate of the relative costs of treating Revertex and plantation rubber.
+
+It was found that Revertex mixings easily "scorched" after addition of the sulphur, and for this reason it was not possible to extrude them at 90°C. The following values of D30 given by the parallel plate plastimeter show how quickly the Revertex-sulphur mixing hardens on keeping at 100°C.
+
+<table border="1">
+<thead>
+<tr>
+<th colspan="3">Time of heating at 100°C.</th>
+<th>D30*</th>
+</tr>
+<tr>
+<th>mins.</th>
+<th></th>
+<th></th>
+<th>mm./100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>20</td>
+<td>...</td>
+<td>...</td>
+<td>109</td>
+</tr>
+<tr>
+<td>30</td>
+<td>...</td>
+<td>...</td>
+<td>138</td>
+</tr>
+<tr>
+<td>35</td>
+<td>...</td>
+<td>...</td>
+<td>140</td>
+</tr>
+<tr>
+<td>63</td>
+<td>...</td>
+<td>...</td>
+<td>158</td>
+</tr>
+<tr>
+<td>90</td>
+<td>...</td>
+<td>...</td>
+<td>168</td>
+</tr>
+</tbody>
+</table>
+
+The results show that the longer the rubber is kept at this temperature the harder it becomes.
+
+\* D30 = thickness (in hundredths of a millimetre) of sphere 0.1 grams in weight after pressing in parallel plate plastimeter at 100°C for 30 minutes.
+
+## 2. Accelerator Costs.
+
+The Revertex-sulphur mixing was found to vulcanise more than ten times as quickly as the corresponding sheet or crepe mixing. In the presence of zinc oxide the Revertex vulcanised nearly as quickly as the corresponding sheet or crepe mixings containing 1 per cent of diphenyl-guanidine. It is obvious therefore that the use of Revertex in place of crepe or sheet involves a saving in accelerators in those mixings where they are now used. In the case of an accelerator costing 3s per lb. and used in the proportion of 1 lb. per 100 lb. of rubber, the saving would amount to  $\frac{1}{2}d.$  per lb. of rubber used.
+
+## 3. Quality of Vulcanised Revertex
+
+### (a) Tensile Strength and Elongation.
+
+**Rubber-sulphur mixing.**—The results of vulcanisation and mechanical tests of Revertex in a rubber-sulphur mixing are as follows:—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Time of<br/>Vulcanisation<br/>(mins.)</th>
+<th rowspan="2">Tensile<br/>Strength<br/>(lb/sq<br/>in.)</th>
+<th colspan="2">Elongation</th>
+<th rowspan="2">Slope</th>
+</tr>
+<tr>
+<th>At Break<br/>(per cent.)</th>
+<th>At load of<br/>1.04 kgs./sq.<br/>mm.<br/>(per cent.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sample 1</td>
+<td>10 ...</td>
+<td>2300 ...</td>
+<td>893 ...</td>
+<td>805 ...</td>
+<td>39</td>
+</tr>
+<tr>
+<td>do</td>
+<td>15 ...</td>
+<td>2280 ...</td>
+<td>855 ...</td>
+<td>776 ...</td>
+<td>34</td>
+</tr>
+<tr>
+<td>do</td>
+<td>20 ...</td>
+<td>2250 ...</td>
+<td>814 ...</td>
+<td>731 ...</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Sample 2</td>
+<td>10 ...</td>
+<td>1390 ...</td>
+<td>791 ...</td>
+<td>800 ...</td>
+<td>36</td>
+</tr>
+<tr>
+<td>do</td>
+<td>15 ...</td>
+<td>2240 ...</td>
+<td>795 ...</td>
+<td>712 ...</td>
+<td>36</td>
+</tr>
+<tr>
+<td>do</td>
+<td>20 ...</td>
+<td>1910 ...</td>
+<td>715 ...</td>
+<td>640 ...</td>
+<td>38</td>
+</tr>
+</tbody>
+</table>
+
+Plantation crepe and sheet have been found to have a maximum tensile strength in the mixing of approximately 2,400 lb. sq. in. which is developed at an elongation of about 775 per cent. under a load of 1.04 kgs./sq. mm. It will be seen therefore that as regards maximum tensile strength in a rubber-sulphur mixing the Revertex is not greatly different from plantation rubber. It is of interest to note that the two samples of Revertex were obtained at different times and that they behave similarly as regards optimum tensile strength and rate of vulcanisation. They differ however as regards maintenance of tensile strength over a range of cures and in the extent to which the elongation is reduced by increasing the time of vulcanisation from 10 to 20 minutes.
+
+**Zinc oxide mixing (90:5:5).**—The results of vulcanisation
+
+and mechanical tests in this mixing are as follows:—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Time of<br/>Vulcanisation</th>
+<th rowspan="2">Tensile<br/>Strength</th>
+<th colspan="2">Elongation</th>
+<th rowspan="2">Slope</th>
+</tr>
+<tr>
+<th>At Break</th>
+<th>At load of<br/>1.04 kgs./sq.<br/>mm</th>
+</tr>
+<tr>
+<th>(mins.)</th>
+<th>(lb./sq.<br/>in.)</th>
+<th>(per cent.)</th>
+<th>(per cent.)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>25 ...</td>
+<td>2440 ...</td>
+<td>795 ...</td>
+<td>694 ...</td>
+<td>33</td>
+</tr>
+<tr>
+<td>35 ...</td>
+<td>2460 ...</td>
+<td>778 ...</td>
+<td>680 ...</td>
+<td>32</td>
+</tr>
+<tr>
+<td>45 ...</td>
+<td>2480 ...</td>
+<td>779 ...</td>
+<td>678 ...</td>
+<td>33</td>
+</tr>
+</tbody>
+</table>
+
+An extended series of tests with the same mixing containing plantation rubber is not available for comparison. Isolated tests do not indicate that plantation rubber would be weaker than Revertex. If a comparison is made however with plantation rubber containing diphenylguanidine (90:5:5:1) the plantation rubber is definitely superior in tensile strength. The average results given by a large number of samples of plantation rubber in the diphenylguanidine mixing are:—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Time of<br/>Vulcanisation</th>
+<th rowspan="2">Tensile<br/>Strength</th>
+<th colspan="2">Elongation</th>
+<th rowspan="2">Slope</th>
+</tr>
+<tr>
+<th>At Break</th>
+<th>At load of 1.04<br/>kgs./sq. mm.</th>
+</tr>
+<tr>
+<th>(mins.)</th>
+<th>(lb./sq. in.)</th>
+<th>(per cent.)</th>
+<th>(per cent.)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>25 ...</td>
+<td>2,950 ...</td>
+<td>— ...</td>
+<td>576 ...</td>
+<td>31.7</td>
+</tr>
+</tbody>
+</table>
+
+It would appear from the elongation results that 1 part of diphenylguanidine added to 90 parts of rubber has a more active effect than the accelerators in Revertex and it is therefore to be expected that plantation rubber containing this proportion of diphenylguanidine will be stronger than Revertex. On the other hand the Revertex-zinc-oxide mixing is not definitely stronger than the corresponding plantation rubber mixing without diphenylguanidine.
+
+It will be noted that this Revertex mixing can be vulcanised from 25 to 45 minutes without much alteration in properties. This is an important point in favour of Revertex. A similar "plateau" effect is induced however by a number of accelerators.
+
+**Zinc oxide mixing (90:5:90).**—The following are the results of the tests in this mixing:—
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Time of<br/>Vulcanisation</th>
+<th rowspan="2">Tensile<br/>Strength</th>
+<th colspan="2">Elongation</th>
+<th rowspan="2">Slope</th>
+</tr>
+<tr>
+<th>At Break</th>
+<th>At load of 1.04<br/>kgs./sq. mm.</th>
+</tr>
+<tr>
+<th>(mins.)</th>
+<th>(lb./sq. in.)</th>
+<th>(per cent.)</th>
+<th>(per cent.)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>25 ...</td>
+<td>2690 ...</td>
+<td>736 ...</td>
+<td>573 ...</td>
+<td>41</td>
+</tr>
+<tr>
+<td>35 ...</td>
+<td>2780 ...</td>
+<td>717 ...</td>
+<td>549 ...</td>
+<td>41</td>
+</tr>
+<tr>
+<td>45 ...</td>
+<td>2660 ...</td>
+<td>700 ...</td>
+<td>556 ...</td>
+<td>41</td>
+</tr>
+</tbody>
+</table>
+
+These results can be compared with the average of those obtained with 90 samples of plantation rubber in the same mixing containing in addition 1 part of hexamethylenetetramine.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2">Time of<br/>Vulcanisation</th>
+<th rowspan="2">Tensile<br/>Strength</th>
+<th colspan="2">Elongation</th>
+<th rowspan="2">Slope</th>
+</tr>
+<tr>
+<th>At Break</th>
+<th>At load of 1'04<br/>kgs./sq. mm.</th>
+</tr>
+<tr>
+<th>(mins.)</th>
+<th>(lb./sq. in.)</th>
+<th>(per cent.)</th>
+<th>(per cent.)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>38</td>
+<td>2,690</td>
+<td>—</td>
+<td>480</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+It will be seen that the Revertex mixing in this case is slightly stronger than the plantation rubber mixing and that the elongation is a little greater.
+
+The results of the tests with both zinc oxide mixings indicate that the tensile strength of Revertex mixings containing zinc oxide is not definitely superior and is sometimes definitely inferior to that of the corresponding plantation rubber mixings which contain in addition a suitable organic accelerator. This is particularly the case when the amount of zinc oxide present is small.
+
+### (b) Ageing Properties.
+
+A Revertex-sulphur mixing was vulcanised for 8 minutes at 148°C and artificially aged in the oven at 70°C.
+
+The following table and diagram show the results obtained in comparison with those given by plantation rubber.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th>Time of Vulcanisation</th>
+<th>Period of ageing</th>
+<th>Tensile Strength</th>
+<th>Elongation at load of 1'04 kgs./sq mm.</th>
+</tr>
+<tr>
+<th>(mins.)</th>
+<th>(hrs.)</th>
+<th>(lb./sq. in.)</th>
+<th>(per cent.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="9">Revertex</td>
+<td rowspan="9">... 8 ...</td>
+<td>0</td>
+<td>1590</td>
+<td>916</td>
+</tr>
+<tr>
+<td>48</td>
+<td>2230</td>
+<td>751</td>
+</tr>
+<tr>
+<td>96</td>
+<td>2260</td>
+<td>765</td>
+</tr>
+<tr>
+<td>144</td>
+<td>1990</td>
+<td>770</td>
+</tr>
+<tr>
+<td>170</td>
+<td>2170</td>
+<td>791</td>
+</tr>
+<tr>
+<td>200</td>
+<td>1440</td>
+<td>815</td>
+</tr>
+<tr>
+<td>300</td>
+<td>1460</td>
+<td>790</td>
+</tr>
+<tr>
+<td>400</td>
+<td>1300</td>
+<td>800</td>
+</tr>
+<tr>
+<td>600</td>
+<td>850</td>
+<td>-</td>
+</tr>
+<tr>
+<td rowspan="4">Crepe</td>
+<td rowspan="4">... ..</td>
+<td>0</td>
+<td>2080</td>
+<td>863</td>
+</tr>
+<tr>
+<td>48</td>
+<td>2020</td>
+<td>763</td>
+</tr>
+<tr>
+<td>96</td>
+<td>1620</td>
+<td>727</td>
+</tr>
+<tr>
+<td>144</td>
+<td>390</td>
+<td>700</td>
+</tr>
+<tr>
+<td rowspan="4">Smoked sheet</td>
+<td rowspan="4">... ..</td>
+<td>0</td>
+<td>2020</td>
+<td>870</td>
+</tr>
+<tr>
+<td>48</td>
+<td>2320</td>
+<td>771</td>
+</tr>
+<tr>
+<td>96</td>
+<td>2060</td>
+<td>731</td>
+</tr>
+<tr>
+<td>144</td>
+<td>1350</td>
+<td>708</td>
+</tr>
+</tbody>
+</table>
+
+## REVERTEX AGEING TESTS
+
+Revertex sulphur mixing 90:10 vulcanised 8 mins at 14.8°C
+
+Vulcanisation coefficient 2.21
+
+Tensile Strength
+
+![Graph of Tensile Strength vs Period of ageing for Revertex, Commercial Antioxidant, Smoked Sheet, and Crepe.](565e2f213d08a89e8631f8def0af20db_4_img.webp)
+
+This graph plots Tensile Strength (lb/sq.in) on the y-axis (0 to 3000) against the Period of ageing (hours) on the x-axis (0 to 600). Four curves are shown: Commercial Antioxidant (dashed line), Revertex (solid line with 'x' markers), Smoked Sheet (dotted line), and Crepe (solid line). The Commercial Antioxidant curve peaks at approximately 2700 lb/sq.in at 200 hours. The Revertex curve peaks at approximately 2300 lb/sq.in at 100 hours and then gradually declines to about 900 lb/sq.in at 600 hours. The Smoked Sheet curve peaks at approximately 2200 lb/sq.in at 100 hours and drops sharply to about 500 lb/sq.in by 200 hours. The Crepe curve peaks at approximately 2100 lb/sq.in at 100 hours and drops sharply to about 300 lb/sq.in by 200 hours.
+
+<table border="1"><thead><tr><th>Period of ageing (hours)</th><th>Commercial Antioxidant (lb/sq.in)</th><th>Revertex (lb/sq.in)</th><th>Smoked Sheet (lb/sq.in)</th><th>Crepe (lb/sq.in)</th></tr></thead><tbody><tr><td>0</td><td>1800</td><td>1800</td><td>1800</td><td>1800</td></tr><tr><td>100</td><td>2500</td><td>2300</td><td>2200</td><td>2100</td></tr><tr><td>200</td><td>2700</td><td>2100</td><td>500</td><td>300</td></tr><tr><td>300</td><td>2400</td><td>1800</td><td>-</td><td>-</td></tr><tr><td>400</td><td>2000</td><td>1400</td><td>-</td><td>-</td></tr><tr><td>500</td><td>1600</td><td>1100</td><td>-</td><td>-</td></tr><tr><td>600</td><td>1200</td><td>900</td><td>-</td><td>-</td></tr></tbody></table>
+
+Elongation load 1.04 kgs/sq.mm.
+
+![Graph of Elongation (percent) vs Period of ageing for Revertex, Commercial Antioxidant, Smoked Sheet, and Crepe.](565e2f213d08a89e8631f8def0af20db_5_img.webp)
+
+This graph plots Elongation (percent) on the y-axis (600 to 900) against the Period of ageing (hours) on the x-axis (0 to 600). Four curves are shown: Revertex (solid line with 'x' markers), Commercial Antioxidant (dashed line), Smoked Sheet (dotted line), and Crepe (solid line). The Commercial Antioxidant curve shows a steady decline from 900% to about 550%. The Revertex curve starts at 900%, drops to 750% at 100 hours, then rises to a peak of 810% at 200 hours, followed by a slight decline and then a rise to 800% at 400 hours, ending at 760% at 600 hours. The Smoked Sheet curve drops from 900% to about 700% at 200 hours. The Crepe curve drops from 900% to about 650% at 200 hours.
+
+<table border="1"><thead><tr><th>Period of ageing (hours)</th><th>Revertex (percent)</th><th>Commercial Antioxidant (percent)</th><th>Smoked Sheet (percent)</th><th>Crepe (percent)</th></tr></thead><tbody><tr><td>0</td><td>900</td><td>900</td><td>900</td><td>900</td></tr><tr><td>100</td><td>750</td><td>750</td><td>750</td><td>750</td></tr><tr><td>200</td><td>810</td><td>680</td><td>700</td><td>650</td></tr><tr><td>300</td><td>790</td><td>630</td><td>-</td><td>-</td></tr><tr><td>400</td><td>800</td><td>580</td><td>-</td><td>-</td></tr><tr><td>500</td><td>780</td><td>540</td><td>-</td><td>-</td></tr><tr><td>600</td><td>760</td><td>550</td><td>-</td><td>-</td></tr></tbody></table>
+
+![A blank white page with minor scanning artifacts.](bfcce22fb64e40417008c70ead633eb3_1_img.webp)This image is a blank white page. It contains no text, figures, or tables. There are a few very small, dark specks scattered across the page, which appear to be scanning artifacts or dust particles.
+
+The Revertex was somewhat less vulcanised than the other forms of rubber as judged by the extent to which the rubber stretched under a definite load. The Revertex sample however displays such remarkable properties on ageing that there is no doubt that in this mixing (with sulphur only) it is definitely superior to plantation rubber in this respect, for not only does it maintain a good tensile strength for a long period of time, but it also maintains a good elongation.
+
+It is concluded that on account of its good ageing properties products made from Revertex may compare very favourably in quality with those made from plantation rubber. If the properties soon after vulcanisation are compared however the advantage is with plantation rubber, particularly if used in conjunction with an organic accelerator.
+
+### Summary.
+
+The following is a summary of the conclusions drawn from the laboratory tests at the Institute regarding the advantages claimed for Revertex.
+
+(1) **Economy in time and power in incorporating fillers.**—Revertex is difficult to handle quantitatively. To convert it into dry rubber ready for calendering or extruding it has to be treated on three machines instead of one for plantation rubber. The experiments which it has been possible to carry out do not enable a definite conclusion to be drawn as to the relative cost of working Revertex and plantation rubber on a commercial scale. As soon as sulphur was added to Revertex mixings they very easily "scorched."
+
+(2) **Economy in accelerator costs.**—In the case of accelerated mixings, it is not likely that this saving would be much more than  $\frac{1}{3}d.$  per lb. of dry rubber.
+
+(3) **Improvement in quality and higher breaking load.**—No superiority in tensile strength was observed when Revertex mixings were compared with the corresponding dry rubber mixings containing a suitable organic accelerator. The ageing properties of a Revertex sulphur mixing were much superior to those of plantation rubber without the addition of an antioxidant.
+
+The precise advantages and disadvantages of Revertex are dependent upon the mixing used and the processes through which the mixed dry material is put.
+
+Imperial Institute.
+
+18th November, 1927.
+
+=== MENTIONS (28) ===
+type	text	norm	role
+COMMODITY	crepe	crepe rubber	rubber form
+COMMODITY	Crepe	Crepe rubber	rubber type
+COMMODITY	plantation rubber	plantation rubber	rubber type
+COMMODITY	plantation rubber	plantation rubber	rubber product
+COMMODITY	plantation rubber	plantation rubber	rubber type
+COMMODITY	plantation rubber	plantation rubber	rubber product
+COMMODITY	rubber	rubber	material discussed in context of mixings and plantation rubber
+COMMODITY	sheet	sheet rubber	rubber form
+COMMODITY	Smoked sheet	Smoked sheet rubber	rubber type
+COMMODITY	sulphur	sulphur	ingredient mixed into rubber
+COMMODITY	sulphur	sulphur	vulcanising agent
+COMMODITY	zinc oxide	zinc oxide	filler ingredient in mixings
+COMMODITY	zinc oxide	zinc oxide	compounding ingredient
+COMMODITY	zinc oxide	zinc oxide	mixing ingredient
+ORG	Imperial Institute	Imperial Institute	institution where samples were examined and trials made
+ORG	Imperial Institute	Imperial Institute	standardising body
+ORG	Imperial Institute	Imperial Institute	issuing organization
+ORG	Institute	Imperial Institute	laboratory
+ORG	Werner-Pfleiderer	Werner-Pfleiderer	manufacturer of dough mixer
+PRODUCT	Commercial Antioxidant	Commercial Antioxidant	rubber additive
+PRODUCT	diphenyl-guanidine	diphenyl-guanidine	accelerator
+PRODUCT	diphenylguanidine	diphenylguanidine	accelerator
+PRODUCT	hexamethylenetetramine	hexamethylenetetramine	accelerator
+PRODUCT	Revertex	Revertex	registered trade mark of a white paste prepared by concentrating latex
+PRODUCT	Revertex	Revertex	rubber product
+PRODUCT	Revertex	Revertex	rubber product
+PRODUCT	Revertex	Revertex	rubber product
+PRODUCT	Revertex	Revertex	rubber product

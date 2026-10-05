@@ -1,0 +1,21 @@
+ID: vol006_tropicalagricult18861887colo#1887-02#004
+ISSUE: 1887-02  VOL: 6  SECTION: 
+TITLE: JOKAI (ASSAM) TEA COMPANY, LIMITED.
+BYLINE: 
+WORDS: 192  PAGES: ['507']
+IA: https://archive.org/details/tropicalagricult18861887colo/page/n524/mode/1up
+
+=== TEXT ===
+### JOKAI (ASSAM) TEA COMPANY, LIMITED.
+
+The following interim report of the directors, for season, 1886, has been issued:—"Telegraphic advices received, report that the season had closed with a total crop of 696,000 lb. of tea, against the manager's estimate of 680,000 lb. costing within the estimated Indian expenditure of R244,000, as given in detail in the last annual report. The above information is subject to adjustment, eleven months being actuals and one month, December, being estimated. Of the season's crop, just over 300,000 lb. have been sold in Mincing Lane, averaging 1s 0/6d per lb. gross. The market for Indian teas has, during the greater portion of the year, been depressed for all except the finest grades, and the medium and common sorts are now selling at much lower rates than have ever before been known. These very low prices will, beyond doubt, lead to far greater consumption, and it is hoped consequent recovery of values within a reasonable time. The ascertained results of the season being so far satisfactory, the Board has resolved to pay the usual interim dividend of 5 per cent on the paid up capital of the Company, payable on the 20th inst.—*Home and Colonial Mail*.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+COMMODITY	Indian teas	Indian tea	market commodity
+COMMODITY	tea	tea	crop
+GROUP	Indian	Indian	origin of expenditure/tea
+ORG	JOKAI (ASSAM) TEA COMPANY, LIMITED.	Jokai (Assam) Tea Company, Limited	tea company
+PLACE	Assam	Assam	
+PLACE	Mincing Lane	Mincing Lane	market location
+PUBLICATION	Home and Colonial Mail	Home and Colonial Mail	newspaper

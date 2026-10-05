@@ -1,0 +1,48 @@
+ID: vol048_iss05_tropical-agriculturist-1917-05-48-5#1917-05#001
+ISSUE: 1917-05  VOL: 48  SECTION: 
+TITLE: **LESSONS FROM EXPERIMENTS WITH CACAO.**
+BYLINE: 
+WORDS: 685  PAGES: ['n0', '274']
+IA: https://archive.org/details/tropical-agriculturist_1917-05_48_5/page/n0/mode/1up
+
+=== TEXT ===
+**LESSONS FROM EXPERIMENTS  
+WITH CACAO.**
+
+---
+
+In recent numbers of the TROPICAL AGRICULTURIST reference has been made to experiments with cacao in different tropical colonies.
+
+These experiments have been designed to answer questions in regard to the cultural treatment of cacao, its manurial requirements and the yields of different trees.
+
+The results of various carefully designed experiments which have been carried over a sufficient length of time make it possible to draw some general conclusions.
+
+At the outset, it is evident in all field trials with the cacao crop that there is a great individuality in the yields of different trees, even of the same variety. This necessitates that all plots should be most carefully duplicated or triplicated so that the error of the experiment may be calculated with certainty or that preliminary trials be carried on for some years before experimental manurial or cultural treatment is undertaken so that what may be looked upon as the "natural yields" of the plots may be ascertained.
+
+Experiments which have been made in Trinidad into the "natural yields" of cacao plots clearly demonstrate the widely different yields obtained from different trees of the same variety in the same field, and has naturally raised the question whether it would not be possible in estate cultivations to cut out the bad yielding trees and replace them with supplies from heavy-yielding parents. It also opens up again the question of the possibility of putting out areas of grafted or budded plants taken from selected trees of good vigour, health and yielding capacity.
+
+In Dominica and other West Indian colonies it has been clearly demonstrated that the most profitable returns are obtained in cacao which is heavily mulched or otherwise treated with
+
+heavy dressings of coarse organic manures. Farmyard manure, if available, pays well in cacao cultivation, but where this is not obtainable mulches of coarse grass, leaves or herbage give marked and profitable increases in crops.
+
+In some localities forking and the addition of phosphatic manures have yielded profitable returns, but the success of these treatments would appear to depend upon the type of soil and the climatic conditions prevailing.
+
+The question of "shade" versus "no shade" continues to receive attention, but results seem to point to the fact that shade is required where protection from wind is desired and where suitable wind belts cannot be provided and that it is also a necessity when the conditions of atmospheric humidity are not naturally satisfactory. Cacao requires a humid atmosphere for success. When soils are light in character shade trees are often necessary to maintain a high degree of humidity in the atmosphere. This is to be noticed in many parts of Ceylon.
+
+Soils that have a fair admixture of clay appear to require little shade in the cacao if this is well protected from wind, while crops in the same district on gravelly soils suffer considerably if adequate shade is not maintained.
+
+The majority of estates adopt an intensive form of cultivation for cacao based upon the results of experiments, but peasant cultivations of this crop as a rule leave much to be desired. This is noticeable in all cacao-producing countries and has been receiving the serious attention of agricultural officers for some time past. The results of the efforts being made in the Gold Coast are being watched with interest and it would appear that some improvements have been made in the peasant cultivations of cacao in certain West Indian Colonies.
+
+Prize schemes have been evolved and have in places been successful. Demonstration cultivations have proved most useful, and are of great assistance to itinerating agricultural instructors. The gradual gradations of good, though poor, to bad cultivation of peasant-holdings as one passes along the "cart-roads" away from good estate cultivations is quite an interesting study in some West Indian Colonies.
+
+The peasant is quick to learn from ocular demonstration and more is gained by him from this method of instruction than from leaflets or lectures. If near to an estate he cultivates better than if farther away, and where estates are not numerous demonstration plots can be established with a fair chance of success.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+PLACE	Ceylon	Ceylon	location
+PLACE	Dominica	Dominica	location of experiments
+PLACE	Gold Coast	Gold Coast	location of peasant cultivation efforts
+PLACE	Trinidad	Trinidad	location of experiments
+PLACE	West Indian colonies	West Indian colonies	region
+PUBLICATION	TROPICAL AGRICULTURIST	Tropical Agriculturist	journal
+TAXON	cacao	cacao	crop

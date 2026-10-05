@@ -1,0 +1,23 @@
+ID: vol034_tropicalagricul341910ceyl#1910-01#051
+ISSUE: 1910-01  VOL: 34  SECTION: Correspondence.
+TITLE: BRAZIL GOVERNMENT AND THE RUBBER INDUSTRY.
+BYLINE: 
+WORDS: 279  PAGES: ['77']
+IA: https://archive.org/details/tropicalagricul341910ceyl/page/n92/mode/1up
+
+=== TEXT ===
+### BRAZIL GOVERNMENT AND THE RUBBER INDUSTRY.
+
+The Brazilian Government is waking up to the fact that the rubber industry of the State needs stimulating. In an article on “The Rubber Problem in Brazil,” the “Economist” says that with the tapping on a larger scale and increased consumption it is feared the normal supplies will soon not be sufficient to meet requirements. After pointing out the wasteful way collection is made in the forests and the excessive cost owing to the remoteness and difficulties of transport, our contemporary says that the Governor of Para has sent a message to the State Assembly, urging merchants to take more care in the extraction and curing of the latex, but especially bids them to cultivate trees in more accessible districts and thus compete with the plantation companies. The “Economist” further adds that to combat the various existing abuses the State Government is proposing to regulate the tapping of trees, fixing the time when the first incision may be made and its height above ground. Whilst recognising that these regulations will be difficult to enforce, our contemporary thinks it imperative that this Government inspection should be started without delay, and concludes that “everything goes to show that the Brazilian rubber industry is approaching a critical point in its career; for unless it is placed in a position to compete with the more modern and scientific methods of culture adopted in other parts of the world it must inevitably lose its present predominant position.” To which may be added that, seeing that rubber is the greatest revenue producer Brazil possesses, with the exception of coffee, it appears suicidal not to prevent the industry going to the dogs.—*H. & C. Mail, Nov. 26.*
+
+=== MENTIONS (9) ===
+type	text	norm	role
+COMMODITY	coffee	coffee	revenue producer
+COMMODITY	rubber	rubber	greatest revenue producer
+ORG	Brazilian Government	Brazilian Government	regulating the rubber industry
+ORG	State Assembly	State Assembly	Para
+PLACE	Brazil	Brazil	
+PLACE	Para	Para	State
+PUBLICATION	Economist	The Economist	newspaper
+PUBLICATION	H. & C. Mail	H. & C. Mail	newspaper
+PUBLICATION	The Rubber Problem in Brazil	The Rubber Problem in Brazil	article

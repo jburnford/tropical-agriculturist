@@ -1,0 +1,43 @@
+ID: vol091_tropical-agriculturist-1938-09-91#1938-09#003
+ISSUE: 1938-09  VOL: 91  SECTION: EDITORIAL
+TITLE: THE EFFECTS OF INCREASING QUANTITIES OF CATTLE MANURE ON PADDY
+BYLINE: CHEMIST,
+WORDS: 243  PAGES: ['144']
+IA: https://archive.org/details/tropical-agriculturist_1938-09_91/page/n11/mode/1up
+
+=== TEXT ===
+## THE EFFECTS OF INCREASING QUANTITIES OF CATTLE MANURE ON PADDY
+
+---
+
+A. W. R. JOACHIM, Ph.D., Dip. Agric. (Cantab.),  
+CHEMIST,
+
+W. R. C. Paul, M.A., M.Sc., D.I.C., Dip. Agric. (Cantab.),  
+ACTING PLANT PATHOLOGIST
+
+AND
+
+G. V. WICKREMASEKERA, Dip. Agric. (Poona),  
+A.I.C.T.A. (Trinidad),  
+ACTING PADDY OFFICER
+
+---
+
+THERE is a general belief among paddy cultivators in certain parts of the dry zone that the use of cattle manure on their paddy fields results in excessive vegetative growth with lodging and consequently in a poor yield of grain. In order to test this contention and to determine the optimum quantity of cattle manure for paddy a series of trials was laid down at certain experiment stations with the collaboration of the respective Divisional Officers during the 1936-37 north-east monsoon (*maha* or *kalapokam*). The centres chosen were Paranthan, Peradeniya, Ambalantota, Vavuniya, Minneriya, and Nalanda stations. The same experimental design was adopted at all but the last centre where, owing to the particular topography of the area, a modified plan had to be followed. It was intended to continue the trials during the subsequent south-west monsoon season (*yala* or *siropokam*) to ascertain the residual effects of the manure, but, for various reasons, principally the lack of irrigation facilities, this was possible only at Paranthan, Peradeniya, and Minneriya. Owing to unfortunate circumstances such as unseasonable rains, flooding, and uneven irrigation, &c., statistically significant results were only obtained at the first two centres. It was therefore decided to limit the scope of this article to the presentation and discussion of the data from these two stations.
+
+=== MENTIONS (13) ===
+type	text	norm	role
+COMMODITY	paddy	paddy	
+ORG	Cantab.	University of Cambridge	
+PERSON	A. W. R. JOACHIM	A. W. R. Joachim	Chemist
+PERSON	G. V. WICKREMASEKERA	G. V. Wickremasekera	Acting Paddy Officer
+PERSON	W. R. C. Paul	W. R. C. Paul	Acting Plant Pathologist
+PLACE	Ambalantota	Ambalantota	experiment station
+PLACE	Minneriya	Minneriya	experiment station
+PLACE	Nalanda	Nalanda	experiment station
+PLACE	Paranthan	Paranthan	experiment station
+PLACE	Peradeniya	Peradeniya	experiment station
+PLACE	Poona	Poona	
+PLACE	Trinidad	Trinidad	
+PLACE	Vavuniya	Vavuniya	experiment station

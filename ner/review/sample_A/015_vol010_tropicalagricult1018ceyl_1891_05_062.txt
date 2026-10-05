@@ -1,0 +1,81 @@
+ID: vol010_tropicalagricult1018ceyl#1891-05#062
+ISSUE: 1891-05  VOL: 10  SECTION: 
+TITLE: PEPERCORN. A SUBSTITUTE FOR COAL: THE FIRST LIQUID-FUEL EXPRESS LOG MOTIVE IN THE WORLD.
+BYLINE: 
+WORDS: 2101  PAGES: ['773', '774', '775']
+IA: https://archive.org/details/tropicalagricult1018ceyl/page/n818/mode/1up
+
+=== TEXT ===
+PEPERCORN.
+
+A SUBSTITUTE FOR COAL: THE FIRST  
+LIQUID-FUEL EXPRESS LOG MOTIVE  
+IN THE WORLD.
+
+[We are indebted to a correspondent who writes:—"I send you copy of the *Daily Graphic* with the account of a run on a Liquid-Fuel Express Train. As the matter bears on estate firing, I thought you would like to see same."—We give nearly all the report as of special interest to planters and others who may be longing for an economical fuel.—ED. —T. A.]
+
+A RUN ON A LIQUID FUEL EXPRESS.  
+(BY OUR SPECIAL COMMISSIONER.)
+
+It was the box-seat that did it. Had we something corresponding to the box-seat on our fast engines, where for an extra fee, one could face the wind and the rain, the sunshine and the mist,
+
+97
+
+we would discover that trains are no less interesting and picturesque than ever the old lumbering dead and gone stage coaches were; for there is beauty in an engine—leaving on one side the smoking, puffing, evil-breathed metropolitan or suburban engines—the beauty of strength and speed. Had not Dickens and Hazlitt and other literary giants of that day told us in their best of the joys of the ride on the stage coach, and hid from us its many discomforts, we would have seen less of romance in it than we do now.
+
+#### ENGINE 759.
+
+At any rate, I found much to admire in Engine 759 as she ran up the line at Ipswich station, coming to a stand after her steam from Yarmouth. She is practically the only express engine fed by liquid fuel. There are other liquid fuel engines, many in Russia, a few in the United States, and in South America, but none are entitled to be called "express" engines, engines which do long runs at a high speed. Engine 759 is now some eighteen months old, and she is in the pink of condition. She differs from the ordinary engine in appearance by having on the tender, in stead of some tons of coal, an iron tank, and in her cab one to the manner educated would have noticed a few more taps and handles and levers than usual.
+
+#### A REFUSE OF VALUE.
+
+I had travelled down with two officials of the Great Eastern Railway Locomotive Department at Stratford, and was told of one of those mechanical revolutions, of which this century has seen so many. The story is a curious one. The railway company have at Stratford gas works where they make from shale oil the gas which is burned in their trains. In the making of this gas refuse in the form of thin tar is given off, and this having been run into some stream at Stratford, the authorities came down on the company for river pollution. That it was possible to further pollute any stream at Stratford was a surprise to me. However, the company had to get rid of their refuse in some way, and it occurred to Mr. James Holden, the Locomotive Superintendent, that the best he could do with it was to burn it. He hit on a plan of burning it under the stationary boilers used for making the gas, and suddenly, from a mere refuse, this by-product had become valuable. Little led to much. Mr. Holden went on to invent a system by which the refuse could be used as fuel on locomotives, and at once effected a revolution in the fueling of engines.
+
+#### SOLID AND LIQUID FUEL.
+
+There were great difficulties to be got over. In this country it would be of little use designing a system which would render engines useless for solid fuel, or one such a nature that the parts are complicated and easily thrown out of action. It has, further, to be under the ready control of the driver. Another and chief difficulty is the blast. All these points have been fairly met. Dealing with the blast first, I must explain that when burning liquid fuel the blast required is much softer than when burning coal alone. A greater quantity of air must pass through the body of the fire when coal is used. Means were found to enlarge and reduce the blast pipe, and thus fit the engine for either coal or liquid fuel. Accompanying this is a sketch of the engine, with the front removed to show the blast pipe. The diameter there shown is 6in., and it is that diameter which is "on" when the liquid is being burned; but when coal alone is being used, the fireman touches a lever, the ring above comes down, and,
+
+being conical, reduces the blast pipe to 5in. diameter. When the large diameter is in use there is less wear and tear of fire-box and tubes, and less back pressure on the cylinders, and the engine in consequence works more freely. It will be seen that this arrangement of enlarging the blast pipe, which has been invented in connection with this system, is of high value.
+
+#### HOW THE FIRE IS FED.
+
+To explain thoroughly the ingenious arrangement of Mr. Holden's apparatus would require much technical detail. How it is done is simply this:—The liquid fuel is conducted from the tank through pipes to the "injectors." These (two in number) are placed below the footboard in front of openings provided in the fire-box. Coming from the boiler are steam pipes, all easily regulated by the bunch of handles shown in the sketch. The steam passes through these pipes to the injectors, there meeting the oil and driving the atomized fuel into the fire-box. But before combustion takes place the stream of pulverised liquid is met by still another gush of steam known as the ring jet, which induces a strong current of air, and the fuel is thrown into the fire as a fine spray, charged too with abundant oxygen for rapid combustion. Then there are other cunning contrivances—a lever which regulates or stops the flow of fuel to the furnace, a handle which, turned, sends a jet of steam through a coil in the tank to warm it in cold weather or liquify it when it is thick, and various other matters, all tending to great economy in working and in fuel. As to the relative value of the system with that of solid fuel, that also is important. One pound of the fuel is equal to 2 lb. of coal, which means that, as with a pound of coal 8 lb. of water can be evaporated, a pound of liquid fuel will evaporate 16 lb. of water. The fuel costs 25s a ton; coal to do the same work (two tons) costs 35s—a big saving alone. Of ten engines of the same class, one using liquid fuel requires per engine-mile (which includes standing in sheds, sidings, &c.), 11 lb. liquid and 12 lb. solid fuel. The others require 34 lb. solid fuel per engine-mile. The weight on the tender is reduced by a couple of tons, and the saving all round is something like 50 per cent. The gentleman who has had this department of the Stratford Works in hand form the first, tells me that the fuel used to cost them 3/1 a gallon. They are now paying 1d a gallon for it. They add to it a refuse oil obtained from the Backton Gas Works, a creosote or green oil left over after tar distillation, which costs from 1/2d to 2d a gallon, and brings up the cost of the fuel to about three halfpence per gallon.
+
+#### THE START.
+
+But all this time Engine 759 has been standing waiting the signal to be gone. Here is her official description:—Driving wheels, four coupled, 7ft. diameter; cylinders, 18in. by 24in., weight, in working order, 40 tons. Our times were:—Ipswich 4.22; Liverpool Street, 6 o'clock—nearly seventy miles to be done in an hour and twenty-eight minutes. A few yards away rose the tree-clothed hill, crowned with a pretty red-brick house, which serves to make Ipswich Station one of the most striking in the Eastern Counties. Even the tunnel, with which it has been pierced, hardly disfigured it, and on such a day—sunshiny, warm, and blue sky—after a spell of London fog it was enough to suggest the still far-off spring. I climbed into the cab of Engine 759, and saw the fuel pipes at rest. The fire was a dull glow, for it is one of the benefits arising from the use of liquid fuel that none of it is wasted when the engine is
+
+at a standstill, and no steam generated only to be blown away in a shrieking howl from the safety valve. Driver Dennison was oiling the human machine which is his, as he turned to welcome us aboard. Bob, the fireman, was oiling Engine 759, and we had the engine to ourselves for a moment. Its weight saved it. But time was now up. The "board" fell, somewhere in the rear of the train the guard whistled, and with a sharp toot and then a long call from the whistle, we were on our way up the tunnel. Bob had pulled the fuel lever and touched the steam cocks, and as he threw in three or four shovelfuls of coals, showed us the fire-box suddenly become a raging furnace of white flame. Yet as we came into the daylight the smoke stack gave no sign of smoke. A long line of steam trailed behind us, and it was pointed out that even when she was being coaled no smoke came from the engine funnel. Here is the smoke nuisance solved, so far as railways are concerned, thought I. We had now settled down for the run. We were going up hill—something like one in 110, I believe—and the load, seventeen coaches, was a heavy one. Another coach and we would have had to come on with a pilot, as is the case with this train all the summer months.
+
+\* \* \*
+
+AT TOP SPEED.
+
+A little steam was blowing off and we seemed to whistle under archways and station roofs in our speed. Away as far as I could see as I leaned out of the cab, were a number of platelayers, their day's work done, going home. They were on the up line, and when there was still a long distance between us and them the driver pulled the whistle cord. They stepped aside with pleasing promptness, and almost at once I caught a glimpse of their brown upturned faces as we powdered past. "We did that bit at over sixty," said my mentor. Only "Surfaceman" could sing the praises of such an exhilarating whirl of life inspiring haste as that! Yet one had time for contrasts. In the height of our fastest pace a country church with its white headstones, each with its wreaths and flowers of remembrance, was for a moment in sight. Who could have failed to think that for all our rattle and rush and roar, for all our "ever toiling up the climbing wave," there was the terminus? Still even there it may be pleasant to think we have been one of the first to do seventy miles in an hour and a-half on a liquid fuel express. We were nearing the end. A murky haze ahead and the lessening of the distance between the stations betokened an approach to London, whose lights were now beginning to show. Away down in the country there was an impression of stillness. The stations, the roads, the fields looked quiet. We were the only noisy object in sight. Even the woodman as we passed stopped his chopping to gaze at us in the still of the evening air.
+
+ALMOST HOME.
+
+Now people appeared thickly on the stations. The roads had become streets, and were brisk with traffic. We went by suburban trains laden with folk. London was around us. We had had a clear run. Only once did a signal stand out against us, and at once the fuel was shut off and the train began to slow. But it was only for a moment. Even in the crowded ways about the suburbs our course was indicated by green lights, and only outside Liverpool Street itself did the red show. We came to a full stop, shut off steam and fuel, and waited. The effect of shutting off the fuel was wonderful, reducing the fire at once to merely a bright glow. "She's down,"
+
+said Bob, as the signal dropped and we glided into Liverpool Street ahead of time, with the black of the fire bars showing in the box—engine-men will appreciate that after an express run—and no steam being wasted at the valve. It only remains for me to add that the system has already begun to affect the coal supply. Mr. Holden's agents, Taite and Carlton, are fitting it up on South American engines, and there it means all difference between very cheap liquid fuel at their own doors and English coal imported at £3 per ton.—*Daily Graphic*, March 4th.
+
+=== MENTIONS (18) ===
+type	text	norm	role
+ORG	Backton Gas Works	Backton Gas Works	gas works
+ORG	Great Eastern Railway	Great Eastern Railway	railway company
+ORG	Taite and Carlton	Taite and Carlton	agents
+PERSON	Bob	Bob	fireman
+PERSON	Dickens	Dickens	literary giant
+PERSON	Driver Dennison	Dennison	driver
+PERSON	Hazlitt	Hazlitt	literary giant
+PERSON	Mr. James Holden	James Holden	Locomotive Superintendent
+PLACE	Ipswich	Ipswich	station
+PLACE	Liverpool Street	Liverpool Street	station
+PLACE	London	London	city
+PLACE	Russia	Russia	country
+PLACE	South America	South America	region
+PLACE	Stratford	Stratford	location of gas works
+PLACE	United States	United States	country
+PLACE	Yarmouth	Yarmouth	origin of train
+PUBLICATION	Daily Graphic	Daily Graphic	newspaper
+PUBLICATION	Tropical Agriculturist	Tropical Agriculturist	journal

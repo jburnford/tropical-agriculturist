@@ -1,0 +1,22 @@
+ID: vol023_tropicalagricult2319ceyl#1903-11#067
+ISSUE: 1903-11  VOL: 23  SECTION: PRODUCE AND PLANTING.
+TITLE: PLANTING IN NEGRI SEMBILAN.
+BYLINE: 
+WORDS: 62  PAGES: ['335']
+IA: https://archive.org/details/tropicalagricult2319ceyl/page/n372/mode/1up
+
+=== TEXT ===
+### PLANTING IN NEGRI SEMBILAN.
+
+Only three applications for agricultural land, in Negri Sembilan, during 1902, for 50 acres and over, were received. Mr Rowland was granted 100 acres at Perhentian Tinggi for the collection of getah taban. Messrs Cumming and Bugai's application for 50 acres at Kuala Sawah for millet cultivation was approved. An application for 50 acres at Kuala Sawah for cotton cultivation was also approved.
+
+=== MENTIONS (8) ===
+type	text	norm	role
+COMMODITY	cotton	cotton	crop for cultivation
+COMMODITY	getah taban	getah taban	product for collection
+COMMODITY	millet	millet	crop for cultivation
+PERSON	Messrs Cumming and Bugai	Cumming and Bugai	applicants for land at Kuala Sawah
+PERSON	Mr Rowland	Rowland	granted 100 acres at Perhentian Tinggi
+PLACE	Kuala Sawah	Kuala Sawah	location of land applications
+PLACE	Negri Sembilan	Negri Sembilan	location of agricultural land applications
+PLACE	Perhentian Tinggi	Perhentian Tinggi	location of land grant

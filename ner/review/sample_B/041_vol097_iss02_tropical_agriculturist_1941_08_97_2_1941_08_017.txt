@@ -1,0 +1,342 @@
+ID: vol097_iss02_tropical-agriculturist-1941-08-97-2#1941-08#017
+ISSUE: 1941-08  VOL: 97  SECTION: CORRESPONDENCE
+TITLE: METEOROLOGICAL REPORT, JULY, 1941
+BYLINE: D. T. E. DASSANAYAKE,
+WORDS: 881  PAGES: ['112']
+IA: https://archive.org/details/tropical-agriculturist_1941-08_97_2/page/n59/mode/1up
+
+=== TEXT ===
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta ..</td>
+<td>85.7</td>
+<td>+0.6</td>
+<td>73.3</td>
+<td>-0.7</td>
+<td>79</td>
+<td>93</td>
+<td>5.5</td>
+<td>13.35</td>
+<td>27</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura ..</td>
+<td>92.3</td>
+<td>+1.6</td>
+<td>76.9</td>
+<td>+1.1</td>
+<td>59</td>
+<td>86</td>
+<td>6.0</td>
+<td>0</td>
+<td>0</td>
+<td>1.36</td>
+</tr>
+<tr>
+<td>Badulla ..</td>
+<td>87.1</td>
+<td>+0.8</td>
+<td>63.9</td>
+<td>-0.1</td>
+<td>54</td>
+<td>91</td>
+<td>4.6</td>
+<td>0.63</td>
+<td>3</td>
+<td>1.76</td>
+</tr>
+<tr>
+<td>Batticaloa ..</td>
+<td>92.8</td>
+<td>+0.4</td>
+<td>77.8</td>
+<td>+0.9</td>
+<td>60</td>
+<td>76</td>
+<td>4.7</td>
+<td>0.15</td>
+<td>1</td>
+<td>1.02</td>
+</tr>
+<tr>
+<td>Colombo ..</td>
+<td>86.3</td>
+<td>+1.7</td>
+<td>77.1</td>
+<td>+0.1</td>
+<td>74</td>
+<td>82</td>
+<td>7.2</td>
+<td>3.72</td>
+<td>20</td>
+<td>2.24</td>
+</tr>
+<tr>
+<td>Diyatalawa ..</td>
+<td>79.7</td>
+<td>+1.5</td>
+<td>61.8</td>
+<td>-0.7</td>
+<td>56</td>
+<td>76</td>
+<td>5.2</td>
+<td>0.21</td>
+<td>3</td>
+<td>1.75</td>
+</tr>
+<tr>
+<td>Galle ..</td>
+<td>83.8</td>
+<td>+1.1</td>
+<td>77.7</td>
+<td>+0.9</td>
+<td>78</td>
+<td>80</td>
+<td>5.9</td>
+<td>7.14</td>
+<td>23</td>
+<td>+0.44</td>
+</tr>
+<tr>
+<td>Hakgala ..</td>
+<td>69.1</td>
+<td>+0.9</td>
+<td>57.4</td>
+<td>+0.2</td>
+<td>81</td>
+<td>86</td>
+<td>6.0</td>
+<td>4.22</td>
+<td>15</td>
+<td>3.11</td>
+</tr>
+<tr>
+<td>Hambantota ..</td>
+<td>86.6</td>
+<td>-1.4</td>
+<td>76.9</td>
+<td>+0.6</td>
+<td>79</td>
+<td>86</td>
+<td>6.2</td>
+<td>3.12</td>
+<td>13</td>
+<td>+0.69</td>
+</tr>
+<tr>
+<td>Jaffna ..</td>
+<td>86.4</td>
+<td>+0.4</td>
+<td>80.4</td>
+<td>+0.7</td>
+<td>80</td>
+<td>85</td>
+<td>4.9</td>
+<td>0</td>
+<td>0</td>
+<td>0.56</td>
+</tr>
+<tr>
+<td>Kandy ..</td>
+<td>84.1</td>
+<td>+1.7</td>
+<td>70.1</td>
+<td>-0.5</td>
+<td>74</td>
+<td>87</td>
+<td>7.8</td>
+<td>5.36</td>
+<td>17</td>
+<td>2.26</td>
+</tr>
+<tr>
+<td>Kurunegala ..</td>
+<td>87.2</td>
+<td>+0.8</td>
+<td>75.7</td>
+<td>+0.6</td>
+<td>74</td>
+<td>86</td>
+<td>7.4</td>
+<td>3.33</td>
+<td>22</td>
+<td>0.79</td>
+</tr>
+<tr>
+<td>Lunuwila ..</td>
+<td>86.4</td>
+<td>+1.2</td>
+<td>76.9</td>
+<td>-0.1</td>
+<td>79</td>
+<td>91</td>
+<td>6.6</td>
+<td>2.18</td>
+<td>11</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mannar ..</td>
+<td>87.2</td>
+<td>-0.5</td>
+<td>80.2</td>
+<td>+1.1</td>
+<td>74</td>
+<td>80</td>
+<td>7.7</td>
+<td>0</td>
+<td>0</td>
+<td>0.51</td>
+</tr>
+<tr>
+<td>Nuwaru Eliya ..</td>
+<td>65.6</td>
+<td>+0.1</td>
+<td>53.8</td>
+<td>-0.9</td>
+<td>80</td>
+<td>91</td>
+<td>8.4</td>
+<td>3.84</td>
+<td>16</td>
+<td>7.99</td>
+</tr>
+<tr>
+<td>Puttalam ..</td>
+<td>87.5</td>
+<td>+1.8</td>
+<td>79.7</td>
+<td>+1.6</td>
+<td>74</td>
+<td>82</td>
+<td>6.8</td>
+<td>0.06</td>
+<td>2</td>
+<td>1.30</td>
+</tr>
+<tr>
+<td>Ratnapura ..</td>
+<td>88.0</td>
+<td>+1.5</td>
+<td>75.7</td>
+<td>+1.3</td>
+<td>78</td>
+<td>91</td>
+<td>7.0</td>
+<td>9.14</td>
+<td>24</td>
+<td>4.20</td>
+</tr>
+<tr>
+<td>Talawakele ..</td>
+<td>71.9</td>
+<td>+2.1</td>
+<td>58.8</td>
+<td>-0.7</td>
+<td>82</td>
+<td>91</td>
+<td>7.6</td>
+<td>8.57</td>
+<td>24</td>
+<td>4.99</td>
+</tr>
+<tr>
+<td>Trincomalee ..</td>
+<td>93.8</td>
+<td>+1.5</td>
+<td>79.3</td>
+<td>+1.4</td>
+<td>56</td>
+<td>78</td>
+<td>6.4</td>
+<td>2.54</td>
+<td>5</td>
+<td>+0.67</td>
+</tr>
+</tbody>
+</table>
+
+In July the rainfall was below average almost throughout the Island. Slight excesses, in no case as much as 5 inches, occurred in the south, at a few scattered stations among the hills and to the south-east of them and in the Trincomalee area. Deficits were most marked in the south-western hill country and the regions to the immediate west of it, where July rainfall averages are high.
+
+The most outstanding deficits were 11.26 inches at Blackwater, 10.74 inches at Westward Ho. Quite a number of stations in the same area were in deficit by 8-9 inches. The only excesses over 2 inches were Carchilmally 4.69 inches, Madawachchiya 2.49 inches, Sangilikandarawa 2.30 inches, Matara Hospital 2.16 inches, and Ambalantota 2.15 inches.
+
+The largest monthly totals were 24.32 inches at Norton Bridge, 23.71 inches at Carchilmally, 21.66 inches at Abergeldie Group and 21.07 inches at Watawala. Totals of over 20 inches were also recorded at Kitulgala, Theydon Bois and Kenilworth. Over 0 stations, including three of the principal stations, Jaffna, Anuradhapura and Mannar, received no rain at all during July. The majority of the nil returns were from the north and east of the Island.
+
+The only daily fall over 5 inches reported was 5.60 inches at Carchilmally on the 5th.
+
+The weather during the month remained of the settled south-west monsoon type, the pressure gradient across the Island and winds being generally south-westerly. A fair amount of rain fell in the south-west during the first third of July. The 11th to the 22nd was a comparatively dry period, but there was an appreciable increase of rainfall again during the last few days.
+
+Temperatures were again generally above average. The highest shade temperature recorded was 96.9° at Batticaloa on the 2nd, while the lowest temperature was 46.2° at Nuwaru Eliya on the 20th. Humidity was below average, particularly by night. Cloud amounts were in deficit. Surface winds were above normal strength, the predominant direction being south-westerly.
+
+D. T. E. DASSANAYAKE,  
+Superintendent Observatory.
+
+=== MENTIONS (34) ===
+type	text	norm	role
+PERSON	D. T. E. Dassanayake	D. T. E. Dassanayake	Superintendent Observatory
+PLACE	Abergeldie Group	Abergeldie Group	weather station
+PLACE	Agalawatta	Agalawatta	weather station
+PLACE	Ambalantota	Ambalantota	weather station
+PLACE	Anuradhapura	Anuradhapura	weather station
+PLACE	Badulla	Badulla	weather station
+PLACE	Batticaloa	Batticaloa	weather station
+PLACE	Blackwater	Blackwater	weather station
+PLACE	Carchilmally	Carchilmally	weather station
+PLACE	Colombo	Colombo	weather station
+PLACE	Diyatalawa	Diyatalawa	weather station
+PLACE	Galle	Galle	weather station
+PLACE	Hakgala	Hakgala	weather station
+PLACE	Hambantota	Hambantota	weather station
+PLACE	Island	Ceylon	geographic region
+PLACE	Jaffna	Jaffna	weather station
+PLACE	Kandy	Kandy	weather station
+PLACE	Kenilworth	Kenilworth	weather station
+PLACE	Kitulgala	Kitulgala	weather station
+PLACE	Kurunegala	Kurunegala	weather station
+PLACE	Lunuwila	Lunuwila	weather station
+PLACE	Madawachchiya	Madawachchiya	weather station
+PLACE	Mannar	Mannar	weather station
+PLACE	Matara Hospital	Matara Hospital	weather station
+PLACE	Norton Bridge	Norton Bridge	weather station
+PLACE	Nuwaru Eliya	Nuwaru Eliya	weather station
+PLACE	Puttalam	Puttalam	weather station
+PLACE	Ratnapura	Ratnapura	weather station
+PLACE	Sangilikandarawa	Sangilikandarawa	weather station
+PLACE	Talawakele	Talawakele	weather station
+PLACE	Theydon Bois	Theydon Bois	weather station
+PLACE	Trincomalee	Trincomalee	weather station
+PLACE	Watawala	Watawala	weather station
+PLACE	Westward Ho	Westward Ho	weather station

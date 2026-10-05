@@ -1,0 +1,803 @@
+ID: vol038_tropicalagricul381912ceyl#1912-02#005
+ISSUE: 1912-02  VOL: 38  SECTION: OILS AND FATS.
+TITLE: THE SOY BEAN IN INDIA : GLYCINE HISPIDA.
+BYLINE: By DAVID HOOPER.
+WORDS: 3143  PAGES: ['99', '100', '101', '102', '103']
+IA: https://archive.org/details/tropicalagricul381912ceyl/page/n114/mode/1up
+
+=== TEXT ===
+### THE SOY BEAN IN INDIA : GLYCINE HISPIDA.
+
+By DAVID HOOPER.
+
+(From the *Agricultural Ledger*, 1911, No. 3.)
+
+(Continued from page 15.)
+
+Fourteen samples of the seeds grown from Japanese seeds at the Manjri Experimental Farm were again analysed last year by a leading European firm. The percentage of moisture varied from
+
+9.90 to 12.06, and the percentage of oil from 16.80 to 22.48. Here there is no evidence of deterioration. In the opinion of a crusher to whom the samples were sent, eleven of the fourteen samples were declared to be good and six showing above 20 per cent. of oil, very good indeed and better in this respect than the best Sakura Manchurian beans which contain on an average 19.5 per cent. of oil.
+
+The following analyses of Indian-grown Soy beans were made in the laboratory of the Indian Museum in 1909 and 1910;—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Oil.</th>
+<th>Oil in dry.</th>
+<th>Water.</th>
+<th>Ash.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>31574</td>
+<td>Haka, Chin Hills, Yellow</td>
+<td>15.20</td>
+<td>18.53</td>
+<td>18.0</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>31614</td>
+<td>Mandalay</td>
+<td>10.66</td>
+<td>15.57</td>
+<td>12.3</td>
+<td>5.6</td>
+</tr>
+<tr>
+<td>31615</td>
+<td>Bhamo</td>
+<td>16.14</td>
+<td>20.45</td>
+<td>21.1</td>
+<td>6.4</td>
+</tr>
+<tr>
+<td>31616</td>
+<td>Lower Chindwin</td>
+<td>13.03</td>
+<td>15.47</td>
+<td>15.8</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>31619</td>
+<td>Northern Shan States</td>
+<td>16.72</td>
+<td>18.77</td>
+<td>11.0</td>
+<td>5.1</td>
+</tr>
+<tr>
+<td>31620</td>
+<td>" " " " with brown spots</td>
+<td>17.35</td>
+<td>19.73</td>
+<td>12.1</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>31626</td>
+<td>Chin Hills, Yellow</td>
+<td>17.35</td>
+<td>19.34</td>
+<td>18.3</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>31705</td>
+<td>Northern Shan States, greenish</td>
+<td>20.05</td>
+<td>21.78</td>
+<td>8.2</td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>31706</td>
+<td>" " " yellowish</td>
+<td>14.29</td>
+<td>15.55</td>
+<td>8.1</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>31707</td>
+<td>" " " "</td>
+<td>16.49</td>
+<td>17.88</td>
+<td>8.3</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>32043</td>
+<td>Lashio, Northern Shan States</td>
+<td>13.96</td>
+<td>14.93</td>
+<td>6.5</td>
+<td>5.9</td>
+</tr>
+<tr>
+<td>32074</td>
+<td>Katha</td>
+<td>14.5</td>
+<td>15.6</td>
+<td>7.0</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>32214</td>
+<td>Myitkyina "Lasi N' Loi"</td>
+<td>15.63</td>
+<td>16.86</td>
+<td>7.3</td>
+<td>4.9</td>
+</tr>
+<tr>
+<td>32215</td>
+<td>" "</td>
+<td>13.5</td>
+<td>14.54</td>
+<td>7.2</td>
+<td>5.0</td>
+</tr>
+<tr>
+<td>32216</td>
+<td>" " "Lasi N' Hti"</td>
+<td>14.8</td>
+<td>15.94</td>
+<td>7.2</td>
+<td>5.1</td>
+</tr>
+<tr>
+<td>32217</td>
+<td>" " "</td>
+<td>13.8</td>
+<td>14.85</td>
+<td>7.1</td>
+<td>5.0</td>
+</tr>
+<tr>
+<td>32265</td>
+<td>Bhamo</td>
+<td>11.15</td>
+<td>12.0</td>
+<td>6.7</td>
+<td>5.6</td>
+</tr>
+</tbody>
+</table>
+
+SOY BEANS, CHIEFLY FROM HILL TRACTS.
+
+<table border="1">
+<tbody>
+<tr>
+<td>31426</td>
+<td>Nagpur, Yellowish</td>
+<td>16.61</td>
+<td>17.89</td>
+<td>7.2</td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>31565</td>
+<td>Kalimpong, black</td>
+<td>15.50</td>
+<td>17.03</td>
+<td>9.0</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>31566</td>
+<td>" white</td>
+<td>16.51</td>
+<td>17.83</td>
+<td>7.4</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>31567</td>
+<td>" brown</td>
+<td>17.25</td>
+<td>18.98</td>
+<td>9.1</td>
+<td>5.6</td>
+</tr>
+<tr>
+<td>31568</td>
+<td>" green</td>
+<td>19.52</td>
+<td>20.87</td>
+<td>6.5</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>31569</td>
+<td>" yellowish</td>
+<td>16.62</td>
+<td>18.34</td>
+<td>9.4</td>
+<td>5.6</td>
+</tr>
+<tr>
+<td>31577</td>
+<td>Patna, black</td>
+<td>14.72</td>
+<td>17.05</td>
+<td>13.7</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>31617</td>
+<td>Shillong, white and brown</td>
+<td>15.66</td>
+<td>17.63</td>
+<td>11.2</td>
+<td>5.4</td>
+</tr>
+<tr>
+<td>31701</td>
+<td>Kangra</td>
+<td>14.25</td>
+<td>15.47</td>
+<td>7.9</td>
+<td>5.9</td>
+</tr>
+<tr>
+<td>31702</td>
+<td>Simla, brown</td>
+<td>16.83</td>
+<td>18.29</td>
+<td>8.0</td>
+<td>5.1</td>
+</tr>
+<tr>
+<td>31703</td>
+<td>" yellowish</td>
+<td>18.09</td>
+<td>19.57</td>
+<td>7.6</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>31704</td>
+<td>" black</td>
+<td>17.14</td>
+<td>18.55</td>
+<td>7.6</td>
+<td>5.8</td>
+</tr>
+<tr>
+<td>31803</td>
+<td>Naga Hills, whitish</td>
+<td>14.83</td>
+<td>16.75</td>
+<td>11.4</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td>32027</td>
+<td>Kashmir</td>
+<td>16.59</td>
+<td>17.76</td>
+<td>6.6</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td>32028</td>
+<td>" brown</td>
+<td>14.77</td>
+<td>15.84</td>
+<td>6.8</td>
+<td>4.6</td>
+</tr>
+<tr>
+<td>32583</td>
+<td>Trivandrum, white</td>
+<td>16.16</td>
+<td>18.38</td>
+<td>12.1</td>
+<td>5.8</td>
+</tr>
+<tr>
+<td>32870</td>
+<td>Darjeeling, green</td>
+<td>17.45</td>
+<td>19.80</td>
+<td>11.9</td>
+<td>5.7</td>
+</tr>
+<tr>
+<td>32871</td>
+<td>" white</td>
+<td>16.05</td>
+<td>18.18</td>
+<td>11.2</td>
+<td>5.0</td>
+</tr>
+<tr>
+<td>32872</td>
+<td>" yellow</td>
+<td>17.60</td>
+<td>19.55</td>
+<td>10.0</td>
+<td>5.8</td>
+</tr>
+<tr>
+<td>32873</td>
+<td>" brown</td>
+<td>16.85</td>
+<td>19.09</td>
+<td>11.7</td>
+<td>5.6</td>
+</tr>
+<tr>
+<td>32874</td>
+<td>" black</td>
+<td>15.25</td>
+<td>17.29</td>
+<td>11.2</td>
+<td>5.5</td>
+</tr>
+<tr>
+<td colspan="2">Average</td>
+<td>16.36</td>
+<td>18.27</td>
+<td>9.3</td>
+<td>5.4</td>
+</tr>
+</tbody>
+</table>
+
+UNITED PROVINCES, BLACK SEEDS.
+
+<table border="1">
+<tbody>
+<tr>
+<td>Farrakhabad (3 samples)</td>
+<td>15.67</td>
+<td>16.7</td>
+<td>6.6</td>
+<td>4.9</td>
+</tr>
+<tr>
+<td>Kherq (3 " )</td>
+<td>14.95</td>
+<td>16.0</td>
+<td>6.5</td>
+<td>4.4</td>
+</tr>
+<tr>
+<td>Sitapur (3 " )</td>
+<td>15.80</td>
+<td>16.8</td>
+<td>7.0</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td>Unao (3 " )</td>
+<td>15.81</td>
+<td>17.0</td>
+<td>7.5</td>
+<td>4.6</td>
+</tr>
+<tr>
+<td>Fatehgarh (2 " )</td>
+<td>15.03</td>
+<td>16.1</td>
+<td>6.7</td>
+<td>4.6</td>
+</tr>
+<tr>
+<td>Manipuri (5 " )</td>
+<td>16.52</td>
+<td>17.8</td>
+<td>7.2</td>
+<td>4.9</td>
+</tr>
+<tr>
+<td>Hardoi (6 " )</td>
+<td>16.44</td>
+<td>17.7</td>
+<td>7.5</td>
+<td>4.7</td>
+</tr>
+<tr>
+<td>Etawah (6 " )</td>
+<td>16.60</td>
+<td>18.0</td>
+<td>7.6</td>
+<td>4.8</td>
+</tr>
+<tr>
+<td>Chakrata (2 " )</td>
+<td>16.75</td>
+<td>18.0</td>
+<td>7.1</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>Shikohabad (2 " )</td>
+<td>17.10</td>
+<td>18.3</td>
+<td>6.7</td>
+<td>4.8</td>
+</tr>
+<tr>
+<td>Lakhimpur (2 " )</td>
+<td>16.22</td>
+<td>17.5</td>
+<td>7.1</td>
+<td>5.2</td>
+</tr>
+<tr>
+<td colspan="2">Average</td>
+<td>16.06</td>
+<td>17.2</td>
+<td>7.0</td>
+<td>4.8</td>
+</tr>
+</tbody>
+</table>
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>Oil.</th>
+<th>Oil in dry.</th>
+<th>Water.</th>
+<th>Ash.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>31776 Yellowish</td>
+<td>20.55</td>
+<td>22.07</td>
+<td>6.9</td>
+<td>6.6</td>
+</tr>
+<tr>
+<td>31777 "</td>
+<td>19.50</td>
+<td>20.86</td>
+<td>6.5</td>
+<td>6.2</td>
+</tr>
+<tr>
+<td>31778 "</td>
+<td>19.75</td>
+<td>21.19</td>
+<td>6.8</td>
+<td>7.1</td>
+</tr>
+<tr>
+<td>31779 "</td>
+<td>20.0</td>
+<td>21.67</td>
+<td>7.7</td>
+<td>7.0</td>
+</tr>
+<tr>
+<td>31780 "</td>
+<td>20.25</td>
+<td>21.68</td>
+<td>6.6</td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>31781 Greenish</td>
+<td>19.10</td>
+<td>20.51</td>
+<td>6.9</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>31782 "</td>
+<td>17.30</td>
+<td>18.72</td>
+<td>7.6</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>31783 Yellowish</td>
+<td>21.20</td>
+<td>22.84</td>
+<td>7.2</td>
+<td>6.6</td>
+</tr>
+<tr>
+<td>31784 "</td>
+<td>18.25</td>
+<td>19.79</td>
+<td>7.8</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>31785 Black</td>
+<td>19.10</td>
+<td>20.73</td>
+<td>7.9</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>31786 Yellowish</td>
+<td>22.05</td>
+<td>23.84</td>
+<td>7.6</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>31787 Mixed</td>
+<td>22.4</td>
+<td>24.21</td>
+<td>7.5</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>31788 "</td>
+<td>19.30</td>
+<td>21.00</td>
+<td>8.1</td>
+<td>5.4</td>
+</tr>
+<tr>
+<td>31789 Yellowish</td>
+<td>19.80</td>
+<td>21.67</td>
+<td>8.2</td>
+<td>6.2</td>
+</tr>
+<tr>
+<td>31790 Green</td>
+<td>21.70</td>
+<td>23.56</td>
+<td>7.9</td>
+<td>5.9</td>
+</tr>
+<tr>
+<td>Average</td>
+<td>20.01</td>
+<td>21.61</td>
+<td>7.4</td>
+<td>6.2</td>
+</tr>
+</tbody>
+</table>
+
+THE OIL.
+
+Soy bean oil is largely used as food in the Far East. The oil has many other uses. Thus, in China, it is used for illuminating purposes, and as it is a drying oil, it can be used in the manufacture of paints in the place of linseed oil. In Europe as well as in Eastern Asia it is employed in the manufacture of soap and as a machine lubricant.
+
+The oil expressed from Soy beans is a favourite article of diet in Eastern Asia. Recently it has been used in the manufacture of margarine or artificial butter. The digestibility of the oil for man was studied by Korentschewski and Zimmerman in 1906. The co-efficient of digestibility was found to be about 95 per cent. Thus it is seen that Soy bean oil is thoroughly assimilated.
+
+An attempt in 1903 to extract oil from these beans with the country *ghani* or indigenous oil-mill in the usual way was a failure in Bombay. The oil is expressed by means of primitive plant in the Chinese factories. The method of extraction consists in first crushing the beans into caked masses by means of mill-stones, then heating them on stone slabs until the appearance of vapours, and finally expressing them in an iron receptacle. As first obtained the oil is turbid, but after some time becomes clear, the deposits consisting of sand particles and vegetable fibres. Only the clear oil is exported, but the turbid oil is sold locally. It has a faint odour recalling that of Chinese wood (tung) oil, is bland to the taste and of a dark-brown colour.
+
+Four commercial samples examined in 1905 by W. Korentschewski and A. Zimmerman gave the following results:—Water, 0.3 to 1.80 per cent.; specific gravity at 15°C., 0.9264 to 0.9287; solidi-
+
+fication point, 14.6° to 15.3°C.; saponification value, 207.9 to 212.6; ester value, 203.9 to 207.7; insoluble fatty acids, 93.6 to 94.28 per cent.; iodine value (Hubl) 114.8 to 137.2; solidification point of fatty acids, 16° to 77.3°C.; m. pt. of fatty acids, 20° to 21°C.; Maumene test 102° to 116°C.; and acid value, 1.86 to 15.46.
+
+It belongs to the class of semi-drying oils, that is to say, it has properties intermediate between those of the drying oils, such as linseed oil and the non-drying oils, such as almond and olive oils. On exposure to the air, a thin skin is gradually formed on the surface. It resembles cotton-seed oil in many respects, but is of a more pronounced drying character, as is indicated by its higher iodine value (the iodine value of the cotton-seed oil being 101 to 186). The oil consists mainly of the glycerides of palmitic oleic and linolic acids.
+
+OIL-CAKE.
+
+The Soy bean oil-cake left after the oil is expressed is a valuable cattle food, and may be substituted for the dearer decorticated cotton cake. Some cases of supposed poisonous action of the cake have been reported in England. The cause was probably due to overfeeding or admixture with noxious ingredients. Soy-bean cake being exceedingly rich and concentrated, should be used with discretion especially in the case of dairy cows. It is also used as a manure. The following analysis of the cake is taken from the *Agricultural Gazette* of New South Wales, Vol. XX., 1909, p. 671:—
+
+“Moisture 14.52; ash 5.16; fibre, 4.03; albuminoids, 42.31; carbohydrates, 25.25; other extract (fat and oil), 8.73; nutritive value, 87.3; albuminoid ratio, 1 to 1.06.
+
+“The ash is rich in potash salts and phosphates, and the manurial value is shown by the proportions of fertilising
+
+ingredients which are as follows in the whole cake:—Nitrogen, 6.77 per cent.; potash, 2.00 per cent.; phosphoric acid, 1.33 per cent."
+
+Soy-bean cake exported from Manchuria is stamped with the manufacturer's brand, and contains a guaranteed analysis of 6.5 per cent. of total nitrogen and 1.5 per cent. of phosphoric anhydride.
+
+#### COMPOSITION OF HAY.
+
+The Soy bean is cultivated in the United States of America mainly as a forage crop and numerous experiments have been made in its growth. The following table showing the composition of the various kinds of forage made from the Soy bean (in a fresh or air dried condition) is taken from the *U.S. Farmers' Bulletin* No. 28:—
+
+<table border="1">
+<thead>
+<tr>
+<th>Soy bean forage.</th>
+<th>Water.</th>
+<th>Protein.</th>
+<th>Fat.</th>
+<th>Nitrogen Free extract.</th>
+<th>Fibre.</th>
+<th>Ash.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fodder (early bloom to early seeds) ..</td>
+<td>76.5</td>
+<td>3.6</td>
+<td>1.0</td>
+<td>10.1</td>
+<td>6.5</td>
+<td>2.3</td>
+</tr>
+<tr>
+<td>Soy bean hay (Mass) ..</td>
+<td>12.1</td>
+<td>14.2</td>
+<td>4.1</td>
+<td>41.2</td>
+<td>21.1</td>
+<td>7.3</td>
+</tr>
+<tr>
+<td>" , straw ( , ) ..</td>
+<td>11.4</td>
+<td>4.9</td>
+<td>1.9</td>
+<td>37.8</td>
+<td>37.6</td>
+<td>6.4</td>
+</tr>
+</tbody>
+</table>
+
+Dr. Leather obtained the following figures as the average of five analyses of "bhusa" or dried green tops of Soy grown at Dumraon in 1902:—Water, 9.85; fat, 1.0; protein, 3.7; nitrogen free extract, 46.07; fibre, 28.44; ash, 10.94 per cent.
+
+When dealing with the chemical analysis of the Soy-bean forage, it should be noted that the proper value of a forage does not depend on its composition only, but the digestibility of the various components must be taken into account. Quoting again from the *Farmers' Bulletin*:—"The following rough computation will give an idea of the amount of digestible matter in the forage raised on an acre planted with this crop. Under ordinary farm conditions the yield of green fodder usually ranges from 6 to 12 tons per acre. Taking 8 tons as an average yield, the amount of dry matter will be about 2 tons, of which about 54 per cent. is digestible. This will make the digestible matter raised on an acre of ground amount to nearly eleven-tenth ton. Of this amount about one-sixth is protein or muscle-making material and about three-fourths crude fibre and other fat-forming substances."
+
+#### USE AS FOOD.
+
+The Soy bean is very largely eaten by the Chinese and Japanese as a vegetable, and many food preparations are made from it. It is a very important article of diet for people whose staple food is rice, a cereal very poor in proteid or
+
+nitrogenous substances. The highly nitrogenous Soy bean supplies the place of meat in European countries, and the introduction of this rich bean into the dietary of the rice-eating people of India would be a benefit to the country.
+
+Three Japanese food preparations are especially made from the bean: Soy-bean milk, Soy-bean cheese or "topo," and Soy-bean sauce or "Shoyu."
+
+*Soy bean Milk.*—The Soy beans are first soaked in water for about twelve hours and then well crushed between mill-stones. The powder is then boiled with about three times its bulk of water for about an hour and filtered through cloth. The filtrate resembles cow's milk in appearance and to some extent in composition; it is easily digestible and forms a highly nitrogenous liquid, but it is not suitable for the nourishment of children.
+
+*Bean Cheese.*—When Soy-bean milk is treated with magnesium chloride (or the mother liquor obtained in the manufacture of common salt from sea water) the proteids are separated in the form of a precipitate. This is collected on a filter, pressed and dried, and forms "topo" or Soy-bean cheese. It is eaten in a fresh state.
+
+*Shoyu.*—Shoyu is a sauce prepared from a mixture of cooked and pulverised Soy beans, washed and powdered wheat, wheat flour, salt and water. The mass is fermented with rice-wine ferment in casks for from one-and-a-half to five years, being frequently stirred. The resulting product is a moderately thick, brown liquid. Its odour and taste it is not unlike a good quality of meat extract though perhaps somewhat more pungent. Under the name of "Soy sauce" and other fanciful names it has formed the basis of most of the important sauces of Europe for many years.
+
+Roasted Soy beans are being used in the United States and Switzerland as a coffee substitute.
+
+The Soy bean contains little or no starch, and is consequently used as a diet for diabetic patients. Bread and biscuits made from Soy-bean flour are now being placed on the European markets.
+
+#### TRADE.
+
+Soy bean used to be cultivated in Manchuria to meet the demands in China and Japan, but from the year 1908 Europe has entered the field as a chief customer. During the last few years the Manchurian trade in Soy beans has prospered by leaps and bounds. The chief cause of this sudden development
+
+is certainly the last Russo-Japanese war when agriculture in Manchuria was greatly stimulated as this country had to provide for the large numbers of soldiers located there. At the end of the war the armies were withdrawn, and Manchuria was obliged to export the surplus of its food products, mainly, Soy beans.
+
+The first large cargo of the bean reached Hull on the 2nd of March, 1909, and contained 5,200 tons. Ever since then the demand for this bean has rapidly increased and British oil-crushers are setting up big machines for the bean-oil. On the continent of Europe as well as in England, a good deal of interest is being manifested in the Soy bean industry. The following facts taken from the *Indian Trade Journal* of April 28th, 1910, will give an idea of the importance that this trade is rapidly acquiring now-a-days.
+
+"Up to 1907 the total exports of Soy beans from Manchuria did not exceed 120,000 tons annually. In 1908 the shipments amounted to 330,000 tons, and in 1909 they ranged between 700,000 and 800,000 tons.
+
+It is understood that large elevators are being erected outside Hull for handling the bean. This indicates that the trade is expected to be not only large but permanent; and there remains no doubt that this remarkable new trade will affect the Indian business in oils seeds."
+
+Mr. F. E. Wilkinson, H. M. Consul at Newchwang, in his report on the trade of that district in 1909 writes:—
+
+"In 1908, 178,000 tons of beans and 318,000 tons of bean-cake were exported from Newchwang, and 438,000 tons of beans and 276,000 tons of bean-cake from Darien, making a total of 616,000 tons of beans and 594,000 tons of bean cake. Now as 100 tons of beans are required to produce 9 tons of oil, it may be estimated that to produce 594,000 tons of bean-cake, 653,400 tons of beans must have been treated, so that the total quantity of beans represented by the combined exports of bean produce from the two ports was, 1,269,400 tons. Exports from other places on the coast would bring the total exports from South Manchuria to about 1,300,000 tons."
+
+Mr. R. M. Hodson, H. M. Vice-Consul at Vladivostock, in his report on the trade of that district in 1908 to 1909, writes:—
+
+"The Soy bean export to Europe through Vladivostock commenced in December, 1908, and shipments continued all through 1909 till October, the total
+
+amount exported to Europe being 200,000 tons. The cargo was nearly all carried in British bottoms and destined to oil mills in the United Kingdom. . . . The centre of the trade for North Manchuria is Kharbin, and several British firms have recently opened buying agencies there."
+
+One great advantage in Soy bean trade is that the beans arrive in Europe in a perfect condition from distant Manchuria.
+
+#### PRICE.
+
+The following extract is from the report of the Consul at Newchwang from which an extract has already been made:—
+
+"At the time of the first shipments to Europe, the price of the beans laid down at Darien was about £3 10s. per ton. By the spring of 1909 the value of the Soy bean as an article of commerce had become generally known, and a large number of British and other firms entering the field as prospective buyers, competitions gradually drove the price up. The new crop though well up to the average proved not to be equal either in quality or quantity to that of 1908. The price of beans consequently rose still further, and in February, 1910, it reached £6 5s. per ton, the highest point it has touched as yet.
+
+"At the price mentioned, China and Japan are practically out of the market as buyers, and about 80 per cent. of the purchases of beans made since December last have been for the European Market."
+
+=== MENTIONS (102) ===
+type	text	norm	role
+COMMODITY	Chinese wood (tung) oil	Tung oil	odour comparison
+COMMODITY	cotton cake	Cotton cake	cattle food
+COMMODITY	cotton-seed oil	Cotton-seed oil	comparison
+COMMODITY	linseed oil	Linseed oil	paint ingredient
+COMMODITY	margarine	Margarine	artificial butter
+COMMODITY	rice	rice	staple food
+COMMODITY	Soy bean	Soy bean	article of commerce
+COMMODITY	Soy bean oil	Soy bean oil	food, illuminating, paint, soap, lubricant, margarine
+COMMODITY	Soy bean oil-cake	Soy bean oil-cake	cattle food, manure
+COMMODITY	Soy beans	Soy beans	product analysed
+EVENT	Russo-Japanese war	Russo-Japanese War	event that stimulated agriculture in Manchuria
+GROUP	British	British	oil-crushers
+GROUP	British	British	firms
+GROUP	Chinese	Chinese	consumers
+GROUP	Indian	Indian	business in oil seeds
+GROUP	Japanese	Japanese	origin of seeds
+GROUP	Japanese	Japanese	consumers
+ORG	Indian Museum	Indian Museum	laboratory
+ORG	Manjri Experimental Farm	Manjri Experimental Farm	experimental farm
+PERSON	A. Zimmerman	A. Zimmerman	analyst
+PERSON	DAVID HOOPER	David Hooper	author
+PERSON	Dr. Leather	Dr. Leather	analyst
+PERSON	F. E. Wilkinson	F. E. Wilkinson	H. M. Consul at Newchwang
+PERSON	Korentschewski	Korentschewski	researcher
+PERSON	R. M. Hodson	R. M. Hodson	H. M. Vice-Consul at Vladivostock
+PERSON	W. Korentschewski	W. Korentschewski	analyst
+PERSON	Zimmerman	Zimmerman	researcher
+PLACE	Bhamo	Bhamo	origin of sample
+PLACE	Bombay	Bombay	
+PLACE	Chakrata	Chakrata	origin of sample
+PLACE	Chin Hills	Chin Hills	origin of sample
+PLACE	China	China	
+PLACE	China	China	
+PLACE	China	China	
+PLACE	Darien	Darien	port of export
+PLACE	Darien	Darien	
+PLACE	Darjeeling	Darjeeling	origin of sample
+PLACE	Dumraon	Dumraon	location of soy growth
+PLACE	Eastern Asia	Eastern Asia	
+PLACE	England	England	
+PLACE	England	England	
+PLACE	Etawah	Etawah	origin of sample
+PLACE	Europe	Europe	
+PLACE	Europe	Europe	chief customer for Soy beans
+PLACE	Europe	Europe	
+PLACE	European Market	European Market	
+PLACE	Far East	Far East	
+PLACE	Farrakhabad	Farrakhabad	origin of sample
+PLACE	Fatehgarh	Fatehgarh	origin of sample
+PLACE	Haka	Haka	origin of sample
+PLACE	Hardoi	Hardoi	origin of sample
+PLACE	Hull	Hull	port receiving Soy bean cargo
+PLACE	India	India	country
+PLACE	Japan	Japan	
+PLACE	Japan	Japan	
+PLACE	Kalimpong	Kalimpong	origin of sample
+PLACE	Kangra	Kangra	origin of sample
+PLACE	Kashmir	Kashmir	origin of sample
+PLACE	Katha	Katha	origin of sample
+PLACE	Kharbin	Kharbin	centre of trade for North Manchuria
+PLACE	Kherq	Kherq	origin of sample
+PLACE	Lakhimpur	Lakhimpur	origin of sample
+PLACE	Lashio	Lashio	origin of sample
+PLACE	Lower Chindwin	Lower Chindwin	origin of sample
+PLACE	Manchuria	Manchuria	export origin
+PLACE	Manchuria	Manchuria	region where Soy beans were cultivated
+PLACE	Mandalay	Mandalay	origin of sample
+PLACE	Manipuri	Manipuri	origin of sample
+PLACE	Myitkyina	Myitkyina	origin of sample
+PLACE	Naga Hills	Naga Hills	origin of sample
+PLACE	Nagpur	Nagpur	origin of sample
+PLACE	New South Wales	New South Wales	
+PLACE	Newchwang	Newchwang	port of export
+PLACE	Northern Shan States	Northern Shan States	origin of sample
+PLACE	Patna	Patna	origin of sample
+PLACE	Shikohabad	Shikohabad	origin of sample
+PLACE	Shillong	Shillong	origin of sample
+PLACE	Simla	Simla	origin of sample
+PLACE	Sitapur	Sitapur	origin of sample
+PLACE	Switzerland	Switzerland	
+PLACE	Trivandrum	Trivandrum	origin of sample
+PLACE	Unao	Unao	origin of sample
+PLACE	United Kingdom	United Kingdom	destination for oil mills
+PLACE	United Provinces	United Provinces	region
+PLACE	United States	United States	
+PLACE	United States of America	United States of America	cultivation location
+PLACE	Vladivostock	Vladivostock	port of export
+PRODUCT	ghani	Ghani	indigenous oil-mill
+PRODUCT	magnesium chloride	magnesium chloride	chemical agent
+PRODUCT	Shoyu	Shoyu	Soy-bean sauce
+PRODUCT	Shoyu	Shoyu	sauce prepared from Soy beans
+PRODUCT	Soy-bean milk	Soy-bean milk	food preparation
+PRODUCT	topo	topo	Soy-bean cheese
+PUBLICATION	Agricultural Gazette	Agricultural Gazette	source of analysis
+PUBLICATION	Agricultural Ledger	Agricultural Ledger	source journal
+PUBLICATION	Farmers' Bulletin	U.S. Farmers' Bulletin	source of data
+PUBLICATION	Indian Trade Journal	Indian Trade Journal	source of trade facts
+PUBLICATION	U.S. Farmers' Bulletin	U.S. Farmers' Bulletin	source of data
+TAXON	Manchurian	Manchurian	soy bean variety
+TAXON	Sakura	Sakura	soy bean variety
+TAXON	Soy beans	Soy bean	plant used for sauce, diet, and oil
+TAXON	Soy-bean	Soy bean	forage crop, food

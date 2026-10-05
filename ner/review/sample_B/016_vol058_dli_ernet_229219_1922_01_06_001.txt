@@ -1,0 +1,38 @@
+ID: vol058_dli-ernet-229219#1922-01/06#001
+ISSUE: 1922-01/06  VOL: 58  SECTION: 
+TITLE: (untitled)
+BYLINE: 
+WORDS: 88  PAGES: ['n0', 'n3']
+IA: https://archive.org/details/dli.ernet.229219/page/n0/mode/1up
+
+=== TEXT ===
+![Coat of arms of the Agricultural Research Institute Pusa, featuring a lion and a unicorn supporting a shield with the motto 'DIEU ET MON DROIT'.](629dda37ccec7214506ec44662759aff_1_img.webp)The image is a black and white illustration of the coat of arms of the Agricultural Research Institute Pusa. It features a central shield with a cross and the motto 'DIEU ET MON DROIT' (God and my right) written around it. The shield is supported by a lion on the left and a unicorn on the right. Above the shield is a crown. Below the shield is a ribbon with the motto 'DIEU ET MON DROIT'.
+
+**AGRICULTURAL RESEARCH INSTITUTE'**
+
+**PUSA**
+
+The  
+— Tropical —  
+Agriculturist:
+
+*Founded 1881*
+
+*Vol. LVIII. —*
+
+.....
+
+313877  
+17266136
+
+Containing Numbers I to VI  
+January to June, 1922.
+
+Cave, Colombo.
+
+=== MENTIONS (4) ===
+type	text	norm	role
+ORG	Agricultural Research Institute Pusa	Agricultural Research Institute, Pusa	research institute
+PLACE	Colombo	Colombo	place of publication
+PLACE	Pusa	Pusa	
+PUBLICATION	The Tropical Agriculturist	The Tropical Agriculturist	journal

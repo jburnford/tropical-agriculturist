@@ -1,0 +1,67 @@
+ID: vol100_iss02_tropical-agriculturist-april-june-1944-100-2#1944-04/06#018
+ISSUE: 1944-04/06  VOL: 100  SECTION: MEETINGS, CONFERENCES, &c.
+TITLE: COCONUT RESEARCH SCHEME—BOARD OF MANAGEMENT
+BYLINE: 
+WORDS: 264  PAGES: ['132']
+IA: https://archive.org/details/tropical-agriculturist_april-june-1944_100_2/page/n67/mode/1up
+
+=== TEXT ===
+## COCONUT RESEARCH SCHEME—BOARD OF MANAGEMENT
+
+MINUTES OF THE SIXTY-SEVENTH MEETING OF THE BOARD OF MANAGEMENT, COCONUT RESEARCH SCHEME, HELD IN ROOM NO. 202, NEW SECRETARIAT, COLOMBO, ON THURSDAY, APRIL 27, 1944, AT 10.30 A.M.
+
+*Present.*—Mr. L. J. de S. Seneviratne, C.C.S., Acting Director of Agriculture (Chairman); Mr. C. E. Jones, C.C.S., Deputy Financial Secretary; Mr. S. Pararajasingham, Chairman, L. C. P. A.; Mr. S. Dharmaratnam, M.S.C.; Mr. C. A. M. de Silva; Mr. W. P. H. Dias, J.P.; Sir Wilfred de Soysa; Mr. Graham Pandittesekera, J.P., U.M.
+
+Apologies for absence were received from Mr. Dudley Senanayake, M.S.C., Mr. O. B. M. Cheyne and Mr. D. D. Karunaratne.
+
+Dr. R. Child, Director of Research, acted as Secretary.
+
+### MINUTES.
+
+The minutes of the previous meeting held on March 20, 1944, which had been circulated to members were confirmed.
+
+### MEMBERSHIP OF BOARD.
+
+The Chairman reported that Mr. S. Pararajasingham had, on March 30, 1944, been re-elected Chairman of the Low-Country Products Association, and so continued to be an *ex-officio* member of the Board.
+
+### FINANCE.
+
+The Statement of Receipts and payments for the Quarter ended March 31, 1944, was tabled and approved.
+
+### PRICE PAID FOR SEED-NUTS.
+
+After discussion it was decided that the price paid by the Scheme for the purchase of selected seed-nuts from co-operating estates should be Rs. 75 per thousand, from May 1, 1944.
+
+### CHEKKU POONAC AND OIL.
+
+Referring to the discussion at the previous meeting, the Director of Research said that he had analysed Mr. Cheyne's sample of chekku poonac and oil and that Mr. Cheyne had provided information on the cost of working; a note on these results would be circulated to the members of the Board.
+
+### APPOINTMENT OF SECRETARY-ACCOUNTANT.
+
+It was unanimously decided to offer the post to Mr. S. C. Kahawita on the terms advertised.
+
+The meeting terminated at 12.40 P.M.
+
+=== MENTIONS (21) ===
+type	text	norm	role
+COMMODITY	oil	oil	sample analysed
+COMMODITY	seed-nuts	seed-nuts	purchased from co-operating estates
+ORG	Board of Management	Board of Management, Coconut Research Scheme	governing body
+ORG	Coconut Research Scheme	Coconut Research Scheme	research scheme
+ORG	L. C. P. A.	Low-Country Products Association	association
+PERSON	Dr. R. Child	R. Child	Director of Research
+PERSON	Mr. C. A. M. de Silva	C. A. M. de Silva	Board member
+PERSON	Mr. C. E. Jones	C. E. Jones	Deputy Financial Secretary
+PERSON	Mr. D. D. Karunaratne	D. D. Karunaratne	absent member
+PERSON	Mr. Dudley Senanayake	Dudley Senanayake	absent member
+PERSON	Mr. Graham Pandittesekera	Graham Pandittesekera	Board member
+PERSON	Mr. L. J. de S. Seneviratne	L. J. de S. Seneviratne	Acting Director of Agriculture (Chairman)
+PERSON	Mr. O. B. M. Cheyne	O. B. M. Cheyne	absent member
+PERSON	Mr. S. C. Kahawita	S. C. Kahawita	candidate for Secretary-Accountant
+PERSON	Mr. S. Dharmaratnam	S. Dharmaratnam	Board member
+PERSON	Mr. S. Pararajasingham	S. Pararajasingham	Chairman, L. C. P. A.
+PERSON	Mr. W. P. H. Dias	W. P. H. Dias	Board member
+PERSON	Sir Wilfred de Soysa	Wilfred de Soysa	Board member
+PLACE	Colombo	Colombo	city
+PLACE	New Secretariat	New Secretariat, Colombo	meeting location
+PRODUCT	chekku poonac	chekku poonac	sample analysed

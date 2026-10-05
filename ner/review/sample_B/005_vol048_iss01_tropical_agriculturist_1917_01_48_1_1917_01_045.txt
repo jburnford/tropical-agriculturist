@@ -1,0 +1,75 @@
+ID: vol048_iss01_tropical-agriculturist-1917-01-48-1#1917-01#045
+ISSUE: 1917-01  VOL: 48  SECTION: GENERAL.
+TITLE: MANUFACTURE OF KINO IN NORTH MALABAR.
+BYLINE: 
+WORDS: 955  PAGES: ['68', '69']
+IA: https://archive.org/details/tropical-agriculturist_1917-01_48_1/page/n69/mode/1up
+
+=== TEXT ===
+## MANUFACTURE OF KINO IN NORTH MALABAR.
+
+Inquiries have been received from American firms dealing in crude drugs requesting information as to whether certain botanical gums, seeds, and herbs used in pharmacy may be obtained from the Madras Presidency. Although South India is not at present an important export centre for crude drugs other than *nux vomica*, *senna* leaves, and *cinchona* bark (this last named exported to Great Britain), there seems to be a possibility that trade in other botanical drugs may develop, as several varieties are produced in the region and are either not fully utilized for commercial purposes at present or else form part of a general stock sent to Northern ports for distribution.
+
+The difficulty in the way of trade is said to be that gum is generally not systematically produced and hardly anywhere are the forests so exclusively of one gum-yielding tree as to admit of a large uniform and constant supply of any particular gum. Gum when detected is gathered casually by women and children or by the shepherds and sold in small quantities to the nearest shopkeeper. It is next conveyed to the dealers and so on through many hands until diversified gums, the produce of a wide area, get intermixed. This relates more particularly to the Indian "gum ghati" of commerce.
+
+### SOUTH INDIAN GUMS AND RESINS.
+
+Information obtained by the consulate would seem to indicate that among gums and herb extracts produced to some extent in South India are copal (the white dammar, or Malabar tallow, of South India); black dammar (*C. strictum*); *euphorbia*, one variety of which, not uncommon in South India, is known as the milk hedge or milk bush, and is a source of gutta percha
+
+\*See T. A. for January, 1915, p. 13.—Ed.
+
+as well as of medicine; gambogia (occasionally found on the west coast and in the Nilgiris); mamiran, one of the twelve species of barberry plant, extracts from which are particularly used in medicine in applications to the eye; kino (*Pterocarpus Marsupium*). Of these the trees producing white dammar, black dammar and kino are common in South India. The production of Indian kino on a commercial scale and the introduction into the European market of an improved supply from India has been largely the result of the work of forestry officers of the local government. The manufacture of kino from the juice of *P. Marsupium*, as conducted in the district of North Malabar, is thus described:—
+
+#### PREPARING THE GUM-SHIPPING CENTRES.
+
+The season for collecting is in the dry weather during February and March, when the trees are in blossom. The right to tap the trees is put up at auction. In other cases the tapping is conducted by rangers, under the supervision of the district forest officers. According to the approved method a longitudinal cut about  $1\frac{1}{2}$  feet long is made with an axe or knife through the bark of the tree, and side cuts are made to lead into this. A bamboo tube is then fixed at the bottom of the main incision to catch the juice. In about 24 hours the flow of gum ceases and the bamboo is taken down. When several of these bamboo tubes are nearly full they are carried to headquarters and emptied into a large caldron and the juice boiled. During the boiling the impurities which rise to the surface are skimmed off. When sufficiently concentrated the gum is exposed to the sun in shallow vessels until dry enough to crumble to pieces. It is then weighed and packed.
+
+Another method, more recently adopted in North Malabar, is to dry the juice in shallow trays in the shade. The trays are arranged on tiers or shelves constructed of bamboo and the dust excluded by muslin-covered doors. The gum is poured into the trays in layers about one-eighth of an inch thick and takes seven or eight days to dry, producing a dark ruby kino of great purity. The yield has been found to be about  $1\frac{1}{2}$  pounds of juice per tree, equivalent to three-quarters of a pound of the dried gum, ready for medicinal purposes. The yield of dry kino from the liquid exudation depends on the consistency at time of collection, but is usually 50 per cent.
+
+In North Malabar alone it is stated that about 2,000 pounds of kino can be procured annually at a price of 3 to 4 annas (\$0.06 to \$0.08) a pound, but, generally speaking, there is scarcely any demand for the article except by the Medical Store Departments of Calcutta, Madras and Bombay. Malabar kino finds an outlet in the ports of Calicut and Tellicherry. The native State of Travancore exports its produce through Cochin and Alleppey, while gum collected in South Kanara is despatched through Mangalore. Much of the kino is known as "Cochin grain," probably because Cochin is the principal port of call. Medicinally kino is used as an astringent.
+
+#### KINO AS A DYEING AND TANNING SUBSTANCE.
+
+Kino has been examined with a view to discovering its value as a tanning material, and some authorities consider that it would be suitable for use as such provided it could be obtained at a sufficiently low cost to enable it to compete with other tanning materials. Experiment seems to prove that the kino prepared by the method of merely drying the juice in the sun is best for use as a tan. The bark of the tree is occasionally used for dyeing, containing a brownish-red colouring matter which produces reddish-fawn colours with tasar silk.
+
+After teak and blackwood, kino wood is said to be the most important in South India and to be in great demand for door and window frames, posts and beams, furniture, agricultural implements and cart and boat buildings. It has a high reputation in the manufacture of the double-headed drums, being regarded as specially sonorous.—OIL PAINT AND DRUG REPORTER.
+
+=== MENTIONS (37) ===
+type	text	norm	role
+COMMODITY	black dammar	black dammar	gum
+COMMODITY	blackwood	blackwood	wood
+COMMODITY	cinchona	cinchona	crude drug
+COMMODITY	Cochin grain	Cochin grain	kino variety
+COMMODITY	copal	copal	gum
+COMMODITY	gambogia	gambogia	gum
+COMMODITY	gum ghati	gum ghati	Indian gum
+COMMODITY	gutta percha	gutta percha	product
+COMMODITY	kino	kino	gum
+COMMODITY	Malabar tallow	Malabar tallow	gum
+COMMODITY	nux vomica	nux vomica	crude drug
+COMMODITY	senna	senna	crude drug
+COMMODITY	tasar silk	tasar silk	textile
+COMMODITY	teak	teak	wood
+COMMODITY	white dammar	white dammar	gum
+PLACE	Alleppey	Alleppey	port
+PLACE	Bombay	Bombay	city
+PLACE	Calcutta	Calcutta	city
+PLACE	Calicut	Calicut	port
+PLACE	Cochin	Cochin	port
+PLACE	Great Britain	Great Britain	export destination
+PLACE	Madras	Madras	city
+PLACE	Madras Presidency	Madras Presidency	region
+PLACE	Mangalore	Mangalore	port
+PLACE	Nilgiris	Nilgiris	region
+PLACE	North Malabar	North Malabar	district
+PLACE	South Kanara	South Kanara	region
+PLACE	Tellicherry	Tellicherry	port
+PLACE	Travancore	Travancore	native State
+PUBLICATION	Oil Paint and Drug Reporter	Oil Paint and Drug Reporter	source
+TAXON	C. strictum	C. strictum	source of black dammar
+TAXON	euphorbia	Euphorbia	plant
+TAXON	mamiran	mamiran	barberry plant
+TAXON	milk bush	milk bush	variety of euphorbia
+TAXON	milk hedge	milk hedge	variety of euphorbia
+TAXON	P. Marsupium	Pterocarpus marsupium	source of kino
+TAXON	Pterocarpus Marsupium	Pterocarpus marsupium	source of kino

@@ -1,0 +1,29 @@
+ID: vol002_tropicalagricult18821883colo#1883-01#073
+ISSUE: 1883-01  VOL: 2  SECTION: Correspondence
+TITLE: PLANTING IN BURMAH
+BYLINE: 
+WORDS: 344  PAGES: ['566']
+IA: https://archive.org/details/tropicalagricult18821883colo/page/n585/mode/1up
+
+=== TEXT ===
+PLANTING IN BURMAH.—The report of Mr. Petley on his experimental cultivation of potatoes, tea, coffee, and cinchona, in the Karen Hill Tracts, during the year 1881-82, is interesting, remarks a contemporary, as showing how much yet remains to be done towards developing the resources of our possessions in Burma. Except in the wet season, the potato culture seems to be an unprofitable speculation with imported seed, owing to the distance the seed has to be sent, and the unsatisfactory condition in which it arrives. But with acclimatised seed, planted at the right season, good results seem to be obtained; some of the best kinds, such as the "Scotch Champion" and "The Magnum Bonum," yielding from 6½ to 7 fold. In the tea garden there are 12,000 bushes producing first class tea. The coffee-bearing trees, just coming into full bearing, were expected to give a crop of about 5,000 lb of clean coffee. But coffee plants appear to have many enemies, as we are told that the outturn last year would have been larger, except for the ravages of civet cats, rats, birds, and mole crickets. The cinchona plants do well, but are not yet of sufficient age for the bark to be cut. Mr. Petley gives it as his opinion from his past experience that the Karen Hills "present a good field for these productions to capitalists, who would go in with the means to make provision for, and import cooly labour from the surrounding States, i. e., the Shan States and Karennee, from which parts men can be hired to come by the year. There does not at present appear to be sufficient dependent local labour for a large plantation. Coolies confess that they are better off and healthier at the plantation than at their own villages. This there can be very little doubt of; they are also discovering the value of money, and are thereby induced, more and more, to come to the work."—*Pioneer*. [Who will send us a report on the cost of labour; nature of engagements; means of transport; and annual rainfall in the planting districts of Burmah?—ED.]
+
+=== MENTIONS (17) ===
+type	text	norm	role
+COMMODITY	cinchona	cinchona	crop under experimental cultivation
+COMMODITY	coffee	coffee	crop under experimental cultivation
+COMMODITY	potatoes	potatoes	crop under experimental cultivation
+COMMODITY	tea	tea	crop under experimental cultivation
+PERSON	Mr. Petley	Petley	experimental cultivator in the Karen Hill Tracts
+PLACE	Burma	Burma	British possession
+PLACE	Burmah	Burma	region of planting districts
+PLACE	Karen Hill Tracts	Karen Hill Tracts	location of experimental cultivation
+PLACE	Karennee	Karennee	source of coolie labour
+PLACE	Shan States	Shan States	source of coolie labour
+PUBLICATION	Pioneer	Pioneer	newspaper
+TAXON	birds	birds	pests to coffee
+TAXON	civet cats	civet cats	pests to coffee
+TAXON	mole crickets	mole crickets	pests to coffee
+TAXON	rats	rats	pests to coffee
+TAXON	Scotch Champion	Scotch Champion	potato variety
+TAXON	The Magnum Bonum	The Magnum Bonum	potato variety

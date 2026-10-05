@@ -1,0 +1,485 @@
+ID: vol052_iss04_tropical-agriculturist-1919-04-52-4#1919-04#005
+ISSUE: 1919-04  VOL: 52  SECTION: TEA.
+TITLE: TEA IN INDIA IN 1917.
+BYLINE: 
+WORDS: 1812  PAGES: ['192', '193', '194']
+IA: https://archive.org/details/tropical-agriculturist_1919-04_52_4/page/n9/mode/1up
+
+=== TEXT ===
+## TEA IN INDIA IN 1917.
+
+The total area under tea in 1917 was 664,300 acres, which is 2 per cent. greater than that in the preceding year. The area abandoned in the year was 3,900 acres, while the new extensions (including re-planting in areas abandoned in previous years) amounted to 19,300 acres. Thus the nett increase during the year was 15,400 acres. The figures are for the most part those reported by planters. In the case of those plantations for which figures are not so reported, estimates have been prepared by local officers. Special efforts were, however, made to procure returns direct from non-reporting gardens, and these efforts have so far been successful except in Southern India, as will be seen from the following figures :—
+
+### NUMBER OF NON-REPORTING GARDENS.
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>1916.</th>
+<th>1917.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bengal</td>
+<td>...</td>
+<td>none out of 301</td>
+<td>one out of 305</td>
+</tr>
+<tr>
+<td>Assam</td>
+<td>...</td>
+<td>" " 786</td>
+<td>none " 796</td>
+</tr>
+<tr>
+<td>Southern India</td>
+<td>...</td>
+<td>57 out of 289</td>
+<td>38 out of 318</td>
+</tr>
+</tbody>
+</table>
+
+In the year under review, estimates had to be made in respect of 38 gardens out of a total of 318 gardens in Southern India and of only one garden out of 305 in Bengal. Including the estimated area, the total area under tea in 1917 was shared among the different Provinces as shown below :—
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Area<br/>acres.</th>
+<th>Increase (+) or<br/>decrease (−) per cent.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Assam</td>
+<td>...</td>
+<td>399,700</td>
+<td>+ 27</td>
+</tr>
+<tr>
+<td>Bengal</td>
+<td>...</td>
+<td>167,800</td>
+<td>+ 0.9</td>
+</tr>
+<tr>
+<td>Southern India</td>
+<td>...</td>
+<td>76,300</td>
+<td>+ 4.8</td>
+</tr>
+<tr>
+<td>Northern India</td>
+<td>...</td>
+<td>15,500</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Behar and Orissa</td>
+<td>...</td>
+<td>2,200</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Burma</td>
+<td>...</td>
+<td>2,800</td>
+<td>...</td>
+</tr>
+</tbody>
+</table>
+
+The percentage increase or decrease as compared with the preceding year is also stated. The cultivation of tea in India has been mainly concentrated in tracts where a heavy rainfall and a humid and equable climate permit of repeated flushes and pluckings of the leaf. Eighty-five per cent. of the total area under tea in India lies in Assam (in the Brahamaputra and Surma Valleys) and the two contiguous districts (Darjeeling and Jalpaiguri) of Northern Bengal. The elevated region over the Malabar Coast in Southern India (including the State of Travancore and the districts of Malabar, Nilgiris and Coimbatore) contains over 11 per cent. of the total.
+
+Of the total area of 664,300 acres, for which either returns or complete estimates have been received, 614,800 acres were reported to have been plucked during the year, as against 601,400 acres in the preceding year. On the remaining 49,500 acres, the plants were either too young to be plucked or were not plucked at all.
+
+### NUMBER AND SIZE OF PLANTATIONS.
+
+The total number of plantations was 4,252 in 1917, as against 4,486 in the preceding year. The decrease is due to the fact that during the recent Settlement operations in the Punjab, several small plantations were in many cases, treated as one. In Burma, where tea plants are grown scattered in the jungle, each village tract having tea plants has been taken to represent one plantation. The plantations vary greatly in size in the different Provinces. In Assam 796 plantations are reported to have a total area of 399,700 acres under tea in 1917, that is, an average of 502 acres per plantation. In Bengal the average size of 305 plantations is 550 acres, and in Travancore the average of 128 plantations is 339 acres. In Madras, the United Provinces, and Behar and Orissa the average is much smaller, being about 174 acres, 129 acres, and 99 acres respectively. In the Punjab, where tea cultivation is conducted on a small scale, the average area is about 3 acres. These figures, which refer to the year 1917, relate only to tea-bearing areas and do not include the area in the occupation of planters, but not under tea cultivation.
+
+### PRODUCTION OF TEA (BOTH BLACK AND GREEN.)
+
+The total production of both black and green teas in 1917 is reported to have been 370,358,000 lb. (excluding Burma), divided between the different parts of India as shown below:—
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>1916.</th>
+<th>1917.</th>
+</tr>
+<tr>
+<th></th>
+<th>lb.</th>
+<th>lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Assam ...</td>
+<td>212,185,000</td>
+<td>243,940,000</td>
+</tr>
+<tr>
+<td>Bengal ...</td>
+<td>92,645,000</td>
+<td>91,853,000</td>
+</tr>
+<tr>
+<td>Southern India ...</td>
+<td>29,324,000</td>
+<td>30,916,000</td>
+</tr>
+<tr>
+<td>Northern India ...</td>
+<td>3,883,000</td>
+<td>3,340,000</td>
+</tr>
+<tr>
+<td>Behar and Orissa ...</td>
+<td>246,000</td>
+<td>309,000</td>
+</tr>
+<tr>
+<td>Total ...</td>
+<td>368,283,000</td>
+<td>370,358,000</td>
+</tr>
+</tbody>
+</table>
+
+Black tea represents 368,123,000 lb. The nett increase as compared with the preceding year amounts to about 2 million lb. or 0.6 per cent. It should, however, be borne in mind that these figures cannot be taken as entirely accurate, for, as already stated above under "Area" (page 192), estimates had to be made for as many as 39 gardens for which returns were not furnished by planters. It is noticeable that, while the area under cultivation has increased by 24 per cent. in the decade, the increase in production has been one of 51 per cent. Burma is excluded from these calculations because the produce of the Burma tea gardens is almost wholly converted into *letpet* (wet pickled tea), which is eaten as a condiment. In 1917, 432,300 lb. of *letpet* were manufactured as against only 5,400 lb. of leaf tea (black).
+
+### PRODUCTION IN BURMA.
+
+(Decennial Average, 1901-1910=100).
+
+<table>
+<thead>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Variation in</th>
+</tr>
+<tr>
+<th>Area.</th>
+<th>Production.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1907 ...</td>
+<td>100</td>
+<td>107</td>
+</tr>
+<tr>
+<td>1908 ...</td>
+<td>102</td>
+<td>108</td>
+</tr>
+<tr>
+<td>1909 ...</td>
+<td>103</td>
+<td>113</td>
+</tr>
+<tr>
+<td>1910 ...</td>
+<td>105</td>
+<td>115</td>
+</tr>
+<tr>
+<td>1911 ...</td>
+<td>107</td>
+<td>118</td>
+</tr>
+<tr>
+<td>1912 ...</td>
+<td>110</td>
+<td>130</td>
+</tr>
+<tr>
+<td>1913 ...</td>
+<td>113</td>
+<td>134</td>
+</tr>
+<tr>
+<td>1914 ...</td>
+<td>116</td>
+<td>137</td>
+</tr>
+<tr>
+<td>1915 ...</td>
+<td>118</td>
+<td>163</td>
+</tr>
+<tr>
+<td>1916 ...</td>
+<td>121</td>
+<td>161</td>
+</tr>
+<tr>
+<td>1917 ...</td>
+<td>124</td>
+<td>162</td>
+</tr>
+</tbody>
+</table>
+
+### AVERAGE PRODUCTION PER ACRE.
+
+The average production of tea per acre varies very greatly in the different districts. The marginal table shows the average production of
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>lb. per acre.</th>
+<th>manufactured tea (black and green) per acre plucked in each district in 1917. The highest production in the year was in Lakhimpur (Assam), namely, 745 lb. per acre. and the lowest in Garhwal (United Provinces), namely, 42 lb. The average production in the whole of India (excluding Burma) was 604 lb. per acre plucked, as against 614 lb. in the previous year. Up to the end of June, the yield was heavy. During the months of July, August and September, the out-turn went back a little, but towards the close of the season a heavy crop was again obtained as in the preceding year. Intensive cultivation undoubtedly accounts for the exceptional out-turns again obtained during the latter part of the year, which, although not quite up to those of 1915, were exceedingly heavy. As regards the quality of the tea manufactured, it is stated by a leading tea firm that, owing to the irregular way in which teas were offered during the season, it is somewhat difficult to give a clear idea as to quality. A noticeable and satisfactory feature generally was, however, "more careful manufacture with considerably less stalk." The quality of Assam teas was generally of a useful standard, and that of the Jalpaiguri crop fully up to the average. The Darjeeling</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lakhimpur</td>
+<td>745</td>
+<td></td>
+</tr>
+<tr>
+<td>Jalpaiguri</td>
+<td>714</td>
+<td></td>
+</tr>
+<tr>
+<td>Darrang</td>
+<td>667</td>
+<td></td>
+</tr>
+<tr>
+<td>Sibsagar</td>
+<td>658</td>
+<td></td>
+</tr>
+<tr>
+<td>Nowgong</td>
+<td>616</td>
+<td></td>
+</tr>
+<tr>
+<td>Sylhet</td>
+<td>602</td>
+<td></td>
+</tr>
+<tr>
+<td>Cachar</td>
+<td>591</td>
+<td></td>
+</tr>
+<tr>
+<td>Travancore</td>
+<td>510</td>
+<td></td>
+</tr>
+<tr>
+<td>Madura</td>
+<td>494</td>
+<td></td>
+</tr>
+<tr>
+<td>Malabar</td>
+<td>453</td>
+<td></td>
+</tr>
+<tr>
+<td>Nilgiris</td>
+<td>450</td>
+<td></td>
+</tr>
+<tr>
+<td>Coimbatore</td>
+<td>413</td>
+<td></td>
+</tr>
+<tr>
+<td>Goalpara</td>
+<td>410</td>
+<td></td>
+</tr>
+<tr>
+<td>Chittagong</td>
+<td>408</td>
+<td></td>
+</tr>
+<tr>
+<td>Dehra Dun</td>
+<td>408</td>
+<td></td>
+</tr>
+<tr>
+<td>Damrup</td>
+<td>375</td>
+<td></td>
+</tr>
+<tr>
+<td>Darjeeling</td>
+<td>356</td>
+<td></td>
+</tr>
+<tr>
+<td>Chittagong Hill Tracts</td>
+<td>201</td>
+<td></td>
+</tr>
+<tr>
+<td>Ranchi</td>
+<td>148</td>
+<td></td>
+</tr>
+<tr>
+<td>Kangra</td>
+<td>140</td>
+<td></td>
+</tr>
+<tr>
+<td>Tinnevelly</td>
+<td>110</td>
+<td></td>
+</tr>
+<tr>
+<td>Almora</td>
+<td>83</td>
+<td></td>
+</tr>
+<tr>
+<td>Hazaribagh</td>
+<td>79</td>
+<td></td>
+</tr>
+<tr>
+<td>Garhwal</td>
+<td>42</td>
+<td></td>
+</tr>
+<tr>
+<td>Weighted average</td>
+<td>604</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+crop was poor in quality, and owing to bad weather throughout the district no fine second flush teas were manufactured. Cachar and Sylhet produced good liquoring teas fully up to standard.
+
+The figures of production given above include both black and green teas. The difference between the two kinds of tea arises from the different methods of preparation. Briefly, the distinction is that the process of fermentation, which gives to black tea its colour, is avoided or arrested in the case of green tea. "While the object aimed at in preparing black tea is to change the materials in the leaf, by fermentation, the green colour becomes brown or black, the astringency is reduced, and the aroma altered in character; in manufacturing green tea, the aim is to prepare the leaf without any alteration taking place." The total quantity of green tea reported to have been manufactured in the year under review is 2,235,000 lb., as compared with 2,523,000 lb. in 1916 and 3,043,000 lb. in 1915. The quantity manufactured in each tract in the last two years is stated below. About two-fifths of the total quantity were manufactured in the Kangra Valley (Punjab) in the year under review. Bounties were paid on green tea from the Tea Cess Fund up to March 1909, but since that date no bounties have been paid.
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1916 lb.</th>
+<th>1917 lb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Northern India</td>
+<td>1,262,000</td>
+<td>951,000</td>
+</tr>
+<tr>
+<td>Southern India</td>
+<td>888,000</td>
+<td>474,000</td>
+</tr>
+<tr>
+<td>Surma Valley</td>
+<td>162,000</td>
+<td>522,000</td>
+</tr>
+<tr>
+<td>Bengal and Behar &amp; Orissa</td>
+<td>219,000</td>
+<td>288,000</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>2,523,000</td>
+<td>2,235,000</td>
+</tr>
+</tbody>
+</table>
+
+—REPT. ON THE PRODUCTION OF TEA IN INDIA IN 1917.
+
+=== MENTIONS (68) ===
+type	text	norm	role
+COMMODITY	Black tea	black tea	product
+COMMODITY	leaf tea	leaf tea	product
+COMMODITY	letpet	letpet	wet pickled tea
+COMMODITY	tea	tea	
+COMMODITY	tea	tea	product discussed
+ORG	Tea Cess Fund	Tea Cess Fund	fund for bounties
+PLACE	Almora	Almora	district
+PLACE	Assam	Assam	
+PLACE	Assam	Assam	tea producing region
+PLACE	Behar	Behar	
+PLACE	Behar and Orissa	Behar and Orissa	
+PLACE	Behar and Orissa	Behar and Orissa	tea producing region
+PLACE	Bengal	Bengal	
+PLACE	Bengal	Bengal	tea producing region
+PLACE	Bengal and Behar & Orissa	Bengal, Behar and Orissa	tea producing tract
+PLACE	Brahamaputra	Brahamaputra	valley
+PLACE	Burma	Burma	
+PLACE	Burma	Burma	tea producing region
+PLACE	Cachar	Cachar	district
+PLACE	Cachar	Cachar	tea producing district
+PLACE	Chittagong	Chittagong	district
+PLACE	Chittagong Hill Tracts	Chittagong Hill Tracts	district
+PLACE	Coimbatore	Coimbatore	district
+PLACE	Coimbatore	Coimbatore	district
+PLACE	Damrup	Damrup	district
+PLACE	Darjeeling	Darjeeling	district
+PLACE	Darjeeling	Darjeeling	district
+PLACE	Darrang	Darrang	district
+PLACE	Dehra Dun	Dehra Dun	district
+PLACE	Garhwal	Garhwal	district in United Provinces
+PLACE	Goalpara	Goalpara	district
+PLACE	Hazaribagh	Hazaribagh	district
+PLACE	India	India	
+PLACE	India	India	country
+PLACE	Jalpaiguri	Jalpaiguri	district
+PLACE	Jalpaiguri	Jalpaiguri	district
+PLACE	Kangra	Kangra	district
+PLACE	Kangra Valley	Kangra Valley	tea producing tract
+PLACE	Lakhimpur	Lakhimpur	district in Assam
+PLACE	Madras	Madras	
+PLACE	Madura	Madura	district
+PLACE	Malabar	Malabar	district
+PLACE	Malabar	Malabar	district
+PLACE	Malabar Coast	Malabar Coast	
+PLACE	Nilgiris	Nilgiris	district
+PLACE	Nilgiris	Nilgiris	district
+PLACE	Northern India	Northern India	
+PLACE	Northern India	Northern India	tea producing region
+PLACE	Northern India	Northern India	tea producing tract
+PLACE	Nowgong	Nowgong	district
+PLACE	Orissa	Orissa	
+PLACE	Punjab	Punjab	
+PLACE	Punjab	Punjab	province
+PLACE	Ranchi	Ranchi	district
+PLACE	Sibsagar	Sibsagar	district
+PLACE	Southern India	Southern India	
+PLACE	Southern India	Southern India	tea producing region
+PLACE	Southern India	Southern India	tea producing tract
+PLACE	Surma	Surma	valley
+PLACE	Surma Valley	Surma Valley	tea producing tract
+PLACE	Sylhet	Sylhet	district
+PLACE	Sylhet	Sylhet	tea producing district
+PLACE	Tinnevelly	Tinnevelly	district
+PLACE	Travancore	Travancore	State
+PLACE	Travancore	Travancore	district
+PLACE	United Provinces	United Provinces	
+PLACE	United Provinces	United Provinces	province
+PUBLICATION	REPT. ON THE PRODUCTION OF TEA IN INDIA IN 1917	Report on the Production of Tea in India in 1917	source report

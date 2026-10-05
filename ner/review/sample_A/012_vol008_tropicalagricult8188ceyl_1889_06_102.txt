@@ -1,0 +1,37 @@
+ID: vol008_tropicalagricult8188ceyl#1889-06#102
+ISSUE: 1889-06  VOL: 8  SECTION: Correspondence
+TITLE: COCONUT CULTIVATION AND THE "KANDA PANUWA:" BLACK AND RED BEETLES
+BYLINE: 
+WORDS: 884  PAGES: ['838', '839']
+IA: https://archive.org/details/tropicalagricult8188ceyl/page/n865/mode/1up
+
+=== TEXT ===
+COCONUT CULTIVATION AND THE  
+"KANDA PANUWA:"
+
+BLACK AND RED BEETLES—HOW THEY CUT INTO THE STEM OF A TREE—THEIR PROPAGATION AND HOW TO DESTROY THEM—THE YOUNG GRUB—REMEDIAL PRECAUTIONS.
+
+(Communicated.)
+
+Those who had have no opportunities of observing the beetles injurious to the coconut tree, or who have made little use of such as they have had, are apt to be a little mixed in assigning their respective parts in the work of destruction to *kuruminiya* and *kandapanuwa*. Even Dr. Shortt in his monograph has figured the wrong beetle as the true *kuruminiya*—one endowed with a pair of horns longer than its body and which it would find a great inconvenience while eating into cabbage at the head of a coconut tree.
+
+The true *kuruminiya* is a black beetle, one of the largest of the tribe nearly as broad as long and almost hornless. Furnished with powerful mandibles it easily penetrates to the centre of the undeveloped leaves and causes the clipped and rugged appearance that may be noticed on nearly all coconut fields. It seldom kills a tree outright, and that only a very young one before it has made stem. The grub, the biggest and ugliest of the race, dwells in dung heaps or in any mass of rotten vegetable matter.
+
+The red beetle belongs to the coleopterian aristocracy. In its perfect form it is a pointed oval, one inch long with a strong frontal horn, and its dress a red coat with black facings. It needs no food and has in fact no feeding or digesting organs; in the perfect state its sole business is propagating its species. It might be supposed that the use of the frontal horn was to penetrate the outer fibrous shell of the coconut stem, but on examination it is found unequal to this undertaking: it might with its powers as well try to bore a hole in a tombstone, as the main stem and the stem of the green leaf are equally impervious to its unaided effort. It has to search for a weak point such as an accidental wound that has gone through the outer fibrous rind, the splitting of a green sappy leaf at its base by the swelling of the main stem or the breaking up of the shell at the surface by the push of new roots; but by far its most fruitful opportunities are those that arise from trimming the trees.
+
+From the first appearance of the stem above ground till it reaches a height of six feet or upwards, the leaves do not detach themselves from the stem and drop as they wither and die, but continue to cling till they gradually rot and fall off piecemeal. This causes a ragged and untidy appearance disagreeable to the eye of taste and the tidy planter sets about remedying the blunder of nature, the fact being that the young expanding stem is tender and needs this imbricated cover till the fibrous rind becomes dense and hard enough to be safe in the open air. All young quickgrowing trees crack their rind more or less, but while they have the natural shield no harm happens. Remove that, the cracks become wider and deeper and the beetle can easily engineer a proper bed for its eggs. Besides this there is the danger of inflicting a wound on the stem which makes the entrance for the enemy the easier.
+
+When a lodgement has once been made in a tree that suits them all, the beetles in the neighbourhood resort thither and multiply with great rapidity, the fall of the tree being generally the first indication of their presence. I have taken 150 grubs and beetles from a single fallen tree. When they are discovered before they have utterly destroyed the tree any attempt to save it is labour in vain. Chop it into chips, destroy the whole
+
+colony great and small, and lest eggs should remain burn the chips or rather roast them, for they are not easily consumed.
+
+As soon as the young grub is hatched he begins cutting his way inwards, making a crooked and still widening track. When half grown he turns towards the surface, where at his full growth he cuts so close that nothing thicker than a piece of packing paper is between him and the open air; then he wraps up in a cocoon of the fibre of the stem and awaits his transformation. The perfect insect easily bores its way out and begins life on a new footing. As they are night-flyers their habits are not to be traced further, but we may suppose with no great stretch of conjecture that they are very diligent in seeking convenient spots to deposit their eggs.
+
+If the expansion of the stem bursts a strong succulent leaf at the base it should be removed at once, but the operation requires a sharp tool in a careful hand to avoid wounding the stem and making the remedy worse than the disease. If the stem be accidentally wounded the best thing I know is a daub of tar with as much fine sharp sand as it will hold. Notwithstanding all the precautions that can be taken a few trees will be lost wherever the beetle has obtained a footing, and the danger is greatest where the cultivation is highest and the growth consequently quickest. The danger begins with the first appearance of the stem and continues more or less till the flowering begins.
+
+=== MENTIONS (4) ===
+type	text	norm	role
+PERSON	Dr. Shortt	Dr. Shortt	author of monograph on beetles
+TAXON	coconut	coconut	tree affected by beetles
+TAXON	kandapanuwa	kandapanuwa	red beetle injurious to coconut tree
+TAXON	kuruminiya	kuruminiya	black beetle injurious to coconut tree

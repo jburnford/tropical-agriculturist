@@ -1,0 +1,22 @@
+ID: vol048_iss01_tropical-agriculturist-1917-01-48-1#1917-01#019
+ISSUE: 1917-01  VOL: 48  SECTION: FOOD PRODUCTS.
+TITLE: TRAINING TOMATOES TO ONE STEM.
+BYLINE: 
+WORDS: 205  PAGES: ['33']
+IA: https://archive.org/details/tropical-agriculturist_1917-01_48_1/page/n34/mode/1up
+
+=== TEXT ===
+## TRAINING TOMATOES TO ONE STEM.
+
+---
+
+As soon as the young tomatoes are planted out, drive in stakes alongside them, to stand 5 ft. above the surface. As the plants grow, pinch off *all* side shoots as they appear, allowing only the *leading* shoot to grow. As the plants increase in height, tie them closely to the stakes, but in such a manner that the ties cannot cut into the stems (raffia fibre is the best).
+
+After a good few bunches have formed along the stem, pinch off the tops of the plants, say, after they are 4 or 5 ft. in height. The plants will then make efforts to send out more side shoots, but keep on removing them as long as any appear. Plants may be allowed to grow with two stems, which is a good plan, but not so easy to manage as the single stem. The object of removing the lateral shoots is to secure larger fruit, and heavier and earlier crops. The side shoots absorb nourishment needed by the fruit, and are of no use to the plant. Wherever tomatoes are grown on a large scale, the single stem plan is adopted, especially in America, where over 8 tons of tomatoes are produced on one acre.—QUEENSLAND AGRICULTURAL JOURNAL,
+
+=== MENTIONS (4) ===
+type	text	norm	role
+PLACE	America	America	
+PRODUCT	raffia fibre	raffia fibre	
+PUBLICATION	QUEENSLAND AGRICULTURAL JOURNAL	Queensland Agricultural Journal	
+TAXON	tomatoes	tomato	

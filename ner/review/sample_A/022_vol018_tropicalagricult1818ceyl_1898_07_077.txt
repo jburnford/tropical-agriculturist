@@ -1,0 +1,42 @@
+ID: vol018_tropicalagricult1818ceyl#1898-07#077
+ISSUE: 1898-07  VOL: 18  SECTION: Correspondence.To the Editors.COFFEE IN MEXICO BY AN EX-CEYLON PLANTER;ALSO TOBACCO—RUBBER—CACAO
+TITLE: MR. HUGHES AND MR. BAMBER'S VISIT.
+BYLINE: Analytical Laboratory, 79, Mark Lane, London E.C., May 20.
+WORDS: 265  PAGES: ['35']
+IA: https://archive.org/details/tropicalagricult1818ceyl/page/n54/mode/1up
+
+=== TEXT ===
+MR. HUGHES AND MR. BAMBER'S VISIT.
+
+Analytical Laboratory, 79, Mark Lane, London E.C., May 20.
+
+GENTLEMEN,—Mr. M. Kelway Bamber, whose name must be well-known by Tea Planters, on account of his excellent book on the "Growth and Manufacture of Tea," called upon me this week prior to his departure today per P. and O. "Victoria" for India via Colombo and Calcutta.
+
+I understand he has to keep an important appointment in Calcutta, so will probably not remain long in Ceylon on his outward voyage; though if necessary could arrange to make a stay on his homeward voyage.
+
+He appears to me to have given much attention to the manufacture of tea and I feel sure could give planters considerable information, especially in regard to the final operations, such as the temperature and length of time best adapted to firing.
+
+As regards myself, I am very busy in connection with Ceylon, much more so than I have ever been before. I have also samples of coffee soil from Central Africa sent me at the suggestion of the Director of the Botanic Gardens at Kew.
+
+I have also samples of Ceylon tea now being exhaustively analysed with a view of ascertaining if possible how far differences in market value are due to differences of soil and situation or to differences in the manufacture.
+
+It is very interesting to me to see that at last planters are recognising the advantage of making a careful inquiry into these important points, and I need hardly add that every effort on my part will be made to assist in the improvement of the cultivation and manufacture of Ceylon tea.—Believe me, yours faithfully,
+
+JOHN HUGHES.
+
+=== MENTIONS (14) ===
+type	text	norm	role
+COMMODITY	coffee	coffee	
+COMMODITY	tea	tea	
+ORG	Botanic Gardens at Kew	Royal Botanic Gardens, Kew	
+ORG	P. and O. "Victoria"	P. and O. Victoria	ship
+PERSON	Director of the Botanic Gardens at Kew	Director of the Botanic Gardens at Kew	Director of the Botanic Gardens at Kew
+PERSON	JOHN HUGHES	John Hughes	Analytical Laboratory, 79, Mark Lane, London E.C.
+PERSON	Mr. M. Kelway Bamber	M. Kelway Bamber	author of 'Growth and Manufacture of Tea'
+PLACE	Calcutta	Calcutta	
+PLACE	Central Africa	Central Africa	
+PLACE	Ceylon	Ceylon	
+PLACE	Colombo	Colombo	
+PLACE	India	India	
+PLACE	London	London	
+PUBLICATION	Growth and Manufacture of Tea	Growth and Manufacture of Tea	book

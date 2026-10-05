@@ -1,0 +1,97 @@
+ID: vol043_lbg-tropicalagricultvol-xliii0000unse-c5y3#1914-10#030
+ISSUE: 1914-10  VOL: 43  SECTION: FRUIT.
+TITLE: MANURING FRUIT TREES.
+BYLINE: 
+WORDS: 659  PAGES: ['303', '304', '305']
+IA: https://archive.org/details/lbg.tropicalagricultvol.xliii0000unse_c5y3/page/n322/mode/1up
+
+=== TEXT ===
+## MANURING FRUIT TREES.
+
+### VALUE OF MIXED MANURE.
+
+For maintaining fruit trees in bearing, in health and vigour, and enabling them to bear heavy crops of fruit, it is essential that they be properly nourished.
+
+In practice, this is generally ensured by application of fertilisers.
+
+In order to better understand the subject, it is worth the fruit-grower's while to unearth this knowledge himself, in his own orchard.
+
+There are three ingredients which need to be furnished through the medium of fertilisers—namely, potash, phosphoric acid, and nitrogen. The remaining essential plant food constituents are usually present in the soil in abundant quantity, and need not be supplied. Adverting to these three important constituents, it is generally safer, when the fruit grower is not properly conversant with the tree's requirements on his particular land, to apply all three. A one-sided manuring is not a profitable manuring, and is not productive of the best results.
+
+In order to ascertain the requirements of fruit trees in his orchard, the fruit-grower is recommended to experiment; in other words, manure certain rows of trees in the orchard with different manurial dressings and closely
+
+observe the results with regard to yield, size, colour, appearance, flavour, and keeping qualities of the fruit produced, and also the appearance, vigour, and disease-resistant properties of the trees, and, not the least important, the profits accruing from their application.
+
+The beginner should remember that potassic fertilisers supply potash phosphatic fertilisers, phosphoric acid; and nitrogenous fertilisers, nitrogen respectively.
+
+Examples of potash fertilisers are—
+
+Sulphate of potash, and  
+Muriate of potash.
+
+Those of phosphatic fertilisers—
+
+Superphosphate,  
+Basic Slag, and  
+Bonedust,
+
+the last named also supplying a little nitrogen, while
+
+Sulphate of ammonia and  
+Nitrate of soda
+
+may be cited as examples of nitrogenous fertilisers.
+
+Supposing a fruit-grower is desirous of ascertaining whether fruit trees on his land will respond to potash, all he need do is to apply phosphatic and nitrogenous fertiliser to a number of trees and make a note of it. Such a dressing is known as an incomplete fertiliser, as it does not supply all the three important plant food ingredients. To an equal number of trees of the same age, variety, and size, on similar land, he should apply the same amounts of phosphatic and nitrogenous fertiliser, plus, say 1 to 2 lb. sulphate of potash per tree.
+
+Similarly, if a grower desires to find out if it will be profitable to apply phosphatic or nitrogenous fertiliser, he may proceed on similar lines, omitting the particular fertiliser which he needs the information about from the dressing, in one case, be it phosphatic or nitrogenous, and including it in another. In this way the fruit-grower may observe the behaviour of the trees towards the particular kinds of fertilisers.
+
+Fruit crops are unlike most farm crops, in that the effects of fertilisers are not so readily observable, and the beginner needs to be warned against expecting outstanding results the first season. The second and subsequent seasons, however, good results may follow rational manuring.
+
+MR. ALFRED THIESSEN, of Geeveston, Tasmania, laid down experiments on the three-plot system in the spring of 1912 with apple trees. The trees on the No. 1 plot were left unmanured, those on No. 2 received :—
+
+3 lb superphosphate  
+2 lb. bonedust  
+ $\frac{1}{2}$  lb. sulphate of ammonia  
+ $1\frac{1}{2}$  lb. sulphate of potash
+
+per tree, and those on No. 3 received
+
+3 lb. superphosphate  
+2 lb. bonedust  
+ $\frac{1}{2}$  lb. sulphate of ammonia.
+
+The yields, calculated per acre, for the first season were :—
+
+Plot 1, 560 cases
+
+„ 2, 800 „
+
+„ 3, 666 $\frac{2}{3}$  „
+
+The past season's results (being the second year of experiment) were :—
+
+Plot 1, 524 $\frac{1}{2}$  cases
+
+„ 2, 1,022 $\frac{1}{4}$  „
+
+„ 3, 915 „
+
+The absence of fertiliser on plot 1 accounted for considerably lower yields. The trees on plots 2 and 3 each received the same amounts of superphosphate, bonedust and sulphate of ammonia. Those on plot 2 were given 1 $\frac{1}{2}$  lb. sulphate of potash in addition.
+
+The difference in yield, and consequently the money value, between the two plots was well marked, and showed that the complete fertiliser was the most profitable one.—THE FRUIT WORLD.
+
+=== MENTIONS (12) ===
+type	text	norm	role
+PERSON	MR. ALFRED THIESSEN	Alfred Thiessen	fruit-grower, Geeveston, Tasmania
+PLACE	Geeveston	Geeveston	location in Tasmania
+PLACE	Tasmania	Tasmania	location of experiments
+PRODUCT	Basic Slag	Basic Slag	phosphatic fertiliser
+PRODUCT	Bonedust	Bonedust	phosphatic fertiliser
+PRODUCT	Muriate of potash	Muriate of potash	potash fertiliser
+PRODUCT	Nitrate of soda	Nitrate of soda	nitrogenous fertiliser
+PRODUCT	Sulphate of ammonia	Sulphate of ammonia	nitrogenous fertiliser
+PRODUCT	Sulphate of potash	Sulphate of potash	potash fertiliser
+PRODUCT	Superphosphate	Superphosphate	phosphatic fertiliser
+PUBLICATION	THE FRUIT WORLD	The Fruit World	source of the article
+TAXON	apple trees	apple	subject of manuring experiments

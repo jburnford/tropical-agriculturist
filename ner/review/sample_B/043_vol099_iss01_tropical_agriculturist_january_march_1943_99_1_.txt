@@ -1,0 +1,1237 @@
+ID: vol099_iss01_tropical-agriculturist-january-march-1943-99-1#1943-01/03#018
+ISSUE: 1943-01/03  VOL: 99  SECTION: MEETINGS, CONFERENCES, &c.
+TITLE: ANIMAL DISEASE RETURN FOR THE MONTH ENDED MARCH, 1943
+BYLINE: 
+WORDS: 3071  PAGES: ['61', '62', '63', '64']
+IA: https://archive.org/details/tropical-agriculturist_january-march-1943_99_1/page/n64/mode/1up
+
+=== TEXT ===
+ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED MARCH, 1943
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to date since Jan. 1, 1943</th>
+<th>Fresh Cases</th>
+<th>Deaths</th>
+<th>Recoveries</th>
+<th>Balance ill</th>
+<th>No. shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Western</td>
+<td>Foot-and-mouth disease</td>
+<td>1,155</td>
+<td>213</td>
+<td>13</td>
+<td>957</td>
+<td>185</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>76</td>
+<td>10</td>
+<td>36</td>
+<td>10</td>
+<td>2</td>
+<td>28</td>
+</tr>
+<tr>
+<td rowspan="5">Colombo Municipality</td>
+<td>Foot-and-mouth disease</td>
+<td>162</td>
+<td>4</td>
+<td>—</td>
+<td>162</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>182</td>
+<td>12</td>
+<td>182</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>11</td>
+<td>4</td>
+<td>11</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>703</td>
+<td>149</td>
+<td>703</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Pleuro Pneumonia (Goats)</td>
+<td>1,089</td>
+<td>—</td>
+<td>1,089</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="2">Government Cattle Quarantine Station</td>
+<td>Foot and-mouth disease</td>
+<td>107</td>
+<td>—</td>
+<td>1</td>
+<td>106</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>12</td>
+<td>—</td>
+<td>4</td>
+<td>—</td>
+<td>—</td>
+<td>8</td>
+</tr>
+<tr>
+<td rowspan="6">Central</td>
+<td>Foot-and-mouth disease</td>
+<td>500</td>
+<td>250</td>
+<td>20</td>
+<td>380</td>
+<td>100</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Tuberculosis</td>
+<td>6</td>
+<td>—</td>
+<td>3</td>
+<td>—</td>
+<td>—</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>34</td>
+<td>2</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>33</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>29</td>
+<td>23</td>
+<td>20</td>
+<td>9</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mange</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>35</td>
+<td>2</td>
+<td>9</td>
+<td>26</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td rowspan="3">Southern</td>
+<td>Foot-and-mouth disease</td>
+<td>572</td>
+<td>35</td>
+<td>8</td>
+<td>529</td>
+<td>35</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Surra</td>
+<td>4</td>
+<td>—</td>
+<td>2</td>
+<td>2</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Pleuro Pneumonia (Goats)</td>
+<td>25</td>
+<td>—</td>
+<td>25</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Kayts Quarantine Station</td>
+<td>Rinderpest</td>
+<td>15</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>15</td>
+</tr>
+<tr>
+<td rowspan="3">Northern</td>
+<td>Mange</td>
+<td>15</td>
+<td>10</td>
+<td>1</td>
+<td>14</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Pleuro Pneumonia (Goats)</td>
+<td>12</td>
+<td>12</td>
+<td>7</td>
+<td>5</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Rabies</td>
+<td>1</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>1</td>
+</tr>
+<tr>
+<td>North-Western</td>
+<td>Foot-and-mouth disease</td>
+<td>1,796</td>
+<td>1,048</td>
+<td>27</td>
+<td>911</td>
+<td>858</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+Department of Agriculture,  
+Peradeniya, June 14, 1943.
+
+M. CRAWFORD,  
+Deputy Director (Animal Husbandry) and  
+Government Veterinary Surgeon.
+
+3—J. N. A 24538 (5/43)
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th rowspan="2">Mean Maximum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Mean Minimum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Day</th>
+<th rowspan="2">Night (from Minimum)</th>
+<th rowspan="2">Amount</th>
+<th rowspan="2">No. of Rainy Days</th>
+<th rowspan="2">Difference from Average</th>
+</tr>
+<tr>
+<th>Ins.</th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta</td>
+<td>87.3</td>
+<td>-0.8</td>
+<td>71.5</td>
+<td>+0.8</td>
+<td>80</td>
+<td>98</td>
+<td>5.6</td>
+<td>4.12</td>
+<td>10</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura</td>
+<td>84.7</td>
+<td>+1.7</td>
+<td>70.6</td>
+<td>+1.4</td>
+<td>80</td>
+<td>97</td>
+<td>4.1</td>
+<td>6.42</td>
+<td>8</td>
+<td>+ 0.71</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>77.8</td>
+<td>+1.6</td>
+<td>63.7</td>
+<td>-0.1</td>
+<td>80</td>
+<td>97</td>
+<td>5.0</td>
+<td>2.49</td>
+<td>14</td>
+<td>- 8.06</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>82.3</td>
+<td>+0.9</td>
+<td>74.1</td>
+<td>+0.5</td>
+<td>80</td>
+<td>88</td>
+<td>5.2</td>
+<td>9.96</td>
+<td>16</td>
+<td>- 3.81</td>
+</tr>
+<tr>
+<td>Colombo</td>
+<td>86.6</td>
+<td>+0.2</td>
+<td>71.9</td>
+<td>0</td>
+<td>76</td>
+<td>90</td>
+<td>4.2</td>
+<td>4.48</td>
+<td>9</td>
+<td>+ 0.45</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>73.2</td>
+<td>+1.4</td>
+<td>57.9</td>
+<td>+0.3</td>
+<td>80</td>
+<td>94</td>
+<td>5.1</td>
+<td>3.40</td>
+<td>16</td>
+<td>- 2.94</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>84.5</td>
+<td>+0.6</td>
+<td>73.1</td>
+<td>+0.1</td>
+<td>82</td>
+<td>90</td>
+<td>6.4</td>
+<td>2.09</td>
+<td>11</td>
+<td>- 1.55</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>69.7</td>
+<td>+3.1</td>
+<td>50.9</td>
+<td>-0.8</td>
+<td>87</td>
+<td>93</td>
+<td>7.4</td>
+<td>3.57</td>
+<td>11</td>
+<td>- 8.56</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>84.9</td>
+<td>-0.2</td>
+<td>73.5</td>
+<td>+0.8</td>
+<td>78</td>
+<td>88</td>
+<td>4.3</td>
+<td>1.12</td>
+<td>6</td>
+<td>- 2.58</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>83.2</td>
+<td>+0.3</td>
+<td>72.3</td>
+<td>+0.2</td>
+<td>78</td>
+<td>93</td>
+<td>3.9</td>
+<td>9.27</td>
+<td>9</td>
+<td>+ 4.93</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>85.4</td>
+<td>+2.1</td>
+<td>68.0</td>
+<td>+0.8</td>
+<td>70</td>
+<td>85</td>
+<td>4.9</td>
+<td>4.62</td>
+<td>13</td>
+<td>- 2.04</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>87.3</td>
+<td>+0.9</td>
+<td>69.9</td>
+<td>+0.1</td>
+<td>74</td>
+<td>95</td>
+<td>3.3</td>
+<td>3.64</td>
+<td>9</td>
+<td>- 1.23</td>
+</tr>
+<tr>
+<td>Lunuwila</td>
+<td>88.1</td>
+<td>+0.5</td>
+<td>71.4</td>
+<td>+0.4</td>
+<td>80</td>
+<td>98</td>
+<td>3.6</td>
+<td>2.25</td>
+<td>6</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>83.3</td>
+<td>-0.2</td>
+<td>73.7</td>
+<td>-0.6</td>
+<td>82</td>
+<td>90</td>
+<td>5.4</td>
+<td>6.47</td>
+<td>8</td>
+<td>+ 2.51</td>
+</tr>
+<tr>
+<td>Nuwara Eliya</td>
+<td>67.8</td>
+<td>0</td>
+<td>46.2</td>
+<td>-0.6</td>
+<td>83</td>
+<td>93</td>
+<td>6.1</td>
+<td>1.61</td>
+<td>10</td>
+<td>- 5.13</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>86.0</td>
+<td>+0.5</td>
+<td>70.8</td>
+<td>+0.8</td>
+<td>78</td>
+<td>95</td>
+<td>4.0</td>
+<td>5.13</td>
+<td>9</td>
+<td>+ 1.55</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>89.8</td>
+<td>+0.5</td>
+<td>70.8</td>
+<td>-0.4</td>
+<td>76</td>
+<td>95</td>
+<td>5.4</td>
+<td>3.92</td>
+<td>14</td>
+<td>- 2.55</td>
+</tr>
+<tr>
+<td>Talawakele</td>
+<td>74.9</td>
+<td>+0.9</td>
+<td>55.7</td>
+<td>-0.1</td>
+<td>69</td>
+<td>82</td>
+<td>4.8</td>
+<td>1.15</td>
+<td>6</td>
+<td>- 2.64</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>80.9</td>
+<td>+0.4</td>
+<td>75.3</td>
+<td>+0.1</td>
+<td>77</td>
+<td>82</td>
+<td>4.8</td>
+<td>8.78</td>
+<td>12</td>
+<td>+ 0.08</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall for January was appreciably in deficit over the greater part of the Island, the only area, except for a few scattered cases, where excesses were recorded, being the north and north-west. Largest deficits occurred on the north-eastern and eastern slopes of the hills where January averages are high.
+
+Outstanding deficits were 23.00 inches at St. Martin's (Upper), 22.33 inches at Hendon, 21.28 inches at Uva estate, and 20.27 inches at St. Martin's (Lower). Largest excesses were Pallai 9.65 inches, Puvarasankulam 9.59 inches, Talaimannar 7.46 inches, Lemastota 6.98 inches and Chavakachcheri 6.30 inches.
+
+The highest total for the month was 19.03 inches at Hendon, a figure which contrasts poorly with the 45.08 inches recorded there in December. On averages Hendon is slightly wetter in January than in December. Other totals over 15 inches include St. Martin's (Lower) 17.70 inches, Doormomadella 15.96 inches, and Puvarasankulam 15.57 inches.
+
+There were 15 daily falls of 5 inches and over, nearly all of which occurred on the 1st. The largest was 7.33 inches at Nedunkeni.
+
+The month commenced with unsettled weather conditions which gave fairly widespread rain during the first couple of days, the larger falls occurring mostly in the north and east. The rest of the month was generally dry, the only outstanding wet day being the 10th.
+
+Temperatures were generally above normal, The highest shade temperature was 92.3° at Ratnapura on the 26th, while the lowest air temperature was 35.4° at Nuwara Eliya on the 29th. Humidities were generally in excess, and cloud amounts in deficit. Winds were above average strength, the prevailing direction being north-easterly.
+
+D. T. E. DASSANAYAKE,  
+Superintendent Observatory.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th>Mean Maximum</th>
+<th>Difference from Average</th>
+<th>Mean Minimum</th>
+<th>Difference from Average</th>
+<th>Day</th>
+<th>Night (from Minimum)</th>
+<th>Amount</th>
+<th>No. of Rainy Days</th>
+<th>Difference from Average</th>
+</tr>
+<tr>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th>Ins.</th>
+<th></th>
+<th>Ins.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta</td>
+<td>89.0</td>
+<td>-0.9</td>
+<td>70.3</td>
+<td>-0.9</td>
+<td>76</td>
+<td>93</td>
+<td>6.6</td>
+<td>4.09</td>
+<td>7</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Anuradhapura</td>
+<td>85.5</td>
+<td>-1.4</td>
+<td>70.2</td>
+<td>+0.7</td>
+<td>76</td>
+<td>95</td>
+<td>5.6</td>
+<td>2.89</td>
+<td>4</td>
+<td>+ 1.40</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>77.5</td>
+<td>-1.6</td>
+<td>63.1</td>
+<td>-0.2</td>
+<td>79</td>
+<td>91</td>
+<td>5.7</td>
+<td>3.73</td>
+<td>10</td>
+<td>+ 1.24</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>82.4</td>
+<td>-0.5</td>
+<td>74.2</td>
+<td>+0.3</td>
+<td>78</td>
+<td>86</td>
+<td>6.2</td>
+<td>11.13</td>
+<td>9</td>
+<td>+ 8.45</td>
+</tr>
+<tr>
+<td>Colombo</td>
+<td>87.2</td>
+<td>+0.1</td>
+<td>71.7</td>
+<td>-0.5</td>
+<td>75</td>
+<td>90</td>
+<td>5.1</td>
+<td>4.16</td>
+<td>8</td>
+<td>+ 1.96</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>73.1</td>
+<td>-1.8</td>
+<td>56.7</td>
+<td>0</td>
+<td>78</td>
+<td>91</td>
+<td>6.4</td>
+<td>3.24</td>
+<td>11</td>
+<td>+ 1.44</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>84.7</td>
+<td>-0.7</td>
+<td>73.3</td>
+<td>-0.4</td>
+<td>80</td>
+<td>90</td>
+<td>7.0</td>
+<td>2.93</td>
+<td>9</td>
+<td>- 0.06</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>69.1</td>
+<td>-1.1</td>
+<td>50.6</td>
+<td>-0.2</td>
+<td>83</td>
+<td>94</td>
+<td>7.5</td>
+<td>4.42</td>
+<td>12</td>
+<td>+ 1.00</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>86.1</td>
+<td>-0.1</td>
+<td>73.4</td>
+<td>+0.3</td>
+<td>77</td>
+<td>86</td>
+<td>5.6</td>
+<td>3.18</td>
+<td>5</td>
+<td>+ 2.14</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>85.0</td>
+<td>-0.7</td>
+<td>72.4</td>
+<td>+0.1</td>
+<td>71</td>
+<td>88</td>
+<td>4.2</td>
+<td>0.45</td>
+<td>6</td>
+<td>- 0.71</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>85.8</td>
+<td>-0.8</td>
+<td>66.7</td>
+<td>-0.6</td>
+<td>66</td>
+<td>81</td>
+<td>5.0</td>
+<td>3.01</td>
+<td>7</td>
+<td>- 1.21</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>88.2</td>
+<td>-1.9</td>
+<td>69.4</td>
+<td>-0.3</td>
+<td>68</td>
+<td>93</td>
+<td>4.0</td>
+<td>2.24</td>
+<td>5</td>
+<td>+ 0.55</td>
+</tr>
+<tr>
+<td>Lunuwila</td>
+<td>89.4</td>
+<td>-0.7</td>
+<td>70.1</td>
+<td>-1.4</td>
+<td>76</td>
+<td>97</td>
+<td>4.6</td>
+<td>0.92</td>
+<td>7</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>84.7</td>
+<td>-1.9</td>
+<td>72.6</td>
+<td>-1.2</td>
+<td>74</td>
+<td>88</td>
+<td>5.0</td>
+<td>0.91</td>
+<td>5</td>
+<td>- 0.82</td>
+</tr>
+<tr>
+<td>Nuwara Eliya</td>
+<td>68.2</td>
+<td>-1.7</td>
+<td>44.9</td>
+<td>+0.2</td>
+<td>79</td>
+<td>93</td>
+<td>6.8</td>
+<td>2.02</td>
+<td>8</td>
+<td>+ 0.31</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>87.6</td>
+<td>-1.0</td>
+<td>69.8</td>
+<td>-0.5</td>
+<td>74</td>
+<td>93</td>
+<td>5.3</td>
+<td>1.07</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>90.6</td>
+<td>-1.2</td>
+<td>70.1</td>
+<td>-1.3</td>
+<td>69</td>
+<td>95</td>
+<td>6.0</td>
+<td>2.72</td>
+<td>8</td>
+<td>- 1.72</td>
+</tr>
+<tr>
+<td>Talawakele</td>
+<td>76.4</td>
+<td>0</td>
+<td>54.3</td>
+<td>-0.3</td>
+<td>66</td>
+<td>81</td>
+<td>5.7</td>
+<td>0.77</td>
+<td>6</td>
+<td>- 0.68</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>81.8</td>
+<td>-0.8</td>
+<td>75.5</td>
+<td>-0.5</td>
+<td>75</td>
+<td>79</td>
+<td>5.6</td>
+<td>3.37</td>
+<td>7</td>
+<td>+ 1.33</td>
+</tr>
+</tbody>
+</table>
+
+The rainfall for February was chiefly in excess, the deficits which were generally slight occurring in the northern parts of the Island to north of Anuradhapura, and in the south-west quarter where they were found side by side with slight excesses.
+
+The largest excesses occurred on the north-eastern slopes of the hills where rainfall at Teripehe was 13.65 inches above average. Other excesses over 10 inches were 11.71 inches at Arawa estate, 10.59 inches at Amparai, 10.58 inches at Uva estate and 10.18 inches at Uda-Medura. The largest deficits were 3.26 inches at Detenagalla estate, 3.20 inches at Kanangama estate and 3.05 inches at St. Leonard's on-Sea estate.
+
+The highest totals for the month were 18.62 inches at Hendon estate, 18.21 inches at Teripehe and 18.17 inches at Bathmedilla. The lowest monthly total was 0.19 inch at the Jaffna Farm School, while there were a few other stations which recorded less than half an inch of rain for the month.
+
+There were 12 daily falls of five inches and over, the highest being 7.75 inches at Sengapodai on the 9th, on which day more than half these falls occurred.
+
+Weather conditions were a little unsettled from the 9th to the 14th inclusive, during which period there was fairly widespread rain over the Island. This rain was considerably heavy on the north-eastern slopes of the hills and was responsible for the large excesses in that area. All the falls of five inches and over also occurred during this period. Days of appreciable rain other than these were the 1st, 3rd and 4th.
+
+Temperatures were generally below normal. The highest shade temperature was 95.1° at Ratnapura on the 28th, while the lowest air temperature was 31.9° at Nuwara Eliya on the 22nd. Ground frost was reported from Nuwara Eliya on the 17th and 18th. Humidities were on the whole a little above average, and so were the cloud amounts. Winds were above average strength, the prevailing direction being north-easterly.
+
+D. T. E. DASSANAYAKE,  
+Superintendent Observatory.
+
+<table border="1">
+<thead>
+<tr>
+<th rowspan="3">STATION</th>
+<th colspan="4">TEMPERATURE</th>
+<th colspan="2">HUMIDITY</th>
+<th rowspan="3">Amount of Cloud</th>
+<th colspan="3">RAINFALL</th>
+</tr>
+<tr>
+<th rowspan="2">Mean Maximum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Mean Minimum</th>
+<th rowspan="2">Difference from Average</th>
+<th rowspan="2">Day</th>
+<th rowspan="2">Night (from Minimum)</th>
+<th rowspan="2">Amount</th>
+<th rowspan="2">No. of Rainy Days</th>
+<th rowspan="2">Difference from Average</th>
+</tr>
+<tr>
+<th>Ins.</th>
+<th>Ins.</th>
+</tr>
+<tr>
+<th></th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>°</th>
+<th>%</th>
+<th>%</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agalawatta</td>
+<td>88.7</td>
+<td>1.3</td>
+<td>71.7</td>
+<td>-0.6</td>
+<td>80</td>
+<td>93</td>
+<td>6.3</td>
+<td>9.49</td>
+<td>16 —</td>
+</tr>
+<tr>
+<td>Anuradhapura</td>
+<td>91.1</td>
+<td>0</td>
+<td>71.6</td>
+<td>0</td>
+<td>73</td>
+<td>95</td>
+<td>3.8</td>
+<td>2.45</td>
+<td>1.19</td>
+</tr>
+<tr>
+<td>Badulla</td>
+<td>82.8</td>
+<td>+0.6</td>
+<td>63.3</td>
+<td>-1.1</td>
+<td>70</td>
+<td>94</td>
+<td>3.4</td>
+<td>2.72</td>
+<td>2.85</td>
+</tr>
+<tr>
+<td>Batticaloa</td>
+<td>85.5</td>
+<td>+0.1</td>
+<td>74.0</td>
+<td>-1.1</td>
+<td>76</td>
+<td>88</td>
+<td>4.0</td>
+<td>2.33</td>
+<td>1.02</td>
+</tr>
+<tr>
+<td>Colombo</td>
+<td>87.6</td>
+<td>-0.3</td>
+<td>74.0</td>
+<td>0</td>
+<td>77</td>
+<td>93</td>
+<td>4.4</td>
+<td>4.69</td>
+<td>0.18</td>
+</tr>
+<tr>
+<td>Diyatalawa</td>
+<td>77.8</td>
+<td>+0.7</td>
+<td>56.9</td>
+<td>-1.2</td>
+<td>66</td>
+<td>88</td>
+<td>3.8</td>
+<td>2.18</td>
+<td>2.77</td>
+</tr>
+<tr>
+<td>Galle</td>
+<td>85.1</td>
+<td>-1.3</td>
+<td>74.9</td>
+<td>-0.3</td>
+<td>81</td>
+<td>88</td>
+<td>6.6</td>
+<td>11.58</td>
+<td>5.37</td>
+</tr>
+<tr>
+<td>Hakgala</td>
+<td>73.6</td>
+<td>+0.3</td>
+<td>50.5</td>
+<td>-1.3</td>
+<td>66</td>
+<td>84</td>
+<td>5.2</td>
+<td>2.09</td>
+<td>4.61</td>
+</tr>
+<tr>
+<td>Hambantota</td>
+<td>87.3</td>
+<td>+0.5</td>
+<td>74.4</td>
+<td>+0.1</td>
+<td>76</td>
+<td>88</td>
+<td>4.2</td>
+<td>1.81</td>
+<td>2.02</td>
+</tr>
+<tr>
+<td>Jaffna</td>
+<td>87.9</td>
+<td>-0.7</td>
+<td>75.8</td>
+<td>0</td>
+<td>70</td>
+<td>86</td>
+<td>2.8</td>
+<td>0.67</td>
+<td>1.16</td>
+</tr>
+<tr>
+<td>Kandy</td>
+<td>89.4</td>
+<td>+1.1</td>
+<td>66.9</td>
+<td>-1.7</td>
+<td>66</td>
+<td>89</td>
+<td>4.4</td>
+<td>6.39</td>
+<td>0.56</td>
+</tr>
+<tr>
+<td>Kurunegala</td>
+<td>93.4</td>
+<td>+0.8</td>
+<td>71.7</td>
+<td>-0.3</td>
+<td>64</td>
+<td>93</td>
+<td>3.5</td>
+<td>0.54</td>
+<td>5.44</td>
+</tr>
+<tr>
+<td>Lunuwila</td>
+<td>89.3</td>
+<td>-0.6</td>
+<td>72.5</td>
+<td>-1.0</td>
+<td>80</td>
+<td>98</td>
+<td>4.4</td>
+<td>3.02</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Mannar</td>
+<td>87.6</td>
+<td>-2.0</td>
+<td>74.2</td>
+<td>-1.1</td>
+<td>78</td>
+<td>88</td>
+<td>3.8</td>
+<td>0.79</td>
+<td>0.93</td>
+</tr>
+<tr>
+<td>Nuwara Eliya</td>
+<td>70.5</td>
+<td>-0.4</td>
+<td>43.5</td>
+<td>-2.8</td>
+<td>65</td>
+<td>89</td>
+<td>5.2</td>
+<td>4.08</td>
+<td>0.24</td>
+</tr>
+<tr>
+<td>Puttalam</td>
+<td>88.5</td>
+<td>-1.3</td>
+<td>72.8</td>
+<td>0</td>
+<td>68</td>
+<td>93</td>
+<td>3.4</td>
+<td>6.52</td>
+<td>3.19</td>
+</tr>
+<tr>
+<td>Ratnapura</td>
+<td>91.0</td>
+<td>-1.0</td>
+<td>72.4</td>
+<td>-0.3</td>
+<td>76</td>
+<td>93</td>
+<td>5.9</td>
+<td>7.23</td>
+<td>3.72</td>
+</tr>
+<tr>
+<td>Talawakele</td>
+<td>78.8</td>
+<td>+1.2</td>
+<td>53.0</td>
+<td>-2.4</td>
+<td>62</td>
+<td>78</td>
+<td>4.7</td>
+<td>1.59</td>
+<td>3.20</td>
+</tr>
+<tr>
+<td>Trincomalee</td>
+<td>86.4</td>
+<td>+1.0</td>
+<td>75.5</td>
+<td>-1.1</td>
+<td>73</td>
+<td>84</td>
+<td>3.2</td>
+<td>0.71</td>
+<td>1.65</td>
+</tr>
+</tbody>
+</table>
+
+Rainfall in March was below normal almost over the whole Island, deficits being most marked inland in the south-western low-country. Small excesses were found, along and near the south coast, around Puttalam, below Haputale, and at some small areas near the east coast, south of Batticaloa.
+
+The largest excesses were 9.05 inches at Blackwood estate, 7.01 inches at Uggalkaltota and 5.37 inches at Galle, while the greatest deficits were 10.28 inches at Digalla estate, 7.86 inches at Ruwanwella, 7.58 inches at Hanwella Group, 7.20 inches at Lugal Oya estate and 7.04 inches at Vinct estate.
+
+Rainfall was heaviest to south of Haputale where Blackwood estate recorded a monthly total of 20.22 inches and Uggalkaltota 16.78 inches. Weerapana in the south also had a comparatively high total of 18.15 inches for the month. The lowest monthly totals occurred in the northern parts of the Island to north of Mannar and Trincomalee, where Ramanathan College recorded no rain at all for the month, while Delft had only 0.02 of an inch and Talaimannar 0.24 of an inch.
+
+There were seven daily falls of five inches and over, the highest being 6.45 inches at Beralapanatara V. C. on the 21st.
+
+The month commenced on a dry note, and up to the 11th there was very little rain. From the 12th to the 26th there was increased rainfall, as a result of irregularly distributed thunderstorm activity, the rain being particularly widespread during the period 21st to 24th. On the 27th, conditions reverted to dry once more.
+
+Temperatures varied above and below average by day, but were almost consistently below normal by night. The highest shade temperature was 97.2° at Kurunegala on the 11th, while the lowest air temperature was 31.9° at Nuwara Eliya on the 8th. Humidities were above average by day and generally below average by night. Cloud amounts were in deficit. Winds were above average strength, the direction being variable.
+
+D. T. E. DASSANAYAKE,  
+Superintendent Observatory.
+
+=== MENTIONS (110) ===
+type	text	norm	role
+ESTATE	Arawa estate	Arawa estate	weather station
+ESTATE	Blackwood estate	Blackwood estate	rainfall station
+ESTATE	Detenagalla estate	Detenagalla estate	weather station
+ESTATE	Digalla estate	Digalla estate	rainfall station
+ESTATE	Hendon estate	Hendon estate	rainfall station
+ESTATE	Kanangama estate	Kanangama estate	weather station
+ESTATE	Lugal Oya estate	Lugal Oya estate	rainfall station
+ESTATE	St. Leonard's on-Sea estate	St. Leonard's on-Sea estate	weather station
+ESTATE	Uva estate	Uva estate	weather station
+ESTATE	Vinct estate	Vinct estate	rainfall station
+ORG	Department of Agriculture	Department of Agriculture	government department
+ORG	Government Cattle Quarantine Station	Government Cattle Quarantine Station	quarantine station
+ORG	Jaffna Farm School	Jaffna Farm School	rainfall station
+ORG	Kayts Quarantine Station	Kayts Quarantine Station	quarantine station
+ORG	Ramanathan College	Ramanathan College	rainfall station
+PERSON	D. T. E. Dassanayake	D. T. E. Dassanayake	Superintendent Observatory
+PERSON	D. T. E. Dassanayake	D. T. E. Dassanayake	Superintendent Observatory
+PERSON	D. T. E. Dassanayake	D. T. E. Dassanayake	Superintendent Observatory
+PERSON	M. CRAWFORD	M. Crawford	Deputy Director (Animal Husbandry) and Government Veterinary Surgeon
+PLACE	Agalawatta	Agalawatta	weather station
+PLACE	Agalawatta	Agalawatta	weather station
+PLACE	Agalawatta	Agalawatta	weather station
+PLACE	Amparai	Amparai	weather station
+PLACE	Anuradhapura	Anuradhapura	weather station
+PLACE	Anuradhapura	Anuradhapura	weather station
+PLACE	Anuradhapura	Anuradhapura	weather station
+PLACE	Badulla	Badulla	weather station
+PLACE	Badulla	Badulla	weather station
+PLACE	Badulla	Badulla	weather station
+PLACE	Bathmedilla	Bathmedilla	rainfall station
+PLACE	Batticaloa	Batticaloa	weather station
+PLACE	Batticaloa	Batticaloa	weather station
+PLACE	Batticaloa	Batticaloa	weather station
+PLACE	Beralapanatara V. C.	Beralapanatara V. C.	location of rainfall measurement
+PLACE	Central	Central Province	province
+PLACE	Chavakachcheri	Chavakachcheri	weather station
+PLACE	Colombo	Colombo	weather station
+PLACE	Colombo	Colombo	weather station
+PLACE	Colombo	Colombo	weather station
+PLACE	Colombo Municipality	Colombo Municipality	municipality
+PLACE	Delft	Delft	rainfall station
+PLACE	Diyatalawa	Diyatalawa	weather station
+PLACE	Diyatalawa	Diyatalawa	weather station
+PLACE	Diyatalawa	Diyatalawa	weather station
+PLACE	Doormomadella	Doormomadella	weather station
+PLACE	Galle	Galle	weather station
+PLACE	Galle	Galle	weather station
+PLACE	Galle	Galle	weather station
+PLACE	Hakgala	Hakgala	weather station
+PLACE	Hakgala	Hakgala	weather station
+PLACE	Hakgala	Hakgala	weather station
+PLACE	Hambantota	Hambantota	weather station
+PLACE	Hambantota	Hambantota	weather station
+PLACE	Hambantota	Hambantota	weather station
+PLACE	Hanwella Group	Hanwella Group	rainfall station
+PLACE	Haputale	Haputale	geographical reference
+PLACE	Hendon	Hendon	weather station
+PLACE	Island	Ceylon	geographical area
+PLACE	Jaffna	Jaffna	weather station
+PLACE	Jaffna	Jaffna	weather station
+PLACE	Jaffna	Jaffna	weather station
+PLACE	Kandy	Kandy	weather station
+PLACE	Kandy	Kandy	weather station
+PLACE	Kandy	Kandy	weather station
+PLACE	Kurunegala	Kurunegala	weather station
+PLACE	Kurunegala	Kurunegeala	weather station
+PLACE	Kurunegala	Kurunegala	weather station
+PLACE	Kurunegala	Kurunegala	location of temperature measurement
+PLACE	Lemastota	Lemastota	weather station
+PLACE	Lunuwila	Lunuwila	weather station
+PLACE	Lunuwila	Lunuwila	weather station
+PLACE	Lunuwila	Lunuwila	weather station
+PLACE	Mannar	Mannar	weather station
+PLACE	Mannar	Mannar	weather station
+PLACE	Mannar	Mannar	weather station
+PLACE	Nedunkeni	Nedunkeni	weather station
+PLACE	North-Western	North-Western Province	province
+PLACE	Northern	Northern Province	province
+PLACE	Nuwara Eliya	Nuwara Eliya	weather station
+PLACE	Nuwara Eliya	Nuwara Eliya	weather station
+PLACE	Nuwara Eliya	Nuwara Eliya	temperature station
+PLACE	Nuwara Eliya	Nuwara Eliya	location of temperature measurement
+PLACE	Pallai	Pallai	weather station
+PLACE	Peradeniya	Peradeniya	location of Department of Agriculture
+PLACE	Puttalam	Puttalam	weather station
+PLACE	Puttalam	Puttalam	weather station
+PLACE	Puttalam	Puttalam	weather station
+PLACE	Puvarasankulam	Puvarasankulam	weather station
+PLACE	Ratnapura	Ratnapura	weather station
+PLACE	Ratnapura	Ratnapura	weather station
+PLACE	Ratnapura	Ratnapura	temperature station
+PLACE	Ruwanwella	Ruwanwella	rainfall station
+PLACE	Sengapodai	Sengapodai	rainfall station
+PLACE	Southern	Southern Province	province
+PLACE	St. Martin's (Lower)	St. Martin's (Lower)	weather station
+PLACE	St. Martin's (Upper)	St. Martin's (Upper)	weather station
+PLACE	Talaimannar	Talaimannar	weather station
+PLACE	Talaimannar	Talaimannar	rainfall station
+PLACE	Talawakele	Talawakele	weather station
+PLACE	Talawakele	Talawakele	weather station
+PLACE	Talawakele	Talawakele	weather station
+PLACE	Teripehe	Teripehe	weather station
+PLACE	Teripehe	Teripehe	rainfall station
+PLACE	Trincomalee	Trincomalee	weather station
+PLACE	Trincomalee	Trincomalee	weather station
+PLACE	Trincomalee	Trincomalee	weather station
+PLACE	Uda-Medura	Uda-Medura	weather station
+PLACE	Uggalkaltota	Uggalkaltota	rainfall station
+PLACE	Weerapana	Weerapana	rainfall station
+PLACE	Western	Western Province	province

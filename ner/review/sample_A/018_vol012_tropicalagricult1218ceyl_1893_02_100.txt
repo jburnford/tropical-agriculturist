@@ -1,0 +1,154 @@
+ID: vol012_tropicalagricult1218ceyl#1893-02#100
+ISSUE: 1893-02  VOL: 12  SECTION: VARIOUS NOTES.
+TITLE: THE KOLAR GOLD FIELD FOR 3 AND 7 YEARS.
+BYLINE: 
+WORDS: 452  PAGES: ['547']
+IA: https://archive.org/details/tropicalagricult1218ceyl/page/n572/mode/1up
+
+=== TEXT ===
+#### THE KOLAR GOLD FIELD FOR 3 AND 7 YEARS.
+
+MYSORE.—During last month 3,910 tons of quartz crushed at this mine produced 3,320 oz. 11dwt. of gold, while 817 oz. 8dwt. were obtained from 4,413 tons of tailings treated. The following are the monthly returns for the past three years:—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1892</th>
+<th>1891</th>
+<th>1890</th>
+</tr>
+<tr>
+<th></th>
+<th>oz.</th>
+<th>oz.</th>
+<th>oz.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>January</td>
+<td>5,578</td>
+<td>5,360</td>
+<td>5,003</td>
+</tr>
+<tr>
+<td>February</td>
+<td>5,573</td>
+<td>5,452</td>
+<td>5,884</td>
+</tr>
+<tr>
+<td>March</td>
+<td>5,023</td>
+<td>5,477</td>
+<td>5,869</td>
+</tr>
+<tr>
+<td>April</td>
+<td>4,436</td>
+<td>5,506</td>
+<td>4,571</td>
+</tr>
+<tr>
+<td>May</td>
+<td>4,938</td>
+<td>5,729</td>
+<td>4,263</td>
+</tr>
+<tr>
+<td>June</td>
+<td>4,018</td>
+<td>5,560</td>
+<td>4,461</td>
+</tr>
+<tr>
+<td>July</td>
+<td>4,924</td>
+<td>5,650</td>
+<td>4,174</td>
+</tr>
+<tr>
+<td>August</td>
+<td>5,529</td>
+<td>5,790</td>
+<td>4,118</td>
+</tr>
+<tr>
+<td>September</td>
+<td>6,043</td>
+<td>5,326</td>
+<td>4,258</td>
+</tr>
+<tr>
+<td>October</td>
+<td>6,154</td>
+<td>5,912</td>
+<td>5,014</td>
+</tr>
+<tr>
+<td>November</td>
+<td>6,032</td>
+<td>5,618</td>
+<td>5,250</td>
+</tr>
+<tr>
+<td>December</td>
+<td>6,137</td>
+<td>5,121</td>
+<td>5,316</td>
+</tr>
+</tbody>
+</table>
+
+Total 64,385 66,501 58,181
+
+The yield of the mine in the year just closed, viz., 64,385 oz., was worth a little over a quarter of a million sterling, or some £8,000 less than in 1891. This is not exactly satisfactory; but the comparatively poor result is mainly due to the small returns in April, May, June and July. During the last four months of the year, however, the returns were very encouraging, and it is to be hoped that the mine will continue to show as good results during the whole of the current year. As regards the price of the shares last year, there was considerable fluctuation. The highest figure reached was £5-7-6 in January, and the lowest £4-2-6, which was quoted in July, November and December. The present price is £4-5-0. In January 1891, the price of the shares was £6, and in December of that year, £5-2-6. The following table shows the quantity of ore crushed and the quantity of gold obtained—including that from the tailings—for the years 1886 to 1892 inclusive:—
+
+<table border="1">
+<thead>
+<tr>
+<th></th>
+<th>1886</th>
+<th>1887</th>
+<th>1888</th>
+<th>1889</th>
+<th>1890</th>
+<th>1891</th>
+<th>1892</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ore tons</td>
+<td>7,166</td>
+<td>12,001</td>
+<td>20,189</td>
+<td>32,576</td>
+<td>38,812</td>
+<td>40,353</td>
+<td>45,482</td>
+</tr>
+<tr>
+<td>Gold oz.</td>
+<td>15,917</td>
+<td>12,964</td>
+<td>19,077</td>
+<td>49,201</td>
+<td>58,181</td>
+<td>66,501</td>
+<td>64,385</td>
+</tr>
+</tbody>
+</table>
+
+Total .. 196,579 tons. 286,226 oz.
+
+The average yield of gold over the whole period of seven years was thus 1 oz. 9 dwts. 2 grs.—*M. Mail*.
+
+=== MENTIONS (4) ===
+type	text	norm	role
+COMMODITY	gold	gold	product mined
+PLACE	KOLAR GOLD FIELD	Kolar Gold Field	mine
+PLACE	MYSORE	Mysore	location of report
+PUBLICATION	M. Mail	M. Mail	source

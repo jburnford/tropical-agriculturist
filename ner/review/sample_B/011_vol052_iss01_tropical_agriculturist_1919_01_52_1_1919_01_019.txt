@@ -1,0 +1,20 @@
+ID: vol052_iss01_tropical-agriculturist-1919-01-52-1#1919-01#019
+ISSUE: 1919-01  VOL: 52  SECTION: GENERAL.
+TITLE: SARAWAK BEAN AS A COVER CROP.
+BYLINE: 
+WORDS: 169  PAGES: ['56']
+IA: https://archive.org/details/tropical-agriculturist_1919-01_52_1/page/n57/mode/1up
+
+=== TEXT ===
+## SARAWAK BEAN AS A COVER CROP.
+
+*Dolichos Hoseii* is given as the botanical name of a small creeping bean which is indigenous to Sarawak. This bean appears to fulfil all that is required as a cover crop in rubber plantations. It is a low-growing leguminous plant, which can be dug into the soil, and it reproduces itself in time to check the growth of weeds; it also grows readily from cuttings. The flower is yellow, and the leaf a rich light green. The roots do not seem to penetrate the ground more than 1 inch, while the plants form a thick mass about 6 inches thick on the ground. It will grow on almost any soil, but probably best on a light one. If planted 3 feet apart, in six months' time the ground should be so covered as to prevent all wash, and keep down all weeds. This plant was brought to the notice of the Department of Agriculture of the Federated Malay States by Mr. Hose, a rubber planter in Sarawak.—AGRIC. NEWS, BARBADOS, Vol. XVII, No. 417.
+
+=== MENTIONS (6) ===
+type	text	norm	role
+COMMODITY	rubber	rubber	
+ORG	Department of Agriculture of the Federated Malay States	Department of Agriculture of the Federated Malay States	
+PERSON	Mr. Hose	Hose	rubber planter in Sarawak
+PLACE	Sarawak	Sarawak	
+PUBLICATION	AGRIC. NEWS, BARBADOS	Agricultural News, Barbados	source
+TAXON	Dolichos Hoseii	Dolichos hoseii	small creeping bean indigenous to Sarawak

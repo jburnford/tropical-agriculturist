@@ -1,0 +1,23 @@
+ID: vol096_dli-ernet-229230#1941-01/06#017
+ISSUE: 1941-01/06  VOL: 96  SECTION: ORIGINAL ARTICLES
+TITLE: ORIGINAL ARTICLES
+BYLINE: 
+WORDS: 125  PAGES: ['n17']
+IA: https://archive.org/details/dli.ernet.229230/page/n17/mode/1up
+
+=== TEXT ===
+## ORIGINAL ARTICLES
+
+<table><tbody><tr><td>Coconut Cultivation in the Island of Trinidad, British West Indies.<br/>By W. V. D. Pieris, M.A., Dip. Agric. (Cantab.), B.Sc. (Lond.) ..</td><td style="text-align: right; vertical-align: bottom;">328</td></tr><tr><td>The relative Resistance of some Strains of Bitter-gourd to the<br/>Cucurbit Fruit-fly. By M. Fernando, Ph.D., D.I.C. (Lond.) and<br/>S. B. Udurawana .. .. .</td><td style="text-align: right; vertical-align: bottom;">347</td></tr><tr><td>A note on some Preliminary Cold Storage Investigations relating to<br/>Ceylon Fruits. By A. W. R. Joachim, Ph.D. (Lond.), Dip. Agric.<br/>(Cantab.), F.I.C., and T. H. Parsons, F.L.S., F.R.H.S. ..</td><td style="text-align: right; vertical-align: bottom;">353</td></tr><tr><td>Poisoning of Cattle by Artificial Manures. By M. Crawford, M.R.C.V.S.</td><td style="text-align: right;">359</td></tr></tbody></table>
+
+=== MENTIONS (9) ===
+type	text	norm	role
+PERSON	A. W. R. Joachim	A. W. R. Joachim	author
+PERSON	M. Crawford	M. Crawford	author
+PERSON	M. Fernando	M. Fernando	author
+PERSON	S. B. Udurawana	S. B. Udurawana	author
+PERSON	T. H. Parsons	T. H. Parsons	author
+PERSON	W. V. D. Pieris	W. V. D. Pieris	author
+PLACE	British West Indies	British West Indies	
+PLACE	Ceylon	Ceylon	
+PLACE	Trinidad	Trinidad	island in British West Indies

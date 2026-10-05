@@ -1,0 +1,119 @@
+ID: vol072_dli-ernet-229221#1929-05#007
+ISSUE: 1929-05  VOL: 72  SECTION: SELECTED ARTICLES.
+TITLE: THE OCCURRENCE OF MYCORRHIZA IN CINCHONA IN JAVA.\*
+BYLINE: 
+WORDS: 1446  PAGES: ['281', '282', '283']
+IA: https://archive.org/details/dli.ernet.229221/page/n315/mode/1up
+
+=== TEXT ===
+### THE OCCURRENCE OF MYCORRHIZA IN CINCHONA IN JAVA.\*
+
+[Note.—There are two schools of thought regarding the significance of the presence of mycorrhizal fungi in the roots of plants. On the one hand, it is held that the association is for the mutual benefit of host and fungus and this theory is upheld by the fact that in extreme cases such as are found in the orchids the plant is unable to grow in the absence of the fungus; on the other hand, it is held that the condition is one of suppressed parasitism and that the host plant receives no benefit from harbouring the fungus. It is possible that there is a range of conditions from the one extreme in which the fungus is essential for the normal development of the plant to the other in which the condition is one of pure, but suppressed, parasitism.
+
+The presence of mycorrhiza in tea, rubber and other tropical plantation crops has been noted recently. In Ceylon it has been found that apparently healthy rootlets of tea from elevations ranging from sea level to 6000 feet commonly contain fungus hyphae. A realization of their significance is of importance. If the fungus is beneficial to the host plant, then it should be encouraged. If, on the other hand, the condition is one of suppressed parasitism, it may be possible to improve the health of the plant by reducing the amount of root infection. It is conceivable that, if the condition is one of suppressed parasitism, a factor which reduces the vitality of the plant will lessen its resistance to the fungus with a consequent increase of the degree of parasitism and the ultimate death of the plant. This may be of significance in the root-disease problem, especially since *Rhizoctonia bataticola* is one of the mycorrhizal fungi and is also found in association with the death of adult plants of tea and rubber.
+
+In the succeeding paper Dr. Steinmann has described the mycorrhiza of *Cinchona* and has indicated their widespread occurrence in Java.]
+
+SINCE the investigations of Frank in 1885 it has been known that the roots of certain plants can live in symbiosis with certain kinds of fungi. The fungus hyphae in many such cases, in contrast to those of parasitic fungi, do no damage to the cells of the host plant; the higher plant and the fungus live in association. The plant provides the fungus with carbohydrates which are formed by assimilation, whilst the fungus provides the plant with nutritive salts, especially with nitrogen-containing foods. Such fungi living in symbiosis with roots are called mycorrhiza. There are two types of these. In the first the fungus forms a sheath around the root, and such are known as ectotrophic mycorrhiza. In the other the fungus hyphae are found inside, in the cells of the roots. These are called endotrophic mycorrhiza.
+
+Janse was the first to examine a number of plant roots in Java in order to determine the presence of mycorrhiza. He gave in the *Annales du Jardin Botanique (Buitenzorg)* a complete list of plants (mostly those of the high
+
+\* By Dr. A. Steinmann in *Overdruk uit Cinchona*, 5, Nos. 1-2, November, 1928. Translated by H. Ludowyke, Librarian, Dept. of Agriculture, Peradeniya.
+
+forest of Tjibodas) on which he had found mycorrhiza. Among these was cited a cultivated plant, coffee. Von Faber noted the presence of mycorrhiza in the roots of various "crater plants" (especially *Ericaceae* and also *Ficus diversifolia*) and at the same time showed that the intensity of the invasion of fungi varied and was more intensive at certain times of the year than at others. Lately I have had an opportunity of discovering mycorrhiza in the roots of healthy plants of *Cinchona succirubra* from Tjinjiroean and from Tjibodas and also in the roots of various kinds of tea such as *Thea japonica* and *Thea sinensis*.
+
+As far as I know, this is the first time that mycorrhiza have been connected with cinchona. As regards tea, Tunstall in 1925 noted the presence of a mycorrhiza in Assam, and Malcolm Park did so recently in Ceylon. These are exclusively endotrophic mycorrhiza in which the hyphae are present within the cellular tissue of the root, whilst there is nothing extraordinary to be seen outside the roots and no definite external symptoms of the presence of mycorrhiza exist, except in certain cases in the irregular nodular swelling of some portions of the root.
+
+The cinchona mycorrhiza were found in the thin capillary roots as well as in smaller roots of 2-3 mm. diameter. The fungus is not present throughout the parenchymatous tissue of the root cortex but only in certain places. Often these places, as has been mentioned before, may be recognised by their irregular and sometimes nodular exterior. The mycorrhizal fungus is sometimes found several cell-layers deep in the cells of the cortex, but it never penetrates into the endodermis. The sometimes colourless but mostly brown to dark-brown hyphae which often appear as globular, swollen cells are usually found in the three outermost cell layers of the root cortex. The hyphae are both inter- as well as intra-cellular, are branched and generally 1.7-3.5 microns thick. Sometimes they show swellings; sometimes, in certain stages, the hyphae in the cells unite into bundles which again change into yellow rough, nodular masses which correspond to the bodies described by Janse as sporangioles and as disorganised remains of mycelial threads in the host plant. Especially in the cells of the roots of *Cinchona succirubra* there was a dark-grey to dark-brown fungal tissue of pseudo-parenchymatic structure which strongly resembled sclerotia. I have not yet succeeded in getting the mycorrhizal fungus in culture. In saccharose-agar nutrients of various concentrations as well as on maize meal agar there was no growth. The same sclerotia-like bodies were found also in the roots of *Thea japonica* which was growing in the mountain garden at Tjibodas.
+
+Regarding the function of the mycorrhiza fungus there is no agreement. Its occurrence in each case, at least in Europe, seems from external appearance to be dependent chiefly on the soil.
+
+Until the fungus is obtained in pure culture nothing can be said regarding its systematic place. One must observe in the first place whether the mycorrhiza occurs in all soils or only in certain kinds of soil. An investigation regarding its occurrence in certain kinds of soil should provide valuable data regarding the feeding requirements of cinchona and it is also not without importance from the point of view of manuring. There seems to be a primary connection between mycorrhiza and the presence of humus. In accordance with the observation of Von Faber that mycorrhiza are most prevalent in spring, developing at about the end of the rainy season, it should particularly be mentioned that cinchona and tea roots were examined in February and April and these were taken from estates of very high elevation where the external influences (namely climate and soil) corresponded to some extent with those of the *solfatare* district.
+
+The soil there is naturally richer in free (sulphuric) acid and aluminium. In order to form an idea of the definite qualities of the soils in which mycorrhiza are met with in *Cinchona*, the pH., the exchange acidity and the hydrolytic acidity were determined and the following results were obtained.
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Exchange acidity</th>
+<th>Hydrolytic acidity</th>
+<th>pH</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mycorrhiza in <i>Cinchona succirubra</i> at Tjiinjiroean</td>
+<td>2.5</td>
+<td>47.5</td>
+<td>5.1</td>
+</tr>
+<tr>
+<td>Mycorrhiza in <i>Cinchona succirubra</i> at Tjibodas</td>
+<td>1.1</td>
+<td>25.0</td>
+<td>6.2</td>
+</tr>
+</tbody>
+</table>
+
+For the sake of comparison there is given also the acidity of soils from the *solfatare* of Gedch taken along with the roots of *Vaccinium varingiifolium*. In the roots of this plant was found a mycorrhizal fungus which in all respects corresponded to that of cinchona at least in its external morphology as observed in the roots; pure cultures of the fungi were not available.
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Exchange acidity</th>
+<th>Hydrolytic acidity</th>
+<th>pH</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i>Vaccinium varingiifolium</i> in <i>solfatare</i> of Gedch</td>
+<td>2.0</td>
+<td>17.5</td>
+<td>5.41</td>
+</tr>
+<tr>
+<td><i>Vaccinium varingiifolium</i> in <i>solfatare</i> of Gedch</td>
+<td>2.3</td>
+<td>25.0</td>
+<td>5.10</td>
+</tr>
+</tbody>
+</table>
+
+In conclusion, I should also mention that Malcolm Park besides showing in Ceylon the existence of hyphae in the cells of the cortex of healthy *Hevea* roots has succeeded in rearing a mycorrhizal fungus from tea in Ceylon. It shows similar morphological characteristics to some strains of *Rhizoctonia bataticola*. Since, however, at the same time other fungi were isolated, a definite opinion now on the question whether the mycorrhiza fungus of tea is beneficial would be rash.
+
+=== MENTIONS (29) ===
+type	text	norm	role
+COMMODITY	coffee	coffee	cultivated plant
+COMMODITY	rubber	rubber	plantation crop
+COMMODITY	tea	tea	plantation crop
+ORG	Dept. of Agriculture, Peradeniya	Dept. of Agriculture, Peradeniya	government department
+PERSON	Dr. Steinmann	Dr. A. Steinmann	author of the paper
+PERSON	Frank	Frank	researcher (1885)
+PERSON	H. Ludowyke	H. Ludowyke	Librarian, Dept. of Agriculture, Peradeniya
+PERSON	Janse	Janse	researcher
+PERSON	Malcolm Park	Malcolm Park	researcher
+PERSON	Tunstall	Tunstall	researcher (1925)
+PERSON	Von Faber	Von Faber	researcher
+PLACE	Assam	Assam	location of study
+PLACE	Ceylon	Ceylon	location of study
+PLACE	Gedch	Gedch	solfatare location
+PLACE	Java	Java	location of study
+PLACE	Peradeniya	Peradeniya	location
+PLACE	Tjibodas	Tjibodas	high forest location
+PLACE	Tjinjiroean	Tjinjiroean	location of study
+PUBLICATION	Annales du Jardin Botanique (Buitenzorg)	Annales du Jardin Botanique (Buitenzorg)	journal
+PUBLICATION	Overdruk uit Cinchona	Overdruk uit Cinchona	source publication
+TAXON	Cinchona	Cinchona	plant genus
+TAXON	Cinchona succirubra	Cinchona succirubra	plant species
+TAXON	Ericaceae	Ericaceae	plant family
+TAXON	Ficus diversifolia	Ficus diversifolia	plant species
+TAXON	Hevea	Hevea	rubber plant genus
+TAXON	Rhizoctonia bataticola	Rhizoctonia bataticola	mycorrhizal fungus
+TAXON	Thea japonica	Camellia japonica	tea variety
+TAXON	Thea sinensis	Camellia sinensis	tea variety
+TAXON	Vaccinium varingiifolium	Vaccinium varingiifolium	plant species

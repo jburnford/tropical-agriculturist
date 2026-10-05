@@ -1,0 +1,55 @@
+ID: vol074_dli-ernet-229223#1930-01#022
+ISSUE: 1930-01  VOL: 74  SECTION: DEPARTMENTAL NOTES.
+TITLE: PURE-LINE PADDY CULTIVATION COMPETITION, TRINCOMALIE DISTRICT, 1928-29.
+BYLINE: 
+WORDS: 136  PAGES: ['59', '60']
+IA: https://archive.org/details/dli.ernet.229223/page/n75/mode/1up
+
+=== TEXT ===
+## PURE-LINE PADDY CULTIVATION COMPETITION, TRINCOMALIE DISTRICT, 1928-29.
+
+A paddy cultivation competition was held in Tamblegam during the Pinmari season of 1929.
+
+Ten cultivators entered the competition. The Agricultural Instructor, Trincomalie, visited the fields and gave all necessary advice and carried out the preliminary judging and the final judging was done by the Vanniah assisted by a prominent agriculturist and the Agricultural Instructor. The heavy rains during cultivation and sowing time were a setback to the competition, but the prize-winners displayed keenness in their attempts to maintain their fields from weeds.
+
+The following were adjudged winners:—
+
+<table>
+<tbody>
+<tr>
+<td>1. P. Nalliah of Kadampai</td>
+<td>...</td>
+<td>Rs.</td>
+<td>30.00</td>
+</tr>
+<tr>
+<td>2. Kathiramathamby of Kovilkudyirrapa</td>
+<td>...</td>
+<td>„</td>
+<td>20.00</td>
+</tr>
+<tr>
+<td>3. S. Kaliappu of Paddimeda</td>
+<td>...</td>
+<td>„</td>
+<td>10.00</td>
+</tr>
+</tbody>
+</table>
+
+60.
+
+=== MENTIONS (12) ===
+type	text	norm	role
+COMMODITY	paddy	paddy	crop
+EVENT	Pinmari	Pinmari season	season
+PERSON	Agricultural Instructor, Trincomalie	Agricultural Instructor, Trincomalee	Agricultural Instructor
+PERSON	Kathiramathamby	Kathiramathamby	prize winner
+PERSON	P. Nalliah	P. Nalliah	prize winner
+PERSON	S. Kaliappu	S. Kaliappu	prize winner
+PERSON	Vanniah	Vanniah	judge
+PLACE	Kadampai	Kadampai	location of P. Nalliah
+PLACE	Kovilkudyirrapa	Kovilkudyirrapa	location of Kathiramathamby
+PLACE	Paddimeda	Paddimeda	location of S. Kaliappu
+PLACE	Tamblegam	Tamblegam	location of competition
+PLACE	Trincomalie	Trincomalee	district

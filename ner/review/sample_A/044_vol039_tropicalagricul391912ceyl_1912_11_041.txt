@@ -1,0 +1,47 @@
+ID: vol039_tropicalagricul391912ceyl#1912-11#041
+ISSUE: 1912-11  VOL: 39  SECTION: 
+TITLE: THE FEEDING OF COCONUT CAKE TO MILCH COWS.
+BYLINE: 
+WORDS: 338  PAGES: ['380', 'n422', 'n423']
+IA: https://archive.org/details/tropicalagricul391912ceyl/page/n421/mode/1up
+
+=== TEXT ===
+## THE FEEDING OF COCONUT CAKE TO MILCH COWS.
+
+The following remarks culled from the "Journal of the South-Eastern Agricultural College, Wye," appear in the *Journal of the Board of Agriculture* for October, 1912.—An investigation was carried out on the College Farm during the months of April and May, 1911, to determine the suitability of coconut cake as a food for the production of milk and butter. Three cows, which had calved about two months previously, were selected, and, after being fed for a fortnight on an ordinary ration, were given a diet containing coconut cake, the quantity fed being at first 2 lb. a day, and gradually increased to 6 lb. per head daily. The total period in which the coconut cake was fed was three weeks, after which the cows were kept under observation for a week, during which time they received ordinary foods. The coconut cake appeared to produce very little effect on the yield and quality of the milk, and on the Reichert number of the butter, though in view of the shortness of the period and the small number of cows it is impossible to draw definite conclusions. It was clear, however, that the cake made the butter much firmer, and it is suggested that on this account it should prove useful as a food in warm weather when difficulty is experienced in making firm butter.
+
+[Page not transcribed: OCR unreliable (stage 4 review list)]
+
+SECRETARIES OF THE ALL-CEYLON EXHIBITION 1912.
+
+![Portrait of C. Drieberg](1eb4e076741f91b3dc7b0a392c1d2e37_2_img.webp)A black and white oval portrait of a man with a mustache, wearing a suit and tie, with his arms crossed. He is looking directly at the camera.
+
+C. DRIEBERG, B.A., F.H.A.S.
+
+![Portrait of E. B. Denham](1eb4e076741f91b3dc7b0a392c1d2e37_4_img.webp)A black and white oval portrait of a man in a suit and bow tie, looking slightly to his left.
+
+E. B. DENHAM, B.A., C.C.S.
+
+![Portrait of H. F. Macmillan](1eb4e076741f91b3dc7b0a392c1d2e37_6_img.webp)A black and white oval portrait of a man with a mustache, wearing a suit and tie, standing in front of a building with a fence.
+
+H. F. MACMILLAN, F.L.S., F.R.H.S.
+
+![View of Main Pavilion](1eb4e076741f91b3dc7b0a392c1d2e37_8_img.webp)A black and white photograph showing a long, low building with a covered walkway, identified as the Main Pavilion. Three men in suits and hats are standing in the foreground on a grassy area.
+
+VIEW OF MAIN PAVILION.
+
+VIEW OF MAIN PAVILION.
+
+=== MENTIONS (11) ===
+type	text	norm	role
+COMMODITY	butter	butter	product of investigation
+COMMODITY	coconut cake	coconut cake	food for milch cows
+COMMODITY	milk	milk	product of investigation
+ESTATE	College Farm	College Farm	site of investigation
+EVENT	All-Ceylon Exhibition 1912	All-Ceylon Exhibition 1912	exhibition
+PERSON	C. Drieberg	C. Drieberg	Secretary of the All-Ceylon Exhibition 1912
+PERSON	E. B. Denham	E. B. Denham	Secretary of the All-Ceylon Exhibition 1912
+PERSON	H. F. Macmillan	H. F. Macmillan	Secretary of the All-Ceylon Exhibition 1912
+PLACE	Main Pavilion	Main Pavilion	building at the exhibition
+PUBLICATION	Journal of the Board of Agriculture	Journal of the Board of Agriculture	publication, October 1912
+PUBLICATION	Journal of the South-Eastern Agricultural College, Wye	Journal of the South-Eastern Agricultural College, Wye	source of remarks

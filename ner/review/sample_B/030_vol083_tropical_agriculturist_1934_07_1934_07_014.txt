@@ -1,0 +1,524 @@
+ID: vol083_tropical-agriculturist-1934-07#1934-07#014
+ISSUE: 1934-07  VOL: 83  SECTION: DEPARTMENTAL NOTES
+TITLE: **ANIMAL DISEASE RETURN FOR THE MONTH
+BYLINE: M. CRAWFORD,
+WORDS: 1018  PAGES: ['67']
+IA: https://archive.org/details/tropical-agriculturist_1934-07/page/n68/mode/1up
+
+=== TEXT ===
+**ANIMAL DISEASE RETURN FOR THE MONTH  
+ENDED 30 JUNE, 1934**
+
+<table border="1">
+<thead>
+<tr>
+<th>Province, &amp;c.</th>
+<th>Disease</th>
+<th>No. of Cases up to Date since Jan. 1st 1933</th>
+<th>Fresh Cases</th>
+<th>Recoveries</th>
+<th>Deaths</th>
+<th>Balance Ill</th>
+<th>No. Shot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Western</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>399</td>
+<td>197</td>
+<td>321</td>
+<td>...</td>
+<td>78</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>11</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>11</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Colombo Municipality</td>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>551</td>
+<td>72</td>
+<td>513</td>
+<td>20</td>
+<td>18</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>2</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Cattle Quarantine Station</td>
+<td>Bovine Tuberculosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>11</td>
+<td>...</td>
+<td>10</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Central</td>
+<td>Anthrax (Sheep &amp; Goats)</td>
+<td>115</td>
+<td>30</td>
+<td>...</td>
+<td>115</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>15</td>
+<td>2</td>
+<td>15</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Bovine Tuberculosis</td>
+<td>3</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>3</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Southern</td>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>159</td>
+<td>...</td>
+<td>159</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">Northern</td>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>144</td>
+<td>...</td>
+<td>43</td>
+<td>93</td>
+<td>...</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>28</td>
+<td>...</td>
+<td>28</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Black Quarter</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="3">Eastern</td>
+<td>Rabies (Dogs)</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>114*</td>
+<td>8</td>
+<td>102</td>
+<td>...</td>
+<td>12</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="5">North-Western</td>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rabies (Dogs)</td>
+<td>9</td>
+<td>7†</td>
+<td>...</td>
+<td>7</td>
+<td>...</td>
+<td>2</td>
+</tr>
+<tr>
+<td rowspan="3">North-Central</td>
+<td>Piroplasmosis</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+<td>1</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>63</td>
+<td>...</td>
+<td>13</td>
+<td>44</td>
+<td>...</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="4">Uva</td>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>213</td>
+<td>...</td>
+<td>207</td>
+<td>6</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td rowspan="6">Sabaragamuwa</td>
+<td>Bovine Tuberculosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Rinderpest</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Foot-and-mouth disease</td>
+<td>233</td>
+<td>...</td>
+<td>233</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Anthrax</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Piroplasmosis</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td>Haemorrhagic Septicaemia</td>
+<td>14</td>
+<td>2</td>
+<td>...</td>
+<td>14</td>
+<td>...</td>
+<td>...</td>
+</tr>
+<tr>
+<td></td>
+<td>Rabies (Dogs)</td>
+<td>4</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>...</td>
+<td>4</td>
+</tr>
+</tbody>
+</table>
+
+\* 84 cases occurred during May, 1934. † 1 case, a Calf.
+
+G. V. S. Office.
+
+Colombo, 10th July, 1934.
+
+M. CRAWFORD,
+
+Government Veterinary Surgeon
+
+=== MENTIONS (22) ===
+type	text	norm	role
+ORG	Cattle Quarantine Station	Cattle Quarantine Station	quarantine station
+ORG	G. V. S. Office	Government Veterinary Surgeon Office	office
+PERSON	M. CRAWFORD	M. Crawford	Government Veterinary Surgeon
+PLACE	Central	Central Province	province
+PLACE	Colombo	Colombo	city
+PLACE	Colombo Municipality	Colombo Municipality	municipality
+PLACE	Eastern	Eastern Province	province
+PLACE	North-Central	North-Central Province	province
+PLACE	North-Western	North-Western Province	province
+PLACE	Northern	Northern Province	province
+PLACE	Sabaragamuwa	Sabaragamuwa Province	province
+PLACE	Southern	Southern Province	province
+PLACE	Uva	Uva Province	province
+PLACE	Western	Western Province	province
+TAXON	Anthrax	Anthrax	animal disease
+TAXON	Black Quarter	Black Quarter	animal disease
+TAXON	Bovine Tuberculosis	Bovine Tuberculosis	animal disease
+TAXON	Foot-and-mouth disease	Foot-and-mouth disease	animal disease
+TAXON	Haemorrhagic Septicaemia	Haemorrhagic Septicaemia	animal disease
+TAXON	Piroplasmosis	Piroplasmosis	animal disease
+TAXON	Rabies (Dogs)	Rabies	animal disease
+TAXON	Rinderpest	Rinderpest	animal disease

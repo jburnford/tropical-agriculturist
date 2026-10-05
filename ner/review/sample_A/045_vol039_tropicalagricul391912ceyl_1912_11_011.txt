@@ -1,0 +1,24 @@
+ID: vol039_tropicalagricul391912ceyl#1912-11#011
+ISSUE: 1912-11  VOL: 39  SECTION: 
+TITLE: THE COCONUT PAVILION.
+BYLINE: 
+WORDS: 72  PAGES: ['353']
+IA: https://archive.org/details/tropicalagricul391912ceyl/page/n394/mode/1up
+
+=== TEXT ===
+## THE COCONUT PAVILION.
+
+---
+
+The Pavilion made of coconut wood erected by Mudaliyar A. E. Rajapaksa of Negombo at the All-Ceylon Exhibition, which with other exhibits won the cup for the best exhibit of the products of the Coconut palm, has been presented to the Royal Botanic Gardens, Peradeniya, and has been re-erected near the ferry where it commands a fine view of the river and will afford shelter to those waiting to cross.
+
+45
+
+=== MENTIONS (6) ===
+type	text	norm	role
+EVENT	All-Ceylon Exhibition	All-Ceylon Exhibition	
+ORG	Royal Botanic Gardens, Peradeniya	Royal Botanic Gardens, Peradeniya	
+PERSON	Mudaliyar A. E. Rajapaksa	A. E. Rajapaksa	of Negombo
+PLACE	Negombo	Negombo	
+PLACE	Peradeniya	Peradeniya	
+TAXON	Coconut palm	Coconut palm	

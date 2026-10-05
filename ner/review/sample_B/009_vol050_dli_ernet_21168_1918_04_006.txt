@@ -1,0 +1,117 @@
+ID: vol050_dli-ernet-21168#1918-04#006
+ISSUE: 1918-04  VOL: 50  SECTION: CEYLON AGRICULTURE.
+TITLE: COMMITTEE OF AGRICULTURAL EXPERIMENTS.
+BYLINE: 
+WORDS: 1862  PAGES: ['203', '204', '205', '206']
+IA: https://archive.org/details/dli.ernet.21168/page/n223/mode/1up
+
+=== TEXT ===
+## COMMITTEE OF AGRICULTURAL EXPERIMENTS.
+
+Minutes of a meeting of the Committee of Agricultural Experiments held at the Peradeniya Experiment Station, on Thursday March 7, 1918.
+
+Present:—The Director of Agriculture (Chairman), the Botanist and Mycologist, the Acting Entomologist, MESSRS. N. K. JARDINE (Entomologist for Tea Tortrix), J. S. PATTERSON, M. L. WILKINS, T. Y. WRIGHT, A. E. DE S. RAJAPAKSE, Mudaliyar, A. W. BEVEN, C. E. G. PANDITESLKERA, N. G. CAMPBELL, E. W. KEITH, H. D. GARRICK, R. G. COOMBE, A. J. AUSTIN DICKSON, and H. A. DEUTROM (Acting Secretary), and as visitors, MESSRS. W. H. BIDDULPH, L. C. MAUDSLAY, J. FORSYTH, E. G. BEILBY, and T. FINCH NOYES.
+
+The minutes of the previous meeting having been confirmed, the Chairman stated that letters had been received from the Hon. the Government Agent, C.P., the Assistant Government Agent, Puttalam, MESSRS. J. GRAEME SINCLAIR, G. H. GOLLEDGE, G. H. MASEFIELD, J. B. COLES, A. S. LONG-PRICE, and a telegram from the HON'BLE MR. HUYSHÉ ELIOT, regretting their inability to attend the meeting. He had also received a letter from LT.-COL. W. G. B. DICKSON, tendering his resignation, as it was not possible for him to attend meetings regularly, owing to great increase of military work, caused by compulsory training, and other work. It was, however, decided that he should be asked to remain on the Committee and to attend such meetings as is possible while compulsory military service is continued.
+
+MR. A. W. BEVEN suggested the name of SIR SOLOMON DIAS BANDARANAIKA to fill the vacancy caused by MUDALIYAR A. E. DE S. RAJAPAKSE, who becomes an ex-officio member of the Committee having been appointed Chairman of the Low Country Products Association. It was resolved to recommend to Government that the Maha Mudaliyar be nominated to fill this vacancy.
+
+2. *Progress Reports.*—The Chairman explained that the Progress Reports of the Experiment Stations had not been prepared for this meeting, the period covered being only a month.
+
+3. *Yields of Tea plots, Peradeniya, 1915-1917.*—The Chairman in the absence of MR. BAMBER explained the figures on the statements circulated, and called for comment. He drew attention to the high yields of the dadap plots.
+
+MR. R. G. COOMBE enquired whether any information was available with regard to the manurial experiments carried out at Portswood and Dessford Estates. He was of opinion that records of higher elevations would be of considerable value. The Chairman thereupon undertook to make the necessary enquiries.
+
+It was decided to make another complete census of the actual number of bushes in each plot at Peradeniya at an early date.
+
+4. *Results of Rubber Tapping Experiments at Henaratgoda and Peradeniya.*—The Botanist and Mycologist gave a summary of the rubber tapping experiments at Henaratgoda and Peradeniya.
+
+At Henaratgoda, the yields from two cuts and one cut had been compared. The cuts were placed on opposite sides of the same tree, one cut on a quarter on one side and two cuts on a quarter on the opposite side. In one series the two cuts were one foot apart, and in the other series two feet apart. The yields of the upper cut on the two-cut side gave about half as much as the lower in each case, but does not appear to have had any appreciable, if any, effect upon the yield of the lower cut.
+
+At Peradeniya the previous experiments had been continued. In the time-interval experiment, the yields for 1917 had been 5.9 pounds per tree in alternate day tapping, 5 pounds in three-day tapping, and 2.4 pounds in weekly tapping. In the "change-over" tapping the double tapping at the time of change was given up in 1917; the yields from the single cut on one quarter still showed an advantage in changing over, but those from the V cut on one half did not. In the experiment with a V cut on one-third compared with a single cut to the left on one-third, the yields for three and a half years showed no difference. An experimental tapping of renewed bark of different ages  $5\frac{1}{2}$ ,  $4\frac{2}{3}$ , and  $3\frac{1}{2}$  years old, respectively, at the beginning of the experiment, the yields for 18 months from a single cut on one-third, tapped on alternate days were very close for the two younger barks, but nearly 30 per cent. greater from the oldest. The ratio was as 18 : 15 : 13. It was also mentioned that the increase in thickness of the renewed bark between the  $4\frac{2}{3}$  years bark and the  $5\frac{1}{2}$  year old bark had not been very great.
+
+A general discussion took place and it was finally decided to publish the results in bulletin form and to issue a summary in the TROPICAL AGRICULTURIST.
+
+Several suggestions were made as to further tapping experiments at Peradeniya, and the Chairman undertook to report to the Committee, at its next meeting, the actual number of trees which were available for such experiments.
+
+5. *Time intervals in rubber tapping.*—MESSRS. WILKINS and PATTERSON brought up the question of the relative merits of daily, alternate-day and three-day tapping. It was suggested that another time-interval experiment should be instituted with a single cut only, and it was agreed that this should be done if the required number of trees was available.
+
+6. *Use of liquid fuel on tapped surfaces as a preventive of bark rot.*—Mr. J. S. PATTERSON stated that several estates were using liquid fuel on tapped surfaces for the prevention of bark rot, and enquired whether its application had any injurious effect on the tree.
+
+The Botanist and Mycologist stated that experiments to ascertain the effect of various preventatives on renewing bark had been carried out with
+
+coal tar and liquid fuel, and mixtures of these in the proportion of eighty per cent. coal tar and twenty per cent. liquid fuel, fifty per cent. coal tar and fifty per cent. liquid fuel, and twenty per cent. coal tar and eighty per cent. liquid fuel. In no case had any wound or exudation of latex been caused. The renewing bark on the cut in these experiments was usually 1.5 millimetres thick. On estates, however, he had seen exudation of latex after the application of tar and liquid fuel, and tar and tallow, not only on the youngest bark but up to four inches above the cut. In many instances this occurred at the edge of a wound, but in others there was no wound. The cause of this had not yet been ascertained. It appeared to occur more generally in the dry weather, but it had not happened on trees on the Experiment Station to which pure coal tar, pure liquid fuel, and the fifty per cent. mixture had been applied when the trees were leafless, after a period of drought extending over five weeks. He would advise that these mixtures should not be applied during the dry season, but immediately before the rains.
+
+7. *Borers on tapped surfaces of rubber.*—MR. SPEYER gave information concerning Rubber Borers and said that he had 56 records since 1903, of which 31 showed that the various species of Scolytid borers had entered trees or parts of trees already killed by fungi. A further 11 records were from dead and decaying wood. There was no record of successful attack in healthy trees or healthy portions of trees. In the recent reports of these borers in tapped and untapped surfaces treated with tar and liquid fuel, it is probable that the borers are attracted to small diseased patches, and in no case had the beetles been able to pass the latex layers. There can be no doubt that the attack, though ending in death of the beetles which are drowned in the latex on entry, is most unsatisfactory, and the remedy is to be found, not in ceasing the application of preservatives, but in removing the source from which the beetles originate, namely dead rubber-wood. Surfaces treated with preservatives of various kinds in the Peradeniya experiment plots show no signs of beetle attack, and the absence of beetles in scars points to the fact that there are no beetles in the vicinity to make the attack. This is due to the early removal and destruction of dead trees and branches.
+
+Several specimens of dead rubber trunks sent in recently by Superintendents of Estates had beetles emerging from them, so that the wood must have been dead at least two months to give time for the development of the broods.
+
+The remedy for the trouble is therefore the early and quick removal of all dead trees and portions of trees, and their immediate destruction by fire.
+
+8. *Results of experiments in manuring rubber at Peradeniya for 1917.*—The Chairman explained the figures in the statements circulated. The highest yields had been obtained where excess of phosphoric acid had been given, while the plots with the lowest yields were those receiving excess of potash and the mineral mixture. These plots had however not been thinned
+
+and therefore a comparison of the figures was not really satisfactory. It was resolved to thin out the plot of rubber manured with excess of potash, at an early date. It was stated that the manure has been applied in trenches with leaves, between the rows of trees. The results of these experiments not having been published for the last three years, it was decided that this should be done in bulletin form.
+
+9. *Results of Experiments with coconuts.*—The Chairman stated that the figures of the various experiments had been tabulated and circulated up to the end of the year 1917. He passed round charts showing increase and decrease in yields from 1914 to 1917. He said that at Pitiakande continued increases in yields had been obtained on those plots which (1) had been cultivated monthly and (2) had been treated with cattle manure. At Chilaw, half the plots had shown satisfactory progress but those on the sandy soils had not done well in 1917. On the heavier land the best yields were being obtained from the plot which was cultivated every month. At Negombo, the most marked increase during the year has also been made on the plot which has been regularly cultivated. At Maha Iluppalama the coconut crops had increased during the year—those receiving irrigation gave an average of 25.8 nuts per palm and those which were not irrigated an average of 9.8 nuts.
+
+MR. PATTERSON pointed out that 10 tons of lime was excessive, and MR. A. W. BEVEN was also of the same opinion.
+
+MR. BEVEN suggested that from next year the lime should be omitted from Plot No. 8 in the Chilaw experiments, and that 10 cwt. of lime be applied to another plot. The Chairman promised to consider the matter.
+
+It was resolved to publish all details of the Coconut Experiments in the TROPICAL AGRICULTURIST.
+
+10. MUDALIYAR A. E. RAJAPAKSE explained certain experiments he was conducting at Negombo to determine the fertility of a coconut land, and how its productivity could be maintained if its products be returned to the soil, the droppings including the water, leaves, shells, and one-third of the weight of copra and poonac, being returned once a year.
+
+The Chairman stated that the figures would be useful to ascertain the quantity returned into the land from what had been actually taken out of it.
+
+The Chairman tendered his apologies for the long agenda, but he had taken the earliest opportunity of presenting the latest figures of the various experiments being carried out by the Department.
+
+11. MR. H. D. GARRICK enquired about the latrines built by the Public Works Department for coolies of the Experiment Station, Peradeniya, which were recently inspected by the Committee.
+
+The Chairman stated that they were reported to be of the type plan, and had recently been inspected by Public Works Officers.
+
+=== MENTIONS (43) ===
+type	text	norm	role
+ESTATE	Dessford	Dessford Estate	estate
+ESTATE	Portswood	Portswood Estate	estate
+ORG	Committee of Agricultural Experiments	Committee of Agricultural Experiments	committee
+ORG	Low Country Products Association	Low Country Products Association	association
+ORG	Peradeniya Experiment Station	Peradeniya Experiment Station	location of meeting
+ORG	Public Works Department	Public Works Department	government department
+PERSON	A. E. de S. Rajapakse	A. E. de S. Rajapakse	Mudaliyar, member
+PERSON	A. J. Austin Dickson	A. J. Austin Dickson	member
+PERSON	A. S. Long-Price	A. S. Long-Price	absent member
+PERSON	A. W. Beven	A. W. Beven	member
+PERSON	Bamber	Bamber	absent
+PERSON	C. E. G. Panditeslkera	C. E. G. Panditeslkera	member
+PERSON	E. G. Beilby	E. G. Beilby	visitor
+PERSON	E. W. Keith	E. W. Keith	member
+PERSON	G. H. Golledge	G. H. Golledge	absent member
+PERSON	G. H. Masefield	G. H. Masefield	absent member
+PERSON	H. A. Deutrom	H. A. Deutrom	Acting Secretary
+PERSON	H. D. Garrick	H. D. Garrick	member
+PERSON	Huyshé Eliot	Huyshé Eliot	Hon'ble Mr., absent member
+PERSON	J. B. Coles	J. B. Coles	absent member
+PERSON	J. Forsyth	J. Forsyth	visitor
+PERSON	J. Graeme Sinclair	J. Graeme Sinclair	absent member
+PERSON	J. S. Patterson	J. S. Patterson	member
+PERSON	L. C. Maudslay	L. C. Maudslay	visitor
+PERSON	M. L. Wilkins	M. L. Wilkins	member
+PERSON	N. G. Campbell	N. G. Campbell	member
+PERSON	N. K. Jardine	N. K. Jardine	Entomologist for Tea Tortrix
+PERSON	R. G. Coombe	R. G. Coombe	member
+PERSON	Sir Solomon Dias Bandaranaike	Sir Solomon Dias Bandaranaike	proposed nominee
+PERSON	T. Finch Noyes	T. Finch Noyes	visitor
+PERSON	T. Y. Wright	T. Y. Wright	member
+PERSON	W. G. B. Dickson	W. G. B. Dickson	Lt.-Col., member
+PERSON	W. H. Biddulph	W. H. Biddulph	visitor
+PLACE	C.P.	Central Province	district
+PLACE	Chilaw	Chilaw	location of experiments
+PLACE	Henaratgoda	Henaratgoda	location of experiments
+PLACE	Maha Iluppalama	Maha Iluppalama	location of experiments
+PLACE	Negombo	Negombo	location of experiments
+PLACE	Peradeniya	Peradeniya	location
+PLACE	Pitiakande	Pitiakande	location of experiments
+PLACE	Puttalam	Puttalam	district
+PUBLICATION	Tropical Agriculturist	Tropical Agriculturist	journal
+TAXON	Scolytid	Scolytinae	borers

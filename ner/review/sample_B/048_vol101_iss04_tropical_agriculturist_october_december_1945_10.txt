@@ -1,0 +1,41 @@
+ID: vol101_iss04_tropical-agriculturist-october-december-1945-101-4#1945-10/12#029
+ISSUE: 1945-10/12  VOL: 101  SECTION: RUBBER RESEARCH SCHEME (Ceylon)
+TITLE: 6. EXPERIMENTAL COMMITTEE—
+BYLINE: 
+WORDS: 251  PAGES: ['272', '273']
+IA: https://archive.org/details/tropical-agriculturist_october-december-1945_101_4/page/n85/mode/1up
+
+=== TEXT ===
+#### 6. EXPERIMENTAL COMMITTEE—
+
+(a) *Dates of meetings*.—Agreed that the dates of Board and Experimental Committee meetings should be fixed in consultation with members at the end of each meeting.
+
+(b) *Recommendations made at meeting held on October 16, 1945* :—
+
+(1) *Repairs to estate roads*.—The recommendation that the necessary repairs to the roads at Dartonfield and Nivitigalakele be undertaken was approved.
+
+(2) *Repairs to Gardner engine*.—Messrs. Walker & Grieg's estimate for supplying and fitting a new piston and liner to the Gardner engine was approved.
+
+273(c) *Recommendations made at meeting held on October 29, 1945* :—
+
+- (1) *Extension to Secretary-accountant's bungalow*.—The recommendation that a new bungalow be built for the Secretary-Accountant was approved.
+- (2) *Bonus to Estate Staff*.—Agreed that no VJ day bonus be paid to the estate staff.
+
+7. **STAFF**—(a) *Botanist*—
+
+- (1) *Resignation of Mr. C. C. T. Sharp*.—The Chairman reported that there had been no objections to the acceptance of Mr. Sharp's resignation from the post of temporary Botanist. The resignation was therefore accepted and it was agreed that Mr. Sharp be allowed to leave before November 30, if necessary.
+
+It was agreed to place on record the Board's appreciation of Mr. Sharp's services.
+
+- (2) *Advertising posts of Botanist and Mycologist*.—It was agreed that the post of Mycologist be readvertised, and the draft advertisement for the posts of Botanist and Mycologist was approved subject to a few minor amendments.
+- (b) *Director*.—Reported that Mr. T. E. H. O'Brien, Director, who was due to return from leave on November 15, 1945, had sent a medical certificate stating that he would not be fit to return for a further 3 months. The extra leave was approved.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+ESTATE	Dartonfield	Dartonfield	estate
+ESTATE	Nivitigalakele	Nivitigalakele	estate
+ORG	Experimental Committee	Experimental Committee	committee
+ORG	Messrs. Walker & Grieg	Walker & Grieg	suppliers
+PERSON	Mr. C. C. T. Sharp	C. C. T. Sharp	temporary Botanist
+PERSON	Mr. T. E. H. O'Brien	T. E. H. O'Brien	Director
+PRODUCT	Gardner engine	Gardner engine	engine

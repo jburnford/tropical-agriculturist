@@ -1,0 +1,140 @@
+ID: vol059_tropicalagricult0059unse#1922-10#018
+ISSUE: 1922-10  VOL: 59  SECTION: MARKET RATES.
+TITLE: ESSENTIAL OILS.
+BYLINE: 
+WORDS: 264  PAGES: ['263', '264']
+IA: https://archive.org/details/tropicalagricult0059unse/page/n286/mode/1up
+
+=== TEXT ===
+### ESSENTIAL OILS.
+
+(From Perfumery and Essential Oil Record, Vol. 13, No. 6.)
+
+<table border="1">
+<thead>
+<tr>
+<th>GOODS</th>
+<th>QUALITY</th>
+<th>PRICE</th>
+<th>PER</th>
+<th>PKGS.</th>
+<th>POSITION</th>
+<th>MARKET</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Camphor Oil</td>
+<td>... White ...</td>
+<td>77s 6d to 80s.</td>
+<td>cwt.</td>
+<td>Drums</td>
+<td></td>
+<td>Cheaper</td>
+</tr>
+<tr>
+<td>Do</td>
+<td>... Brown ...</td>
+<td>70s.</td>
+<td>"</td>
+<td>"</td>
+<td>Spot</td>
+<td></td>
+</tr>
+<tr>
+<td>Cinnamon Leaf Oil</td>
+<td>...</td>
+<td>4½d.</td>
+<td>oz.</td>
+<td></td>
+<td>"</td>
+<td></td>
+</tr>
+<tr>
+<td>Do</td>
+<td>...</td>
+<td>3½d.</td>
+<td>"</td>
+<td></td>
+<td>C.i.f.</td>
+<td></td>
+</tr>
+<tr>
+<td>Cinnamon Bark Oil</td>
+<td>... Genuine ...</td>
+<td>6s 6d</td>
+<td>"</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Citronella Oil</td>
+<td>... Ceylon ...</td>
+<td>2s. 6d.</td>
+<td>lb.</td>
+<td>Drums</td>
+<td>Spot</td>
+<td>Not mach business</td>
+</tr>
+<tr>
+<td>Do</td>
+<td>... do ...</td>
+<td>2s 1d</td>
+<td>"</td>
+<td>"</td>
+<td>C.i.f. afloat</td>
+<td></td>
+</tr>
+<tr>
+<td>Do</td>
+<td>... do ...</td>
+<td>2s 2½d</td>
+<td>"</td>
+<td>"</td>
+<td>C.i.f.</td>
+<td></td>
+</tr>
+<tr>
+<td>Lemongrass Oil</td>
+<td>... Cochin ...</td>
+<td>2½d.</td>
+<td>oz.</td>
+<td>"</td>
+<td>"</td>
+<td></td>
+</tr>
+<tr>
+<td>Lime Oil</td>
+<td>... Distilled ...</td>
+<td>2s.</td>
+<td>lb.</td>
+<td></td>
+<td>Spot</td>
+<td>Easeir</td>
+</tr>
+<tr>
+<td>Do</td>
+<td>... Hand-pressed ...</td>
+<td>10s. 6d.</td>
+<td>"</td>
+<td></td>
+<td></td>
+<td>Nominal</td>
+</tr>
+</tbody>
+</table>
+
+[OCTOBER, 1922
+
+=== MENTIONS (9) ===
+type	text	norm	role
+COMMODITY	Camphor Oil	Camphor Oil	traded product
+COMMODITY	Cinnamon Bark Oil	Cinnamon Bark Oil	traded product
+COMMODITY	Cinnamon Leaf Oil	Cinnamon Leaf Oil	traded product
+COMMODITY	Citronella Oil	Citronella Oil	traded product
+COMMODITY	Lemongrass Oil	Lemongrass Oil	traded product
+COMMODITY	Lime Oil	Lime Oil	traded product
+PLACE	Ceylon	Ceylon	origin of Citronella Oil
+PLACE	Cochin	Cochin	origin of Lemongrass Oil
+PUBLICATION	Perfumery and Essential Oil Record	Perfumery and Essential Oil Record	source journal

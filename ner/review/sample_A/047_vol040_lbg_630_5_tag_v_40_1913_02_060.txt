@@ -1,0 +1,23 @@
+ID: vol040_lbg-630-5-tag-v-40#1913-02#060
+ISSUE: 1913-02  VOL: 40  SECTION: 
+TITLE: SISAL HEMP CULTIVATION.
+BYLINE: 
+WORDS: 244  PAGES: ['147']
+IA: https://archive.org/details/lbg.630.5.tag.v.40/page/n170/mode/1up
+
+=== TEXT ===
+### SISAL HEMP CULTIVATION.
+
+The following is a summary of an article published in the “Verhandlungen des Kolonial-Wirtschaftlichen Komitees” (Berlin):—The cultivation of the sisal plant in German East Africa has been carried on for some twenty years, and it may be asserted with confidence that excellent results have been achieved and that there is a promising future before the sisal industry in that Colony. No less than 11,212 metric tons of sisal hemp, valued at 4,530,000 marks (about £222,700) were exported from German East Africa in 1911, and it is authoritatively stated that the figure will reach 16,500 metric tons in 1912, and probably 20,000 metric tons in 1913. The advantages of growing the agave (sisal) plant are that it will thrive in different soils and under varied conditions. It is a good policy for the planter in
+
+growing sisal hemp to extend the area of cultivation as much as possible, for it should be recognised that a profitable use of the fibre separating machine can only be made by treating 100,000 to 120,000 leaves per working day. There is undoubtedly a shortage of native labour, and until that is solved it is premature to discuss the question of cultivation on a very extensive scale. According to expert opinion the prospect of over-production is somewhat remote, as the world’s demand for fibre is constantly on the increase. As regards prices, even if they fell considerably below their present level, the cost of growing would still leave a fair margin of profit. [Metric ton=2204 6 lb.]—*Board of Trade Journal*, Jan. 30.
+
+=== MENTIONS (7) ===
+type	text	norm	role
+COMMODITY	sisal hemp	sisal hemp	exported product
+PLACE	Berlin	Berlin	
+PLACE	German East Africa	German East Africa	colony
+PUBLICATION	Board of Trade Journal	Board of Trade Journal	source of summary
+PUBLICATION	Verhandlungen des Kolonial-Wirtschaftlichen Komitees	Verhandlungen des Kolonial-Wirtschaftlichen Komitees	journal, Berlin
+TAXON	agave	Agave	sisal plant
+TAXON	sisal plant	Agave sisalana	cultivated plant

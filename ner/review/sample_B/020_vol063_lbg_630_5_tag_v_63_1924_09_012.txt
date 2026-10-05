@@ -1,0 +1,22 @@
+ID: vol063_lbg-630-5-tag-v-63#1924-09#012
+ISSUE: 1924-09  VOL: 63  SECTION: SOILS AND MANURES.
+TITLE: WHEN MANURING FRUIT-TREES.
+BYLINE: W. LE GAY BRERETON,
+WORDS: 119  PAGES: ['155']
+IA: https://archive.org/details/lbg.630.5.tag.v.63/page/n102/mode/1up
+
+=== TEXT ===
+## WHEN MANURING FRUIT-TREES.
+
+W. LE GAY BRERETON,
+
+*Assistant Fruit Expert.*
+
+"I am putting stable manure on my orchard this year instead of bone and blood. Should it be spread around the trees, say a foot from the trunks to the circumference of the branches, or would it be better to spread it in the ways between the rows of trees?"
+
+In response to the foregoing, it was stated that the manure should be kept away from the trunks of the trees, as if it was allowed to come into close contact with them it might induce collar rot. It should be spread well out into the rows and dug or ploughed under.—Agricultural Gazette of New South Wales, Vol. XXXV., Part 4.
+
+=== MENTIONS (2) ===
+type	text	norm	role
+PERSON	W. LE GAY BRERETON	W. Le Gay Brereton	Assistant Fruit Expert
+PUBLICATION	Agricultural Gazette of New South Wales	Agricultural Gazette of New South Wales	source
