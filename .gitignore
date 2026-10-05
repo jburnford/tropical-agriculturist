@@ -19,3 +19,8 @@ articles/*.jpg
 # python
 __pycache__/
 *.pyc
+# saved web pages and harvested raw HTML (third-party content)
+*.html
+!viewer/index.html
+!articles/*.html
+ner/gazetteer/raw/
