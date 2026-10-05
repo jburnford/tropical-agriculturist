@@ -1,0 +1,81 @@
+53394 canonical articles scanned
+
+=== 'coffee': 53,205 hits in 11,505 articles; by decade {'1880s': 22229, '1890s': 21318, '1900s': 5329, '1910s': 1554, '1920s': 1626, '1930s': 1091, '1940s': 58}
+  left word : of 7421, the 6833, Liberian 2071, for 1478, and 1401, in 1063, a 889, The 879, to 791, with 748, on 712, that 688, old 629, our 467
+  right word: and 3499, is 2309, in 2040, trees 912, was 874, has 830, The 826, which 638, planting 632, estates 591, to 568, planters 553, as 530, IN 508
+  left 2    : of the 1910 | tea and 559 | of Liberian 421 | cultivation of 394 | to the 385 | in the 380 | that the 320 | price of 230 | on the 223 | and the 205
+  right 2   : in the 563 | has been 274 | and the 252 | and cinchona 209 | and tea 186 | on the 178 | leaf disease 158 | planting in 155 | and cocoa 131 | PLANTING IN 125
+  1881-07  entioned as having discovered a "remedy" for  [coffee]  leaf disease. Now, although this heading doe
+  1882-01   first voyage would be the cheapening of the  [coffee]  transport, he begs permission to show how pr
+  1882-04  hat on the average the beans from a Liberian  [coffee]  plantation do not considerably exceed in siz
+  1882-04  rop off some land lately planted in Liberian  [coffee] , planting between the rows to cover the grou
+  1882-04  mparatively quiescent: the resting time of a  [coffee]  which sleeps with its eyes open. As may natu
+  1881-06  mitted the Ceylon climate to be unsuited for  [coffee] . "You have surely been misled about that won
+  1881-09  pection under Government control, whereby no  [coffee] , whatever, could be shipped unless it was pr
+  1881-07  undred or a thousand bags of "Liberia-Ceylon  [coffee] ." In view of my well-known connection with L
+  1881-12  s, &c. “Where germination occurs on a living  [coffee] -leaf, however, the tube does not thus die, b
+  1882-04  apart, are interspersed amongst the Liberian  [coffee]  and look exceedingly well. As yet these plan
+
+=== 'tea': 133,210 hits in 18,230 articles; by decade {'1880s': 39029, '1890s': 59912, '1900s': 23287, '1910s': 3468, '1920s': 4475, '1930s': 2683, '1940s': 356}
+  left word : of 18647, the 17565, Ceylon 7600, Indian 4812, in 2780, for 2779, China 2163, a 2110, on 2043, CEYLON 1918, The 1900, to 1444, with 1394, and 1370
+  right word: and 6497, in 5734, is 5477, Co. 2075, The 2003, was 1818, IN 1723, to 1669, has 1623, which 1572, from 1465, trade 1403, at 1317, planters 1277
+  left 2    : of the 5384 | of Ceylon 1767 | the Indian 1331 | in the 1209 | of Indian 1065 | to the 1047 | the Ceylon 965 | lb. of 906 | that the 906 | and Ceylon 708
+  right 2   : Co. Ltd. 1361 | in the 1124 | has been 573 | and the 558 | and coffee 499 | Co. of 404 | Research Institute 400 | from the 394 | on the 335 | per acre 331
+  1881-11  erson fond of study who was not also fond of  [tea] , unless he had contracted a relish for less 
+  1881-11  l to be seen there. With regard to preparing  [tea]  leaf it may be said that nothing of conseque
+  1882-04  res were particularly adapted." THE CALCUTTA  [TEA]  SYNDICATE have received a satisfactory repor
+  1881-10  ) which was got from 740 acres old and young  [tea]  by the Borelli Company. Another analysis sho
+  1882-06  cised about efficient methods of packing the  [tea]  for carriage. The old, long-standing system 
+  1881-08   to the property which, specially present in  [tea] , is also a principle in coffee. There is lit
+  1881-07  id that my proposal to establish in London a  [tea] -room and agency had quite fallen to the grou
+  1881-12  s more like that of the finest Chinese black  [tea] , or of the hill teas of India." The importat
+  1881-06  d, and the result would be a really valuable  [tea] .—Yours faithfully,
+  1882-08  working hand, on gardens yielding 200 lb. of  [tea]  per acre of mature plant, so long, it is sai
+
+=== 'colombo': 13,905 hits in 7,312 articles; by decade {'1880s': 2555, '1890s': 5045, '1900s': 3144, '1910s': 963, '1920s': 848, '1930s': 923, '1940s': 427}
+  left word : in 2726, the 1261, of 742, to 718, from 626, at 598, and 279, a 204, Ltd. 203, Co. 172, THE 140, Office 133, Inches 117, IN 113
+  right word: and 1007, th 581, to 360, Municipality 315, The 269, on 235, for 225, ROOT 217, at 210, is 194, the 188, in 183, was 148, market 145
+  left 2    : of the 287 | in the 208 | Co. Ltd. 163 | to the 110 | sold in 104 | a s 97 | AGRICULTURAL MAGAZINE 94 | at the 80 | Agent in 72 | Inches Inches 70
+  right 2   : Municipality Rinderpest 170 | Added as 117 | and the 115 | PRICE CURRENT. 106 | on the 78 | Assembly Rooms 77 | Ice Co. 77 | Fort Land 73 | Hotels Company 73 | ROOT Middling 71
+  1891-12  ly tropical, is on the railroad running from  [Colombo]  to Kandy. It was founded in 1876. Here certa
+  1887-01                                 COCONUT DUST.  [Colombo] , 8th Dec. 1886. DEAR SIR,—Referring to your 
+  1887-11  . Consequently, he often made the journey to  [Colombo] , notwithstanding the terror of elephants and
+  1889-10  ted to Mr. F. F. Street for the following:— “ [Colombo] , 9th September 1889. The following interesti
+  1891-03  th Mr. Schwann, a fit Superintendent for the  [Colombo]  Technical Institute. But are we ready for th
+  1891-03  ening of a lazaretto for coolies arriving at  [Colombo]  will it is hoped, increase the facilities fo
+  1881-06  alia, happened to engage in a ship bound for  [Colombo] . Upon arrival, they obtained leave from the 
+  1890-09  ., on behalf of Mr. A. Haly, Director of the  [Colombo]  Museum:— "Teioostean Fishes preserved in a m
+  1888-03   pressing, export duty, and other charges at  [Colombo] , and freight to London, 3 s 6 d ; cartage, s
+  1885-07   one European to send to another European in  [Colombo] , but the Government would require to carry v
+
+=== 'accra': 71 hits in 43 articles; by decade {'1890s': 11, '1900s': 30, '1910s': 10, '1920s': 9, '1930s': 11}
+  left word : of 10, Coast 10, at 7, the 5, in 4, to 3, Raw 3, round 2, is 2, Behind 1, from 1, near 1, than 1, Station 1
+  right word: and 10, Lagos 6, nil 3, in 2, the 2, is 2, who 2, which 2, cocoa 2, plains 2, says 1, Samples 1, on 1, From 1
+  left 2    : Gold Coast 9 | of the 3 | native of 2 | shipment is 2 | price of 2 | nil Raw 2 | arrived at 1 | returned to 1 | timber. Behind 1 | Secretary at 1
+  right 2   : Lagos etc. 4 | and Lagos. 3 | in the 2 | the capital 2 | and the 2 | who brought 2 | which is 2 | nil Raw 2 | and proceeded 1 | says in 1
+  1906-03  ped to Hamburg, and consumed in Germany. The  [Accra]  cocoa in particular, during the few years it
+  1901-11  he was confident of success. The Governor of  [Accra] , Major Nathan, was anxious to start similar 
+  1909-02  , but prices were low for Niger, Gold Coast,  [Accra]  and Lagos. Good qualities from the Cameroons
+  1895-10  ly, deteriorated. The Colonial Secretary, at  [Accra] , says in his last report that it will probab
+  1894-10  igh lands, covered with large timber. Behind  [Accra] , the capital of the Colony, are the Akrappi 
+  1933-10  fect can often be found in isolated beans in  [Accra] , Nigeria and Bahia cacaos, and has occasiona
+  1893-11  sit to the Cape Coast district I returned to  [Accra]  and proceeded to Aburi, where I arrived on t
+  1917-07  , (6) Soudan, (7) Kamerun, (8) Benguela, (9)  [Accra] . All these rubbers are obtained from various
+  1910-03  is humid, the rainfall is not excessive, and  [Accra]  is probably the driest part of the Coast, so
+  1936-08  e I is at present equal, if not superior, to  [Accra]  "fair fermented," and in the opinion of some
+
+=== 'acres?': 51,026 hits in 12,534 articles; by decade {'1880s': 11948, '1890s': 12358, '1900s': 9610, '1910s': 7175, '1920s': 4619, '1930s': 3841, '1940s': 1475}
+  left word : per 17644, of 3391, an 3297, the 2454, about 1864, to 1044, and 649, frac 600, over 597, one 588, some 469, than 363, from 357, is 328
+  right word: of 7029, and 2994, in 2862, The 2110, is 1048, are 898, under 895, for 837, per 825, or 778, at 750, the 725, were 623, was 602
+  left 2    : lb. per 2501 | to the 1523 | yield per 933 | R per 842 | cwt. per 780 | tons per 696 | bushels per 672 | Rs. per 631 | of an 477 | thousands of 440
+  right 2   : of land 1135 | and the 537 | in the 493 | of tea 452 | of which 432 | in extent 396 | have been 352 | per annum 330 | of the 328 | for the 238
+  1883-12   of 300 lb. per acre gives R62.50 profit per  [acre] . " " 350 " " 81.25 " " 400 " " 100 " " 450 "
+  1882-06   bearing," but seemed to have about a ton an  [acre]  on them. Doubtless, however, the owners, Mr.
+  1883-04  w no doubt but we shall yet see thousands of  [acres]  taken up for tea in the lowcountry of Ceylon
+  1881-06  ,800 feet to 5,400 feet; containing about 40  [acres] ; of which 4 acres are planted in Jalap. This
+  1882-10  ssava), while 70 per cent of the whole 1,900  [acres]  is in pasture and "worn out" lands. Coffee t
+  1881-12   to know that already there are thousands of  [acres]  being taken up for tea, and men on the spot 
+  1883-05  ot believe that I am getting 500 lb. tea per  [acre]  off my estate, which is a young one. He tell
+  1882-07  ed a random sum of £250 for an estate of 300  [acres]  forest, and 120 acres coffee, which had been
+  1883-11  o answer; cost pruning and handling, R11 per  [acre] . 10 Pruning and handling, R14 per acre. 11 N
+  1882-09  for the teas was 1s 6d per lb. The yield per  [acre]  from the area of plant three years and upwar
