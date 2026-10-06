@@ -1,0 +1,22 @@
+{
+  "dataset": "14a933f83ec5",
+  "seed": 20261005,
+  "source_commit_at_sampling": "acb5e9d",
+  "population_first_pass": {
+    "auto": 198,
+    "review": 552,
+    "none": 1108
+  },
+  "sample": {
+    "auto": 35,
+    "review": 35,
+    "none": 30
+  },
+  "profiles": 100,
+  "mentions": 400,
+  "located": {
+    "exact": 386,
+    "loose": 12,
+    "surname": 2
+  }
+}
