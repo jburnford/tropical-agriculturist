@@ -1,6 +1,7 @@
 # Tropical Agriculturist — header/footer re-run plan (2026-09-29)
 
-Nothing below has been done yet. Every GPU step needs Jim's go-ahead.
+**Historical document.** This plan was carried out: the re-run produced `output_v6` (done 2026-10-04).
+Kept as the record of what was planned; the text below is as written on 2026-09-29.
 
 ## What went wrong before (both times)
 

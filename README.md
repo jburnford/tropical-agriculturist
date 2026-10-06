@@ -3,10 +3,12 @@
 Code and evidence for OCR'ing every digitised volume of *The Tropical Agriculturist* with
 Chandra 2 and splitting the result into page-linked articles.
 
-**Current state (2026-10-04).** The OCR corpus (`output_v6`, 253 documents, 63,680 pages) and the
-article file (`articles/articles.jsonl`, 54,259 canonical articles) are complete. Neither is in this
-repository because of size; they live on Trillium `/scratch/jic823/tropical` and on the local
-working copy. **Start with [`articles/README.md`](articles/README.md)** for the article file's
+**Current state (2026-10-06).** The OCR corpus (`output_v6`, 253 documents, 63,680 pages) and the
+article file (54,764 records, 53,501 from the canonical copy of their issue) are complete and backed up
+in this repository: `output_v6/` and `articles/by_year/*.jsonl.gz` (the single `articles/articles.jsonl`
+is local only). Entity extraction (`ner/`) and person grounding (`ner/persons/`, start with its README)
+followed; the person results are under evaluation by a research assistant and are not yet human-checked.
+**Start with [`articles/README.md`](articles/README.md)** for the article file's
 fields, the build pipeline and the measured accuracy. `RERUN_PLAN.md` and the `stage4/`, `repair/`
 scripts document the header/footer re-run and the per-page repairs (faint pages, show-through,
 summarised and side-by-side tables) that produced `output_v6` from the first run.

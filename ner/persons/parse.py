@@ -253,6 +253,41 @@ def given_compat(g1, g2):
         fullhit |= bool(a[1] and l[i][1] == a[1]); i += 1
     return fullhit
 
+# ---------------- source support for model-supplied given names ------------------------------------
+_GAP = r"[\s,]*"
+_MID = r"(?:(?!and\b|of\b|the\b|or\b|&)[A-Za-z][\w'-]*\.?\s+)?"   # at most one middle word, not a function word
+
+def supported_given(p, text):
+    """How much of p's given names does the article print next to the surname?
+    Returns (given, status): status "full" = every full given name printed as a whole word; "initials" = only
+    initials printed for some full names (those are downgraded to initials -- "Mr. J. Watt" does NOT support
+    "James Watt"); "none" = no matching name printed. Surname and names need word boundaries ("Smithson" is not
+    "Smith"); an initial cannot be the first letter of a longer word."""
+    if not p.get("given") or not p.get("surname"):
+        return [], "none"
+    sur = r"\b" + re.escape(p["surname"].split()[-1]) + r"\b"
+    parts = []
+    for k, (i, n) in enumerate(p["given"]):
+        ini = r"\b" + re.escape(i) + r"(?![A-Za-z])\.?"
+        if n:   # the full name, or a printed abbreviation of it ("Wm." for William, "Thos." for Thomas)
+            forms = [n] + sorted(k for k, v in ABBR.items() if v == n and k != n)
+            full = "|".join(r"\b" + re.escape(f) + r"\b\.?" for f in forms)
+            parts.append(f"(?P<g{k}>{full}|{ini})")
+        else:
+            parts.append(f"(?P<g{k}>{ini})")
+    gp = _GAP.join(parts)
+    best = None
+    for pat in (gp + _GAP + _MID + sur, sur + r",?\s*" + gp + r"(?![A-Za-z])"):
+        for m in re.finditer(pat, text, re.I):
+            kept = [(i, n if n and len(m.group(f"g{k}").rstrip(".")) > 1 else None) for k, (i, n) in enumerate(p["given"])]
+            score = sum(1 for _, n in kept if n)
+            if best is None or score > best[0]:
+                best = (score, kept)
+    if best is None:
+        return [], "none"
+    full = sum(1 for _, n in p["given"] if n)
+    return best[1], ("full" if best[0] == full else "initials")
+
 def display(p):
     if p["kind"] != "person":
         return ""
@@ -262,22 +297,9 @@ def display(p):
     return s + (" Jr." if p["gen"] == "jr" else " Sr." if p["gen"] == "sr" else "")
 
 if __name__ == "__main__":
-    import sys, json
-    tests = [("Mr. F. G. A. LANE", "F. G. A. Lane"), ("Mr. Petch", "T. Petch"), ("Asst. Govt. Agent, Puttalam",
-             "Assistant Government Agent, Puttalam"), ("Mrs. Christison", "Mrs. Christison"),
-             ("Peiris, H. C.", "H. C. Peiris"), ("James, Robert", "Robert James"), ("Tissot, C. L.", "Tissot, C. L."),
-             ("Mr Consu Stevens", "Mr. Consul Stevens"), ("President and Mrs. Cleveland", "President and Mrs. Cleveland"),
-             ("Mr. and Mrs. Cotton", "Cotton"), ("Spencer St. John", "Spencer St. John"), ("W. S.", "W. S."),
-             ("JOHN HUGHES, F.I.C.", "John Hughes"), ("F. A. STOCKDALE, C.B.E., M.A., F.L.S.", "F. A. Stockdale, C.B.E., M.A., F.L.S."),
-             ("Gate Mudaliyar A. E. Rajapakse", "A. E. Rajapakse"), ("W. A. DE SILVA", "W. A. de Silva"),
-             ("Major-General Berkeley", "Major-General Berkeley"), ("Director of Agriculture", "Director of Agriculture"),
-             ("THE DIRECTOR OF AGRICULTURE", "The Director of Agriculture"), ("Wm. Mackenzie", "Wm. Mackenzie"),
-             ("Dr. Trimen", "Dr. Trimen"), ("Trimen", "Trimen"), ("King Edward", "King Edward"), ("Dr. King", "King"),
-             ("Lord Derby", "Lord Derby"), ("Abel Fontoura da Costa", "Abel Fontoura da Costa"),
-             ("Green, E. E.", "E. E. Green"), ("Afghan envoy", "Afghan envoy"), ("J. L. Shand, junr.", "J. L. Shand, junr."),
-             ("M. Baudrimont", "M. Baudrimont"), ("Sir W. Thistleton Dyer", "Sir W. Thistleton Dyer"),
-             ("Mr. Böhringer", "Böhringer"), ("Ramasamy", "Ramasamy"), ("C.DRIEBERG", "C.DRIEBERG"),
-             ("Mr. D. T. E. DISSANAYAKE", ""), ("Baron von Mueller", "Baron von Mueller"), ("De Silva", "De Silva")]
-    for t, n in tests:
-        p = parse(t, n)
-        print(f"{t!r:45} -> {p['kind']:8} {display(p)!r:30} hon={p['hon']} off={p['office']} skey={p['skey']} suf={p['suffix']} gen={p['gen']}")
+    # The examples that used to live here are now assertions in tests/test_persons.py:
+    #     python3 -m pytest ner/persons/tests -q
+    import sys
+    for line in sys.argv[1:]:
+        q = parse(line)
+        print(f"{line!r} -> {q['kind']} {display(q)!r} hon={q['hon']} skey={q['skey']}")

@@ -27,7 +27,7 @@ Profile ids (pid) are build-local (rank order), not persistent; persistent ids a
 import json, gzip, re, collections, pathlib, sys
 here = pathlib.Path(__file__).resolve().parent
 sys.path.insert(0, str(here))
-from parse import parse, display, IDENTITY, pos_ok, given_compat
+from parse import parse, display, IDENTITY, pos_ok, given_compat, supported_given
 
 PAD = 15          # years of slack around a profile's active span for corpus-level attachment
 OUT = here / "out"; OUT.mkdir(exist_ok=True)
@@ -79,7 +79,9 @@ for l in open(here.parent / "mentions.jsonl"):
     art_ctx[aid] = (pl, es)
 
 # The extractor's norm sometimes supplies given names from world knowledge, not the page ("Dr. Trimen" ->
-# "H. F. C. Trimen", "Watt" -> "James Watt"). Accept norm-supplied names only if the article prints them.
+# "H. F. C. Trimen", "Watt" -> "James Watt"). Keep only the name the article prints next to the surname
+# (parse.supported_given): full names printed -> kept; only initials printed -> initials kept, expansion
+# stored as a hypothesis (norm_guess); nothing printed -> the mention is treated as bare.
 text = {}
 need = {r["aid"] for r in rows}
 for f in (here.parent.parent / "articles/by_year").glob("articles_*.jsonl.gz"):
@@ -88,29 +90,25 @@ for f in (here.parent.parent / "articles/by_year").glob("articles_*.jsonl.gz"):
         if a["id"] in need:
             text[a["id"]] = re.sub(r"\s+", " ", a["text"])
 
-def printed(p, t):
-    sur = re.escape(p["surname"].split()[-1])
-    parts = [f"(?:{re.escape(n)}|{i}\\.?)" if n else f"{i}\\.?" for i, n in p["given"]]
-    gp = r"[\s,]*".join(parts)
-    return bool(re.search(r"\b" + gp + r"[\s,]*(?:[\w'-]+\s+){0,2}?" + sur, t, re.I) or
-                re.search(sur + r",?\s*" + gp, t, re.I))
-
 norm_check = collections.Counter(); surface_found = collections.Counter()
 for r in rows:
     t = text.get(r["aid"], "")
     surface_found[re.sub(r"\s+", " ", r["text"].strip()) in t] += 1
     if r["from_norm"]:
-        if printed(r["p"], t):
-            norm_check["verified"] += 1
-        else:
-            norm_check["rejected"] += 1
-            r["norm_guess"] = display(r["p"])
-            p = parse(r["text"])
-            if p["kind"] == "person" and not p["given"]:
-                r["p"] = p
-            else:   # surface unparseable on its own: keep the surname, drop the guessed given names
-                r["p"] = dict(r["p"], given=[])
-            r["from_norm"] = False
+        given, status = supported_given(r["p"], t)
+        norm_check[status] += 1
+        if status == "full":
+            continue
+        r["norm_guess"] = display(r["p"])       # the model's expansion: a hypothesis, never evidence
+        if status == "initials":                # keep only what the page prints ("J. Watt", not "James Watt")
+            r["p"] = dict(r["p"], given=given)
+            continue
+        p = parse(r["text"])
+        if p["kind"] == "person" and not p["given"]:
+            r["p"] = p
+        else:   # surface unparseable on its own: keep the surname, drop the guessed given names
+            r["p"] = dict(r["p"], given=[])
+        r["from_norm"] = False
 del text
 
 # ---------------- stage 2: in-article coreference -----------------------------------------------
@@ -374,8 +372,9 @@ with open(OUT / "stats.md", "w") as f:
     f.write(f"# Person profiles — build stats\n\nPERSON mentions: {tot:,}\n\n## Stage 1 kinds\n\n")
     for k, v in kinds.most_common(): f.write(f"- {k}: {v:,} ({v/tot:.1%})\n")
     f.write(f"\n## Extraction fidelity\n\n- surface text found verbatim in the article: {surface_found[True]:,} of {tot:,}"
-            f" ({surface_found[True]/tot:.1%})\n- norm-supplied given names printed in the article: {norm_check['verified']:,};"
-            f" rejected as guesses (mention treated as bare): {norm_check['rejected']:,}\n")
+            f" ({surface_found[True]/tot:.1%})\n- norm-supplied given names (parse.supported_given): printed in full "
+            f"{norm_check['full']:,}; only initials printed, expansion kept as hypothesis {norm_check['initials']:,}; "
+            f"not printed, mention treated as bare {norm_check['none']:,}\n")
     f.write("\n## Resolution method (mentions)\n\n")
     for k, v in meth.most_common(): f.write(f"- {k}: {v:,} ({v/tot:.1%})\n")
     f.write(f"\n## Profiles\n\n- named: {len(named):,} ({sum(p['mentions'] for p in named):,} mentions)\n"

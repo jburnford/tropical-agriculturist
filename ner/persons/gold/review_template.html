@@ -59,6 +59,7 @@
   <span class="stat">People <b id="pDone">0</b>/<b id="pTot">0</b></span>
   <span class="stat">Mentions <b id="mDone">0</b>/<b id="mTot">0</b></span>
   <span class="stat" title="Time with this page open and in use">Active time <b id="time">0:00</b></span>
+  <span class="stat" title="Version of this checklist">Version <b id="dsv"></b></span>
   <button id="helpBtn" aria-expanded="false" aria-controls="help">Instructions</button>
   <button class="primary" id="exportBtn">Download answers</button>
   <label class="btn" for="importFile">Load saved answers</label>
@@ -75,13 +76,15 @@
       <li><b>Read the evidence.</b> The names as printed, the roles the journal gives them, the years and places.</li>
       <li><b>One person or several?</b> Do the roles and years describe one life? Two different careers under one
       name (e.g. a Ceylon planter <i>and</i> a London chemist) mean <i>mixed</i>.</li>
-      <li><b>Wikidata.</b> Open the proposed item and the other candidates. Accept one only if its description,
+      <li><b>Wikidata.</b> Open the proposed item and the other candidates. Each shows where it came from; a
+      "model" choice was made by an AI model and has not been checked by a person, which is what you are doing. Accept one only if its description,
       occupation or positions <i>and</i> its dates fit the evidence; the same name is not enough. If none fits,
       search Wikidata yourself (the <i>search Wikidata</i> link) using the name plus a role. If you find the
       person, paste the Q-number (e.g. Q2462643). Many planters and Ceylon officials are not in Wikidata, so
       "not in Wikidata" is a normal answer.</li>
-      <li><b>Each mention.</b> Is the highlighted name in the snippet this person? Open the scan if the snippet
-      isn't enough. Mentions linked by "surname only" are the ones most likely to be wrong, so look closely.</li>
+      <li><b>Each mention.</b> Is the highlighted name in the snippet this person? The scan link opens the page
+      where the passage was found; the other page numbers open the rest of the article. A yellow note warns when
+      the name could only be partly located in the text. Mentions linked by "surname only" are the ones most likely to be wrong, so look closely.</li>
       <li>Answer what you can; use <i>can't tell</i> rather than guessing. Notes are welcome.</li>
     </ol>
     <p class="small">Your answers are saved in this browser as you go. When you finish (or at the end of a
@@ -99,29 +102,38 @@
   <div id="person"></div>
 </main>
 <script>
-const DATA = /*DATA*/;
-const KEY = "tap_gold_v1";
+const PAYLOAD = /*DATA*/;
+const DATASET = PAYLOAD.dataset, DATA = PAYLOAD.items;
+const KEY = "tap_gold_" + DATASET;      // answers are tied to this exact dataset
 let S = JSON.parse(localStorage.getItem(KEY) || "{}");
 S.people = S.people || {}; S.ments = S.ments || {}; S.seconds = S.seconds || 0; S.name = S.name || "";
 let cur = Math.min(S.cur || 0, DATA.length - 1);
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const save = () => { S.cur = cur; localStorage.setItem(KEY, JSON.stringify(S)); stats(); };
-const mkey = (gid, i) => gid + "_" + i;
+const MK = {}; DATA.forEach(it => it.ments.forEach(m => MK[it.gid + "_" + m.idx] = m.key));
+
+const HOW = {explicit: "name printed with initials/first name",
+  norm: "name completed by the extractor and confirmed in the article",
+  article: "surname only; linked to the full name in the same article",
+  corpus_unique: "surname only; linked across the journal (only person of that name at the time)",
+  corpus_dominant: "surname only; linked across the journal (by far the most frequent person of that name then)",
+  corpus_honorific: "surname only; linked across the journal by title (e.g. 'Dr.')",
+  pool: "surname only; no full name anywhere in the journal"};
 const wdUrl = q => "https://www.wikidata.org/wiki/" + q;
 const validQ = q => /^Q[1-9]\d*$/.test(q);
 
 function personDone(it) {
   const a = S.people[it.gid] || {};
   const wdOk = a.wd && (a.wd !== "other" || validQ(a.qid || ""));
-  return a.one && wdOk && it.ments.every(m => (S.ments[mkey(it.gid, m.idx)] || {}).v);
+  return a.one && wdOk && it.ments.every(m => (S.ments[m.key] || {}).v);
 }
 function stats() {
   $("#pTot").textContent = DATA.length;
   $("#pDone").textContent = DATA.filter(personDone).length;
   const tot = DATA.reduce((n, it) => n + it.ments.length, 0);
   $("#mTot").textContent = tot;
-  $("#mDone").textContent = DATA.reduce((n, it) => n + it.ments.filter(m => (S.ments[mkey(it.gid, m.idx)] || {}).v).length, 0);
+  $("#mDone").textContent = DATA.reduce((n, it) => n + it.ments.filter(m => (S.ments[m.key] || {}).v).length, 0);
   const sel = $("#jump");
   [...sel.options].forEach((o, i) => o.textContent = (personDone(DATA[i]) ? "✓ " : "• ") + DATA[i].gid + "  " + DATA[i].name);
 }
@@ -136,19 +148,22 @@ function render() {
     <div class="cand ${c.qid === it.proposed ? "proposed" : ""}">
       <a href="${wdUrl(c.qid)}" target="_blank" rel="noopener">${esc(c.qid)}</a> ${esc(c.label)}
       ${c.qid === it.proposed ? '<span class="tag prop">proposed</span>' : ""}
-      <br><small>${esc(c.desc)} ${c.life ? "· " + esc(c.life) : ""}</small>
+      <br><small>${esc(c.desc) || "(no description)"} ${c.life ? "· " + esc(c.life) : ""}</small>
+      <br><small><i>Source: ${c.prov.map(esc).join("; ")}</i></small>
     </div>`).join("") || '<p class="small">No candidate was found automatically.</p>';
   const wdOpts = [];
   if (it.proposed) wdOpts.push(["proposed", `The proposed item (${esc(it.proposed)}) is this person`]);
   wdOpts.push(["other", `A different item: <input class="qid" id="qid" placeholder="Q…" value="${esc(a.qid || "")}" aria-label="Wikidata Q-number"> (paste the Q-number)`]);
   wdOpts.push(["none", "Not in Wikidata (I searched)"], ["unsure", "Can't tell"]);
   const ments = it.ments.map(m => {
-    const v = (S.ments[mkey(it.gid, m.idx)] || {}).v;
+    const v = (S.ments[m.key] || {}).v;
     const snip = esc(m.snippet).replace(/\[\[/g, "<mark>").replace(/\]\]/g, "</mark>");
     return `<div class="ment">
-      <div class="meta">${esc(m.year)} · printed as <b>${esc(m.surface)}</b>${m.role ? " · role: " + esc(m.role) : ""} · <i>${esc(m.how)}</i>
-      ${m.scan ? ` · <a href="${esc(m.scan)}" target="_blank" rel="noopener">scan</a>` : ""}</div>
-      <div class="snip">${snip}</div>
+      <div class="meta">${esc(m.year)} · printed as <b>${esc(m.surface)}</b>${m.role ? " · role: " + esc(m.role) : ""} · <i>${esc(HOW[m.how] || m.how)}</i></div>
+      <div class="meta">${m.scan ? `<a href="${esc(m.scan)}" target="_blank" rel="noopener">scan of this passage (page ${esc(m.page)})</a> · ` : ""}all pages of the article:
+        ${m.pages.map(([p, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(p)}</a>`).join(" ")}</div>
+      ${m.note ? `<div class="meta todo">${esc(m.note)}</div>` : ""}
+      <div class="snip">${snip || "(no snippet)"}</div>
       <div class="inline-opts" role="radiogroup" aria-label="Is this mention ${esc(it.name)}?">Is this ${esc(it.name)}?
         ${radios("m" + m.idx, [["y", "Yes"], ["n", "No"], ["?", "Can't tell"]], v)}</div>
     </div>`;
@@ -162,8 +177,8 @@ function render() {
       <dt>Printed as</dt><dd>${it.forms.map(esc).join(" · ")}</dd>
       <dt>Roles in the journal</dt><dd>${it.roles.map(esc).join(" · ") || "—"}</dd>
       <dt>Places nearby</dt><dd>${it.places.map(esc).join(" · ") || "—"}</dd>
-      ${it.colist ? `<dt>Colonial Office List</dt><dd>${esc(it.colist)}</dd>` : ""}
-      ${it.planter ? `<dt>Planters registry</dt><dd><a href="${esc(it.planter)}" target="_blank" rel="noopener">historyofceylontea.com record</a></dd>` : ""}
+      ${it.colist ? `<dt>Colonial Office List</dt><dd>${esc(it.colist.text)}<br><small><i>${esc(it.colist.status)}</i></small></dd>` : ""}
+      ${it.planter ? `<dt>Planters registry</dt><dd>${it.planter.urls.map((u, k) => `<a href="${esc(u)}" target="_blank" rel="noopener">historyofceylontea.com record ${k + 1}</a>`).join(" · ")}<br><small><i>${esc(it.planter.status)}</i></small></dd>` : ""}
     </dl>
     <fieldset><legend>1. One person?</legend><div class="opts">
       ${radios("one", [["y", "Yes, one person"], ["mixed", "No, the evidence mixes two or more people"], ["?", "Can't tell"]], a.one)}
@@ -185,7 +200,7 @@ function render() {
   q.oninput = () => { const v = q.value.trim().toUpperCase(); P().qid = v; q.classList.toggle("invalid", v !== "" && !validQ(v));
                       if (v) { P().wd = "other"; document.querySelector('input[name="wd"][value="other"]').checked = true; } save(); };
   it.ments.forEach(m => document.querySelectorAll(`input[name="m${m.idx}"]`).forEach(r =>
-    r.onchange = () => { S.ments[mkey(it.gid, m.idx)] = { v: r.value }; save(); }));
+    r.onchange = () => { S.ments[m.key] = { v: r.value }; save(); }));
   $("#note").oninput = e => { P().note = e.target.value; save(); };
   save();
 }
@@ -211,7 +226,7 @@ setInterval(() => {
   const m = Math.floor(S.seconds / 60); $("#time").textContent = Math.floor(m / 60) + ":" + String(m % 60).padStart(2, "0");
 }, 1000);
 
-const COLS = ["student", "gid", "pid", "row_type", "mention_idx", "article", "one_person", "wd_choice", "wd_qid", "mention_verdict", "note", "active_minutes", "exported_at"];
+const COLS = ["dataset", "student", "gid", "pid", "row_type", "mention_idx", "mention_key", "one_person", "wd_choice", "wd_qid", "mention_verdict", "note", "active_minutes", "exported_at"];
 $("#exportBtn").onclick = () => {
   if (!S.name.trim()) { alert("Please type your name at the top first."); $("#student").focus(); return; }
   const now = new Date().toISOString(), mins = (S.seconds / 60).toFixed(1), rows = [COLS.join("\t")];
@@ -219,8 +234,8 @@ $("#exportBtn").onclick = () => {
   DATA.forEach(it => {
     const a = S.people[it.gid] || {};
     const q = a.wd === "proposed" ? it.proposed : a.wd === "other" ? (a.qid || "") : a.wd === "none" ? "none" : a.wd === "unsure" ? "?" : "";
-    rows.push([S.name, it.gid, it.pid, "person", "", "", a.one || "", a.wd || "", q, "", a.note || "", mins, now].map(clean).join("\t"));
-    it.ments.forEach(m => rows.push([S.name, it.gid, it.pid, "mention", m.idx, m.article, "", "", "", (S.ments[mkey(it.gid, m.idx)] || {}).v || "", "", mins, now].map(clean).join("\t")));
+    rows.push([DATASET, S.name, it.gid, it.pid, "person", "", "", a.one || "", a.wd || "", q, "", a.note || "", mins, now].map(clean).join("\t"));
+    it.ments.forEach(m => rows.push([DATASET, S.name, it.gid, it.pid, "mention", m.idx, m.key, "", "", "", (S.ments[m.key] || {}).v || "", "", mins, now].map(clean).join("\t")));
   });
   const blob = new Blob([rows.join("\n") + "\n"], { type: "text/tab-separated-values" });
   const a = document.createElement("a");
@@ -233,6 +248,13 @@ $("#importFile").onchange = e => {
   f.text().then(t => {
     const lines = t.trim().split(/\r?\n/), head = lines.shift().split("\t"), ix = c => head.indexOf(c);
     if (ix("gid") < 0 || ix("row_type") < 0) { alert("That file doesn't look like a downloaded answers file."); return; }
+    if (ix("dataset") < 0 || lines.some(l => l.split("\t")[ix("dataset")] !== DATASET)) {
+      alert("That file belongs to a different version of this checklist (" + (lines[0] || "").split("\t")[ix("dataset")] + "), so it was NOT loaded. Please send it to Jim."); return; }
+    const pidOf = {}; DATA.forEach(it => pidOf[it.gid] = it.pid);
+    const keys = new Set(Object.values(MK));
+    const bad = lines.filter(l => { const f = l.split("\t"); return pidOf[f[ix("gid")]] !== f[ix("pid")] ||
+      (f[ix("row_type")] === "mention" && !keys.has(f[ix("mention_key")])); });
+    if (bad.length) { alert(bad.length + " rows don't match this checklist, so nothing was loaded. Please send the file to Jim."); return; }
     let n = 0;
     lines.forEach(l => {
       const f = l.split("\t"), gid = f[ix("gid")];
@@ -242,12 +264,13 @@ $("#importFile").onchange = e => {
         const a = {}; if (f[ix("one_person")]) a.one = f[ix("one_person")]; if (f[ix("wd_choice")]) a.wd = f[ix("wd_choice")];
         if (a.wd === "other") a.qid = f[ix("wd_qid")]; if (f[ix("note")]) a.note = f[ix("note")];
         if (Object.keys(a).length) { S.people[gid] = a; n++; }
-      } else if (f[ix("mention_verdict")]) { S.ments[mkey(gid, f[ix("mention_idx")])] = { v: f[ix("mention_verdict")] }; n++; }
+      } else if (f[ix("mention_verdict")]) { S.ments[f[ix("mention_key")]] = { v: f[ix("mention_verdict")] }; n++; }
     });
     $("#student").value = S.name; save(); render(); alert(`Loaded ${n} answers.`);
   });
   e.target.value = "";
 };
+$("#dsv").textContent = DATASET;
 render();
 </script>
 </body>

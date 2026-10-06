@@ -1,6 +1,6 @@
 # Stage 4, tier 1: Wikidata grounding of person profiles
 
-`ground_wikidata.py` grounds the tranche of profiles with ≥10 mentions (1,860) through the WikidataMCP server.
+`ground_wikidata.py` grounds the tranche of profiles with ≥10 records (1,858 in version 2; 1,860 in v1) through the WikidataMCP server.
 It does not use the REST `wbsearchentities` API. `mcp_client.py` is a minimal JSON-RPC client for
 `https://wd-mcp.wmcloud.org/mcp`. The public `/tool/search_items` HTTP endpoint returned HTTP 429 after a few
 calls; the MCP endpoint runs at about 1.7 s per call, with 3 workers.
@@ -27,7 +27,7 @@ Outputs: `out/links.tsv` (one row per profile) and `out/candidates.jsonl` (every
 `cache/search.jsonl` and `cache/entities_v3.jsonl` make reruns free (v1/v2 caches were mis-parsed and are
 unused).
 
-Result (2026-10-05): auto 199, review 552, none 1,109. Two random samples of 40 auto links were checked by
+Result: v1 (2026-10-05) auto 199, review 552, none 1,109; v2 (2026-10-06) auto 198, review 552, none 1,108. Two random samples of 40 auto links were checked by
 eye while the rules were tightened: 35/40, then 38/40. Each error class found was fixed:
 - bare-surname alias;
 - one stray "Capt." counted as occupation evidence;
@@ -38,11 +38,13 @@ eye while the rules were tightened: 35/40, then 38/40. Each error class found wa
 - the Robert/Richard Cross alias;
 - a dead governor rejected in favour of a namesake (Sir William Gregory).
 
-The gold set (`../gold/`) measures precision properly.
+These are my spot checks, not a measurement; the RA evaluation (`../gold/`) measures precision.
 
 `adjudication/`: review profiles plus "none" profiles with ≥50 mentions (690), split into two batches for
 model adjudication. The model may run its own MCP searches and must verify statements before linking.
-Results go to `out_A.tsv` / `out_B.tsv`.
+Raw model outputs: `out_A.tsv` / `out_B.tsv` (keyed by v1 pids, kept as delivered). `decisions.tsv` is the
+form the merge reads: keyed by persistent id, with the v1 article set, `decided_by` and date; later rows
+supersede earlier ones (two re-checked on 2026-10-06 after the v2 rebuild changed their profiles).
 
 ## Tier 2: Colonial Office List KG (`../colist/match_colist.py`)
 
@@ -56,7 +58,8 @@ All named profiles with ≥3 mentions (6,716) are matched against `~/col_matchin
 agent…; generic words such as director/public/service don't count), and a CO record with at least as many
 given names as the profile. Result: auto 314, review 167. A sample of 30 auto links had one error before the
 last rule (J. F. Anderson → John Anderson, Governor). Agreement with tier 1: in all 16 profiles where both
-tiers auto-link and the CO record has a QID, the QIDs are the same. The KG also supplies 48 QIDs where
+tiers auto-link and the CO record has a QID, the QIDs are the same. This is supporting evidence, not an
+independent accuracy estimate: the CO List KG's QIDs were themselves obtained from Wikidata. The KG also supplies 48 QIDs where
 tier 1 was review/none (Daniel Morris, Sir William Henry Gregory, E. B. Denham…).
 
 ## Tier 3: planters registry (`../planters/match_planters.py`)
@@ -77,6 +80,7 @@ Result: link 157, review 142 (several ids fit, often duplicate registry records)
 One row per profile:
 - minted persistent id `TAP-P-nnnnnn` (registry `../ids/registry.tsv`; on rebuild a profile inherits the id
   of the registered profile with the most article overlap, Jaccard ≥ 0.5);
-- Wikidata QID with its source and confidence (adjudicated > wd_auto > colist_kg);
+- Wikidata QID with its source, confidence and `decided_by` (model | rule), gated by `../identity.py`:
+  MIXED/NONE/UNSURE model decisions never become an asserted QID (candidates go to `candidate_qids`);
 - CO List person id, planter id/URL;
 - flags for any source disagreement.
