@@ -33,7 +33,7 @@ async def main():
             await pg.check('input[name="wd"][value="none"]')
         n = len(await pg.query_selector_all('.ment'))
         for i in range(n):
-            await pg.check(f'input[name="m{i}"][value="y"]')
+            await pg.check(f'input[name="m{i}"][value="5"]')
         check(await pg.inner_text("#pDone") == "1", "person counted as complete")
         check(await pg.inner_text("#mDone") == str(n), f"{n} mentions counted")
         check(len(await pg.query_selector_all('.ment a')) >= n, "scan links present")
@@ -45,7 +45,9 @@ async def main():
             await pg.click("#exportBtn")
         d = await dl.value; path = tmp / d.suggested_filename; await d.save_as(path)
         lines = path.read_text().splitlines(); head = lines[0].split("\t")
-        check(head[:2] == ["dataset", "student"] and "mention_key" in head, "export header has dataset + mention_key")
+        check(head[:2] == ["dataset", "student"] and "mention_key" in head and "mention_certainty" in head, "export header has dataset, mention_key, mention_certainty")
+        mc = head.index("mention_certainty")
+        check(sum(1 for l in lines[1:] if l.split("\t")[mc] == "5") == n, f"{n} ratings of 5 exported")
         check(all(l.split("\t")[0] == DATASET for l in lines[1:]), "every export row carries the dataset fingerprint")
         ments = [l.split("\t") for l in lines[1:] if l.split("\t")[4] == "mention"]
         check(len(ments) == 400 and all("#" in m[head.index("mention_key")] for m in ments), "400 mention rows with stable keys")

@@ -45,6 +45,8 @@
   .snip { font-family:Georgia, serif; font-size:.95rem; background:#fafafa; border-left:3px solid var(--line); padding:.4rem .7rem; margin:.4rem 0; overflow-wrap:anywhere; }
   mark { background:#ffe58f; padding:0 .1em; }
   .inline-opts label { margin-right:1.2rem; cursor:pointer; white-space:nowrap; }
+  .cert { display:flex; flex-wrap:wrap; gap:.2rem .9rem; margin-top:.2rem; }
+  .legacy { color:var(--warn); font-size:.85rem; }
   .done { color:var(--ok); font-weight:600; }
   .todo { color:var(--warn); }
   a { color:var(--accent); }
@@ -82,7 +84,9 @@
       search Wikidata yourself (the <i>search Wikidata</i> link) using the name plus a role. If you find the
       person, paste the Q-number (e.g. Q2462643). Many planters and Ceylon officials are not in Wikidata, so
       "not in Wikidata" is a normal answer.</li>
-      <li><b>Each mention.</b> Is the highlighted name in the snippet this person? The scan link opens the page
+      <li><b>Each mention.</b> How certain are you that the highlighted name in the snippet is this person?
+      Rate 1 to 5: <b>1</b> certainly not · <b>2</b> probably not · <b>3</b> can't tell · <b>4</b> probably ·
+      <b>5</b> certainly. The scan link opens the page
       where the passage was found; the other page numbers open the rest of the article. A yellow note warns when
       the name could only be partly located in the text. Mentions linked by "surname only" are the ones most likely to be wrong, so look closely.</li>
       <li>Answer what you can; use <i>can't tell</i> rather than guessing. Notes are welcome.</li>
@@ -107,6 +111,8 @@ const DATASET = PAYLOAD.dataset, DATA = PAYLOAD.items;
 const KEY = "tap_gold_" + DATASET;      // answers are tied to this exact dataset
 let S = JSON.parse(localStorage.getItem(KEY) || "{}");
 S.people = S.people || {}; S.ments = S.ments || {}; S.seconds = S.seconds || 0; S.name = S.name || "";
+// answers saved by the yes/no version of this page are kept as "earlier answers" until re-rated 1-5
+Object.values(S.ments).forEach(a => { if (a.v && !/^[1-5]$/.test(a.v)) { a.legacy = a.v; delete a.v; } });
 let cur = Math.min(S.cur || 0, DATA.length - 1);
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -156,7 +162,7 @@ function render() {
   wdOpts.push(["other", `A different item: <input class="qid" id="qid" placeholder="Q…" value="${esc(a.qid || "")}" aria-label="Wikidata Q-number"> (paste the Q-number)`]);
   wdOpts.push(["none", "Not in Wikidata (I searched)"], ["unsure", "Can't tell"]);
   const ments = it.ments.map(m => {
-    const v = (S.ments[m.key] || {}).v;
+    const v = (S.ments[m.key] || {}).v, old = (S.ments[m.key] || {}).legacy;
     const snip = esc(m.snippet).replace(/\[\[/g, "<mark>").replace(/\]\]/g, "</mark>");
     return `<div class="ment">
       <div class="meta">${esc(m.year)} · printed as <b>${esc(m.surface)}</b>${m.role ? " · role: " + esc(m.role) : ""} · <i>${esc(HOW[m.how] || m.how)}</i></div>
@@ -164,8 +170,9 @@ function render() {
         ${m.pages.map(([p, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(p)}</a>`).join(" ")}</div>
       ${m.note ? `<div class="meta todo">${esc(m.note)}</div>` : ""}
       <div class="snip">${snip || "(no snippet)"}</div>
-      <div class="inline-opts" role="radiogroup" aria-label="Is this mention ${esc(it.name)}?">Is this ${esc(it.name)}?
-        ${radios("m" + m.idx, [["y", "Yes"], ["n", "No"], ["?", "Can't tell"]], v)}</div>
+      <div class="inline-opts" role="radiogroup" aria-label="How certain are you that this is ${esc(it.name)}? 1 to 5">How certain are you that this is ${esc(it.name)}?
+        <div class="cert">${radios("m" + m.idx, [["1", "1 · certainly not"], ["2", "2 · probably not"], ["3", "3 · can't tell"], ["4", "4 · probably"], ["5", "5 · certainly"]], v)}</div>
+        ${old && !v ? `<div class="legacy">Your earlier answer was “${esc({y: "Yes", n: "No", "?": "Can't tell"}[old] || old)}”; please give a 1–5 rating.</div>` : ""}</div>
     </div>`;
   }).join("");
   $("#person").innerHTML = `
@@ -200,7 +207,8 @@ function render() {
   q.oninput = () => { const v = q.value.trim().toUpperCase(); P().qid = v; q.classList.toggle("invalid", v !== "" && !validQ(v));
                       if (v) { P().wd = "other"; document.querySelector('input[name="wd"][value="other"]').checked = true; } save(); };
   it.ments.forEach(m => document.querySelectorAll(`input[name="m${m.idx}"]`).forEach(r =>
-    r.onchange = () => { S.ments[m.key] = { v: r.value }; save(); }));
+    r.onchange = () => { S.ments[m.key] = { v: r.value };
+      const note = r.closest(".inline-opts").querySelector(".legacy"); if (note) note.remove(); save(); }));
   $("#note").oninput = e => { P().note = e.target.value; save(); };
   save();
 }
@@ -226,7 +234,7 @@ setInterval(() => {
   const m = Math.floor(S.seconds / 60); $("#time").textContent = Math.floor(m / 60) + ":" + String(m % 60).padStart(2, "0");
 }, 1000);
 
-const COLS = ["dataset", "student", "gid", "pid", "row_type", "mention_idx", "mention_key", "one_person", "wd_choice", "wd_qid", "mention_verdict", "note", "active_minutes", "exported_at"];
+const COLS = ["dataset", "student", "gid", "pid", "row_type", "mention_idx", "mention_key", "one_person", "wd_choice", "wd_qid", "mention_certainty", "note", "active_minutes", "exported_at"];
 $("#exportBtn").onclick = () => {
   if (!S.name.trim()) { alert("Please type your name at the top first."); $("#student").focus(); return; }
   const now = new Date().toISOString(), mins = (S.seconds / 60).toFixed(1), rows = [COLS.join("\t")];
@@ -264,7 +272,11 @@ $("#importFile").onchange = e => {
         const a = {}; if (f[ix("one_person")]) a.one = f[ix("one_person")]; if (f[ix("wd_choice")]) a.wd = f[ix("wd_choice")];
         if (a.wd === "other") a.qid = f[ix("wd_qid")]; if (f[ix("note")]) a.note = f[ix("note")];
         if (Object.keys(a).length) { S.people[gid] = a; n++; }
-      } else if (f[ix("mention_verdict")]) { S.ments[f[ix("mention_key")]] = { v: f[ix("mention_verdict")] }; n++; }
+      } else {
+        const c = ix("mention_certainty") >= 0 ? f[ix("mention_certainty")] : "", old = ix("mention_verdict") >= 0 ? f[ix("mention_verdict")] : "";
+        if (/^[1-5]$/.test(c)) { S.ments[f[ix("mention_key")]] = { v: c }; n++; }
+        else if (old) { S.ments[f[ix("mention_key")]] = { legacy: old }; n++; }   // yes/no file from the first version
+      }
     });
     $("#student").value = S.name; save(); render(); alert(`Loaded ${n} answers.`);
   });

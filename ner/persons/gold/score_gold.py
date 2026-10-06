@@ -13,8 +13,10 @@ authority table is changed; disagreements are written out for discussion before 
    - final "no QID": share where the RA found the person in Wikidata (missed identities);
    - model decisions (LINK / NONE / MIXED / UNSURE) vs the RA;
    - profile purity: RA "one person" vs "mixed", and agreement with the model's MIXED;
-   - sampled records by resolution method: share the RA says are this person (a diagnostic sample, not a
-     random sample of all records).
+   - sampled records by resolution method: the RA's 1-5 certainty that the record is this person
+     (1 certainly not, 2 probably not, 3 can't tell, 4 probably, 5 certainly); reported as the full distribution
+     and as the share rated 4-5 among records rated 4-5 or 1-2 (3 = can't tell, excluded). A diagnostic sample,
+     not a random sample of all records.
    Unanswered and "can't tell" are counted separately and excluded from rates. Rates carry Wilson 95% intervals.
    A population-weighted figure is given only for one stated estimand.
 4. Write results/<dataset>_<student>_<date>.md and ..._disagreements.tsv."""
@@ -49,6 +51,9 @@ def load(path, gold_dir=here):
     bad = {r["dataset"] for r in rows} - {man["dataset"]}
     if bad:
         raise Invalid(f"export is for dataset {sorted(bad)}, gold set is {man['dataset']}")
+    if "mention_certainty" not in rows[0]:
+        raise Invalid("export from the yes/no version of the page: load it into the current page, re-rate the "
+                      "flagged records 1-5, and export again")
     people, ments, seen = {}, {}, set()
     for r in rows:
         g = gp.get(r["gid"])
@@ -61,6 +66,8 @@ def load(path, gold_dir=here):
         if r["row_type"] == "person":
             people[r["gid"]] = r
         elif r["row_type"] == "mention":
+            if r["mention_certainty"] not in ("", "1", "2", "3", "4", "5"):
+                raise Invalid(f"certainty {r['mention_certainty']!r} is not 1-5 for {r['mention_key']}")
             m = gm.get(r["mention_key"])
             if m is None or m["gid"] != r["gid"]:
                 raise Invalid(f"mention {r['mention_key']} does not belong to {r['gid']} in the gold set")
@@ -128,9 +135,15 @@ def score(man, gp, gm, ans):
     # mentions by method
     mm = collections.defaultdict(collections.Counter)
     for k, m in gm.items():
-        v = (ans["ments"].get(k) or {}).get("mention_verdict", "")
+        v = (ans["ments"].get(k) or {}).get("mention_certainty", "")
         mm[m["method"]][v or "unanswered"] += 1
-    out["mentions_by_method"] = {meth: {"verdicts": dict(c), "yes_rate": wilson(c["y"], c["y"] + c["n"])} for meth, c in sorted(mm.items())}
+    out["mentions_by_method"] = {}
+    for meth, c in sorted(mm.items()):
+        hi, lo = c["4"] + c["5"], c["1"] + c["2"]
+        rated = [int(x) for x in "12345" for _ in range(c[x])]
+        out["mentions_by_method"][meth] = {
+            "certainty": {x: c[x] for x in "12345"}, "unanswered": c["unanswered"],
+            "match_rate": wilson(hi, hi + lo), "mean": f"{sum(rated) / len(rated):.2f}" if rated else "—"}
     # one weighted estimand: tranche profiles whose final identity status (QID or none) matches the RA
     pop = man["population_first_pass"]; num = den = 0.0
     for s in pop:
@@ -175,7 +188,10 @@ def main(path):
               "## Profile purity", "", f"- RA answers: `{json.dumps(out['purity'])}`",
               f"- vs model MIXED: `{json.dumps(out['purity_vs_model'])}`", "",
               "## Sampled records by resolution method (diagnostic sample)", ""]
-    lines += [f"- {k}: {v['yes_rate']} — `{json.dumps(v['verdicts'])}`" for k, v in out["mentions_by_method"].items()]
+    lines += ["Certainty 1 certainly not · 2 probably not · 3 can't tell · 4 probably · 5 certainly. Match rate = rated 4–5 "
+              "among those rated 4–5 or 1–2.", ""]
+    lines += [f"- {k}: match {v['match_rate']}; mean {v['mean']}; ratings `{json.dumps(v['certainty'])}`; unanswered {v['unanswered']}"
+              for k, v in out["mentions_by_method"].items()]
     lines += ["", f"## Disagreements ({len(dis)}): see `results/{stem}_disagreements.tsv`", ""]
     (here / "results" / f"{stem}.md").write_text("\n".join(lines) + "\n")
     with open(here / "results" / f"{stem}_disagreements.tsv", "w") as f:
